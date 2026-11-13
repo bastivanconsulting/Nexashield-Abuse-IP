@@ -27,7 +27,7 @@
 | [🇯🇵 Japan](JP_Japan/) | 3 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 6 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 30 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 31 |
 | [🇵🇭 Philippines](PH_Philippines/) | 2 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 4 |
 | [🇵🇱 Poland](PL_Poland/) | 2 |

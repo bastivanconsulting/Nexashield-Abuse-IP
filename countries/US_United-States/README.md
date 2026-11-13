@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 20 | Exploitation attempt (CVE / RCE / injection) (54), Abusive HTTP requests (18), Port scanning (1) |
 | [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 11 | Abusive HTTP requests (472), Port scanning (256) |
-| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 6 | Abusive HTTP requests (222), Port scanning (53), Web injection payload blocked by WAF (26) |
+| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 6 | Abusive HTTP requests (222), Port scanning (67), Web injection payload blocked by WAF (26) |
 | [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 3 | SSH brute force (31), Spamhaus DROP-listed network (14), Port scanning (3) |
 | [AS?](AS-Unknown/) | Unknown | 2 | Abusive HTTP requests (24), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Abusive HTTP requests (263), Web injection payload blocked by WAF (20) |
