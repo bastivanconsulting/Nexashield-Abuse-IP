@@ -472,12 +472,12 @@
   "asn": 208637,
   "asn_org": "4 Vendeta Ltd",
   "categories": {
-   "scan": 29,
+   "scan": 31,
    "ssh": 28
   },
-  "events": 57,
+  "events": 59,
   "first_seen": "2026-11-09T16:18:15Z",
-  "last_seen": "2026-11-13T17:37:18Z",
+  "last_seen": "2026-11-13T21:27:38Z",
   "reported": "2026-11-11T17:05:58Z"
  },
  {
@@ -1391,12 +1391,12 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "spamhaus": 14,
+   "spamhaus": 16,
    "ssh": 138
   },
-  "events": 152,
+  "events": 154,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-13T20:22:10Z",
+  "last_seen": "2026-11-13T21:22:09Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1483,13 +1483,13 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "web": 31,
-   "scan": 28,
-   "spamhaus": 22
+   "web": 33,
+   "scan": 30,
+   "spamhaus": 24
   },
-  "events": 81,
+  "events": 87,
   "first_seen": "2026-11-11T00:18:58Z",
-  "last_seen": "2026-11-13T19:46:56Z",
+  "last_seen": "2026-11-13T21:19:08Z",
   "reported": "2026-11-13T08:25:22Z"
  },
  {
@@ -1968,11 +1968,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 275
+   "spamhaus": 281
   },
-  "events": 275,
+  "events": 281,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-13T20:17:25Z",
+  "last_seen": "2026-11-13T21:17:47Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2252,13 +2252,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 322,
+   "c2": 336,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 326,
+  "events": 340,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-13T20:23:02Z",
+  "last_seen": "2026-11-13T21:30:39Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -3018,11 +3018,11 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 80
+   "scan": 92
   },
-  "events": 80,
+  "events": 92,
   "first_seen": "2026-11-12T19:30:50Z",
-  "last_seen": "2026-11-13T20:25:51Z",
+  "last_seen": "2026-11-13T20:55:47Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {

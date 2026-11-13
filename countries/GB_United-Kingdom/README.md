@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 9 | Abusive HTTP requests (110), Spamhaus DROP-listed network (100), Port scanning (71) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 9 | Abusive HTTP requests (112), Spamhaus DROP-listed network (102), Port scanning (73) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 5 | Exploitation attempt (CVE / RCE / injection) (15), Abusive HTTP requests (6) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (364), Spamhaus DROP-listed network (14) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (364), Spamhaus DROP-listed network (16) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Port scanning (1) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 1 | Abusive HTTP requests (54) |
 
