@@ -202,6 +202,7 @@ object-group network NEXASHIELD-ABUSE
  host 170.64.128.130
  host 170.64.139.120
  host 172.104.233.215
+ host 172.110.223.81
  host 176.65.149.207
  host 178.18.248.162
  host 178.62.205.161

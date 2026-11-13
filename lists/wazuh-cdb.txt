@@ -200,6 +200,7 @@
 170.64.128.130:nexashield
 170.64.139.120:nexashield
 172.104.233.215:nexashield
+172.110.223.81:nexashield
 176.65.149.207:nexashield
 178.18.248.162:nexashield
 178.62.205.161:nexashield

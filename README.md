@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-232-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-233-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-35-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--13-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 232 IP, 35 pays, 93 réseaux, 18115 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 233 IP, 35 pays, 94 réseaux, 18141 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Le dépôt recense 18115 événements répartis sur 232 adresses IP provenant de 35 pays et 93 réseaux ASN, avec une dernière activité observée le 2026-11-13. Les principaux pays représentés sont les États-Unis avec 49 occurrences, les Pays-Bas avec 30, l'Allemagne avec 21, la Belgique et la France avec 20 chacune, ainsi que le Royaume-Uni avec 19.
+Sur la période observée, le dépôt a enregistré 18141 événements provenant de 233 adresses IP réparties sur 35 pays et 94 réseaux ASN, avec une dernière activité datée du 2026-11-13. Les principales origines géographiques incluent les États-Unis avec 49 adresses, les Pays-Bas avec 30, l'Allemagne avec 21, ainsi que la Belgique et la France avec 20 chacune. Les activités détectées comprennent notamment 104 requêtes HTTP abusives, 62 tentatives de force brute SSH et 57 balayages de ports.
 
-- Les principaux réseaux sont AS14061 (DigitalOcean, LLC) avec 49 événements, AS396982 (Google LLC) avec 27 et AS198364 (BANATSYNC SRL) avec 21.
-- Les natures d'événements les plus fréquentes sont les requêtes HTTP abusives (104), la force brute SSH (62), le balayage de ports (57) et l'exploitation (CVE, RCE, injection) (46).
-- On relève également 30 charges d'injection bloquées par le WAF, 26 réseaux listés Spamhaus DROP, 2 infrastructures botnet/C2 connues, 1 force brute SMTP/IMAP et 1 signature d'exploit UDP.
+- Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 49 événements, AS396982 (Google LLC) avec 27 et AS198364 (BANATSYNC SRL) avec 21
+- On relève également 47 cas d'exploitation (CVE, RCE, injection), 30 charges d'injection bloquées par le WAF et 26 réseaux listés Spamhaus DROP
+- Les autres natures incluent 2 infrastructures botnet / C2 connues, 1 force brute SMTP / IMAP et 1 signature d'exploit UDP
 
 <sub>Synthèse générée automatiquement le 2026-11-13 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
@@ -166,7 +166,7 @@ Le dépôt recense 18115 événements répartis sur 232 adresses IP provenant de
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 20 |
 | 🇫🇷 [France](countries/FR_France/) | 20 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
-| 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 7 |
+| 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 6 |
 | 🇰🇷 [South Korea](countries/KR_South-Korea/) | 6 |
 | 🇨🇳 [China](countries/CN_China/) | 5 |
@@ -188,7 +188,7 @@ Le dépôt recense 18115 événements répartis sur 232 adresses IP provenant de
 | Requêtes HTTP abusives | 104 |
 | Force brute SSH | 62 |
 | Balayage de ports | 57 |
-| Exploitation (CVE, RCE, injection) | 46 |
+| Exploitation (CVE, RCE, injection) | 47 |
 | Charge d'injection bloquée par le WAF | 30 |
 | Réseau listé Spamhaus DROP | 26 |
 | Infrastructure botnet / C2 connue | 2 |

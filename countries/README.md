@@ -16,7 +16,7 @@
 | [🇫🇮 Finland](FI_Finland/) | 3 |
 | [🇫🇷 France](FR_France/) | 20 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 19 |
-| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 7 |
+| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 8 |
 | [🇭🇺 Hungary](HU_Hungary/) | 2 |
 | [🇮🇩 Indonesia](ID_Indonesia/) | 1 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
