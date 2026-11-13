@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/IP%20malveillantes-232-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-35-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--13-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
+  <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Étoiles"></a>
   <img src="https://img.shields.io/github/last-commit/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=64748b&label=dernier%20commit" alt="Dernier commit">
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/licence-CC%20BY%204.0-0ea5e9?style=flat&labelColor=080f12" alt="CC BY 4.0"></a>
@@ -45,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 232 IP, 35 pays, 93 réseaux, 18113 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 232 IP, 35 pays, 93 réseaux, 18115 événements">
 </picture>
 
 > [!TIP]
@@ -139,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Sur la période observée, le dépôt recense 18089 événements répartis sur 231 adresses IP issues de 35 pays et 93 réseaux ASN, avec une dernière activité enregistrée le 2026-11-13. Les principales origines géographiques incluent les États-Unis avec 48 adresses, les Pays-Bas avec 30, l'Allemagne avec 21, la Belgique et la France avec 20 chacune. Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 49 adresses, AS396982 (Google LLC) avec 27 et AS198364 (BANATSYNC SRL) avec 21.
+Le dépôt recense 18115 événements répartis sur 232 adresses IP provenant de 35 pays et 93 réseaux ASN, avec une dernière activité observée le 2026-11-13. Les principaux pays représentés sont les États-Unis avec 49 occurrences, les Pays-Bas avec 30, l'Allemagne avec 21, la Belgique et la France avec 20 chacune, ainsi que le Royaume-Uni avec 19.
 
-- Les natures d'événements observées comprennent 104 requêtes HTTP abusives, 62 tentatives de force brute SSH et 56 balayages de ports.
-- On relève également 46 cas d'exploitation (CVE, RCE, injection), 30 charges d'injection bloquées par le WAF et 26 réseaux listés Spamhaus DROP.
-- Parmi les autres signaux figurent 2 infrastructures botnet / C2 connues, 1 force brute SMTP / IMAP et 1 signature d'exploit UDP.
+- Les principaux réseaux sont AS14061 (DigitalOcean, LLC) avec 49 événements, AS396982 (Google LLC) avec 27 et AS198364 (BANATSYNC SRL) avec 21.
+- Les natures d'événements les plus fréquentes sont les requêtes HTTP abusives (104), la force brute SSH (62), le balayage de ports (57) et l'exploitation (CVE, RCE, injection) (46).
+- On relève également 30 charges d'injection bloquées par le WAF, 26 réseaux listés Spamhaus DROP, 2 infrastructures botnet/C2 connues, 1 force brute SMTP/IMAP et 1 signature d'exploit UDP.
 
 <sub>Synthèse générée automatiquement le 2026-11-13 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 

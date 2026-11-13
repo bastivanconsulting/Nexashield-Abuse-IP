@@ -1,0 +1,150 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+    paths: ["tools/**", "dashboard/**", ".github/**"]   # la publication horaire des listes est validée par le manager avant envoi
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"      # chaque jour : les installateurs fonctionnent-ils toujours avec la liste du moment ?
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: Qualité du code
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: ShellCheck (installateur Linux et scripts embarqués)
+        run: |
+          shellcheck -S warning tools/linux/install.sh
+          awk "/^cat > \"\\\$BIN\" <<'EOF'/{f=1;next} /^EOF\$/{if(f){exit}} f" tools/linux/install.sh > /tmp/update.sh
+          shellcheck -S warning -s bash /tmp/update.sh
+      - name: Python (collecteur, validation)
+        run: |
+          awk "/^cat > \"\\\$LIB\/collect.py\" <<'EOF'/{f=1;next} /^EOF\$/{if(f){exit}} f" tools/linux/install.sh > /tmp/collect.py
+          python3 -m py_compile /tmp/collect.py tools/ci/validate_lists.py
+      - name: JavaScript (tableau de bord)
+        run: node --check dashboard/dashboard.js
+      - name: PowerShell (PSScriptAnalyzer)
+        shell: pwsh
+        run: |
+          Install-Module PSScriptAnalyzer -Force -Scope CurrentUser
+          $r = Invoke-ScriptAnalyzer -Path tools/windows -Severity Error
+          $r | Format-Table -AutoSize
+          if ($r) { exit 1 }
+
+  data:
+    name: Intégrité des listes
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Cohérence de tous les formats
+        run: python3 -I tools/ci/validate_lists.py .
+      - name: Règles Suricata acceptées par Suricata
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq suricata >/dev/null
+          sudo suricata -T -c /etc/suricata/suricata.yaml -S lists/suricata.rules -l /tmp
+
+  linux:
+    name: Installation Linux (${{ matrix.engine }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        engine: [nftables, ipset]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Préparer le moteur
+        run: |
+          sudo apt-get update -qq
+          if [ "${{ matrix.engine }}" = nftables ]; then
+            sudo apt-get install -y -qq nftables >/dev/null
+          else
+            sudo apt-get install -y -qq ipset iptables >/dev/null
+            if [ -x /usr/sbin/nft ]; then sudo mv /usr/sbin/nft /usr/sbin/nft.disabled; fi
+          fi
+      - name: Installer
+        run: sudo bash tools/linux/install.sh
+      - name: Le blocage est en place
+        run: |
+          sudo nexashield-blocklist status
+          if [ "${{ matrix.engine }}" = nftables ]; then
+            n=$(sudo nft list set inet nexashield v4 | grep -oE '[0-9.]+ counter' | wc -l)
+          else
+            n=$(sudo ipset list nexashield-v4 | awk '/Number of entries/{print $4}')
+          fi
+          echo "IPv4 bloquées : $n"; [ "$n" -ge 10 ]
+          systemctl list-timers 'nexashield-*' --no-pager
+          systemctl is-active nexashield-blocklist.timer nexashield-collect.timer nexashield-dashboard.service
+      - name: Une IP de la liste est réellement bloquée et comptée
+        run: |
+          ip=$(grep -m1 -E '^[0-9.]+$' lists/plain/all.txt)
+          if curl -s --max-time 4 -o /dev/null "http://$ip/"; then echo "::error::$ip joignable malgré le blocage"; exit 1; fi
+          sudo nexashield-blocklist collect
+          python3 - <<'EOF'
+          import json, sys
+          s = json.load(open("/var/lib/nexashield/www/data/status.json"))
+          print(json.dumps(s["totals"]), s["engine"], s["active"])
+          sys.exit(0 if s["active"] and s["totals"]["packets"] > 0 and s["totals"]["attackers"] >= 1 else 1)
+          EOF
+      - name: Le tableau de bord répond, en local uniquement
+        run: |
+          for i in 1 2 3 4 5; do curl -fsS -o /dev/null http://127.0.0.1:8787/ && break; sleep 2; done
+          curl -fsS http://127.0.0.1:8787/ | grep -q 'NexaShield'
+          curl -fsS http://127.0.0.1:8787/data/status.json | python3 -m json.tool >/dev/null
+          curl -fsS -o /dev/null http://127.0.0.1:8787/data/abuse-ip.json
+          if ss -ltn | grep ':8787' | grep -v '127.0.0.1'; then echo "::error::le tableau de bord écoute hors de 127.0.0.1"; exit 1; fi
+      - name: Désinstaller proprement
+        run: |
+          sudo bash tools/linux/install.sh --uninstall
+          if command -v nft >/dev/null && sudo nft list table inet nexashield 2>/dev/null; then exit 1; fi
+          if systemctl is-active --quiet nexashield-dashboard.service; then exit 1; fi
+          [ ! -e /var/lib/nexashield ]
+
+  windows:
+    name: Installation Windows
+    runs-on: windows-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Installer (Windows PowerShell 5.1)
+        shell: powershell
+        run: powershell -NoProfile -ExecutionPolicy Bypass -File tools\windows\Install-NexaShield.ps1
+      - name: Règles et tâche planifiée en place
+        shell: powershell
+        run: |
+          $ErrorActionPreference = "Stop"
+          foreach ($n in "NexaShield Abuse IP (In)", "NexaShield Abuse IP (Out)") {
+            $r = Get-NetFirewallRule -DisplayName $n
+            $f = $r | Get-NetFirewallAddressFilter
+            Write-Output "$n : $($r.Action) $($r.Direction), $($f.RemoteAddress.Count) adresses"
+            if ($r.Action -ne "Block" -or $f.RemoteAddress.Count -lt 10) { throw "règle $n incorrecte" }
+          }
+          $t = Get-ScheduledTask -TaskName "NexaShield Abuse IP"
+          Write-Output "Tâche : $($t.State), $($t.Triggers.Count) déclencheur(s)"
+          if ($t.Principal.UserId -ne "SYSTEM") { throw "la tâche doit tourner en SYSTEM" }
+      - name: Désinstaller proprement
+        shell: powershell
+        run: |
+          powershell -NoProfile -ExecutionPolicy Bypass -File tools\windows\Install-NexaShield.ps1 -Uninstall
+          if (Get-NetFirewallRule -DisplayName "NexaShield Abuse IP (*)" -ErrorAction SilentlyContinue) { throw "règles restantes" }
+          if (Get-ScheduledTask -TaskName "NexaShield Abuse IP" -ErrorAction SilentlyContinue) { throw "tâche restante" }

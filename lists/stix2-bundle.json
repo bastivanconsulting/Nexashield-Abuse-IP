@@ -1978,7 +1978,7 @@
    "id": "indicator--f89ad5aa-ac8e-5ae2-8d2c-da018fbc4230",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T19:42:11.000Z",
-   "modified": "2026-11-13T19:42:11.000Z",
+   "modified": "2026-11-13T19:55:06.000Z",
    "name": "NexaShield abuse IP 52.20.198.190",
    "indicator_types": [
     "malicious-activity"
@@ -1986,7 +1986,7 @@
    "pattern": "[ipv4-addr:value = '52.20.198.190']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T19:42:11.000Z",
-   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (2)",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (4)",
    "labels": [
     "scan"
    ],
