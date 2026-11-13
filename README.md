@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 234 IP, 35 pays, 94 réseaux, 18245 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 234 IP, 35 pays, 94 réseaux, 18311 événements">
 </picture>
 
 > [!TIP]

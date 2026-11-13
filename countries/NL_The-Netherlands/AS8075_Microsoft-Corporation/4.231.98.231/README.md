@@ -7,10 +7,10 @@
 | IP | `4.231.98.231` |
 | Country | The Netherlands (NL) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Abusive HTTP requests (10) |
-| Events | 10 |
+| Activity | Abusive HTTP requests (12) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-13T13:57:40Z |
-| Last seen (UTC) | 2026-11-13T21:23:32Z |
+| Last seen (UTC) | 2026-11-13T22:41:40Z |
 | Reported to network owner (UTC) | 2026-11-13T22:23:51Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

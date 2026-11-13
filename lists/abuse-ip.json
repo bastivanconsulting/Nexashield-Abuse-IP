@@ -1363,11 +1363,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 183
+   "ssh": 193
   },
-  "events": 183,
+  "events": 193,
   "first_seen": "2026-11-09T17:20:00Z",
-  "last_seen": "2026-11-13T21:48:00Z",
+  "last_seen": "2026-11-13T23:06:24Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1377,11 +1377,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 53
+   "ssh": 67
   },
-  "events": 53,
+  "events": 67,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-10T20:45:34Z",
+  "last_seen": "2026-11-13T22:45:57Z",
   "reported": "2026-11-11T16:35:03Z"
  },
  {
@@ -1391,12 +1391,12 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "spamhaus": 16,
+   "spamhaus": 22,
    "ssh": 138
   },
-  "events": 154,
+  "events": 160,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-13T21:22:09Z",
+  "last_seen": "2026-11-13T23:33:28Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1499,12 +1499,12 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "spamhaus": 10,
-   "web": 10
+   "spamhaus": 12,
+   "web": 12
   },
-  "events": 20,
+  "events": 24,
   "first_seen": "2026-11-13T03:35:39Z",
-  "last_seen": "2026-11-13T18:21:03Z",
+  "last_seen": "2026-11-13T22:42:16Z",
   "reported": "2026-11-13T14:24:03Z"
  },
  {
@@ -1616,12 +1616,12 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-   "spamhaus": 27,
+   "spamhaus": 29,
    "web": 75
   },
-  "events": 102,
+  "events": 104,
   "first_seen": "2026-11-11T15:36:19Z",
-  "last_seen": "2026-11-13T20:10:30Z",
+  "last_seen": "2026-11-13T22:53:07Z",
   "reported": "2026-11-12T04:23:53Z"
  },
  {
@@ -1968,11 +1968,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 289
+   "spamhaus": 297
   },
-  "events": 289,
+  "events": 297,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-13T22:31:22Z",
+  "last_seen": "2026-11-13T23:29:33Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -1997,11 +1997,11 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "web": 10
+   "web": 12
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-13T13:57:40Z",
-  "last_seen": "2026-11-13T21:23:32Z",
+  "last_seen": "2026-11-13T22:41:40Z",
   "reported": "2026-11-13T22:23:51Z"
  },
  {
@@ -2251,12 +2251,12 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 13,
+   "spamhaus": 15,
    "web": 11
   },
-  "events": 24,
+  "events": 26,
   "first_seen": "2026-11-09T20:24:33Z",
-  "last_seen": "2026-11-13T22:14:54Z",
+  "last_seen": "2026-11-13T23:00:15Z",
   "reported": "2026-11-11T17:07:35Z"
  },
  {
@@ -2266,13 +2266,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 338,
+   "c2": 354,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 342,
+  "events": 358,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-13T22:19:12Z",
+  "last_seen": "2026-11-13T23:25:45Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2401,11 +2401,11 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-   "spamhaus": 134
+   "spamhaus": 136
   },
-  "events": 134,
+  "events": 136,
   "first_seen": "2026-11-11T10:46:14Z",
-  "last_seen": "2026-11-13T22:06:36Z",
+  "last_seen": "2026-11-13T22:37:06Z",
   "reported": "2026-11-11T16:35:21Z"
  },
  {
