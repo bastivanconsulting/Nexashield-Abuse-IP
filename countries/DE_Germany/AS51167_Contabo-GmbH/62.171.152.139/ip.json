@@ -1,0 +1,15 @@
+{
+  "ip": "62.171.152.139",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 51167,
+  "asn_org": "Contabo GmbH",
+  "categories": {
+    "web": 3,
+    "waf": 8
+  },
+  "events": 11,
+  "first_seen": "2026-11-10T06:46:43Z",
+  "last_seen": "2026-11-10T06:46:43Z",
+  "reported": "2026-11-11T17:06:58Z"
+}

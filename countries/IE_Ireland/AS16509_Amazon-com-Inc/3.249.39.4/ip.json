@@ -1,0 +1,15 @@
+{
+  "ip": "3.249.39.4",
+  "country_code": "IE",
+  "country": "Ireland",
+  "asn": 16509,
+  "asn_org": "Amazon.com, Inc.",
+  "categories": {
+    "web": 6,
+    "waf": 16
+  },
+  "events": 22,
+  "first_seen": "2026-11-12T11:04:05Z",
+  "last_seen": "2026-11-12T11:04:05Z",
+  "reported": "2026-11-12T12:23:37Z"
+}

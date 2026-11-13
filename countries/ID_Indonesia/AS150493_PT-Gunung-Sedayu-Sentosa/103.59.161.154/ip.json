@@ -1,0 +1,14 @@
+{
+  "ip": "103.59.161.154",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 150493,
+  "asn_org": "PT Gunung Sedayu Sentosa",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-11T09:20:13Z",
+  "last_seen": "2026-11-11T09:20:13Z",
+  "reported": "2026-11-11T22:20:34Z"
+}

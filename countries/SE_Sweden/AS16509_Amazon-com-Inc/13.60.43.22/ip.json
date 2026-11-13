@@ -1,0 +1,15 @@
+{
+  "ip": "13.60.43.22",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 16509,
+  "asn_org": "Amazon.com, Inc.",
+  "categories": {
+    "waf": 26,
+    "web": 117
+  },
+  "events": 143,
+  "first_seen": "2026-11-12T17:09:00Z",
+  "last_seen": "2026-11-12T17:09:10Z",
+  "reported": "2026-11-12T18:28:18Z"
+}

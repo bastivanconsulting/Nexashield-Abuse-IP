@@ -1,0 +1,15 @@
+{
+  "ip": "119.28.155.249",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 132203,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "waf": 52,
+    "web": 228
+  },
+  "events": 280,
+  "first_seen": "2026-11-13T01:00:20Z",
+  "last_seen": "2026-11-13T01:01:36Z",
+  "reported": "2026-11-13T02:31:27Z"
+}

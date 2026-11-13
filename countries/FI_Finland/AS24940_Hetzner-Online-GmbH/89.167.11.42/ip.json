@@ -1,0 +1,14 @@
+{
+  "ip": "89.167.11.42",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 24940,
+  "asn_org": "Hetzner Online GmbH",
+  "categories": {
+    "web": 48
+  },
+  "events": 48,
+  "first_seen": "2026-11-13T08:30:53Z",
+  "last_seen": "2026-11-13T08:30:56Z",
+  "reported": "2026-11-13T10:24:39Z"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "124.29.224.7",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 9541,
+  "asn_org": "Cyber Internet Services (Private) Limited",
+  "categories": {
+    "exploit": 2,
+    "scan": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-12T16:54:01Z",
+  "last_seen": "2026-11-12T16:54:01Z",
+  "reported": "2026-11-12T18:28:23Z"
+}

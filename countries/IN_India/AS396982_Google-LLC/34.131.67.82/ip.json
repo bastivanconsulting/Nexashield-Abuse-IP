@@ -1,0 +1,15 @@
+{
+  "ip": "34.131.67.82",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 26,
+    "web": 514
+  },
+  "events": 540,
+  "first_seen": "2026-11-12T12:06:43Z",
+  "last_seen": "2026-11-12T12:42:58Z",
+  "reported": "2026-11-12T14:24:01Z"
+}

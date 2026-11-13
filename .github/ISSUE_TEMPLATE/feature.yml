@@ -1,0 +1,11 @@
+name: ✨ Suggestion / Feature request
+description: Nouveau format, nouvel équipement, amélioration / New format, device or improvement
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Votre idée / Your idea
+      description: Quel besoin, pour quel équipement ou usage ? / What need, for which device or use case?
+    validations:
+      required: true

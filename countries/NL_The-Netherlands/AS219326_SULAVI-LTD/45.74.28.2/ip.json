@@ -1,0 +1,14 @@
+{
+  "ip": "45.74.28.2",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 219326,
+  "asn_org": "SULAVI LTD",
+  "categories": {
+    "spamhaus": 126
+  },
+  "events": 126,
+  "first_seen": "2026-11-11T10:46:14Z",
+  "last_seen": "2026-11-13T18:57:03Z",
+  "reported": "2026-11-11T16:35:21Z"
+}

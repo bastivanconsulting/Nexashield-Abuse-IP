@@ -1,0 +1,15 @@
+{
+  "ip": "78.153.140.156",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 202306,
+  "asn_org": "HOSTGLOBAL.PLUS LTD",
+  "categories": {
+    "spamhaus": 10,
+    "web": 10
+  },
+  "events": 20,
+  "first_seen": "2026-11-13T03:35:39Z",
+  "last_seen": "2026-11-13T18:21:03Z",
+  "reported": "2026-11-13T14:24:03Z"
+}

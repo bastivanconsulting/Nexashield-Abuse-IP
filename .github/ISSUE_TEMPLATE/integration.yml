@@ -1,0 +1,18 @@
+name: 🔌 Aide à l'intégration / Integration help
+description: Une question ou un souci pour utiliser la liste sur un équipement / A question about using the list on a device
+labels: ["integration"]
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Équipement et version / Device and version
+      placeholder: FortiGate 7.4, pfSense 2.7, MikroTik 7.15, Windows Server 2022, Debian 12…
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Que se passe-t-il ? / What happens?
+      description: Commandes lancées et message d'erreur (masquez vos adresses et noms internes). / Commands run and error message (redact internal addresses and names).
+    validations:
+      required: true

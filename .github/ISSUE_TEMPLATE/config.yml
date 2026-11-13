@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Vulnérabilité / Security vulnerability
+    url: https://github.com/bastivanconsulting/Nexashield-Abuse-IP/blob/main/SECURITY.md
+    about: Ne publiez pas une faille en public / Please report privately (security@bastivan.com)
+  - name: 🛡️ Protéger mon infrastructure avec NexaShield / Get NexaShield
+    url: https://www.bastivan.consulting/contact
+    about: EDR · XDR · NDR · MDR opéré par Bastivan Consulting

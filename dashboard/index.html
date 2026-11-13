@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="fr" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NexaShield Abuse IP · Tableau de bord</title>
+<meta name="description" content="Les adresses IP qui attaquent réellement les infrastructures protégées par NexaShield : carte, statistiques, recherche et listes de blocage prêtes à l'emploi.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://raw.githubusercontent.com; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-60 -66 120 146'%3E%3Cpath d='M0,-62 L54,-42 V4 C54,40 28,63 0,76 C-28,63 -54,40 -54,4 V-42 Z' fill='%232563eb'/%3E%3Cpath d='M-24,-22 V30 M-24,-22 L24,30 M24,-22 V30' fill='none' stroke='white' stroke-width='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="vendor/jsvectormap-1.7.0.min.css">
+<link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP">
+      <svg viewBox="-60 -66 120 146" aria-hidden="true"><path d="M0,-62 L54,-42 V4 C54,40 28,63 0,76 C-28,63 -54,40 -54,4 V-42 Z" fill="#2563eb"/><path d="M-24,-22 V30 M-24,-22 L24,30 M24,-22 V30" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span>NexaShield <b>Abuse IP</b></span>
+    </a>
+    <span class="live"><i></i><span data-i18n="live">Données en direct</span> · <span id="updated">…</span></span>
+    <nav class="actions">
+      <button id="lang" type="button" aria-label="Language">EN</button>
+      <button id="theme" type="button" aria-label="Thème">◐</button>
+      <a class="btn-cta" href="mailto:contact@bastivan.com?subject=NexaShield" data-i18n="cta_short">Protéger mon SI</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <p class="kicker" data-i18n="kicker">THREAT INTELLIGENCE · OPEN DATA</p>
+    <h1 data-i18n="title">Nous l'avons construit pour nous protéger. Nous le partageons pour vous protéger.</h1>
+    <p class="lead" data-i18n="lead">Chaque adresse a réellement attaqué un serveur que nous protégeons. Détectée, prouvée, signalée à son hébergeur, puis publiée ici en libre accès.</p>
+    <form class="check" id="check" autocomplete="off">
+      <input id="q" type="search" inputmode="text" maxlength="64" data-i18n-ph="check_ph" placeholder="Une IP est-elle listée ? ex. 203.0.113.10" aria-label="IP">
+      <button type="submit" data-i18n="check_btn">Vérifier</button>
+    </form>
+    <p id="checkres" class="checkres" role="status" aria-live="polite"></p>
+  </section>
+
+  <section class="kpis" id="kpis">
+    <article class="kpi red"><b id="k-ips">–</b><span data-i18n="k_ips">IP malveillantes</span></article>
+    <article class="kpi blue"><b id="k-cc">–</b><span data-i18n="k_cc">pays</span></article>
+    <article class="kpi violet"><b id="k-asn">–</b><span data-i18n="k_asn">réseaux (ASN)</span></article>
+    <article class="kpi amber"><b id="k-ev">–</b><span data-i18n="k_ev">événements d'attaque</span></article>
+    <article class="kpi green"><b id="k-last">–</b><span data-i18n="k_last">dernière attaque (UTC)</span></article>
+  </section>
+
+  <section class="grid g-map">
+    <article class="card map-card">
+      <header><h2 data-i18n="map">Origine des attaques</h2><span class="hint" data-i18n="map_hint">Survolez un pays</span></header>
+      <div id="map" class="map"></div>
+    </article>
+    <article class="card">
+      <header><h2 data-i18n="types">Nature des attaques</h2></header>
+      <div class="chart-box"><canvas id="c-types"></canvas></div>
+    </article>
+  </section>
+
+  <section class="grid g-2">
+    <article class="card">
+      <header><h2 data-i18n="timeline">Nouvelles IP détectées par jour</h2></header>
+      <div class="chart-box"><canvas id="c-time"></canvas></div>
+    </article>
+    <article class="card">
+      <header><h2 data-i18n="top_asn">Top réseaux (ASN)</h2></header>
+      <div class="chart-box"><canvas id="c-asn"></canvas></div>
+    </article>
+  </section>
+
+  <section class="card ai" id="ai" hidden>
+    <header><h2>🤖 <span data-i18n="ai">Analyse de la menace par l'IA NexaShield</span></h2><span class="hint" id="ai-meta"></span></header>
+    <div id="ai-text" class="ai-text"></div>
+  </section>
+
+  <section class="card">
+    <header class="table-head">
+      <h2 data-i18n="explore">Explorer les adresses</h2>
+      <div class="filters">
+        <input id="f-text" type="search" maxlength="64" data-i18n-ph="filter_ph" placeholder="Filtrer : IP, pays, opérateur…" aria-label="Filtre">
+        <select id="f-cc" aria-label="Pays"></select>
+        <select id="f-cat" aria-label="Nature"></select>
+      </div>
+    </header>
+    <div class="table-wrap">
+      <table id="tbl">
+        <thead><tr>
+          <th data-k="ip" data-i18n="col_ip">IP</th>
+          <th data-k="country" data-i18n="col_cc">Pays</th>
+          <th data-k="asn_org" data-i18n="col_asn">Réseau</th>
+          <th data-k="cats" data-i18n="col_cat">Nature</th>
+          <th data-k="events" class="num" data-i18n="col_ev">Événements</th>
+          <th data-k="last_seen" data-i18n="col_last">Dernière activité</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <footer class="pager"><span id="count"></span><span><button id="prev" type="button">‹</button> <span id="page"></span> <button id="next" type="button">›</button></span></footer>
+  </section>
+
+  <section class="card" id="use">
+    <header><h2 data-i18n="use">Bloquer ces IP en 30 secondes</h2><span class="hint" data-i18n="use_hint">Mise à jour automatique toutes les heures</span></header>
+    <div class="tabs" role="tablist"></div>
+    <pre class="code"><code id="snippet"></code><button id="copy" type="button" data-i18n="copy">Copier</button></pre>
+    <p class="more"><a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/blob/main/docs/INTEGRATION.md" data-i18n="guide_fw">Guide pare-feu →</a> <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/blob/main/docs/SOFTWARE.md" data-i18n="guide_sw">Guide logiciels (SIEM, CTI, Kubernetes) →</a></p>
+  </section>
+
+  <section class="cta">
+    <div>
+      <h2 data-i18n="cta_title">Cette liste n'est que la partie visible.</h2>
+      <p data-i18n="cta_text">NexaShield détecte et bloque ces attaques sur vos postes, serveurs, conteneurs et votre réseau, corrèle tout le déroulé d'une attaque et répond en quelques secondes. Un SOC français s'occupe du reste.</p>
+      <ul class="pills"><li>EDR</li><li>XDR</li><li>NDR</li><li>MDR</li><li>NIS2 · DORA</li><li>🇫🇷</li></ul>
+    </div>
+    <a class="btn-cta big" href="mailto:contact@bastivan.com?subject=NexaShield" data-i18n="cta_btn">Protéger mon infrastructure</a>
+  </section>
+</main>
+
+<footer class="foot wrap">
+  <p><span data-i18n="foot">Données publiées sous</span> <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · IP geolocation by <a href="https://db-ip.com">DB-IP</a> · <a href="https://stat.ripe.net">RIPEstat</a> · <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP" data-i18n="repo">Dépôt GitHub</a></p>
+  <p>© <span id="year"></span> <a href="https://bastivan.com">Bastivan Consulting SAS</a> · <span data-i18n="tag">Détecter. Corréler. Répondre.</span></p>
+</footer>
+
+<script src="vendor/chart-4.6.1.umd.min.js"></script>
+<script src="vendor/jsvectormap-1.7.0.min.js"></script>
+<script src="vendor/jsvectormap-1.7.0-world.js"></script>
+<script src="dashboard.js"></script>
+</body>
+</html>

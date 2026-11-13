@@ -1,0 +1,14 @@
+{
+  "ip": "188.166.152.252",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "exploit": 3
+  },
+  "events": 3,
+  "first_seen": "2026-11-12T06:34:08Z",
+  "last_seen": "2026-11-12T06:34:08Z",
+  "reported": "2026-11-12T08:24:30Z"
+}

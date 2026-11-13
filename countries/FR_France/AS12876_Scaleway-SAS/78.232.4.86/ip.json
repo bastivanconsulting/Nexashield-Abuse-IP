@@ -1,0 +1,15 @@
+{
+  "ip": "78.232.4.86",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 12876,
+  "asn_org": "Scaleway SAS",
+  "categories": {
+    "web": 3,
+    "waf": 8
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T06:42:55Z",
+  "last_seen": "2026-11-12T06:42:55Z",
+  "reported": "2026-11-12T08:24:25Z"
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "142.93.143.8",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "web": 6
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T14:20:03Z",
+  "last_seen": "2026-11-11T14:20:31Z",
+  "reported": "2026-11-11T17:05:30Z"
+}

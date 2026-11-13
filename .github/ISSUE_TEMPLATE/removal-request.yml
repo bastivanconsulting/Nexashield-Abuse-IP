@@ -1,0 +1,35 @@
+name: 🗑️ Demande de retrait d'IP / IP removal request
+description: Une adresse est listée à tort, ou le problème est corrigé / An address is wrongly listed or has been cleaned up
+title: "[Retrait] "
+labels: ["removal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! Chaque demande est examinée par le SOC NexaShield. Vous préférez ne pas publier votre demande ? Écrivez à contact@bastivan.com.
+        Thank you! Every request is reviewed by the NexaShield SOC. Prefer privacy? Email contact@bastivan.com.
+  - type: input
+    id: ip
+    attributes:
+      label: Adresse IP / IP address
+      placeholder: 203.0.113.10
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Vous êtes / You are
+      options:
+        - Propriétaire ou exploitant de l'adresse / Owner or operator
+        - Hébergeur ou FAI (contact abuse) / Hosting provider or ISP
+        - Utilisateur impacté par un blocage / Affected user
+        - Autre / Other
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Explication / Explanation
+      description: Machine nettoyée, adresse réattribuée, service légitime… N'incluez aucun secret ni donnée personnelle. / Cleaned host, reassigned address, legitimate service… No secrets or personal data.
+    validations:
+      required: true

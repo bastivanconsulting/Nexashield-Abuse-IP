@@ -1,0 +1,14 @@
+{
+  "ip": "2400:8d60:8::96b0:ddfd",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 149440,
+  "asn_org": "Evoxt Sdn. Bhd.",
+  "categories": {
+    "web": 6
+  },
+  "events": 6,
+  "first_seen": "2026-11-12T04:20:43Z",
+  "last_seen": "2026-11-12T08:09:33Z",
+  "reported": "2026-11-12T10:23:58Z"
+}

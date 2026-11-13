@@ -1,0 +1,6145 @@
+{
+ "type": "bundle",
+ "id": "bundle--e0cdbf5b-6109-5bf2-bb5e-12fc0ac011f2",
+ "objects": [
+  {
+   "type": "identity",
+   "spec_version": "2.1",
+   "id": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T00:00:00.000Z",
+   "modified": "2026-11-13T00:00:00.000Z",
+   "name": "NexaShield (Bastivan Consulting)",
+   "identity_class": "organization",
+   "contact_information": "contact@bastivan.com"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8a72ad83-c080-5c0b-9b9a-0c79d6bbdfe3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T12:24:25.000Z",
+   "modified": "2026-11-11T12:24:59.000Z",
+   "name": "NexaShield abuse IP 2.27.32.182",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '2.27.32.182']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T12:24:25.000Z",
+   "description": "Finland - AS215590 DpkgSoft International Limited - SSH brute force (9), Port scanning (1)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--82222af5-274c-58fe-b462-a86bdeb34b94",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T23:53:16.000Z",
+   "modified": "2026-11-09T23:53:16.000Z",
+   "name": "NexaShield abuse IP 2.31.192.136",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '2.31.192.136']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T23:53:16.000Z",
+   "description": "Finland - AS24940 Hetzner Online GmbH - Web injection payload blocked by WAF (16), Abusive HTTP requests (6)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d564fb6f-c75d-58ed-b3dd-720925dd979a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T17:20:00.000Z",
+   "modified": "2026-11-11T23:08:50.000Z",
+   "name": "NexaShield abuse IP 2.57.121.25",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '2.57.121.25']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T17:20:00.000Z",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (173)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2d7cec94-e9f6-5c1c-b74e-65032ea83d2c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T16:45:47.000Z",
+   "modified": "2026-11-10T20:45:34.000Z",
+   "name": "NexaShield abuse IP 2.57.121.112",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '2.57.121.112']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T16:45:47.000Z",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (53)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--933ac9f2-9626-5c37-b757-63b36983fae0",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:22:20.000Z",
+   "modified": "2026-11-13T16:45:57.000Z",
+   "name": "NexaShield abuse IP 3.83.245.221",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '3.83.245.221']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:22:20.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (93)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--07a39235-a196-532b-9c81-2c1f3b3e03da",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T20:06:45.000Z",
+   "modified": "2026-11-12T20:24:06.000Z",
+   "name": "NexaShield abuse IP 3.131.24.55",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '3.131.24.55']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T20:06:45.000Z",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (8)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--49cd604b-63f4-582f-afab-50687ed5e53a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T14:24:47.000Z",
+   "modified": "2026-11-13T02:15:10.000Z",
+   "name": "NexaShield abuse IP 3.147.122.184",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '3.147.122.184']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T14:24:47.000Z",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (27)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--cab9a5c4-3fdb-5fdc-b9e4-1703b2820b77",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T11:04:05.000Z",
+   "modified": "2026-11-12T11:04:05.000Z",
+   "name": "NexaShield abuse IP 3.249.39.4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '3.249.39.4']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T11:04:05.000Z",
+   "description": "Ireland - AS16509 Amazon.com, Inc. - Web injection payload blocked by WAF (16), Abusive HTTP requests (6)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c303cfe4-b852-592f-91ed-41517f086d69",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T13:57:33.000Z",
+   "modified": "2026-11-12T14:03:00.000Z",
+   "name": "NexaShield abuse IP 4.180.183.247",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '4.180.183.247']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T13:57:33.000Z",
+   "description": "The Netherlands - AS8075 Microsoft Corporation - SSH brute force (9), Port scanning (2)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ddfb5048-39be-5311-b991-2a7490efa6f3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T11:09:14.000Z",
+   "modified": "2026-11-12T11:11:18.000Z",
+   "name": "NexaShield abuse IP 8.141.125.122",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '8.141.125.122']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T11:09:14.000Z",
+   "description": "China - AS37963 Hangzhou Alibaba Advertising Co.,Ltd. - SSH brute force (7), Port scanning (2)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--247af57f-e548-5fd1-b1b1-c0a04a06ef8f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T00:31:20.000Z",
+   "modified": "2026-11-12T00:37:22.000Z",
+   "name": "NexaShield abuse IP 8.220.180.66",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '8.220.180.66']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T00:31:20.000Z",
+   "description": "Philippines - AS45102 Alibaba (US) Technology Co., Ltd. - SSH brute force (5), Port scanning (4)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c4b7c60e-9964-53d4-b3fd-4748305fa49b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T17:09:00.000Z",
+   "modified": "2026-11-12T17:09:10.000Z",
+   "name": "NexaShield abuse IP 13.60.43.22",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '13.60.43.22']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T17:09:00.000Z",
+   "description": "Sweden - AS16509 Amazon.com, Inc. - Abusive HTTP requests (117), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--01874c1f-7979-5ec5-a76d-ddb4665ed77b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T02:03:27.000Z",
+   "modified": "2026-11-12T02:15:21.000Z",
+   "name": "NexaShield abuse IP 18.119.209.50",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '18.119.209.50']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T02:03:27.000Z",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (9)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6b8fda1c-ac05-536e-ab89-8aff2187386a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:32:28.000Z",
+   "modified": "2026-11-12T16:32:54.000Z",
+   "name": "NexaShield abuse IP 18.189.6.159",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '18.189.6.159']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:32:28.000Z",
+   "description": "United States - AS16509 Amazon.com, Inc. - Abusive HTTP requests (157), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2138f318-890e-5576-bb11-4727a2c30eec",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:17:25.000Z",
+   "modified": "2026-11-11T20:30:16.000Z",
+   "name": "NexaShield abuse IP 18.190.15.50",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '18.190.15.50']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:17:25.000Z",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (9)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bec0364b-599a-5238-b341-d769d663f069",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T22:14:23.000Z",
+   "modified": "2026-11-10T04:11:57.000Z",
+   "name": "NexaShield abuse IP 20.46.43.126",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '20.46.43.126']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T22:14:23.000Z",
+   "description": "United Arab Emirates - AS8075 Microsoft Corporation - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4fe5367f-4a66-5f8e-b25d-fa5a9d63b216",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T05:31:42.000Z",
+   "modified": "2026-11-11T18:41:20.000Z",
+   "name": "NexaShield abuse IP 20.105.65.67",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '20.105.65.67']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T05:31:42.000Z",
+   "description": "Ireland - AS8075 Microsoft Corporation - SSH brute force (11), Port scanning (2)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e891372f-897c-5df7-a5f9-5a7a259d2dd5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T20:20:17.000Z",
+   "modified": "2026-11-09T21:17:11.000Z",
+   "name": "NexaShield abuse IP 20.217.186.29",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '20.217.186.29']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T20:20:17.000Z",
+   "description": "Israel - AS8075 Microsoft Corporation - Abusive HTTP requests (5)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--cb8d9657-7126-5b42-95b7-b913dbf00f4b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T14:10:56.000Z",
+   "modified": "2026-11-12T14:53:58.000Z",
+   "name": "NexaShield abuse IP 20.233.250.77",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '20.233.250.77']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T14:10:56.000Z",
+   "description": "United Arab Emirates - AS8075 Microsoft Corporation - Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2)",
+   "labels": [
+    "exploit",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--101b33b5-f75b-5ccb-84b2-2c1ff4ee78a8",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:03:27.000Z",
+   "modified": "2026-11-12T17:15:03.000Z",
+   "name": "NexaShield abuse IP 27.102.116.43",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '27.102.116.43']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:03:27.000Z",
+   "description": "South Korea - AS45996 DAOU TECHNOLOGY - SSH brute force (68)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d95b5a07-a2f5-554f-a06c-da87d9601c26",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T15:58:19.000Z",
+   "modified": "2026-11-13T15:59:25.000Z",
+   "name": "NexaShield abuse IP 31.57.34.150",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '31.57.34.150']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T15:58:19.000Z",
+   "description": "The Netherlands - AS207994 Blockchain Creek B.V. - Web injection payload blocked by WAF (64), Exploitation attempt (CVE / RCE / injection) (24)",
+   "labels": [
+    "exploit",
+    "waf"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b7e7fd2c-51c0-5def-af7d-11bbe7f666c2",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T00:47:53.000Z",
+   "modified": "2026-11-12T03:35:24.000Z",
+   "name": "NexaShield abuse IP 32.195.61.205",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '32.195.61.205']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T00:47:53.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Abusive HTTP requests (66)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a58591da-36c6-5796-b612-3aeaebf3dd7f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T01:17:36.000Z",
+   "modified": "2026-11-13T01:17:50.000Z",
+   "name": "NexaShield abuse IP 34.7.135.227",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.7.135.227']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T01:17:36.000Z",
+   "description": "The Netherlands - AS396982 Google LLC - Abusive HTTP requests (392), Web injection payload blocked by WAF (44)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--931ba3ce-4199-5bd0-9b51-85f5f678df12",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T09:25:25.000Z",
+   "modified": "2026-11-10T09:25:28.000Z",
+   "name": "NexaShield abuse IP 34.38.141.52",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.38.141.52']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T09:25:25.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (84)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7b932bc8-4c70-5dac-8e16-379bc62309a0",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T11:01:00.000Z",
+   "modified": "2026-11-13T09:03:19.000Z",
+   "name": "NexaShield abuse IP 34.38.252.135",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.38.252.135']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T11:01:00.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (674)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6714e072-754f-59f9-867d-37bf93dd9bdf",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T05:02:09.000Z",
+   "modified": "2026-11-11T05:03:06.000Z",
+   "name": "NexaShield abuse IP 34.47.41.198",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.47.41.198']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T05:02:09.000Z",
+   "description": "Canada - AS396982 Google LLC - Abusive HTTP requests (258), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--444e110b-7855-5ea3-b15c-da615b8e4849",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:45:48.000Z",
+   "modified": "2026-11-11T20:45:51.000Z",
+   "name": "NexaShield abuse IP 34.62.82.207",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.62.82.207']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:45:48.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (79)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bbb22b06-b53c-5039-aa36-4921fa7f34eb",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T09:16:51.000Z",
+   "modified": "2026-11-13T09:16:57.000Z",
+   "name": "NexaShield abuse IP 34.62.122.185",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.62.122.185']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T09:16:51.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (254)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3f6a4c34-bebb-58ba-b9b9-83ee6816792b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T10:21:39.000Z",
+   "modified": "2026-11-12T10:21:42.000Z",
+   "name": "NexaShield abuse IP 34.76.27.30",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.76.27.30']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T10:21:39.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (71)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--1afe6ce6-d193-5f19-b442-8c7eb44244dd",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T23:26:57.000Z",
+   "modified": "2026-11-12T23:27:00.000Z",
+   "name": "NexaShield abuse IP 34.76.33.44",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.76.33.44']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T23:26:57.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (64)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--11cd2032-5a89-5ccc-82a8-4848e084bdd5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T11:00:16.000Z",
+   "modified": "2026-11-13T05:22:08.000Z",
+   "name": "NexaShield abuse IP 34.76.228.132",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.76.228.132']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T11:00:16.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (521)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b56aeec9-fd54-57d0-a84a-85b9aced723f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:31:04.000Z",
+   "modified": "2026-11-13T11:18:55.000Z",
+   "name": "NexaShield abuse IP 34.77.153.177",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.77.153.177']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:31:04.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (322)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bd594dad-e3fc-5aa3-b57d-4a6be90ff15f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T02:20:23.000Z",
+   "modified": "2026-11-11T02:21:35.000Z",
+   "name": "NexaShield abuse IP 34.84.48.180",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.84.48.180']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T02:20:23.000Z",
+   "description": "Japan - AS396982 Google LLC - Abusive HTTP requests (258), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--32f6f28a-13c6-5788-9813-8c60923d207b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T01:12:58.000Z",
+   "modified": "2026-11-11T01:14:48.000Z",
+   "name": "NexaShield abuse IP 34.97.184.237",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.97.184.237']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T01:12:58.000Z",
+   "description": "Japan - AS396982 Google LLC - Abusive HTTP requests (258), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3c35149b-6dc0-52fd-9fae-ce991d0623d6",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T16:22:50.000Z",
+   "modified": "2026-11-11T22:23:23.000Z",
+   "name": "NexaShield abuse IP 34.107.15.145",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.107.15.145']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T16:22:50.000Z",
+   "description": "Germany - AS396982 Google LLC - Abusive HTTP requests (266), Web injection payload blocked by WAF (37)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d895e4e8-02d1-5fa5-85ad-f35317c6a4cc",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T03:18:40.000Z",
+   "modified": "2026-11-11T03:35:57.000Z",
+   "name": "NexaShield abuse IP 34.125.179.242",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.125.179.242']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T03:18:40.000Z",
+   "description": "United States - AS396982 Google LLC - Abusive HTTP requests (1028), Web injection payload blocked by WAF (40)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b502d08b-07e5-5b6f-b4f3-5e0526a85b61",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T12:06:43.000Z",
+   "modified": "2026-11-12T12:42:58.000Z",
+   "name": "NexaShield abuse IP 34.131.67.82",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.131.67.82']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T12:06:43.000Z",
+   "description": "India - AS396982 Google LLC - Abusive HTTP requests (514), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--573c6cbd-0a6b-59a4-aaa5-f8a8ff39d3c3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T03:32:28.000Z",
+   "modified": "2026-11-11T03:33:54.000Z",
+   "name": "NexaShield abuse IP 34.131.248.132",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.131.248.132']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T03:32:28.000Z",
+   "description": "India - AS396982 Google LLC - Abusive HTTP requests (258), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--0463b92a-53f8-574a-ae28-06ba4416e557",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:47:10.000Z",
+   "modified": "2026-11-11T09:47:12.000Z",
+   "name": "NexaShield abuse IP 34.140.69.197",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.140.69.197']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:47:10.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (49)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ea80e561-8fe8-57b4-8eb4-a43f55c9d40a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T10:22:29.000Z",
+   "modified": "2026-11-12T10:23:13.000Z",
+   "name": "NexaShield abuse IP 34.140.194.215",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.140.194.215']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T10:22:29.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (91)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7ef14a41-1c30-57e4-968d-bc6b7f7bab6a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T09:25:51.000Z",
+   "modified": "2026-11-10T09:25:57.000Z",
+   "name": "NexaShield abuse IP 34.156.64.247",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.156.64.247']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T09:25:51.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (96)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--fdbd0f45-77f7-5669-9ec2-1425179c24b2",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:07:50.000Z",
+   "modified": "2026-11-11T10:08:59.000Z",
+   "name": "NexaShield abuse IP 34.158.206.112",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.158.206.112']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:07:50.000Z",
+   "description": "South Korea - AS396982 Google LLC - Abusive HTTP requests (515), Web injection payload blocked by WAF (30)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--43dc157b-a973-566e-82dc-17349c926777",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T19:30:50.000Z",
+   "modified": "2026-11-13T08:11:47.000Z",
+   "name": "NexaShield abuse IP 35.169.206.177",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.169.206.177']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T19:30:50.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (78)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a185e45a-a2aa-56e7-94c6-d094d016e09c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T22:43:35.000Z",
+   "modified": "2026-11-12T22:43:39.000Z",
+   "name": "NexaShield abuse IP 35.195.19.202",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.195.19.202']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T22:43:35.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (67)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--cb2d9e57-12ea-56eb-8750-85eb65ad49fd",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:29:57.000Z",
+   "modified": "2026-11-11T09:30:00.000Z",
+   "name": "NexaShield abuse IP 35.195.41.101",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.195.41.101']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:29:57.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (80)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--146d3406-9780-58fc-86b0-646a71109638",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T09:14:15.000Z",
+   "modified": "2026-11-13T09:14:19.000Z",
+   "name": "NexaShield abuse IP 35.195.85.59",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.195.85.59']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T09:14:15.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (220)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7530375c-4948-5779-9846-9e60c1f91e47",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:14:47.000Z",
+   "modified": "2026-11-11T10:14:50.000Z",
+   "name": "NexaShield abuse IP 35.195.245.38",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.195.245.38']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:14:47.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (79)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d65f2216-fb6a-5507-b51e-01637b529b19",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T04:59:23.000Z",
+   "modified": "2026-11-11T05:00:27.000Z",
+   "name": "NexaShield abuse IP 35.198.68.22",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.198.68.22']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T04:59:23.000Z",
+   "description": "Germany - AS396982 Google LLC - Abusive HTTP requests (416), Web injection payload blocked by WAF (20)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7501003c-92dd-5ff0-98ca-9453f633b45f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:05:32.000Z",
+   "modified": "2026-11-11T17:07:19.000Z",
+   "name": "NexaShield abuse IP 35.210.63.250",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.210.63.250']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:05:32.000Z",
+   "description": "Belgium - AS43515 Google Ireland Limited - Port scanning (23)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--84dae3dc-03f1-5e9b-b120-09ac8e6da864",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:30:19.000Z",
+   "modified": "2026-11-12T04:30:21.000Z",
+   "name": "NexaShield abuse IP 35.210.120.245",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.210.120.245']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:30:19.000Z",
+   "description": "Belgium - AS43515 Google Ireland Limited - SMTP / IMAP credential guessing (2)",
+   "labels": [
+    "mail"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2423757d-1c7b-5f4b-af3d-06da7d04f440",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:48:13.000Z",
+   "modified": "2026-11-13T10:14:32.000Z",
+   "name": "NexaShield abuse IP 35.210.191.123",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.210.191.123']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:48:13.000Z",
+   "description": "Belgium - AS43515 Google Ireland Limited - SSH brute force (10), Port scanning (8)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--84a1b751-0123-5c86-8957-eeff283d4a48",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:49:14.000Z",
+   "modified": "2026-11-12T01:14:02.000Z",
+   "name": "NexaShield abuse IP 36.255.97.229",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '36.255.97.229']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:49:14.000Z",
+   "description": "United States - AS403005 Blatant Technologies, LLC - SSH brute force (12), Spamhaus DROP-listed network (3)",
+   "labels": [
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3097ba3a-ab7d-5c71-8d87-73e78228286f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T00:02:14.000Z",
+   "modified": "2026-11-11T23:10:54.000Z",
+   "name": "NexaShield abuse IP 36.255.97.230",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '36.255.97.230']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T00:02:14.000Z",
+   "description": "United States - AS403005 Blatant Technologies, LLC - SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (1)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d6ced4cd-c8ad-5fdd-a49f-3373a6553e72",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:58:54.000Z",
+   "modified": "2026-11-12T10:47:51.000Z",
+   "name": "NexaShield abuse IP 36.255.97.242",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '36.255.97.242']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:58:54.000Z",
+   "description": "United States - AS403005 Blatant Technologies, LLC - SSH brute force (7), Spamhaus DROP-listed network (5), Port scanning (2)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--518c4ebe-8cf5-5e78-b981-48655a2f857b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T09:43:49.000Z",
+   "modified": "2026-11-12T12:47:38.000Z",
+   "name": "NexaShield abuse IP 37.120.213.13",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '37.120.213.13']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T09:43:49.000Z",
+   "description": "Switzerland - AS9009 M247 Europe SRL - SSH brute force (15)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bbad758d-0708-58e8-9a63-97829e2b620c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T13:21:39.000Z",
+   "modified": "2026-11-12T13:21:39.000Z",
+   "name": "NexaShield abuse IP 40.119.26.26",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '40.119.26.26']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T13:21:39.000Z",
+   "description": "United States - AS8075 Microsoft Corporation - Abusive HTTP requests (1), Web injection payload blocked by WAF (1)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--5cf5e0c7-1de0-52a5-9947-39880d902c01",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T00:09:37.000Z",
+   "modified": "2026-11-12T00:10:07.000Z",
+   "name": "NexaShield abuse IP 43.133.121.245",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '43.133.121.245']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T00:09:37.000Z",
+   "description": "Thailand - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (157), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--18177cd6-baf0-5ddf-bbe9-0a584973701d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:46:08.000Z",
+   "modified": "2026-11-12T16:46:29.000Z",
+   "name": "NexaShield abuse IP 43.172.47.156",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '43.172.47.156']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:46:08.000Z",
+   "description": "United States - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (263), Web injection payload blocked by WAF (20)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--58fd0d85-d8c5-57d2-8733-0c168936a29e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:46:14.000Z",
+   "modified": "2026-11-13T18:57:03.000Z",
+   "name": "NexaShield abuse IP 45.74.28.2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.74.28.2']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:46:14.000Z",
+   "description": "The Netherlands - AS219326 SULAVI LTD - Spamhaus DROP-listed network (126)",
+   "labels": [
+    "spamhaus"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--86a87175-d1c1-5143-9bad-9566db2752a6",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:10:56.000Z",
+   "modified": "2026-11-11T14:39:28.000Z",
+   "name": "NexaShield abuse IP 45.90.163.37",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.90.163.37']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:10:56.000Z",
+   "description": "France - AS39421 Sapinet SAS - Known botnet / C2 infrastructure (6)",
+   "labels": [
+    "c2"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4da0ee7f-c21d-5395-85e3-e51cd38cf0d9",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T17:52:48.000Z",
+   "modified": "2026-11-10T17:52:49.000Z",
+   "name": "NexaShield abuse IP 45.92.1.25",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.92.1.25']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T17:52:48.000Z",
+   "description": "The Netherlands - AS210558 1337 Services GmbH - Abusive HTTP requests (16)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--964d1c2b-eadd-518d-8c66-146d7198a937",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T05:02:45.000Z",
+   "modified": "2026-11-12T06:13:55.000Z",
+   "name": "NexaShield abuse IP 45.138.12.6",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.138.12.6']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T05:02:45.000Z",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (224), Spamhaus DROP-listed network (1)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d8eb07ee-436b-5a5b-937b-ee6454d47178",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T15:36:19.000Z",
+   "modified": "2026-11-13T18:09:56.000Z",
+   "name": "NexaShield abuse IP 45.138.12.16",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.138.12.16']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T15:36:19.000Z",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (75), Spamhaus DROP-listed network (25)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--eada4468-70c6-5622-ad8e-158bd72b211e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T12:13:56.000Z",
+   "modified": "2026-11-13T04:33:03.000Z",
+   "name": "NexaShield abuse IP 45.138.12.41",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.138.12.41']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T12:13:56.000Z",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Spamhaus DROP-listed network (5), Abusive HTTP requests (3)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b553e21b-bee3-5e5b-93dd-41f73e2fa257",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T13:39:58.000Z",
+   "modified": "2026-11-13T18:36:35.000Z",
+   "name": "NexaShield abuse IP 45.138.12.51",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.138.12.51']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T13:39:58.000Z",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (528), Spamhaus DROP-listed network (13), Port scanning (1)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d2175898-95c3-566b-b3e2-aa7ce24d3765",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T18:42:53.000Z",
+   "modified": "2026-11-10T19:19:16.000Z",
+   "name": "NexaShield abuse IP 45.153.102.83",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.153.102.83']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T18:42:53.000Z",
+   "description": "Ireland - AS203020 HostRoyale Technologies Pvt Ltd - Abusive HTTP requests (15)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a8f20294-d506-5987-8238-c73aab71da1b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:22:22.000Z",
+   "modified": "2026-11-12T03:52:57.000Z",
+   "name": "NexaShield abuse IP 45.156.87.50",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.156.87.50']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:22:22.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - SSH brute force (25)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--dbc00317-0ecc-5547-ab87-37d15357130a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:23:26.000Z",
+   "modified": "2026-11-12T01:10:46.000Z",
+   "name": "NexaShield abuse IP 45.156.87.72",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.156.87.72']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:23:26.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - SSH brute force (17)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9bf2c0af-8374-5d10-83c1-38d3f43351b6",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:03:00.000Z",
+   "modified": "2026-11-12T00:22:42.000Z",
+   "name": "NexaShield abuse IP 45.156.87.153",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.156.87.153']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:03:00.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - SSH brute force (14)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e7bf02b7-2827-5b2d-806d-8308474d0aef",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:02:34.000Z",
+   "modified": "2026-11-12T01:37:24.000Z",
+   "name": "NexaShield abuse IP 45.156.87.168",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.156.87.168']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:02:34.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - SSH brute force (27)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c660ec12-c490-5b4d-b44c-93e3f029bc96",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T15:56:29.000Z",
+   "modified": "2026-11-12T21:22:13.000Z",
+   "name": "NexaShield abuse IP 45.156.87.189",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.156.87.189']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T15:56:29.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - SSH brute force (10)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3ac9244f-0bdf-5637-ae19-05571f633ea5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:36:01.000Z",
+   "modified": "2026-11-11T16:07:52.000Z",
+   "name": "NexaShield abuse IP 46.180.150.230",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '46.180.150.230']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:36:01.000Z",
+   "description": "Russia - AS39927 E-Light-Telecom Ltd. - UDP exploit signature (2)",
+   "labels": [
+    "udp"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c0c5ebaa-d08b-54ad-b34f-6c610b8d7e78",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T14:13:13.000Z",
+   "modified": "2026-11-11T14:13:13.000Z",
+   "name": "NexaShield abuse IP 51.15.51.245",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '51.15.51.245']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T14:13:13.000Z",
+   "description": "The Netherlands - AS12876 Scaleway SAS - Web injection payload blocked by WAF (16), Abusive HTTP requests (6)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--cbea402c-89c1-5b21-a7e1-1d2ae9c2f35e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T11:19:27.000Z",
+   "modified": "2026-11-11T11:19:27.000Z",
+   "name": "NexaShield abuse IP 51.89.235.147",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '51.89.235.147']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T11:19:27.000Z",
+   "description": "United Kingdom - AS16276 OVH SAS - Port scanning (1)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f89ad5aa-ac8e-5ae2-8d2c-da018fbc4230",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T19:42:11.000Z",
+   "modified": "2026-11-13T19:42:11.000Z",
+   "name": "NexaShield abuse IP 52.20.198.190",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '52.20.198.190']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T19:42:11.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (2)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--199a26d4-478b-5438-8256-e91cb159f976",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:19:30.000Z",
+   "modified": "2026-11-11T19:19:30.000Z",
+   "name": "NexaShield abuse IP 52.21.227.35",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '52.21.227.35']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:19:30.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (1)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--76e1325d-aaf1-59e5-b60b-c50dbc40c104",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T01:25:00.000Z",
+   "modified": "2026-11-13T01:25:03.000Z",
+   "name": "NexaShield abuse IP 54.84.248.251",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '54.84.248.251']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T01:25:00.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Abusive HTTP requests (118)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2460a313-9e26-5982-b44e-31113812a8c3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T12:06:31.000Z",
+   "modified": "2026-11-11T02:30:22.000Z",
+   "name": "NexaShield abuse IP 62.138.8.174",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '62.138.8.174']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T12:06:31.000Z",
+   "description": "France - AS29066 velia.net Internetdienste GmbH - SSH brute force (87)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--abc2ba10-fa74-5597-b34e-4314535362d7",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T06:46:43.000Z",
+   "modified": "2026-11-10T06:46:43.000Z",
+   "name": "NexaShield abuse IP 62.171.152.139",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '62.171.152.139']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T06:46:43.000Z",
+   "description": "Germany - AS51167 Contabo GmbH - Web injection payload blocked by WAF (8), Abusive HTTP requests (3)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c68a8acf-6c40-5319-99a2-afa52b63fa48",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T06:18:38.000Z",
+   "modified": "2026-11-10T06:18:56.000Z",
+   "name": "NexaShield abuse IP 64.23.218.208",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '64.23.218.208']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T06:18:38.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--15bd39a0-dfce-577a-8a9b-f896956fbfd7",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T13:12:34.000Z",
+   "modified": "2026-11-10T13:12:50.000Z",
+   "name": "NexaShield abuse IP 64.225.75.246",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '64.225.75.246']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T13:12:34.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ee825bc2-0983-52d4-a916-f1852423386e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T10:36:16.000Z",
+   "modified": "2026-11-12T10:36:16.000Z",
+   "name": "NexaShield abuse IP 64.227.95.171",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '64.227.95.171']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T10:36:16.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--93228edd-27c1-5c1b-aff9-e8d95da0a7b5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:08:41.000Z",
+   "modified": "2026-11-11T20:08:57.000Z",
+   "name": "NexaShield abuse IP 68.183.9.16",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '68.183.9.16']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:08:41.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--03098f54-7183-5512-9ead-eb52d3ef282b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:26:48.000Z",
+   "modified": "2026-11-11T18:26:48.000Z",
+   "name": "NexaShield abuse IP 68.183.174.225",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '68.183.174.225']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:26:48.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--874cea3a-56d7-53b5-bcfe-1e6230210c79",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T21:02:42.000Z",
+   "modified": "2026-11-09T21:40:36.000Z",
+   "name": "NexaShield abuse IP 77.239.124.34",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.34']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T21:02:42.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (46)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--72a15346-d95d-5039-8edb-f4d6df28e0c7",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T11:41:31.000Z",
+   "modified": "2026-11-10T12:15:09.000Z",
+   "name": "NexaShield abuse IP 77.239.124.36",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.36']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T11:41:31.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (26)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bcb9ec7c-0965-5477-b2da-818528dc54fb",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T13:48:44.000Z",
+   "modified": "2026-11-10T13:51:36.000Z",
+   "name": "NexaShield abuse IP 77.239.124.38",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.38']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T13:48:44.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (11)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--efd36e39-b5ff-5389-a3ef-13cbccbea25a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T07:25:01.000Z",
+   "modified": "2026-11-10T08:13:13.000Z",
+   "name": "NexaShield abuse IP 77.239.124.41",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.41']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T07:25:01.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (64)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--20c3293e-610f-54e2-83bc-81f142d8d152",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T09:15:57.000Z",
+   "modified": "2026-11-10T09:49:09.000Z",
+   "name": "NexaShield abuse IP 77.239.124.46",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.46']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T09:15:57.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (22)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6099b113-90c7-533a-adeb-91caa833dc41",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T10:40:43.000Z",
+   "modified": "2026-11-10T10:43:35.000Z",
+   "name": "NexaShield abuse IP 77.239.124.49",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.49']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T10:40:43.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (10)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b0951f41-df89-579f-8da3-2aff6f9c6478",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T02:30:00.000Z",
+   "modified": "2026-11-11T02:32:48.000Z",
+   "name": "NexaShield abuse IP 77.239.124.63",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.63']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T02:30:00.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (8)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--662c241c-5a3f-5036-95d3-183d093ce651",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T21:09:17.000Z",
+   "modified": "2026-11-12T21:55:37.000Z",
+   "name": "NexaShield abuse IP 77.239.124.64",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.64']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T21:09:17.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (23), SSH brute force (14)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d4afa040-358e-53f0-8afc-4a33d875920a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T21:03:17.000Z",
+   "modified": "2026-11-11T21:47:37.000Z",
+   "name": "NexaShield abuse IP 77.239.124.72",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.72']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T21:03:17.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (22), SSH brute force (7)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8a709b2c-490f-5132-8311-c30bb0b9c98a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T08:02:25.000Z",
+   "modified": "2026-11-11T08:05:09.000Z",
+   "name": "NexaShield abuse IP 77.239.124.73",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.73']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T08:02:25.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (8)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f073d200-48e4-5134-9176-aac8080b18b1",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T07:37:04.000Z",
+   "modified": "2026-11-12T08:27:31.000Z",
+   "name": "NexaShield abuse IP 77.239.124.74",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.74']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T07:37:04.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (25), SSH brute force (6)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--1707f206-7e12-55f5-9516-bb155b8f7a85",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T07:37:57.000Z",
+   "modified": "2026-11-13T08:30:21.000Z",
+   "name": "NexaShield abuse IP 77.239.124.75",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.75']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T07:37:57.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (52), SSH brute force (18)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--37cd15cd-a253-5499-91bf-23217c1ea335",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T21:02:47.000Z",
+   "modified": "2026-11-12T21:57:11.000Z",
+   "name": "NexaShield abuse IP 77.239.124.78",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.78']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T21:02:47.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (27), SSH brute force (8)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--18a6fc77-dbf2-5147-b589-80fa794f486d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T17:25:50.000Z",
+   "modified": "2026-11-09T18:54:52.000Z",
+   "name": "NexaShield abuse IP 77.239.124.143",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.143']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T17:25:50.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (118)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8f3b10e5-843b-57c0-992b-017fa3058cd7",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T12:40:44.000Z",
+   "modified": "2026-11-10T13:41:28.000Z",
+   "name": "NexaShield abuse IP 77.239.124.152",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.152']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T12:40:44.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (19)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b0d19a34-fc4e-525b-98a5-d1c2abad5888",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T20:20:57.000Z",
+   "modified": "2026-11-09T21:18:14.000Z",
+   "name": "NexaShield abuse IP 77.239.124.153",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '77.239.124.153']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T20:20:57.000Z",
+   "description": "France - AS198364 BANATSYNC SRL - SSH brute force (53)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e689d90a-baac-5bf6-b280-abdb13e7400c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T16:18:15.000Z",
+   "modified": "2026-11-13T17:37:18.000Z",
+   "name": "NexaShield abuse IP 78.128.112.74",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.128.112.74']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T16:18:15.000Z",
+   "description": "Bulgaria - AS208637 4 Vendeta Ltd - Port scanning (29), SSH brute force (28)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--92fb5677-d67d-51e7-80a4-ee548d24c0c3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T22:42:08.000Z",
+   "modified": "2026-11-12T23:31:08.000Z",
+   "name": "NexaShield abuse IP 78.128.114.46",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.128.114.46']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T22:42:08.000Z",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (3)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--95f723a6-3011-51db-b523-4e4e1d3502cf",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T03:33:10.000Z",
+   "modified": "2026-11-13T01:10:45.000Z",
+   "name": "NexaShield abuse IP 78.153.140.40",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.40']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T03:33:10.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Abusive HTTP requests (17), Port scanning (15), Spamhaus DROP-listed network (13)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2098e22e-5cf4-572c-bbae-6f6c4adf59fb",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T01:59:01.000Z",
+   "modified": "2026-11-13T02:20:24.000Z",
+   "name": "NexaShield abuse IP 78.153.140.50",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.50']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T01:59:01.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Spamhaus DROP-listed network (9), Abusive HTTP requests (8)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c83e3202-dce0-5225-8ed5-f1e8b930e25c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T19:30:12.000Z",
+   "modified": "2026-11-10T00:08:14.000Z",
+   "name": "NexaShield abuse IP 78.153.140.93",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.93']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T19:30:12.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--5d5a5bad-3d5c-5943-9c3f-2b172e881dd1",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T08:04:26.000Z",
+   "modified": "2026-11-12T17:37:12.000Z",
+   "name": "NexaShield abuse IP 78.153.140.147",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.147']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T08:04:26.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Spamhaus DROP-listed network (10), Port scanning (10), Abusive HTTP requests (7)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6b3b95b3-4d98-55d5-802e-db819af5291d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T02:11:15.000Z",
+   "modified": "2026-11-13T01:10:54.000Z",
+   "name": "NexaShield abuse IP 78.153.140.148",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.148']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T02:11:15.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (18), Spamhaus DROP-listed network (17), Abusive HTTP requests (15)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--566d2c9c-9446-5a1b-831b-481f1c08a6bb",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T00:18:58.000Z",
+   "modified": "2026-11-13T15:23:55.000Z",
+   "name": "NexaShield abuse IP 78.153.140.149",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.149']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T00:18:58.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Abusive HTTP requests (29), Port scanning (26), Spamhaus DROP-listed network (20)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e5652212-c51a-53d1-872c-ff527f8f8db2",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T03:35:39.000Z",
+   "modified": "2026-11-13T18:21:03.000Z",
+   "name": "NexaShield abuse IP 78.153.140.156",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.156']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T03:35:39.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Spamhaus DROP-listed network (10), Abusive HTTP requests (10)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--22988d58-df6a-5972-932f-ab67d39c13e1",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T04:42:09.000Z",
+   "modified": "2026-11-13T00:33:32.000Z",
+   "name": "NexaShield abuse IP 78.153.140.251",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.251']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T04:42:09.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Spamhaus DROP-listed network (10), Abusive HTTP requests (8)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9d2fb8db-c18d-54d0-bc43-473cd77db2f9",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T02:29:03.000Z",
+   "modified": "2026-11-11T23:38:22.000Z",
+   "name": "NexaShield abuse IP 78.153.140.252",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.153.140.252']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T02:29:03.000Z",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Spamhaus DROP-listed network (9), Abusive HTTP requests (8)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2026e7a9-a7eb-5d8a-9671-1a577d6794f9",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T06:42:55.000Z",
+   "modified": "2026-11-12T06:42:55.000Z",
+   "name": "NexaShield abuse IP 78.232.4.86",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '78.232.4.86']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T06:42:55.000Z",
+   "description": "France - AS12876 Scaleway SAS - Web injection payload blocked by WAF (8), Abusive HTTP requests (3)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--364e005c-2138-5b2f-b2f6-d62363052f5a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T16:12:29.000Z",
+   "modified": "2026-11-11T16:12:33.000Z",
+   "name": "NexaShield abuse IP 79.36.119.201",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '79.36.119.201']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T16:12:29.000Z",
+   "description": "Italy - AS3269 Telecom Italia S.p.A. - SSH brute force (5), Port scanning (2)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2b6f7995-70a0-56af-836a-f20174e3ae00",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T02:42:46.000Z",
+   "modified": "2026-11-10T02:43:24.000Z",
+   "name": "NexaShield abuse IP 79.124.58.22",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '79.124.58.22']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T02:42:46.000Z",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Abusive HTTP requests (36)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bf031c22-aa4b-5f52-83c8-42e589c7b504",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:34:21.000Z",
+   "modified": "2026-11-11T20:34:21.000Z",
+   "name": "NexaShield abuse IP 79.124.58.82",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '79.124.58.82']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:34:21.000Z",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Exploitation attempt (CVE / RCE / injection) (1)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--95b8a65f-8cc1-5920-9998-9f5a41c96685",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T12:35:28.000Z",
+   "modified": "2026-11-12T10:44:03.000Z",
+   "name": "NexaShield abuse IP 79.124.60.218",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '79.124.60.218']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T12:35:28.000Z",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (23)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bc00edcf-2737-590d-9e43-5dc6c54fd79e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T21:29:19.000Z",
+   "modified": "2026-11-13T03:56:58.000Z",
+   "name": "NexaShield abuse IP 80.94.95.115",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '80.94.95.115']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T21:29:19.000Z",
+   "description": "Hungary - AS204428 SS-Net - Port scanning (281), SSH brute force (10)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--76e99461-90ad-5fbd-ae82-3f80f6435f7b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T02:06:15.000Z",
+   "modified": "2026-11-10T02:06:16.000Z",
+   "name": "NexaShield abuse IP 80.94.95.211",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '80.94.95.211']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T02:06:15.000Z",
+   "description": "Hungary - AS204428 SS-Net - Abusive HTTP requests (5)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ab552677-d045-5e67-8ff9-d3f57929d577",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T12:44:42.000Z",
+   "modified": "2026-11-10T12:44:46.000Z",
+   "name": "NexaShield abuse IP 81.171.72.93",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '81.171.72.93']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T12:44:42.000Z",
+   "description": "The Netherlands - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (25)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--842b772f-666f-5ce4-82a8-34cffc9482cd",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T12:42:27.000Z",
+   "modified": "2026-11-10T12:43:41.000Z",
+   "name": "NexaShield abuse IP 81.171.72.135",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '81.171.72.135']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T12:42:27.000Z",
+   "description": "The Netherlands - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (54)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3cd2835f-abae-5134-aca2-bc31b1e7b067",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T00:50:28.000Z",
+   "modified": "2026-11-13T00:50:31.000Z",
+   "name": "NexaShield abuse IP 81.171.74.60",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '81.171.74.60']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T00:50:28.000Z",
+   "description": "United Kingdom - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (54)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4a214b42-0984-5e1b-8529-ed0046d19cf4",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T17:20:12.000Z",
+   "modified": "2026-11-11T17:20:50.000Z",
+   "name": "NexaShield abuse IP 81.181.129.218",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '81.181.129.218']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T17:20:12.000Z",
+   "description": "Romania - AS39383 Annarsy SRL - SSH brute force (10), Port scanning (1)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--1b478ed1-6c61-5583-8c00-2c79a3f14c37",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:43:19.000Z",
+   "modified": "2026-11-13T15:48:19.000Z",
+   "name": "NexaShield abuse IP 85.11.167.7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '85.11.167.7']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:43:19.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (204), Port scanning (138)",
+   "labels": [
+    "scan",
+    "spamhaus"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9ae58e9d-ecf6-50f0-8d4f-fddef9fa673a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T20:24:33.000Z",
+   "modified": "2026-11-13T18:30:15.000Z",
+   "name": "NexaShield abuse IP 85.11.167.204",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '85.11.167.204']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T20:24:33.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (11), Abusive HTTP requests (11)",
+   "labels": [
+    "spamhaus",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ef6c16e7-8a32-5b64-9a96-9c29fc42a850",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T08:00:49.000Z",
+   "modified": "2026-11-13T08:01:21.000Z",
+   "name": "NexaShield abuse IP 87.227.143.150",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '87.227.143.150']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T08:00:49.000Z",
+   "description": "Bulgaria - AS29580 A1 Bulgaria EAD - SSH brute force (20), Port scanning (2)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--132e1c01-6dbe-5a07-a0b0-ef66d45d8bdd",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T08:30:53.000Z",
+   "modified": "2026-11-13T08:30:56.000Z",
+   "name": "NexaShield abuse IP 89.167.11.42",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '89.167.11.42']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T08:30:53.000Z",
+   "description": "Finland - AS24940 Hetzner Online GmbH - Abusive HTTP requests (48)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--86979680-a021-5520-ad92-84e4990e1c83",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:47:10.000Z",
+   "modified": "2026-11-13T19:44:24.000Z",
+   "name": "NexaShield abuse IP 91.92.40.12",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '91.92.40.12']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:47:10.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Known botnet / C2 infrastructure (320), Exploitation attempt (CVE / RCE / injection) (3), Spamhaus DROP-listed network (1)",
+   "labels": [
+    "c2",
+    "exploit",
+    "spamhaus"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6c787c58-5c2f-5591-8a79-cb30f70c652f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T23:06:24.000Z",
+   "modified": "2026-11-12T10:14:53.000Z",
+   "name": "NexaShield abuse IP 91.92.47.5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '91.92.47.5']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T23:06:24.000Z",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Abusive HTTP requests (8)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--00ef3c84-5f20-521d-9203-4bd1f5adee00",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:23:09.000Z",
+   "modified": "2026-11-13T19:35:02.000Z",
+   "name": "NexaShield abuse IP 91.224.92.45",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '91.224.92.45']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:23:09.000Z",
+   "description": "Lithuania - AS209605 UAB Host Baltic - Spamhaus DROP-listed network (271)",
+   "labels": [
+    "spamhaus"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f22bfe07-2294-54ee-b108-2f4f23c28698",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:27:50.000Z",
+   "modified": "2026-11-12T17:10:41.000Z",
+   "name": "NexaShield abuse IP 93.152.221.108",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '93.152.221.108']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:27:50.000Z",
+   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (15), Spamhaus DROP-listed network (7), Port scanning (3)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--1d9507c1-3c43-5dc8-862e-3e329615a240",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:32:28.000Z",
+   "modified": "2026-11-12T06:48:22.000Z",
+   "name": "NexaShield abuse IP 94.26.106.252",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '94.26.106.252']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:32:28.000Z",
+   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (49)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--12a5e644-6f72-5902-8938-99304889f20e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T07:29:33.000Z",
+   "modified": "2026-11-11T07:31:40.000Z",
+   "name": "NexaShield abuse IP 98.81.25.90",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '98.81.25.90']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T07:29:33.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Abusive HTTP requests (132)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3702dcd5-a3ae-5cde-81ad-1af613fab1a8",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:14:02.000Z",
+   "modified": "2026-11-11T13:53:55.000Z",
+   "name": "NexaShield abuse IP 98.89.204.118",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '98.89.204.118']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:14:02.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (4)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--33e904c5-6ed6-5578-8d22-4d4038211e46",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:54:10.000Z",
+   "modified": "2026-11-11T10:21:01.000Z",
+   "name": "NexaShield abuse IP 100.28.191.174",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '100.28.191.174']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:54:10.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (5)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a9248c54-53af-5fc4-857f-ae7730f3e77e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:37:12.000Z",
+   "modified": "2026-11-12T05:47:00.000Z",
+   "name": "NexaShield abuse IP 100.50.17.159",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '100.50.17.159']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:37:12.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (49)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b7000b4d-dd1e-5d3a-aa60-1ccb681d76bc",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T21:27:55.000Z",
+   "modified": "2026-11-11T21:28:29.000Z",
+   "name": "NexaShield abuse IP 101.32.57.201",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '101.32.57.201']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T21:27:55.000Z",
+   "description": "Hong Kong - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (157), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6371a728-9aa9-5220-b5be-bfa6f7927fdd",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:06:36.000Z",
+   "modified": "2026-11-11T10:06:36.000Z",
+   "name": "NexaShield abuse IP 101.53.235.246",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '101.53.235.246']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:06:36.000Z",
+   "description": "Pakistan - AS9541 Cyber Internet Services (Private) Limited - Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1)",
+   "labels": [
+    "exploit",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a9c96118-3fca-584f-96c6-870acc09d94d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:20:13.000Z",
+   "modified": "2026-11-11T09:20:13.000Z",
+   "name": "NexaShield abuse IP 103.59.161.154",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '103.59.161.154']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:20:13.000Z",
+   "description": "Indonesia - AS150493 PT Gunung Sedayu Sentosa - Web injection payload blocked by WAF (1)",
+   "labels": [
+    "waf"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--5cc6e76e-9302-5a88-afd1-07e843022b96",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T01:47:42.000Z",
+   "modified": "2026-11-13T01:47:42.000Z",
+   "name": "NexaShield abuse IP 103.66.176.192",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '103.66.176.192']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T01:47:42.000Z",
+   "description": "Bangladesh - AS135578 Dhaka Information Technology - Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2)",
+   "labels": [
+    "exploit",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d3caf792-e586-5b9a-981a-e09b8e06bb7e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T12:19:53.000Z",
+   "modified": "2026-11-13T19:17:31.000Z",
+   "name": "NexaShield abuse IP 103.215.74.112",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '103.215.74.112']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T12:19:53.000Z",
+   "description": "United States - AS150303 SoloRDP - Abusive HTTP requests (82), Port scanning (44), Exploitation attempt (CVE / RCE / injection) (2)",
+   "labels": [
+    "exploit",
+    "scan",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7752a0aa-5471-5b6c-8719-8be4b3584797",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T23:32:54.000Z",
+   "modified": "2026-11-10T00:33:54.000Z",
+   "name": "NexaShield abuse IP 109.160.32.118",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '109.160.32.118']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T23:32:54.000Z",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - SSH brute force (23)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f81d3cc1-1580-5881-9ba0-f15f339b931a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T17:53:46.000Z",
+   "modified": "2026-11-12T19:08:04.000Z",
+   "name": "NexaShield abuse IP 109.160.32.129",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '109.160.32.129']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T17:53:46.000Z",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (38), SSH brute force (18), Spamhaus DROP-listed network (2)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ad88bb2a-c46c-5a05-ba37-3c15ca5aa3b4",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T20:24:18.000Z",
+   "modified": "2026-11-12T22:34:33.000Z",
+   "name": "NexaShield abuse IP 109.160.32.139",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '109.160.32.139']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T20:24:18.000Z",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - SSH brute force (27), Port scanning (2), Spamhaus DROP-listed network (1)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b20365e7-6d9a-52b3-b2d8-cbb2fea16191",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T18:52:03.000Z",
+   "modified": "2026-11-10T20:22:56.000Z",
+   "name": "NexaShield abuse IP 109.160.32.142",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '109.160.32.142']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T18:52:03.000Z",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - SSH brute force (20)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c456a885-ec3f-53aa-aaaa-e941245aef44",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:00:18.000Z",
+   "modified": "2026-11-11T20:14:38.000Z",
+   "name": "NexaShield abuse IP 109.160.32.153",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '109.160.32.153']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:00:18.000Z",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (38), SSH brute force (21), Spamhaus DROP-listed network (2)",
+   "labels": [
+    "scan",
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4578d470-c3bf-56be-bfcf-3d72b039c832",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T00:02:44.000Z",
+   "modified": "2026-11-10T00:03:14.000Z",
+   "name": "NexaShield abuse IP 111.30.42.43",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '111.30.42.43']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T00:02:44.000Z",
+   "description": "China - AS38019 China Mobile Communications Group Co., Ltd - SSH brute force (11)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--630aa832-9536-5382-b8f6-843d9c95a871",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T09:12:38.000Z",
+   "modified": "2026-11-13T09:12:38.000Z",
+   "name": "NexaShield abuse IP 115.190.211.111",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '115.190.211.111']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T09:12:38.000Z",
+   "description": "China - AS137718 Beijing Volcano Engine Technology Co., Ltd. - Exploitation attempt (CVE / RCE / injection) (6), Web injection payload blocked by WAF (2)",
+   "labels": [
+    "exploit",
+    "waf"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--226f871c-9a98-5332-9b94-12c9f7eaff86",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T14:33:41.000Z",
+   "modified": "2026-11-12T14:33:41.000Z",
+   "name": "NexaShield abuse IP 116.41.81.52",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '116.41.81.52']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T14:33:41.000Z",
+   "description": "South Korea - AS17858 LG POWERCOMM - Exploitation attempt (CVE / RCE / injection) (1)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8f3b1a66-df73-5272-a49f-1e4ca39764f5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T01:00:20.000Z",
+   "modified": "2026-11-13T01:01:36.000Z",
+   "name": "NexaShield abuse IP 119.28.155.249",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '119.28.155.249']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T01:00:20.000Z",
+   "description": "South Korea - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (228), Web injection payload blocked by WAF (52)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3386a541-9664-5434-b5a9-2215a6119ddf",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T11:11:54.000Z",
+   "modified": "2026-11-11T11:12:40.000Z",
+   "name": "NexaShield abuse IP 119.195.45.76",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '119.195.45.76']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T11:11:54.000Z",
+   "description": "South Korea - AS4766 Korea Telecom - SSH brute force (9), Port scanning (1)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9bbdbd70-730b-5711-bea6-5d8cbb3d4475",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T08:20:31.000Z",
+   "modified": "2026-11-11T08:20:43.000Z",
+   "name": "NexaShield abuse IP 121.132.116.156",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '121.132.116.156']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T08:20:31.000Z",
+   "description": "South Korea - AS4766 Korea Telecom - SSH brute force (5)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--0e622b3e-f103-5bf7-a0f9-1d077e73bf1e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:54:01.000Z",
+   "modified": "2026-11-12T16:54:01.000Z",
+   "name": "NexaShield abuse IP 124.29.224.7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '124.29.224.7']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:54:01.000Z",
+   "description": "Pakistan - AS9541 Cyber Internet Services (Private) Limited - Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1)",
+   "labels": [
+    "exploit",
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--faa5a6f8-f12c-5a13-9d76-0a85f6a6f27a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T02:37:01.000Z",
+   "modified": "2026-11-12T02:37:55.000Z",
+   "name": "NexaShield abuse IP 124.156.152.238",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '124.156.152.238']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T02:37:01.000Z",
+   "description": "Hong Kong - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (172)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4f850a00-bcf9-5abf-8b8c-405742757832",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T01:40:26.000Z",
+   "modified": "2026-11-11T01:40:57.000Z",
+   "name": "NexaShield abuse IP 124.156.163.86",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '124.156.163.86']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T01:40:26.000Z",
+   "description": "Hong Kong - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (310)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--92b636de-f183-54fe-aacf-df46534adafe",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T05:29:05.000Z",
+   "modified": "2026-11-12T05:29:05.000Z",
+   "name": "NexaShield abuse IP 134.199.145.200",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '134.199.145.200']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T05:29:05.000Z",
+   "description": "Australia - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6285bfb5-3e95-5b80-a4fe-865321d91a70",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T15:43:43.000Z",
+   "modified": "2026-11-11T15:43:43.000Z",
+   "name": "NexaShield abuse IP 138.197.35.218",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '138.197.35.218']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T15:43:43.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--cc770d81-e325-504c-aeb6-31fdcfe8b05f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T14:19:50.000Z",
+   "modified": "2026-11-11T14:20:15.000Z",
+   "name": "NexaShield abuse IP 139.59.132.8",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '139.59.132.8']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T14:19:50.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6), Port scanning (1)",
+   "labels": [
+    "scan",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f2cd0b69-7d9f-53bd-8aa4-b54ee9fd6f6c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T12:31:11.000Z",
+   "modified": "2026-11-11T14:20:06.000Z",
+   "name": "NexaShield abuse IP 139.59.136.184",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '139.59.136.184']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T12:31:11.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6), Port scanning (1)",
+   "labels": [
+    "scan",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--fb01b267-d6e8-5e08-a21c-adb7650a1f52",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T11:04:51.000Z",
+   "modified": "2026-11-11T11:04:51.000Z",
+   "name": "NexaShield abuse IP 139.59.172.45",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '139.59.172.45']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T11:04:51.000Z",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--df169971-be59-5cb1-9dc9-6f3d47907836",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T14:20:03.000Z",
+   "modified": "2026-11-11T14:20:31.000Z",
+   "name": "NexaShield abuse IP 142.93.143.8",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '142.93.143.8']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T14:20:03.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--dd915479-c4aa-5fee-9031-af89256dc900",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T06:15:26.000Z",
+   "modified": "2026-11-10T06:15:46.000Z",
+   "name": "NexaShield abuse IP 143.110.217.244",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '143.110.217.244']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T06:15:26.000Z",
+   "description": "Canada - AS14061 DigitalOcean, LLC - Abusive HTTP requests (12)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7b5d4759-1d48-518c-8c2e-83741f703d4a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:27:49.000Z",
+   "modified": "2026-11-11T19:27:51.000Z",
+   "name": "NexaShield abuse IP 143.246.197.73",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '143.246.197.73']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:27:49.000Z",
+   "description": "Sweden - AS200019 ALEXHOST S.R.L. - Abusive HTTP requests (3)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4f4c0896-b3b6-53d1-8d9a-492676e5813d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T17:15:38.000Z",
+   "modified": "2026-11-11T17:16:09.000Z",
+   "name": "NexaShield abuse IP 146.190.63.48",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '146.190.63.48']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T17:15:38.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Abusive HTTP requests (12), Port scanning (1)",
+   "labels": [
+    "scan",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e807265d-3a88-5b9b-9da8-799d5c3f653a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T05:38:09.000Z",
+   "modified": "2026-11-12T05:38:09.000Z",
+   "name": "NexaShield abuse IP 146.190.120.158",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '146.190.120.158']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T05:38:09.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4a53a0a5-0ad5-5331-b5c2-d2b0488296ec",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T05:08:44.000Z",
+   "modified": "2026-11-11T22:37:27.000Z",
+   "name": "NexaShield abuse IP 147.90.88.19",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '147.90.88.19']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T05:08:44.000Z",
+   "description": "Azerbaijan - AS137409 GSL Networks Pty LTD - SSH brute force (597)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9c6f4708-3eed-534b-80d7-0c8f13167184",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T17:17:28.000Z",
+   "modified": "2026-11-11T17:17:28.000Z",
+   "name": "NexaShield abuse IP 147.182.250.227",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '147.182.250.227']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T17:17:28.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--39b7beb2-5152-5b74-be20-596fb5fbe925",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:40:06.000Z",
+   "modified": "2026-11-11T19:40:06.000Z",
+   "name": "NexaShield abuse IP 147.182.252.3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '147.182.252.3']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:40:06.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--635944f8-b3a4-5d32-a465-0d4e4c69136d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T15:29:14.000Z",
+   "modified": "2026-11-13T15:29:14.000Z",
+   "name": "NexaShield abuse IP 151.115.44.140",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '151.115.44.140']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T15:29:14.000Z",
+   "description": "Poland - AS12876 Scaleway SAS - Web injection payload blocked by WAF (16), Abusive HTTP requests (6)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--1da4e326-4137-5649-9ec8-c30968041415",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T03:58:32.000Z",
+   "modified": "2026-11-11T03:58:32.000Z",
+   "name": "NexaShield abuse IP 151.115.73.24",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '151.115.73.24']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T03:58:32.000Z",
+   "description": "Poland - AS12876 Scaleway SAS - Web injection payload blocked by WAF (8), Abusive HTTP requests (3)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--5318304c-1917-587a-9dee-64d4a58ba17a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T03:19:08.000Z",
+   "modified": "2026-11-11T03:19:08.000Z",
+   "name": "NexaShield abuse IP 151.115.166.205",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '151.115.166.205']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T03:19:08.000Z",
+   "description": "Italy - AS12876 Scaleway SAS - Web injection payload blocked by WAF (8), Abusive HTTP requests (3)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4e8b1f7b-d83a-5c15-a26c-6d52940770c4",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:56:39.000Z",
+   "modified": "2026-11-11T19:56:39.000Z",
+   "name": "NexaShield abuse IP 152.42.138.213",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '152.42.138.213']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:56:39.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--17520ff5-58b4-5e56-9d32-b62877e19258",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T06:11:52.000Z",
+   "modified": "2026-11-13T06:11:52.000Z",
+   "name": "NexaShield abuse IP 153.117.33.154",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '153.117.33.154']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T06:11:52.000Z",
+   "description": "Pakistan - AS9541 Cyber Internet Services (Private) Limited - Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2)",
+   "labels": [
+    "exploit",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--64ab4eb1-5602-541f-a724-ce9c1b3f3beb",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T01:22:54.000Z",
+   "modified": "2026-11-13T01:22:54.000Z",
+   "name": "NexaShield abuse IP 153.117.56.102",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '153.117.56.102']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T01:22:54.000Z",
+   "description": "Pakistan - AS9541 Cyber Internet Services (Private) Limited - Exploitation attempt (CVE / RCE / injection) (4), Port scanning (2)",
+   "labels": [
+    "exploit",
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ed749240-915d-5f63-8267-4a48ce84fe3b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T20:03:14.000Z",
+   "modified": "2026-11-10T12:12:37.000Z",
+   "name": "NexaShield abuse IP 154.18.197.29",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '154.18.197.29']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T20:03:14.000Z",
+   "description": "Philippines - AS142271 DoubleSquare Networks Inc. - SSH brute force (1064)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--abe0bd8c-3f5c-5003-a819-8f12cd7f44fa",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T19:15:05.000Z",
+   "modified": "2026-11-12T19:15:05.000Z",
+   "name": "NexaShield abuse IP 154.58.4.13",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '154.58.4.13']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T19:15:05.000Z",
+   "description": "Spain - AS174 Cogent Communications - Port scanning (1)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--be515413-42f1-5f91-8993-b6db92c88430",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T18:42:21.000Z",
+   "modified": "2026-11-09T18:42:22.000Z",
+   "name": "NexaShield abuse IP 157.230.123.210",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '157.230.123.210']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T18:42:21.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (10)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9a87481a-07cc-52d0-97b3-c4b1ed137cf5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:42:01.000Z",
+   "modified": "2026-11-11T20:42:01.000Z",
+   "name": "NexaShield abuse IP 157.245.13.108",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '157.245.13.108']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:42:01.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7358487c-85dc-5f94-b84c-97744e6c4468",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T13:12:28.000Z",
+   "modified": "2026-11-10T13:12:44.000Z",
+   "name": "NexaShield abuse IP 157.245.36.108",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '157.245.36.108']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T13:12:28.000Z",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e08fb34e-1b10-5ea2-ad46-1b1704695d96",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:05:36.000Z",
+   "modified": "2026-11-11T19:05:36.000Z",
+   "name": "NexaShield abuse IP 157.245.173.174",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '157.245.173.174']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:05:36.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--643519e3-43b1-5aa5-ae8a-1c6cc93cd41f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:40:54.000Z",
+   "modified": "2026-11-12T04:40:54.000Z",
+   "name": "NexaShield abuse IP 157.245.190.211",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '157.245.190.211']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:40:54.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--0dc66e5d-4e8b-5bd0-85d7-f21a5955bb8f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T08:35:13.000Z",
+   "modified": "2026-11-12T08:35:13.000Z",
+   "name": "NexaShield abuse IP 159.65.67.214",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '159.65.67.214']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T08:35:13.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ea372cc6-d149-5b47-bcc6-f20522b0216d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T17:49:39.000Z",
+   "modified": "2026-11-11T17:49:39.000Z",
+   "name": "NexaShield abuse IP 159.65.125.134",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '159.65.125.134']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T17:49:39.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8e58cec3-1c49-53c9-bf6d-bbfbf2b84e73",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T05:00:59.000Z",
+   "modified": "2026-11-12T05:00:59.000Z",
+   "name": "NexaShield abuse IP 159.65.165.205",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '159.65.165.205']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T05:00:59.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8e929f35-a185-59a3-9b97-d8e84a815a0f",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:59:19.000Z",
+   "modified": "2026-11-12T17:05:23.000Z",
+   "name": "NexaShield abuse IP 159.223.59.82",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '159.223.59.82']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:59:19.000Z",
+   "description": "Singapore - AS14061 DigitalOcean, LLC - SSH brute force (13), Port scanning (4)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f4865ada-8bac-5e2f-8763-02af0727c12e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:49:38.000Z",
+   "modified": "2026-11-12T22:21:12.000Z",
+   "name": "NexaShield abuse IP 161.178.134.243",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '161.178.134.243']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:49:38.000Z",
+   "description": "United States - AS16509 Amazon.com, Inc. - Abusive HTTP requests (65)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--72b13c42-6f3c-5364-a8c0-4fa5dd061696",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:29:27.000Z",
+   "modified": "2026-11-12T04:29:41.000Z",
+   "name": "NexaShield abuse IP 162.62.209.177",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '162.62.209.177']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:29:27.000Z",
+   "description": "Germany - AS132203 Shenzhen Tencent Computer Systems Company Limited - Abusive HTTP requests (157), Web injection payload blocked by WAF (26)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ca94bf8f-e36a-5da8-9aeb-5bd26a07633e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T09:54:21.000Z",
+   "modified": "2026-11-12T23:42:18.000Z",
+   "name": "NexaShield abuse IP 164.30.7.153",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '164.30.7.153']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T09:54:21.000Z",
+   "description": "Germany - AS6878 T-Systems International GmbH - SSH brute force (21)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d6775b69-6831-51df-9f58-1ddfb931e003",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:42:41.000Z",
+   "modified": "2026-11-11T20:42:41.000Z",
+   "name": "NexaShield abuse IP 165.22.146.118",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '165.22.146.118']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:42:41.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--751ac817-99c6-5911-b6bf-5cc9de7837f5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T08:24:37.000Z",
+   "modified": "2026-11-12T08:24:37.000Z",
+   "name": "NexaShield abuse IP 165.227.37.108",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '165.227.37.108']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T08:24:37.000Z",
+   "description": "Canada - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--947552c5-f869-50c0-b203-7719cdc8512e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T05:44:40.000Z",
+   "modified": "2026-11-12T05:44:40.000Z",
+   "name": "NexaShield abuse IP 165.227.210.65",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '165.227.210.65']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T05:44:40.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6aa55064-d5d5-5816-b6de-a6ba200c4dd9",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T12:12:27.000Z",
+   "modified": "2026-11-11T12:12:27.000Z",
+   "name": "NexaShield abuse IP 165.232.128.196",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '165.232.128.196']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T12:12:27.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b5ec6ccf-eaa6-5dd1-8e01-0060dff14aab",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T05:20:53.000Z",
+   "modified": "2026-11-12T05:20:53.000Z",
+   "name": "NexaShield abuse IP 165.245.240.78",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '165.245.240.78']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T05:20:53.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f1a2faa5-1ac4-5543-af45-80bc3c0f6b0a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T17:48:05.000Z",
+   "modified": "2026-11-11T17:48:05.000Z",
+   "name": "NexaShield abuse IP 167.71.119.122",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '167.71.119.122']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T17:48:05.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--00b35564-2dd5-5828-8995-fe43aa67fe16",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T01:27:59.000Z",
+   "modified": "2026-11-10T01:32:47.000Z",
+   "name": "NexaShield abuse IP 167.71.213.166",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '167.71.213.166']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T01:27:59.000Z",
+   "description": "Singapore - AS14061 DigitalOcean, LLC - Abusive HTTP requests (48)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bb435ceb-107d-576f-8a97-c178451f3905",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T16:16:18.000Z",
+   "modified": "2026-11-11T16:16:18.000Z",
+   "name": "NexaShield abuse IP 167.99.113.180",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '167.99.113.180']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T16:16:18.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--856a7c85-bc26-5d93-b3c5-5ba956485a8b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T12:31:23.000Z",
+   "modified": "2026-11-10T12:31:47.000Z",
+   "name": "NexaShield abuse IP 167.99.210.137",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '167.99.210.137']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T12:31:23.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7879dd6d-d31b-5719-b8ae-e8c0a3d47a6c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:47:06.000Z",
+   "modified": "2026-11-11T18:51:44.000Z",
+   "name": "NexaShield abuse IP 167.172.62.5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '167.172.62.5']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:47:06.000Z",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (6)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--5f505787-9140-5384-93d4-2520664c6210",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T07:10:32.000Z",
+   "modified": "2026-11-12T07:10:32.000Z",
+   "name": "NexaShield abuse IP 167.172.152.67",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '167.172.152.67']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T07:10:32.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--77d71650-8de5-5f94-8093-502c5659d86d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:25:03.000Z",
+   "modified": "2026-11-11T19:25:03.000Z",
+   "name": "NexaShield abuse IP 168.144.167.130",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '168.144.167.130']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:25:03.000Z",
+   "description": "Australia - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7dfbba82-48ed-5e47-8792-717f2b4fb852",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:47:11.000Z",
+   "modified": "2026-11-12T04:47:11.000Z",
+   "name": "NexaShield abuse IP 170.64.128.130",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '170.64.128.130']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:47:11.000Z",
+   "description": "Australia - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ea07bb02-99b6-53f0-8287-38729cafc5c3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T07:21:54.000Z",
+   "modified": "2026-11-12T07:21:54.000Z",
+   "name": "NexaShield abuse IP 170.64.139.120",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '170.64.139.120']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T07:21:54.000Z",
+   "description": "Australia - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--963e67fa-3280-51f5-adfd-f916c0e7f207",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T14:57:50.000Z",
+   "modified": "2026-11-11T14:57:51.000Z",
+   "name": "NexaShield abuse IP 172.104.233.215",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '172.104.233.215']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T14:57:50.000Z",
+   "description": "Germany - AS63949 Akamai Technologies, Inc. - Port scanning (3)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8f25721a-0be3-51fd-94e7-ba164cfe5fba",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T21:20:15.000Z",
+   "modified": "2026-11-12T07:34:36.000Z",
+   "name": "NexaShield abuse IP 176.65.149.207",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '176.65.149.207']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T21:20:15.000Z",
+   "description": "The Netherlands - AS51396 Pfcloud UG (haftungsbeschrankt) - Abusive HTTP requests (3)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--44e68067-7148-582b-9919-7890859885c0",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T11:54:59.000Z",
+   "modified": "2026-11-11T11:55:06.000Z",
+   "name": "NexaShield abuse IP 178.18.248.162",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '178.18.248.162']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T11:54:59.000Z",
+   "description": "Germany - AS51167 Contabo GmbH - Abusive HTTP requests (150)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ea9fa2c8-631b-53fb-8ba5-6afed333a34c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T12:57:26.000Z",
+   "modified": "2026-11-11T12:57:26.000Z",
+   "name": "NexaShield abuse IP 178.62.205.161",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '178.62.205.161']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T12:57:26.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7320431f-83c9-59b6-9469-73609c0f48f8",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T15:45:37.000Z",
+   "modified": "2026-11-11T11:15:26.000Z",
+   "name": "NexaShield abuse IP 178.128.57.150",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '178.128.57.150']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T15:45:37.000Z",
+   "description": "Singapore - AS14061 DigitalOcean, LLC - SSH brute force (29), Port scanning (1)",
+   "labels": [
+    "scan",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--afad9d1e-bf4b-5e92-9392-543bb07c3ecc",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:03:58.000Z",
+   "modified": "2026-11-11T10:03:58.000Z",
+   "name": "NexaShield abuse IP 178.128.70.123",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '178.128.70.123']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:03:58.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8d13acaf-60d3-58cf-8db1-fa7bdbe9316a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T19:32:10.000Z",
+   "modified": "2026-11-10T13:12:18.000Z",
+   "name": "NexaShield abuse IP 184.194.161.222",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '184.194.161.222']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T19:32:10.000Z",
+   "description": "United States - AS14618 Amazon.com, Inc. - Abusive HTTP requests (156)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c9a33051-a987-5fc7-beb8-25a4b267ca08",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T11:49:29.000Z",
+   "modified": "2026-11-11T12:32:53.000Z",
+   "name": "NexaShield abuse IP 185.87.121.1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '185.87.121.1']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T11:49:29.000Z",
+   "description": "Germany - AS153810 MDN TECHNOLOGY LTD - SSH brute force (10)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--fb2d9155-bec6-5c6a-b51f-678f295040d4",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T15:10:31.000Z",
+   "modified": "2026-11-12T07:10:40.000Z",
+   "name": "NexaShield abuse IP 185.112.150.97",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '185.112.150.97']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T15:10:31.000Z",
+   "description": "Iran - AS48715 Sefroyek Pardaz Engineering PJSC - SSH brute force (47)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ad9d37cf-08ec-5198-b33c-ea5a00b9d983",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T13:53:08.000Z",
+   "modified": "2026-11-10T13:53:13.000Z",
+   "name": "NexaShield abuse IP 185.176.255.76",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '185.176.255.76']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T13:53:08.000Z",
+   "description": "Germany - AS42366 TerraTransit AG - Abusive HTTP requests (51)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d35bb84b-7be5-5917-8e93-77331453f27b",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T21:10:49.000Z",
+   "modified": "2026-11-13T06:09:56.000Z",
+   "name": "NexaShield abuse IP 185.243.5.118",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '185.243.5.118']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T21:10:49.000Z",
+   "description": "United States - AS23470 ReliableSite.Net LLC - Port scanning (5)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9eb5ad4a-ea49-5cb0-b539-d5c5c749b48d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T06:34:08.000Z",
+   "modified": "2026-11-12T06:34:08.000Z",
+   "name": "NexaShield abuse IP 188.166.152.252",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '188.166.152.252']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T06:34:08.000Z",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--cc2faeb0-cbb3-589a-9f4e-6b1c58dd84ca",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T16:09:54.000Z",
+   "modified": "2026-11-12T16:11:32.000Z",
+   "name": "NexaShield abuse IP 188.166.233.47",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '188.166.233.47']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T16:09:54.000Z",
+   "description": "Singapore - AS14061 DigitalOcean, LLC - Abusive HTTP requests (24)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--05a81d3d-b2cc-5719-a68a-361833269487",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T18:41:28.000Z",
+   "modified": "2026-11-13T19:32:22.000Z",
+   "name": "NexaShield abuse IP 193.46.255.86",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '193.46.255.86']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T18:41:28.000Z",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (138), Spamhaus DROP-listed network (8)",
+   "labels": [
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--38707612-08a6-58ea-810e-dde1f8e4a57e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T08:09:01.000Z",
+   "modified": "2026-11-11T08:09:21.000Z",
+   "name": "NexaShield abuse IP 193.112.192.91",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '193.112.192.91']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T08:09:01.000Z",
+   "description": "China - AS45090 Shenzhen Tencent Computer Systems Company Limited - SSH brute force (5)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--36f9bb73-81fb-5662-be56-165ac3afa4b5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T06:05:22.000Z",
+   "modified": "2026-11-13T09:19:40.000Z",
+   "name": "NexaShield abuse IP 194.180.49.16",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '194.180.49.16']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T06:05:22.000Z",
+   "description": "Germany - AS201814 MEVSPACE sp. z o.o. - Exploitation attempt (CVE / RCE / injection) (64)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--638448da-7c02-582d-99bb-c534ef2ad6b3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-09T22:14:09.000Z",
+   "modified": "2026-11-13T18:58:40.000Z",
+   "name": "NexaShield abuse IP 194.180.49.41",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '194.180.49.41']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-09T22:14:09.000Z",
+   "description": "Germany - AS201814 MEVSPACE sp. z o.o. - Abusive HTTP requests (52), Port scanning (9)",
+   "labels": [
+    "scan",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--927438d6-1304-5916-86aa-9d146daf68fd",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T21:08:16.000Z",
+   "modified": "2026-11-12T21:08:30.000Z",
+   "name": "NexaShield abuse IP 199.247.13.109",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '199.247.13.109']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T21:08:16.000Z",
+   "description": "France - AS20473 The Constant Company, LLC - SSH brute force (8)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--866f86a3-f61f-56ad-b468-6a4f65180530",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T19:50:23.000Z",
+   "modified": "2026-11-11T19:53:21.000Z",
+   "name": "NexaShield abuse IP 201.79.125.55",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '201.79.125.55']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T19:50:23.000Z",
+   "description": "United States - AS? Unknown - Abusive HTTP requests (24)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--09d12cad-0edf-556c-8d72-a410580852b2",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T06:11:00.000Z",
+   "modified": "2026-11-12T06:11:00.000Z",
+   "name": "NexaShield abuse IP 201.79.157.180",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '201.79.157.180']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T06:11:00.000Z",
+   "description": "United States - AS? Unknown - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--df88db1a-ca01-5541-8e73-53de58179c5c",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T06:18:36.000Z",
+   "modified": "2026-11-10T06:18:58.000Z",
+   "name": "NexaShield abuse IP 206.81.24.227",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '206.81.24.227']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T06:18:36.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--21dc4ebf-b00f-581a-a657-467bb1279df8",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T23:59:03.000Z",
+   "modified": "2026-11-11T23:59:07.000Z",
+   "name": "NexaShield abuse IP 207.175.165.55",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '207.175.165.55']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T23:59:03.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (75)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--9507412d-37cd-5b53-b54e-8c959569b69d",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T09:39:50.000Z",
+   "modified": "2026-11-13T11:26:40.000Z",
+   "name": "NexaShield abuse IP 207.175.237.228",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '207.175.237.228']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T09:39:50.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (295)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c6acc9dd-4ff5-5b6a-8526-bbe9c6c46c71",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:45:19.000Z",
+   "modified": "2026-11-11T10:45:19.000Z",
+   "name": "NexaShield abuse IP 209.38.100.95",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '209.38.100.95']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:45:19.000Z",
+   "description": "The Netherlands - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--72554d01-a69c-554a-9ec7-da388e12ade3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T20:08:34.000Z",
+   "modified": "2026-11-11T20:08:59.000Z",
+   "name": "NexaShield abuse IP 209.38.208.202",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '209.38.208.202']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T20:08:34.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6), Port scanning (1)",
+   "labels": [
+    "scan",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b2b027fc-b57c-517d-a3f8-784c496c14bf",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T10:34:31.000Z",
+   "modified": "2026-11-11T10:34:31.000Z",
+   "name": "NexaShield abuse IP 209.97.183.170",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '209.97.183.170']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T10:34:31.000Z",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Exploitation attempt (CVE / RCE / injection) (3)",
+   "labels": [
+    "exploit"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--61e76ad2-4423-5637-aae5-8d373b5b912a",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T01:09:22.000Z",
+   "modified": "2026-11-12T04:44:06.000Z",
+   "name": "NexaShield abuse IP 209.99.190.186",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '209.99.190.186']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T01:09:22.000Z",
+   "description": "United States - AS402253 SKN Subnet & Telecom Ltd - SSH brute force (5), Spamhaus DROP-listed network (1)",
+   "labels": [
+    "spamhaus",
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3ea2d7ef-182c-5b7f-ae7a-aed0f21b1ea5",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T18:22:16.000Z",
+   "modified": "2026-11-12T18:41:06.000Z",
+   "name": "NexaShield abuse IP 222.210.35.197",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '222.210.35.197']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T18:22:16.000Z",
+   "description": "China - AS38283 CHINANET SiChuan Telecom Internet Data Center - SSH brute force (342)",
+   "labels": [
+    "ssh"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--bd0042dd-da07-5323-a2ca-65aa46465235",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-12T04:20:43.000Z",
+   "modified": "2026-11-12T08:09:33.000Z",
+   "name": "NexaShield abuse IP 2400:8d60:8::96b0:ddfd",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv6-addr:value = '2400:8d60:8::96b0:ddfd']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-12T04:20:43.000Z",
+   "description": "Japan - AS149440 Evoxt Sdn. Bhd. - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8a1bf921-8794-500b-84ad-03086c2931ab",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T02:10:47.000Z",
+   "modified": "2026-11-11T07:01:03.000Z",
+   "name": "NexaShield abuse IP 2602:fa59:10:14c::1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv6-addr:value = '2602:fa59:10:14c::1']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T02:10:47.000Z",
+   "description": "United States - AS14956 RouterHosting LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--67844f90-4da9-569a-88dc-cc339c257850",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-10T06:46:42.000Z",
+   "modified": "2026-11-10T06:46:42.000Z",
+   "name": "NexaShield abuse IP 2a02:c207:2319:3820::1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv6-addr:value = '2a02:c207:2319:3820::1']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-10T06:46:42.000Z",
+   "description": "Germany - AS51167 Contabo GmbH - Web injection payload blocked by WAF (8), Abusive HTTP requests (3)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "199.247.13.109",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 20473,
+  "asn_org": "The Constant Company, LLC",
+  "categories": {
+    "ssh": 8
+  },
+  "events": 8,
+  "first_seen": "2026-11-12T21:08:16Z",
+  "last_seen": "2026-11-12T21:08:30Z",
+  "reported": "2026-11-12T22:28:55Z"
+}

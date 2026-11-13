@@ -1,0 +1,14 @@
+{
+  "ip": "2602:fa59:10:14c::1",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14956,
+  "asn_org": "RouterHosting LLC",
+  "categories": {
+    "web": 6
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T02:10:47Z",
+  "last_seen": "2026-11-11T07:01:03Z",
+  "reported": "2026-11-11T17:07:49Z"
+}

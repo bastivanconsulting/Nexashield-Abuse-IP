@@ -1,0 +1,15 @@
+{
+  "ip": "80.94.95.115",
+  "country_code": "HU",
+  "country": "Hungary",
+  "asn": 204428,
+  "asn_org": "SS-Net",
+  "categories": {
+    "scan": 281,
+    "ssh": 10
+  },
+  "events": 291,
+  "first_seen": "2026-11-11T21:29:19Z",
+  "last_seen": "2026-11-13T03:56:58Z",
+  "reported": "2026-11-12T02:25:33Z"
+}

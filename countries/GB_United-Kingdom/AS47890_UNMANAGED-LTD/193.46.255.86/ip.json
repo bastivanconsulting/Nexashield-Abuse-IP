@@ -1,0 +1,15 @@
+{
+  "ip": "193.46.255.86",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 47890,
+  "asn_org": "UNMANAGED LTD",
+  "categories": {
+    "spamhaus": 8,
+    "ssh": 138
+  },
+  "events": 146,
+  "first_seen": "2026-11-09T18:41:28Z",
+  "last_seen": "2026-11-13T19:32:22Z",
+  "reported": "2026-11-11T17:05:43Z"
+}

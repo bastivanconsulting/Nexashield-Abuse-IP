@@ -1,0 +1,15 @@
+{
+  "ip": "4.180.183.247",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "scan": 2,
+    "ssh": 9
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T13:57:33Z",
+  "last_seen": "2026-11-12T14:03:00Z",
+  "reported": "2026-11-12T16:24:35Z"
+}

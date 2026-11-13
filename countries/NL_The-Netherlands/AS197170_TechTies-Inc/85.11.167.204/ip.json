@@ -1,0 +1,15 @@
+{
+  "ip": "85.11.167.204",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+    "spamhaus": 11,
+    "web": 11
+  },
+  "events": 22,
+  "first_seen": "2026-11-09T20:24:33Z",
+  "last_seen": "2026-11-13T18:30:15Z",
+  "reported": "2026-11-11T17:07:35Z"
+}

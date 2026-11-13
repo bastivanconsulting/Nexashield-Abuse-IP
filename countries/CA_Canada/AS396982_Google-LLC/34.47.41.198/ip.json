@@ -1,0 +1,15 @@
+{
+  "ip": "34.47.41.198",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 26,
+    "web": 258
+  },
+  "events": 284,
+  "first_seen": "2026-11-11T05:02:09Z",
+  "last_seen": "2026-11-11T05:03:06Z",
+  "reported": "2026-11-11T17:06:48Z"
+}

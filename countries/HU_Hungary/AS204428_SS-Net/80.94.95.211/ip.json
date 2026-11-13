@@ -1,0 +1,14 @@
+{
+  "ip": "80.94.95.211",
+  "country_code": "HU",
+  "country": "Hungary",
+  "asn": 204428,
+  "asn_org": "SS-Net",
+  "categories": {
+    "web": 5
+  },
+  "events": 5,
+  "first_seen": "2026-11-10T02:06:15Z",
+  "last_seen": "2026-11-10T02:06:16Z",
+  "reported": "2026-11-11T17:07:59Z"
+}

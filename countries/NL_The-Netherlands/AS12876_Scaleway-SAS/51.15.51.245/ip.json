@@ -1,0 +1,15 @@
+{
+  "ip": "51.15.51.245",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 12876,
+  "asn_org": "Scaleway SAS",
+  "categories": {
+    "web": 6,
+    "waf": 16
+  },
+  "events": 22,
+  "first_seen": "2026-11-11T14:13:13Z",
+  "last_seen": "2026-11-11T14:13:13Z",
+  "reported": "2026-11-11T17:07:21Z"
+}

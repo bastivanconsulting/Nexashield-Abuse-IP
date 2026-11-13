@@ -1,0 +1,14 @@
+{
+  "ip": "116.41.81.52",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 17858,
+  "asn_org": "LG POWERCOMM",
+  "categories": {
+    "exploit": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-12T14:33:41Z",
+  "last_seen": "2026-11-12T14:33:41Z",
+  "reported": "2026-11-12T16:24:40Z"
+}

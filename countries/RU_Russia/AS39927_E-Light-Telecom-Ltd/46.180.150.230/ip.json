@@ -1,0 +1,14 @@
+{
+  "ip": "46.180.150.230",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 39927,
+  "asn_org": "E-Light-Telecom Ltd.",
+  "categories": {
+    "udp": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-11T10:36:01Z",
+  "last_seen": "2026-11-11T16:07:52Z",
+  "reported": "2026-11-11T16:34:50Z"
+}
