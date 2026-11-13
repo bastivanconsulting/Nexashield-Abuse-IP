@@ -39,6 +39,52 @@
     <p id="checkres" class="checkres" role="status" aria-live="polite"></p>
   </section>
 
+  <section id="mine" hidden>
+    <article class="card shield">
+      <div class="shield-state">
+        <span class="badge" id="m-state">●</span>
+        <div>
+          <h2 id="m-title">Protection active</h2>
+          <p class="hint" id="m-sub"></p>
+        </div>
+      </div>
+      <dl class="facts">
+        <div><dt data-i18n="m_list">IP surveillées</dt><dd id="m-list">–</dd></div>
+        <div><dt data-i18n="m_engine">Moteur</dt><dd id="m-engine">–</dd></div>
+        <div><dt data-i18n="m_updated">Liste mise à jour</dt><dd id="m-updated">–</dd></div>
+        <div><dt data-i18n="m_since">Protégé depuis</dt><dd id="m-since">–</dd></div>
+      </dl>
+    </article>
+    <section class="kpis">
+      <article class="kpi red"><b id="m-pk">–</b><span data-i18n="m_pk">paquets bloqués</span></article>
+      <article class="kpi amber"><b id="m-today">–</b><span data-i18n="m_today">bloqués aujourd'hui</span></article>
+      <article class="kpi violet"><b id="m-att">–</b><span data-i18n="m_att">attaquants stoppés</span></article>
+      <article class="kpi blue"><b id="m-cc">–</b><span data-i18n="m_cc">pays d'origine</span></article>
+      <article class="kpi green"><b id="m-bytes">–</b><span data-i18n="m_bytes">trafic malveillant évité</span></article>
+    </section>
+    <section class="grid g-2">
+      <article class="card">
+        <header><h2 data-i18n="m_daily">Attaques bloquées par jour</h2></header>
+        <div class="chart-box"><canvas id="c-mdaily"></canvas></div>
+      </article>
+      <article class="card">
+        <header><h2 data-i18n="m_hourly">Dernières 48 heures</h2></header>
+        <div class="chart-box"><canvas id="c-mhourly"></canvas></div>
+      </article>
+    </section>
+    <article class="card">
+      <header><h2 data-i18n="m_top">Les attaquants stoppés chez vous</h2><span class="hint" data-i18n="m_top_hint">Classés par nombre de tentatives bloquées</span></header>
+      <div class="table-wrap">
+        <table id="mtbl">
+          <thead><tr><th data-i18n="col_ip">IP</th><th data-i18n="col_cc">Pays</th><th data-i18n="col_asn">Réseau</th><th data-i18n="col_cat">Nature</th><th class="num" data-i18n="m_col_pk">Bloqués</th><th data-i18n="col_last">Dernière tentative</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="empty" id="m-empty" hidden data-i18n="m_empty">Aucune tentative bloquée pour l'instant : votre machine n'a pas encore été visée par une IP de la liste. Les compteurs se mettent à jour toutes les 5 minutes.</p>
+    </article>
+    <h2 class="section-title" data-i18n="m_global">Le paysage mondial de la menace</h2>
+  </section>
+
   <section class="kpis" id="kpis">
     <article class="kpi red"><b id="k-ips">–</b><span data-i18n="k_ips">IP malveillantes</span></article>
     <article class="kpi blue"><b id="k-cc">–</b><span data-i18n="k_cc">pays</span></article>

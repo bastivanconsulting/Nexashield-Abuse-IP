@@ -45,7 +45,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 232 IPs, 35 countries, 93 networks, 18105 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 232 IPs, 35 countries, 93 networks, 18113 events">
 </picture>
 
 > [!TIP]
@@ -70,6 +70,17 @@ And the more networks shut the door on these addresses, the less they pay off fo
 - [x] **Built for analysis**: country → network (ASN) → IP, with a readable page and a JSON record for every address.
 - [x] **Zero customer data**: no hostnames, no targets, no raw logs.
 
+## 📊 Your own dashboard, on your machine
+
+The Linux installer opens a **local dashboard** at `http://127.0.0.1:8787`: see live what NexaShield blocks **on this machine**.
+
+- 🛡️ **Protection status**: list freshness, active engine, protected since.
+- 📈 **Blocked attempts**: total, today, per day and hour by hour.
+- 🌍 **Map of attackers stopped on your machine**, with country, network and attack type.
+- 🔎 **Lookup**: is an IP listed, and has it already tried to reach you?
+
+Nothing leaves your machine: counters come from your own firewall, the page only listens locally (remote access via `ssh -L 8787:127.0.0.1:8787 your-server`), and the web server runs with no privileges at all.
+
 ## 🚀 30-second install, automatic updates
 
 The installers block **inbound and outbound** traffic, then **update themselves every hour**. Local allowlist, safeguard against truncated downloads, one-command uninstall.
@@ -82,7 +93,7 @@ curl -fsSLO https://raw.githubusercontent.com/bastivanconsulting/Nexashield-Abus
 less install.sh          # always read a script before running it
 sudo bash install.sh
 ```
-Status: `sudo nexashield-blocklist status` · allowlist: `/etc/nexashield/allowlist.txt` · uninstall: `sudo bash install.sh --uninstall`
+Dashboard: `http://127.0.0.1:8787` · status: `sudo nexashield-blocklist status` · allowlist: `/etc/nexashield/allowlist.txt` · uninstall: `sudo bash install.sh --uninstall`
 </details>
 
 <details>

@@ -45,7 +45,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 232 IP, 35 pays, 93 réseaux, 18105 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 232 IP, 35 pays, 93 réseaux, 18113 événements">
 </picture>
 
 > [!TIP]
@@ -71,6 +71,17 @@ Et plus il y a de réseaux qui ferment la porte à ces adresses, moins elles rap
 - [x] **Zéro donnée client** : ni nom d'hôte, ni adresse cible, ni journal brut.
 - [x] **Synthèse rédigée par l'IA**, avec contrôle automatique des chiffres.
 
+## 📊 Votre tableau de bord, chez vous
+
+L'installateur Linux ouvre un **tableau de bord local** sur `http://127.0.0.1:8787` : voyez en direct ce que NexaShield bloque **sur votre machine**.
+
+- 🛡️ **État de la protection** : liste à jour, moteur actif, protégé depuis quand.
+- 📈 **Tentatives bloquées** : total, aujourd'hui, par jour et heure par heure.
+- 🌍 **Carte des attaquants stoppés chez vous**, avec leur pays, leur réseau et la nature de leurs attaques.
+- 🔎 **Recherche** : une IP est-elle listée, et a-t-elle déjà tenté de vous joindre ?
+
+Rien ne sort de votre machine : les compteurs viennent de votre pare-feu, la page n'écoute qu'en local (accès distant par `ssh -L 8787:127.0.0.1:8787 votre-serveur`), et le serveur web tourne sans aucun droit.
+
 ## 🚀 Installation en 30 secondes, mise à jour automatique
 
 Les installateurs appliquent le blocage **en entrée et en sortie**, puis **se mettent à jour tout seuls toutes les heures**. Liste d'exceptions locale, garde-fou contre une liste tronquée, désinstallation en une commande.
@@ -83,7 +94,7 @@ curl -fsSLO https://raw.githubusercontent.com/bastivanconsulting/Nexashield-Abus
 less install.sh          # lisez toujours un script avant de l'exécuter
 sudo bash install.sh
 ```
-État : `sudo nexashield-blocklist status` · exceptions : `/etc/nexashield/allowlist.txt` · désinstaller : `sudo bash install.sh --uninstall`
+Tableau de bord : `http://127.0.0.1:8787` · état : `sudo nexashield-blocklist status` · exceptions : `/etc/nexashield/allowlist.txt` · désinstaller : `sudo bash install.sh --uninstall`
 </details>
 
 <details>
@@ -308,7 +319,7 @@ lists/
 ├── kubernetes/                          ← Cilium
 └── abuse-ip.csv · abuse-ip.json         ← tableau complet (pays, ASN, natures, dates)
 docs/INTEGRATION.md · SOFTWARE.md       ← guides équipements et logiciels
-dashboard/                               ← tableau de bord interactif
+dashboard/                               ← tableau de bord (installé en local par tools/linux)
 tools/linux/install.sh                   ← installateur Linux (mise à jour toutes les heures)
 tools/windows/                           ← installateur et script PowerShell
 tools/mikrotik/install.rsc               ← installateur RouterOS

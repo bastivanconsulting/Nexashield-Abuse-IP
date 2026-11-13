@@ -26,6 +26,15 @@
       notlisted: (ip) => `✓ ${ip} n'est pas dans la liste NexaShield.`, invalid: "Saisissez une adresse IPv4 ou IPv6 valide.",
       shown: (a, b) => `${a} adresse(s) sur ${b}`, ago: (h) => h < 1 ? "il y a moins d'une heure" : h < 48 ? `il y a ${h} h` : `il y a ${Math.round(h / 24)} j`,
       ai_meta: (d) => `générée le ${d} · Mistral AI`, ips: "IP", events: "événements", error: "Impossible de charger les données. Réessayez dans un instant.",
+      m_list: "IP surveillées", m_engine: "Moteur", m_updated: "Liste mise à jour", m_since: "Protégé depuis",
+      m_pk: "tentatives bloquées", m_today: "bloquées aujourd'hui", m_att: "attaquants stoppés", m_cc: "pays d'origine", m_bytes: "trafic malveillant évité",
+      m_daily: "Attaques bloquées par jour", m_hourly: "Dernières 48 heures", m_top: "Les attaquants stoppés chez vous", m_top_hint: "Classés par nombre de tentatives bloquées",
+      m_col_pk: "Bloqués", m_global: "Le paysage mondial de la menace", blocked: "tentatives",
+      m_empty: "Aucune tentative bloquée pour l'instant : votre machine n'a pas encore été visée par une IP de la liste. Les compteurs se mettent à jour toutes les 5 minutes.",
+      m_on: "Protection active", m_off: "Protection inactive", m_on_sub: (h) => `NexaShield veille sur ${h} et bloque les attaquants connus, en entrée comme en sortie.`,
+      m_off_sub: "Le pare-feu ne contient plus la liste NexaShield. Lancez : sudo nexashield-blocklist update",
+      m_title: "Votre bouclier NexaShield.", m_lead: "Voici, en direct, les attaques que NexaShield a stoppées sur cette machine, et d'où elles viennent.",
+      collected: (m) => m < 1 ? "relevé à l'instant" : `relevé il y a ${m} min`, hit_you: (n) => ` Elle a tenté ${n} fois de joindre cette machine : bloquée.`,
     },
     en: {
       live: "Live data", cta_short: "Protect my company", kicker: "THREAT INTELLIGENCE · OPEN DATA",
@@ -46,6 +55,15 @@
       notlisted: (ip) => `✓ ${ip} is not on the NexaShield list.`, invalid: "Enter a valid IPv4 or IPv6 address.",
       shown: (a, b) => `${a} of ${b} address(es)`, ago: (h) => h < 1 ? "less than an hour ago" : h < 48 ? `${h} h ago` : `${Math.round(h / 24)} days ago`,
       ai_meta: (d) => `generated ${d} · Mistral AI · in French`, ips: "IPs", events: "events", error: "Could not load data. Please retry in a moment.",
+      m_list: "Watched IPs", m_engine: "Engine", m_updated: "List updated", m_since: "Protected since",
+      m_pk: "blocked attempts", m_today: "blocked today", m_att: "attackers stopped", m_cc: "source countries", m_bytes: "malicious traffic avoided",
+      m_daily: "Attacks blocked per day", m_hourly: "Last 48 hours", m_top: "Attackers stopped on this machine", m_top_hint: "Ranked by blocked attempts",
+      m_col_pk: "Blocked", m_global: "The global threat landscape", blocked: "attempts",
+      m_empty: "No blocked attempt yet: no IP from the list has targeted this machine so far. Counters refresh every 5 minutes.",
+      m_on: "Protection active", m_off: "Protection inactive", m_on_sub: (h) => `NexaShield is guarding ${h} and blocks known attackers, inbound and outbound.`,
+      m_off_sub: "The firewall no longer holds the NexaShield list. Run: sudo nexashield-blocklist update",
+      m_title: "Your NexaShield shield.", m_lead: "Live view of the attacks NexaShield stopped on this machine, and where they come from.",
+      collected: (m) => m < 1 ? "collected just now" : `collected ${m} min ago`, hit_you: (n) => ` It tried to reach this machine ${n} times: blocked.`,
     },
   };
   const CATS = {
@@ -67,7 +85,7 @@
 
   let lang = (() => { try { return localStorage.getItem("ns-lang") || (navigator.language || "fr").slice(0, 2); } catch { return "fr"; } })();
   if (!T[lang]) lang = "en";
-  let data = [], byCC = {}, charts = [], map = null, sortKey = "events", sortAsc = false, page = 0, tab = "Linux", aiRaw = null;
+  let local = null, hits = {}, data = [], byCC = {}, charts = [], map = null, sortKey = "events", sortAsc = false, page = 0, tab = "Linux", aiRaw = null;
   const PER = 15;
 
   const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
@@ -78,8 +96,9 @@
   const validIP = (s) => /^(25[0-5]|2[0-4]\d|1?\d?\d)(\.(25[0-5]|2[0-4]\d|1?\d?\d)){3}$/.test(s) || (/^[0-9a-f:]+$/i.test(s) && s.includes(":") && s.length <= 39);
   const normIP = (s) => { s = s.trim().toLowerCase(); if (!s.includes(":")) return s; try { return new URL(`http://[${s}]/`).hostname.slice(1, -1); } catch { return s; } };
 
-  async function getJSON(p) { for (const u of ["../" + p, RAW + p]) { try { const r = await fetch(u, { cache: "no-cache" }); if (r.ok) return await r.json(); } catch { /* source suivante */ } } throw new Error(p); }
-  async function getText(p) { for (const u of ["../" + p, RAW + p]) { try { const r = await fetch(u, { cache: "no-cache" }); if (r.ok) return await r.text(); } catch { /* source suivante */ } } return null; }
+  const srcs = (p) => local ? ["data/" + p.split("/").pop()] : ["../" + p, RAW + p];
+  async function getJSON(p) { for (const u of srcs(p)) { try { const r = await fetch(u, { cache: "no-cache" }); if (r.ok) return await r.json(); } catch { /* source suivante */ } } throw new Error(p); }
+  async function getText(p) { for (const u of srcs(p)) { try { const r = await fetch(u, { cache: "no-cache" }); if (r.ok) return await r.text(); } catch { /* source suivante */ } } return null; }
 
   function applyLang() {
     const t = T[lang];
@@ -101,7 +120,43 @@
     $("#k-ev").textContent = fmt(data.reduce((a, x) => a + (+x.events || 0), 0));
     $("#k-last").textContent = last ? new Date(last).toLocaleString(lang === "fr" ? "fr-FR" : "en-GB", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) : "–";
     if (last) $("#updated").textContent = t.ago(Math.max(0, Math.floor((Date.now() - Date.parse(last)) / 3.6e6)));
+    if (local) drawMine();
     drawCharts(); drawMap(); fillFilters(); drawTable(); drawTabs(); drawAI();
+  }
+
+  const day = (v) => v ? new Date(v).toLocaleString(lang === "fr" ? "fr-FR" : "en-GB", { day: "2-digit", month: "short", year: "numeric", timeZone: "UTC" }) : "–";
+  const bytes = (b) => { const u = ["o", "Ko", "Mo", "Go", "To"], ue = ["B", "KB", "MB", "GB", "TB"]; let i = 0; while (b >= 1024 && i < 4) { b /= 1024; i++; } return `${b.toFixed(i ? 1 : 0)} ${(lang === "fr" ? u : ue)[i]}`; };
+
+  function drawMine() {
+    const t = T[lang], m = local, on = !!m.active;
+    $("#mine").hidden = false; $("#use").hidden = true;
+    document.querySelector(".hero h1").textContent = t.m_title;
+    document.querySelector(".hero .lead").textContent = t.m_lead;
+    document.querySelector(".shield").classList.toggle("off", !on);
+    $("#m-state").textContent = on ? "✓" : "!";
+    $("#m-title").textContent = on ? t.m_on : t.m_off;
+    $("#m-sub").textContent = on ? t.m_on_sub(m.host || "") : t.m_off_sub;
+    $("#m-list").textContent = m.list && m.list.v4 != null ? fmt(m.list.v4 + m.list.v6) : "–";
+    $("#m-engine").textContent = m.engine || "–";
+    $("#m-updated").textContent = m.list && m.list.updated ? new Date(m.list.updated).toLocaleString(lang === "fr" ? "fr-FR" : "en-GB", { hour: "2-digit", minute: "2-digit", day: "2-digit", month: "short" }) : "–";
+    $("#m-since").textContent = day(m.installed);
+    const tot = m.totals || {};
+    $("#m-pk").textContent = fmt(tot.packets || 0); $("#m-today").textContent = fmt(tot.today || 0);
+    $("#m-att").textContent = fmt(tot.attackers || 0); $("#m-bytes").textContent = bytes(tot.bytes || 0);
+    const idx = Object.fromEntries(data.map((x) => [x.ip, x]));
+    $("#m-cc").textContent = fmt(new Set((m.top || []).map((h) => (idx[h.ip] || {}).country_code).filter(Boolean)).size);
+    if (m.generated) $("#updated").textContent = t.collected(Math.max(0, Math.floor((Date.now() - Date.parse(m.generated)) / 6e4)));
+    const tb = $("#mtbl tbody"); tb.textContent = "";
+    (m.top || []).slice(0, 25).forEach((h) => {
+      const x = idx[h.ip] || {}; const tags = el("td");
+      Object.keys(x.categories || {}).forEach((k) => tags.append(el("span", { className: "tag", textContent: catLabel(k) })));
+      tb.append(el("tr", {},
+        el("td", { className: "ip" }, x.ip ? el("a", { href: REPO + folder(x), textContent: h.ip, rel: "noopener" }) : h.ip),
+        el("td", { textContent: x.country || "–" }), el("td", { textContent: x.asn_org ? `AS${x.asn || "?"} ${x.asn_org}` : "–" }), tags,
+        el("td", { className: "num", textContent: fmt(h.packets) }), el("td", { textContent: (h.last || "").replace("T", " ").replace("Z", "") })));
+    });
+    $("#m-empty").hidden = (m.top || []).length > 0;
+    $("#mtbl").hidden = !(m.top || []).length;
   }
 
   function drawCharts() {
@@ -119,6 +174,15 @@
     charts.push(new Chart($("#c-time"), { type: "bar",
       data: { labels: dk, datasets: [{ label: T[lang].ips, data: dk.map((d) => days[d]), backgroundColor: "#2563eb", borderRadius: 6, maxBarThickness: 28 }] },
       options: { maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { beginAtZero: true, ticks: { precision: 0 } } } } }));
+    if (local) {
+      const d = local.daily || {}, dk2 = Object.keys(d).sort().slice(-30), h = local.hourly || {}, hk = Object.keys(h).sort();
+      charts.push(new Chart($("#c-mdaily"), { type: "bar",
+        data: { labels: dk2, datasets: [{ label: T[lang].blocked, data: dk2.map((k) => d[k]), backgroundColor: "#dc2626", borderRadius: 6, maxBarThickness: 28 }] },
+        options: { maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { beginAtZero: true, ticks: { precision: 0 } } } } }));
+      charts.push(new Chart($("#c-mhourly"), { type: "line",
+        data: { labels: hk.map((k) => k.slice(5).replace("T", " ") + "h"), datasets: [{ label: T[lang].blocked, data: hk.map((k) => h[k]), borderColor: "#d97706", backgroundColor: "rgba(217,119,6,.15)", fill: true, tension: .35, pointRadius: 0 }] },
+        options: { maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false }, ticks: { maxTicksLimit: 8 } }, y: { beginAtZero: true, ticks: { precision: 0 } } } } }));
+    }
     const asn = {}; data.forEach((x) => { const k = x.asn || 0; asn[k] = asn[k] || { n: 0, org: x.asn_org }; asn[k].n++; });
     const ak = Object.keys(asn).sort((a, b) => asn[b].n - asn[a].n || a - b).slice(0, 8);
     charts.push(new Chart($("#c-asn"), { type: "bar",
@@ -126,9 +190,13 @@
       options: { indexAxis: "y", maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true, ticks: { precision: 0 } }, y: { grid: { display: false }, ticks: { color: fg } } } } }));
   }
 
-  function drawMap() {
+  function drawMap() { setTimeout(drawMapNow, 0); }
+  function drawMapNow() {
     const box = $("#map"); box.textContent = "";
-    const values = {}; Object.entries(byCC).forEach(([cc, a]) => { values[cc] = a.length; });
+    if (!box.clientWidth || !box.clientHeight) return;
+    const values = {};
+    if (local && Object.keys(hits).length) data.forEach((x) => { if (hits[x.ip]) values[x.country_code] = (values[x.country_code] || 0) + 1; });
+    else Object.entries(byCC).forEach(([cc, a]) => { values[cc] = a.length; });
     try {
       map = new jsVectorMap({
         selector: "#map", map: "world", zoomButtons: false, zoomOnScroll: false, backgroundColor: "transparent",
@@ -202,7 +270,7 @@
     if (!validIP(raw)) { res.className = "checkres bad"; res.textContent = t.invalid; return; }
     const ip = normIP(raw), x = data.find((d) => d.ip.toLowerCase() === ip);
     res.className = "checkres " + (x ? "bad" : "ok");
-    res.textContent = x ? t.listed(ip, x) : t.notlisted(ip);
+    res.textContent = x ? t.listed(ip, x) + (hits[ip] ? t.hit_you(fmt(hits[ip])) : "") : t.notlisted(ip);
   }
 
   function setTheme(next) {
@@ -218,6 +286,8 @@
       const dark = getComputedStyle(document.documentElement).getPropertyValue("color-scheme").trim() === "dark";
       setTheme(dark ? "light" : "dark");
     });
+    document.addEventListener("visibilitychange", () => { if (!document.hidden && data.length && !document.querySelector("#map svg")) drawMap(); });
+    let rz; addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(() => { if (data.length) drawMap(); }, 250); });
     matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => setTheme());
     $("#check").addEventListener("submit", check);
     ["#f-text", "#f-cc", "#f-cat"].forEach((s) => $(s).addEventListener("input", () => { page = 0; drawTable(); }));
@@ -230,7 +300,9 @@
     $("#copy").addEventListener("click", async () => {
       try { await navigator.clipboard.writeText(SNIPPETS[tab]); $("#copy").textContent = T[lang].copied; setTimeout(() => { $("#copy").textContent = T[lang].copy; }, 1500); } catch { /* presse-papiers refusé */ }
     });
+    try { const r = await fetch("data/status.json", { cache: "no-cache" }); if (r.ok) { local = await r.json(); (local.top || []).forEach((h) => { hits[h.ip] = h.packets; }); } } catch { /* page publique */ }
     applyLang();
+    if (local) setInterval(async () => { try { const r = await fetch("data/status.json", { cache: "no-cache" }); if (r.ok) { local = await r.json(); hits = {}; (local.top || []).forEach((h) => { hits[h.ip] = h.packets; }); render(); } } catch { /* réessai au prochain tour */ } }, 300000);
     try {
       data = (await getJSON("lists/abuse-ip.json")).filter((x) => x && typeof x.ip === "string");
     } catch { $("#checkres").className = "checkres bad"; $("#checkres").textContent = T[lang].error; return; }
