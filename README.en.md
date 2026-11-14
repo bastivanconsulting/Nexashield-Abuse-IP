@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/malicious%20IPs-250-dc2626?style=flat&labelColor=080f12" alt="IPs">
+  <img src="https://img.shields.io/badge/malicious%20IPs-251-dc2626?style=flat&labelColor=080f12" alt="IPs">
   <img src="https://img.shields.io/badge/countries-37-2563eb?style=flat&labelColor=080f12" alt="Countries">
   <img src="https://img.shields.io/badge/updated-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Updated">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 250 IPs, 37 countries, 98 networks, 18240 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 251 IPs, 37 countries, 99 networks, 18520 events">
 </picture>
 
 > [!TIP]
@@ -155,8 +155,8 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 7 |
+| 🇨🇳 [China](countries/CN_China/) | 6 |
 | 🇰🇷 [South Korea](countries/KR_South-Korea/) | 6 |
-| 🇨🇳 [China](countries/CN_China/) | 5 |
 | 🇦🇺 [Australia](countries/AU_Australia/) | 4 |
 | 🇵🇰 [Pakistan](countries/PK_Pakistan/) | 4 |
 | 🇸🇬 [Singapore](countries/SG_Singapore/) | 4 |
@@ -175,7 +175,7 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | Abusive HTTP requests | 107 |
 | SSH brute force | 69 |
 | Port scanning | 64 |
-| Exploitation attempt (CVE / RCE / injection) | 52 |
+| Exploitation attempt (CVE / RCE / injection) | 53 |
 | Web injection payload blocked by WAF | 31 |
 | Spamhaus DROP-listed network | 29 |
 | Known botnet / C2 infrastructure | 2 |

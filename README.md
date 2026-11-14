@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-250-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-251-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-37-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 250 IP, 37 pays, 98 réseaux, 18240 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 251 IP, 37 pays, 99 réseaux, 18520 événements">
 </picture>
 
 > [!TIP]
@@ -168,8 +168,8 @@ Sur la période observée, le dépôt a recensé 18136 événements provenant de
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 7 |
+| 🇨🇳 [China](countries/CN_China/) | 6 |
 | 🇰🇷 [South Korea](countries/KR_South-Korea/) | 6 |
-| 🇨🇳 [China](countries/CN_China/) | 5 |
 | 🇦🇺 [Australia](countries/AU_Australia/) | 4 |
 | 🇵🇰 [Pakistan](countries/PK_Pakistan/) | 4 |
 | 🇸🇬 [Singapore](countries/SG_Singapore/) | 4 |
@@ -188,7 +188,7 @@ Sur la période observée, le dépôt a recensé 18136 événements provenant de
 | Requêtes HTTP abusives | 107 |
 | Force brute SSH | 69 |
 | Balayage de ports | 64 |
-| Exploitation (CVE, RCE, injection) | 52 |
+| Exploitation (CVE, RCE, injection) | 53 |
 | Charge d'injection bloquée par le WAF | 31 |
 | Réseau listé Spamhaus DROP | 29 |
 | Infrastructure botnet / C2 connue | 2 |

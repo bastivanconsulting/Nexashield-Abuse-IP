@@ -156,6 +156,7 @@
 109.160.32.142:nexashield
 109.160.32.153:nexashield
 111.30.42.43:nexashield
+113.228.130.157:nexashield
 115.190.211.111:nexashield
 116.41.81.52:nexashield
 119.28.155.249:nexashield

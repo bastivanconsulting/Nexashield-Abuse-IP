@@ -10,7 +10,7 @@
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 7 |
 | [🇨🇦 Canada](CA_Canada/) | 3 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 1 |
-| [🇨🇳 China](CN_China/) | 5 |
+| [🇨🇳 China](CN_China/) | 6 |
 | [🇩🇪 Germany](DE_Germany/) | 23 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 1 |
