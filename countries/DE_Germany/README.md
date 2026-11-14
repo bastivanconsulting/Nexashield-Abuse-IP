@@ -1,6 +1,6 @@
 # 🇩🇪 Germany
 
-**21** malicious IP(s) across **10** network(s).
+**22** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (682), Web injection payload blocked by WAF (57) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Abusive HTTP requests (157), Web injection payload blocked by WAF (26) |
 | [AS153810](AS153810_MDN-TECHNOLOGY-LTD/) | MDN TECHNOLOGY LTD | 1 | SSH brute force (10) |
+| [AS207043](AS207043_DEDIK-SERVICES-LIMITED/) | DEDIK SERVICES LIMITED | 1 | Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS42366](AS42366_TerraTransit-AG/) | TerraTransit AG | 1 | Abusive HTTP requests (51) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (3) |
 | [AS6878](AS6878_T-Systems-International-GmbH/) | T-Systems International GmbH | 1 | SSH brute force (21) |

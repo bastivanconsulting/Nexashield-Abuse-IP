@@ -5,10 +5,10 @@
   "asn": 6400,
   "asn_org": "Compa\u00f1\u00eda Dominicana de Tel\u00e9fonos S. A.",
   "categories": {
-    "exploit": 2
+    "exploit": 4
   },
-  "events": 2,
+  "events": 4,
   "first_seen": "2026-11-14T00:36:50Z",
-  "last_seen": "2026-11-14T00:36:50Z",
+  "last_seen": "2026-11-14T06:26:53Z",
   "reported": "2026-11-14T02:26:03Z"
 }

@@ -1,10 +1,10 @@
 # 🇫🇷 France
 
-**20** malicious IP(s) across **5** network(s).
+**21** malicious IP(s) across **5** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 16 | SSH brute force (429), Port scanning (123) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 17 | SSH brute force (451), Port scanning (179) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 1 | Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 1 | SSH brute force (8) |
 | [AS29066](AS29066_velia-net-Internetdienste-GmbH/) | velia.net Internetdienste GmbH | 1 | SSH brute force (87) |

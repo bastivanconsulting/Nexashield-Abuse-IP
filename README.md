@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-240-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-245-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-37-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 240 IP, 37 pays, 97 réseaux, 17267 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 245 IP, 37 pays, 98 réseaux, 17549 événements">
 </picture>
 
 > [!TIP]
@@ -161,13 +161,13 @@ Au cours de la période observée, le SOC NexaShield a enregistré 17267 événe
 | Pays | IP |
 |---|---:|
 | 🇺🇸 [United States](countries/US_United-States/) | 51 |
-| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 31 |
-| 🇧🇪 [Belgium](countries/BE_Belgium/) | 22 |
-| 🇩🇪 [Germany](countries/DE_Germany/) | 21 |
-| 🇫🇷 [France](countries/FR_France/) | 20 |
+| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 32 |
+| 🇧🇪 [Belgium](countries/BE_Belgium/) | 23 |
+| 🇩🇪 [Germany](countries/DE_Germany/) | 22 |
+| 🇫🇷 [France](countries/FR_France/) | 21 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
-| 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 6 |
+| 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 7 |
 | 🇰🇷 [South Korea](countries/KR_South-Korea/) | 6 |
 | 🇨🇳 [China](countries/CN_China/) | 5 |
 | 🇦🇺 [Australia](countries/AU_Australia/) | 4 |
@@ -186,9 +186,9 @@ Au cours de la période observée, le SOC NexaShield a enregistré 17267 événe
 | Nature | IP |
 |---|---:|
 | Requêtes HTTP abusives | 107 |
-| Force brute SSH | 63 |
-| Balayage de ports | 58 |
-| Exploitation (CVE, RCE, injection) | 50 |
+| Force brute SSH | 66 |
+| Balayage de ports | 61 |
+| Exploitation (CVE, RCE, injection) | 51 |
 | Charge d'injection bloquée par le WAF | 31 |
 | Réseau listé Spamhaus DROP | 26 |
 | Infrastructure botnet / C2 connue | 2 |
@@ -205,7 +205,7 @@ Au cours de la période observée, le SOC NexaShield a enregistré 17267 événe
 |---|---|---|---:|
 | **AS14061** | DigitalOcean, LLC | [🇺🇸 20](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 7](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇳🇱 7](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇬🇧 5](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇦🇺 4](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇸🇬 4](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇨🇦 2](countries/CA_Canada/AS14061_DigitalOcean-LLC/) | 49 |
 | **AS396982** | Google LLC | [🇧🇪 19](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 29 |
-| **AS198364** | BANATSYNC SRL | [🇫🇷 16](countries/FR_France/AS198364_BANATSYNC-SRL/) [🇳🇱 5](countries/NL_The-Netherlands/AS198364_BANATSYNC-SRL/) | 21 |
+| **AS198364** | BANATSYNC SRL | [🇫🇷 17](countries/FR_France/AS198364_BANATSYNC-SRL/) [🇳🇱 6](countries/NL_The-Netherlands/AS198364_BANATSYNC-SRL/) | 23 |
 | **AS14618** | Amazon.com, Inc. | [🇺🇸 11](countries/US_United-States/AS14618_Amazon-com-Inc/) | 11 |
 | **AS197170** | TechTies Inc. | [🇳🇱 9](countries/NL_The-Netherlands/AS197170_TechTies-Inc/) [🇩🇪 2](countries/DE_Germany/AS197170_TechTies-Inc/) | 11 |
 | **AS202306** | HOSTGLOBAL.PLUS LTD | [🇬🇧 9](countries/GB_United-Kingdom/AS202306_HOSTGLOBAL-PLUS-LTD/) | 9 |

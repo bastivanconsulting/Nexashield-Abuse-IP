@@ -1,0 +1,14 @@
+{
+  "ip": "93.152.224.190",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 207043,
+  "asn_org": "DEDIK SERVICES LIMITED",
+  "categories": {
+    "exploit": 4
+  },
+  "events": 4,
+  "first_seen": "2026-11-14T04:26:34Z",
+  "last_seen": "2026-11-14T04:26:34Z",
+  "reported": "2026-11-14T06:27:48Z"
+}
