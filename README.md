@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-265-dc2626?style=flat&labelColor=080f12" alt="IP">
-  <img src="https://img.shields.io/badge/pays-39-2563eb?style=flat&labelColor=080f12" alt="Pays">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-268-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/pays-40-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Étoiles"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 265 IP, 39 pays, 103 réseaux, 20952 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 268 IP, 40 pays, 106 réseaux, 21180 événements">
 </picture>
 
 > [!TIP]
@@ -160,10 +160,10 @@ Le dépôt a enregistré 20230 événements provenant de 258 adresses IP répart
 
 | Pays | IP |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 56 |
+| 🇺🇸 [United States](countries/US_United-States/) | 57 |
 | 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 36 |
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 27 |
-| 🇩🇪 [Germany](countries/DE_Germany/) | 23 |
+| 🇩🇪 [Germany](countries/DE_Germany/) | 24 |
 | 🇫🇷 [France](countries/FR_France/) | 21 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
@@ -185,11 +185,11 @@ Le dépôt a enregistré 20230 événements provenant de 258 adresses IP répart
 
 | Nature | IP |
 |---|---:|
-| Requêtes HTTP abusives | 114 |
+| Requêtes HTTP abusives | 117 |
 | Force brute SSH | 73 |
 | Balayage de ports | 70 |
 | Exploitation (CVE, RCE, injection) | 55 |
-| Charge d'injection bloquée par le WAF | 33 |
+| Charge d'injection bloquée par le WAF | 34 |
 | Réseau listé Spamhaus DROP | 30 |
 | Infrastructure botnet / C2 connue | 2 |
 | Force brute SMTP / IMAP | 1 |

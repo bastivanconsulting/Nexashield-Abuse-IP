@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/malicious%20IPs-265-dc2626?style=flat&labelColor=080f12" alt="IPs">
-  <img src="https://img.shields.io/badge/countries-39-2563eb?style=flat&labelColor=080f12" alt="Countries">
+  <img src="https://img.shields.io/badge/malicious%20IPs-268-dc2626?style=flat&labelColor=080f12" alt="IPs">
+  <img src="https://img.shields.io/badge/countries-40-2563eb?style=flat&labelColor=080f12" alt="Countries">
   <img src="https://img.shields.io/badge/updated-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Updated">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Stars"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 265 IPs, 39 countries, 103 networks, 20952 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 268 IPs, 40 countries, 106 networks, 21180 events">
 </picture>
 
 > [!TIP]
@@ -147,10 +147,10 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Country | IPs |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 56 |
+| 🇺🇸 [United States](countries/US_United-States/) | 57 |
 | 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 36 |
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 27 |
-| 🇩🇪 [Germany](countries/DE_Germany/) | 23 |
+| 🇩🇪 [Germany](countries/DE_Germany/) | 24 |
 | 🇫🇷 [France](countries/FR_France/) | 21 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
@@ -172,11 +172,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Type | IPs |
 |---|---:|
-| Abusive HTTP requests | 114 |
+| Abusive HTTP requests | 117 |
 | SSH brute force | 73 |
 | Port scanning | 70 |
 | Exploitation attempt (CVE / RCE / injection) | 55 |
-| Web injection payload blocked by WAF | 33 |
+| Web injection payload blocked by WAF | 34 |
 | Spamhaus DROP-listed network | 30 |
 | Known botnet / C2 infrastructure | 2 |
 | SMTP / IMAP credential guessing | 1 |

@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 11 | Known botnet / C2 infrastructure (445), Spamhaus DROP-listed network (206), SSH brute force (129), Port scanning (111), Abusive HTTP requests (19), Exploitation attempt (CVE / RCE / injection) (3) |
+| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 11 | Known botnet / C2 infrastructure (453), Spamhaus DROP-listed network (206), SSH brute force (129), Port scanning (111), Abusive HTTP requests (19), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 8 | Port scanning (538), SSH brute force (233), Spamhaus DROP-listed network (7) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Abusive HTTP requests (24), Exploitation attempt (CVE / RCE / injection) (9) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 2 | Abusive HTTP requests (79) |
