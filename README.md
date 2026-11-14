@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 240 IP, 37 pays, 97 réseaux, 17211 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 240 IP, 37 pays, 97 réseaux, 17267 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Au cours de la période observée, le SOC NexaShield a recensé 17143 événements provenant de 239 adresses IP réparties sur 36 pays et 96 réseaux ASN, avec une dernière activité enregistrée le 2026-11-14. Les principales natures d'événements détectés concernent les requêtes HTTP abusives (107), la force brute SSH (62), le balayage de ports (58) et les tentatives d'exploitation (50).
+Au cours de la période observée, le SOC NexaShield a enregistré 17267 événements provenant de 240 adresses IP réparties sur 37 pays et 97 réseaux ASN, avec une dernière activité constatée le 2026-11-14. Les principales origines géographiques sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21), la France (20) et le Royaume-Uni (19). Les réseaux les plus représentés sont AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
 
-- Les principaux pays sources sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21), la France (20) et le Royaume-Uni (19).
-- Les réseaux les plus représentés incluent AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
-- Parmi les autres natures observées figurent la charge d'injection bloquée par le WAF (31), les réseaux listés Spamhaus DROP (26), l'infrastructure botnet / C2 connue (2), la force brute SMTP / IMAP (1) et la signature d'exploit UDP (1).
+- Les natures d'événements les plus fréquentes sont les requêtes HTTP abusives (107), la force brute SSH (63), le balayage de ports (58) et l'exploitation (CVE, RCE, injection) (50).
+- D'autres activités incluent des charges d'injection bloquées par le WAF (31), des réseaux listés Spamhaus DROP (26), des infrastructures botnet / C2 connues (2), de la force brute SMTP / IMAP (1) et une signature d'exploit UDP (1).
+- Les autres pays représentés incluent Hong Kong (8) et la Bulgarie (6).
 
 <sub>Synthèse générée automatiquement le 2026-11-14 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
