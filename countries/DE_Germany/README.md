@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Abusive HTTP requests (34), Exploitation attempt (CVE / RCE / injection) (6), Port scanning (3) |
-| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 3 | SSH brute force (94), Spamhaus DROP-listed network (13), Port scanning (7) |
+| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 3 | SSH brute force (94), Spamhaus DROP-listed network (15), Port scanning (7) |
 | [AS51167](AS51167_Contabo-GmbH/) | Contabo GmbH | 3 | Abusive HTTP requests (156), Web injection payload blocked by WAF (16) |
 | [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 2 | Exploitation attempt (CVE / RCE / injection) (32), Port scanning (27), Abusive HTTP requests (27) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (682), Web injection payload blocked by WAF (57) |
