@@ -1,0 +1,15 @@
+{
+  "ip": "35.199.96.92",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 20,
+    "web": 514
+  },
+  "events": 534,
+  "first_seen": "2026-11-14T09:42:56Z",
+  "last_seen": "2026-11-14T09:43:58Z",
+  "reported": "2026-11-14T12:28:04Z"
+}

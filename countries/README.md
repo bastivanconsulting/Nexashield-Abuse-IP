@@ -8,6 +8,7 @@
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 1 |
 | [🇧🇪 Belgium](BE_Belgium/) | 23 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 7 |
+| [🇧🇷 Brazil](BR_Brazil/) | 1 |
 | [🇨🇦 Canada](CA_Canada/) | 3 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 1 |
 | [🇨🇳 China](CN_China/) | 6 |
@@ -28,7 +29,7 @@
 | [🇯🇵 Japan](JP_Japan/) | 3 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 6 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 34 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 36 |
 | [🇵🇭 Philippines](PH_Philippines/) | 2 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 4 |
 | [🇵🇱 Poland](PL_Poland/) | 2 |
