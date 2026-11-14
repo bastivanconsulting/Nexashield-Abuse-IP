@@ -472,11 +472,11 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 44
+   "scan": 52
   },
-  "events": 44,
+  "events": 52,
   "first_seen": "2026-11-14T06:28:08Z",
-  "last_seen": "2026-11-14T10:08:17Z",
+  "last_seen": "2026-11-14T11:24:36Z",
   "reported": "2026-11-11T16:35:30Z"
  },
  {
@@ -528,12 +528,12 @@
   "asn": 208637,
   "asn_org": "4 Vendeta Ltd",
   "categories": {
-   "scan": 31,
+   "scan": 33,
    "ssh": 28
   },
-  "events": 59,
+  "events": 61,
   "first_seen": "2026-11-09T16:18:15Z",
-  "last_seen": "2026-11-14T07:09:08Z",
+  "last_seen": "2026-11-14T10:58:49Z",
   "reported": "2026-11-11T17:05:58Z"
  },
  {
@@ -963,12 +963,12 @@
   "asn": 201814,
   "asn_org": "MEVSPACE sp. z o.o.",
   "categories": {
-   "scan": 11,
+   "scan": 13,
    "web": 27
   },
-  "events": 38,
+  "events": 40,
   "first_seen": "2026-11-09T22:14:09Z",
-  "last_seen": "2026-11-14T09:42:49Z",
+  "last_seen": "2026-11-14T11:10:25Z",
   "reported": "2026-11-13T10:24:34Z"
  },
  {
@@ -1493,11 +1493,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 279
+   "ssh": 289
   },
-  "events": 279,
+  "events": 289,
   "first_seen": "2026-11-09T17:20:00Z",
-  "last_seen": "2026-11-14T10:00:08Z",
+  "last_seen": "2026-11-14T11:06:42Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1507,11 +1507,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 144
+   "ssh": 158
   },
-  "events": 144,
+  "events": 158,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-14T09:24:28Z",
+  "last_seen": "2026-11-14T10:58:20Z",
   "reported": "2026-11-11T16:35:03Z"
  },
  {
@@ -2099,11 +2099,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 307
+   "spamhaus": 315
   },
-  "events": 307,
+  "events": 315,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-14T10:26:35Z",
+  "last_seen": "2026-11-14T11:22:50Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2396,13 +2396,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "ssh": 12,
-   "spamhaus": 4,
+   "ssh": 16,
+   "spamhaus": 6,
    "scan": 3
   },
-  "events": 19,
+  "events": 25,
   "first_seen": "2026-11-12T20:50:13Z",
-  "last_seen": "2026-11-14T06:54:45Z",
+  "last_seen": "2026-11-14T11:28:51Z",
   "reported": "2026-11-14T08:29:15Z"
  },
  {
@@ -2412,12 +2412,12 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 34,
+   "spamhaus": 36,
    "web": 11
   },
-  "events": 45,
+  "events": 47,
   "first_seen": "2026-11-09T20:24:33Z",
-  "last_seen": "2026-11-14T08:22:52Z",
+  "last_seen": "2026-11-14T10:37:57Z",
   "reported": "2026-11-11T17:07:35Z"
  },
  {
@@ -2427,13 +2427,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 365,
+   "c2": 375,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 369,
+  "events": 379,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-14T10:24:22Z",
+  "last_seen": "2026-11-14T11:21:55Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -3264,11 +3264,11 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 13
+   "scan": 17
   },
-  "events": 13,
+  "events": 17,
   "first_seen": "2026-11-11T19:19:30Z",
-  "last_seen": "2026-11-14T10:12:13Z",
+  "last_seen": "2026-11-14T10:46:06Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {
@@ -3504,13 +3504,13 @@
   "asn": 150303,
   "asn_org": "SoloRDP",
   "categories": {
-   "scan": 32,
+   "scan": 40,
    "web": 41,
    "exploit": 1
   },
-  "events": 74,
+  "events": 82,
   "first_seen": "2026-11-11T12:19:53Z",
-  "last_seen": "2026-11-13T19:17:31Z",
+  "last_seen": "2026-11-14T11:01:51Z",
   "reported": "2026-11-13T02:31:32Z"
  },
  {
@@ -3520,11 +3520,11 @@
   "asn": 207043,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-   "exploit": 2
+   "exploit": 6
   },
-  "events": 2,
+  "events": 6,
   "first_seen": "2026-11-13T21:38:17Z",
-  "last_seen": "2026-11-13T21:38:17Z",
+  "last_seen": "2026-11-14T10:54:19Z",
   "reported": "2026-11-14T00:23:42Z"
  },
  {
