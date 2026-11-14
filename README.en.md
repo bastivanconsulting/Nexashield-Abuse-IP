@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 250 IPs, 37 countries, 98 networks, 18136 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 250 IPs, 37 countries, 98 networks, 18240 events">
 </picture>
 
 > [!TIP]
@@ -177,7 +177,7 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | Port scanning | 64 |
 | Exploitation attempt (CVE / RCE / injection) | 52 |
 | Web injection payload blocked by WAF | 31 |
-| Spamhaus DROP-listed network | 28 |
+| Spamhaus DROP-listed network | 29 |
 | Known botnet / C2 infrastructure | 2 |
 | SMTP / IMAP credential guessing | 1 |
 | UDP exploit signature | 1 |

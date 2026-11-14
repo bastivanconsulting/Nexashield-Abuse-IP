@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 250 IP, 37 pays, 98 réseaux, 18136 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 250 IP, 37 pays, 98 réseaux, 18240 événements">
 </picture>
 
 > [!TIP]
@@ -190,7 +190,7 @@ Sur la période observée, le dépôt a recensé 18136 événements provenant de
 | Balayage de ports | 64 |
 | Exploitation (CVE, RCE, injection) | 52 |
 | Charge d'injection bloquée par le WAF | 31 |
-| Réseau listé Spamhaus DROP | 28 |
+| Réseau listé Spamhaus DROP | 29 |
 | Infrastructure botnet / C2 connue | 2 |
 | Force brute SMTP / IMAP | 1 |
 | Signature d'exploit UDP | 1 |
