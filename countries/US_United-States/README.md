@@ -1,12 +1,12 @@
 # 🇺🇸 United States
 
-**51** malicious IP(s) across **13** network(s).
+**52** malicious IP(s) across **13** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 20 | Exploitation attempt (CVE / RCE / injection) (54), Abusive HTTP requests (18), Port scanning (1) |
-| [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 11 | Abusive HTTP requests (413), Port scanning (190) |
-| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 6 | Abusive HTTP requests (222), Port scanning (65), Web injection payload blocked by WAF (26) |
+| [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 11 | Abusive HTTP requests (413), Port scanning (198) |
+| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 7 | Abusive HTTP requests (222), Port scanning (81), Web injection payload blocked by WAF (26) |
 | [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 3 | SSH brute force (31), Spamhaus DROP-listed network (14), Port scanning (3) |
 | [AS?](AS-Unknown/) | Unknown | 2 | Abusive HTTP requests (24), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS402253](AS402253_SKN-Subnet-Telecom-Ltd/) | SKN Subnet & Telecom Ltd | 2 | Exploitation attempt (CVE / RCE / injection) (6), SSH brute force (5), Web injection payload blocked by WAF (2), Spamhaus DROP-listed network (1) |

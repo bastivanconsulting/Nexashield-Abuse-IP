@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 19 | Abusive HTTP requests (2991) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 19 | Abusive HTTP requests (3221) |
 | [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 4 | Port scanning (30), SSH brute force (15), SMTP / IMAP credential guessing (2) |
 
 ---

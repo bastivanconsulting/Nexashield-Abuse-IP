@@ -128,6 +128,14 @@
   "origin": "lists"
  },
  {
+  "value": "18.221.179.104",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "20.46.43.126",
   "scope": "Ip",
   "type": "ban",
