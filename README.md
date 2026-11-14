@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-239-dc2626?style=flat&labelColor=080f12" alt="IP">
-  <img src="https://img.shields.io/badge/pays-36-2563eb?style=flat&labelColor=080f12" alt="Pays">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-240-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/pays-37-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Étoiles"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 239 IP, 36 pays, 96 réseaux, 17143 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 240 IP, 37 pays, 97 réseaux, 17211 événements">
 </picture>
 
 > [!TIP]
@@ -186,7 +186,7 @@ Au cours de la période observée, le SOC NexaShield a recensé 17143 événemen
 | Nature | IP |
 |---|---:|
 | Requêtes HTTP abusives | 107 |
-| Force brute SSH | 62 |
+| Force brute SSH | 63 |
 | Balayage de ports | 58 |
 | Exploitation (CVE, RCE, injection) | 50 |
 | Charge d'injection bloquée par le WAF | 31 |

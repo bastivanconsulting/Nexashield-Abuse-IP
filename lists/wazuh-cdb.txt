@@ -219,6 +219,7 @@
 188.166.233.47:nexashield
 193.46.255.86:nexashield
 193.112.192.91:nexashield
+193.187.110.160:nexashield
 194.180.49.16:nexashield
 194.180.49.41:nexashield
 199.247.13.109:nexashield

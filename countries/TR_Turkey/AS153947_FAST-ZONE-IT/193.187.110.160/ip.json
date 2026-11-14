@@ -1,0 +1,14 @@
+{
+  "ip": "193.187.110.160",
+  "country_code": "TR",
+  "country": "Turkey",
+  "asn": 153947,
+  "asn_org": "FAST ZONE IT",
+  "categories": {
+    "ssh": 10
+  },
+  "events": 10,
+  "first_seen": "2026-11-10T23:36:18Z",
+  "last_seen": "2026-11-14T02:10:41Z",
+  "reported": "2026-11-14T04:24:59Z"
+}

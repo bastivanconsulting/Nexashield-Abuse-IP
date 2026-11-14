@@ -221,6 +221,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 188.166.233.47
  network-object host 193.46.255.86
  network-object host 193.112.192.91
+ network-object host 193.187.110.160
  network-object host 194.180.49.16
  network-object host 194.180.49.41
  network-object host 199.247.13.109

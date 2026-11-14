@@ -37,4 +37,5 @@
 | [🇸🇪 Sweden](SE_Sweden/) | 2 |
 | [🇸🇬 Singapore](SG_Singapore/) | 4 |
 | [🇹🇭 Thailand](TH_Thailand/) | 1 |
+| [🇹🇷 Turkey](TR_Turkey/) | 1 |
 | [🇺🇸 United States](US_United-States/) | 51 |
