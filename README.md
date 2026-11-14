@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-236-dc2626?style=flat&labelColor=080f12" alt="IP">
-  <img src="https://img.shields.io/badge/pays-35-2563eb?style=flat&labelColor=080f12" alt="Pays">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-239-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/pays-36-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Étoiles"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 236 IP, 35 pays, 95 réseaux, 16791 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 239 IP, 36 pays, 96 réseaux, 17089 événements">
 </picture>
 
 > [!TIP]
@@ -140,13 +140,13 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Sur la période observée, le dépôt a enregistré 18141 événements provenant de 233 adresses IP réparties sur 35 pays et 94 réseaux ASN, avec une dernière activité datée du 2026-11-13. Les principales origines géographiques incluent les États-Unis avec 49 adresses, les Pays-Bas avec 30, l'Allemagne avec 21, ainsi que la Belgique et la France avec 20 chacune. Les activités détectées comprennent notamment 104 requêtes HTTP abusives, 62 tentatives de force brute SSH et 57 balayages de ports.
+Sur la période observée, le dépôt a enregistré 17089 événements provenant de 239 adresses IP réparties sur 36 pays et 96 réseaux ASN, avec une dernière activité datée du 2026-11-14. Les activités observées couvrent principalement des requêtes HTTP abusives (107), des tentatives de force brute SSH (62), du balayage de ports (57) et des exploitations (50). Les sources géographiques les plus représentées sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21) et la France (20).
 
-- Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 49 événements, AS396982 (Google LLC) avec 27 et AS198364 (BANATSYNC SRL) avec 21
-- On relève également 47 cas d'exploitation (CVE, RCE, injection), 30 charges d'injection bloquées par le WAF et 26 réseaux listés Spamhaus DROP
-- Les autres natures incluent 2 infrastructures botnet / C2 connues, 1 force brute SMTP / IMAP et 1 signature d'exploit UDP
+- Les principaux réseaux d'origine incluent AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
+- Parmi les autres natures recensées figurent les charges d'injection bloquées par le WAF (31), les réseaux listés Spamhaus DROP (26), ainsi que des infrastructures botnet/C2 connues (2).
+- On relève également des tentatives de force brute SMTP/IMAP (1) et une signature d'exploit UDP (1).
 
-<sub>Synthèse générée automatiquement le 2026-11-13 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
+<sub>Synthèse générée automatiquement le 2026-11-14 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
 ---
 
@@ -160,9 +160,9 @@ Sur la période observée, le dépôt a enregistré 18141 événements provenant
 
 | Pays | IP |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 50 |
+| 🇺🇸 [United States](countries/US_United-States/) | 51 |
 | 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 31 |
-| 🇧🇪 [Belgium](countries/BE_Belgium/) | 21 |
+| 🇧🇪 [Belgium](countries/BE_Belgium/) | 22 |
 | 🇩🇪 [Germany](countries/DE_Germany/) | 21 |
 | 🇫🇷 [France](countries/FR_France/) | 20 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
@@ -185,11 +185,11 @@ Sur la période observée, le dépôt a enregistré 18141 événements provenant
 
 | Nature | IP |
 |---|---:|
-| Requêtes HTTP abusives | 106 |
+| Requêtes HTTP abusives | 107 |
 | Force brute SSH | 62 |
 | Balayage de ports | 57 |
-| Exploitation (CVE, RCE, injection) | 48 |
-| Charge d'injection bloquée par le WAF | 30 |
+| Exploitation (CVE, RCE, injection) | 50 |
+| Charge d'injection bloquée par le WAF | 31 |
 | Réseau listé Spamhaus DROP | 26 |
 | Infrastructure botnet / C2 connue | 2 |
 | Force brute SMTP / IMAP | 1 |
@@ -204,7 +204,7 @@ Sur la période observée, le dépôt a enregistré 18141 événements provenant
 | ASN | Opérateur | Pays (IP) | Total IP |
 |---|---|---|---:|
 | **AS14061** | DigitalOcean, LLC | [🇺🇸 20](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 7](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇳🇱 7](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇬🇧 5](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇦🇺 4](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇸🇬 4](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇨🇦 2](countries/CA_Canada/AS14061_DigitalOcean-LLC/) | 49 |
-| **AS396982** | Google LLC | [🇧🇪 18](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 28 |
+| **AS396982** | Google LLC | [🇧🇪 19](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 29 |
 | **AS198364** | BANATSYNC SRL | [🇫🇷 16](countries/FR_France/AS198364_BANATSYNC-SRL/) [🇳🇱 5](countries/NL_The-Netherlands/AS198364_BANATSYNC-SRL/) | 21 |
 | **AS14618** | Amazon.com, Inc. | [🇺🇸 11](countries/US_United-States/AS14618_Amazon-com-Inc/) | 11 |
 | **AS197170** | TechTies Inc. | [🇳🇱 9](countries/NL_The-Netherlands/AS197170_TechTies-Inc/) [🇩🇪 2](countries/DE_Germany/AS197170_TechTies-Inc/) | 11 |

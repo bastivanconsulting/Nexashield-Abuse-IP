@@ -1,5 +1,5 @@
-Sur la période observée, le dépôt a enregistré 18141 événements provenant de 233 adresses IP réparties sur 35 pays et 94 réseaux ASN, avec une dernière activité datée du 2026-11-13. Les principales origines géographiques incluent les États-Unis avec 49 adresses, les Pays-Bas avec 30, l'Allemagne avec 21, ainsi que la Belgique et la France avec 20 chacune. Les activités détectées comprennent notamment 104 requêtes HTTP abusives, 62 tentatives de force brute SSH et 57 balayages de ports.
+Sur la période observée, le dépôt a enregistré 17089 événements provenant de 239 adresses IP réparties sur 36 pays et 96 réseaux ASN, avec une dernière activité datée du 2026-11-14. Les activités observées couvrent principalement des requêtes HTTP abusives (107), des tentatives de force brute SSH (62), du balayage de ports (57) et des exploitations (50). Les sources géographiques les plus représentées sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21) et la France (20).
 
-- Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 49 événements, AS396982 (Google LLC) avec 27 et AS198364 (BANATSYNC SRL) avec 21
-- On relève également 47 cas d'exploitation (CVE, RCE, injection), 30 charges d'injection bloquées par le WAF et 26 réseaux listés Spamhaus DROP
-- Les autres natures incluent 2 infrastructures botnet / C2 connues, 1 force brute SMTP / IMAP et 1 signature d'exploit UDP
+- Les principaux réseaux d'origine incluent AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
+- Parmi les autres natures recensées figurent les charges d'injection bloquées par le WAF (31), les réseaux listés Spamhaus DROP (26), ainsi que des infrastructures botnet/C2 connues (2).
+- On relève également des tentatives de force brute SMTP/IMAP (1) et une signature d'exploit UDP (1).

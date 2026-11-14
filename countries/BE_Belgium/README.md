@@ -1,10 +1,10 @@
 # 🇧🇪 Belgium
 
-**21** malicious IP(s) across **2** network(s).
+**22** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 18 | Abusive HTTP requests (2755) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 19 | Abusive HTTP requests (2991) |
 | [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 3 | Port scanning (30), SSH brute force (5), SMTP / IMAP credential guessing (2) |
 
 ---

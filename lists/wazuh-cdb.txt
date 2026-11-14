@@ -23,6 +23,7 @@
 31.57.34.150:nexashield
 32.195.61.205:nexashield
 34.7.135.227:nexashield
+34.22.196.121:nexashield
 34.38.141.52:nexashield
 34.38.252.135:nexashield
 34.47.41.198:nexashield
@@ -213,6 +214,7 @@
 185.112.150.97:nexashield
 185.176.255.76:nexashield
 185.243.5.118:nexashield
+186.7.4.141:nexashield
 188.166.152.252:nexashield
 188.166.233.47:nexashield
 193.46.255.86:nexashield
@@ -229,6 +231,7 @@
 209.38.100.95:nexashield
 209.38.208.202:nexashield
 209.97.183.170:nexashield
+209.99.187.10:nexashield
 209.99.190.186:nexashield
 222.210.35.197:nexashield
 "2400:8d60:8::96b0:ddfd":nexashield

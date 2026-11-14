@@ -1,0 +1,15 @@
+{
+  "ip": "209.99.187.10",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 402253,
+  "asn_org": "SKN Subnet & Telecom Ltd",
+  "categories": {
+    "waf": 2,
+    "exploit": 6
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T00:22:43Z",
+  "last_seen": "2026-11-14T00:22:43Z",
+  "reported": "2026-11-14T02:25:58Z"
+}
