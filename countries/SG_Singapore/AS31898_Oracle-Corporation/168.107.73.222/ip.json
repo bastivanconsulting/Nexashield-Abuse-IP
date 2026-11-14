@@ -1,0 +1,14 @@
+{
+  "ip": "168.107.73.222",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 31898,
+  "asn_org": "Oracle Corporation",
+  "categories": {
+    "web": 118
+  },
+  "events": 118,
+  "first_seen": "2026-11-14T20:32:32Z",
+  "last_seen": "2026-11-14T20:37:18Z",
+  "reported": "2026-11-14T22:28:48Z"
+}

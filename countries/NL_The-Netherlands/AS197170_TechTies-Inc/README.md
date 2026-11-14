@@ -13,7 +13,7 @@
 | [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (161), Port scanning (108) | 269 | 2026-11-13T15:48:19Z |
 | [`85.11.167.72`](85.11.167.72/) | SSH brute force (24), Spamhaus DROP-listed network (8), Port scanning (3) | 35 | 2026-11-14T12:52:00Z |
 | [`85.11.167.204`](85.11.167.204/) | Spamhaus DROP-listed network (36), Abusive HTTP requests (11) | 47 | 2026-11-14T10:37:57Z |
-| [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (489), Exploitation attempt (CVE / RCE / injection) (3), Spamhaus DROP-listed network (1) | 493 | 2026-11-14T21:28:59Z |
+| [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (499), Exploitation attempt (CVE / RCE / injection) (3), Spamhaus DROP-listed network (1) | 503 | 2026-11-14T22:21:25Z |
 | [`91.92.47.5`](91.92.47.5/) | Abusive HTTP requests (8) | 8 | 2026-11-12T10:14:53Z |
 
 ---
