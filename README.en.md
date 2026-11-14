@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/malicious%20IPs-258-dc2626?style=flat&labelColor=080f12" alt="IPs">
-  <img src="https://img.shields.io/badge/countries-38-2563eb?style=flat&labelColor=080f12" alt="Countries">
+  <img src="https://img.shields.io/badge/malicious%20IPs-265-dc2626?style=flat&labelColor=080f12" alt="IPs">
+  <img src="https://img.shields.io/badge/countries-39-2563eb?style=flat&labelColor=080f12" alt="Countries">
   <img src="https://img.shields.io/badge/updated-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Updated">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Stars"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 258 IPs, 38 countries, 101 networks, 20328 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 265 IPs, 39 countries, 103 networks, 20888 events">
 </picture>
 
 > [!TIP]
@@ -147,9 +147,9 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Country | IPs |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 54 |
+| 🇺🇸 [United States](countries/US_United-States/) | 56 |
 | 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 36 |
-| 🇧🇪 [Belgium](countries/BE_Belgium/) | 25 |
+| 🇧🇪 [Belgium](countries/BE_Belgium/) | 27 |
 | 🇩🇪 [Germany](countries/DE_Germany/) | 23 |
 | 🇫🇷 [France](countries/FR_France/) | 21 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
@@ -157,11 +157,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 7 |
 | 🇨🇳 [China](countries/CN_China/) | 6 |
 | 🇰🇷 [South Korea](countries/KR_South-Korea/) | 6 |
+| 🇵🇰 [Pakistan](countries/PK_Pakistan/) | 5 |
 | 🇦🇺 [Australia](countries/AU_Australia/) | 4 |
-| 🇵🇰 [Pakistan](countries/PK_Pakistan/) | 4 |
+| 🇮🇳 [India](countries/IN_India/) | 4 |
 | 🇸🇬 [Singapore](countries/SG_Singapore/) | 4 |
 | 🇨🇦 [Canada](countries/CA_Canada/) | 3 |
-| 🇫🇮 [Finland](countries/FI_Finland/) | 3 |
 
 ➡️ [All countries](countries/)
 
@@ -172,10 +172,10 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Type | IPs |
 |---|---:|
-| Abusive HTTP requests | 111 |
-| SSH brute force | 72 |
-| Port scanning | 68 |
-| Exploitation attempt (CVE / RCE / injection) | 53 |
+| Abusive HTTP requests | 114 |
+| SSH brute force | 73 |
+| Port scanning | 70 |
+| Exploitation attempt (CVE / RCE / injection) | 55 |
 | Web injection payload blocked by WAF | 33 |
 | Spamhaus DROP-listed network | 30 |
 | Known botnet / C2 infrastructure | 2 |
@@ -191,15 +191,15 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | ASN | Owner | Countries (IPs) | Total IPs |
 |---|---|---|---:|
 | **AS14061** | DigitalOcean, LLC | [🇺🇸 21](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 7](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇳🇱 7](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇬🇧 5](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇦🇺 4](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇸🇬 4](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇨🇦 2](countries/CA_Canada/AS14061_DigitalOcean-LLC/) | 50 |
-| **AS396982** | Google LLC | [🇧🇪 21](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇧🇷 1](countries/BR_Brazil/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 32 |
+| **AS396982** | Google LLC | [🇧🇪 23](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇧🇷 1](countries/BR_Brazil/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇹🇼 1](countries/TW_Taiwan/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 35 |
 | **AS198364** | BANATSYNC SRL | [🇫🇷 17](countries/FR_France/AS198364_BANATSYNC-SRL/) [🇳🇱 8](countries/NL_The-Netherlands/AS198364_BANATSYNC-SRL/) | 25 |
 | **AS197170** | TechTies Inc. | [🇳🇱 11](countries/NL_The-Netherlands/AS197170_TechTies-Inc/) [🇩🇪 3](countries/DE_Germany/AS197170_TechTies-Inc/) | 14 |
-| **AS14618** | Amazon.com, Inc. | [🇺🇸 11](countries/US_United-States/AS14618_Amazon-com-Inc/) | 11 |
+| **AS14618** | Amazon.com, Inc. | [🇺🇸 12](countries/US_United-States/AS14618_Amazon-com-Inc/) | 12 |
 | **AS16509** | Amazon.com, Inc. | [🇺🇸 7](countries/US_United-States/AS16509_Amazon-com-Inc/) [🇮🇪 1](countries/IE_Ireland/AS16509_Amazon-com-Inc/) [🇸🇪 1](countries/SE_Sweden/AS16509_Amazon-com-Inc/) | 9 |
 | **AS202306** | HOSTGLOBAL.PLUS LTD | [🇬🇧 9](countries/GB_United-Kingdom/AS202306_HOSTGLOBAL-PLUS-LTD/) | 9 |
 | **AS8075** | Microsoft Corporation | [🇦🇪 2](countries/AE_United-Arab-Emirates/AS8075_Microsoft-Corporation/) [🇳🇱 2](countries/NL_The-Netherlands/AS8075_Microsoft-Corporation/) [🇺🇸 2](countries/US_United-States/AS8075_Microsoft-Corporation/) [🇮🇪 1](countries/IE_Ireland/AS8075_Microsoft-Corporation/) [🇮🇱 1](countries/IL_Israel/AS8075_Microsoft-Corporation/) | 8 |
 | **AS132203** | Shenzhen Tencent Computer Systems Company Limited | [🇭🇰 3](countries/HK_Hong-Kong/AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) [🇩🇪 1](countries/DE_Germany/AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) [🇰🇷 1](countries/KR_South-Korea/AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) [🇹🇭 1](countries/TH_Thailand/AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) [🇺🇸 1](countries/US_United-States/AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | 7 |
-| **AS12876** | Scaleway SAS | [🇵🇱 2](countries/PL_Poland/AS12876_Scaleway-SAS/) [🇫🇷 1](countries/FR_France/AS12876_Scaleway-SAS/) [🇮🇹 1](countries/IT_Italy/AS12876_Scaleway-SAS/) [🇳🇱 1](countries/NL_The-Netherlands/AS12876_Scaleway-SAS/) | 5 |
+| **AS9541** | Cyber Internet Services (Private) Limited | [🇵🇰 5](countries/PK_Pakistan/AS9541_Cyber-Internet-Services-Private-Limited/) | 5 |
 
 ---
 
