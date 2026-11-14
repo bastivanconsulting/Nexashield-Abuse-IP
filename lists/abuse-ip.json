@@ -1578,11 +1578,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 349
+   "ssh": 359
   },
-  "events": 349,
+  "events": 359,
   "first_seen": "2026-11-09T17:20:00Z",
-  "last_seen": "2026-11-14T17:38:59Z",
+  "last_seen": "2026-11-14T18:43:00Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -2213,11 +2213,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 379
+   "spamhaus": 385
   },
-  "events": 379,
+  "events": 385,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-14T18:27:19Z",
+  "last_seen": "2026-11-14T19:00:45Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2541,13 +2541,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 453,
+   "c2": 465,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 457,
+  "events": 469,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-14T18:31:04Z",
+  "last_seen": "2026-11-14T19:24:03Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2723,11 +2723,11 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-   "spamhaus": 205
+   "spamhaus": 213
   },
-  "events": 205,
+  "events": 213,
   "first_seen": "2026-11-11T10:46:14Z",
-  "last_seen": "2026-11-14T16:44:07Z",
+  "last_seen": "2026-11-14T19:34:11Z",
   "reported": "2026-11-11T16:35:21Z"
  },
  {
@@ -3440,11 +3440,11 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 20
+   "scan": 40
   },
-  "events": 20,
+  "events": 40,
   "first_seen": "2026-11-14T15:47:28Z",
-  "last_seen": "2026-11-14T16:01:21Z",
+  "last_seen": "2026-11-14T19:21:39Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {
