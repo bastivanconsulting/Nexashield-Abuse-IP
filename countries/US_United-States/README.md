@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 22 | Exploitation attempt (CVE / RCE / injection) (60), SSH brute force (40), Abusive HTTP requests (18), Port scanning (1) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 22 | SSH brute force (66), Exploitation attempt (CVE / RCE / injection) (60), Abusive HTTP requests (18), Port scanning (1) |
 | [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 12 | Abusive HTTP requests (413), Port scanning (270) |
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 7 | Abusive HTTP requests (222), Port scanning (185), Web injection payload blocked by WAF (26) |
 | [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 3 | SSH brute force (31), Spamhaus DROP-listed network (14), Port scanning (3) |

@@ -6,10 +6,10 @@
   "asn_org": "BANATSYNC SRL",
   "categories": {
     "ssh": 50,
-    "scan": 96
+    "scan": 116
   },
-  "events": 146,
+  "events": 166,
   "first_seen": "2026-11-14T21:00:51Z",
-  "last_seen": "2026-11-14T22:33:48Z",
+  "last_seen": "2026-11-14T22:53:52Z",
   "reported": "2026-11-14T22:28:39Z"
 }
