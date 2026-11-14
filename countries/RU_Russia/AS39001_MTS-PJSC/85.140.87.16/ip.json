@@ -1,0 +1,14 @@
+{
+  "ip": "85.140.87.16",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 39001,
+  "asn_org": "MTS PJSC",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-14T19:08:43Z",
+  "last_seen": "2026-11-14T19:08:43Z",
+  "reported": "2026-11-14T20:26:32Z"
+}

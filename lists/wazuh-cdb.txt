@@ -139,6 +139,7 @@
 85.11.167.7:nexashield
 85.11.167.72:nexashield
 85.11.167.204:nexashield
+85.140.87.16:nexashield
 85.155.14.60:nexashield
 87.227.143.150:nexashield
 89.167.11.42:nexashield

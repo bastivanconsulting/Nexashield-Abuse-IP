@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/malicious%20IPs-268-dc2626?style=flat&labelColor=080f12" alt="IPs">
+  <img src="https://img.shields.io/badge/malicious%20IPs-269-dc2626?style=flat&labelColor=080f12" alt="IPs">
   <img src="https://img.shields.io/badge/countries-40-2563eb?style=flat&labelColor=080f12" alt="Countries">
   <img src="https://img.shields.io/badge/updated-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Updated">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 268 IPs, 40 countries, 106 networks, 21236 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 269 IPs, 40 countries, 107 networks, 21322 events">
 </picture>
 
 > [!TIP]
@@ -175,7 +175,7 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | Abusive HTTP requests | 117 |
 | SSH brute force | 73 |
 | Port scanning | 70 |
-| Exploitation attempt (CVE / RCE / injection) | 55 |
+| Exploitation attempt (CVE / RCE / injection) | 56 |
 | Web injection payload blocked by WAF | 34 |
 | Spamhaus DROP-listed network | 30 |
 | Known botnet / C2 infrastructure | 2 |

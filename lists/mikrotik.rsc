@@ -141,6 +141,7 @@
 /ip firewall address-list add list=nexashield-abuse address=85.11.167.7 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=85.11.167.72 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=85.11.167.204 comment="NexaShield"
+/ip firewall address-list add list=nexashield-abuse address=85.140.87.16 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=85.155.14.60 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=87.227.143.150 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=89.167.11.42 comment="NexaShield"

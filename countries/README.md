@@ -35,7 +35,7 @@
 | [🇵🇱 Poland](PL_Poland/) | 2 |
 | [🇷🇴 Romania](RO_Romania/) | 1 |
 | [🇷🇸 Serbia](RS_Serbia/) | 1 |
-| [🇷🇺 Russia](RU_Russia/) | 1 |
+| [🇷🇺 Russia](RU_Russia/) | 2 |
 | [🇸🇪 Sweden](SE_Sweden/) | 2 |
 | [🇸🇬 Singapore](SG_Singapore/) | 4 |
 | [🇹🇭 Thailand](TH_Thailand/) | 1 |
