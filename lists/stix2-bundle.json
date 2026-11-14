@@ -98,7 +98,7 @@
    "id": "indicator--2d7cec94-e9f6-5c1c-b74e-65032ea83d2c",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-09T16:45:47.000Z",
-   "modified": "2026-11-13T22:45:57.000Z",
+   "modified": "2026-11-14T00:36:36.000Z",
    "name": "NexaShield abuse IP 2.57.121.112",
    "indicator_types": [
     "malicious-activity"
@@ -106,7 +106,7 @@
    "pattern": "[ipv4-addr:value = '2.57.121.112']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T16:45:47.000Z",
-   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (60)",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (74)",
    "labels": [
     "ssh"
    ],
@@ -1608,7 +1608,7 @@
    "id": "indicator--58fd0d85-d8c5-57d2-8733-0c168936a29e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:46:14.000Z",
-   "modified": "2026-11-14T00:21:54.000Z",
+   "modified": "2026-11-14T01:34:37.000Z",
    "name": "NexaShield abuse IP 45.74.28.2",
    "indicator_types": [
     "malicious-activity"
@@ -1616,7 +1616,7 @@
    "pattern": "[ipv4-addr:value = '45.74.28.2']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:46:14.000Z",
-   "description": "The Netherlands - AS219326 SULAVI LTD - Spamhaus DROP-listed network (125)",
+   "description": "The Netherlands - AS219326 SULAVI LTD - Spamhaus DROP-listed network (127)",
    "labels": [
     "spamhaus"
    ],
@@ -1713,7 +1713,7 @@
    "id": "indicator--d8eb07ee-436b-5a5b-937b-ee6454d47178",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T15:36:19.000Z",
-   "modified": "2026-11-13T22:53:07.000Z",
+   "modified": "2026-11-14T01:05:23.000Z",
    "name": "NexaShield abuse IP 45.138.12.16",
    "indicator_types": [
     "malicious-activity"
@@ -1721,7 +1721,7 @@
    "pattern": "[ipv4-addr:value = '45.138.12.16']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T15:36:19.000Z",
-   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (75), Spamhaus DROP-listed network (20)",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (75), Spamhaus DROP-listed network (22)",
    "labels": [
     "spamhaus",
     "web"
@@ -3328,7 +3328,7 @@
    "id": "indicator--9ae58e9d-ecf6-50f0-8d4f-fddef9fa673a",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-09T20:24:33.000Z",
-   "modified": "2026-11-13T23:00:15.000Z",
+   "modified": "2026-11-14T01:26:09.000Z",
    "name": "NexaShield abuse IP 85.11.167.204",
    "indicator_types": [
     "malicious-activity"
@@ -3336,7 +3336,7 @@
    "pattern": "[ipv4-addr:value = '85.11.167.204']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T20:24:33.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Abusive HTTP requests (11), Spamhaus DROP-listed network (10)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (14), Abusive HTTP requests (11)",
    "labels": [
     "spamhaus",
     "web"
@@ -3408,7 +3408,7 @@
    "id": "indicator--86979680-a021-5520-ad92-84e4990e1c83",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:47:10.000Z",
-   "modified": "2026-11-14T00:25:30.000Z",
+   "modified": "2026-11-14T01:22:57.000Z",
    "name": "NexaShield abuse IP 91.92.40.12",
    "indicator_types": [
     "malicious-activity"
@@ -3416,7 +3416,7 @@
    "pattern": "[ipv4-addr:value = '91.92.40.12']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:47:10.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Known botnet / C2 infrastructure (261), Exploitation attempt (CVE / RCE / injection) (3), Spamhaus DROP-listed network (1)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Known botnet / C2 infrastructure (273), Exploitation attempt (CVE / RCE / injection) (3), Spamhaus DROP-listed network (1)",
    "labels": [
     "c2",
     "exploit",
@@ -3462,7 +3462,7 @@
    "id": "indicator--00ef3c84-5f20-521d-9203-4bd1f5adee00",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:23:09.000Z",
-   "modified": "2026-11-14T00:33:15.000Z",
+   "modified": "2026-11-14T01:31:16.000Z",
    "name": "NexaShield abuse IP 91.224.92.45",
    "indicator_types": [
     "malicious-activity"
@@ -3470,7 +3470,7 @@
    "pattern": "[ipv4-addr:value = '91.224.92.45']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:23:09.000Z",
-   "description": "Lithuania - AS209605 UAB Host Baltic - Spamhaus DROP-listed network (225)",
+   "description": "Lithuania - AS209605 UAB Host Baltic - Spamhaus DROP-listed network (233)",
    "labels": [
     "spamhaus"
    ],
@@ -5674,7 +5674,7 @@
    "id": "indicator--d35bb84b-7be5-5917-8e93-77331453f27b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:10:49.000Z",
-   "modified": "2026-11-13T06:09:56.000Z",
+   "modified": "2026-11-14T00:44:53.000Z",
    "name": "NexaShield abuse IP 185.243.5.118",
    "indicator_types": [
     "malicious-activity"
@@ -5682,7 +5682,7 @@
    "pattern": "[ipv4-addr:value = '185.243.5.118']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:10:49.000Z",
-   "description": "United States - AS23470 ReliableSite.Net LLC - Port scanning (3)",
+   "description": "United States - AS23470 ReliableSite.Net LLC - Port scanning (5)",
    "labels": [
     "scan"
    ],
@@ -5752,7 +5752,7 @@
    "id": "indicator--05a81d3d-b2cc-5719-a68a-361833269487",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-09T18:41:28.000Z",
-   "modified": "2026-11-14T00:16:59.000Z",
+   "modified": "2026-11-14T01:07:28.000Z",
    "name": "NexaShield abuse IP 193.46.255.86",
    "indicator_types": [
     "malicious-activity"
@@ -5760,7 +5760,7 @@
    "pattern": "[ipv4-addr:value = '193.46.255.86']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T18:41:28.000Z",
-   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (138), Spamhaus DROP-listed network (15)",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (138), Spamhaus DROP-listed network (19)",
    "labels": [
     "spamhaus",
     "ssh"

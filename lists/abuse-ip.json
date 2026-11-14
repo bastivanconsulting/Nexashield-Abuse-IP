@@ -1391,11 +1391,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 60
+   "ssh": 74
   },
-  "events": 60,
+  "events": 74,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-13T22:45:57Z",
+  "last_seen": "2026-11-14T00:36:36Z",
   "reported": "2026-11-11T16:35:03Z"
  },
  {
@@ -1405,12 +1405,12 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "spamhaus": 15,
+   "spamhaus": 19,
    "ssh": 138
   },
-  "events": 153,
+  "events": 157,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-14T00:16:59Z",
+  "last_seen": "2026-11-14T01:07:28Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1630,12 +1630,12 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-   "spamhaus": 20,
+   "spamhaus": 22,
    "web": 75
   },
-  "events": 95,
+  "events": 97,
   "first_seen": "2026-11-11T15:36:19Z",
-  "last_seen": "2026-11-13T22:53:07Z",
+  "last_seen": "2026-11-14T01:05:23Z",
   "reported": "2026-11-12T04:23:53Z"
  },
  {
@@ -1982,11 +1982,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 225
+   "spamhaus": 233
   },
-  "events": 225,
+  "events": 233,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-14T00:33:15Z",
+  "last_seen": "2026-11-14T01:31:16Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2265,12 +2265,12 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 10,
+   "spamhaus": 14,
    "web": 11
   },
-  "events": 21,
+  "events": 25,
   "first_seen": "2026-11-09T20:24:33Z",
-  "last_seen": "2026-11-13T23:00:15Z",
+  "last_seen": "2026-11-14T01:26:09Z",
   "reported": "2026-11-11T17:07:35Z"
  },
  {
@@ -2280,13 +2280,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 261,
+   "c2": 273,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 265,
+  "events": 277,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-14T00:25:30Z",
+  "last_seen": "2026-11-14T01:22:57Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2415,11 +2415,11 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-   "spamhaus": 125
+   "spamhaus": 127
   },
-  "events": 125,
+  "events": 127,
   "first_seen": "2026-11-11T10:46:14Z",
-  "last_seen": "2026-11-14T00:21:54Z",
+  "last_seen": "2026-11-14T01:34:37Z",
   "reported": "2026-11-11T16:35:21Z"
  },
  {
@@ -3271,11 +3271,11 @@
   "asn": 23470,
   "asn_org": "ReliableSite.Net LLC",
   "categories": {
-   "scan": 3
+   "scan": 5
   },
-  "events": 3,
+  "events": 5,
   "first_seen": "2026-11-11T21:10:49Z",
-  "last_seen": "2026-11-13T06:09:56Z",
+  "last_seen": "2026-11-14T00:44:53Z",
   "reported": "2026-11-11T16:35:49Z"
  },
  {
