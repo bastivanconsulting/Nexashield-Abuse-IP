@@ -7,10 +7,10 @@
 | IP | `191.44.93.66` |
 | Country | India (IN) |
 | ASN | AS152523 · BLAZING BULLET PRIVATE LIMITED |
-| Activity | SSH brute force (12) |
-| Events | 12 |
+| Activity | SSH brute force (20) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-14T12:54:37Z |
-| Last seen (UTC) | 2026-11-14T14:29:00Z |
+| Last seen (UTC) | 2026-11-14T15:28:46Z |
 | Reported to network owner (UTC) | 2026-11-14T14:27:39Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

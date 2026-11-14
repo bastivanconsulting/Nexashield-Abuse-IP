@@ -5,10 +5,10 @@
   "asn": 207043,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-    "exploit": 6
+    "exploit": 14
   },
-  "events": 6,
+  "events": 14,
   "first_seen": "2026-11-13T21:38:17Z",
-  "last_seen": "2026-11-14T10:54:19Z",
+  "last_seen": "2026-11-14T15:11:35Z",
   "reported": "2026-11-14T00:23:42Z"
 }
