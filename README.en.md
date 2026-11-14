@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 239 IPs, 36 countries, 96 networks, 17089 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 239 IPs, 36 countries, 96 networks, 17143 events">
 </picture>
 
 > [!TIP]
@@ -174,7 +174,7 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 |---|---:|
 | Abusive HTTP requests | 107 |
 | SSH brute force | 62 |
-| Port scanning | 57 |
+| Port scanning | 58 |
 | Exploitation attempt (CVE / RCE / injection) | 50 |
 | Web injection payload blocked by WAF | 31 |
 | Spamhaus DROP-listed network | 26 |

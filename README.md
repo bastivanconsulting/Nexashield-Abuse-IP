@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 239 IP, 36 pays, 96 réseaux, 17089 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 239 IP, 36 pays, 96 réseaux, 17143 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Sur la période observée, le dépôt a enregistré 17089 événements provenant de 239 adresses IP réparties sur 36 pays et 96 réseaux ASN, avec une dernière activité datée du 2026-11-14. Les activités observées couvrent principalement des requêtes HTTP abusives (107), des tentatives de force brute SSH (62), du balayage de ports (57) et des exploitations (50). Les sources géographiques les plus représentées sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21) et la France (20).
+Au cours de la période observée, le SOC NexaShield a recensé 17143 événements provenant de 239 adresses IP réparties sur 36 pays et 96 réseaux ASN, avec une dernière activité enregistrée le 2026-11-14. Les principales natures d'événements détectés concernent les requêtes HTTP abusives (107), la force brute SSH (62), le balayage de ports (58) et les tentatives d'exploitation (50).
 
-- Les principaux réseaux d'origine incluent AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
-- Parmi les autres natures recensées figurent les charges d'injection bloquées par le WAF (31), les réseaux listés Spamhaus DROP (26), ainsi que des infrastructures botnet/C2 connues (2).
-- On relève également des tentatives de force brute SMTP/IMAP (1) et une signature d'exploit UDP (1).
+- Les principaux pays sources sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21), la France (20) et le Royaume-Uni (19).
+- Les réseaux les plus représentés incluent AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
+- Parmi les autres natures observées figurent la charge d'injection bloquée par le WAF (31), les réseaux listés Spamhaus DROP (26), l'infrastructure botnet / C2 connue (2), la force brute SMTP / IMAP (1) et la signature d'exploit UDP (1).
 
 <sub>Synthèse générée automatiquement le 2026-11-14 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
@@ -187,7 +187,7 @@ Sur la période observée, le dépôt a enregistré 17089 événements provenant
 |---|---:|
 | Requêtes HTTP abusives | 107 |
 | Force brute SSH | 62 |
-| Balayage de ports | 57 |
+| Balayage de ports | 58 |
 | Exploitation (CVE, RCE, injection) | 50 |
 | Charge d'injection bloquée par le WAF | 31 |
 | Réseau listé Spamhaus DROP | 26 |
