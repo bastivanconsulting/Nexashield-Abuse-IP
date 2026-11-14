@@ -1,5 +1,5 @@
-Le dépôt recense 19542 événements générés par 254 adresses IP réparties sur 38 pays et 100 réseaux ASN, avec une dernière activité observée le 2026-11-14. Les principaux pays d'origine incluent les États-Unis (53), les Pays-Bas (36), la Belgique (23), l'Allemagne (23) et la France (21). Parmi les réseaux les plus représentés figurent AS14061 DigitalOcean, LLC (50), AS396982 Google LLC (30) et AS198364 BANATSYNC SRL (25).
+Le dépôt a enregistré 20230 événements provenant de 258 adresses IP réparties sur 38 pays et 101 réseaux ASN, avec une dernière activité relevée le 2026-11-14. Les principaux pays d'origine incluent les États-Unis avec 54 occurrences, les Pays-Bas avec 36, la Belgique avec 25, l'Allemagne avec 23 et la France avec 21. Les natures d'événements les plus fréquentes sont les requêtes HTTP abusives avec 111 cas, la force brute SSH avec 72 cas et le balayage de ports avec 68 cas.
 
-- Les activités observées comprennent principalement des requêtes HTTP abusives (108), des tentatives de force brute SSH (71) et du balayage de ports (67).
-- D'autres natures incluent l'exploitation (CVE, RCE, injection) (53), des charges d'injection bloquées par le WAF (32) et des réseaux listés Spamhaus DROP (30).
-- Deux cas d'infrastructure botnet / C2 connue (2) ont également été identifiés, ainsi qu'une force brute SMTP / IMAP (1) et une signature d'exploit UDP (1).
+- Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 50 événements, AS396982 (Google LLC) avec 32 et AS198364 (BANATSYNC SRL) avec 25.
+- Parmi les autres natures observées figurent l'exploitation (CVE, RCE, injection) avec 53 cas, les charges d'injection bloquées par le WAF avec 33 cas et les réseaux listés Spamhaus DROP avec 30 cas.
+- On relève également 2 cas d'infrastructure botnet / C2 connue, 1 cas de force brute SMTP / IMAP et 1 signature d'exploit UDP.

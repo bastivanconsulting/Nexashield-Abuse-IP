@@ -1,9 +1,10 @@
 # AS8075 · Microsoft Corporation
 
-🇺🇸 United States · **1** malicious IP(s)
+🇺🇸 United States · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`20.65.169.190`](20.65.169.190/) | Port scanning (2), Abusive HTTP requests (2), Web injection payload blocked by WAF (2) | 6 | 2026-11-14T11:42:34Z |
 | [`40.119.26.26`](40.119.26.26/) | Abusive HTTP requests (1), Web injection payload blocked by WAF (1) | 2 | 2026-11-12T13:21:39Z |
 
 ---
