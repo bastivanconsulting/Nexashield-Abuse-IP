@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`91.224.92.45`](91.224.92.45/) | Spamhaus DROP-listed network (279) | 279 | 2026-11-14T07:15:37Z |
+| [`91.224.92.45`](91.224.92.45/) | Spamhaus DROP-listed network (289) | 289 | 2026-11-14T08:32:34Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

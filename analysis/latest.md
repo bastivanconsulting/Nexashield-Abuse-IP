@@ -1,5 +1,5 @@
-Au cours de la période observée, le SOC NexaShield a enregistré 17267 événements provenant de 240 adresses IP réparties sur 37 pays et 97 réseaux ASN, avec une dernière activité constatée le 2026-11-14. Les principales origines géographiques sont les États-Unis (51), les Pays-Bas (31), la Belgique (22), l'Allemagne (21), la France (20) et le Royaume-Uni (19). Les réseaux les plus représentés sont AS14061 DigitalOcean, LLC (49), AS396982 Google LLC (29) et AS198364 BANATSYNC SRL (21).
+Sur la période observée, le dépôt a recensé 18136 événements provenant de 250 adresses IP réparties sur 37 pays et 98 réseaux ASN, avec une dernière activité enregistrée le 2026-11-14. Les principales origines géographiques incluent les États-Unis avec 53 adresses, les Pays-Bas avec 34, la Belgique et l'Allemagne avec 23 chacune, ainsi que la France avec 21. Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 50 adresses, AS396982 (Google LLC) avec 29 et AS198364 (BANATSYNC SRL) avec 23.
 
-- Les natures d'événements les plus fréquentes sont les requêtes HTTP abusives (107), la force brute SSH (63), le balayage de ports (58) et l'exploitation (CVE, RCE, injection) (50).
-- D'autres activités incluent des charges d'injection bloquées par le WAF (31), des réseaux listés Spamhaus DROP (26), des infrastructures botnet / C2 connues (2), de la force brute SMTP / IMAP (1) et une signature d'exploit UDP (1).
-- Les autres pays représentés incluent Hong Kong (8) et la Bulgarie (6).
+- Les natures d'événements observées comprennent 107 requêtes HTTP abusives, 69 tentatives de force brute SSH et 64 balayages de ports.
+- On relève également 52 cas d'exploitation (CVE, RCE, injection), 31 charges d'injection bloquées par le WAF et 28 réseaux listés Spamhaus DROP.
+- Deux cas d'infrastructure botnet / C2 connue, une force brute SMTP / IMAP et une signature d'exploit UDP complètent le tableau.

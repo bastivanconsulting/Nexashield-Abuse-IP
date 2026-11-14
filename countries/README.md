@@ -11,7 +11,7 @@
 | [🇨🇦 Canada](CA_Canada/) | 3 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 1 |
 | [🇨🇳 China](CN_China/) | 5 |
-| [🇩🇪 Germany](DE_Germany/) | 22 |
+| [🇩🇪 Germany](DE_Germany/) | 23 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 1 |
 | [🇫🇮 Finland](FI_Finland/) | 3 |
@@ -28,7 +28,7 @@
 | [🇯🇵 Japan](JP_Japan/) | 3 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 6 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 32 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 34 |
 | [🇵🇭 Philippines](PH_Philippines/) | 2 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 4 |
 | [🇵🇱 Poland](PL_Poland/) | 2 |
@@ -38,4 +38,4 @@
 | [🇸🇬 Singapore](SG_Singapore/) | 4 |
 | [🇹🇭 Thailand](TH_Thailand/) | 1 |
 | [🇹🇷 Turkey](TR_Turkey/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 52 |
+| [🇺🇸 United States](US_United-States/) | 53 |

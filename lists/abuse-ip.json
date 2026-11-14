@@ -472,11 +472,11 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 10
+   "scan": 16
   },
-  "events": 10,
+  "events": 16,
   "first_seen": "2026-11-14T06:28:08Z",
-  "last_seen": "2026-11-14T07:33:57Z",
+  "last_seen": "2026-11-14T07:45:53Z",
   "reported": "2026-11-11T16:35:30Z"
  },
  {
@@ -880,6 +880,22 @@
   "first_seen": "2026-11-10T11:49:29Z",
   "last_seen": "2026-11-11T12:32:53Z",
   "reported": "2026-11-11T17:06:21Z"
+ },
+ {
+  "ip": "93.152.221.37",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+   "spamhaus": 4,
+   "ssh": 10,
+   "scan": 2
+  },
+  "events": 16,
+  "first_seen": "2026-11-10T14:54:42Z",
+  "last_seen": "2026-11-14T07:46:10Z",
+  "reported": "2026-11-14T08:29:15Z"
  },
  {
   "ip": "93.152.221.108",
@@ -1463,11 +1479,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 249
+   "ssh": 259
   },
-  "events": 249,
+  "events": 259,
   "first_seen": "2026-11-09T17:20:00Z",
-  "last_seen": "2026-11-14T06:36:35Z",
+  "last_seen": "2026-11-14T07:45:22Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1477,11 +1493,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 116
+   "ssh": 130
   },
-  "events": 116,
+  "events": 130,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-14T06:11:15Z",
+  "last_seen": "2026-11-14T07:49:06Z",
   "reported": "2026-11-11T16:35:03Z"
  },
  {
@@ -1491,12 +1507,12 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "spamhaus": 25,
-   "ssh": 156
+   "spamhaus": 27,
+   "ssh": 166
   },
-  "events": 181,
+  "events": 193,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-14T06:17:43Z",
+  "last_seen": "2026-11-14T07:41:34Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -1777,11 +1793,11 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-   "web": 5
+   "web": 15
   },
-  "events": 5,
+  "events": 15,
   "first_seen": "2026-11-10T02:06:15Z",
-  "last_seen": "2026-11-10T02:06:16Z",
+  "last_seen": "2026-11-14T08:32:38Z",
   "reported": "2026-11-11T17:07:59Z"
  },
  {
@@ -2068,11 +2084,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 279
+   "spamhaus": 289
   },
-  "events": 279,
+  "events": 289,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-14T07:15:37Z",
+  "last_seen": "2026-11-14T08:32:34Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2288,6 +2304,20 @@
   "reported": "2026-11-11T21:10:00Z"
  },
  {
+  "ip": "45.156.87.78",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+   "ssh": 12
+  },
+  "events": 12,
+  "first_seen": "2026-11-14T06:07:36Z",
+  "last_seen": "2026-11-14T08:14:22Z",
+  "reported": "2026-11-14T08:29:15Z"
+ },
+ {
   "ip": "45.156.87.153",
   "country_code": "NL",
   "country": "The Netherlands",
@@ -2345,18 +2375,34 @@
   "reported": "2026-11-11T16:34:40Z"
  },
  {
+  "ip": "85.11.167.72",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+   "ssh": 12,
+   "spamhaus": 4,
+   "scan": 3
+  },
+  "events": 19,
+  "first_seen": "2026-11-12T20:50:13Z",
+  "last_seen": "2026-11-14T06:54:45Z",
+  "reported": "2026-11-14T08:29:15Z"
+ },
+ {
   "ip": "85.11.167.204",
   "country_code": "NL",
   "country": "The Netherlands",
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 30,
+   "spamhaus": 34,
    "web": 11
   },
-  "events": 41,
+  "events": 45,
   "first_seen": "2026-11-09T20:24:33Z",
-  "last_seen": "2026-11-14T07:32:35Z",
+  "last_seen": "2026-11-14T08:22:52Z",
   "reported": "2026-11-11T17:07:35Z"
  },
  {
@@ -2366,13 +2412,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 333,
+   "c2": 345,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 337,
+  "events": 349,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-14T07:28:26Z",
+  "last_seen": "2026-11-14T08:29:13Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2516,11 +2562,11 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-   "spamhaus": 153
+   "spamhaus": 157
   },
-  "events": 153,
+  "events": 157,
   "first_seen": "2026-11-11T10:46:14Z",
-  "last_seen": "2026-11-14T07:28:13Z",
+  "last_seen": "2026-11-14T07:52:10Z",
   "reported": "2026-11-11T16:35:21Z"
  },
  {
@@ -2902,6 +2948,20 @@
   "reported": "2026-11-11T17:05:30Z"
  },
  {
+  "ip": "138.197.214.228",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+   "exploit": 6
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T16:06:45Z",
+  "last_seen": "2026-11-11T16:15:28Z",
+  "reported": "2026-11-14T08:29:11Z"
+ },
+ {
   "ip": "146.190.63.48",
   "country_code": "US",
   "country": "United States",
@@ -3231,11 +3291,11 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 14
+   "scan": 22
   },
-  "events": 14,
+  "events": 22,
   "first_seen": "2026-11-11T10:14:02Z",
-  "last_seen": "2026-11-14T06:16:37Z",
+  "last_seen": "2026-11-14T07:53:55Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {
@@ -3372,11 +3432,11 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 16
+   "scan": 100
   },
-  "events": 16,
+  "events": 100,
   "first_seen": "2026-11-14T07:01:07Z",
-  "last_seen": "2026-11-14T07:04:08Z",
+  "last_seen": "2026-11-14T07:55:15Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {
