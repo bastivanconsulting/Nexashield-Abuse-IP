@@ -5,11 +5,11 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 21 | Exploitation attempt (CVE / RCE / injection) (60), Abusive HTTP requests (18), Port scanning (1) |
-| [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 12 | Abusive HTTP requests (413), Port scanning (242) |
+| [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 12 | Abusive HTTP requests (413), Port scanning (244) |
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 7 | Abusive HTTP requests (222), Port scanning (165), Web injection payload blocked by WAF (26) |
 | [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 3 | SSH brute force (31), Spamhaus DROP-listed network (14), Port scanning (3) |
 | [AS?](AS-Unknown/) | Unknown | 2 | Abusive HTTP requests (24), Exploitation attempt (CVE / RCE / injection) (3) |
-| [AS207043](AS207043_DEDIK-SERVICES-LIMITED/) | DEDIK SERVICES LIMITED | 2 | Exploitation attempt (CVE / RCE / injection) (18) |
+| [AS207043](AS207043_DEDIK-SERVICES-LIMITED/) | DEDIK SERVICES LIMITED | 2 | Exploitation attempt (CVE / RCE / injection) (20) |
 | [AS402253](AS402253_SKN-Subnet-Telecom-Ltd/) | SKN Subnet & Telecom Ltd | 2 | Exploitation attempt (CVE / RCE / injection) (6), SSH brute force (5), Web injection payload blocked by WAF (2), Spamhaus DROP-listed network (1) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (3), Port scanning (2) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Abusive HTTP requests (263), Web injection payload blocked by WAF (20) |

@@ -1034,12 +1034,12 @@
   "asn": 201814,
   "asn_org": "MEVSPACE sp. z o.o.",
   "categories": {
-   "scan": 23,
+   "scan": 27,
    "web": 27
   },
-  "events": 50,
+  "events": 54,
   "first_seen": "2026-11-09T22:14:09Z",
-  "last_seen": "2026-11-14T15:05:13Z",
+  "last_seen": "2026-11-14T16:43:30Z",
   "reported": "2026-11-13T10:24:34Z"
  },
  {
@@ -1578,11 +1578,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 200
+   "ssh": 212
   },
-  "events": 200,
+  "events": 212,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-14T15:34:06Z",
+  "last_seen": "2026-11-14T17:04:34Z",
   "reported": "2026-11-11T16:35:03Z"
  },
  {
@@ -1592,12 +1592,12 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "spamhaus": 39,
-   "ssh": 222
+   "spamhaus": 41,
+   "ssh": 234
   },
-  "events": 261,
+  "events": 275,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-14T15:49:18Z",
+  "last_seen": "2026-11-14T17:09:30Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -2199,11 +2199,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 359
+   "spamhaus": 369
   },
-  "events": 359,
+  "events": 369,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-14T16:13:22Z",
+  "last_seen": "2026-11-14T17:23:58Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2527,13 +2527,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 429,
+   "c2": 445,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 433,
+  "events": 449,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-14T16:30:13Z",
+  "last_seen": "2026-11-14T17:27:33Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2709,11 +2709,11 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-   "spamhaus": 201
+   "spamhaus": 205
   },
-  "events": 201,
+  "events": 205,
   "first_seen": "2026-11-11T10:46:14Z",
-  "last_seen": "2026-11-14T16:27:24Z",
+  "last_seen": "2026-11-14T16:44:07Z",
   "reported": "2026-11-11T16:35:21Z"
  },
  {
@@ -3510,11 +3510,11 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 21
+   "scan": 23
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-11T09:54:10Z",
-  "last_seen": "2026-11-14T14:56:46Z",
+  "last_seen": "2026-11-14T16:36:10Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {
@@ -3710,11 +3710,11 @@
   "asn": 207043,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-   "exploit": 14
+   "exploit": 16
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-13T21:38:17Z",
-  "last_seen": "2026-11-14T15:11:35Z",
+  "last_seen": "2026-11-14T16:59:00Z",
   "reported": "2026-11-14T00:23:42Z"
  },
  {
