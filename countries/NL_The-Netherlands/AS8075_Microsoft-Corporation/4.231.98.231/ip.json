@@ -5,9 +5,9 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-    "web": 12
+    "web": 6
   },
-  "events": 12,
+  "events": 6,
   "first_seen": "2026-11-13T13:57:40Z",
   "last_seen": "2026-11-13T22:41:40Z",
   "reported": "2026-11-13T22:23:51Z"

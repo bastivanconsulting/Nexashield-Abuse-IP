@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS24940](AS24940_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 2 | Abusive HTTP requests (54), Web injection payload blocked by WAF (16) |
+| [AS24940](AS24940_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 2 | Abusive HTTP requests (30), Web injection payload blocked by WAF (16) |
 | [AS215590](AS215590_DpkgSoft-International-Limited/) | DpkgSoft International Limited | 1 | SSH brute force (9), Port scanning (1) |
 
 ---

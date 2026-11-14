@@ -1,0 +1,14 @@
+{
+  "ip": "23.94.145.35",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 207043,
+  "asn_org": "DEDIK SERVICES LIMITED",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-13T21:38:17Z",
+  "last_seen": "2026-11-13T21:38:17Z",
+  "reported": "2026-11-14T00:23:42Z"
+}

@@ -5,10 +5,10 @@
   "asn": 9541,
   "asn_org": "Cyber Internet Services (Private) Limited",
   "categories": {
-    "exploit": 4,
-    "scan": 2
+    "exploit": 2,
+    "scan": 1
   },
-  "events": 6,
+  "events": 3,
   "first_seen": "2026-11-13T01:22:54Z",
   "last_seen": "2026-11-13T01:22:54Z",
   "reported": "2026-11-13T02:31:37Z"

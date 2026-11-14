@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`80.94.95.115`](80.94.95.115/) | Port scanning (281), SSH brute force (10) | 291 | 2026-11-13T03:56:58Z |
+| [`80.94.95.115`](80.94.95.115/) | Port scanning (247), SSH brute force (10) | 257 | 2026-11-13T03:56:58Z |
 | [`80.94.95.211`](80.94.95.211/) | Abusive HTTP requests (5) | 5 | 2026-11-10T02:06:16Z |
 
 ---

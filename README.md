@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-234-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-236-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-35-2563eb?style=flat&labelColor=080f12" alt="Pays">
-  <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--13-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
+  <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--14-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Étoiles"></a>
   <img src="https://img.shields.io/github/last-commit/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=64748b&label=dernier%20commit" alt="Dernier commit">
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 234 IP, 35 pays, 94 réseaux, 18311 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 236 IP, 35 pays, 95 réseaux, 16743 événements">
 </picture>
 
 > [!TIP]
@@ -160,10 +160,10 @@ Sur la période observée, le dépôt a enregistré 18141 événements provenant
 
 | Pays | IP |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 49 |
+| 🇺🇸 [United States](countries/US_United-States/) | 50 |
 | 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 31 |
+| 🇧🇪 [Belgium](countries/BE_Belgium/) | 21 |
 | 🇩🇪 [Germany](countries/DE_Germany/) | 21 |
-| 🇧🇪 [Belgium](countries/BE_Belgium/) | 20 |
 | 🇫🇷 [France](countries/FR_France/) | 20 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 19 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 8 |
@@ -185,10 +185,10 @@ Sur la période observée, le dépôt a enregistré 18141 événements provenant
 
 | Nature | IP |
 |---|---:|
-| Requêtes HTTP abusives | 105 |
+| Requêtes HTTP abusives | 106 |
 | Force brute SSH | 62 |
 | Balayage de ports | 57 |
-| Exploitation (CVE, RCE, injection) | 47 |
+| Exploitation (CVE, RCE, injection) | 48 |
 | Charge d'injection bloquée par le WAF | 30 |
 | Réseau listé Spamhaus DROP | 26 |
 | Infrastructure botnet / C2 connue | 2 |
@@ -204,7 +204,7 @@ Sur la période observée, le dépôt a enregistré 18141 événements provenant
 | ASN | Opérateur | Pays (IP) | Total IP |
 |---|---|---|---:|
 | **AS14061** | DigitalOcean, LLC | [🇺🇸 20](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 7](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇳🇱 7](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇬🇧 5](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇦🇺 4](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇸🇬 4](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇨🇦 2](countries/CA_Canada/AS14061_DigitalOcean-LLC/) | 49 |
-| **AS396982** | Google LLC | [🇧🇪 17](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 27 |
+| **AS396982** | Google LLC | [🇧🇪 18](countries/BE_Belgium/AS396982_Google-LLC/) [🇩🇪 2](countries/DE_Germany/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇯🇵 2](countries/JP_Japan/AS396982_Google-LLC/) [🇨🇦 1](countries/CA_Canada/AS396982_Google-LLC/) [🇰🇷 1](countries/KR_South-Korea/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇺🇸 1](countries/US_United-States/AS396982_Google-LLC/) | 28 |
 | **AS198364** | BANATSYNC SRL | [🇫🇷 16](countries/FR_France/AS198364_BANATSYNC-SRL/) [🇳🇱 5](countries/NL_The-Netherlands/AS198364_BANATSYNC-SRL/) | 21 |
 | **AS14618** | Amazon.com, Inc. | [🇺🇸 11](countries/US_United-States/AS14618_Amazon-com-Inc/) | 11 |
 | **AS197170** | TechTies Inc. | [🇳🇱 9](countries/NL_The-Netherlands/AS197170_TechTies-Inc/) [🇩🇪 2](countries/DE_Germany/AS197170_TechTies-Inc/) | 11 |

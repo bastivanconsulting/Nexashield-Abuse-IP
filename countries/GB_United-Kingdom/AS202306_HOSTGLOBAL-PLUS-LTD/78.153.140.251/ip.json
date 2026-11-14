@@ -5,10 +5,10 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-    "spamhaus": 10,
+    "spamhaus": 9,
     "web": 8
   },
-  "events": 18,
+  "events": 17,
   "first_seen": "2026-11-10T04:42:09Z",
   "last_seen": "2026-11-13T00:33:32Z",
   "reported": "2026-11-11T17:07:12Z"

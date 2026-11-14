@@ -5,9 +5,9 @@
   "asn": 47154,
   "asn_org": "HUSAM A. H. HIJAZI",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-13T19:25:03Z",
   "last_seen": "2026-11-13T19:25:03Z",
   "reported": "2026-11-13T20:26:45Z"

@@ -7,8 +7,8 @@
 | IP | `194.180.49.16` |
 | Country | Germany (DE) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (64) |
-| Events | 64 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (32) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-13T06:05:22Z |
 | Last seen (UTC) | 2026-11-13T09:19:40Z |
 | Reported to network owner (UTC) | 2026-11-13T06:25:11Z |

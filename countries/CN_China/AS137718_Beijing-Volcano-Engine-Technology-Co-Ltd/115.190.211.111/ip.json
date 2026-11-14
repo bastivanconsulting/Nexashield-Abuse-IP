@@ -5,10 +5,10 @@
   "asn": 137718,
   "asn_org": "Beijing Volcano Engine Technology Co., Ltd.",
   "categories": {
-    "waf": 2,
-    "exploit": 6
+    "waf": 1,
+    "exploit": 3
   },
-  "events": 8,
+  "events": 4,
   "first_seen": "2026-11-13T09:12:38Z",
   "last_seen": "2026-11-13T09:12:38Z",
   "reported": "2026-11-13T10:24:16Z"

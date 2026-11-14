@@ -1,4 +1,4 @@
-# NexaShield abuse IP - Cilium >= 1.15 - generated 2026-11-13
+# NexaShield abuse IP - Cilium >= 1.15 - generated 2026-11-14
 # Règles de refus seules : enableDefaultDeny=false garantit qu'aucun autre flux n'est bloqué.
 apiVersion: cilium.io/v2
 kind: CiliumClusterwideNetworkPolicy
@@ -31,6 +31,7 @@ spec:
         - cidr: 20.105.65.67/32
         - cidr: 20.217.186.29/32
         - cidr: 20.233.250.77/32
+        - cidr: 23.94.145.35/32
         - cidr: 27.102.116.43/32
         - cidr: 31.57.34.150/32
         - cidr: 32.195.61.205/32
@@ -236,6 +237,7 @@ spec:
         - cidr: 201.79.157.180/32
         - cidr: 206.81.24.227/32
         - cidr: 207.175.165.55/32
+        - cidr: 207.175.202.245/32
         - cidr: 207.175.237.228/32
         - cidr: 209.38.100.95/32
         - cidr: 209.38.208.202/32
@@ -267,6 +269,7 @@ spec:
         - cidr: 20.105.65.67/32
         - cidr: 20.217.186.29/32
         - cidr: 20.233.250.77/32
+        - cidr: 23.94.145.35/32
         - cidr: 27.102.116.43/32
         - cidr: 31.57.34.150/32
         - cidr: 32.195.61.205/32
@@ -472,6 +475,7 @@ spec:
         - cidr: 201.79.157.180/32
         - cidr: 206.81.24.227/32
         - cidr: 207.175.165.55/32
+        - cidr: 207.175.202.245/32
         - cidr: 207.175.237.228/32
         - cidr: 209.38.100.95/32
         - cidr: 209.38.208.202/32

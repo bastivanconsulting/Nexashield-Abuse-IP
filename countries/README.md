@@ -6,7 +6,7 @@
 | [🇦🇺 Australia](AU_Australia/) | 4 |
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 1 |
-| [🇧🇪 Belgium](BE_Belgium/) | 20 |
+| [🇧🇪 Belgium](BE_Belgium/) | 21 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 6 |
 | [🇨🇦 Canada](CA_Canada/) | 3 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 1 |
@@ -36,4 +36,4 @@
 | [🇸🇪 Sweden](SE_Sweden/) | 2 |
 | [🇸🇬 Singapore](SG_Singapore/) | 4 |
 | [🇹🇭 Thailand](TH_Thailand/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 49 |
+| [🇺🇸 United States](US_United-States/) | 50 |

@@ -18,6 +18,7 @@
 20.105.65.67:nexashield
 20.217.186.29:nexashield
 20.233.250.77:nexashield
+23.94.145.35:nexashield
 27.102.116.43:nexashield
 31.57.34.150:nexashield
 32.195.61.205:nexashield
@@ -223,6 +224,7 @@
 201.79.157.180:nexashield
 206.81.24.227:nexashield
 207.175.165.55:nexashield
+207.175.202.245:nexashield
 207.175.237.228:nexashield
 209.38.100.95:nexashield
 209.38.208.202:nexashield

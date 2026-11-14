@@ -5,9 +5,9 @@
   "asn": 23470,
   "asn_org": "ReliableSite.Net LLC",
   "categories": {
-    "scan": 5
+    "scan": 3
   },
-  "events": 5,
+  "events": 3,
   "first_seen": "2026-11-11T21:10:49Z",
   "last_seen": "2026-11-13T06:09:56Z",
   "reported": "2026-11-11T16:35:49Z"

@@ -7,8 +7,8 @@
 | IP | `103.66.176.192` |
 | Country | Bangladesh (BD) |
 | ASN | AS135578 · Dhaka Information Technology |
-| Activity | Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 4 |
+| Activity | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-13T01:47:42Z |
 | Last seen (UTC) | 2026-11-13T01:47:42Z |
 | Reported to network owner (UTC) | 2026-11-13T02:31:41Z |

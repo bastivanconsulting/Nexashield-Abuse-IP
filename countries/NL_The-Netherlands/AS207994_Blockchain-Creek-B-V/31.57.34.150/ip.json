@@ -5,10 +5,10 @@
   "asn": 207994,
   "asn_org": "Blockchain Creek B.V.",
   "categories": {
-    "waf": 64,
-    "exploit": 24
+    "waf": 32,
+    "exploit": 12
   },
-  "events": 88,
+  "events": 44,
   "first_seen": "2026-11-13T15:58:19Z",
   "last_seen": "2026-11-13T15:59:25Z",
   "reported": "2026-11-13T18:25:18Z"

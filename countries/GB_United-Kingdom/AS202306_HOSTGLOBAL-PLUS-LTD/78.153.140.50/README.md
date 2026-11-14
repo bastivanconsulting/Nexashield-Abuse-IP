@@ -7,8 +7,8 @@
 | IP | `78.153.140.50` |
 | Country | United Kingdom (GB) |
 | ASN | AS202306 · HOSTGLOBAL.PLUS LTD |
-| Activity | Spamhaus DROP-listed network (9), Abusive HTTP requests (8) |
-| Events | 17 |
+| Activity | Abusive HTTP requests (7), Spamhaus DROP-listed network (7) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-10T01:59:01Z |
 | Last seen (UTC) | 2026-11-13T02:20:24Z |
 | Reported to network owner (UTC) | 2026-11-12T08:24:35Z |

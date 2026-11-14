@@ -10,7 +10,7 @@
 | Activity | SSH brute force (193) |
 | Events | 193 |
 | First seen (UTC) | 2026-11-09T17:20:00Z |
-| Last seen (UTC) | 2026-11-13T23:06:24Z |
+| Last seen (UTC) | 2026-11-14T00:17:01Z |
 | Reported to network owner (UTC) | 2026-11-11T17:05:43Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

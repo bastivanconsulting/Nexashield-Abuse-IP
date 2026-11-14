@@ -7,8 +7,8 @@
 | IP | `89.167.11.42` |
 | Country | Finland (FI) |
 | ASN | AS24940 · Hetzner Online GmbH |
-| Activity | Abusive HTTP requests (48) |
-| Events | 48 |
+| Activity | Abusive HTTP requests (24) |
+| Events | 24 |
 | First seen (UTC) | 2026-11-13T08:30:53Z |
 | Last seen (UTC) | 2026-11-13T08:30:56Z |
 | Reported to network owner (UTC) | 2026-11-13T10:24:39Z |

@@ -7,8 +7,8 @@
 | IP | `87.227.143.150` |
 | Country | Bulgaria (BG) |
 | ASN | AS29580 · A1 Bulgaria EAD |
-| Activity | SSH brute force (20), Port scanning (2) |
-| Events | 22 |
+| Activity | SSH brute force (10), Port scanning (1) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-13T08:00:49Z |
 | Last seen (UTC) | 2026-11-13T08:01:21Z |
 | Reported to network owner (UTC) | 2026-11-13T10:24:25Z |

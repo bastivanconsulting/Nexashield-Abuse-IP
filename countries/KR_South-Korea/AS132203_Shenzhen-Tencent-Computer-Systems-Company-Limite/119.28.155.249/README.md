@@ -7,8 +7,8 @@
 | IP | `119.28.155.249` |
 | Country | South Korea (KR) |
 | ASN | AS132203 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Abusive HTTP requests (228), Web injection payload blocked by WAF (52) |
-| Events | 280 |
+| Activity | Abusive HTTP requests (114), Web injection payload blocked by WAF (26) |
+| Events | 140 |
 | First seen (UTC) | 2026-11-13T01:00:20Z |
 | Last seen (UTC) | 2026-11-13T01:01:36Z |
 | Reported to network owner (UTC) | 2026-11-13T02:31:27Z |
