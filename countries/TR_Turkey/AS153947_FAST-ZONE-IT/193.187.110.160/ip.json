@@ -5,10 +5,10 @@
   "asn": 153947,
   "asn_org": "FAST ZONE IT",
   "categories": {
-    "ssh": 32
+    "ssh": 36
   },
-  "events": 32,
+  "events": 36,
   "first_seen": "2026-11-10T23:36:18Z",
-  "last_seen": "2026-11-15T09:54:26Z",
+  "last_seen": "2026-11-15T13:03:36Z",
   "reported": "2026-11-14T04:24:59Z"
 }

@@ -5,11 +5,11 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-    "scan": 497,
-    "ssh": 90
+    "scan": 511,
+    "ssh": 94
   },
-  "events": 587,
+  "events": 605,
   "first_seen": "2026-11-11T21:29:19Z",
-  "last_seen": "2026-11-15T12:27:24Z",
+  "last_seen": "2026-11-15T13:25:56Z",
   "reported": "2026-11-12T02:25:33Z"
 }

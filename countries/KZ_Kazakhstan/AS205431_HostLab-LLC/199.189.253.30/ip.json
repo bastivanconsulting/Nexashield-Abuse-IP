@@ -5,10 +5,10 @@
   "asn": 205431,
   "asn_org": "HostLab LLC",
   "categories": {
-    "scan": 8
+    "scan": 9
   },
-  "events": 14,
+  "events": 15,
   "first_seen": "2026-11-12T11:36:47Z",
-  "last_seen": "2026-11-15T10:22:17Z",
+  "last_seen": "2026-11-15T12:19:27Z",
   "reported": "not reported (permanent ban)"
 }

@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 1 | SSH brute force (32) |
+| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 1 | SSH brute force (36) |
 | [AS205196](AS205196_BIG-CORE-LLC/) | BIG CORE LLC | 1 | Port scanning (45), Known botnet / C2 infrastructure (12) |
 
 ---

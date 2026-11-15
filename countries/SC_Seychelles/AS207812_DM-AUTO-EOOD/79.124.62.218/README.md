@@ -7,10 +7,10 @@
 | IP | `79.124.62.218` |
 | Country | Seychelles (SC) |
 | ASN | AS207812 · DM AUTO EOOD |
-| Activity | Port scanning (41) |
-| Events | 42 |
+| Activity | Port scanning (42) |
+| Events | 43 |
 | First seen (UTC) | 2026-11-12T16:31:02Z |
-| Last seen (UTC) | 2026-11-15T12:01:02Z |
+| Last seen (UTC) | 2026-11-15T13:01:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
