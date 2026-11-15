@@ -1,0 +1,15 @@
+{
+  "ip": "78.111.89.84",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 208951,
+  "asn_org": "ITGLOBAL.COM NL B.V.",
+  "categories": {
+    "scan": 16,
+    "c2": 1
+  },
+  "events": 22,
+  "first_seen": "2026-11-12T11:30:25Z",
+  "last_seen": "2026-11-15T04:17:23Z",
+  "reported": "not reported (permanent ban)"
+}

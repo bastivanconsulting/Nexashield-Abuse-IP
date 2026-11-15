@@ -7,10 +7,10 @@
 | IP | `91.230.168.32` |
 | Country | United States (US) |
 | ASN | AS213412 · ONYPHE SAS |
-| Activity | Port scanning (27), Known botnet / C2 infrastructure (11) |
-| Events | 39 |
+| Activity | Port scanning (29), Known botnet / C2 infrastructure (11) |
+| Events | 41 |
 | First seen (UTC) | 2026-11-11T12:57:45Z |
-| Last seen (UTC) | 2026-11-14T23:44:53Z |
+| Last seen (UTC) | 2026-11-15T04:01:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

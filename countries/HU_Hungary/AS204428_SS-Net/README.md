@@ -4,8 +4,8 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`80.94.95.115`](80.94.95.115/) | Port scanning (315), SSH brute force (30) | 345 | 2026-11-15T03:26:11Z |
-| [`80.94.95.116`](80.94.95.116/) | Port scanning (322), SSH brute force (12), Known botnet / C2 infrastructure (7) | 368 | 2026-11-15T03:14:36Z |
+| [`80.94.95.115`](80.94.95.115/) | Port scanning (343), SSH brute force (42) | 385 | 2026-11-15T04:33:40Z |
+| [`80.94.95.116`](80.94.95.116/) | Port scanning (365), SSH brute force (27) | 392 | 2026-11-15T04:32:57Z |
 | [`80.94.95.211`](80.94.95.211/) | Abusive HTTP requests (10) | 10 | 2026-11-14T08:32:38Z |
 | [`80.94.95.245`](80.94.95.245/) | Port scanning (9) | 13 | 2026-11-14T23:42:03Z |
 

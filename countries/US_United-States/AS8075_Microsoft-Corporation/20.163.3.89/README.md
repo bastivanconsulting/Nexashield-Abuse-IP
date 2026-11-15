@@ -7,10 +7,10 @@
 | IP | `20.163.3.89` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (8) |
-| Events | 13 |
+| Activity | Port scanning (9) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-11T20:58:39Z |
-| Last seen (UTC) | 2026-11-14T21:38:32Z |
+| Last seen (UTC) | 2026-11-15T03:54:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

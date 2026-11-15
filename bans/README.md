@@ -2,7 +2,7 @@
 
 Toutes les adresses **bannies définitivement** par NexaShield sur l'infrastructure de Bastivan Consulting, mise à jour automatiquement toutes les heures (date dans l'en-tête de [`permaban.txt`](permaban.txt)).
 
-- **3954** entrées : **3912** IP et **42** plages CIDR (une /24 n'est bannie qu'après plus de 100 IP hostiles vues dans la plage).
+- **3980** entrées : **3938** IP et **42** plages CIDR (une /24 n'est bannie qu'après plus de 100 IP hostiles vues dans la plage).
 - Contrairement à [`lists/`](../lists/), ces adresses n'ont pas toutes fait l'objet d'un signalement à leur hébergeur : elles ont été bannies sur détection automatique répétée (récidive, persistance sur plusieurs jours, campagne confirmée).
 - Adresses privées ou réservées, infrastructure Bastivan et listes d'exception retirées avant publication.
 
