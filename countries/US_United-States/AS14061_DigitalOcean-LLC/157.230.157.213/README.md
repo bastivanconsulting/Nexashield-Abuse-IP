@@ -7,8 +7,8 @@
 | IP | `157.230.157.213` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | SSH brute force (66) |
-| Events | 66 |
+| Activity | SSH brute force (33) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-14T22:05:52Z |
 | Last seen (UTC) | 2026-11-14T22:55:18Z |
 | Reported to network owner (UTC) | 2026-11-14T22:28:43Z |

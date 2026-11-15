@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9541](AS9541_Cyber-Internet-Services-Private-Limited/) | Cyber Internet Services (Private) Limited | 5 | Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (2), Port scanning (2) |
+| [AS9541](AS9541_Cyber-Internet-Services-Private-Limited/) | Cyber Internet Services (Private) Limited | 5 | Exploitation attempt (CVE / RCE / injection) (7), Abusive HTTP requests (2), Port scanning (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

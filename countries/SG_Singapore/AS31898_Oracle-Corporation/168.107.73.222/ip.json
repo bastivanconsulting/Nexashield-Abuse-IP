@@ -5,9 +5,9 @@
   "asn": 31898,
   "asn_org": "Oracle Corporation",
   "categories": {
-    "web": 118
+    "web": 59
   },
-  "events": 118,
+  "events": 59,
   "first_seen": "2026-11-14T20:32:32Z",
   "last_seen": "2026-11-14T20:37:18Z",
   "reported": "2026-11-14T22:28:48Z"

@@ -5,10 +5,10 @@
   "asn": 4758,
   "asn_org": "National Informatics Centre",
   "categories": {
-    "ssh": 24,
-    "scan": 2
+    "ssh": 12,
+    "scan": 1
   },
-  "events": 26,
+  "events": 13,
   "first_seen": "2026-11-14T14:24:26Z",
   "last_seen": "2026-11-14T14:25:54Z",
   "reported": "2026-11-14T16:26:19Z"

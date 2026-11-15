@@ -7,8 +7,8 @@
 | IP | `178.156.241.170` |
 | Country | United States (US) |
 | ASN | AS213230 · Hetzner Online GmbH |
-| Activity | Web injection payload blocked by WAF (32), Abusive HTTP requests (12) |
-| Events | 44 |
+| Activity | Web injection payload blocked by WAF (16), Abusive HTTP requests (6) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-14T17:01:53Z |
 | Last seen (UTC) | 2026-11-14T17:01:55Z |
 | Reported to network owner (UTC) | 2026-11-14T18:25:18Z |

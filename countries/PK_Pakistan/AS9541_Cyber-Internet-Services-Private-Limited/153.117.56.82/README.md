@@ -7,8 +7,8 @@
 | IP | `153.117.56.82` |
 | Country | Pakistan (PK) |
 | ASN | AS9541 · Cyber Internet Services (Private) Limited |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-14T15:41:03Z |
 | Last seen (UTC) | 2026-11-14T15:41:03Z |
 | Reported to network owner (UTC) | 2026-11-14T16:26:14Z |

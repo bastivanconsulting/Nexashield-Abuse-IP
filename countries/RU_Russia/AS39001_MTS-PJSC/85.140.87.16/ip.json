@@ -5,9 +5,9 @@
   "asn": 39001,
   "asn_org": "MTS PJSC",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-14T19:08:43Z",
   "last_seen": "2026-11-14T19:08:43Z",
   "reported": "2026-11-14T20:26:32Z"

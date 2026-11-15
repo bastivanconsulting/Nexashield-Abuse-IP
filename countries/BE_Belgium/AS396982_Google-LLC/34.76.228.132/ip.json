@@ -5,9 +5,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-    "web": 674
+    "web": 565
   },
-  "events": 674,
+  "events": 565,
   "first_seen": "2026-11-10T11:00:16Z",
   "last_seen": "2026-11-14T09:46:16Z",
   "reported": "2026-11-11T17:06:48Z"

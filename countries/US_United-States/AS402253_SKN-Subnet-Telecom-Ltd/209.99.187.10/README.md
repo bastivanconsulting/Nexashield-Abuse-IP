@@ -7,8 +7,8 @@
 | IP | `209.99.187.10` |
 | Country | United States (US) |
 | ASN | AS402253 · SKN Subnet & Telecom Ltd |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6), Web injection payload blocked by WAF (2) |
-| Events | 8 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (1) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-14T00:22:43Z |
 | Last seen (UTC) | 2026-11-14T00:22:43Z |
 | Reported to network owner (UTC) | 2026-11-14T02:25:58Z |

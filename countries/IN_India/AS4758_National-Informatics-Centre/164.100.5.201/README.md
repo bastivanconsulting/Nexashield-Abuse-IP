@@ -7,8 +7,8 @@
 | IP | `164.100.5.201` |
 | Country | India (IN) |
 | ASN | AS4758 · National Informatics Centre |
-| Activity | SSH brute force (24), Port scanning (2) |
-| Events | 26 |
+| Activity | SSH brute force (12), Port scanning (1) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-14T14:24:26Z |
 | Last seen (UTC) | 2026-11-14T14:25:54Z |
 | Reported to network owner (UTC) | 2026-11-14T16:26:19Z |

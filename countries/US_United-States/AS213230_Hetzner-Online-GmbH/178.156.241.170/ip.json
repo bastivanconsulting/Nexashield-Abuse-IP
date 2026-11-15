@@ -5,10 +5,10 @@
   "asn": 213230,
   "asn_org": "Hetzner Online GmbH",
   "categories": {
-    "web": 12,
-    "waf": 32
+    "web": 6,
+    "waf": 16
   },
-  "events": 44,
+  "events": 22,
   "first_seen": "2026-11-14T17:01:53Z",
   "last_seen": "2026-11-14T17:01:55Z",
   "reported": "2026-11-14T18:25:18Z"

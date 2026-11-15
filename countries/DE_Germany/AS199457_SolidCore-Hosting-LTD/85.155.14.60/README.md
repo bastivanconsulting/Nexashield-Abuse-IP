@@ -7,8 +7,8 @@
 | IP | `85.155.14.60` |
 | Country | Germany (DE) |
 | ASN | AS199457 · SolidCore Hosting LTD |
-| Activity | Abusive HTTP requests (76) |
-| Events | 76 |
+| Activity | Abusive HTTP requests (38) |
+| Events | 38 |
 | First seen (UTC) | 2026-11-14T15:54:37Z |
 | Last seen (UTC) | 2026-11-14T15:55:37Z |
 | Reported to network owner (UTC) | 2026-11-14T18:25:23Z |

@@ -7,8 +7,8 @@
 | IP | `168.107.73.222` |
 | Country | Singapore (SG) |
 | ASN | AS31898 · Oracle Corporation |
-| Activity | Abusive HTTP requests (118) |
-| Events | 118 |
+| Activity | Abusive HTTP requests (59) |
+| Events | 59 |
 | First seen (UTC) | 2026-11-14T20:32:32Z |
 | Last seen (UTC) | 2026-11-14T20:37:18Z |
 | Reported to network owner (UTC) | 2026-11-14T22:28:48Z |

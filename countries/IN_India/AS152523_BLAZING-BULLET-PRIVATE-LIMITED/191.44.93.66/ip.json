@@ -5,9 +5,9 @@
   "asn": 152523,
   "asn_org": "BLAZING BULLET PRIVATE LIMITED",
   "categories": {
-    "ssh": 20
+    "ssh": 10
   },
-  "events": 20,
+  "events": 10,
   "first_seen": "2026-11-14T12:54:37Z",
   "last_seen": "2026-11-14T15:28:46Z",
   "reported": "2026-11-14T14:27:39Z"

@@ -7,8 +7,8 @@
 | IP | `94.26.106.252` |
 | Country | Germany (DE) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | SSH brute force (49), Port scanning (2) |
-| Events | 51 |
+| Activity | SSH brute force (49), Port scanning (1) |
+| Events | 50 |
 | First seen (UTC) | 2026-11-11T18:32:28Z |
 | Last seen (UTC) | 2026-11-14T03:00:41Z |
 | Reported to network owner (UTC) | 2026-11-11T21:10:00Z |

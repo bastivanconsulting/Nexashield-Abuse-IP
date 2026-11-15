@@ -7,8 +7,8 @@
 | IP | `35.199.96.92` |
 | Country | Brazil (BR) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (514), Web injection payload blocked by WAF (20) |
-| Events | 534 |
+| Activity | Abusive HTTP requests (257), Web injection payload blocked by WAF (10) |
+| Events | 267 |
 | First seen (UTC) | 2026-11-14T09:42:56Z |
 | Last seen (UTC) | 2026-11-14T09:43:58Z |
 | Reported to network owner (UTC) | 2026-11-14T12:28:04Z |

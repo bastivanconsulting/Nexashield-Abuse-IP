@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 23 | Abusive HTTP requests (4289) |
-| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 4 | Port scanning (30), SSH brute force (15), SMTP / IMAP credential guessing (2) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 23 | Abusive HTTP requests (3421) |
+| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 4 | Port scanning (30), SSH brute force (10), SMTP / IMAP credential guessing (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

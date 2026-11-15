@@ -29,7 +29,7 @@
 | [🇯🇵 Japan](JP_Japan/) | 3 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 6 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 37 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 38 |
 | [🇵🇭 Philippines](PH_Philippines/) | 2 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 5 |
 | [🇵🇱 Poland](PL_Poland/) | 2 |
@@ -37,7 +37,7 @@
 | [🇷🇸 Serbia](RS_Serbia/) | 1 |
 | [🇷🇺 Russia](RU_Russia/) | 2 |
 | [🇸🇪 Sweden](SE_Sweden/) | 2 |
-| [🇸🇬 Singapore](SG_Singapore/) | 5 |
+| [🇸🇬 Singapore](SG_Singapore/) | 6 |
 | [🇹🇭 Thailand](TH_Thailand/) | 1 |
 | [🇹🇷 Turkey](TR_Turkey/) | 1 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 1 |

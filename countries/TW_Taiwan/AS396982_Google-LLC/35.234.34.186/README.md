@@ -7,8 +7,8 @@
 | IP | `35.234.34.186` |
 | Country | Taiwan (TW) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (8) |
-| Events | 8 |
+| Activity | Abusive HTTP requests (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-14T14:11:25Z |
 | Last seen (UTC) | 2026-11-14T14:11:25Z |
 | Reported to network owner (UTC) | 2026-11-14T16:26:23Z |

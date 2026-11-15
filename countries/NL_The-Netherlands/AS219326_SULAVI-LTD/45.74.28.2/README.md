@@ -7,8 +7,8 @@
 | IP | `45.74.28.2` |
 | Country | The Netherlands (NL) |
 | ASN | AS219326 · SULAVI LTD |
-| Activity | Spamhaus DROP-listed network (233) |
-| Events | 233 |
+| Activity | Spamhaus DROP-listed network (174) |
+| Events | 174 |
 | First seen (UTC) | 2026-11-11T10:46:14Z |
 | Last seen (UTC) | 2026-11-14T23:34:35Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:21Z |

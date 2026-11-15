@@ -7,8 +7,8 @@
 | IP | `3.131.24.55` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Port scanning (22) |
-| Events | 22 |
+| Activity | Port scanning (15) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-12T20:06:45Z |
 | Last seen (UTC) | 2026-11-14T02:14:57Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:25Z |

@@ -7,8 +7,8 @@
 | IP | `141.98.103.251` |
 | Country | Serbia (RS) |
 | ASN | AS9009 · M247 Europe SRL |
-| Activity | Abusive HTTP requests (48) |
-| Events | 48 |
+| Activity | Abusive HTTP requests (24) |
+| Events | 24 |
 | First seen (UTC) | 2026-11-14T16:29:03Z |
 | Last seen (UTC) | 2026-11-14T16:29:07Z |
 | Reported to network owner (UTC) | 2026-11-14T18:25:28Z |

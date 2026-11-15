@@ -134,9 +134,9 @@
   "asn": 43515,
   "asn_org": "Google Ireland Limited",
   "categories": {
-   "ssh": 10
+   "ssh": 5
   },
-  "events": 10,
+  "events": 5,
   "first_seen": "2026-11-14T04:25:25Z",
   "last_seen": "2026-11-14T04:25:25Z",
   "reported": "2026-11-14T06:28:02Z"
@@ -177,9 +177,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 236
+   "web": 118
   },
-  "events": 236,
+  "events": 118,
   "first_seen": "2026-11-14T01:11:36Z",
   "last_seen": "2026-11-14T01:11:42Z",
   "reported": "2026-11-14T02:26:08Z"
@@ -205,9 +205,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 736
+   "web": 621
   },
-  "events": 736,
+  "events": 621,
   "first_seen": "2026-11-10T11:01:00Z",
   "last_seen": "2026-11-14T07:22:18Z",
   "reported": "2026-11-11T17:06:48Z"
@@ -219,9 +219,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 190
+   "web": 95
   },
-  "events": 190,
+  "events": 95,
   "first_seen": "2026-11-14T11:37:04Z",
   "last_seen": "2026-11-14T11:37:08Z",
   "reported": "2026-11-14T14:27:43Z"
@@ -289,9 +289,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 674
+   "web": 565
   },
-  "events": 674,
+  "events": 565,
   "first_seen": "2026-11-10T11:00:16Z",
   "last_seen": "2026-11-14T09:46:16Z",
   "reported": "2026-11-11T17:06:48Z"
@@ -317,9 +317,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 216
+   "web": 108
   },
-  "events": 216,
+  "events": 108,
   "first_seen": "2026-11-14T13:34:08Z",
   "last_seen": "2026-11-14T13:34:13Z",
   "reported": "2026-11-14T16:26:23Z"
@@ -345,9 +345,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 293
+   "web": 192
   },
-  "events": 293,
+  "events": 192,
   "first_seen": "2026-11-12T10:22:29Z",
   "last_seen": "2026-11-14T00:15:53Z",
   "reported": "2026-11-12T12:23:56Z"
@@ -359,9 +359,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 230
+   "web": 115
   },
-  "events": 230,
+  "events": 115,
   "first_seen": "2026-11-14T13:40:14Z",
   "last_seen": "2026-11-14T13:40:19Z",
   "reported": "2026-11-14T16:26:23Z"
@@ -471,9 +471,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 214
+   "web": 107
   },
-  "events": 214,
+  "events": 107,
   "first_seen": "2026-11-14T11:36:04Z",
   "last_seen": "2026-11-14T11:36:08Z",
   "reported": "2026-11-14T14:27:43Z"
@@ -514,9 +514,9 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 13
+   "scan": 8
   },
-  "events": 13,
+  "events": 8,
   "first_seen": "2026-11-12T22:42:08Z",
   "last_seen": "2026-11-14T23:23:46Z",
   "reported": "2026-11-11T16:35:30Z"
@@ -528,9 +528,9 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 104
+   "scan": 52
   },
-  "events": 104,
+  "events": 52,
   "first_seen": "2026-11-14T06:28:08Z",
   "last_seen": "2026-11-14T16:03:24Z",
   "reported": "2026-11-11T16:35:30Z"
@@ -584,12 +584,12 @@
   "asn": 208637,
   "asn_org": "4 Vendeta Ltd",
   "categories": {
-   "scan": 43,
+   "scan": 35,
    "ssh": 28
   },
-  "events": 71,
+  "events": 63,
   "first_seen": "2026-11-09T16:18:15Z",
-  "last_seen": "2026-11-14T20:24:48Z",
+  "last_seen": "2026-11-15T00:21:15Z",
   "reported": "2026-11-11T17:05:58Z"
  },
  {
@@ -599,10 +599,10 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "waf": 20,
-   "web": 514
+   "waf": 10,
+   "web": 257
   },
-  "events": 534,
+  "events": 267,
   "first_seen": "2026-11-14T09:42:56Z",
   "last_seen": "2026-11-14T09:43:58Z",
   "reported": "2026-11-14T12:28:04Z"
@@ -671,9 +671,9 @@
   "asn": 4837,
   "asn_org": "CHINA UNICOM China169 Backbone",
   "categories": {
-   "exploit": 2
+   "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-14T09:54:45Z",
   "last_seen": "2026-11-14T09:54:45Z",
   "reported": "2026-11-14T10:30:42Z"
@@ -973,11 +973,11 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 8,
-   "ssh": 30,
+   "spamhaus": 4,
+   "ssh": 16,
    "scan": 2
   },
-  "events": 40,
+  "events": 22,
   "first_seen": "2026-11-10T14:54:42Z",
   "last_seen": "2026-11-14T20:56:40Z",
   "reported": "2026-11-14T08:29:15Z"
@@ -989,11 +989,11 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 9,
+   "spamhaus": 8,
    "ssh": 15,
    "scan": 3
   },
-  "events": 27,
+  "events": 26,
   "first_seen": "2026-11-11T19:27:50Z",
   "last_seen": "2026-11-14T23:14:35Z",
   "reported": "2026-11-11T21:10:00Z"
@@ -1005,10 +1005,10 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "scan": 2,
+   "scan": 1,
    "ssh": 49
   },
-  "events": 51,
+  "events": 50,
   "first_seen": "2026-11-11T18:32:28Z",
   "last_seen": "2026-11-14T03:00:41Z",
   "reported": "2026-11-11T21:10:00Z"
@@ -1020,9 +1020,9 @@
   "asn": 199457,
   "asn_org": "SolidCore Hosting LTD",
   "categories": {
-   "web": 76
+   "web": 38
   },
-  "events": 76,
+  "events": 38,
   "first_seen": "2026-11-14T15:54:37Z",
   "last_seen": "2026-11-14T15:55:37Z",
   "reported": "2026-11-14T18:25:23Z"
@@ -1048,10 +1048,10 @@
   "asn": 201814,
   "asn_org": "MEVSPACE sp. z o.o.",
   "categories": {
-   "scan": 27,
+   "scan": 18,
    "web": 27
   },
-  "events": 54,
+  "events": 45,
   "first_seen": "2026-11-09T22:14:09Z",
   "last_seen": "2026-11-14T16:43:30Z",
   "reported": "2026-11-13T10:24:34Z"
@@ -1063,9 +1063,9 @@
   "asn": 207043,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-   "exploit": 4
+   "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-14T04:26:34Z",
   "last_seen": "2026-11-14T04:26:34Z",
   "reported": "2026-11-14T06:27:48Z"
@@ -1107,9 +1107,9 @@
   "asn": 6400,
   "asn_org": "Compa\u00f1\u00eda Dominicana de Tel\u00e9fonos S. A.",
   "categories": {
-   "exploit": 4
+   "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-14T00:36:50Z",
   "last_seen": "2026-11-14T06:26:53Z",
   "reported": "2026-11-14T02:26:03Z"
@@ -1121,11 +1121,11 @@
   "asn": 174,
   "asn_org": "Cogent Communications",
   "categories": {
-   "scan": 5
+   "scan": 4
   },
-  "events": 5,
+  "events": 4,
   "first_seen": "2026-11-12T19:15:05Z",
-  "last_seen": "2026-11-14T23:21:34Z",
+  "last_seen": "2026-11-14T23:52:08Z",
   "reported": "2026-11-11T16:34:54Z"
  },
  {
@@ -1292,10 +1292,10 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "ssh": 22,
-   "scan": 56
+   "ssh": 11,
+   "scan": 28
   },
-  "events": 78,
+  "events": 39,
   "first_seen": "2026-11-14T03:20:59Z",
   "last_seen": "2026-11-14T04:17:23Z",
   "reported": "2026-11-14T06:27:57Z"
@@ -1578,9 +1578,9 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 389
+   "ssh": 286
   },
-  "events": 389,
+  "events": 286,
   "first_seen": "2026-11-09T17:20:00Z",
   "last_seen": "2026-11-14T21:53:31Z",
   "reported": "2026-11-11T17:05:43Z"
@@ -1592,9 +1592,9 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 254
+   "ssh": 157
   },
-  "events": 254,
+  "events": 157,
   "first_seen": "2026-11-09T16:45:47Z",
   "last_seen": "2026-11-14T21:29:01Z",
   "reported": "2026-11-11T16:35:03Z"
@@ -1606,10 +1606,10 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "spamhaus": 47,
-   "ssh": 268
+   "spamhaus": 29,
+   "ssh": 203
   },
-  "events": 315,
+  "events": 232,
   "first_seen": "2026-11-09T18:41:28Z",
   "last_seen": "2026-11-14T21:05:17Z",
   "reported": "2026-11-11T17:05:43Z"
@@ -1637,10 +1637,10 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "spamhaus": 9,
+   "spamhaus": 8,
    "web": 7
   },
-  "events": 16,
+  "events": 15,
   "first_seen": "2026-11-10T01:59:01Z",
   "last_seen": "2026-11-14T15:30:16Z",
   "reported": "2026-11-12T08:24:35Z"
@@ -1652,10 +1652,10 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "spamhaus": 2,
+   "spamhaus": 1,
    "web": 6
   },
-  "events": 8,
+  "events": 7,
   "first_seen": "2026-11-09T19:30:12Z",
   "last_seen": "2026-11-14T09:16:28Z",
   "reported": "2026-11-11T17:07:12Z"
@@ -1832,10 +1832,10 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-   "spamhaus": 22,
+   "spamhaus": 21,
    "web": 75
   },
-  "events": 97,
+  "events": 96,
   "first_seen": "2026-11-11T15:36:19Z",
   "last_seen": "2026-11-14T01:05:23Z",
   "reported": "2026-11-12T04:23:53Z"
@@ -1847,10 +1847,10 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-   "spamhaus": 2,
-   "web": 44
+   "spamhaus": 1,
+   "web": 22
   },
-  "events": 46,
+  "events": 23,
   "first_seen": "2026-11-14T20:38:26Z",
   "last_seen": "2026-11-14T20:38:28Z",
   "reported": "2026-11-14T22:28:52Z"
@@ -1862,10 +1862,10 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-   "spamhaus": 11,
+   "spamhaus": 8,
    "web": 3
   },
-  "events": 14,
+  "events": 11,
   "first_seen": "2026-11-11T12:13:56Z",
   "last_seen": "2026-11-14T20:19:34Z",
   "reported": "2026-11-11T17:06:53Z"
@@ -1877,11 +1877,11 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-   "spamhaus": 18,
+   "spamhaus": 14,
    "web": 528,
    "scan": 1
   },
-  "events": 547,
+  "events": 543,
   "first_seen": "2026-11-10T13:39:58Z",
   "last_seen": "2026-11-14T21:25:46Z",
   "reported": "2026-11-11T17:06:53Z"
@@ -1893,12 +1893,12 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-   "scan": 255,
+   "scan": 273,
    "ssh": 10
   },
-  "events": 265,
+  "events": 283,
   "first_seen": "2026-11-11T21:29:19Z",
-  "last_seen": "2026-11-14T23:32:36Z",
+  "last_seen": "2026-11-15T00:33:42Z",
   "reported": "2026-11-12T02:25:33Z"
  },
  {
@@ -1908,9 +1908,9 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-   "web": 15
+   "web": 10
   },
-  "events": 15,
+  "events": 10,
   "first_seen": "2026-11-10T02:06:15Z",
   "last_seen": "2026-11-14T08:32:38Z",
   "reported": "2026-11-11T17:07:59Z"
@@ -1936,10 +1936,10 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "ssh": 19,
-   "scan": 6
+   "ssh": 15,
+   "scan": 4
   },
-  "events": 25,
+  "events": 19,
   "first_seen": "2026-11-11T05:31:42Z",
   "last_seen": "2026-11-14T09:13:23Z",
   "reported": "2026-11-11T21:09:56Z"
@@ -1994,10 +1994,10 @@
   "asn": 4758,
   "asn_org": "National Informatics Centre",
   "categories": {
-   "ssh": 24,
-   "scan": 2
+   "ssh": 12,
+   "scan": 1
   },
-  "events": 26,
+  "events": 13,
   "first_seen": "2026-11-14T14:24:26Z",
   "last_seen": "2026-11-14T14:25:54Z",
   "reported": "2026-11-14T16:26:19Z"
@@ -2009,9 +2009,9 @@
   "asn": 152523,
   "asn_org": "BLAZING BULLET PRIVATE LIMITED",
   "categories": {
-   "ssh": 20
+   "ssh": 10
   },
-  "events": 20,
+  "events": 10,
   "first_seen": "2026-11-14T12:54:37Z",
   "last_seen": "2026-11-14T15:28:46Z",
   "reported": "2026-11-14T14:27:39Z"
@@ -2228,11 +2228,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 419
+   "spamhaus": 327
   },
-  "events": 419,
+  "events": 327,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-14T22:55:12Z",
+  "last_seen": "2026-11-15T00:06:55Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -2257,9 +2257,9 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "web": 8
+   "web": 7
   },
-  "events": 8,
+  "events": 7,
   "first_seen": "2026-11-13T13:57:40Z",
   "last_seen": "2026-11-14T04:06:57Z",
   "reported": "2026-11-13T22:23:51Z"
@@ -2306,6 +2306,20 @@
   "first_seen": "2026-11-11T20:08:41Z",
   "last_seen": "2026-11-11T20:08:57Z",
   "reported": "2026-11-11T21:09:38Z"
+ },
+ {
+  "ip": "134.209.85.233",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+   "web": 24
+  },
+  "events": 24,
+  "first_seen": "2026-11-14T22:42:50Z",
+  "last_seen": "2026-11-14T22:42:51Z",
+  "reported": "2026-11-15T00:33:35Z"
  },
  {
   "ip": "142.93.143.8",
@@ -2454,9 +2468,9 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "ssh": 12
+   "ssh": 6
   },
-  "events": 12,
+  "events": 6,
   "first_seen": "2026-11-14T06:07:36Z",
   "last_seen": "2026-11-14T08:14:22Z",
   "reported": "2026-11-14T08:29:15Z"
@@ -2510,12 +2524,12 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 165,
-   "scan": 108
+   "scan": 124,
+   "spamhaus": 168
   },
-  "events": 273,
+  "events": 292,
   "first_seen": "2026-11-11T09:43:19Z",
-  "last_seen": "2026-11-14T23:34:07Z",
+  "last_seen": "2026-11-15T00:34:29Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2525,11 +2539,11 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "ssh": 24,
-   "spamhaus": 8,
+   "ssh": 12,
+   "spamhaus": 5,
    "scan": 3
   },
-  "events": 35,
+  "events": 20,
   "first_seen": "2026-11-12T20:50:13Z",
   "last_seen": "2026-11-14T12:52:00Z",
   "reported": "2026-11-14T08:29:15Z"
@@ -2541,10 +2555,10 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 36,
+   "spamhaus": 23,
    "web": 11
   },
-  "events": 47,
+  "events": 34,
   "first_seen": "2026-11-09T20:24:33Z",
   "last_seen": "2026-11-14T10:37:57Z",
   "reported": "2026-11-11T17:07:35Z"
@@ -2556,13 +2570,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "c2": 507,
+   "c2": 389,
    "spamhaus": 1,
    "exploit": 3
   },
-  "events": 511,
+  "events": 393,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-14T23:23:02Z",
+  "last_seen": "2026-11-15T00:25:11Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -2586,11 +2600,11 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "ssh": 32,
-   "scan": 106,
+   "ssh": 16,
+   "scan": 53,
    "spamhaus": 2
   },
-  "events": 140,
+  "events": 71,
   "first_seen": "2026-11-11T23:42:57Z",
   "last_seen": "2026-11-14T10:24:25Z",
   "reported": "2026-11-14T12:28:09Z"
@@ -2602,10 +2616,10 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "scan": 100,
+   "scan": 50,
    "ssh": 23
   },
-  "events": 123,
+  "events": 73,
   "first_seen": "2026-11-09T23:32:54Z",
   "last_seen": "2026-11-14T13:58:42Z",
   "reported": "2026-11-11T17:06:12Z"
@@ -2617,10 +2631,10 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "ssh": 46,
-   "scan": 128
+   "ssh": 23,
+   "scan": 64
   },
-  "events": 174,
+  "events": 87,
   "first_seen": "2026-11-14T08:23:49Z",
   "last_seen": "2026-11-14T10:31:09Z",
   "reported": "2026-11-14T12:28:09Z"
@@ -2648,10 +2662,10 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "ssh": 46,
-   "scan": 126
+   "ssh": 23,
+   "scan": 63
   },
-  "events": 172,
+  "events": 86,
   "first_seen": "2026-11-14T05:12:20Z",
   "last_seen": "2026-11-14T07:14:52Z",
   "reported": "2026-11-14T06:27:53Z"
@@ -2679,10 +2693,10 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "ssh": 50,
-   "scan": 116
+   "ssh": 25,
+   "scan": 58
   },
-  "events": 166,
+  "events": 83,
   "first_seen": "2026-11-14T21:00:51Z",
   "last_seen": "2026-11-14T22:53:52Z",
   "reported": "2026-11-14T22:28:39Z"
@@ -2753,9 +2767,9 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-   "spamhaus": 233
+   "spamhaus": 174
   },
-  "events": 233,
+  "events": 174,
   "first_seen": "2026-11-11T10:46:14Z",
   "last_seen": "2026-11-14T23:34:35Z",
   "reported": "2026-11-11T16:35:21Z"
@@ -2856,9 +2870,9 @@
   "asn": 9541,
   "asn_org": "Cyber Internet Services (Private) Limited",
   "categories": {
-   "exploit": 2
+   "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-14T15:41:03Z",
   "last_seen": "2026-11-14T15:41:03Z",
   "reported": "2026-11-14T16:26:14Z"
@@ -2930,9 +2944,9 @@
   "asn": 9009,
   "asn_org": "M247 Europe SRL",
   "categories": {
-   "web": 48
+   "web": 24
   },
-  "events": 48,
+  "events": 24,
   "first_seen": "2026-11-14T16:29:03Z",
   "last_seen": "2026-11-14T16:29:07Z",
   "reported": "2026-11-14T18:25:28Z"
@@ -2944,9 +2958,9 @@
   "asn": 39001,
   "asn_org": "MTS PJSC",
   "categories": {
-   "exploit": 2
+   "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-14T19:08:43Z",
   "last_seen": "2026-11-14T19:08:43Z",
   "reported": "2026-11-14T20:26:32Z"
@@ -3024,6 +3038,21 @@
   "reported": "2026-11-11T17:05:30Z"
  },
  {
+  "ip": "167.172.66.238",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+   "c2": 4,
+   "exploit": 4
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T15:24:37Z",
+  "last_seen": "2026-11-14T21:21:00Z",
+  "reported": "2026-11-15T00:33:35Z"
+ },
+ {
   "ip": "178.128.57.150",
   "country_code": "SG",
   "country": "Singapore",
@@ -3059,9 +3088,9 @@
   "asn": 31898,
   "asn_org": "Oracle Corporation",
   "categories": {
-   "web": 118
+   "web": 59
   },
-  "events": 118,
+  "events": 59,
   "first_seen": "2026-11-14T20:32:32Z",
   "last_seen": "2026-11-14T20:37:18Z",
   "reported": "2026-11-14T22:28:48Z"
@@ -3088,9 +3117,9 @@
   "asn": 153947,
   "asn_org": "FAST ZONE IT",
   "categories": {
-   "ssh": 34
+   "ssh": 20
   },
-  "events": 34,
+  "events": 20,
   "first_seen": "2026-11-10T23:36:18Z",
   "last_seen": "2026-11-14T21:18:23Z",
   "reported": "2026-11-14T04:24:59Z"
@@ -3102,9 +3131,9 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "web": 8
+   "web": 4
   },
-  "events": 8,
+  "events": 4,
   "first_seen": "2026-11-14T14:11:25Z",
   "last_seen": "2026-11-14T14:11:25Z",
   "reported": "2026-11-14T16:26:23Z"
@@ -3144,11 +3173,11 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 2,
-   "web": 2,
-   "waf": 2
+   "scan": 1,
+   "web": 1,
+   "waf": 1
   },
-  "events": 6,
+  "events": 3,
   "first_seen": "2026-11-14T03:08:39Z",
   "last_seen": "2026-11-14T11:42:34Z",
   "reported": "2026-11-14T14:27:34Z"
@@ -3302,9 +3331,9 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-   "ssh": 66
+   "ssh": 33
   },
-  "events": 66,
+  "events": 33,
   "first_seen": "2026-11-14T22:05:52Z",
   "last_seen": "2026-11-14T22:55:18Z",
   "reported": "2026-11-14T22:28:43Z"
@@ -3512,9 +3541,9 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 40
+   "scan": 20
   },
-  "events": 40,
+  "events": 20,
   "first_seen": "2026-11-14T15:47:28Z",
   "last_seen": "2026-11-14T19:21:39Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3554,9 +3583,9 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 27
+   "scan": 14
   },
-  "events": 27,
+  "events": 14,
   "first_seen": "2026-11-11T19:19:30Z",
   "last_seen": "2026-11-14T22:18:46Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3596,9 +3625,9 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 22
+   "scan": 13
   },
-  "events": 22,
+  "events": 13,
   "first_seen": "2026-11-11T10:14:02Z",
   "last_seen": "2026-11-14T07:53:55Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3610,9 +3639,9 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 25
+   "scan": 15
   },
-  "events": 25,
+  "events": 15,
   "first_seen": "2026-11-11T09:54:10Z",
   "last_seen": "2026-11-14T20:14:29Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3666,9 +3695,9 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 22
+   "scan": 15
   },
-  "events": 22,
+  "events": 15,
   "first_seen": "2026-11-12T20:06:45Z",
   "last_seen": "2026-11-14T02:14:57Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3723,9 +3752,9 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 29
+   "scan": 19
   },
-  "events": 29,
+  "events": 19,
   "first_seen": "2026-11-11T20:17:25Z",
   "last_seen": "2026-11-14T20:27:20Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3737,9 +3766,9 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 100
+   "scan": 50
   },
-  "events": 100,
+  "events": 50,
   "first_seen": "2026-11-14T07:01:07Z",
   "last_seen": "2026-11-14T07:55:15Z",
   "reported": "2026-11-11T16:35:25Z"
@@ -3765,9 +3794,9 @@
   "asn": 23470,
   "asn_org": "ReliableSite.Net LLC",
   "categories": {
-   "scan": 9
+   "scan": 6
   },
-  "events": 9,
+  "events": 6,
   "first_seen": "2026-11-11T21:10:49Z",
   "last_seen": "2026-11-14T17:56:57Z",
   "reported": "2026-11-11T16:35:49Z"
@@ -3794,11 +3823,11 @@
   "asn": 150303,
   "asn_org": "SoloRDP",
   "categories": {
-   "scan": 48,
+   "scan": 40,
    "web": 41,
    "exploit": 1
   },
-  "events": 90,
+  "events": 82,
   "first_seen": "2026-11-11T12:19:53Z",
   "last_seen": "2026-11-14T13:35:10Z",
   "reported": "2026-11-13T02:31:32Z"
@@ -3810,9 +3839,9 @@
   "asn": 207043,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-   "exploit": 16
+   "exploit": 9
   },
-  "events": 16,
+  "events": 9,
   "first_seen": "2026-11-13T21:38:17Z",
   "last_seen": "2026-11-14T16:59:00Z",
   "reported": "2026-11-14T00:23:42Z"
@@ -3824,9 +3853,9 @@
   "asn": 207043,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-   "exploit": 4
+   "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-14T15:06:36Z",
   "last_seen": "2026-11-14T15:06:36Z",
   "reported": "2026-11-14T16:26:09Z"
@@ -3838,10 +3867,10 @@
   "asn": 213230,
   "asn_org": "Hetzner Online GmbH",
   "categories": {
-   "web": 12,
-   "waf": 32
+   "web": 6,
+   "waf": 16
   },
-  "events": 44,
+  "events": 22,
   "first_seen": "2026-11-14T17:01:53Z",
   "last_seen": "2026-11-14T17:01:55Z",
   "reported": "2026-11-14T18:25:18Z"
@@ -3868,10 +3897,10 @@
   "asn": 402253,
   "asn_org": "SKN Subnet & Telecom Ltd",
   "categories": {
-   "waf": 2,
-   "exploit": 6
+   "waf": 1,
+   "exploit": 3
   },
-  "events": 8,
+  "events": 4,
   "first_seen": "2026-11-14T00:22:43Z",
   "last_seen": "2026-11-14T00:22:43Z",
   "reported": "2026-11-14T02:25:58Z"
