@@ -22,16 +22,16 @@
 | [`185.242.226.60`](185.242.226.60/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 19 | 2026-11-14T02:11:17Z |
 | [`185.242.226.61`](185.242.226.61/) | Port scanning (26), Known botnet / C2 infrastructure (4) | 34 | 2026-11-13T10:39:42Z |
 | [`185.242.226.64`](185.242.226.64/) | Port scanning (8) | 12 | 2026-11-14T11:36:20Z |
-| [`185.242.226.67`](185.242.226.67/) | Port scanning (30) | 40 | 2026-11-15T09:18:41Z |
-| [`185.242.226.68`](185.242.226.68/) | Port scanning (80) | 98 | 2026-11-15T09:42:01Z |
+| [`185.242.226.67`](185.242.226.67/) | Port scanning (34) | 45 | 2026-11-15T10:37:56Z |
+| [`185.242.226.68`](185.242.226.68/) | Port scanning (81) | 99 | 2026-11-15T10:23:07Z |
 | [`185.242.226.72`](185.242.226.72/) | Port scanning (18), Known botnet / C2 infrastructure (4) | 25 | 2026-11-15T01:26:45Z |
 | [`185.242.226.74`](185.242.226.74/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 11 | 2026-11-13T23:25:35Z |
 | [`185.242.226.87`](185.242.226.87/) | Port scanning (46) | 60 | 2026-11-15T03:17:18Z |
 | [`185.242.226.92`](185.242.226.92/) | Port scanning (20), Known botnet / C2 infrastructure (3) | 25 | 2026-11-13T21:46:02Z |
-| [`185.242.226.97`](185.242.226.97/) | Port scanning (114) | 134 | 2026-11-15T09:07:29Z |
+| [`185.242.226.97`](185.242.226.97/) | Port scanning (120) | 141 | 2026-11-15T11:13:58Z |
 | [`185.242.226.103`](185.242.226.103/) | Port scanning (60), Known botnet / C2 infrastructure (8) | 76 | 2026-11-15T09:25:17Z |
 | [`185.242.226.104`](185.242.226.104/) | Port scanning (22), Known botnet / C2 infrastructure (4) | 31 | 2026-11-13T23:19:49Z |
-| [`185.242.226.166`](185.242.226.166/) | Port scanning (72), Known botnet / C2 infrastructure (10) | 93 | 2026-11-15T05:17:08Z |
+| [`185.242.226.166`](185.242.226.166/) | Port scanning (73), Known botnet / C2 infrastructure (11) | 95 | 2026-11-15T10:53:20Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `172.239.4.138` |
 | Country | France (FR) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (13) |
-| Events | 21 |
+| Activity | Port scanning (14) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-12T20:48:55Z |
-| Last seen (UTC) | 2026-11-15T06:22:46Z |
+| Last seen (UTC) | 2026-11-15T11:15:13Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

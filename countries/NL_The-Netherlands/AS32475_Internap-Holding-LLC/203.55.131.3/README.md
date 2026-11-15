@@ -7,10 +7,10 @@
 | IP | `203.55.131.3` |
 | Country | The Netherlands (NL) |
 | ASN | AS32475 · Internap Holding LLC |
-| Activity | Port scanning (35), Known botnet / C2 infrastructure (13) |
-| Events | 49 |
+| Activity | Port scanning (36), Known botnet / C2 infrastructure (13) |
+| Events | 50 |
 | First seen (UTC) | 2026-11-11T10:13:54Z |
-| Last seen (UTC) | 2026-11-15T09:40:55Z |
+| Last seen (UTC) | 2026-11-15T10:20:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

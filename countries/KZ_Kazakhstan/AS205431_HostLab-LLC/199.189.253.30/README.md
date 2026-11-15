@@ -7,10 +7,10 @@
 | IP | `199.189.253.30` |
 | Country | Kazakhstan (KZ) |
 | ASN | AS205431 · HostLab LLC |
-| Activity | Port scanning (7) |
-| Events | 12 |
+| Activity | Port scanning (8) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-12T11:36:47Z |
-| Last seen (UTC) | 2026-11-14T15:30:06Z |
+| Last seen (UTC) | 2026-11-15T10:22:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

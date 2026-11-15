@@ -7,10 +7,10 @@
 | IP | `62.84.177.241` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-13T08:54:32Z |
-| Last seen (UTC) | 2026-11-14T08:07:28Z |
+| Last seen (UTC) | 2026-11-15T10:30:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `146.88.241.130` |
 | Country | United States (US) |
 | ASN | AS20052 · Arbor Networks, Inc. |
-| Activity | Port scanning (41), Known botnet / C2 infrastructure (8) |
-| Events | 62 |
+| Activity | Port scanning (43), Known botnet / C2 infrastructure (8) |
+| Events | 64 |
 | First seen (UTC) | 2026-11-11T11:00:23Z |
-| Last seen (UTC) | 2026-11-15T08:01:36Z |
+| Last seen (UTC) | 2026-11-15T11:10:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

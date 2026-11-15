@@ -7,10 +7,10 @@
 | IP | `144.126.133.155` |
 | Country | United States (US) |
 | ASN | AS40021 · Contabo Inc. |
-| Activity | Port scanning (24), Known botnet / C2 infrastructure (1) |
-| Events | 27 |
+| Activity | Port scanning (25), Known botnet / C2 infrastructure (2) |
+| Events | 30 |
 | First seen (UTC) | 2026-11-11T17:05:11Z |
-| Last seen (UTC) | 2026-11-11T21:41:31Z |
+| Last seen (UTC) | 2026-11-15T10:27:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
