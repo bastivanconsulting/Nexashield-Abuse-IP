@@ -7,10 +7,10 @@
 | IP | `45.140.222.175` |
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
-| Activity | Port scanning (38) |
-| Events | 46 |
+| Activity | Port scanning (40) |
+| Events | 49 |
 | First seen (UTC) | 2026-11-14T04:32:45Z |
-| Last seen (UTC) | 2026-11-14T21:39:28Z |
+| Last seen (UTC) | 2026-11-15T17:42:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

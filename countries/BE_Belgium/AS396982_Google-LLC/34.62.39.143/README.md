@@ -7,11 +7,11 @@
 | IP | `34.62.39.143` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Web injection payload blocked by WAF (224) |
-| Events | 234 |
+| Activity | Abusive HTTP requests (396), Web injection payload blocked by WAF (68) |
+| Events | 464 |
 | First seen (UTC) | 2026-11-15T17:14:49Z |
-| Last seen (UTC) | 2026-11-15T17:15:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-15T17:14:59Z |
+| Reported to network owner (UTC) | 2026-11-15T18:25:04Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

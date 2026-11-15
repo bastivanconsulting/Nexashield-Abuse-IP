@@ -5,11 +5,11 @@
   "asn": 8402,
   "asn_org": "PJSC \"Vimpelcom\"",
   "categories": {
-    "scan": 10,
+    "scan": 11,
     "c2": 7
   },
-  "events": 18,
+  "events": 19,
   "first_seen": "2026-11-11T20:58:31Z",
-  "last_seen": "2026-11-15T17:07:13Z",
+  "last_seen": "2026-11-15T18:09:33Z",
   "reported": "not reported (permanent ban)"
 }
