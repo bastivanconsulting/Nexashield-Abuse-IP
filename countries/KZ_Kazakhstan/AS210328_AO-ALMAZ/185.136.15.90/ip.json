@@ -5,10 +5,10 @@
   "asn": 210328,
   "asn_org": "AO ALMAZ",
   "categories": {
-    "scan": 107
+    "scan": 111
   },
-  "events": 123,
+  "events": 128,
   "first_seen": "2026-11-11T16:56:55Z",
-  "last_seen": "2026-11-15T07:12:24Z",
+  "last_seen": "2026-11-15T07:54:41Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,6 +1,6 @@
 # AS6939 · Hurricane Electric LLC
 
-🇺🇸 United States · **30** malicious IP(s)
+🇺🇸 United States · **32** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -14,7 +14,7 @@
 | [`65.49.20.82`](65.49.20.82/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-12T05:25:02Z |
 | [`65.49.20.85`](65.49.20.85/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-15T07:16:00Z |
 | [`65.49.20.86`](65.49.20.86/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 23 | 2026-11-15T06:54:06Z |
-| [`65.49.20.89`](65.49.20.89/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-15T06:15:44Z |
+| [`65.49.20.89`](65.49.20.89/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-15T07:49:24Z |
 | [`65.49.20.98`](65.49.20.98/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-15T04:24:30Z |
 | [`65.49.20.99`](65.49.20.99/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-15T04:48:00Z |
 | [`65.49.20.102`](65.49.20.102/) | Known botnet / C2 infrastructure (2), Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-14T02:18:54Z |
@@ -29,11 +29,13 @@
 | [`65.49.20.119`](65.49.20.119/) | Port scanning (15), Known botnet / C2 infrastructure (7) | 23 | 2026-11-15T05:59:06Z |
 | [`65.49.20.120`](65.49.20.120/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-15T04:28:26Z |
 | [`65.49.20.124`](65.49.20.124/) | Port scanning (16), Known botnet / C2 infrastructure (5) | 22 | 2026-11-15T02:09:02Z |
-| [`65.49.20.125`](65.49.20.125/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T03:56:30Z |
+| [`65.49.20.125`](65.49.20.125/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-15T07:23:25Z |
 | [`74.82.47.5`](74.82.47.5/) | Abusive HTTP requests (1), SSH brute force (1), Known botnet / C2 infrastructure (1) | 5 | 2026-11-15T04:06:02Z |
 | [`184.105.139.68`](184.105.139.68/) | Port scanning (1), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-13T02:04:01Z |
 | [`184.105.139.96`](184.105.139.96/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 4 | 2026-11-13T02:15:03Z |
 | [`184.105.139.120`](184.105.139.120/) | Exploitation attempt (CVE / RCE / injection) (3) | 4 | 2026-11-13T02:28:17Z |
+| [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-15T08:17:03Z |
+| [`184.105.247.240`](184.105.247.240/) | Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-15T08:04:21Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

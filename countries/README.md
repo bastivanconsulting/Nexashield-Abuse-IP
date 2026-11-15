@@ -14,10 +14,10 @@
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 41 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
 | [🇧🇷 Brazil](BR_Brazil/) | 18 |
-| [🇨🇦 Canada](CA_Canada/) | 6 |
+| [🇨🇦 Canada](CA_Canada/) | 7 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 8 |
-| [🇨🇳 China](CN_China/) | 43 |
-| [🇩🇪 Germany](DE_Germany/) | 316 |
+| [🇨🇳 China](CN_China/) | 44 |
+| [🇩🇪 Germany](DE_Germany/) | 318 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 2 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 1 |
@@ -25,7 +25,7 @@
 | [🇫🇷 France](FR_France/) | 230 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 812 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
-| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 108 |
+| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 109 |
 | [🇭🇺 Hungary](HU_Hungary/) | 5 |
 | [🇮🇩 Indonesia](ID_Indonesia/) | 10 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
@@ -42,7 +42,7 @@
 | [🇲🇽 Mexico](MX_Mexico/) | 1 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 2 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 8 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 409 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 410 |
 | [🇳🇴 Norway](NO_Norway/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 3 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 7 |
@@ -62,5 +62,5 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 2 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 7 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1659 |
+| [🇺🇸 United States](US_United-States/) | 1674 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 10 |

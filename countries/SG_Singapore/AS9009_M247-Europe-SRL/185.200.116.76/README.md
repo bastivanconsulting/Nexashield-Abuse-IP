@@ -7,10 +7,10 @@
 | IP | `185.200.116.76` |
 | Country | Singapore (SG) |
 | ASN | AS9009 · M247 Europe SRL |
-| Activity | Port scanning (19) |
-| Events | 26 |
+| Activity | Port scanning (21) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-11T12:16:36Z |
-| Last seen (UTC) | 2026-11-15T07:12:54Z |
+| Last seen (UTC) | 2026-11-15T07:18:11Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

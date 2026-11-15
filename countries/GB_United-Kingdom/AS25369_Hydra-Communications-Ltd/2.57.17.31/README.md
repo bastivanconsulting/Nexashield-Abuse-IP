@@ -7,10 +7,10 @@
 | IP | `2.57.17.31` |
 | Country | United Kingdom (GB) |
 | ASN | AS25369 · Hydra Communications Ltd |
-| Activity | Port scanning (5) |
-| Events | 9 |
+| Activity | Port scanning (6) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-12T03:56:36Z |
-| Last seen (UTC) | 2026-11-15T06:33:45Z |
+| Last seen (UTC) | 2026-11-15T07:20:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

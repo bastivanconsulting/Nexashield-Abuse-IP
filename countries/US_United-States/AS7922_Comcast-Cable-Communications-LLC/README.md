@@ -1,6 +1,6 @@
 # AS7922 · Comcast Cable Communications, LLC
 
-🇺🇸 United States · **10** malicious IP(s)
+🇺🇸 United States · **11** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -14,6 +14,7 @@
 | [`96.77.166.30`](96.77.166.30/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 8 | 2026-11-12T02:14:37Z |
 | [`173.8.229.146`](173.8.229.146/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-12T06:19:02Z |
 | [`173.12.42.182`](173.12.42.182/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T20:13:02Z |
+| [`174.49.225.71`](174.49.225.71/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-15T07:49:03Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

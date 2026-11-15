@@ -1,0 +1,15 @@
+{
+  "ip": "185.243.5.164",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 23470,
+  "asn_org": "ReliableSite.Net LLC",
+  "categories": {
+    "exploit": 4,
+    "c2": 1
+  },
+  "events": 7,
+  "first_seen": "2026-11-15T08:10:29Z",
+  "last_seen": "2026-11-15T08:11:05Z",
+  "reported": "not reported (permanent ban)"
+}

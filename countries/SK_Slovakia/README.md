@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS29405](AS29405_VNET-a-s/) | VNET a.s. | 1 | Port scanning (60), Known botnet / C2 infrastructure (9) |
+| [AS29405](AS29405_VNET-a-s/) | VNET a.s. | 1 | Port scanning (61), Known botnet / C2 infrastructure (10) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

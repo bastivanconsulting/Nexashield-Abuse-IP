@@ -7,10 +7,10 @@
 | IP | `172.236.112.131` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (14) |
-| Events | 20 |
+| Activity | Port scanning (15) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-12T09:54:04Z |
-| Last seen (UTC) | 2026-11-15T05:42:58Z |
+| Last seen (UTC) | 2026-11-15T07:19:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

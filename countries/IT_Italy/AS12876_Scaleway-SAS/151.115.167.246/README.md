@@ -7,10 +7,10 @@
 | IP | `151.115.167.246` |
 | Country | Italy (IT) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (59) |
-| Events | 69 |
+| Activity | Port scanning (60) |
+| Events | 71 |
 | First seen (UTC) | 2026-11-13T03:30:25Z |
-| Last seen (UTC) | 2026-11-15T02:34:30Z |
+| Last seen (UTC) | 2026-11-15T07:53:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

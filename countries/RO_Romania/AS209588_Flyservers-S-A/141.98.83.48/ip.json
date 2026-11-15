@@ -5,11 +5,11 @@
   "asn": 209588,
   "asn_org": "Flyservers S.A.",
   "categories": {
-    "scan": 126,
+    "scan": 131,
     "c2": 8
   },
-  "events": 168,
+  "events": 178,
   "first_seen": "2026-11-11T09:46:40Z",
-  "last_seen": "2026-11-15T07:16:18Z",
+  "last_seen": "2026-11-15T08:16:21Z",
   "reported": "not reported (permanent ban)"
 }

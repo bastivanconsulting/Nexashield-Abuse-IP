@@ -7,10 +7,10 @@
 | IP | `193.37.252.71` |
 | Country | United States (US) |
 | ASN | AS9009 · M247 Europe SRL |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (4) |
-| Events | 12 |
+| Activity | Port scanning (9), Known botnet / C2 infrastructure (5) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-12T18:18:51Z |
-| Last seen (UTC) | 2026-11-14T21:39:34Z |
+| Last seen (UTC) | 2026-11-15T07:47:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

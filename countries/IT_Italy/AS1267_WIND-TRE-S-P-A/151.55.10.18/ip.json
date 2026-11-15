@@ -5,11 +5,11 @@
   "asn": 1267,
   "asn_org": "WIND TRE S.P.A.",
   "categories": {
-    "exploit": 3,
-    "scan": 3
+    "exploit": 4,
+    "scan": 4
   },
-  "events": 10,
+  "events": 13,
   "first_seen": "2026-11-12T22:12:58Z",
-  "last_seen": "2026-11-13T20:42:03Z",
+  "last_seen": "2026-11-15T07:36:53Z",
   "reported": "not reported (permanent ban)"
 }

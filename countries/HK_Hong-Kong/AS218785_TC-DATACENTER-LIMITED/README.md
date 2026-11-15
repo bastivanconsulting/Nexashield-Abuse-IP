@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.138.12.6`](45.138.12.6/) | Abusive HTTP requests (224), Spamhaus DROP-listed network (1) | 225 | 2026-11-12T06:13:55Z |
-| [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (25) | 100 | 2026-11-15T01:49:22Z |
+| [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (27) | 102 | 2026-11-15T08:02:58Z |
 | [`45.138.12.19`](45.138.12.19/) | Abusive HTTP requests (22), Spamhaus DROP-listed network (1) | 23 | 2026-11-14T20:38:28Z |
 | [`45.138.12.40`](45.138.12.40/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T06:29:44Z |
 | [`45.138.12.41`](45.138.12.41/) | Spamhaus DROP-listed network (8), Abusive HTTP requests (3) | 11 | 2026-11-14T20:19:34Z |
@@ -16,8 +16,8 @@
 | [`45.138.12.46`](45.138.12.46/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-15T07:13:27Z |
 | [`45.138.12.48`](45.138.12.48/) | Port scanning (5), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) | 12 | 2026-11-15T07:10:52Z |
 | [`45.138.12.51`](45.138.12.51/) | Abusive HTTP requests (528), Spamhaus DROP-listed network (14), Port scanning (1) | 543 | 2026-11-14T21:25:46Z |
-| [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (12), Abusive HTTP requests (6) | 18 | 2026-11-15T07:20:32Z |
-| [`45.138.12.216`](45.138.12.216/) | Port scanning (6), Web injection payload blocked by WAF (3), Abusive HTTP requests (1) | 10 | 2026-11-15T06:58:43Z |
+| [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (14), Abusive HTTP requests (10) | 24 | 2026-11-15T07:54:44Z |
+| [`45.138.12.216`](45.138.12.216/) | Port scanning (7), Web injection payload blocked by WAF (3), Abusive HTTP requests (1) | 11 | 2026-11-15T07:54:42Z |
 | [`185.218.86.2`](185.218.86.2/) | Port scanning (188) | 214 | 2026-11-15T01:16:05Z |
 | [`185.218.86.4`](185.218.86.4/) | Port scanning (213) | 246 | 2026-11-15T00:54:27Z |
 | [`185.218.86.10`](185.218.86.10/) | Port scanning (193) | 223 | 2026-11-15T00:13:34Z |
