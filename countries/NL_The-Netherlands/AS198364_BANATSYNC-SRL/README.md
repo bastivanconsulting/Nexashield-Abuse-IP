@@ -1,10 +1,10 @@
 # AS198364 · BANATSYNC SRL
 
-🇳🇱 The Netherlands · **11** malicious IP(s)
+🇳🇱 The Netherlands · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`109.160.32.34`](109.160.32.34/) | Port scanning (62), SSH brute force (42), Known botnet / C2 infrastructure (1) | 108 | 2026-11-15T00:39:39Z |
+| [`109.160.32.34`](109.160.32.34/) | Port scanning (82), SSH brute force (31) | 113 | 2026-11-15T00:39:39Z |
 | [`109.160.32.37`](109.160.32.37/) | Port scanning (42), Known botnet / C2 infrastructure (2) | 45 | 2026-11-14T21:56:54Z |
 | [`109.160.32.47`](109.160.32.47/) | Port scanning (53), SSH brute force (16), Spamhaus DROP-listed network (2) | 71 | 2026-11-14T10:24:25Z |
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23) | 73 | 2026-11-14T13:58:42Z |
@@ -15,6 +15,7 @@
 | [`109.160.32.141`](109.160.32.141/) | Port scanning (58), SSH brute force (25) | 83 | 2026-11-14T22:53:52Z |
 | [`109.160.32.142`](109.160.32.142/) | SSH brute force (20) | 20 | 2026-11-10T20:22:56Z |
 | [`109.160.32.153`](109.160.32.153/) | Port scanning (38), SSH brute force (21), Spamhaus DROP-listed network (2) | 61 | 2026-11-11T20:14:38Z |
+| [`109.160.32.170`](109.160.32.170/) | Port scanning (48), SSH brute force (14), Spamhaus DROP-listed network (1) | 63 | 2026-11-15T02:34:38Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

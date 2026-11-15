@@ -5,13 +5,13 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.198.224.69`](45.198.224.69/) | Port scanning (19), Known botnet / C2 infrastructure (3) | 24 | 2026-11-12T23:15:01Z |
-| [`45.198.224.71`](45.198.224.71/) | Port scanning (42), Known botnet / C2 infrastructure (5) | 50 | 2026-11-15T00:10:45Z |
+| [`45.198.224.71`](45.198.224.71/) | Port scanning (43), Known botnet / C2 infrastructure (6) | 52 | 2026-11-15T01:25:13Z |
 | [`45.198.224.72`](45.198.224.72/) | Port scanning (29), Known botnet / C2 infrastructure (4) | 35 | 2026-11-15T00:56:19Z |
-| [`45.198.224.85`](45.198.224.85/) | Port scanning (102), Known botnet / C2 infrastructure (12) | 117 | 2026-11-14T23:12:00Z |
+| [`45.198.224.85`](45.198.224.85/) | Port scanning (104), Known botnet / C2 infrastructure (12) | 119 | 2026-11-15T01:45:46Z |
 | [`45.198.224.92`](45.198.224.92/) | Port scanning (31), SSH brute force (14), Known botnet / C2 infrastructure (10) | 58 | 2026-11-15T01:14:07Z |
 | [`45.198.224.110`](45.198.224.110/) | Port scanning (16) | 18 | 2026-11-15T00:52:19Z |
 | [`45.198.224.114`](45.198.224.114/) | Port scanning (23) | 28 | 2026-11-12T20:38:36Z |
-| [`45.198.224.125`](45.198.224.125/) | Port scanning (344), Abusive HTTP requests (16), Known botnet / C2 infrastructure (15) | 421 | 2026-11-15T00:52:19Z |
+| [`45.198.224.125`](45.198.224.125/) | Port scanning (347), Abusive HTTP requests (16), Known botnet / C2 infrastructure (15) | 424 | 2026-11-15T01:53:09Z |
 | [`45.198.224.177`](45.198.224.177/) | Port scanning (11), Known botnet / C2 infrastructure (3) | 15 | 2026-11-14T21:56:54Z |
 | [`45.198.224.230`](45.198.224.230/) | Port scanning (12), Known botnet / C2 infrastructure (3) | 16 | 2026-11-14T12:35:32Z |
 | [`45.198.224.231`](45.198.224.231/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 18 | 2026-11-14T11:03:46Z |
@@ -23,7 +23,7 @@
 | [`45.198.224.237`](45.198.224.237/) | Port scanning (17), Known botnet / C2 infrastructure (3) | 21 | 2026-11-14T11:41:31Z |
 | [`45.198.224.238`](45.198.224.238/) | Port scanning (19), Known botnet / C2 infrastructure (3) | 23 | 2026-11-14T13:01:58Z |
 | [`45.198.224.239`](45.198.224.239/) | Port scanning (16), Known botnet / C2 infrastructure (3) | 20 | 2026-11-14T12:57:33Z |
-| [`45.198.224.251`](45.198.224.251/) | Port scanning (234), Exploitation attempt (CVE / RCE / injection) (15), Known botnet / C2 infrastructure (13) | 320 | 2026-11-15T01:15:38Z |
+| [`45.198.224.251`](45.198.224.251/) | Port scanning (237), Exploitation attempt (CVE / RCE / injection) (15), Known botnet / C2 infrastructure (13) | 324 | 2026-11-15T02:17:47Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

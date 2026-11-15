@@ -1,6 +1,6 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇳🇱 The Netherlands · **26** malicious IP(s)
+🇳🇱 The Netherlands · **27** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`45.156.128.57`](45.156.128.57/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T06:11:46Z |
 | [`45.156.128.61`](45.156.128.61/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-14T20:50:43Z |
 | [`45.156.128.62`](45.156.128.62/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-14T06:06:20Z |
+| [`45.156.128.63`](45.156.128.63/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-14T06:04:43Z |
 | [`45.156.128.64`](45.156.128.64/) | Port scanning (5), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) | 10 | 2026-11-14T11:16:05Z |
 | [`45.156.128.66`](45.156.128.66/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T09:13:31Z |
 | [`45.156.128.68`](45.156.128.68/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T01:16:34Z |

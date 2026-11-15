@@ -4,17 +4,17 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (4180), Known botnet / C2 infrastructure (829), Exploitation attempt (CVE / RCE / injection) (6), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 48 | Port scanning (1105), SSH brute force (451), Known botnet / C2 infrastructure (92) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 18 | Port scanning (416), Known botnet / C2 infrastructure (53), Abusive HTTP requests (3), SSH brute force (2) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 6 | Port scanning (81), Abusive HTTP requests (18), Known botnet / C2 infrastructure (12) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (4187), Known botnet / C2 infrastructure (831), Exploitation attempt (CVE / RCE / injection) (6), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 48 | Port scanning (1109), SSH brute force (451), Known botnet / C2 infrastructure (92) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 18 | Port scanning (424), Known botnet / C2 infrastructure (53), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 6 | Port scanning (85), Abusive HTTP requests (18), Known botnet / C2 infrastructure (12) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 4 | Port scanning (155), Known botnet / C2 infrastructure (9) |
-| [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (117), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
+| [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (118), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (45), Abusive HTTP requests (19), Known botnet / C2 infrastructure (7) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 2 | Port scanning (11), SSH brute force (8), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (30), Known botnet / C2 infrastructure (2) |
 | [AS12322](AS12322_Free-SAS/) | Free SAS | 1 | Port scanning (5), Known botnet / C2 infrastructure (4) |
-| [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (33) |
+| [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (34) |
 | [AS211273](AS211273_Cloud-Software-FZCO/) | Cloud Software - FZCO | 1 | Port scanning (14) |
 | [AS215381](AS215381_ROCKHOSTER-PRIVATE-LIMITED/) | ROCKHOSTER PRIVATE LIMITED | 1 | Port scanning (18) |
 | [AS29066](AS29066_velia-net-Internetdienste-GmbH/) | velia.net Internetdienste GmbH | 1 | SSH brute force (87) |

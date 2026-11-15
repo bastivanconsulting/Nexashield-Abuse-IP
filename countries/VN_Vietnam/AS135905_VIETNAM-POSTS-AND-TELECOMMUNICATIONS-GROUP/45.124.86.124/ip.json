@@ -1,0 +1,14 @@
+{
+  "ip": "45.124.86.124",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 135905,
+  "asn_org": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+  "categories": {
+    "scan": 36
+  },
+  "events": 41,
+  "first_seen": "2026-11-14T03:42:36Z",
+  "last_seen": "2026-11-15T01:38:55Z",
+  "reported": "not reported (permanent ban)"
+}

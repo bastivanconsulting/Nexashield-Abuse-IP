@@ -1,0 +1,15 @@
+{
+  "ip": "152.32.206.246",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 6,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T00:46:24Z",
+  "last_seen": "2026-11-15T01:51:04Z",
+  "reported": "not reported (permanent ban)"
+}

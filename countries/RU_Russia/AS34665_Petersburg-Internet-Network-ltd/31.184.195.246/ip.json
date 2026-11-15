@@ -5,11 +5,11 @@
   "asn": 34665,
   "asn_org": "Petersburg Internet Network ltd.",
   "categories": {
-    "scan": 172,
+    "scan": 174,
     "c2": 9
   },
-  "events": 194,
+  "events": 196,
   "first_seen": "2026-11-11T09:38:35Z",
-  "last_seen": "2026-11-15T01:02:41Z",
+  "last_seen": "2026-11-15T02:08:28Z",
   "reported": "not reported (permanent ban)"
 }

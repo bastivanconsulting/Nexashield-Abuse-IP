@@ -5,10 +5,10 @@
   "asn": 139029,
   "asn_org": "AKNetworks",
   "categories": {
-    "scan": 11
+    "scan": 12
   },
-  "events": 18,
+  "events": 20,
   "first_seen": "2026-11-11T14:06:29Z",
-  "last_seen": "2026-11-14T20:04:55Z",
+  "last_seen": "2026-11-15T02:17:12Z",
   "reported": "not reported (permanent ban)"
 }

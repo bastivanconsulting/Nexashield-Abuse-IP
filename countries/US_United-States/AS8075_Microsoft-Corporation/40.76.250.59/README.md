@@ -7,10 +7,10 @@
 | IP | `40.76.250.59` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (8) |
-| Events | 13 |
+| Activity | Port scanning (9) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-12T09:16:39Z |
-| Last seen (UTC) | 2026-11-14T21:56:40Z |
+| Last seen (UTC) | 2026-11-15T01:41:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

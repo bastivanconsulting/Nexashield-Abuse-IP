@@ -8,10 +8,10 @@
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (115), Known botnet / C2 infrastructure (11) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 2 | Port scanning (32) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Port scanning (9), Known botnet / C2 infrastructure (6) |
-| [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (70) |
+| [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (72) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Abusive HTTP requests (59) |
 | [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 1 | Port scanning (27), Known botnet / C2 infrastructure (9) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 1 | Port scanning (28), Known botnet / C2 infrastructure (10) |
 | [AS55430](AS55430_Starhub-Internet-Pte-Ltd/) | Starhub Internet Pte Ltd | 1 | Port scanning (12), Known botnet / C2 infrastructure (3) |
 
 ---

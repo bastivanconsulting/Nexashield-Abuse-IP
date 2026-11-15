@@ -7,10 +7,10 @@
 | IP | `85.215.61.91` |
 | Country | Germany (DE) |
 | ASN | AS8560 · IONOS SE |
-| Activity | Port scanning (17), Known botnet / C2 infrastructure (4) |
-| Events | 22 |
+| Activity | Port scanning (18), Known botnet / C2 infrastructure (4) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-12T19:43:27Z |
-| Last seen (UTC) | 2026-11-14T20:37:02Z |
+| Last seen (UTC) | 2026-11-15T01:21:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

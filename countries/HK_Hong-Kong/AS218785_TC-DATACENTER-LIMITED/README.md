@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.138.12.6`](45.138.12.6/) | Abusive HTTP requests (224), Spamhaus DROP-listed network (1) | 225 | 2026-11-12T06:13:55Z |
-| [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (21) | 96 | 2026-11-14T01:05:23Z |
+| [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (25) | 100 | 2026-11-15T01:49:22Z |
 | [`45.138.12.19`](45.138.12.19/) | Abusive HTTP requests (22), Spamhaus DROP-listed network (1) | 23 | 2026-11-14T20:38:28Z |
 | [`45.138.12.40`](45.138.12.40/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-14T18:49:36Z |
 | [`45.138.12.41`](45.138.12.41/) | Spamhaus DROP-listed network (8), Abusive HTTP requests (3) | 11 | 2026-11-14T20:19:34Z |

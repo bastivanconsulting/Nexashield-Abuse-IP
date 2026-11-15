@@ -7,10 +7,10 @@
 | IP | `112.17.252.56` |
 | Country | China (CN) |
 | ASN | AS56041 · China Mobile Communications Corporation |
-| Activity | Port scanning (14) |
-| Events | 20 |
+| Activity | Port scanning (16) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-11T22:02:49Z |
-| Last seen (UTC) | 2026-11-14T18:59:16Z |
+| Last seen (UTC) | 2026-11-15T01:58:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

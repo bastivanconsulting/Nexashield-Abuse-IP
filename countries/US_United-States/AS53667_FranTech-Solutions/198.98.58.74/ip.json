@@ -1,0 +1,14 @@
+{
+  "ip": "198.98.58.74",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 53667,
+  "asn_org": "FranTech Solutions",
+  "categories": {
+    "scan": 21
+  },
+  "events": 23,
+  "first_seen": "2026-11-14T09:33:17Z",
+  "last_seen": "2026-11-15T02:15:38Z",
+  "reported": "not reported (permanent ban)"
+}
