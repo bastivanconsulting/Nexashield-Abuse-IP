@@ -7,10 +7,10 @@
 | IP | `9.234.40.89` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (11) |
-| Events | 18 |
+| Activity | Port scanning (12) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-11T19:21:43Z |
-| Last seen (UTC) | 2026-11-15T01:01:17Z |
+| Last seen (UTC) | 2026-11-15T07:11:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

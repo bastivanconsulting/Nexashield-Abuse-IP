@@ -5,11 +5,11 @@
   "asn": 8560,
   "asn_org": "IONOS SE",
   "categories": {
-    "scan": 32,
+    "scan": 35,
     "c2": 2
   },
-  "events": 45,
+  "events": 49,
   "first_seen": "2026-11-14T18:16:46Z",
-  "last_seen": "2026-11-15T05:40:20Z",
+  "last_seen": "2026-11-15T06:48:50Z",
   "reported": "not reported (permanent ban)"
 }

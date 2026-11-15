@@ -7,10 +7,10 @@
 | IP | `146.168.10.75` |
 | Country | United States (US) |
 | ASN | AS11776 · Breezeline |
-| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-14T08:27:56Z |
-| Last seen (UTC) | 2026-11-14T21:39:28Z |
+| Last seen (UTC) | 2026-11-15T06:38:50Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

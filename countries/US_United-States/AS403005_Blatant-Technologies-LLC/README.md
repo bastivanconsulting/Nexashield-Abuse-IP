@@ -5,10 +5,10 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`36.255.97.7`](36.255.97.7/) | Port scanning (13) | 13 | 2026-11-15T04:04:44Z |
-| [`36.255.97.39`](36.255.97.39/) | Port scanning (16), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (1) | 23 | 2026-11-15T05:14:14Z |
+| [`36.255.97.39`](36.255.97.39/) | Port scanning (17), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (1) | 24 | 2026-11-15T07:15:33Z |
 | [`36.255.97.137`](36.255.97.137/) | Port scanning (17) | 23 | 2026-11-14T11:49:56Z |
 | [`36.255.97.141`](36.255.97.141/) | Port scanning (26) | 30 | 2026-11-14T21:39:28Z |
-| [`36.255.97.142`](36.255.97.142/) | Port scanning (11) | 12 | 2026-11-14T10:05:26Z |
+| [`36.255.97.142`](36.255.97.142/) | Port scanning (13) | 14 | 2026-11-15T06:34:11Z |
 | [`36.255.97.152`](36.255.97.152/) | Port scanning (10) | 16 | 2026-11-14T21:56:40Z |
 | [`36.255.97.229`](36.255.97.229/) | SSH brute force (12), Spamhaus DROP-listed network (3) | 15 | 2026-11-12T01:14:02Z |
 | [`36.255.97.230`](36.255.97.230/) | SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (1) | 19 | 2026-11-11T23:10:54Z |

@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9541](AS9541_Cyber-Internet-Services-Private-Limited/) | Cyber Internet Services (Private) Limited | 5 | Exploitation attempt (CVE / RCE / injection) (7), Abusive HTTP requests (2), Port scanning (2) |
-| [AS135523](AS135523_Multinet-Broadband/) | Multinet Broadband | 1 | Port scanning (7), Known botnet / C2 infrastructure (5) |
+| [AS135523](AS135523_Multinet-Broadband/) | Multinet Broadband | 1 | Port scanning (8), Known botnet / C2 infrastructure (6) |
 | [AS151330](AS151330_PLAY-BROADBAND-PRIVATE-LIMITED/) | PLAY BROADBAND (PRIVATE) LIMITED | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 
 ---
