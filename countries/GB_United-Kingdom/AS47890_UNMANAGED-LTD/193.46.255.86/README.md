@@ -7,10 +7,10 @@
 | IP | `193.46.255.86` |
 | Country | United Kingdom (GB) |
 | ASN | AS47890 · UNMANAGED LTD |
-| Activity | SSH brute force (349), Spamhaus DROP-listed network (71) |
-| Events | 420 |
+| Activity | SSH brute force (359), Spamhaus DROP-listed network (73) |
+| Events | 432 |
 | First seen (UTC) | 2026-11-09T18:41:28Z |
-| Last seen (UTC) | 2026-11-15T21:28:01Z |
+| Last seen (UTC) | 2026-11-15T22:47:03Z |
 | Reported to network owner (UTC) | 2026-11-11T17:05:43Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

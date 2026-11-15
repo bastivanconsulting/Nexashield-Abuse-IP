@@ -5,11 +5,11 @@
   "asn": 55430,
   "asn_org": "Starhub Internet Pte Ltd",
   "categories": {
-    "scan": 14,
-    "c2": 4
+    "scan": 16,
+    "c2": 5
   },
-  "events": 19,
+  "events": 22,
   "first_seen": "2026-11-11T11:49:49Z",
-  "last_seen": "2026-11-15T15:31:07Z",
+  "last_seen": "2026-11-15T22:50:41Z",
   "reported": "not reported (permanent ban)"
 }

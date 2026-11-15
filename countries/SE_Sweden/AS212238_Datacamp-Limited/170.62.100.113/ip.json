@@ -1,0 +1,14 @@
+{
+  "ip": "170.62.100.113",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 212238,
+  "asn_org": "Datacamp Limited",
+  "categories": {
+    "c2": 3
+  },
+  "events": 14,
+  "first_seen": "2026-11-14T14:33:34Z",
+  "last_seen": "2026-11-15T22:40:03Z",
+  "reported": "not reported (permanent ban)"
+}

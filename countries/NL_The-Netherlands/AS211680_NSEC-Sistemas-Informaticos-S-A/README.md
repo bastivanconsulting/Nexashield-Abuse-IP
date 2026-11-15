@@ -1,9 +1,10 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇳🇱 The Netherlands · **41** malicious IP(s)
+🇳🇱 The Netherlands · **42** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`45.156.128.52`](45.156.128.52/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T22:38:03Z |
 | [`45.156.128.54`](45.156.128.54/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-15T18:45:22Z |
 | [`45.156.128.57`](45.156.128.57/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-15T19:47:26Z |
 | [`45.156.128.59`](45.156.128.59/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T05:17:04Z |
@@ -31,9 +32,9 @@
 | [`45.156.128.109`](45.156.128.109/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T02:44:04Z |
 | [`45.156.128.116`](45.156.128.116/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-14T18:11:25Z |
 | [`45.156.128.118`](45.156.128.118/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-13T16:59:04Z |
-| [`45.156.128.150`](45.156.128.150/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-14T02:46:50Z |
+| [`45.156.128.150`](45.156.128.150/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T22:18:03Z |
 | [`45.156.128.153`](45.156.128.153/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T14:39:04Z |
-| [`45.156.128.155`](45.156.128.155/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T14:36:40Z |
+| [`45.156.128.155`](45.156.128.155/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-15T22:55:15Z |
 | [`45.156.128.165`](45.156.128.165/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T22:21:52Z |
 | [`45.156.128.166`](45.156.128.166/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T20:25:02Z |
 | [`45.156.128.167`](45.156.128.167/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T07:22:03Z |

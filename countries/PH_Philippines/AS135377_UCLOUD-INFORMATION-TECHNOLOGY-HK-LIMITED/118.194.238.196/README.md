@@ -7,10 +7,10 @@
 | IP | `118.194.238.196` |
 | Country | Philippines (PH) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (6) |
-| Events | 23 |
+| Activity | Port scanning (18), Known botnet / C2 infrastructure (6) |
+| Events | 27 |
 | First seen (UTC) | 2026-11-11T17:21:40Z |
-| Last seen (UTC) | 2026-11-15T20:41:25Z |
+| Last seen (UTC) | 2026-11-15T22:45:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
