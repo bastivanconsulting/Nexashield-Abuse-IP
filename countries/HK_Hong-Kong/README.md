@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 62 | Port scanning (633), Known botnet / C2 infrastructure (254), Abusive HTTP requests (1) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 23 | Port scanning (1930), Abusive HTTP requests (860), Spamhaus DROP-listed network (49), Known botnet / C2 infrastructure (27), Web injection payload blocked by WAF (3) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 62 | Port scanning (643), Known botnet / C2 infrastructure (257), Abusive HTTP requests (1) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 23 | Port scanning (1933), Abusive HTTP requests (860), Spamhaus DROP-listed network (49), Known botnet / C2 infrastructure (29), Web injection payload blocked by WAF (3) |
 | [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (549), Known botnet / C2 infrastructure (37) |
 | [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 5 | Port scanning (923), Known botnet / C2 infrastructure (28), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (318), Abusive HTTP requests (11) |
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (75), Known botnet / C2 infrastructure (2) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (321), Abusive HTTP requests (11) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (78), Known botnet / C2 infrastructure (3) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (40) |
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (31), Known botnet / C2 infrastructure (3) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 1 | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) |

@@ -4,9 +4,9 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`2.57.121.25`](2.57.121.25/) | SSH brute force (330) | 330 | 2026-11-15T04:15:54Z |
-| [`2.57.121.112`](2.57.121.112/) | SSH brute force (185) | 185 | 2026-11-15T03:21:03Z |
-| [`193.46.255.86`](193.46.255.86/) | SSH brute force (223), Spamhaus DROP-listed network (47) | 270 | 2026-11-15T03:33:06Z |
+| [`2.57.121.25`](2.57.121.25/) | SSH brute force (340) | 340 | 2026-11-15T05:18:24Z |
+| [`2.57.121.112`](2.57.121.112/) | SSH brute force (199) | 199 | 2026-11-15T04:47:02Z |
+| [`193.46.255.86`](193.46.255.86/) | SSH brute force (227), Spamhaus DROP-listed network (47) | 274 | 2026-11-15T05:22:26Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

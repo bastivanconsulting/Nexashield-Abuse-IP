@@ -5,12 +5,12 @@
   "asn": 150303,
   "asn_org": "SoloRDP",
   "categories": {
-    "scan": 48,
+    "scan": 56,
     "web": 41,
     "exploit": 1
   },
-  "events": 90,
+  "events": 98,
   "first_seen": "2026-11-11T12:19:53Z",
-  "last_seen": "2026-11-15T03:07:09Z",
+  "last_seen": "2026-11-15T04:48:58Z",
   "reported": "2026-11-13T02:31:32Z"
 }

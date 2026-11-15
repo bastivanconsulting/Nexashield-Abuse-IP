@@ -5,11 +5,11 @@
   "asn": 209160,
   "asn_org": "Miti 2000 EOOD",
   "categories": {
-    "scan": 257,
+    "scan": 261,
     "c2": 15
   },
-  "events": 288,
+  "events": 292,
   "first_seen": "2026-11-11T09:55:00Z",
-  "last_seen": "2026-11-15T04:11:33Z",
+  "last_seen": "2026-11-15T04:56:36Z",
   "reported": "not reported (permanent ban)"
 }

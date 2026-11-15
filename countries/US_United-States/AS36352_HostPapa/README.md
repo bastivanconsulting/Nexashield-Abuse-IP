@@ -1,11 +1,12 @@
 # AS36352 · HostPapa
 
-🇺🇸 United States · **5** malicious IP(s)
+🇺🇸 United States · **6** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`69.12.71.34`](69.12.71.34/) | Port scanning (16), Known botnet / C2 infrastructure (3) | 20 | 2026-11-15T01:26:23Z |
+| [`69.12.71.34`](69.12.71.34/) | Port scanning (17), Known botnet / C2 infrastructure (4) | 22 | 2026-11-15T04:45:52Z |
 | [`107.173.241.217`](107.173.241.217/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-14T22:06:36Z |
+| [`107.174.181.21`](107.174.181.21/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T05:16:04Z |
 | [`172.245.90.204`](172.245.90.204/) | Port scanning (10) | 16 | 2026-11-15T00:27:59Z |
 | [`172.245.118.176`](172.245.118.176/) | Port scanning (5), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 11 | 2026-11-14T08:44:03Z |
 | [`192.236.230.186`](192.236.230.186/) | Port scanning (10) | 18 | 2026-11-14T21:56:54Z |

@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`36.255.97.7`](36.255.97.7/) | Port scanning (13) | 13 | 2026-11-15T04:04:44Z |
-| [`36.255.97.39`](36.255.97.39/) | Port scanning (15), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (1) | 22 | 2026-11-15T03:32:34Z |
+| [`36.255.97.39`](36.255.97.39/) | Port scanning (16), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (1) | 23 | 2026-11-15T05:14:14Z |
 | [`36.255.97.137`](36.255.97.137/) | Port scanning (17) | 23 | 2026-11-14T11:49:56Z |
 | [`36.255.97.141`](36.255.97.141/) | Port scanning (26) | 30 | 2026-11-14T21:39:28Z |
 | [`36.255.97.142`](36.255.97.142/) | Port scanning (11) | 12 | 2026-11-14T10:05:26Z |
@@ -18,7 +18,7 @@
 | [`43.228.157.180`](43.228.157.180/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |
 | [`43.228.157.200`](43.228.157.200/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |
 | [`43.228.157.222`](43.228.157.222/) | Port scanning (20) | 21 | 2026-11-14T21:56:40Z |
-| [`43.228.157.245`](43.228.157.245/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-14T23:47:27Z |
+| [`43.228.157.245`](43.228.157.245/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-15T04:46:41Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS21859 · Zenlayer Inc |
 | Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Events | 6 |
 | First seen (UTC) | 2026-11-11T18:42:19Z |
-| Last seen (UTC) | 2026-11-15T01:23:42Z |
+| Last seen (UTC) | 2026-11-15T04:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
