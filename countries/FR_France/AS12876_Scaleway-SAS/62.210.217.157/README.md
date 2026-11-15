@@ -7,10 +7,10 @@
 | IP | `62.210.217.157` |
 | Country | France (FR) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (22) |
-| Events | 33 |
+| Activity | Port scanning (25) |
+| Events | 37 |
 | First seen (UTC) | 2026-11-11T18:35:57Z |
-| Last seen (UTC) | 2026-11-14T22:45:21Z |
+| Last seen (UTC) | 2026-11-15T01:13:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

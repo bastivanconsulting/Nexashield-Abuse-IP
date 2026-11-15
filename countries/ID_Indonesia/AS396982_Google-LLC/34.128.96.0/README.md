@@ -7,10 +7,10 @@
 | IP | `34.128.96.0` |
 | Country | Indonesia (ID) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (13) |
-| Events | 19 |
+| Activity | Port scanning (17) |
+| Events | 24 |
 | First seen (UTC) | 2026-11-13T07:38:25Z |
-| Last seen (UTC) | 2026-11-14T23:02:19Z |
+| Last seen (UTC) | 2026-11-15T01:16:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

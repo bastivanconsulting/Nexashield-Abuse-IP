@@ -7,10 +7,10 @@
 | IP | `77.91.71.23` |
 | Country | Israel (IL) |
 | ASN | AS211486 · Alferov Aleksey Aleksandrovich |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (2) |
-| Events | 24 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (3) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-11T19:14:12Z |
-| Last seen (UTC) | 2026-11-14T14:37:40Z |
+| Last seen (UTC) | 2026-11-15T00:43:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

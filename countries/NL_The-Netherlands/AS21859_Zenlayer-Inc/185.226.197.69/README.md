@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS21859 · Zenlayer Inc |
 | Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Events | 5 |
 | First seen (UTC) | 2026-11-12T08:42:03Z |
-| Last seen (UTC) | 2026-11-14T22:51:55Z |
+| Last seen (UTC) | 2026-11-15T00:18:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

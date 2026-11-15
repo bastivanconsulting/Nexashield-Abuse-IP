@@ -7,10 +7,10 @@
 | IP | `185.12.59.118` |
 | Country | Norway (NO) |
 | ASN | AS50304 · Blix Solutions AS |
-| Activity | Port scanning (89), Known botnet / C2 infrastructure (11), Abusive HTTP requests (2) |
-| Events | 109 |
+| Activity | Port scanning (92), Known botnet / C2 infrastructure (11), Abusive HTTP requests (2) |
+| Events | 113 |
 | First seen (UTC) | 2026-11-10T13:16:58Z |
-| Last seen (UTC) | 2026-11-14T21:46:18Z |
+| Last seen (UTC) | 2026-11-15T01:09:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

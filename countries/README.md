@@ -3,7 +3,7 @@
 | Pays | IP |
 |---|---:|
 | [🇦🇩 Andorra](AD_Andorra/) | 73 |
-| [🇦🇪 United Arab Emirates](AE_United-Arab-Emirates/) | 3 |
+| [🇦🇪 United Arab Emirates](AE_United-Arab-Emirates/) | 4 |
 | [🇦🇲 Armenia](AM_Armenia/) | 2 |
 | [🇦🇷 Argentina](AR_Argentina/) | 2 |
 | [🇦🇺 Australia](AU_Australia/) | 12 |
@@ -22,7 +22,7 @@
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 1 |
 | [🇫🇮 Finland](FI_Finland/) | 5 |
 | [🇫🇷 France](FR_France/) | 228 |
-| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 656 |
+| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 659 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
 | [🇭🇰 Hong Kong](HK_Hong-Kong/) | 104 |
 | [🇭🇺 Hungary](HU_Hungary/) | 5 |
@@ -61,5 +61,5 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 2 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 7 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1580 |
+| [🇺🇸 United States](US_United-States/) | 1588 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 9 |

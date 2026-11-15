@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 22 | Port scanning (157), Known botnet / C2 infrastructure (100) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 22 | Port scanning (158), Known botnet / C2 infrastructure (101) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Abusive HTTP requests (157), Web injection payload blocked by WAF (26) |
 | [AS135161](AS135161_GMO-Z-COM-PTE-LTD/) | GMO-Z.COM PTE. LTD. | 1 | Port scanning (9), Known botnet / C2 infrastructure (3) |
 | [AS45458](AS45458_ADVANCED-WIRELESS-NETWORK-COMPANY-LIMITED/) | ADVANCED WIRELESS NETWORK COMPANY LIMITED | 1 | Port scanning (11), Known botnet / C2 infrastructure (3) |

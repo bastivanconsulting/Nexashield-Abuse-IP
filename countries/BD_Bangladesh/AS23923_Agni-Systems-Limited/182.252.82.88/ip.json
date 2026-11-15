@@ -5,10 +5,10 @@
   "asn": 23923,
   "asn_org": "Agni Systems Limited",
   "categories": {
-    "scan": 128
+    "scan": 131
   },
-  "events": 147,
+  "events": 150,
   "first_seen": "2026-11-11T09:53:10Z",
-  "last_seen": "2026-11-14T23:40:50Z",
+  "last_seen": "2026-11-15T01:13:27Z",
   "reported": "not reported (permanent ban)"
 }
