@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 275 IP, 40 pays, 108 réseaux, 19297 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 275 IP, 40 pays, 108 réseaux, 19303 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Les statistiques révèlent 19297 événements détectés provenant de 275 adresses IP réparties sur 40 pays et 108 réseaux ASN, avec une dernière activité le 2026-11-15. Les principaux pays d'origine sont les États-Unis (58), les Pays-Bas (38), la Belgique (27), l'Allemagne (24) et la France (21). Parmi les réseaux les plus représentés figurent AS14061 DigitalOcean, LLC (53), AS396982 Google LLC (35) et AS198364 BANATSYNC SRL (26).
+Sur la période observée, 19303 événements ont été détectés provenant de 275 adresses IP réparties sur 40 pays et 108 réseaux ASN, avec une dernière activité enregistrée le 2026-11-15. Les principales origines géographiques incluent les États-Unis avec 58 IP, les Pays-Bas avec 38, la Belgique avec 27, l'Allemagne avec 24 et la France avec 21. Les activités observées couvrent principalement des requêtes HTTP abusives (120), des tentatives de force brute SSH (75), du balayage de ports (71) et des exploitations de type CVE, RCE ou injection (57).
 
-- Les natures d'événements les plus fréquentes sont les requêtes HTTP abusives (120), la force brute SSH (75), le balayage de ports (71) et l'exploitation (CVE, RCE, injection) (57)
-- 34 charges d'injection ont été bloquées par le WAF et 31 événements proviennent de réseaux listés Spamhaus DROP
-- 3 événements sont associés à une infrastructure botnet / C2 connue, accompagnés d'une force brute SMTP / IMAP (1) et d'une signature d'exploit UDP (1)
+- Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 53 IP, AS396982 (Google LLC) avec 35 et AS198364 (BANATSYNC SRL) avec 26.
+- Parmi les natures d'événements figurent également 34 charges d'injection bloquées par le WAF, 31 réseaux listés Spamhaus DROP et 3 infrastructures botnet / C2 connues.
+- On relève enfin 1 force brute SMTP / IMAP et 1 signature d'exploit UDP.
 
 <sub>Synthèse générée automatiquement le 2026-11-15 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
@@ -309,6 +309,9 @@ countries/
             ├── README.md                ← fiche lisible
             └── ip.json                  ← fiche machine
 analysis/latest.md                       ← synthèse de la menace par l'IA NexaShield (Mistral)
+bans/
+├── permaban.txt                         ← tous les bannissements définitifs, avec en-tête (mise à jour horaire)
+└── plain/all.txt · ipv4.txt · ipv6.txt  ← une entrée par ligne (IP ou plage CIDR)
 lists/
 ├── plain/all.txt · ipv4.txt · ipv6.txt  ← une IP par ligne, sans commentaire (flux URL)
 ├── blocklist.txt                        ← toutes les IP, avec en-tête
@@ -329,6 +332,16 @@ CONTRIBUTING.md · SECURITY.md · CODE_OF_CONDUCT.md
 
 Dans les noms de dossier IPv6, les `:` sont remplacés par `_` (compatibilité Windows).
 </details>
+
+## 🚫 Bannissements définitifs (liste étendue)
+
+En plus des adresses signalées ci-dessus, NexaShield publie **toutes** les adresses qu'il a bannies définitivement sur l'infrastructure de Bastivan Consulting : récidive, petites attaques persistantes jugées par l'IA, campagnes confirmées. Mise à jour automatique toutes les heures.
+
+<!-- BANS:START -->
+**3902** adresses bannies définitivement (**3860** IP, **42** plages CIDR), mises à jour toutes les heures : [`bans/permaban.txt`](bans/permaban.txt) (commentée) · [`bans/plain/all.txt`](bans/plain/all.txt) (flux pare-feu) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
+<!-- BANS:END -->
+
+> Ces adresses n'ont pas toutes été signalées à leur hébergeur : pour un blocage strictement « signalé et prouvé », préférez [`lists/`](lists/).
 
 ## ⚠️ Avertissement
 

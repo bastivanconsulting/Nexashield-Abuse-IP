@@ -3539,7 +3539,7 @@
    "id": "indicator--bc00edcf-2737-590d-9e43-5dc6c54fd79e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:29:19.000Z",
-   "modified": "2026-11-15T00:33:42.000Z",
+   "modified": "2026-11-15T00:41:29.000Z",
    "name": "NexaShield abuse IP 80.94.95.115",
    "indicator_types": [
     "malicious-activity"
@@ -3547,7 +3547,7 @@
    "pattern": "[ipv4-addr:value = '80.94.95.115']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:29:19.000Z",
-   "description": "Hungary - AS204428 SS-Net - Port scanning (273), SSH brute force (10)",
+   "description": "Hungary - AS204428 SS-Net - Port scanning (277), SSH brute force (10)",
    "labels": [
     "scan",
     "ssh"
@@ -3697,7 +3697,7 @@
    "id": "indicator--1b478ed1-6c61-5583-8c00-2c79a3f14c37",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:43:19.000Z",
-   "modified": "2026-11-15T00:34:29.000Z",
+   "modified": "2026-11-15T00:35:41.000Z",
    "name": "NexaShield abuse IP 85.11.167.7",
    "indicator_types": [
     "malicious-activity"
@@ -3705,7 +3705,7 @@
    "pattern": "[ipv4-addr:value = '85.11.167.7']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:43:19.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (168), Port scanning (124)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (168), Port scanning (126)",
    "labels": [
     "scan",
     "spamhaus"

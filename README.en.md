@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 275 IPs, 40 countries, 108 networks, 19297 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 275 IPs, 40 countries, 108 networks, 19303 events">
 </picture>
 
 > [!TIP]
@@ -276,6 +276,16 @@ This list is a by-product. **NexaShield** is the detection and response platform
 5. **Abuse report** sent to the network's official contact (RIPEstat).
 6. **Published** here, sorted by country, network and address.
 </details>
+
+## 🚫 Permanent bans (extended list)
+
+On top of the reported addresses above, NexaShield publishes **every** address it has permanently banned on Bastivan Consulting infrastructure: repeat offenders, persistent low-level attacks judged by the AI, confirmed campaigns. Updated automatically every hour.
+
+<!-- BANS:START -->
+**3902** permanently banned addresses (**3860** IPs, **42** CIDR ranges), updated every hour: [`bans/permaban.txt`](bans/permaban.txt) (commented) · [`bans/plain/all.txt`](bans/plain/all.txt) (firewall feed) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
+<!-- BANS:END -->
+
+> Not all of these addresses were reported to their hosting provider: for a strictly "reported and evidenced" blocklist, prefer [`lists/`](lists/).
 
 ## ⚠️ Disclaimer
 
