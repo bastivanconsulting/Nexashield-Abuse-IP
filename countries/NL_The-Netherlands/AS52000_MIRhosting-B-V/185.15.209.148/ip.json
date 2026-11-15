@@ -5,10 +5,10 @@
   "asn": 52000,
   "asn_org": "MIRhosting B.V.",
   "categories": {
-    "scan": 145
+    "scan": 146
   },
-  "events": 162,
+  "events": 163,
   "first_seen": "2026-11-11T09:58:52Z",
-  "last_seen": "2026-11-15T16:11:19Z",
+  "last_seen": "2026-11-15T16:28:48Z",
   "reported": "not reported (permanent ban)"
 }

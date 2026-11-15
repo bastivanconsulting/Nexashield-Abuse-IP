@@ -1,6 +1,6 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇳🇱 The Netherlands · **36** malicious IP(s)
+🇳🇱 The Netherlands · **38** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -21,7 +21,8 @@
 | [`45.156.128.76`](45.156.128.76/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-15T02:52:50Z |
 | [`45.156.128.78`](45.156.128.78/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-15T10:32:49Z |
 | [`45.156.128.79`](45.156.128.79/) | Port scanning (8), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (1) | 15 | 2026-11-15T08:28:40Z |
-| [`45.156.128.83`](45.156.128.83/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-13T16:28:08Z |
+| [`45.156.128.83`](45.156.128.83/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T16:32:48Z |
+| [`45.156.128.98`](45.156.128.98/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T16:41:03Z |
 | [`45.156.128.101`](45.156.128.101/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 10 | 2026-11-13T15:53:03Z |
 | [`45.156.128.102`](45.156.128.102/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 13 | 2026-11-15T14:59:05Z |
 | [`45.156.128.104`](45.156.128.104/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T07:07:57Z |
@@ -40,6 +41,7 @@
 | [`45.156.128.173`](45.156.128.173/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T23:09:02Z |
 | [`45.156.128.175`](45.156.128.175/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-13T04:10:24Z |
 | [`45.156.128.179`](45.156.128.179/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T03:45:18Z |
+| [`45.156.128.197`](45.156.128.197/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T16:53:03Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

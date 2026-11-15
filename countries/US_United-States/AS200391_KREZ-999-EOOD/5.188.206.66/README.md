@@ -7,10 +7,10 @@
 | IP | `5.188.206.66` |
 | Country | United States (US) |
 | ASN | AS200391 · KREZ 999 EOOD |
-| Activity | Port scanning (51) |
-| Events | 57 |
+| Activity | Port scanning (52) |
+| Events | 58 |
 | First seen (UTC) | 2026-11-15T09:18:45Z |
-| Last seen (UTC) | 2026-11-15T16:08:11Z |
+| Last seen (UTC) | 2026-11-15T16:50:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

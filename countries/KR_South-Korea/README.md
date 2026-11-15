@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 8 | Port scanning (79), SSH brute force (14), Known botnet / C2 infrastructure (12), Exploitation attempt (CVE / RCE / injection) (6) |
+| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 8 | Port scanning (81), SSH brute force (14), Known botnet / C2 infrastructure (13), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (18), Known botnet / C2 infrastructure (11) |
 | [AS38684](AS38684_CMB-Daejeon-Broadcasting-Co-Ltd/) | CMB Daejeon Broadcasting Co,.Ltd | 2 | Port scanning (26) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Abusive HTTP requests (114), Web injection payload blocked by WAF (26) |

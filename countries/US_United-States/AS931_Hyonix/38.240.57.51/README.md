@@ -7,10 +7,10 @@
 | IP | `38.240.57.51` |
 | Country | United States (US) |
 | ASN | AS931 · Hyonix |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (1) |
-| Events | 29 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (1) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-11T10:18:49Z |
-| Last seen (UTC) | 2026-11-15T12:45:46Z |
+| Last seen (UTC) | 2026-11-15T17:07:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

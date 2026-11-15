@@ -6,11 +6,11 @@
   "asn_org": "Orange S.A.",
   "categories": {
     "waf": 1,
-    "scan": 11,
+    "scan": 12,
     "c2": 4
   },
-  "events": 28,
+  "events": 29,
   "first_seen": "2026-11-11T09:17:03Z",
-  "last_seen": "2026-11-15T05:32:52Z",
+  "last_seen": "2026-11-15T16:39:53Z",
   "reported": "not reported (permanent ban)"
 }

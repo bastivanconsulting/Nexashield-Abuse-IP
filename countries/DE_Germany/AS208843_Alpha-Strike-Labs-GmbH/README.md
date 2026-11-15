@@ -1,6 +1,6 @@
 # AS208843 · Alpha Strike Labs GmbH
 
-🇩🇪 Germany · **21** malicious IP(s)
+🇩🇪 Germany · **23** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,6 +13,7 @@
 | [`194.187.176.51`](194.187.176.51/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T11:13:02Z |
 | [`194.187.176.92`](194.187.176.92/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-12T09:49:01Z |
 | [`194.187.176.96`](194.187.176.96/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-14T09:12:34Z |
+| [`194.187.176.97`](194.187.176.97/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-14T05:38:12Z |
 | [`194.187.176.103`](194.187.176.103/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-13T12:59:02Z |
 | [`194.187.176.123`](194.187.176.123/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T10:56:03Z |
 | [`194.187.176.124`](194.187.176.124/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T14:35:06Z |
@@ -25,6 +26,7 @@
 | [`194.187.176.231`](194.187.176.231/) | Known botnet / C2 infrastructure (4), Port scanning (3) | 8 | 2026-11-14T21:39:34Z |
 | [`194.187.176.232`](194.187.176.232/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T21:39:28Z |
 | [`194.187.176.233`](194.187.176.233/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T09:45:17Z |
+| [`194.187.176.238`](194.187.176.238/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-14T07:59:20Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `176.65.144.5` |
 | Country | Switzerland (CH) |
 | ASN | AS209413 · DEDIK SERVICES LIMITED |
-| Activity | Port scanning (58) |
-| Events | 61 |
+| Activity | Port scanning (59) |
+| Events | 62 |
 | First seen (UTC) | 2026-11-11T12:43:07Z |
-| Last seen (UTC) | 2026-11-15T14:32:24Z |
+| Last seen (UTC) | 2026-11-15T17:05:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
