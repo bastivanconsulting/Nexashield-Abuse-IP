@@ -1,0 +1,14 @@
+{
+  "ip": "81.16.152.2",
+  "country_code": "AT",
+  "country": "Austria",
+  "asn": 1764,
+  "asn_org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+  "categories": {
+    "scan": 674
+  },
+  "events": 675,
+  "first_seen": "2026-11-11T22:31:06Z",
+  "last_seen": "2026-11-15T06:17:32Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -6,10 +6,11 @@
   "asn_org": "SINO WORLDWIDE TRADING LIMITED",
   "categories": {
     "scan": 78,
-    "c2": 3
+    "c2": 3,
+    "web": 2
   },
-  "events": 86,
+  "events": 88,
   "first_seen": "2026-11-11T14:54:27Z",
-  "last_seen": "2026-11-15T04:40:16Z",
+  "last_seen": "2026-11-15T05:29:34Z",
   "reported": "not reported (permanent ban)"
 }

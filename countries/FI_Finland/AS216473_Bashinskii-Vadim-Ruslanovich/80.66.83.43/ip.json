@@ -1,0 +1,15 @@
+{
+  "ip": "80.66.83.43",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 216473,
+  "asn_org": "Bashinskii Vadim Ruslanovich",
+  "categories": {
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 10,
+  "first_seen": "2026-11-11T10:37:33Z",
+  "last_seen": "2026-11-15T05:46:02Z",
+  "reported": "not reported (permanent ban)"
+}

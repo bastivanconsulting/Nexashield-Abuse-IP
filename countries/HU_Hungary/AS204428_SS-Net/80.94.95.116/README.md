@@ -7,10 +7,10 @@
 | IP | `80.94.95.116` |
 | Country | Hungary (HU) |
 | ASN | AS204428 · SS-Net |
-| Activity | Port scanning (381), SSH brute force (39) |
-| Events | 420 |
+| Activity | Port scanning (405), SSH brute force (55) |
+| Events | 460 |
 | First seen (UTC) | 2026-11-11T21:29:43Z |
-| Last seen (UTC) | 2026-11-15T05:28:04Z |
+| Last seen (UTC) | 2026-11-15T06:32:14Z |
 | Reported to network owner (UTC) | 2026-11-15T04:24:56Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

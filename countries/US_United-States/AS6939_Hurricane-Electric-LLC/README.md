@@ -9,12 +9,12 @@
 | [`65.49.20.72`](65.49.20.72/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-13T14:55:25Z |
 | [`65.49.20.75`](65.49.20.75/) | Port scanning (12), Known botnet / C2 infrastructure (6) | 19 | 2026-11-14T11:46:31Z |
 | [`65.49.20.78`](65.49.20.78/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-14T12:45:07Z |
-| [`65.49.20.80`](65.49.20.80/) | Port scanning (13), Known botnet / C2 infrastructure (5) | 19 | 2026-11-14T14:18:48Z |
+| [`65.49.20.80`](65.49.20.80/) | Port scanning (14), Known botnet / C2 infrastructure (6) | 21 | 2026-11-15T05:36:44Z |
 | [`65.49.20.81`](65.49.20.81/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-14T14:35:36Z |
 | [`65.49.20.82`](65.49.20.82/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-12T05:25:02Z |
 | [`65.49.20.85`](65.49.20.85/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-14T21:39:34Z |
 | [`65.49.20.86`](65.49.20.86/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-15T04:13:55Z |
-| [`65.49.20.89`](65.49.20.89/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T03:44:48Z |
+| [`65.49.20.89`](65.49.20.89/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-15T06:15:44Z |
 | [`65.49.20.98`](65.49.20.98/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-15T04:24:30Z |
 | [`65.49.20.99`](65.49.20.99/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-15T04:48:00Z |
 | [`65.49.20.102`](65.49.20.102/) | Known botnet / C2 infrastructure (2), Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-14T02:18:54Z |
@@ -26,7 +26,7 @@
 | [`65.49.20.116`](65.49.20.116/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-12T11:37:04Z |
 | [`65.49.20.117`](65.49.20.117/) | Port scanning (11), Known botnet / C2 infrastructure (5) | 17 | 2026-11-15T04:48:54Z |
 | [`65.49.20.118`](65.49.20.118/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-12T04:58:01Z |
-| [`65.49.20.119`](65.49.20.119/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 22 | 2026-11-15T04:06:15Z |
+| [`65.49.20.119`](65.49.20.119/) | Port scanning (15), Known botnet / C2 infrastructure (7) | 23 | 2026-11-15T05:59:06Z |
 | [`65.49.20.120`](65.49.20.120/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-15T04:28:26Z |
 | [`65.49.20.124`](65.49.20.124/) | Port scanning (16), Known botnet / C2 infrastructure (5) | 22 | 2026-11-15T02:09:02Z |
 | [`65.49.20.125`](65.49.20.125/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T03:56:30Z |

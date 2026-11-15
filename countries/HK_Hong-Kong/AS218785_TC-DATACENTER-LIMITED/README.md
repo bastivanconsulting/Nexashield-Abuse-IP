@@ -1,6 +1,6 @@
 # AS218785 · TC DATACENTER LIMITED
 
-🇭🇰 Hong Kong · **23** malicious IP(s)
+🇭🇰 Hong Kong · **24** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -16,6 +16,7 @@
 | [`45.138.12.46`](45.138.12.46/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-15T04:30:02Z |
 | [`45.138.12.48`](45.138.12.48/) | Port scanning (4), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) | 11 | 2026-11-15T04:34:40Z |
 | [`45.138.12.51`](45.138.12.51/) | Abusive HTTP requests (528), Spamhaus DROP-listed network (14), Port scanning (1) | 543 | 2026-11-14T21:25:46Z |
+| [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (10), Abusive HTTP requests (6) | 16 | 2026-11-15T06:11:14Z |
 | [`45.138.12.216`](45.138.12.216/) | Port scanning (5), Web injection payload blocked by WAF (3), Abusive HTTP requests (1) | 9 | 2026-11-14T19:15:03Z |
 | [`185.218.86.2`](185.218.86.2/) | Port scanning (188) | 214 | 2026-11-15T01:16:05Z |
 | [`185.218.86.4`](185.218.86.4/) | Port scanning (213) | 246 | 2026-11-15T00:54:27Z |

@@ -1,0 +1,15 @@
+{
+  "ip": "5.182.83.231",
+  "country_code": "ES",
+  "country": "Spain",
+  "asn": 200845,
+  "asn_org": "AVATEL TELECOM, SA",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 6,
+  "first_seen": "2026-11-12T21:02:54Z",
+  "last_seen": "2026-11-15T06:17:28Z",
+  "reported": "not reported (permanent ban)"
+}

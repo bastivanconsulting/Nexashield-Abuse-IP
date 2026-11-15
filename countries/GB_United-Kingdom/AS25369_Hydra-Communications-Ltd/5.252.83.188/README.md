@@ -8,9 +8,9 @@
 | Country | United Kingdom (GB) |
 | ASN | AS25369 · Hydra Communications Ltd |
 | Activity | Port scanning (3) |
-| Events | 3 |
+| Events | 5 |
 | First seen (UTC) | 2026-11-12T00:57:51Z |
-| Last seen (UTC) | 2026-11-15T01:09:58Z |
+| Last seen (UTC) | 2026-11-15T05:19:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
