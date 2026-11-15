@@ -18,7 +18,7 @@
 | [`109.105.210.54`](109.105.210.54/) | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 7 | 2026-11-15T01:52:40Z |
 | [`109.105.210.58`](109.105.210.58/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T01:42:15Z |
 | [`109.105.210.59`](109.105.210.59/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T11:34:02Z |
-| [`109.105.210.60`](109.105.210.60/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T21:39:28Z |
+| [`109.105.210.60`](109.105.210.60/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T03:11:10Z |
 | [`109.105.210.62`](109.105.210.62/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-14T11:32:04Z |
 | [`109.105.210.63`](109.105.210.63/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-14T05:40:50Z |
 | [`109.105.210.64`](109.105.210.64/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T22:03:32Z |
@@ -38,7 +38,7 @@
 | [`185.180.141.10`](185.180.141.10/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-14T11:20:33Z |
 | [`185.180.141.13`](185.180.141.13/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-14T22:43:46Z |
 | [`185.180.141.33`](185.180.141.33/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-15T01:46:00Z |
-| [`185.180.141.37`](185.180.141.37/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-14T12:13:02Z |
+| [`185.180.141.37`](185.180.141.37/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-15T03:05:04Z |
 | [`185.180.141.42`](185.180.141.42/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T01:07:50Z |
 | [`185.180.141.43`](185.180.141.43/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-14T10:10:03Z |
 | [`185.180.141.45`](185.180.141.45/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-14T07:27:24Z |

@@ -7,10 +7,10 @@
 | IP | `35.203.211.156` |
 | Country | United Kingdom (GB) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (9) |
-| Events | 13 |
+| Activity | Port scanning (10) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-11T09:58:01Z |
-| Last seen (UTC) | 2026-11-14T23:38:36Z |
+| Last seen (UTC) | 2026-11-15T02:51:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

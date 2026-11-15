@@ -7,10 +7,10 @@
 | IP | `185.226.93.242` |
 | Country | Turkey (TR) |
 | ASN | AS205196 · BIG CORE LLC |
-| Activity | Port scanning (39), Known botnet / C2 infrastructure (11) |
-| Events | 51 |
+| Activity | Port scanning (40), Known botnet / C2 infrastructure (11) |
+| Events | 52 |
 | First seen (UTC) | 2026-11-11T11:33:26Z |
-| Last seen (UTC) | 2026-11-15T02:03:26Z |
+| Last seen (UTC) | 2026-11-15T02:23:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

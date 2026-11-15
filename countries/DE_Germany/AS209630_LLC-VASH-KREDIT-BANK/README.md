@@ -1,6 +1,6 @@
 # AS209630 · LLC VASH KREDIT BANK
 
-🇩🇪 Germany · **74** malicious IP(s)
+🇩🇪 Germany · **76** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -36,7 +36,7 @@
 | [`151.243.11.109`](151.243.11.109/) | Port scanning (35), Known botnet / C2 infrastructure (6) | 42 | 2026-11-14T19:29:53Z |
 | [`151.243.11.110`](151.243.11.110/) | Port scanning (36), Known botnet / C2 infrastructure (6) | 44 | 2026-11-14T20:41:36Z |
 | [`151.243.11.111`](151.243.11.111/) | Port scanning (33), Known botnet / C2 infrastructure (6) | 41 | 2026-11-14T20:33:34Z |
-| [`151.243.11.132`](151.243.11.132/) | Port scanning (28), Known botnet / C2 infrastructure (6) | 35 | 2026-11-14T20:11:50Z |
+| [`151.243.11.132`](151.243.11.132/) | Port scanning (30), Known botnet / C2 infrastructure (7) | 38 | 2026-11-15T02:18:44Z |
 | [`151.243.11.133`](151.243.11.133/) | Port scanning (20), Known botnet / C2 infrastructure (4) | 25 | 2026-11-14T18:21:49Z |
 | [`151.243.11.134`](151.243.11.134/) | Port scanning (32), Known botnet / C2 infrastructure (6) | 39 | 2026-11-14T17:43:26Z |
 | [`151.243.11.135`](151.243.11.135/) | Port scanning (28), Known botnet / C2 infrastructure (4) | 33 | 2026-11-14T17:24:46Z |
@@ -56,6 +56,7 @@
 | [`151.243.11.149`](151.243.11.149/) | Port scanning (28), Known botnet / C2 infrastructure (6) | 35 | 2026-11-14T19:25:17Z |
 | [`151.243.11.150`](151.243.11.150/) | Port scanning (26), Known botnet / C2 infrastructure (5) | 32 | 2026-11-14T20:28:14Z |
 | [`151.243.11.151`](151.243.11.151/) | Port scanning (18), Known botnet / C2 infrastructure (4) | 23 | 2026-11-14T19:25:17Z |
+| [`151.243.11.152`](151.243.11.152/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 3 | 2026-11-14T16:18:27Z |
 | [`151.243.11.168`](151.243.11.168/) | Port scanning (30), Known botnet / C2 infrastructure (6) | 37 | 2026-11-14T17:14:30Z |
 | [`151.243.11.169`](151.243.11.169/) | Port scanning (28), Known botnet / C2 infrastructure (4) | 33 | 2026-11-14T20:54:02Z |
 | [`151.243.11.170`](151.243.11.170/) | Port scanning (20), Known botnet / C2 infrastructure (6) | 27 | 2026-11-14T23:51:44Z |
@@ -68,6 +69,7 @@
 | [`151.243.11.177`](151.243.11.177/) | Port scanning (41), Known botnet / C2 infrastructure (6) | 48 | 2026-11-14T20:33:38Z |
 | [`151.243.11.178`](151.243.11.178/) | Port scanning (18), Known botnet / C2 infrastructure (5) | 24 | 2026-11-14T19:41:56Z |
 | [`151.243.11.179`](151.243.11.179/) | Port scanning (44), Known botnet / C2 infrastructure (7) | 52 | 2026-11-15T01:59:52Z |
+| [`151.243.11.180`](151.243.11.180/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 6 | 2026-11-15T03:16:47Z |
 | [`151.243.11.200`](151.243.11.200/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-14T09:27:17Z |
 | [`151.243.11.201`](151.243.11.201/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 9 | 2026-11-14T12:03:45Z |
 | [`151.243.11.203`](151.243.11.203/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 12 | 2026-11-14T12:27:58Z |
@@ -77,7 +79,7 @@
 | [`151.243.11.207`](151.243.11.207/) | Port scanning (10), Known botnet / C2 infrastructure (3) | 14 | 2026-11-14T12:00:04Z |
 | [`151.243.11.208`](151.243.11.208/) | Port scanning (15), Known botnet / C2 infrastructure (3) | 19 | 2026-11-14T12:35:00Z |
 | [`151.243.11.209`](151.243.11.209/) | Port scanning (15), Known botnet / C2 infrastructure (3) | 19 | 2026-11-14T11:01:33Z |
-| [`151.243.11.230`](151.243.11.230/) | Port scanning (124), Known botnet / C2 infrastructure (10), Exploitation attempt (CVE / RCE / injection) (7) | 210 | 2026-11-15T01:51:45Z |
+| [`151.243.11.230`](151.243.11.230/) | Port scanning (128), Known botnet / C2 infrastructure (10), Exploitation attempt (CVE / RCE / injection) (8) | 215 | 2026-11-15T03:15:32Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
