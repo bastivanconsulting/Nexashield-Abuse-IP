@@ -7,10 +7,10 @@
 | IP | `35.206.139.159` |
 | Country | Belgium (BE) |
 | ASN | AS43515 · Google Ireland Limited |
-| Activity | Port scanning (21) |
-| Events | 28 |
+| Activity | Port scanning (22) |
+| Events | 30 |
 | First seen (UTC) | 2026-11-11T10:42:49Z |
-| Last seen (UTC) | 2026-11-14T21:56:54Z |
+| Last seen (UTC) | 2026-11-15T12:03:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

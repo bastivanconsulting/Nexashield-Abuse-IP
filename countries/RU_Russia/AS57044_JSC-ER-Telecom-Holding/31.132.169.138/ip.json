@@ -5,11 +5,11 @@
   "asn": 57044,
   "asn_org": "JSC \"ER-Telecom Holding\"",
   "categories": {
-    "scan": 7,
-    "c2": 4
+    "scan": 8,
+    "c2": 5
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-13T23:27:02Z",
-  "last_seen": "2026-11-15T09:22:32Z",
+  "last_seen": "2026-11-15T11:49:48Z",
   "reported": "not reported (permanent ban)"
 }

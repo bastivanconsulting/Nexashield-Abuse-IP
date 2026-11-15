@@ -7,10 +7,10 @@
 | IP | `195.178.110.152` |
 | Country | Andorra (AD) |
 | ASN | AS48090 · TECHOFF SRV LIMITED |
-| Activity | Port scanning (282) |
-| Events | 296 |
+| Activity | Port scanning (287) |
+| Events | 302 |
 | First seen (UTC) | 2026-11-11T12:59:31Z |
-| Last seen (UTC) | 2026-11-15T10:40:37Z |
+| Last seen (UTC) | 2026-11-15T11:59:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

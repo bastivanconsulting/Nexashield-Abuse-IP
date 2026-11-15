@@ -1,0 +1,15 @@
+{
+  "ip": "109.160.32.168",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 198364,
+  "asn_org": "BANATSYNC SRL",
+  "categories": {
+    "scan": 69,
+    "c2": 2
+  },
+  "events": 71,
+  "first_seen": "2026-11-14T07:01:08Z",
+  "last_seen": "2026-11-15T12:15:28Z",
+  "reported": "not reported (permanent ban)"
+}

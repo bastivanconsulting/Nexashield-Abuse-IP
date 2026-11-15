@@ -1,6 +1,6 @@
 # AS198364 · BANATSYNC SRL
 
-🇫🇷 France · **48** malicious IP(s)
+🇫🇷 France · **49** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -14,6 +14,7 @@
 | [`77.239.124.40`](77.239.124.40/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-13T22:17:56Z |
 | [`77.239.124.41`](77.239.124.41/) | SSH brute force (64) | 64 | 2026-11-10T08:13:13Z |
 | [`77.239.124.42`](77.239.124.42/) | Port scanning (28), SSH brute force (11) | 39 | 2026-11-14T04:17:23Z |
+| [`77.239.124.43`](77.239.124.43/) | SSH brute force (38), Port scanning (38) | 76 | 2026-11-15T10:57:50Z |
 | [`77.239.124.45`](77.239.124.45/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T03:20:03Z |
 | [`77.239.124.46`](77.239.124.46/) | SSH brute force (22) | 22 | 2026-11-10T09:49:09Z |
 | [`77.239.124.47`](77.239.124.47/) | Port scanning (26), SSH brute force (11), Known botnet / C2 infrastructure (1) | 39 | 2026-11-12T22:10:36Z |
@@ -29,8 +30,8 @@
 | [`77.239.124.101`](77.239.124.101/) | Port scanning (1) | 1 | 2026-11-12T19:01:22Z |
 | [`77.239.124.112`](77.239.124.112/) | Port scanning (46), Known botnet / C2 infrastructure (3) | 52 | 2026-11-14T02:10:55Z |
 | [`77.239.124.115`](77.239.124.115/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-12T14:09:20Z |
-| [`77.239.124.121`](77.239.124.121/) | Port scanning (82), Known botnet / C2 infrastructure (10) | 94 | 2026-11-15T09:00:05Z |
-| [`77.239.124.130`](77.239.124.130/) | Port scanning (214), Known botnet / C2 infrastructure (14) | 245 | 2026-11-15T10:51:45Z |
+| [`77.239.124.121`](77.239.124.121/) | Port scanning (83), Known botnet / C2 infrastructure (10) | 95 | 2026-11-15T12:14:56Z |
+| [`77.239.124.130`](77.239.124.130/) | Port scanning (218), Known botnet / C2 infrastructure (14) | 249 | 2026-11-15T11:54:47Z |
 | [`77.239.124.135`](77.239.124.135/) | Port scanning (130), Known botnet / C2 infrastructure (15) | 148 | 2026-11-15T09:59:23Z |
 | [`77.239.124.137`](77.239.124.137/) | Port scanning (63) | 71 | 2026-11-13T09:37:26Z |
 | [`77.239.124.139`](77.239.124.139/) | Port scanning (82), Known botnet / C2 infrastructure (3) | 92 | 2026-11-14T21:56:54Z |
@@ -49,7 +50,7 @@
 | [`77.239.124.171`](77.239.124.171/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 5 | 2026-11-12T15:00:06Z |
 | [`77.239.124.173`](77.239.124.173/) | Port scanning (80), Known botnet / C2 infrastructure (5) | 92 | 2026-11-14T02:55:14Z |
 | [`77.239.124.175`](77.239.124.175/) | Port scanning (49), Known botnet / C2 infrastructure (3) | 55 | 2026-11-14T21:56:54Z |
-| [`77.239.124.177`](77.239.124.177/) | Port scanning (115), Known botnet / C2 infrastructure (13) | 129 | 2026-11-15T11:07:48Z |
+| [`77.239.124.177`](77.239.124.177/) | Port scanning (116), Known botnet / C2 infrastructure (14) | 131 | 2026-11-15T12:08:07Z |
 | [`77.239.124.178`](77.239.124.178/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 10 | 2026-11-12T13:17:51Z |
 | [`77.239.124.252`](77.239.124.252/) | Port scanning (19), Known botnet / C2 infrastructure (2) | 26 | 2026-11-14T21:39:28Z |
 

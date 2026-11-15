@@ -7,10 +7,10 @@
 | IP | `196.189.236.67` |
 | Country | Ethiopia (ET) |
 | ASN | AS24757 · EthioNet |
-| Activity | Port scanning (23), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (2) |
-| Events | 32 |
+| Activity | Port scanning (27), Known botnet / C2 infrastructure (7), Web injection payload blocked by WAF (2) |
+| Events | 37 |
 | First seen (UTC) | 2026-11-11T14:23:56Z |
-| Last seen (UTC) | 2026-11-14T15:49:27Z |
+| Last seen (UTC) | 2026-11-15T11:41:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

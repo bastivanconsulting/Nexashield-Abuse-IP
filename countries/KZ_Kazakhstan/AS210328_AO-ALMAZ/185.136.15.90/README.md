@@ -7,10 +7,10 @@
 | IP | `185.136.15.90` |
 | Country | Kazakhstan (KZ) |
 | ASN | AS210328 · AO ALMAZ |
-| Activity | Port scanning (127) |
-| Events | 145 |
+| Activity | Port scanning (130) |
+| Events | 149 |
 | First seen (UTC) | 2026-11-11T16:56:55Z |
-| Last seen (UTC) | 2026-11-15T11:06:18Z |
+| Last seen (UTC) | 2026-11-15T11:43:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

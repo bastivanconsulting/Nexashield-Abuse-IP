@@ -7,10 +7,10 @@
 | IP | `195.182.16.183` |
 | Country | Germany (DE) |
 | ASN | AS206264 · Amarutu Technology Ltd |
-| Activity | Port scanning (82) |
-| Events | 82 |
+| Activity | Port scanning (106) |
+| Events | 106 |
 | First seen (UTC) | 2026-11-15T11:25:36Z |
-| Last seen (UTC) | 2026-11-15T11:34:22Z |
+| Last seen (UTC) | 2026-11-15T11:39:48Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:54Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

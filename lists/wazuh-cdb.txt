@@ -886,6 +886,7 @@
 35.206.140.186:nexashield
 35.206.141.112:nexashield
 35.206.141.162:nexashield
+35.206.146.107:nexashield
 35.206.146.231:nexashield
 35.206.149.166:nexashield
 35.206.150.95:nexashield
@@ -911,6 +912,7 @@
 35.206.173.187:nexashield
 35.206.174.128:nexashield
 35.206.176.4:nexashield
+35.206.176.149:nexashield
 35.206.176.162:nexashield
 35.206.177.22:nexashield
 35.206.177.26:nexashield
@@ -1049,6 +1051,7 @@
 35.210.164.173:nexashield
 35.210.167.3:nexashield
 35.210.171.238:nexashield
+35.210.173.86:nexashield
 35.210.173.193:nexashield
 35.210.174.30:nexashield
 35.210.174.150:nexashield
@@ -1596,6 +1599,7 @@
 47.89.241.203:nexashield
 47.94.163.124:nexashield
 47.120.30.67:nexashield
+47.237.207.205:nexashield
 47.245.54.87:nexashield
 47.245.129.141:nexashield
 47.251.84.56:nexashield
@@ -2054,6 +2058,7 @@
 77.239.124.40:nexashield
 77.239.124.41:nexashield
 77.239.124.42:nexashield
+77.239.124.43:nexashield
 77.239.124.45:nexashield
 77.239.124.46:nexashield
 77.239.124.47:nexashield
@@ -2623,6 +2628,7 @@
 92.118.39.50:nexashield
 92.118.39.63:nexashield
 92.118.39.64:nexashield
+92.118.39.65:nexashield
 92.118.39.71:nexashield
 92.118.39.75:nexashield
 92.118.39.77:nexashield
@@ -2887,6 +2893,7 @@
 109.160.32.141:nexashield
 109.160.32.142:nexashield
 109.160.32.153:nexashield
+109.160.32.168:nexashield
 109.160.32.170:nexashield
 109.160.32.175:nexashield
 110.35.12.5:nexashield
@@ -3484,6 +3491,7 @@
 172.180.64.131:nexashield
 172.190.114.167:nexashield
 172.202.106.160:nexashield
+172.202.114.158:nexashield
 172.202.114.239:nexashield
 172.202.114.251:nexashield
 172.202.115.25:nexashield
@@ -3724,6 +3732,7 @@
 185.226.197.49:nexashield
 185.226.197.57:nexashield
 185.226.197.64:nexashield
+185.226.197.68:nexashield
 185.226.197.69:nexashield
 185.226.197.82:nexashield
 185.226.198.4:nexashield
@@ -4353,6 +4362,7 @@
 222.186.13.130:nexashield
 222.210.35.197:nexashield
 222.222.210.183:nexashield
+223.123.34.161:nexashield
 "2400:8d60:8::96b0:ddfd":nexashield
 "2602:fa59:10:14c::1":nexashield
 "2a02:c207:2319:3820::1":nexashield
