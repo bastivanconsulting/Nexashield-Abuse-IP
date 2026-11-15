@@ -7,10 +7,10 @@
 | IP | `94.26.88.52` |
 | Country | United Kingdom (GB) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | Port scanning (42), Exploitation attempt (CVE / RCE / injection) (9), Known botnet / C2 infrastructure (1) |
-| Events | 53 |
+| Activity | Port scanning (43), Exploitation attempt (CVE / RCE / injection) (10), Known botnet / C2 infrastructure (1) |
+| Events | 55 |
 | First seen (UTC) | 2026-11-11T10:17:40Z |
-| Last seen (UTC) | 2026-11-15T06:11:12Z |
+| Last seen (UTC) | 2026-11-15T08:32:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

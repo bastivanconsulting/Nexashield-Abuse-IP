@@ -6,11 +6,11 @@
   "asn_org": "CariNet, Inc.",
   "categories": {
     "web": 3,
-    "scan": 194,
+    "scan": 198,
     "c2": 12
   },
-  "events": 237,
+  "events": 242,
   "first_seen": "2026-11-10T10:04:13Z",
-  "last_seen": "2026-11-15T08:16:03Z",
+  "last_seen": "2026-11-15T08:36:53Z",
   "reported": "not reported (permanent ban)"
 }

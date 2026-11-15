@@ -1,0 +1,15 @@
+{
+  "ip": "182.52.90.208",
+  "country_code": "TH",
+  "country": "Thailand",
+  "asn": 23969,
+  "asn_org": "TOT Public Company Limited",
+  "categories": {
+    "scan": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T04:26:35Z",
+  "last_seen": "2026-11-15T08:57:03Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.204.146.31`](45.204.146.31/) | Port scanning (54), Abusive HTTP requests (1) | 64 | 2026-11-15T06:45:21Z |
+| [`45.204.146.31`](45.204.146.31/) | Port scanning (56), Abusive HTTP requests (1) | 66 | 2026-11-15T09:06:19Z |
 | [`45.204.146.203`](45.204.146.203/) | Port scanning (39) | 53 | 2026-11-15T08:01:09Z |
 
 ---

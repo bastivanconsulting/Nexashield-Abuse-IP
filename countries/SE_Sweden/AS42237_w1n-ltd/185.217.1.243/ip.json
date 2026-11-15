@@ -5,10 +5,10 @@
   "asn": 42237,
   "asn_org": "w1n ltd",
   "categories": {
-    "scan": 9
+    "scan": 10
   },
-  "events": 14,
+  "events": 15,
   "first_seen": "2026-11-13T06:37:36Z",
-  "last_seen": "2026-11-15T06:32:12Z",
+  "last_seen": "2026-11-15T08:29:53Z",
   "reported": "not reported (permanent ban)"
 }

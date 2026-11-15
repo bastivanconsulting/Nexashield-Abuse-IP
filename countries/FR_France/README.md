@@ -4,17 +4,17 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (4238), Known botnet / C2 infrastructure (850), Exploitation attempt (CVE / RCE / injection) (8), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 48 | Port scanning (1138), SSH brute force (451), Known botnet / C2 infrastructure (96) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 18 | Port scanning (462), Known botnet / C2 infrastructure (57), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (4240), Known botnet / C2 infrastructure (851), Exploitation attempt (CVE / RCE / injection) (8), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 48 | Port scanning (1145), SSH brute force (451), Known botnet / C2 infrastructure (96) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 18 | Port scanning (468), Known botnet / C2 infrastructure (57), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 7 | Abusive HTTP requests (678), Port scanning (109), Web injection payload blocked by WAF (40), Known botnet / C2 infrastructure (13) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (160), Known botnet / C2 infrastructure (10) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (162), Known botnet / C2 infrastructure (11) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (131), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (46), Abusive HTTP requests (19), Known botnet / C2 infrastructure (7) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 2 | Port scanning (11), SSH brute force (8), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (32), Known botnet / C2 infrastructure (2) |
 | [AS12322](AS12322_Free-SAS/) | Free SAS | 1 | Port scanning (5), Known botnet / C2 infrastructure (4) |
-| [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (37) |
+| [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (38) |
 | [AS211273](AS211273_Cloud-Software-FZCO/) | Cloud Software - FZCO | 1 | Port scanning (14) |
 | [AS215381](AS215381_ROCKHOSTER-PRIVATE-LIMITED/) | ROCKHOSTER PRIVATE LIMITED | 1 | Port scanning (18) |
 | [AS29066](AS29066_velia-net-Internetdienste-GmbH/) | velia.net Internetdienste GmbH | 1 | SSH brute force (87) |

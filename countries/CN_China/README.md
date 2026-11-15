@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4134](AS4134_Chinanet/) | Chinanet | 9 | Port scanning (360), Known botnet / C2 infrastructure (19), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 9 | Port scanning (361), Known botnet / C2 infrastructure (19), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 6 | Port scanning (72), Known botnet / C2 infrastructure (40) |
 | [AS136958](AS136958_China-Unicom-Guangdong-IP-network/) | China Unicom Guangdong IP network | 5 | Port scanning (49) |
 | [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 4 | Port scanning (29), SSH brute force (7), Known botnet / C2 infrastructure (7) |
@@ -22,7 +22,7 @@
 | [AS38283](AS38283_CHINANET-SiChuan-Telecom-Internet-Data-Center/) | CHINANET SiChuan Telecom Internet Data Center | 1 | SSH brute force (342) |
 | [AS4812](AS4812_China-Telecom-Group/) | China Telecom (Group) | 1 | Port scanning (24), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) |
 | [AS55990](AS55990_Huawei-Cloud-Service-data-center/) | Huawei Cloud Service data center | 1 | Port scanning (7), Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS56041](AS56041_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Port scanning (18) |
+| [AS56041](AS56041_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Port scanning (19) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
