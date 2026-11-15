@@ -7,10 +7,10 @@
 | IP | `138.226.239.233` |
 | Country | The Netherlands (NL) |
 | ASN | AS44589 · DIGITAL NETWORK S.R.L. |
-| Activity | Port scanning (973), SSH brute force (52), Known botnet / C2 infrastructure (10) |
-| Events | 1072 |
+| Activity | Port scanning (1000), SSH brute force (60), Known botnet / C2 infrastructure (10) |
+| Events | 1108 |
 | First seen (UTC) | 2026-11-11T21:38:13Z |
-| Last seen (UTC) | 2026-11-15T14:05:19Z |
+| Last seen (UTC) | 2026-11-15T15:08:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

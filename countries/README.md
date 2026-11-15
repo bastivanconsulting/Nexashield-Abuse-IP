@@ -30,10 +30,10 @@
 | [🇮🇩 Indonesia](ID_Indonesia/) | 10 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
 | [🇮🇱 Israel](IL_Israel/) | 8 |
-| [🇮🇳 India](IN_India/) | 9 |
+| [🇮🇳 India](IN_India/) | 10 |
 | [🇮🇷 Iran](IR_Iran/) | 1 |
 | [🇮🇹 Italy](IT_Italy/) | 20 |
-| [🇯🇵 Japan](JP_Japan/) | 21 |
+| [🇯🇵 Japan](JP_Japan/) | 22 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 17 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 9 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 6 |
@@ -42,7 +42,7 @@
 | [🇲🇽 Mexico](MX_Mexico/) | 2 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 2 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 8 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 417 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 419 |
 | [🇳🇴 Norway](NO_Norway/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 3 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 8 |
@@ -62,5 +62,5 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 2 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 7 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1710 |
+| [🇺🇸 United States](US_United-States/) | 1715 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 10 |
