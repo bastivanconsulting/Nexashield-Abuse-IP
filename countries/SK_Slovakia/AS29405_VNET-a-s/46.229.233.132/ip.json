@@ -5,11 +5,11 @@
   "asn": 29405,
   "asn_org": "VNET a.s.",
   "categories": {
-    "scan": 63,
+    "scan": 65,
     "c2": 10
   },
-  "events": 77,
+  "events": 79,
   "first_seen": "2026-11-11T09:57:22Z",
-  "last_seen": "2026-11-15T08:21:42Z",
+  "last_seen": "2026-11-15T09:41:31Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `118.113.15.190` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (14) |
-| Events | 22 |
+| Activity | Port scanning (15) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-11T11:16:10Z |
-| Last seen (UTC) | 2026-11-15T05:02:46Z |
+| Last seen (UTC) | 2026-11-15T09:36:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

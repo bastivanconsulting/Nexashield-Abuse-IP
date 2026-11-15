@@ -1,0 +1,14 @@
+{
+  "ip": "189.168.143.230",
+  "country_code": "MX",
+  "country": "Mexico",
+  "asn": 8151,
+  "asn_org": "Uninet S.A. de C.V.",
+  "categories": {
+    "scan": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-15T10:16:48Z",
+  "last_seen": "2026-11-15T10:17:03Z",
+  "reported": "not reported (permanent ban)"
+}

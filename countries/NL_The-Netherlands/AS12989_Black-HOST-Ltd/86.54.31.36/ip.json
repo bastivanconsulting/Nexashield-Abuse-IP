@@ -5,11 +5,11 @@
   "asn": 12989,
   "asn_org": "Black HOST Ltd",
   "categories": {
-    "scan": 222,
+    "scan": 224,
     "c2": 16
   },
-  "events": 251,
+  "events": 253,
   "first_seen": "2026-11-11T09:42:35Z",
-  "last_seen": "2026-11-15T09:14:06Z",
+  "last_seen": "2026-11-15T10:13:45Z",
   "reported": "not reported (permanent ban)"
 }

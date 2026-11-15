@@ -7,10 +7,10 @@
 | IP | `45.135.194.31` |
 | Country | Germany (DE) |
 | ASN | AS51396 · Pfcloud UG (haftungsbeschrankt) |
-| Activity | Port scanning (42) |
-| Events | 43 |
+| Activity | Port scanning (44) |
+| Events | 45 |
 | First seen (UTC) | 2026-11-11T20:19:47Z |
-| Last seen (UTC) | 2026-11-15T09:09:44Z |
+| Last seen (UTC) | 2026-11-15T09:39:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

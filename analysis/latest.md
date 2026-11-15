@@ -1,5 +1,5 @@
-Le dépôt recense 176673 événements répartis sur 4274 adresses IP provenant de 62 pays et 368 réseaux ASN, avec une dernière activité observée le 2026-11-15. Les principales origines géographiques incluent les États-Unis avec 1651 adresses, le Royaume-Uni avec 809 et les Pays-Bas avec 407. Parmi les réseaux les plus représentés figurent AS25369 (Hydra Communications Ltd) avec 797 adresses et AS8075 (Microsoft Corporation) avec 571.
+Sur la période observée, le dépôt recense 184267 événements générés par 4347 adresses IP réparties sur 62 pays et 372 réseaux ASN, avec une dernière activité enregistrée le 2026-11-15. Les activités dominantes concernent le balayage de ports (4092) et les infrastructures botnet / C2 connues (2901). Les principaux pays sources incluent les États-Unis (1697), le Royaume-Uni (813) et les Pays-Bas (413).
 
-- Les événements de balayage de ports représentent 4026 occurrences, suivis par les infrastructures botnet/C2 connues avec 2830 cas
-- Les requêtes HTTP abusives (212) et les exploitations (CVE, RCE, injection) (210) complètent les principales catégories observées
-- La force brute SSH compte 132 événements, tandis que les charges d'injection bloquées par le WAF atteignent 75 cas
+- Les principaux réseaux ASN impliqués sont AS25369 Hydra Communications Ltd (802), AS8075 Microsoft Corporation (587) et AS396982 Google LLC (386)
+- Les tentatives d'exploitation (CVE, RCE, injection) atteignent 217 événements, accompagnées de 215 requêtes HTTP abusives
+- On relève également 133 cas de force brute SSH, 76 charges d'injection bloquées par le WAF et 33 réseaux listés Spamhaus DROP

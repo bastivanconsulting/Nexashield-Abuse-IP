@@ -1,15 +1,16 @@
 # AS21859 · Zenlayer Inc
 
-🇳🇱 The Netherlands · **16** malicious IP(s)
+🇳🇱 The Netherlands · **17** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`185.226.197.7`](185.226.197.7/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T22:22:04Z |
 | [`185.226.197.8`](185.226.197.8/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-15T00:07:42Z |
+| [`185.226.197.9`](185.226.197.9/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T10:07:03Z |
 | [`185.226.197.12`](185.226.197.12/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 9 | 2026-11-15T00:18:03Z |
 | [`185.226.197.27`](185.226.197.27/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 37 | 2026-11-15T02:22:18Z |
 | [`185.226.197.28`](185.226.197.28/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-15T03:35:38Z |
-| [`185.226.197.30`](185.226.197.30/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 12 | 2026-11-14T23:54:11Z |
+| [`185.226.197.30`](185.226.197.30/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 14 | 2026-11-15T10:04:59Z |
 | [`185.226.197.35`](185.226.197.35/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T02:14:44Z |
 | [`185.226.197.38`](185.226.197.38/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-14T23:24:31Z |
 | [`185.226.197.40`](185.226.197.40/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-14T22:48:02Z |

@@ -5,11 +5,11 @@
   "asn": 140832,
   "asn_org": "Vietnam F Tech., JSC",
   "categories": {
-    "scan": 23,
-    "c2": 8
+    "scan": 24,
+    "c2": 9
   },
-  "events": 32,
+  "events": 34,
   "first_seen": "2026-11-11T09:47:12Z",
-  "last_seen": "2026-11-15T03:56:43Z",
+  "last_seen": "2026-11-15T10:02:57Z",
   "reported": "not reported (permanent ban)"
 }
