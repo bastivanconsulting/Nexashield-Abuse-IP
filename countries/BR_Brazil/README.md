@@ -4,10 +4,10 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (619), Known botnet / C2 infrastructure (42), Exploitation attempt (CVE / RCE / injection) (36) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (623), Known botnet / C2 infrastructure (42), Exploitation attempt (CVE / RCE / injection) (36) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | Port scanning (9), Known botnet / C2 infrastructure (7) |
-| [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (26), Known botnet / C2 infrastructure (5) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 1 | Port scanning (199) |
+| [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (27), Known botnet / C2 infrastructure (5) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 1 | Port scanning (202) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (17) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (15), Known botnet / C2 infrastructure (3) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (77) |

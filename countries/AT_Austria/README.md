@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS1764](AS1764_Next-Layer-Telekommunikationsdienstleistungs-und/) | Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH | 1 | Port scanning (822) |
+| [AS1764](AS1764_Next-Layer-Telekommunikationsdienstleistungs-und/) | Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH | 1 | Port scanning (832) |
 | [AS197540](AS197540_netcup-GmbH/) | netcup GmbH | 1 | Port scanning (14) |
 
 ---
