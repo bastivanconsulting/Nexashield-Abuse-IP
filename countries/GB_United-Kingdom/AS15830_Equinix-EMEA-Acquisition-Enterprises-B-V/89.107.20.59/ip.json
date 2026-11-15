@@ -5,10 +5,10 @@
   "asn": 15830,
   "asn_org": "Equinix (EMEA) Acquisition Enterprises B.V.",
   "categories": {
-    "scan": 12
+    "scan": 13
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-11T17:10:21Z",
-  "last_seen": "2026-11-15T10:29:24Z",
+  "last_seen": "2026-11-15T18:25:02Z",
   "reported": "not reported (permanent ban)"
 }

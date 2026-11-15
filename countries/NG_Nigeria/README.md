@@ -1,10 +1,10 @@
 # 🇳🇬 Nigeria
 
-**10** malicious IP(s) across **2** network(s).
+**11** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 9 | Port scanning (113), Known botnet / C2 infrastructure (43) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 10 | Port scanning (119), Known botnet / C2 infrastructure (46) |
 | [AS37540](AS37540_Winrock-Nigeria-Limited/) | Winrock Nigeria Limited | 1 | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (2) |
 
 ---

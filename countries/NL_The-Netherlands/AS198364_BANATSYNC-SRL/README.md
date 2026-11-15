@@ -7,7 +7,7 @@
 | [`109.160.32.34`](109.160.32.34/) | Port scanning (82), SSH brute force (31) | 113 | 2026-11-15T00:39:39Z |
 | [`109.160.32.37`](109.160.32.37/) | Port scanning (42), Known botnet / C2 infrastructure (2) | 45 | 2026-11-14T21:56:54Z |
 | [`109.160.32.47`](109.160.32.47/) | Port scanning (53), SSH brute force (16), Spamhaus DROP-listed network (2) | 71 | 2026-11-14T10:24:25Z |
-| [`109.160.32.108`](109.160.32.108/) | Port scanning (22), SSH brute force (12) | 34 | 2026-11-15T18:34:24Z |
+| [`109.160.32.108`](109.160.32.108/) | Port scanning (82), SSH brute force (24) | 106 | 2026-11-15T19:34:35Z |
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23) | 73 | 2026-11-14T13:58:42Z |
 | [`109.160.32.124`](109.160.32.124/) | Port scanning (64), SSH brute force (23) | 87 | 2026-11-14T10:31:09Z |
 | [`109.160.32.129`](109.160.32.129/) | Port scanning (38), SSH brute force (18), Spamhaus DROP-listed network (2) | 58 | 2026-11-12T19:08:04Z |

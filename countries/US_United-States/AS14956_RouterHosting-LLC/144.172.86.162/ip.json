@@ -1,0 +1,14 @@
+{
+  "ip": "144.172.86.162",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14956,
+  "asn_org": "RouterHosting LLC",
+  "categories": {
+    "waf": 275
+  },
+  "events": 278,
+  "first_seen": "2026-11-15T19:02:27Z",
+  "last_seen": "2026-11-15T19:03:04Z",
+  "reported": "not reported (permanent ban)"
+}

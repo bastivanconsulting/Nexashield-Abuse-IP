@@ -6,11 +6,11 @@
   "asn_org": "Blix Solutions AS",
   "categories": {
     "web": 2,
-    "scan": 110,
+    "scan": 111,
     "c2": 13
   },
-  "events": 136,
+  "events": 137,
   "first_seen": "2026-11-10T13:16:58Z",
-  "last_seen": "2026-11-15T13:57:36Z",
+  "last_seen": "2026-11-15T19:11:49Z",
   "reported": "not reported (permanent ban)"
 }

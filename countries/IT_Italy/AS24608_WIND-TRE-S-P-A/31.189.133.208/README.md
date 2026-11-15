@@ -7,10 +7,10 @@
 | IP | `31.189.133.208` |
 | Country | Italy (IT) |
 | ASN | AS24608 · WIND TRE S.P.A. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-12T09:11:19Z |
-| Last seen (UTC) | 2026-11-15T00:34:03Z |
+| Last seen (UTC) | 2026-11-15T18:41:50Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

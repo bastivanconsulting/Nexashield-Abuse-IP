@@ -1,0 +1,15 @@
+{
+  "ip": "62.60.134.132",
+  "country_code": "BG",
+  "country": "Bulgaria",
+  "asn": 209425,
+  "asn_org": "KOI CLOUD SERVICES (Pty) Ltd",
+  "categories": {
+    "scan": 30,
+    "c2": 2
+  },
+  "events": 32,
+  "first_seen": "2026-11-14T11:11:20Z",
+  "last_seen": "2026-11-15T18:24:58Z",
+  "reported": "not reported (permanent ban)"
+}
