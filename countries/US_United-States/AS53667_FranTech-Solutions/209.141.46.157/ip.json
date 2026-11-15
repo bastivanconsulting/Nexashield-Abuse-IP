@@ -1,0 +1,15 @@
+{
+  "ip": "209.141.46.157",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 53667,
+  "asn_org": "FranTech Solutions",
+  "categories": {
+    "scan": 30,
+    "c2": 3
+  },
+  "events": 34,
+  "first_seen": "2026-11-11T10:37:56Z",
+  "last_seen": "2026-11-12T03:50:30Z",
+  "reported": "not reported (permanent ban)"
+}

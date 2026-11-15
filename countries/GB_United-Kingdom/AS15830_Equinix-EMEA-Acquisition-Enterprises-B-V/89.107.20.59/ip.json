@@ -1,0 +1,14 @@
+{
+  "ip": "89.107.20.59",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 15830,
+  "asn_org": "Equinix (EMEA) Acquisition Enterprises B.V.",
+  "categories": {
+    "scan": 11
+  },
+  "events": 17,
+  "first_seen": "2026-11-11T17:10:21Z",
+  "last_seen": "2026-11-14T16:37:34Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "74.243.250.30",
+  "country_code": "AE",
+  "country": "United Arab Emirates",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "web": 8,
+    "c2": 2
+  },
+  "events": 10,
+  "first_seen": "2026-11-13T22:53:31Z",
+  "last_seen": "2026-11-14T18:45:31Z",
+  "reported": "not reported (permanent ban)"
+}

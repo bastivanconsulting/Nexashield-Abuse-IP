@@ -1,0 +1,14 @@
+{
+  "ip": "185.242.3.210",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 401626,
+  "asn_org": "Netiface America, Inc.",
+  "categories": {
+    "scan": 23
+  },
+  "events": 24,
+  "first_seen": "2026-11-11T18:13:55Z",
+  "last_seen": "2026-11-14T23:56:31Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,14 +1,42 @@
 # AS50360 · Tamatiya EOOD
 
-🇧🇬 Bulgaria · **5** malicious IP(s)
+🇧🇬 Bulgaria · **33** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`78.128.114.46`](78.128.114.46/) | Port scanning (8) | 8 | 2026-11-14T23:23:46Z |
+| [`78.128.114.166`](78.128.114.166/) | Port scanning (24), Known botnet / C2 infrastructure (5) | 30 | 2026-11-14T21:31:21Z |
 | [`78.128.114.174`](78.128.114.174/) | Port scanning (52) | 52 | 2026-11-14T16:03:24Z |
+| [`79.124.40.114`](79.124.40.114/) | Port scanning (237), Known botnet / C2 infrastructure (13) | 265 | 2026-11-14T23:59:19Z |
+| [`79.124.40.142`](79.124.40.142/) | Port scanning (31), Known botnet / C2 infrastructure (7) | 44 | 2026-11-14T18:41:02Z |
+| [`79.124.40.150`](79.124.40.150/) | Port scanning (216), Known botnet / C2 infrastructure (13) | 249 | 2026-11-14T23:53:37Z |
+| [`79.124.40.158`](79.124.40.158/) | Port scanning (232), Known botnet / C2 infrastructure (13) | 262 | 2026-11-15T00:09:15Z |
+| [`79.124.40.170`](79.124.40.170/) | Port scanning (232), Known botnet / C2 infrastructure (13) | 255 | 2026-11-15T00:16:31Z |
+| [`79.124.40.186`](79.124.40.186/) | Port scanning (122) | 139 | 2026-11-14T23:49:19Z |
+| [`79.124.49.62`](79.124.49.62/) | Port scanning (15), Known botnet / C2 infrastructure (5) | 24 | 2026-11-14T21:36:40Z |
+| [`79.124.49.146`](79.124.49.146/) | Port scanning (13), Known botnet / C2 infrastructure (5) | 22 | 2026-11-13T23:06:14Z |
+| [`79.124.56.222`](79.124.56.222/) | Port scanning (229), Known botnet / C2 infrastructure (12) | 258 | 2026-11-14T23:57:32Z |
+| [`79.124.56.254`](79.124.56.254/) | Port scanning (226), Known botnet / C2 infrastructure (12) | 257 | 2026-11-14T23:42:44Z |
 | [`79.124.58.22`](79.124.58.22/) | Abusive HTTP requests (36) | 36 | 2026-11-10T02:43:24Z |
+| [`79.124.58.70`](79.124.58.70/) | Port scanning (203) | 234 | 2026-11-15T00:11:23Z |
+| [`79.124.58.74`](79.124.58.74/) | Port scanning (201) | 222 | 2026-11-15T00:15:56Z |
 | [`79.124.58.82`](79.124.58.82/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-11T20:34:21Z |
+| [`79.124.58.98`](79.124.58.98/) | Port scanning (204) | 237 | 2026-11-15T00:12:24Z |
+| [`79.124.58.102`](79.124.58.102/) | Port scanning (192) | 223 | 2026-11-15T00:07:09Z |
+| [`79.124.58.106`](79.124.58.106/) | Port scanning (190) | 215 | 2026-11-15T00:04:39Z |
+| [`79.124.58.110`](79.124.58.110/) | Port scanning (198) | 232 | 2026-11-15T00:04:33Z |
+| [`79.124.58.134`](79.124.58.134/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 15 | 2026-11-14T16:16:57Z |
+| [`79.124.58.194`](79.124.58.194/) | Port scanning (27) | 34 | 2026-11-14T21:56:40Z |
+| [`79.124.58.218`](79.124.58.218/) | Port scanning (65), Known botnet / C2 infrastructure (2) | 69 | 2026-11-12T06:31:08Z |
+| [`79.124.58.250`](79.124.58.250/) | Port scanning (193) | 222 | 2026-11-14T23:57:10Z |
+| [`79.124.59.10`](79.124.59.10/) | Port scanning (190) | 212 | 2026-11-15T00:17:30Z |
+| [`79.124.59.78`](79.124.59.78/) | Port scanning (285), Known botnet / C2 infrastructure (14) | 324 | 2026-11-15T00:15:58Z |
+| [`79.124.59.82`](79.124.59.82/) | Port scanning (142), Known botnet / C2 infrastructure (4) | 170 | 2026-11-14T23:55:53Z |
+| [`79.124.60.194`](79.124.60.194/) | Port scanning (86) | 99 | 2026-11-12T14:50:09Z |
 | [`79.124.60.218`](79.124.60.218/) | Port scanning (23) | 23 | 2026-11-12T10:44:03Z |
+| [`79.124.60.250`](79.124.60.250/) | Port scanning (200) | 227 | 2026-11-15T00:10:19Z |
+| [`91.148.190.72`](91.148.190.72/) | Port scanning (74) | 87 | 2026-11-14T23:32:51Z |
+| [`91.148.190.73`](91.148.190.73/) | Port scanning (33) | 40 | 2026-11-14T21:56:54Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,0 +1,15 @@
+{
+  "ip": "31.14.254.73",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 25369,
+  "asn_org": "Hydra Communications Ltd",
+  "categories": {
+    "scan": 17,
+    "c2": 5
+  },
+  "events": 26,
+  "first_seen": "2026-11-11T10:17:53Z",
+  "last_seen": "2026-11-14T19:13:16Z",
+  "reported": "not reported (permanent ban)"
+}

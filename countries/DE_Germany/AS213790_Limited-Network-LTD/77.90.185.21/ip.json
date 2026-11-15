@@ -1,0 +1,15 @@
+{
+  "ip": "77.90.185.21",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 213790,
+  "asn_org": "Limited Network LTD",
+  "categories": {
+    "scan": 42,
+    "c2": 7
+  },
+  "events": 65,
+  "first_seen": "2026-11-11T11:55:49Z",
+  "last_seen": "2026-11-14T17:33:18Z",
+  "reported": "not reported (permanent ban)"
+}

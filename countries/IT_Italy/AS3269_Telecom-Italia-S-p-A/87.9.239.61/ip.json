@@ -1,0 +1,15 @@
+{
+  "ip": "87.9.239.61",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 3269,
+  "asn_org": "Telecom Italia S.p.A.",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T11:29:18Z",
+  "last_seen": "2026-11-11T18:33:06Z",
+  "reported": "not reported (permanent ban)"
+}

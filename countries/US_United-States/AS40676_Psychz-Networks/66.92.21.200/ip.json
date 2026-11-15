@@ -1,0 +1,14 @@
+{
+  "ip": "66.92.21.200",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 40676,
+  "asn_org": "Psychz Networks",
+  "categories": {
+    "scan": 14
+  },
+  "events": 22,
+  "first_seen": "2026-11-11T10:01:19Z",
+  "last_seen": "2026-11-14T22:29:41Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "42.2.227.75",
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "asn": 4760,
+  "asn_org": "PCCW IMS Limited",
+  "categories": {
+    "exploit": 3,
+    "scan": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-11T14:38:56Z",
+  "last_seen": "2026-11-12T05:57:58Z",
+  "reported": "not reported (permanent ban)"
+}

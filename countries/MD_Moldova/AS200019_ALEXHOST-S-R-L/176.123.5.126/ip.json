@@ -1,0 +1,15 @@
+{
+  "ip": "176.123.5.126",
+  "country_code": "MD",
+  "country": "Moldova",
+  "asn": 200019,
+  "asn_org": "ALEXHOST S.R.L.",
+  "categories": {
+    "scan": 16,
+    "c2": 6
+  },
+  "events": 24,
+  "first_seen": "2026-11-12T05:53:11Z",
+  "last_seen": "2026-11-14T20:39:48Z",
+  "reported": "not reported (permanent ban)"
+}

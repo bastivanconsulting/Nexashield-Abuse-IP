@@ -1,0 +1,15 @@
+{
+  "ip": "45.86.202.216",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 206092,
+  "asn_org": "F.N.S. HOLDINGS LIMITED",
+  "categories": {
+    "exploit": 1,
+    "c2": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-12T23:42:20Z",
+  "last_seen": "2026-11-12T23:43:02Z",
+  "reported": "not reported (permanent ban)"
+}

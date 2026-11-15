@@ -1,0 +1,14 @@
+{
+  "ip": "151.115.167.246",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 12876,
+  "asn_org": "Scaleway SAS",
+  "categories": {
+    "scan": 57
+  },
+  "events": 66,
+  "first_seen": "2026-11-13T03:30:25Z",
+  "last_seen": "2026-11-14T23:47:09Z",
+  "reported": "not reported (permanent ban)"
+}

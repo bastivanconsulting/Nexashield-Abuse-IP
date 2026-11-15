@@ -1,0 +1,15 @@
+{
+  "ip": "204.76.203.40",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 51396,
+  "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+  "categories": {
+    "scan": 186,
+    "c2": 11
+  },
+  "events": 213,
+  "first_seen": "2026-11-11T09:49:56Z",
+  "last_seen": "2026-11-15T00:08:04Z",
+  "reported": "not reported (permanent ban)"
+}

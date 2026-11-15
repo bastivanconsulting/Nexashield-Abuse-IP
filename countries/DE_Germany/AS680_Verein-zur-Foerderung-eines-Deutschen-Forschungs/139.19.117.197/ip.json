@@ -1,0 +1,15 @@
+{
+  "ip": "139.19.117.197",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 680,
+  "asn_org": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+  "categories": {
+    "scan": 16,
+    "c2": 12
+  },
+  "events": 29,
+  "first_seen": "2026-11-11T12:50:11Z",
+  "last_seen": "2026-11-14T22:16:12Z",
+  "reported": "not reported (permanent ban)"
+}

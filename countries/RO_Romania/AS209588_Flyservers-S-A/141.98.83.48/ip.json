@@ -1,0 +1,15 @@
+{
+  "ip": "141.98.83.48",
+  "country_code": "RO",
+  "country": "Romania",
+  "asn": 209588,
+  "asn_org": "Flyservers S.A.",
+  "categories": {
+    "scan": 96,
+    "c2": 7
+  },
+  "events": 129,
+  "first_seen": "2026-11-11T09:46:40Z",
+  "last_seen": "2026-11-15T00:09:57Z",
+  "reported": "not reported (permanent ban)"
+}

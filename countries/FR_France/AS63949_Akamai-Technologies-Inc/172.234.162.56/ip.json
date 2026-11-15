@@ -1,0 +1,15 @@
+{
+  "ip": "172.234.162.56",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 19,
+    "c2": 2
+  },
+  "events": 23,
+  "first_seen": "2026-11-12T05:18:52Z",
+  "last_seen": "2026-11-14T11:02:35Z",
+  "reported": "not reported (permanent ban)"
+}

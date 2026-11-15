@@ -1,0 +1,15 @@
+{
+  "ip": "107.150.117.219",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 7,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-12T08:13:46Z",
+  "last_seen": "2026-11-14T01:20:56Z",
+  "reported": "not reported (permanent ban)"
+}

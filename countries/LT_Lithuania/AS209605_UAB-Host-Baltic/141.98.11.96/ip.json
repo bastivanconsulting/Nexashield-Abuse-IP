@@ -1,0 +1,14 @@
+{
+  "ip": "141.98.11.96",
+  "country_code": "LT",
+  "country": "Lithuania",
+  "asn": 209605,
+  "asn_org": "UAB Host Baltic",
+  "categories": {
+    "scan": 109
+  },
+  "events": 122,
+  "first_seen": "2026-11-11T09:49:51Z",
+  "last_seen": "2026-11-13T11:59:02Z",
+  "reported": "not reported (permanent ban)"
+}

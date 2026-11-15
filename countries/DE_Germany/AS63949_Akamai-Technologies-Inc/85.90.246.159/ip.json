@@ -1,0 +1,15 @@
+{
+  "ip": "85.90.246.159",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "waf": 2,
+    "scan": 15
+  },
+  "events": 21,
+  "first_seen": "2026-11-11T03:53:30Z",
+  "last_seen": "2026-11-14T21:56:54Z",
+  "reported": "not reported (permanent ban)"
+}

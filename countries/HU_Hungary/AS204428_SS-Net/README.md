@@ -1,11 +1,13 @@
 # AS204428 · SS-Net
 
-🇭🇺 Hungary · **2** malicious IP(s)
+🇭🇺 Hungary · **4** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`80.94.95.115`](80.94.95.115/) | Port scanning (277), SSH brute force (10) | 287 | 2026-11-15T00:41:29Z |
+| [`80.94.95.116`](80.94.95.116/) | Port scanning (296), Known botnet / C2 infrastructure (7), SSH brute force (4) | 331 | 2026-11-15T00:05:55Z |
 | [`80.94.95.211`](80.94.95.211/) | Abusive HTTP requests (10) | 10 | 2026-11-14T08:32:38Z |
+| [`80.94.95.245`](80.94.95.245/) | Port scanning (9) | 13 | 2026-11-14T23:42:03Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,0 +1,16 @@
+{
+  "ip": "111.227.78.3",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 4134,
+  "asn_org": "Chinanet",
+  "categories": {
+    "scan": 105,
+    "c2": 1,
+    "waf": 2
+  },
+  "events": 111,
+  "first_seen": "2026-11-12T19:37:51Z",
+  "last_seen": "2026-11-13T00:19:18Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "89.36.231.62",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 215381,
+  "asn_org": "ROCKHOSTER PRIVATE LIMITED",
+  "categories": {
+    "scan": 18
+  },
+  "events": 23,
+  "first_seen": "2026-11-11T10:15:36Z",
+  "last_seen": "2026-11-14T21:56:54Z",
+  "reported": "not reported (permanent ban)"
+}

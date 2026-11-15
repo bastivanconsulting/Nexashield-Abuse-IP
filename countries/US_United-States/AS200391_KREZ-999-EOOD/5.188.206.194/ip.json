@@ -1,0 +1,14 @@
+{
+  "ip": "5.188.206.194",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 200391,
+  "asn_org": "KREZ 999 EOOD",
+  "categories": {
+    "scan": 44
+  },
+  "events": 51,
+  "first_seen": "2026-11-13T15:19:05Z",
+  "last_seen": "2026-11-14T23:44:24Z",
+  "reported": "not reported (permanent ban)"
+}

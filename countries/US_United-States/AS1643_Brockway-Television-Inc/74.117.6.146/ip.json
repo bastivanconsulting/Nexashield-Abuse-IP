@@ -1,0 +1,14 @@
+{
+  "ip": "74.117.6.146",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 1643,
+  "asn_org": "Brockway Television Inc.",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 45,
+  "first_seen": "2026-11-11T18:00:12Z",
+  "last_seen": "2026-11-14T14:15:54Z",
+  "reported": "not reported (permanent ban)"
+}

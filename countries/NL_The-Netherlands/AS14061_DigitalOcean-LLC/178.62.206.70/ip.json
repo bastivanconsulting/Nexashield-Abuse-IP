@@ -1,0 +1,15 @@
+{
+  "ip": "178.62.206.70",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 5,
+    "c2": 4
+  },
+  "events": 10,
+  "first_seen": "2026-11-11T14:13:57Z",
+  "last_seen": "2026-11-14T15:17:36Z",
+  "reported": "not reported (permanent ban)"
+}

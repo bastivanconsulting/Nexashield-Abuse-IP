@@ -1,0 +1,15 @@
+{
+  "ip": "216.25.90.5",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "scan": 21,
+    "c2": 5
+  },
+  "events": 27,
+  "first_seen": "2026-11-11T20:27:59Z",
+  "last_seen": "2026-11-14T23:23:36Z",
+  "reported": "not reported (permanent ban)"
+}

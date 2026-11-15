@@ -1,0 +1,15 @@
+{
+  "ip": "185.180.141.52",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 21859,
+  "asn_org": "Zenlayer Inc",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-12T16:49:37Z",
+  "last_seen": "2026-11-14T22:41:03Z",
+  "reported": "not reported (permanent ban)"
+}

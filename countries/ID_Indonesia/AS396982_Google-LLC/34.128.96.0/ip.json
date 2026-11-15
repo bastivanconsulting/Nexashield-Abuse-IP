@@ -1,0 +1,14 @@
+{
+  "ip": "34.128.96.0",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "scan": 13
+  },
+  "events": 19,
+  "first_seen": "2026-11-13T07:38:25Z",
+  "last_seen": "2026-11-14T23:02:19Z",
+  "reported": "not reported (permanent ban)"
+}

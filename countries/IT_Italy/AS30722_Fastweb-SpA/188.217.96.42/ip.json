@@ -1,0 +1,15 @@
+{
+  "ip": "188.217.96.42",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 30722,
+  "asn_org": "Fastweb SpA",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-11T13:55:33Z",
+  "last_seen": "2026-11-12T03:58:15Z",
+  "reported": "not reported (permanent ban)"
+}

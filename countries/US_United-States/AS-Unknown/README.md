@@ -1,10 +1,11 @@
 # AS? · Unknown
 
-🇺🇸 United States · **2** malicious IP(s)
+🇺🇸 United States · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`201.79.125.55`](201.79.125.55/) | Abusive HTTP requests (24) | 24 | 2026-11-11T19:53:21Z |
+| [`201.79.140.45`](201.79.140.45/) | Port scanning (52), Known botnet / C2 infrastructure (7) | 61 | 2026-11-14T06:11:15Z |
 | [`201.79.157.180`](201.79.157.180/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T06:11:00Z |
 
 ---

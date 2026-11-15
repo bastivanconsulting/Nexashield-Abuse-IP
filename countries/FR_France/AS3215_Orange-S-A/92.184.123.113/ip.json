@@ -1,0 +1,16 @@
+{
+  "ip": "92.184.123.113",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 3215,
+  "asn_org": "Orange S.A.",
+  "categories": {
+    "waf": 705,
+    "web": 19,
+    "scan": 25
+  },
+  "events": 754,
+  "first_seen": "2026-11-10T15:32:22Z",
+  "last_seen": "2026-11-11T09:56:39Z",
+  "reported": "not reported (permanent ban)"
+}

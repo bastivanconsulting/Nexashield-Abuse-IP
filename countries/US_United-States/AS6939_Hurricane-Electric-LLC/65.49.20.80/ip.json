@@ -1,0 +1,15 @@
+{
+  "ip": "65.49.20.80",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 6939,
+  "asn_org": "Hurricane Electric LLC",
+  "categories": {
+    "scan": 13,
+    "c2": 5
+  },
+  "events": 19,
+  "first_seen": "2026-11-11T11:42:41Z",
+  "last_seen": "2026-11-14T14:18:48Z",
+  "reported": "not reported (permanent ban)"
+}

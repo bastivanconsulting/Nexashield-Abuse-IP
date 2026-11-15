@@ -1,5 +1,5 @@
 # NexaShield permanent ban list - generated 2026-11-15 - https://github.com/bastivanconsulting/Nexashield-Abuse-IP
-# 3902 entries (3860 IPs, 42 CIDR ranges). Addresses permanently banned by NexaShield on Bastivan Consulting infrastructure.
+# 3904 entries (3862 IPs, 42 CIDR ranges). Addresses permanently banned by NexaShield on Bastivan Consulting infrastructure.
 2.57.17.11
 2.57.17.12
 2.57.17.23
@@ -312,6 +312,7 @@
 20.80.99.22
 20.80.108.254
 20.80.109.28
+20.80.109.57
 20.81.44.250
 20.83.36.88
 20.83.42.144
@@ -2643,6 +2644,7 @@
 135.119.20.32
 135.119.91.21
 135.119.91.34
+135.119.91.58
 135.119.91.67
 135.119.91.133
 135.119.92.26

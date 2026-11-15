@@ -1,0 +1,14 @@
+{
+  "ip": "80.87.206.25",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 16276,
+  "asn_org": "OVH SAS",
+  "categories": {
+    "scan": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-12T16:12:59Z",
+  "last_seen": "2026-11-12T16:18:02Z",
+  "reported": "not reported (permanent ban)"
+}

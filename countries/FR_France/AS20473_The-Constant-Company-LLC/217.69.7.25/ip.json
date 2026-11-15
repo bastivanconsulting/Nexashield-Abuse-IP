@@ -1,0 +1,15 @@
+{
+  "ip": "217.69.7.25",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 20473,
+  "asn_org": "The Constant Company, LLC",
+  "categories": {
+    "scan": 11,
+    "exploit": 1
+  },
+  "events": 88,
+  "first_seen": "2026-11-12T22:20:24Z",
+  "last_seen": "2026-11-14T19:40:18Z",
+  "reported": "not reported (permanent ban)"
+}

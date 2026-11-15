@@ -1,0 +1,16 @@
+{
+  "ip": "92.118.39.71",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 47890,
+  "asn_org": "UNMANAGED LTD",
+  "categories": {
+    "ssh": 17,
+    "c2": 2,
+    "scan": 7
+  },
+  "events": 28,
+  "first_seen": "2026-11-13T00:36:58Z",
+  "last_seen": "2026-11-14T21:39:28Z",
+  "reported": "not reported (permanent ban)"
+}

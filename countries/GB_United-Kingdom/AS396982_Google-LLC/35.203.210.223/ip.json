@@ -1,0 +1,15 @@
+{
+  "ip": "35.203.210.223",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "scan": 8,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-12T07:02:46Z",
+  "last_seen": "2026-11-13T02:13:59Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "82.147.85.103",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 211860,
+  "asn_org": "Nerushenko Vyacheslav Nikolaevich",
+  "categories": {
+    "scan": 28,
+    "c2": 4
+  },
+  "events": 39,
+  "first_seen": "2026-11-12T04:24:45Z",
+  "last_seen": "2026-11-14T15:16:50Z",
+  "reported": "not reported (permanent ban)"
+}

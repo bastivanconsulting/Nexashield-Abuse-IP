@@ -1,0 +1,16 @@
+{
+  "ip": "193.32.162.73",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 47890,
+  "asn_org": "UNMANAGED LTD",
+  "categories": {
+    "waf": 16,
+    "scan": 7,
+    "c2": 1
+  },
+  "events": 25,
+  "first_seen": "2026-11-11T09:20:37Z",
+  "last_seen": "2026-11-14T21:56:54Z",
+  "reported": "not reported (permanent ban)"
+}

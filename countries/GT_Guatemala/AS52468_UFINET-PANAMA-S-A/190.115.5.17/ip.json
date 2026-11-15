@@ -1,0 +1,14 @@
+{
+  "ip": "190.115.5.17",
+  "country_code": "GT",
+  "country": "Guatemala",
+  "asn": 52468,
+  "asn_org": "UFINET PANAMA S.A.",
+  "categories": {
+    "scan": 8
+  },
+  "events": 8,
+  "first_seen": "2026-11-11T10:42:23Z",
+  "last_seen": "2026-11-14T21:00:22Z",
+  "reported": "not reported (permanent ban)"
+}

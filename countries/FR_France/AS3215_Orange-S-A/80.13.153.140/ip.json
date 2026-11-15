@@ -1,0 +1,15 @@
+{
+  "ip": "80.13.153.140",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 3215,
+  "asn_org": "Orange S.A.",
+  "categories": {
+    "scan": 10,
+    "c2": 3
+  },
+  "events": 16,
+  "first_seen": "2026-11-11T10:40:04Z",
+  "last_seen": "2026-11-14T16:59:30Z",
+  "reported": "not reported (permanent ban)"
+}

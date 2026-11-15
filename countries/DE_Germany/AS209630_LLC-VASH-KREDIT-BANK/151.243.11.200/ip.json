@@ -1,0 +1,15 @@
+{
+  "ip": "151.243.11.200",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 209630,
+  "asn_org": "LLC VASH KREDIT BANK",
+  "categories": {
+    "scan": 6,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-11T11:34:38Z",
+  "last_seen": "2026-11-14T09:27:17Z",
+  "reported": "not reported (permanent ban)"
+}

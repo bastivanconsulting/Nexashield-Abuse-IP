@@ -1,0 +1,14 @@
+{
+  "ip": "117.242.191.241",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 9829,
+  "asn_org": "Bharat Sanchar Nigam Ltd",
+  "categories": {
+    "scan": 12
+  },
+  "events": 19,
+  "first_seen": "2026-11-11T11:57:09Z",
+  "last_seen": "2026-11-14T21:56:40Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "201.79.140.45",
+  "country_code": "US",
+  "country": "United States",
+  "asn": null,
+  "asn_org": "Unknown",
+  "categories": {
+    "scan": 52,
+    "c2": 7
+  },
+  "events": 61,
+  "first_seen": "2026-11-11T23:50:41Z",
+  "last_seen": "2026-11-14T06:11:15Z",
+  "reported": "not reported (permanent ban)"
+}

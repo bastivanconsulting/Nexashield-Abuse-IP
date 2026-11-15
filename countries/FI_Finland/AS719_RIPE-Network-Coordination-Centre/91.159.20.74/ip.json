@@ -1,0 +1,15 @@
+{
+  "ip": "91.159.20.74",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 719,
+  "asn_org": "RIPE Network Coordination Centre",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-11T11:39:33Z",
+  "last_seen": "2026-11-11T23:53:02Z",
+  "reported": "not reported (permanent ban)"
+}

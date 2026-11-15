@@ -1,0 +1,15 @@
+{
+  "ip": "178.20.210.151",
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "asn": 210006,
+  "asn_org": "Shereverov Marat Ahmedovich",
+  "categories": {
+    "scan": 201,
+    "c2": 3
+  },
+  "events": 217,
+  "first_seen": "2026-11-11T09:59:53Z",
+  "last_seen": "2026-11-14T23:37:13Z",
+  "reported": "not reported (permanent ban)"
+}

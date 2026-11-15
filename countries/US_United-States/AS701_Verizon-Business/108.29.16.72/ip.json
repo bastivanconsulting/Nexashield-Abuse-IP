@@ -1,0 +1,15 @@
+{
+  "ip": "108.29.16.72",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 701,
+  "asn_org": "Verizon Business",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T18:21:00Z",
+  "last_seen": "2026-11-11T20:57:03Z",
+  "reported": "not reported (permanent ban)"
+}

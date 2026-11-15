@@ -1,0 +1,15 @@
+{
+  "ip": "192.207.105.196",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 16276,
+  "asn_org": "OVH SAS",
+  "categories": {
+    "scan": 264,
+    "c2": 14
+  },
+  "events": 304,
+  "first_seen": "2026-11-11T09:50:22Z",
+  "last_seen": "2026-11-15T00:00:46Z",
+  "reported": "not reported (permanent ban)"
+}

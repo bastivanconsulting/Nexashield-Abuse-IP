@@ -1,0 +1,19 @@
+# `87.251.64.82`
+
+🇵🇱 **Poland** · AS212835 Shesternin Vladimir Anatolievich
+
+| Field | Value |
+|---|---|
+| IP | `87.251.64.82` |
+| Country | Poland (PL) |
+| ASN | AS212835 · Shesternin Vladimir Anatolievich |
+| Activity | Port scanning (34), Abusive HTTP requests (2) |
+| Events | 45 |
+| First seen (UTC) | 2026-11-12T01:31:55Z |
+| Last seen (UTC) | 2026-11-14T21:56:54Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

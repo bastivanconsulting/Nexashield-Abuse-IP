@@ -1,0 +1,15 @@
+{
+  "ip": "202.46.28.142",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 63491,
+  "asn_org": "Universitas Katolik Widya Mandala",
+  "categories": {
+    "scan": 65,
+    "c2": 12
+  },
+  "events": 79,
+  "first_seen": "2026-11-11T10:37:42Z",
+  "last_seen": "2026-11-14T20:24:44Z",
+  "reported": "not reported (permanent ban)"
+}

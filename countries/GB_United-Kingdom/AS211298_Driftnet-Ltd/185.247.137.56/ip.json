@@ -1,0 +1,15 @@
+{
+  "ip": "185.247.137.56",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 211298,
+  "asn_org": "Driftnet Ltd",
+  "categories": {
+    "exploit": 1,
+    "c2": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-11T16:47:59Z",
+  "last_seen": "2026-11-11T16:49:01Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,16 @@
+{
+  "ip": "138.226.239.234",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 44589,
+  "asn_org": "DIGITAL NETWORK S.R.L.",
+  "categories": {
+    "scan": 634,
+    "c2": 7,
+    "ssh": 7
+  },
+  "events": 673,
+  "first_seen": "2026-11-11T21:33:16Z",
+  "last_seen": "2026-11-15T00:16:08Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "23.251.87.120",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 26827,
+  "asn_org": "EPB Fiber Optics",
+  "categories": {
+    "exploit": 5,
+    "scan": 5
+  },
+  "events": 15,
+  "first_seen": "2026-11-11T12:26:05Z",
+  "last_seen": "2026-11-14T10:20:07Z",
+  "reported": "not reported (permanent ban)"
+}

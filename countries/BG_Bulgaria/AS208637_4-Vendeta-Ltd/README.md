@@ -1,9 +1,10 @@
 # AS208637 · 4 Vendeta Ltd
 
-🇧🇬 Bulgaria · **1** malicious IP(s)
+🇧🇬 Bulgaria · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`78.128.112.6`](78.128.112.6/) | Port scanning (239), Known botnet / C2 infrastructure (14) | 271 | 2026-11-14T23:50:23Z |
 | [`78.128.112.74`](78.128.112.74/) | Port scanning (35), SSH brute force (28) | 63 | 2026-11-15T00:21:15Z |
 
 ---

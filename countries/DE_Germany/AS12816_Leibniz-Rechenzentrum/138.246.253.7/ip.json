@@ -1,0 +1,14 @@
+{
+  "ip": "138.246.253.7",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 12816,
+  "asn_org": "Leibniz-Rechenzentrum",
+  "categories": {
+    "scan": 11
+  },
+  "events": 15,
+  "first_seen": "2026-11-12T05:02:14Z",
+  "last_seen": "2026-11-14T09:43:02Z",
+  "reported": "not reported (permanent ban)"
+}

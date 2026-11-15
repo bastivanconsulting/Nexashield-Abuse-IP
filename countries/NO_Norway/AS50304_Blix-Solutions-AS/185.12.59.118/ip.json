@@ -1,0 +1,16 @@
+{
+  "ip": "185.12.59.118",
+  "country_code": "NO",
+  "country": "Norway",
+  "asn": 50304,
+  "asn_org": "Blix Solutions AS",
+  "categories": {
+    "web": 2,
+    "scan": 89,
+    "c2": 11
+  },
+  "events": 109,
+  "first_seen": "2026-11-10T13:16:58Z",
+  "last_seen": "2026-11-14T21:46:18Z",
+  "reported": "not reported (permanent ban)"
+}

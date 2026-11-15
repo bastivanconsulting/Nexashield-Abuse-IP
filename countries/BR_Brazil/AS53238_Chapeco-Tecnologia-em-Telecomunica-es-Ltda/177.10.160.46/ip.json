@@ -1,0 +1,15 @@
+{
+  "ip": "177.10.160.46",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 53238,
+  "asn_org": "Chapeco Tecnologia em Telecomunica\u00e7\u00f5es Ltda.",
+  "categories": {
+    "exploit": 3,
+    "c2": 1
+  },
+  "events": 19,
+  "first_seen": "2026-11-13T10:32:00Z",
+  "last_seen": "2026-11-13T10:33:02Z",
+  "reported": "not reported (permanent ban)"
+}

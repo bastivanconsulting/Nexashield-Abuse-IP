@@ -1,0 +1,14 @@
+{
+  "ip": "193.138.195.233",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 201579,
+  "asn_org": "HOSTGNOME LTD",
+  "categories": {
+    "c2": 3
+  },
+  "events": 4,
+  "first_seen": "2026-11-14T06:33:08Z",
+  "last_seen": "2026-11-14T21:39:28Z",
+  "reported": "not reported (permanent ban)"
+}

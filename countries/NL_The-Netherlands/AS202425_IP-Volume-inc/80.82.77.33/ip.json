@@ -1,0 +1,16 @@
+{
+  "ip": "80.82.77.33",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 202425,
+  "asn_org": "IP Volume inc",
+  "categories": {
+    "scan": 40,
+    "c2": 8,
+    "exploit": 1
+  },
+  "events": 50,
+  "first_seen": "2026-11-11T13:36:21Z",
+  "last_seen": "2026-11-14T01:57:16Z",
+  "reported": "not reported (permanent ban)"
+}

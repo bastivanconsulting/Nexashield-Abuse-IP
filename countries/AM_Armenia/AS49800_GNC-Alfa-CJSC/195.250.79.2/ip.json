@@ -1,0 +1,15 @@
+{
+  "ip": "195.250.79.2",
+  "country_code": "AM",
+  "country": "Armenia",
+  "asn": 49800,
+  "asn_org": "GNC-Alfa CJSC",
+  "categories": {
+    "scan": 43,
+    "c2": 4
+  },
+  "events": 51,
+  "first_seen": "2026-11-11T09:52:34Z",
+  "last_seen": "2026-11-12T12:03:40Z",
+  "reported": "not reported (permanent ban)"
+}

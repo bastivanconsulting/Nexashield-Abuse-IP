@@ -1,0 +1,14 @@
+{
+  "ip": "193.3.53.5",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 211607,
+  "asn_org": "Securitytrails, LLC",
+  "categories": {
+    "scan": 9
+  },
+  "events": 12,
+  "first_seen": "2026-11-12T22:49:04Z",
+  "last_seen": "2026-11-14T20:04:31Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "23.158.56.134",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 63023,
+  "asn_org": "GTHost",
+  "categories": {
+    "scan": 8,
+    "c2": 1
+  },
+  "events": 12,
+  "first_seen": "2026-11-14T04:01:44Z",
+  "last_seen": "2026-11-14T07:55:34Z",
+  "reported": "not reported (permanent ban)"
+}

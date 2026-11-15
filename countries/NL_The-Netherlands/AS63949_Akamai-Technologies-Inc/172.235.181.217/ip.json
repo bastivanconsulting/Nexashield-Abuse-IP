@@ -1,0 +1,15 @@
+{
+  "ip": "172.235.181.217",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 19,
+    "c2": 1
+  },
+  "events": 21,
+  "first_seen": "2026-11-14T08:19:11Z",
+  "last_seen": "2026-11-14T08:20:02Z",
+  "reported": "not reported (permanent ban)"
+}

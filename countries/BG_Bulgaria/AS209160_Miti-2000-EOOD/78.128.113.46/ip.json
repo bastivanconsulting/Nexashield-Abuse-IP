@@ -1,0 +1,15 @@
+{
+  "ip": "78.128.113.46",
+  "country_code": "BG",
+  "country": "Bulgaria",
+  "asn": 209160,
+  "asn_org": "Miti 2000 EOOD",
+  "categories": {
+    "scan": 227,
+    "c2": 14
+  },
+  "events": 258,
+  "first_seen": "2026-11-11T09:46:24Z",
+  "last_seen": "2026-11-15T00:03:03Z",
+  "reported": "not reported (permanent ban)"
+}

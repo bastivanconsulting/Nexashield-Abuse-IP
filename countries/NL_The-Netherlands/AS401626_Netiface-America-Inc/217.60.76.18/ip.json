@@ -1,0 +1,15 @@
+{
+  "ip": "217.60.76.18",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 401626,
+  "asn_org": "Netiface America, Inc.",
+  "categories": {
+    "scan": 6,
+    "c2": 4
+  },
+  "events": 11,
+  "first_seen": "2026-11-13T06:42:42Z",
+  "last_seen": "2026-11-14T15:50:27Z",
+  "reported": "not reported (permanent ban)"
+}

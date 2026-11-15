@@ -1,0 +1,15 @@
+{
+  "ip": "179.43.153.10",
+  "country_code": "CH",
+  "country": "Switzerland",
+  "asn": 51852,
+  "asn_org": "Private Layer INC",
+  "categories": {
+    "scan": 10,
+    "c2": 5
+  },
+  "events": 16,
+  "first_seen": "2026-11-11T15:01:23Z",
+  "last_seen": "2026-11-14T22:06:28Z",
+  "reported": "not reported (permanent ban)"
+}

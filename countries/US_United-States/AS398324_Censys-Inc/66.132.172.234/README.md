@@ -1,0 +1,19 @@
+# `66.132.172.234`
+
+🇺🇸 **United States** · AS398324 Censys, Inc.
+
+| Field | Value |
+|---|---|
+| IP | `66.132.172.234` |
+| Country | United States (US) |
+| ASN | AS398324 · Censys, Inc. |
+| Activity | Port scanning (45), Known botnet / C2 infrastructure (10), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 65 |
+| First seen (UTC) | 2026-11-11T10:26:58Z |
+| Last seen (UTC) | 2026-11-14T02:55:15Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

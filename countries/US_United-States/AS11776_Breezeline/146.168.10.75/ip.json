@@ -1,0 +1,14 @@
+{
+  "ip": "146.168.10.75",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 11776,
+  "asn_org": "Breezeline",
+  "categories": {
+    "exploit": 3
+  },
+  "events": 6,
+  "first_seen": "2026-11-14T08:27:56Z",
+  "last_seen": "2026-11-14T21:39:28Z",
+  "reported": "not reported (permanent ban)"
+}

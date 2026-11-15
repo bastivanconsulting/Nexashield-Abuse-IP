@@ -1,0 +1,14 @@
+{
+  "ip": "68.69.177.101",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 402226,
+  "asn_org": "OnlyScans LLC",
+  "categories": {
+    "scan": 9
+  },
+  "events": 15,
+  "first_seen": "2026-11-11T09:49:20Z",
+  "last_seen": "2026-11-14T14:59:42Z",
+  "reported": "not reported (permanent ban)"
+}

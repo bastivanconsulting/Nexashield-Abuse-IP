@@ -1,0 +1,15 @@
+{
+  "ip": "191.101.241.242",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14670,
+  "asn_org": "WHG Hosting Services Ltd",
+  "categories": {
+    "scan": 18,
+    "c2": 6
+  },
+  "events": 30,
+  "first_seen": "2026-11-11T15:23:21Z",
+  "last_seen": "2026-11-14T20:10:40Z",
+  "reported": "not reported (permanent ban)"
+}

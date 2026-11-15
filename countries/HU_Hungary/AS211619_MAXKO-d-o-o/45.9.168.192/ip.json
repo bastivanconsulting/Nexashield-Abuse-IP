@@ -1,0 +1,15 @@
+{
+  "ip": "45.9.168.192",
+  "country_code": "HU",
+  "country": "Hungary",
+  "asn": 211619,
+  "asn_org": "MAXKO d.o.o.",
+  "categories": {
+    "scan": 30,
+    "c2": 3
+  },
+  "events": 35,
+  "first_seen": "2026-11-12T04:02:27Z",
+  "last_seen": "2026-11-13T10:03:50Z",
+  "reported": "not reported (permanent ban)"
+}

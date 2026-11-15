@@ -1,0 +1,15 @@
+{
+  "ip": "167.94.146.48",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 398705,
+  "asn_org": "Censys, Inc.",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-12T01:13:26Z",
+  "last_seen": "2026-11-13T20:20:31Z",
+  "reported": "not reported (permanent ban)"
+}

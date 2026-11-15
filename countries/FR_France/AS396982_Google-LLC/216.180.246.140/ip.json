@@ -1,0 +1,16 @@
+{
+  "ip": "216.180.246.140",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "web": 18,
+    "scan": 8,
+    "c2": 1
+  },
+  "events": 31,
+  "first_seen": "2026-11-11T07:04:29Z",
+  "last_seen": "2026-11-14T21:56:54Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "193.176.31.224",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 25369,
+  "asn_org": "Hydra Communications Ltd",
+  "categories": {
+    "scan": 22,
+    "c2": 9
+  },
+  "events": 32,
+  "first_seen": "2026-11-11T10:47:51Z",
+  "last_seen": "2026-11-14T23:25:31Z",
+  "reported": "not reported (permanent ban)"
+}

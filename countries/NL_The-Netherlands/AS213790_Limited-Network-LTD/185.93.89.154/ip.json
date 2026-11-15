@@ -1,0 +1,15 @@
+{
+  "ip": "185.93.89.154",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 213790,
+  "asn_org": "Limited Network LTD",
+  "categories": {
+    "scan": 23,
+    "c2": 2
+  },
+  "events": 27,
+  "first_seen": "2026-11-13T18:50:47Z",
+  "last_seen": "2026-11-14T22:56:22Z",
+  "reported": "not reported (permanent ban)"
+}

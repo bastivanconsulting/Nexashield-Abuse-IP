@@ -1,0 +1,14 @@
+{
+  "ip": "79.124.62.230",
+  "country_code": "SC",
+  "country": "Seychelles",
+  "asn": 207812,
+  "asn_org": "DM AUTO EOOD",
+  "categories": {
+    "scan": 27
+  },
+  "events": 32,
+  "first_seen": "2026-11-11T14:06:35Z",
+  "last_seen": "2026-11-14T22:49:52Z",
+  "reported": "not reported (permanent ban)"
+}

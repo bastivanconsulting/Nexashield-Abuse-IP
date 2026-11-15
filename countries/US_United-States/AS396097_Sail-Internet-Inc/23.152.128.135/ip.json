@@ -1,0 +1,15 @@
+{
+  "ip": "23.152.128.135",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 396097,
+  "asn_org": "Sail Internet, Inc.",
+  "categories": {
+    "exploit": 3,
+    "scan": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-11T13:40:47Z",
+  "last_seen": "2026-11-12T04:11:31Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "156.225.1.99",
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "asn": 9465,
+  "asn_org": "AGOTOZ PTE. LTD.",
+  "categories": {
+    "scan": 87,
+    "c2": 10
+  },
+  "events": 104,
+  "first_seen": "2026-11-11T10:05:43Z",
+  "last_seen": "2026-11-14T02:32:43Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "91.196.152.216",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 213412,
+  "asn_org": "ONYPHE SAS",
+  "categories": {
+    "scan": 36,
+    "c2": 9
+  },
+  "events": 46,
+  "first_seen": "2026-11-11T10:25:37Z",
+  "last_seen": "2026-11-14T14:23:24Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "172.236.103.8",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 10
+  },
+  "events": 15,
+  "first_seen": "2026-11-13T01:51:57Z",
+  "last_seen": "2026-11-14T19:50:55Z",
+  "reported": "not reported (permanent ban)"
+}

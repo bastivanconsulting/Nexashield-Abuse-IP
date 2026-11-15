@@ -1,0 +1,15 @@
+{
+  "ip": "134.33.66.242",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "scan": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-12T10:05:07Z",
+  "last_seen": "2026-11-14T09:49:38Z",
+  "reported": "not reported (permanent ban)"
+}

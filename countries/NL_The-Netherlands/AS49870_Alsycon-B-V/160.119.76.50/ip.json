@@ -1,0 +1,15 @@
+{
+  "ip": "160.119.76.50",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 49870,
+  "asn_org": "Alsycon B.V.",
+  "categories": {
+    "scan": 9,
+    "c2": 3
+  },
+  "events": 13,
+  "first_seen": "2026-11-11T12:49:54Z",
+  "last_seen": "2026-11-12T01:46:02Z",
+  "reported": "not reported (permanent ban)"
+}

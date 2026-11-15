@@ -1,0 +1,15 @@
+{
+  "ip": "103.163.118.244",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 140791,
+  "asn_org": "BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",
+  "categories": {
+    "scan": 12,
+    "c2": 6
+  },
+  "events": 19,
+  "first_seen": "2026-11-11T21:33:53Z",
+  "last_seen": "2026-11-14T20:33:56Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,16 @@
+{
+  "ip": "38.248.19.246",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 141983,
+  "asn_org": "PT Rajeg Media Telekomunikasi",
+  "categories": {
+    "scan": 10,
+    "c2": 4,
+    "web": 1
+  },
+  "events": 17,
+  "first_seen": "2026-11-11T15:02:02Z",
+  "last_seen": "2026-11-14T05:48:04Z",
+  "reported": "not reported (permanent ban)"
+}

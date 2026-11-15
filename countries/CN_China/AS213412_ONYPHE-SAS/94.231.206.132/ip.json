@@ -1,0 +1,15 @@
+{
+  "ip": "94.231.206.132",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 213412,
+  "asn_org": "ONYPHE SAS",
+  "categories": {
+    "scan": 16,
+    "c2": 14
+  },
+  "events": 31,
+  "first_seen": "2026-11-11T11:09:26Z",
+  "last_seen": "2026-11-14T21:13:38Z",
+  "reported": "not reported (permanent ban)"
+}

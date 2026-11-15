@@ -1,0 +1,14 @@
+{
+  "ip": "79.124.59.10",
+  "country_code": "BG",
+  "country": "Bulgaria",
+  "asn": 50360,
+  "asn_org": "Tamatiya EOOD",
+  "categories": {
+    "scan": 190
+  },
+  "events": 212,
+  "first_seen": "2026-11-11T12:41:48Z",
+  "last_seen": "2026-11-15T00:17:30Z",
+  "reported": "not reported (permanent ban)"
+}

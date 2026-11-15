@@ -1,0 +1,15 @@
+{
+  "ip": "151.61.171.167",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 1267,
+  "asn_org": "WIND TRE S.P.A.",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T18:14:31Z",
+  "last_seen": "2026-11-11T20:17:02Z",
+  "reported": "not reported (permanent ban)"
+}

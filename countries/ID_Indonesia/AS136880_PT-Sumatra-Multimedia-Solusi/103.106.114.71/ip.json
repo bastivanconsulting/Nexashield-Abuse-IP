@@ -1,0 +1,14 @@
+{
+  "ip": "103.106.114.71",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 136880,
+  "asn_org": "PT. Sumatra Multimedia Solusi",
+  "categories": {
+    "scan": 16
+  },
+  "events": 23,
+  "first_seen": "2026-11-13T13:46:08Z",
+  "last_seen": "2026-11-14T23:53:35Z",
+  "reported": "not reported (permanent ban)"
+}

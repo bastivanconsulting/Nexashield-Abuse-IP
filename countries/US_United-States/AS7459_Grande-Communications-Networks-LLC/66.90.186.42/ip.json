@@ -1,0 +1,15 @@
+{
+  "ip": "66.90.186.42",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 7459,
+  "asn_org": "Grande Communications Networks, LLC",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-12T02:26:27Z",
+  "last_seen": "2026-11-12T05:07:03Z",
+  "reported": "not reported (permanent ban)"
+}

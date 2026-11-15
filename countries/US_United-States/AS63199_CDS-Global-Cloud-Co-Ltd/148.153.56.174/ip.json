@@ -1,0 +1,15 @@
+{
+  "ip": "148.153.56.174",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 63199,
+  "asn_org": "CDS Global Cloud Co., Ltd",
+  "categories": {
+    "scan": 18,
+    "c2": 4
+  },
+  "events": 26,
+  "first_seen": "2026-11-13T06:57:59Z",
+  "last_seen": "2026-11-14T20:08:48Z",
+  "reported": "not reported (permanent ban)"
+}

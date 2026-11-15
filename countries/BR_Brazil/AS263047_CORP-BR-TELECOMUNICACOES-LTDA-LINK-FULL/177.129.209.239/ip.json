@@ -1,0 +1,15 @@
+{
+  "ip": "177.129.209.239",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 263047,
+  "asn_org": "CORP BR TELECOMUNICACOES LTDA - LINK FULL",
+  "categories": {
+    "scan": 23,
+    "c2": 4
+  },
+  "events": 29,
+  "first_seen": "2026-11-12T01:37:09Z",
+  "last_seen": "2026-11-14T15:49:47Z",
+  "reported": "not reported (permanent ban)"
+}

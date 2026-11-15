@@ -1,0 +1,15 @@
+{
+  "ip": "220.181.1.163",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 23724,
+  "asn_org": "IDC, China Telecommunications Corporation",
+  "categories": {
+    "scan": 20,
+    "c2": 3
+  },
+  "events": 32,
+  "first_seen": "2026-11-11T20:50:03Z",
+  "last_seen": "2026-11-14T19:46:26Z",
+  "reported": "not reported (permanent ban)"
+}

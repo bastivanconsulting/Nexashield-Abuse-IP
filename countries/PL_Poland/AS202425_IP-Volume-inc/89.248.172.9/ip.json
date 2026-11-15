@@ -1,0 +1,14 @@
+{
+  "ip": "89.248.172.9",
+  "country_code": "PL",
+  "country": "Poland",
+  "asn": 202425,
+  "asn_org": "IP Volume inc",
+  "categories": {
+    "scan": 92
+  },
+  "events": 111,
+  "first_seen": "2026-11-12T03:53:45Z",
+  "last_seen": "2026-11-14T23:36:57Z",
+  "reported": "not reported (permanent ban)"
+}

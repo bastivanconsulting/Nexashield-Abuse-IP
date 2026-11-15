@@ -1,0 +1,14 @@
+{
+  "ip": "185.242.226.64",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 202425,
+  "asn_org": "IP Volume inc",
+  "categories": {
+    "scan": 8
+  },
+  "events": 12,
+  "first_seen": "2026-11-13T19:03:49Z",
+  "last_seen": "2026-11-14T11:36:20Z",
+  "reported": "not reported (permanent ban)"
+}

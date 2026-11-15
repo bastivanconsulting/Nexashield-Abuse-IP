@@ -1,0 +1,14 @@
+{
+  "ip": "49.51.70.232",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 132203,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "scan": 7
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T14:01:19Z",
+  "last_seen": "2026-11-14T17:45:03Z",
+  "reported": "not reported (permanent ban)"
+}

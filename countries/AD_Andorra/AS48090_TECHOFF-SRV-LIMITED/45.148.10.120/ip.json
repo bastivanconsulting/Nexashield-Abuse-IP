@@ -1,0 +1,16 @@
+{
+  "ip": "45.148.10.120",
+  "country_code": "AD",
+  "country": "Andorra",
+  "asn": 48090,
+  "asn_org": "TECHOFF SRV LIMITED",
+  "categories": {
+    "waf": 26,
+    "scan": 8,
+    "c2": 3
+  },
+  "events": 38,
+  "first_seen": "2026-11-10T05:39:24Z",
+  "last_seen": "2026-11-14T13:09:59Z",
+  "reported": "not reported (permanent ban)"
+}

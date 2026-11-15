@@ -1,0 +1,15 @@
+{
+  "ip": "81.57.101.155",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 29447,
+  "asn_org": "SCALEWAY S.A.S.",
+  "categories": {
+    "exploit": 3,
+    "scan": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-11T18:31:36Z",
+  "last_seen": "2026-11-12T03:27:13Z",
+  "reported": "not reported (permanent ban)"
+}

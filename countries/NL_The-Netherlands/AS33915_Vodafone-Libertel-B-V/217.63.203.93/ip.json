@@ -1,0 +1,15 @@
+{
+  "ip": "217.63.203.93",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 33915,
+  "asn_org": "Vodafone Libertel B.V.",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-12T02:20:08Z",
+  "last_seen": "2026-11-12T05:30:02Z",
+  "reported": "not reported (permanent ban)"
+}

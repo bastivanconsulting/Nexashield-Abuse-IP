@@ -1,0 +1,14 @@
+{
+  "ip": "132.243.161.98",
+  "country_code": "CH",
+  "country": "Switzerland",
+  "asn": 200019,
+  "asn_org": "ALEXHOST S.R.L.",
+  "categories": {
+    "scan": 12
+  },
+  "events": 17,
+  "first_seen": "2026-11-11T20:16:29Z",
+  "last_seen": "2026-11-14T21:56:40Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "217.71.127.125",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 198545,
+  "asn_org": "FLEX NETWORK SARL",
+  "categories": {
+    "scan": 32
+  },
+  "events": 40,
+  "first_seen": "2026-11-12T04:06:55Z",
+  "last_seen": "2026-11-14T23:19:09Z",
+  "reported": "not reported (permanent ban)"
+}

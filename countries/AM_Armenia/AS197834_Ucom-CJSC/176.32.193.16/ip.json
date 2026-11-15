@@ -1,0 +1,15 @@
+{
+  "ip": "176.32.193.16",
+  "country_code": "AM",
+  "country": "Armenia",
+  "asn": 197834,
+  "asn_org": "Ucom CJSC",
+  "categories": {
+    "scan": 57,
+    "c2": 11
+  },
+  "events": 70,
+  "first_seen": "2026-11-11T15:06:53Z",
+  "last_seen": "2026-11-14T23:07:42Z",
+  "reported": "not reported (permanent ban)"
+}

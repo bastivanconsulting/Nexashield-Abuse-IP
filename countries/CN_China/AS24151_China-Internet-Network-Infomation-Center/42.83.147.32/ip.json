@@ -1,0 +1,15 @@
+{
+  "ip": "42.83.147.32",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 24151,
+  "asn_org": "China Internet Network Infomation Center",
+  "categories": {
+    "scan": 7,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T17:22:19Z",
+  "last_seen": "2026-11-12T15:16:21Z",
+  "reported": "not reported (permanent ban)"
+}

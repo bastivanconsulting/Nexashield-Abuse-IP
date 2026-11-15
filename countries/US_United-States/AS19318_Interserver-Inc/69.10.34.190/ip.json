@@ -1,0 +1,14 @@
+{
+  "ip": "69.10.34.190",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 19318,
+  "asn_org": "Interserver, Inc",
+  "categories": {
+    "scan": 18
+  },
+  "events": 19,
+  "first_seen": "2026-11-11T19:15:55Z",
+  "last_seen": "2026-11-14T21:56:40Z",
+  "reported": "not reported (permanent ban)"
+}

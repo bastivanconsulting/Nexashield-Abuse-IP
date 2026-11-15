@@ -1,0 +1,15 @@
+{
+  "ip": "216.226.78.10",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 50219,
+  "asn_org": "LNK SYSTEMS MUNTENIA SRL",
+  "categories": {
+    "scan": 27,
+    "c2": 9
+  },
+  "events": 38,
+  "first_seen": "2026-11-11T11:43:45Z",
+  "last_seen": "2026-11-14T22:02:30Z",
+  "reported": "not reported (permanent ban)"
+}

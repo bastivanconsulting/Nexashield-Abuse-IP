@@ -1,0 +1,14 @@
+{
+  "ip": "112.17.252.56",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 56041,
+  "asn_org": "China Mobile Communications Corporation",
+  "categories": {
+    "scan": 14
+  },
+  "events": 20,
+  "first_seen": "2026-11-11T22:02:49Z",
+  "last_seen": "2026-11-14T18:59:16Z",
+  "reported": "not reported (permanent ban)"
+}

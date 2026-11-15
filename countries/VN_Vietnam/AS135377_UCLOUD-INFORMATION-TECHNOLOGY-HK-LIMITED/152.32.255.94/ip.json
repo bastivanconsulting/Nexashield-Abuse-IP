@@ -1,0 +1,15 @@
+{
+  "ip": "152.32.255.94",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 4,
+    "c2": 4
+  },
+  "events": 9,
+  "first_seen": "2026-11-11T13:10:40Z",
+  "last_seen": "2026-11-14T17:45:57Z",
+  "reported": "not reported (permanent ban)"
+}

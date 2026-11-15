@@ -1,0 +1,15 @@
+{
+  "ip": "83.226.6.231",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 8434,
+  "asn_org": "Telenor Sverige AB",
+  "categories": {
+    "exploit": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-12T02:01:57Z",
+  "last_seen": "2026-11-12T06:31:02Z",
+  "reported": "not reported (permanent ban)"
+}

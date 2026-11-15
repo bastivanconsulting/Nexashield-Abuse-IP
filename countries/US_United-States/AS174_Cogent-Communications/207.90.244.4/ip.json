@@ -1,0 +1,15 @@
+{
+  "ip": "207.90.244.4",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 174,
+  "asn_org": "Cogent Communications",
+  "categories": {
+    "scan": 61,
+    "c2": 12
+  },
+  "events": 74,
+  "first_seen": "2026-11-11T11:24:38Z",
+  "last_seen": "2026-11-15T00:06:49Z",
+  "reported": "not reported (permanent ban)"
+}

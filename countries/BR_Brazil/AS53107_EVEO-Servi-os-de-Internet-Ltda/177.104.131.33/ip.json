@@ -1,0 +1,14 @@
+{
+  "ip": "177.104.131.33",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 53107,
+  "asn_org": "EVEO Servi\u00e7os de Internet Ltda.",
+  "categories": {
+    "scan": 12
+  },
+  "events": 15,
+  "first_seen": "2026-11-11T16:23:34Z",
+  "last_seen": "2026-11-14T06:16:52Z",
+  "reported": "not reported (permanent ban)"
+}

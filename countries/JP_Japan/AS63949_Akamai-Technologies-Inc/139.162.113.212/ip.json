@@ -1,0 +1,15 @@
+{
+  "ip": "139.162.113.212",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 15,
+    "c2": 7
+  },
+  "events": 23,
+  "first_seen": "2026-11-11T09:49:20Z",
+  "last_seen": "2026-11-15T00:08:19Z",
+  "reported": "not reported (permanent ban)"
+}

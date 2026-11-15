@@ -1,0 +1,15 @@
+{
+  "ip": "154.80.128.121",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 215925,
+  "asn_org": "VPSVAULT.HOST LTD",
+  "categories": {
+    "scan": 12,
+    "c2": 3
+  },
+  "events": 16,
+  "first_seen": "2026-11-11T09:58:16Z",
+  "last_seen": "2026-11-12T14:43:01Z",
+  "reported": "not reported (permanent ban)"
+}

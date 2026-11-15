@@ -1,0 +1,15 @@
+{
+  "ip": "202.141.230.214",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 135523,
+  "asn_org": "Multinet Broadband",
+  "categories": {
+    "scan": 6,
+    "c2": 5
+  },
+  "events": 12,
+  "first_seen": "2026-11-12T02:49:57Z",
+  "last_seen": "2026-11-14T22:09:38Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "185.136.15.111",
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "asn": 210328,
+  "asn_org": "AO ALMAZ",
+  "categories": {
+    "scan": 31,
+    "c2": 3
+  },
+  "events": 35,
+  "first_seen": "2026-11-11T15:03:47Z",
+  "last_seen": "2026-11-14T14:48:11Z",
+  "reported": "not reported (permanent ban)"
+}

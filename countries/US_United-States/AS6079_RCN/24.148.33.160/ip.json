@@ -1,0 +1,15 @@
+{
+  "ip": "24.148.33.160",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 6079,
+  "asn_org": "RCN",
+  "categories": {
+    "exploit": 3,
+    "scan": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-11T19:32:39Z",
+  "last_seen": "2026-11-14T18:38:54Z",
+  "reported": "not reported (permanent ban)"
+}

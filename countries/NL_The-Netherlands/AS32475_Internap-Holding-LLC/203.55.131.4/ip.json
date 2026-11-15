@@ -1,0 +1,15 @@
+{
+  "ip": "203.55.131.4",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 32475,
+  "asn_org": "Internap Holding LLC",
+  "categories": {
+    "scan": 30,
+    "c2": 7
+  },
+  "events": 39,
+  "first_seen": "2026-11-11T10:51:35Z",
+  "last_seen": "2026-11-14T22:16:28Z",
+  "reported": "not reported (permanent ban)"
+}

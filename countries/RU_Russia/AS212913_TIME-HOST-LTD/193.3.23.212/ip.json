@@ -1,0 +1,15 @@
+{
+  "ip": "193.3.23.212",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 212913,
+  "asn_org": "TIME-HOST LTD",
+  "categories": {
+    "scan": 17,
+    "c2": 2
+  },
+  "events": 23,
+  "first_seen": "2026-11-12T06:11:00Z",
+  "last_seen": "2026-11-12T18:22:53Z",
+  "reported": "not reported (permanent ban)"
+}

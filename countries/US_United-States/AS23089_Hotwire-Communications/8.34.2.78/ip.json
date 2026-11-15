@@ -1,0 +1,14 @@
+{
+  "ip": "8.34.2.78",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 23089,
+  "asn_org": "Hotwire Communications",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-13T14:13:52Z",
+  "last_seen": "2026-11-14T21:39:28Z",
+  "reported": "not reported (permanent ban)"
+}

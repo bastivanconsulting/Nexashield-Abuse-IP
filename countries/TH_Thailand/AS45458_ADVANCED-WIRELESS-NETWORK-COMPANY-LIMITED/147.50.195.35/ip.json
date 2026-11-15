@@ -1,0 +1,15 @@
+{
+  "ip": "147.50.195.35",
+  "country_code": "TH",
+  "country": "Thailand",
+  "asn": 45458,
+  "asn_org": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+  "categories": {
+    "scan": 11,
+    "c2": 3
+  },
+  "events": 15,
+  "first_seen": "2026-11-12T11:58:46Z",
+  "last_seen": "2026-11-13T02:13:11Z",
+  "reported": "not reported (permanent ban)"
+}

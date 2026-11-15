@@ -1,0 +1,15 @@
+{
+  "ip": "146.88.241.170",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 20052,
+  "asn_org": "Arbor Networks, Inc.",
+  "categories": {
+    "scan": 54,
+    "c2": 6
+  },
+  "events": 67,
+  "first_seen": "2026-11-11T11:34:22Z",
+  "last_seen": "2026-11-14T16:31:09Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "185.226.93.242",
+  "country_code": "TR",
+  "country": "Turkey",
+  "asn": 205196,
+  "asn_org": "BIG CORE LLC",
+  "categories": {
+    "scan": 38,
+    "c2": 10
+  },
+  "events": 49,
+  "first_seen": "2026-11-11T11:33:26Z",
+  "last_seen": "2026-11-14T22:16:20Z",
+  "reported": "not reported (permanent ban)"
+}

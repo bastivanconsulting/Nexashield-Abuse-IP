@@ -1,0 +1,15 @@
+{
+  "ip": "118.193.56.246",
+  "country_code": "TH",
+  "country": "Thailand",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 8,
+    "c2": 7
+  },
+  "events": 16,
+  "first_seen": "2026-11-12T07:52:29Z",
+  "last_seen": "2026-11-14T23:29:07Z",
+  "reported": "not reported (permanent ban)"
+}

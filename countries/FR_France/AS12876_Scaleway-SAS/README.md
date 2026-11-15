@@ -1,9 +1,11 @@
 # AS12876 · Scaleway SAS
 
-🇫🇷 France · **1** malicious IP(s)
+🇫🇷 France · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`51.159.111.44`](51.159.111.44/) | Port scanning (91) | 104 | 2026-11-14T23:49:55Z |
+| [`62.210.217.157`](62.210.217.157/) | Port scanning (22) | 33 | 2026-11-14T22:45:21Z |
 | [`78.232.4.86`](78.232.4.86/) | Web injection payload blocked by WAF (8), Abusive HTTP requests (3) | 11 | 2026-11-12T06:42:55Z |
 
 ---

@@ -1,0 +1,14 @@
+{
+  "ip": "182.252.82.88",
+  "country_code": "BD",
+  "country": "Bangladesh",
+  "asn": 23923,
+  "asn_org": "Agni Systems Limited",
+  "categories": {
+    "scan": 128
+  },
+  "events": 147,
+  "first_seen": "2026-11-11T09:53:10Z",
+  "last_seen": "2026-11-14T23:40:50Z",
+  "reported": "not reported (permanent ban)"
+}

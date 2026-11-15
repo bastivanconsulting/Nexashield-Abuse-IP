@@ -1,0 +1,14 @@
+{
+  "ip": "176.65.144.200",
+  "country_code": "CH",
+  "country": "Switzerland",
+  "asn": 209413,
+  "asn_org": "DEDIK SERVICES LIMITED",
+  "categories": {
+    "scan": 24
+  },
+  "events": 25,
+  "first_seen": "2026-11-11T13:15:33Z",
+  "last_seen": "2026-11-14T21:56:40Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "163.52.135.40",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 154896,
+  "asn_org": "CV Griya Cloud Server",
+  "categories": {
+    "scan": 12
+  },
+  "events": 19,
+  "first_seen": "2026-11-11T18:29:30Z",
+  "last_seen": "2026-11-14T23:01:35Z",
+  "reported": "not reported (permanent ban)"
+}

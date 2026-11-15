@@ -1,0 +1,15 @@
+{
+  "ip": "194.88.98.122",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 25369,
+  "asn_org": "Hydra Communications Ltd",
+  "categories": {
+    "scan": 33,
+    "c2": 7
+  },
+  "events": 42,
+  "first_seen": "2026-11-12T06:37:07Z",
+  "last_seen": "2026-11-15T00:11:41Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "216.226.77.10",
+  "country_code": "AU",
+  "country": "Australia",
+  "asn": 50219,
+  "asn_org": "LNK SYSTEMS MUNTENIA SRL",
+  "categories": {
+    "scan": 42,
+    "c2": 11
+  },
+  "events": 54,
+  "first_seen": "2026-11-11T13:22:06Z",
+  "last_seen": "2026-11-14T22:57:41Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "185.226.197.42",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 21859,
+  "asn_org": "Zenlayer Inc",
+  "categories": {
+    "scan": 5,
+    "c2": 5
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T23:09:15Z",
+  "last_seen": "2026-11-14T07:14:32Z",
+  "reported": "not reported (permanent ban)"
+}

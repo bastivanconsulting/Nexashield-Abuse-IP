@@ -1,0 +1,15 @@
+{
+  "ip": "118.193.69.177",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 7,
+    "c2": 5
+  },
+  "events": 14,
+  "first_seen": "2026-11-12T09:36:15Z",
+  "last_seen": "2026-11-14T23:15:47Z",
+  "reported": "not reported (permanent ban)"
+}

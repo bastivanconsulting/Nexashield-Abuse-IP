@@ -1,0 +1,15 @@
+{
+  "ip": "77.91.71.25",
+  "country_code": "IL",
+  "country": "Israel",
+  "asn": 211486,
+  "asn_org": "Alferov Aleksey Aleksandrovich",
+  "categories": {
+    "scan": 36,
+    "c2": 3
+  },
+  "events": 43,
+  "first_seen": "2026-11-11T15:02:37Z",
+  "last_seen": "2026-11-14T14:07:46Z",
+  "reported": "not reported (permanent ban)"
+}

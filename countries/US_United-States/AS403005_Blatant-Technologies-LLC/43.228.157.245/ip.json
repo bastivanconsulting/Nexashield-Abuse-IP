@@ -1,0 +1,15 @@
+{
+  "ip": "43.228.157.245",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 403005,
+  "asn_org": "Blatant Technologies, LLC",
+  "categories": {
+    "scan": 7,
+    "c2": 6
+  },
+  "events": 14,
+  "first_seen": "2026-11-12T20:08:25Z",
+  "last_seen": "2026-11-14T23:47:27Z",
+  "reported": "not reported (permanent ban)"
+}

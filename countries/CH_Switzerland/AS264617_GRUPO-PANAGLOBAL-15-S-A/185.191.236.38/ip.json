@@ -1,0 +1,16 @@
+{
+  "ip": "185.191.236.38",
+  "country_code": "CH",
+  "country": "Switzerland",
+  "asn": 264617,
+  "asn_org": "GRUPO PANAGLOBAL 15 S.A",
+  "categories": {
+    "web": 4,
+    "scan": 3,
+    "c2": 4
+  },
+  "events": 12,
+  "first_seen": "2026-11-11T00:07:04Z",
+  "last_seen": "2026-11-14T18:44:28Z",
+  "reported": "not reported (permanent ban)"
+}

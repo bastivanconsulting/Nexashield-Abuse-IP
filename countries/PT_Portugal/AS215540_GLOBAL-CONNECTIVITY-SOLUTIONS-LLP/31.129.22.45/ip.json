@@ -1,0 +1,14 @@
+{
+  "ip": "31.129.22.45",
+  "country_code": "PT",
+  "country": "Portugal",
+  "asn": 215540,
+  "asn_org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+  "categories": {
+    "scan": 10
+  },
+  "events": 14,
+  "first_seen": "2026-11-11T19:07:37Z",
+  "last_seen": "2026-11-14T23:24:00Z",
+  "reported": "not reported (permanent ban)"
+}

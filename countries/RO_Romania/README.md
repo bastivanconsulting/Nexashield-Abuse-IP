@@ -1,9 +1,11 @@
 # 🇷🇴 Romania
 
-**1** malicious IP(s) across **1** network(s).
+**3** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS200651](AS200651_FlokiNET-ehf/) | FlokiNET ehf | 1 | Port scanning (62), Known botnet / C2 infrastructure (3) |
+| [AS209588](AS209588_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (96), Known botnet / C2 infrastructure (7) |
 | [AS39383](AS39383_Annarsy-SRL/) | Annarsy SRL | 1 | SSH brute force (10), Port scanning (1) |
 
 ---

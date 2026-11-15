@@ -1,0 +1,15 @@
+{
+  "ip": "107.173.241.217",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 36352,
+  "asn_org": "HostPapa",
+  "categories": {
+    "scan": 5,
+    "c2": 5
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T11:02:03Z",
+  "last_seen": "2026-11-14T22:06:36Z",
+  "reported": "not reported (permanent ban)"
+}

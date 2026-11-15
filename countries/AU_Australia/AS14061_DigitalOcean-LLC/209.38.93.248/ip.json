@@ -1,0 +1,14 @@
+{
+  "ip": "209.38.93.248",
+  "country_code": "AU",
+  "country": "Australia",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 10
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T22:01:17Z",
+  "last_seen": "2026-11-14T21:56:40Z",
+  "reported": "not reported (permanent ban)"
+}

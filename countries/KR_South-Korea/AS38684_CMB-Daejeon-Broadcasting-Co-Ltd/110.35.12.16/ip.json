@@ -1,0 +1,14 @@
+{
+  "ip": "110.35.12.16",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 38684,
+  "asn_org": "CMB Daejeon Broadcasting Co,.Ltd",
+  "categories": {
+    "scan": 11
+  },
+  "events": 16,
+  "first_seen": "2026-11-11T16:32:34Z",
+  "last_seen": "2026-11-14T18:40:55Z",
+  "reported": "not reported (permanent ban)"
+}

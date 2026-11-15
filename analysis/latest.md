@@ -1,5 +1,5 @@
-Sur la période observée, 19303 événements ont été détectés provenant de 275 adresses IP réparties sur 40 pays et 108 réseaux ASN, avec une dernière activité enregistrée le 2026-11-15. Les principales origines géographiques incluent les États-Unis avec 58 IP, les Pays-Bas avec 38, la Belgique avec 27, l'Allemagne avec 24 et la France avec 21. Les activités observées couvrent principalement des requêtes HTTP abusives (120), des tentatives de force brute SSH (75), du balayage de ports (71) et des exploitations de type CVE, RCE ou injection (57).
+Sur la période observée jusqu'au 2026-11-15, le dépôt recense 164219 événements répartis sur 4015 adresses IP provenant de 61 pays et 359 réseaux ASN. Les activités détectées couvrent principalement le balayage de ports avec 3773 occurrences et l'infrastructure botnet / C2 connue avec 2716 occurrences. Les principaux pays d'origine incluent les États-Unis avec 1580 adresses, le Royaume-Uni avec 656 et les Pays-Bas avec 397.
 
-- Les réseaux les plus représentés sont AS14061 (DigitalOcean, LLC) avec 53 IP, AS396982 (Google LLC) avec 35 et AS198364 (BANATSYNC SRL) avec 26.
-- Parmi les natures d'événements figurent également 34 charges d'injection bloquées par le WAF, 31 réseaux listés Spamhaus DROP et 3 infrastructures botnet / C2 connues.
-- On relève enfin 1 force brute SMTP / IMAP et 1 signature d'exploit UDP.
+- Les natures d'événements incluent également l'exploitation (CVE, RCE, injection) avec 202 cas, les requêtes HTTP abusives avec 200 cas et la force brute SSH avec 130 cas
+- Parmi les réseaux les plus représentés figurent AS25369 (Hydra Communications Ltd) avec 644 adresses, AS8075 (Microsoft Corporation) avec 543 et AS396982 (Google LLC) avec 383
+- D'autres activités observées comprennent la charge d'injection bloquée par le WAF (73), les réseaux listés Spamhaus DROP (31), la force brute SMTP / IMAP (1) et la signature d'exploit UDP (1)

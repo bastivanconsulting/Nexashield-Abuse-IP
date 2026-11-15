@@ -1,0 +1,15 @@
+{
+  "ip": "45.144.52.239",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 215730,
+  "asn_org": "H2NEXUS CLOUD SERVICES - FZCO",
+  "categories": {
+    "scan": 13,
+    "c2": 4
+  },
+  "events": 18,
+  "first_seen": "2026-11-11T10:39:43Z",
+  "last_seen": "2026-11-14T09:53:08Z",
+  "reported": "not reported (permanent ban)"
+}
