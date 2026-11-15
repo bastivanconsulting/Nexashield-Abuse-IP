@@ -1,6 +1,6 @@
 # AS14061 · DigitalOcean, LLC
 
-🇩🇪 Germany · **21** malicious IP(s)
+🇩🇪 Germany · **22** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -23,6 +23,7 @@
 | [`201.79.87.78`](201.79.87.78/) | Port scanning (6) | 7 | 2026-11-14T21:39:28Z |
 | [`206.81.24.227`](206.81.24.227/) | Abusive HTTP requests (6) | 6 | 2026-11-10T06:18:58Z |
 | [`207.154.251.196`](207.154.251.196/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 18 | 2026-11-14T08:30:23Z |
+| [`209.38.194.7`](209.38.194.7/) | Port scanning (2) | 3 | 2026-11-15T15:36:03Z |
 | [`209.38.208.202`](209.38.208.202/) | Abusive HTTP requests (6), Port scanning (1) | 7 | 2026-11-11T20:08:59Z |
 | [`209.38.216.99`](209.38.216.99/) | Port scanning (6) | 7 | 2026-11-12T13:10:02Z |
 

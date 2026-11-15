@@ -1,6 +1,6 @@
 # AS21859 · Zenlayer Inc
 
-🇺🇸 United States · **53** malicious IP(s)
+🇺🇸 United States · **54** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -16,6 +16,7 @@
 | [`109.105.209.17`](109.105.209.17/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-15T04:18:04Z |
 | [`109.105.209.18`](109.105.209.18/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T01:19:03Z |
 | [`109.105.209.20`](109.105.209.20/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T00:25:39Z |
+| [`109.105.209.59`](109.105.209.59/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T16:12:03Z |
 | [`109.105.210.52`](109.105.210.52/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-15T01:47:12Z |
 | [`109.105.210.54`](109.105.210.54/) | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 7 | 2026-11-15T01:52:40Z |
 | [`109.105.210.58`](109.105.210.58/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-15T05:35:16Z |
@@ -48,7 +49,7 @@
 | [`185.180.141.43`](185.180.141.43/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-14T10:10:03Z |
 | [`185.180.141.45`](185.180.141.45/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-15T08:17:05Z |
 | [`185.180.141.52`](185.180.141.52/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T06:27:08Z |
-| [`185.180.141.69`](185.180.141.69/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T00:21:03Z |
+| [`185.180.141.69`](185.180.141.69/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T16:03:41Z |
 | [`185.226.196.14`](185.226.196.14/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-15T11:00:58Z |
 | [`185.226.196.19`](185.226.196.19/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T03:59:03Z |
 | [`185.226.196.20`](185.226.196.20/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-15T04:18:04Z |

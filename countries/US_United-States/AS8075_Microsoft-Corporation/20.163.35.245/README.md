@@ -7,10 +7,10 @@
 | IP | `20.163.35.245` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (11) |
-| Events | 18 |
+| Activity | Port scanning (12) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-11T11:17:25Z |
-| Last seen (UTC) | 2026-11-15T13:28:09Z |
+| Last seen (UTC) | 2026-11-15T15:46:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

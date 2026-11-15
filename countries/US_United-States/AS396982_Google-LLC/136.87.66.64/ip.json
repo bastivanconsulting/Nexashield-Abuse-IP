@@ -1,0 +1,14 @@
+{
+  "ip": "136.87.66.64",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-15T16:25:43Z",
+  "last_seen": "2026-11-15T16:25:43Z",
+  "reported": "not reported (permanent ban)"
+}

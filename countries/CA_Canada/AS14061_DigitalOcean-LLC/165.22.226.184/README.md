@@ -7,10 +7,10 @@
 | IP | `165.22.226.184` |
 | Country | Canada (CA) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (40) |
-| Events | 50 |
+| Activity | Port scanning (43) |
+| Events | 53 |
 | First seen (UTC) | 2026-11-14T04:28:12Z |
-| Last seen (UTC) | 2026-11-15T14:18:49Z |
+| Last seen (UTC) | 2026-11-15T16:07:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

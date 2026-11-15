@@ -7,10 +7,10 @@
 | IP | `58.182.58.128` |
 | Country | Singapore (SG) |
 | ASN | AS55430 · Starhub Internet Pte Ltd |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (3) |
-| Events | 16 |
+| Activity | Port scanning (14), Known botnet / C2 infrastructure (4) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-11T11:49:49Z |
-| Last seen (UTC) | 2026-11-14T13:57:00Z |
+| Last seen (UTC) | 2026-11-15T15:31:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,11 +5,11 @@
   "asn": 32244,
   "asn_org": "Liquid Web, L.L.C",
   "categories": {
-    "scan": 52,
-    "c2": 10
+    "scan": 55,
+    "c2": 11
   },
-  "events": 76,
+  "events": 81,
   "first_seen": "2026-11-11T17:52:01Z",
-  "last_seen": "2026-11-15T04:27:32Z",
+  "last_seen": "2026-11-15T15:51:01Z",
   "reported": "not reported (permanent ban)"
 }

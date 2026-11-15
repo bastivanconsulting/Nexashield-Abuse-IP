@@ -1,0 +1,15 @@
+{
+  "ip": "206.189.120.50",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-12T08:16:28Z",
+  "last_seen": "2026-11-14T22:52:49Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -5,11 +5,11 @@
   "asn": 208951,
   "asn_org": "ITGLOBAL.COM NL B.V.",
   "categories": {
-    "scan": 17,
+    "scan": 18,
     "c2": 2
   },
-  "events": 26,
+  "events": 27,
   "first_seen": "2026-11-12T11:30:25Z",
-  "last_seen": "2026-11-15T12:51:21Z",
+  "last_seen": "2026-11-15T15:38:40Z",
   "reported": "not reported (permanent ban)"
 }

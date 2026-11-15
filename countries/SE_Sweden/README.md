@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 21 | Port scanning (1264), Known botnet / C2 infrastructure (120), Abusive HTTP requests (16), Exploitation attempt (CVE / RCE / injection) (15), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 21 | Port scanning (1275), Known botnet / C2 infrastructure (120), Abusive HTTP requests (16), Exploitation attempt (CVE / RCE / injection) (15), SSH brute force (14) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 2 | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (4) |
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26) |
 | [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Abusive HTTP requests (3) |
