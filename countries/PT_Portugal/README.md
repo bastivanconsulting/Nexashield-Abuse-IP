@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215540](AS215540_GLOBAL-CONNECTIVITY-SOLUTIONS-LLP/) | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | Port scanning (11) |
+| [AS215540](AS215540_GLOBAL-CONNECTIVITY-SOLUTIONS-LLP/) | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | Port scanning (12) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

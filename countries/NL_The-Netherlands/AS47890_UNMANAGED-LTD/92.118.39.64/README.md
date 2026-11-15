@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS47890 · UNMANAGED LTD |
 | Activity | SSH brute force (20), Port scanning (10), Known botnet / C2 infrastructure (4) |
-| Events | 37 |
+| Events | 38 |
 | First seen (UTC) | 2026-11-12T04:43:27Z |
-| Last seen (UTC) | 2026-11-15T13:17:29Z |
+| Last seen (UTC) | 2026-11-15T13:18:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

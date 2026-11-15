@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 4 | Port scanning (37), Abusive HTTP requests (12), Exploitation attempt (CVE / RCE / injection) (9) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 4 | Port scanning (39), Abusive HTTP requests (12), Exploitation attempt (CVE / RCE / injection) (9) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (258), Web injection payload blocked by WAF (26), Port scanning (11) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 1 | Abusive HTTP requests (15) |
 | [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 1 | Port scanning (15) |

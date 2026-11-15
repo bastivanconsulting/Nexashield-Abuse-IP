@@ -7,10 +7,10 @@
 | IP | `31.129.22.45` |
 | Country | Portugal (PT) |
 | ASN | AS215540 · GLOBAL CONNECTIVITY SOLUTIONS LLP |
-| Activity | Port scanning (11) |
-| Events | 16 |
+| Activity | Port scanning (12) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-11T19:07:37Z |
-| Last seen (UTC) | 2026-11-15T06:10:50Z |
+| Last seen (UTC) | 2026-11-15T13:45:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

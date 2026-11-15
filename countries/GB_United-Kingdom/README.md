@@ -4,20 +4,20 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 556 | Port scanning (8484), Known botnet / C2 infrastructure (1202), Abusive HTTP requests (1) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 199 | Port scanning (3058), Known botnet / C2 infrastructure (562) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 19 | Port scanning (159), Known botnet / C2 infrastructure (95) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (654), Abusive HTTP requests (91), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 556 | Port scanning (8631), Known botnet / C2 infrastructure (1218), Abusive HTTP requests (1) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 199 | Port scanning (3087), Known botnet / C2 infrastructure (569) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 19 | Port scanning (162), Known botnet / C2 infrastructure (97) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (661), Abusive HTTP requests (91), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 10 | Port scanning (237), Known botnet / C2 infrastructure (21), Exploitation attempt (CVE / RCE / injection) (15), Abusive HTTP requests (6) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (954), Spamhaus DROP-listed network (59) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (964), Spamhaus DROP-listed network (59) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Known botnet / C2 infrastructure (6) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (70), Known botnet / C2 infrastructure (21) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (71), Known botnet / C2 infrastructure (22) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (8), Known botnet / C2 infrastructure (2) |
 | [AS11878](AS11878_tzulo-inc/) | tzulo, inc. | 1 | Port scanning (11) |
 | [AS15830](AS15830_Equinix-EMEA-Acquisition-Enterprises-B-V/) | Equinix (EMEA) Acquisition Enterprises B.V. | 1 | Port scanning (12) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Port scanning (1) |
-| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 1 | Port scanning (45), Exploitation attempt (CVE / RCE / injection) (12), Known botnet / C2 infrastructure (2) |
+| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 1 | Port scanning (46), Exploitation attempt (CVE / RCE / injection) (13), Known botnet / C2 infrastructure (2) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 1 | Abusive HTTP requests (27) |
 
 ---

@@ -7,10 +7,10 @@
 | IP | `193.47.62.97` |
 | Country | Andorra (AD) |
 | ASN | AS216014 · BestDC Limited |
-| Activity | Port scanning (327), Known botnet / C2 infrastructure (2) |
-| Events | 352 |
+| Activity | Port scanning (331), Known botnet / C2 infrastructure (2) |
+| Events | 356 |
 | First seen (UTC) | 2026-11-11T12:36:38Z |
-| Last seen (UTC) | 2026-11-15T13:14:07Z |
+| Last seen (UTC) | 2026-11-15T13:53:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

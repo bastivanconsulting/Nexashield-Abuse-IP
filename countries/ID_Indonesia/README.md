@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (141), Known botnet / C2 infrastructure (27) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (143), Known botnet / C2 infrastructure (27) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (22) |
-| [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (11), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) |
+| [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (12), Known botnet / C2 infrastructure (4), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) |
 | [AS141983](AS141983_PT-Rajeg-Media-Telekomunikasi/) | PT Rajeg Media Telekomunikasi | 1 | Port scanning (10), Known botnet / C2 infrastructure (4), Abusive HTTP requests (1) |
 | [AS150493](AS150493_PT-Gunung-Sedayu-Sentosa/) | PT Gunung Sedayu Sentosa | 1 | Web injection payload blocked by WAF (1) |
 | [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (14) |

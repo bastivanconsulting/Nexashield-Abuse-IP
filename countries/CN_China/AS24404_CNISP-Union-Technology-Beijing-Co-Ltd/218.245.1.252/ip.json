@@ -5,11 +5,11 @@
   "asn": 24404,
   "asn_org": "CNISP-Union Technology (Beijing) Co., Ltd",
   "categories": {
-    "scan": 33,
+    "scan": 36,
     "c2": 3
   },
-  "events": 40,
+  "events": 43,
   "first_seen": "2026-11-14T21:14:03Z",
-  "last_seen": "2026-11-15T13:17:05Z",
+  "last_seen": "2026-11-15T13:56:02Z",
   "reported": "not reported (permanent ban)"
 }
