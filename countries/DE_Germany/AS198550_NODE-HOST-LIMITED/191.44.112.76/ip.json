@@ -1,0 +1,14 @@
+{
+  "ip": "191.44.112.76",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 198550,
+  "asn_org": "NODE HOST LIMITED",
+  "categories": {
+    "exploit": 8
+  },
+  "events": 8,
+  "first_seen": "2026-11-15T18:44:04Z",
+  "last_seen": "2026-11-15T19:22:54Z",
+  "reported": "2026-11-15T20:24:54Z"
+}

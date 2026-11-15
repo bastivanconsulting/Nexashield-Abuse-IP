@@ -5,10 +5,10 @@
   "asn": 199457,
   "asn_org": "SolidCore Hosting LTD",
   "categories": {
-    "scan": 109
+    "scan": 113
   },
-  "events": 125,
+  "events": 130,
   "first_seen": "2026-11-11T15:41:54Z",
-  "last_seen": "2026-11-15T18:14:14Z",
+  "last_seen": "2026-11-15T20:10:52Z",
   "reported": "not reported (permanent ban)"
 }

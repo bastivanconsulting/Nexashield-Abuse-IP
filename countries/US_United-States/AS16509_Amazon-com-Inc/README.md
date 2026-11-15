@@ -1,6 +1,6 @@
 # AS16509 · Amazon.com, Inc.
 
-🇺🇸 United States · **13** malicious IP(s)
+🇺🇸 United States · **14** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`18.119.209.50`](18.119.209.50/) | Port scanning (16) | 16 | 2026-11-13T21:55:41Z |
 | [`18.189.6.159`](18.189.6.159/) | Abusive HTTP requests (157), Web injection payload blocked by WAF (26) | 183 | 2026-11-12T16:32:54Z |
 | [`18.190.15.50`](18.190.15.50/) | Port scanning (19) | 19 | 2026-11-14T20:27:20Z |
+| [`18.191.69.170`](18.191.69.170/) | Port scanning (6) | 8 | 2026-11-15T19:48:04Z |
 | [`18.217.102.23`](18.217.102.23/) | Port scanning (2) | 3 | 2026-11-11T09:56:39Z |
 | [`18.217.208.51`](18.217.208.51/) | Port scanning (20) | 20 | 2026-11-15T02:14:20Z |
 | [`18.218.118.203`](18.218.118.203/) | Port scanning (8), Abusive HTTP requests (3), Known botnet / C2 infrastructure (2) | 19 | 2026-11-14T19:41:32Z |

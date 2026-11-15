@@ -7,10 +7,10 @@
 | IP | `218.245.1.252` |
 | Country | China (CN) |
 | ASN | AS24404 · CNISP-Union Technology (Beijing) Co., Ltd |
-| Activity | Port scanning (36), Known botnet / C2 infrastructure (3) |
-| Events | 43 |
+| Activity | Port scanning (52), Known botnet / C2 infrastructure (4) |
+| Events | 61 |
 | First seen (UTC) | 2026-11-14T21:14:03Z |
-| Last seen (UTC) | 2026-11-15T13:56:02Z |
+| Last seen (UTC) | 2026-11-15T20:11:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

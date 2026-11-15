@@ -7,10 +7,10 @@
 | IP | `20.168.121.140` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (8) |
-| Events | 15 |
+| Activity | Port scanning (9) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-12T15:02:59Z |
-| Last seen (UTC) | 2026-11-15T14:47:22Z |
+| Last seen (UTC) | 2026-11-15T19:34:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,10 +5,10 @@
   "asn": 48753,
   "asn_org": "AVA HOST SRL",
   "categories": {
-    "scan": 22
+    "scan": 23
   },
-  "events": 33,
+  "events": 34,
   "first_seen": "2026-11-11T11:31:32Z",
-  "last_seen": "2026-11-15T15:45:08Z",
+  "last_seen": "2026-11-15T19:29:12Z",
   "reported": "not reported (permanent ban)"
 }

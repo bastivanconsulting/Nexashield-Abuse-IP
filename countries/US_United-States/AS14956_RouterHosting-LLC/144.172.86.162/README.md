@@ -7,11 +7,11 @@
 | IP | `144.172.86.162` |
 | Country | United States (US) |
 | ASN | AS14956 · RouterHosting LLC |
-| Activity | Web injection payload blocked by WAF (275) |
-| Events | 278 |
+| Activity | Abusive HTTP requests (532), Web injection payload blocked by WAF (22) |
+| Events | 554 |
 | First seen (UTC) | 2026-11-15T19:02:27Z |
-| Last seen (UTC) | 2026-11-15T19:03:04Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-15T19:02:43Z |
+| Reported to network owner (UTC) | 2026-11-15T20:24:45Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 
