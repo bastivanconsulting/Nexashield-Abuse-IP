@@ -1,6 +1,6 @@
 # AS209334 · Modat B.V.
 
-🇫🇷 France · **19** malicious IP(s)
+🇫🇷 France · **20** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,7 +12,8 @@
 | [`85.217.140.12`](85.217.140.12/) | Port scanning (33) | 35 | 2026-11-12T13:40:35Z |
 | [`85.217.140.13`](85.217.140.13/) | Exploitation attempt (CVE / RCE / injection) (5), Known botnet / C2 infrastructure (1) | 8 | 2026-11-15T19:28:26Z |
 | [`85.217.140.15`](85.217.140.15/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 13 | 2026-11-15T08:11:41Z |
-| [`85.217.140.18`](85.217.140.18/) | Port scanning (289), Known botnet / C2 infrastructure (9) | 340 | 2026-11-15T19:51:11Z |
+| [`85.217.140.18`](85.217.140.18/) | Port scanning (295), Known botnet / C2 infrastructure (9) | 347 | 2026-11-15T21:10:21Z |
+| [`85.217.140.20`](85.217.140.20/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-15T20:40:05Z |
 | [`85.217.140.26`](85.217.140.26/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-14T12:30:21Z |
 | [`85.217.140.31`](85.217.140.31/) | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (1) | 9 | 2026-11-15T01:52:40Z |
 | [`85.217.140.36`](85.217.140.36/) | Port scanning (9), Known botnet / C2 infrastructure (6), SSH brute force (1) | 18 | 2026-11-15T18:03:10Z |

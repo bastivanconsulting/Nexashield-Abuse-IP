@@ -8,7 +8,7 @@
 | [`45.156.128.57`](45.156.128.57/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-15T19:47:26Z |
 | [`45.156.128.59`](45.156.128.59/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T05:17:04Z |
 | [`45.156.128.61`](45.156.128.61/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-15T07:43:04Z |
-| [`45.156.128.62`](45.156.128.62/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-15T03:59:34Z |
+| [`45.156.128.62`](45.156.128.62/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 15 | 2026-11-15T20:19:00Z |
 | [`45.156.128.63`](45.156.128.63/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T02:31:04Z |
 | [`45.156.128.64`](45.156.128.64/) | Port scanning (9), Known botnet / C2 infrastructure (4), Exploitation attempt (CVE / RCE / injection) (1) | 16 | 2026-11-15T10:57:14Z |
 | [`45.156.128.66`](45.156.128.66/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T06:31:42Z |
@@ -34,7 +34,7 @@
 | [`45.156.128.153`](45.156.128.153/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T14:39:04Z |
 | [`45.156.128.155`](45.156.128.155/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T14:36:40Z |
 | [`45.156.128.165`](45.156.128.165/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T22:21:52Z |
-| [`45.156.128.166`](45.156.128.166/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T05:25:02Z |
+| [`45.156.128.166`](45.156.128.166/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T20:25:02Z |
 | [`45.156.128.167`](45.156.128.167/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T07:22:03Z |
 | [`45.156.128.169`](45.156.128.169/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-13T13:27:42Z |
 | [`45.156.128.170`](45.156.128.170/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T11:21:03Z |

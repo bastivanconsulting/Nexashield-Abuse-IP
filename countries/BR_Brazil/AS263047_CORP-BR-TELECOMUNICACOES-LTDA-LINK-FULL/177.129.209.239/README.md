@@ -7,10 +7,10 @@
 | IP | `177.129.209.239` |
 | Country | Brazil (BR) |
 | ASN | AS263047 · CORP BR TELECOMUNICACOES LTDA - LINK FULL |
-| Activity | Port scanning (23), Known botnet / C2 infrastructure (4) |
-| Events | 29 |
+| Activity | Port scanning (26), Known botnet / C2 infrastructure (5) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-12T01:37:09Z |
-| Last seen (UTC) | 2026-11-14T15:49:47Z |
+| Last seen (UTC) | 2026-11-15T21:13:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
