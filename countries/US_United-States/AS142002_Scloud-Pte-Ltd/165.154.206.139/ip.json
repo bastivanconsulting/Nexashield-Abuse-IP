@@ -5,11 +5,11 @@
   "asn": 142002,
   "asn_org": "Scloud Pte Ltd",
   "categories": {
-    "scan": 10,
-    "c2": 7
+    "scan": 11,
+    "c2": 8
   },
-  "events": 18,
+  "events": 20,
   "first_seen": "2026-11-12T15:10:44Z",
-  "last_seen": "2026-11-16T06:12:19Z",
+  "last_seen": "2026-11-16T18:19:01Z",
   "reported": "not reported (permanent ban)"
 }

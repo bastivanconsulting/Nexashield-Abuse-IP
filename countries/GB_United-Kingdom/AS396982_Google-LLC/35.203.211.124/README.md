@@ -7,10 +7,10 @@
 | IP | `35.203.211.124` |
 | Country | United Kingdom (GB) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (29), Known botnet / C2 infrastructure (3) |
-| Events | 43 |
+| Activity | Port scanning (30), Known botnet / C2 infrastructure (4) |
+| Events | 45 |
 | First seen (UTC) | 2026-11-11T10:26:19Z |
-| Last seen (UTC) | 2026-11-15T21:59:47Z |
+| Last seen (UTC) | 2026-11-16T18:35:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

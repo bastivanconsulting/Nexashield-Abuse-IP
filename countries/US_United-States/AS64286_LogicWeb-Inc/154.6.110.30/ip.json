@@ -5,10 +5,10 @@
   "asn": 64286,
   "asn_org": "LogicWeb Inc.",
   "categories": {
-    "scan": 14
+    "scan": 16
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-11T14:30:57Z",
-  "last_seen": "2026-11-16T17:47:39Z",
+  "last_seen": "2026-11-16T18:51:41Z",
   "reported": "not reported (permanent ban)"
 }

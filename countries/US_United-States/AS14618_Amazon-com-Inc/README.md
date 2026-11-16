@@ -126,7 +126,7 @@
 | [`100.29.192.64`](100.29.192.64/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-16T04:49:49Z |
 | [`100.29.192.67`](100.29.192.67/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T14:09:38Z |
 | [`100.29.192.69`](100.29.192.69/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-16T12:56:29Z |
-| [`100.29.192.70`](100.29.192.70/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-16T05:12:03Z |
+| [`100.29.192.70`](100.29.192.70/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-16T18:48:27Z |
 | [`100.29.192.71`](100.29.192.71/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-14T10:03:06Z |
 | [`100.29.192.72`](100.29.192.72/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-15T06:54:04Z |
 | [`100.29.192.78`](100.29.192.78/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-14T12:37:34Z |
@@ -152,7 +152,7 @@
 | [`100.29.192.109`](100.29.192.109/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-15T14:55:01Z |
 | [`100.29.192.110`](100.29.192.110/) | Port scanning (13), Known botnet / C2 infrastructure (7) | 21 | 2026-11-16T15:17:11Z |
 | [`100.29.192.111`](100.29.192.111/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-16T01:04:59Z |
-| [`100.29.192.112`](100.29.192.112/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-16T01:49:46Z |
+| [`100.29.192.112`](100.29.192.112/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-16T19:14:23Z |
 | [`100.29.192.113`](100.29.192.113/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-16T17:48:33Z |
 | [`100.29.192.114`](100.29.192.114/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-16T07:58:42Z |
 | [`100.29.192.116`](100.29.192.116/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-16T13:35:36Z |

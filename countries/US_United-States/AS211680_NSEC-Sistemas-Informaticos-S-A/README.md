@@ -1,6 +1,6 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇺🇸 United States · **69** malicious IP(s)
+🇺🇸 United States · **70** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -24,12 +24,12 @@
 | [`45.156.129.88`](45.156.129.88/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 3 | 2026-11-16T03:08:28Z |
 | [`45.156.129.90`](45.156.129.90/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-14T10:09:26Z |
 | [`45.156.129.91`](45.156.129.91/) | Port scanning (11), Known botnet / C2 infrastructure (4) | 17 | 2026-11-15T11:47:04Z |
-| [`45.156.129.92`](45.156.129.92/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 17 | 2026-11-15T23:11:34Z |
+| [`45.156.129.92`](45.156.129.92/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 19 | 2026-11-16T18:30:41Z |
 | [`45.156.129.93`](45.156.129.93/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-15T09:39:02Z |
 | [`45.156.129.95`](45.156.129.95/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-16T05:07:11Z |
 | [`45.156.129.96`](45.156.129.96/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-15T08:52:13Z |
 | [`45.156.129.97`](45.156.129.97/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-16T17:14:58Z |
-| [`45.156.129.98`](45.156.129.98/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-16T01:00:24Z |
+| [`45.156.129.98`](45.156.129.98/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-16T19:03:11Z |
 | [`45.156.129.101`](45.156.129.101/) | Port scanning (2) | 4 | 2026-11-15T16:24:01Z |
 | [`45.156.129.105`](45.156.129.105/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T15:13:49Z |
 | [`45.156.129.106`](45.156.129.106/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-15T12:26:26Z |
@@ -73,6 +73,7 @@
 | [`45.156.129.181`](45.156.129.181/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-15T15:45:51Z |
 | [`185.226.198.4`](185.226.198.4/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-16T01:38:36Z |
 | [`185.226.198.5`](185.226.198.5/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 8 | 2026-11-16T01:40:04Z |
+| [`185.226.198.6`](185.226.198.6/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T18:47:03Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
