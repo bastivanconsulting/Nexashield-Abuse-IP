@@ -5,11 +5,11 @@
   "asn": 36352,
   "asn_org": "HostPapa",
   "categories": {
-    "scan": 17,
-    "c2": 4
+    "scan": 18,
+    "c2": 5
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-12T01:05:45Z",
-  "last_seen": "2026-11-15T04:45:52Z",
+  "last_seen": "2026-11-16T02:05:32Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,15 @@
+{
+  "ip": "139.59.61.127",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 6,
+    "c2": 1
+  },
+  "events": 8,
+  "first_seen": "2026-11-16T02:14:12Z",
+  "last_seen": "2026-11-16T02:15:04Z",
+  "reported": "not reported (permanent ban)"
+}

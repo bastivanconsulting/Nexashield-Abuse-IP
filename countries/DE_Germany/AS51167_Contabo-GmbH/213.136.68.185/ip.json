@@ -1,0 +1,15 @@
+{
+  "ip": "213.136.68.185",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 51167,
+  "asn_org": "Contabo GmbH",
+  "categories": {
+    "scan": 11,
+    "c2": 1
+  },
+  "events": 15,
+  "first_seen": "2026-11-12T02:18:45Z",
+  "last_seen": "2026-11-16T02:01:29Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `192.190.221.7` |
 | Country | United States (US) |
 | ASN | AS32244 · Liquid Web, L.L.C |
-| Activity | Port scanning (55), Known botnet / C2 infrastructure (11) |
-| Events | 81 |
+| Activity | Port scanning (58), Known botnet / C2 infrastructure (12) |
+| Events | 86 |
 | First seen (UTC) | 2026-11-11T17:52:01Z |
-| Last seen (UTC) | 2026-11-15T15:51:01Z |
+| Last seen (UTC) | 2026-11-16T02:00:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `123.58.205.100` |
 | Country | Taiwan (TW) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (18) |
-| Events | 24 |
+| Activity | Port scanning (19) |
+| Events | 25 |
 | First seen (UTC) | 2026-11-13T23:53:37Z |
-| Last seen (UTC) | 2026-11-15T20:45:54Z |
+| Last seen (UTC) | 2026-11-16T01:46:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

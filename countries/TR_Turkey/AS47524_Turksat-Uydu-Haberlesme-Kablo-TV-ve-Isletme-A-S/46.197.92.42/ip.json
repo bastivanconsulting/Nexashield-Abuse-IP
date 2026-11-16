@@ -1,0 +1,15 @@
+{
+  "ip": "46.197.92.42",
+  "country_code": "TR",
+  "country": "Turkey",
+  "asn": 47524,
+  "asn_org": "Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.",
+  "categories": {
+    "scan": 22,
+    "c2": 1
+  },
+  "events": 25,
+  "first_seen": "2026-11-15T20:48:36Z",
+  "last_seen": "2026-11-16T01:27:42Z",
+  "reported": "not reported (permanent ban)"
+}
