@@ -8,8 +8,8 @@
 | [`79.124.62.126`](79.124.62.126/) | Port scanning (45) | 53 | 2026-11-16T01:52:33Z |
 | [`79.124.62.134`](79.124.62.134/) | Port scanning (39) | 45 | 2026-11-16T00:27:51Z |
 | [`79.124.62.178`](79.124.62.178/) | Port scanning (272) | 295 | 2026-11-15T21:40:55Z |
-| [`79.124.62.218`](79.124.62.218/) | Port scanning (59) | 60 | 2026-11-16T05:03:26Z |
-| [`79.124.62.230`](79.124.62.230/) | Port scanning (32) | 38 | 2026-11-15T14:45:00Z |
+| [`79.124.62.218`](79.124.62.218/) | Port scanning (60) | 61 | 2026-11-16T06:03:30Z |
+| [`79.124.62.230`](79.124.62.230/) | Port scanning (35) | 42 | 2026-11-16T06:00:17Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

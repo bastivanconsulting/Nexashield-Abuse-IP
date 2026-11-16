@@ -7,10 +7,10 @@
 | IP | `95.231.180.112` |
 | Country | Italy (IT) |
 | ASN | AS3269 · Telecom Italia S.p.A. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (2) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-12T01:26:10Z |
-| Last seen (UTC) | 2026-11-12T10:27:23Z |
+| Last seen (UTC) | 2026-11-16T05:52:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

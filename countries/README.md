@@ -7,16 +7,16 @@
 | [🇦🇲 Armenia](AM_Armenia/) | 2 |
 | [🇦🇷 Argentina](AR_Argentina/) | 2 |
 | [🇦🇹 Austria](AT_Austria/) | 2 |
-| [🇦🇺 Australia](AU_Australia/) | 12 |
+| [🇦🇺 Australia](AU_Australia/) | 13 |
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 6 |
-| [🇧🇪 Belgium](BE_Belgium/) | 263 |
+| [🇧🇪 Belgium](BE_Belgium/) | 266 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 42 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
 | [🇧🇷 Brazil](BR_Brazil/) | 18 |
 | [🇨🇦 Canada](CA_Canada/) | 9 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 9 |
-| [🇨🇳 China](CN_China/) | 51 |
+| [🇨🇳 China](CN_China/) | 52 |
 | [🇩🇪 Germany](DE_Germany/) | 356 |
 | [🇩🇰 Denmark](DK_Denmark/) | 1 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
@@ -34,7 +34,7 @@
 | [🇮🇳 India](IN_India/) | 14 |
 | [🇮🇷 Iran](IR_Iran/) | 1 |
 | [🇮🇹 Italy](IT_Italy/) | 20 |
-| [🇯🇵 Japan](JP_Japan/) | 25 |
+| [🇯🇵 Japan](JP_Japan/) | 26 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 17 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 9 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 6 |
@@ -43,11 +43,11 @@
 | [🇲🇽 Mexico](MX_Mexico/) | 2 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 10 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 11 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 450 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 455 |
 | [🇳🇴 Norway](NO_Norway/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 4 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 11 |
-| [🇵🇱 Poland](PL_Poland/) | 10 |
+| [🇵🇱 Poland](PL_Poland/) | 11 |
 | [🇵🇷 Puerto Rico](PR_Puerto-Rico/) | 1 |
 | [🇵🇹 Portugal](PT_Portugal/) | 1 |
 | [🇷🇴 Romania](RO_Romania/) | 3 |
@@ -56,12 +56,12 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 8 |
 | [🇸🇪 Sweden](SE_Sweden/) | 30 |
-| [🇸🇬 Singapore](SG_Singapore/) | 29 |
+| [🇸🇬 Singapore](SG_Singapore/) | 30 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 12 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 31 |
 | [🇹🇷 Turkey](TR_Turkey/) | 3 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 9 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1853 |
+| [🇺🇸 United States](US_United-States/) | 1860 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 11 |

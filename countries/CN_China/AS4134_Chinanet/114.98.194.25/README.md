@@ -7,10 +7,10 @@
 | IP | `114.98.194.25` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (10) |
-| Events | 15 |
+| Activity | Port scanning (11) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-11T11:54:27Z |
-| Last seen (UTC) | 2026-11-15T11:29:28Z |
+| Last seen (UTC) | 2026-11-16T05:52:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

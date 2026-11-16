@@ -7,10 +7,10 @@
 | IP | `147.93.176.170` |
 | Country | United States (US) |
 | ASN | AS40021 · Contabo Inc. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (5) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-13T22:36:37Z |
-| Last seen (UTC) | 2026-11-15T22:46:03Z |
+| Last seen (UTC) | 2026-11-16T06:10:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

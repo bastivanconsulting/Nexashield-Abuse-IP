@@ -1,0 +1,14 @@
+{
+  "ip": "138.226.239.3",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 44589,
+  "asn_org": "DIGITAL NETWORK S.R.L.",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-15T10:22:09Z",
+  "last_seen": "2026-11-15T10:22:09Z",
+  "reported": "not reported (permanent ban)"
+}

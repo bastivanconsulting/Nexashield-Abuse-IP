@@ -1,0 +1,15 @@
+{
+  "ip": "194.195.252.210",
+  "country_code": "AU",
+  "country": "Australia",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 21,
+    "c2": 2
+  },
+  "events": 23,
+  "first_seen": "2026-11-11T23:08:26Z",
+  "last_seen": "2026-11-13T15:32:15Z",
+  "reported": "not reported (permanent ban)"
+}

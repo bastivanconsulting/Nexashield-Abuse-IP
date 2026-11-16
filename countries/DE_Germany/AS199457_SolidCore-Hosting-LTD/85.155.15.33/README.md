@@ -7,10 +7,10 @@
 | IP | `85.155.15.33` |
 | Country | Germany (DE) |
 | ASN | AS199457 · SolidCore Hosting LTD |
-| Activity | Port scanning (11) |
-| Events | 20 |
+| Activity | Port scanning (12) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-11T19:44:06Z |
-| Last seen (UTC) | 2026-11-15T16:57:33Z |
+| Last seen (UTC) | 2026-11-16T06:09:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
