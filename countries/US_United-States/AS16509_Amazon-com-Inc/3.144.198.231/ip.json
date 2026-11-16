@@ -1,0 +1,14 @@
+{
+  "ip": "3.144.198.231",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 16509,
+  "asn_org": "Amazon.com, Inc.",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-16T10:24:24Z",
+  "last_seen": "2026-11-16T10:24:24Z",
+  "reported": "not reported (permanent ban)"
+}

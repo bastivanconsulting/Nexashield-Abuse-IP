@@ -7,10 +7,10 @@
 | IP | `143.42.173.101` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (22) |
-| Events | 32 |
+| Activity | Port scanning (23) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-11T12:14:15Z |
-| Last seen (UTC) | 2026-11-16T05:18:21Z |
+| Last seen (UTC) | 2026-11-16T10:04:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
