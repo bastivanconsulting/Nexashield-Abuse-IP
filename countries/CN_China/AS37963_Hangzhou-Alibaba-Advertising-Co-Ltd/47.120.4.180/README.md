@@ -1,0 +1,19 @@
+# `47.120.4.180`
+
+🇨🇳 **China** · AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+
+| Field | Value |
+|---|---|
+| IP | `47.120.4.180` |
+| Country | China (CN) |
+| ASN | AS37963 · Hangzhou Alibaba Advertising Co.,Ltd. |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (2) |
+| Events | 5 |
+| First seen (UTC) | 2026-11-14T17:58:09Z |
+| Last seen (UTC) | 2026-11-15T16:41:26Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

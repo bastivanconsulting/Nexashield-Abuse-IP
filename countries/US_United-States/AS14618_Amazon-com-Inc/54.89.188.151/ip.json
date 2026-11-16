@@ -1,0 +1,15 @@
+{
+  "ip": "54.89.188.151",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14618,
+  "asn_org": "Amazon.com, Inc.",
+  "categories": {
+    "scan": 8,
+    "c2": 2
+  },
+  "events": 13,
+  "first_seen": "2026-11-12T08:19:21Z",
+  "last_seen": "2026-11-16T10:36:03Z",
+  "reported": "not reported (permanent ban)"
+}
