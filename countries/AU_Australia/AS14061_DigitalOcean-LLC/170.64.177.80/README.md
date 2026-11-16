@@ -7,10 +7,10 @@
 | IP | `170.64.177.80` |
 | Country | Australia (AU) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (6) |
-| Events | 27 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (7) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-12T02:19:18Z |
-| Last seen (UTC) | 2026-11-16T08:12:04Z |
+| Last seen (UTC) | 2026-11-16T16:36:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

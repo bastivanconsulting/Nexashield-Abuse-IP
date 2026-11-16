@@ -6,11 +6,11 @@
   "asn_org": "TechTies Inc.",
   "categories": {
     "c2": 549,
-    "spamhaus": 55,
-    "exploit": 15
+    "spamhaus": 59,
+    "exploit": 19
   },
-  "events": 619,
+  "events": 627,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-16T16:19:09Z",
+  "last_seen": "2026-11-16T17:29:01Z",
   "reported": "2026-11-11T16:34:40Z"
 }

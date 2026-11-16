@@ -1,0 +1,14 @@
+{
+  "ip": "8.230.28.93",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 224
+  },
+  "events": 225,
+  "first_seen": "2026-11-16T16:41:15Z",
+  "last_seen": "2026-11-16T16:44:02Z",
+  "reported": "not reported (permanent ban)"
+}

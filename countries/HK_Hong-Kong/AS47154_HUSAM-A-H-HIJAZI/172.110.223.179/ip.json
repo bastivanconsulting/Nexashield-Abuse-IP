@@ -6,10 +6,11 @@
   "asn_org": "HUSAM A. H. HIJAZI",
   "categories": {
     "scan": 35,
-    "c2": 6
+    "c2": 7,
+    "exploit": 1
   },
-  "events": 66,
+  "events": 68,
   "first_seen": "2026-11-11T13:20:08Z",
-  "last_seen": "2026-11-15T21:42:15Z",
+  "last_seen": "2026-11-16T17:09:24Z",
   "reported": "not reported (permanent ban)"
 }

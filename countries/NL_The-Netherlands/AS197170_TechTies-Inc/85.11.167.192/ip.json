@@ -6,10 +6,10 @@
   "asn_org": "TechTies Inc.",
   "categories": {
     "web": 1,
-    "scan": 84
+    "scan": 86
   },
-  "events": 89,
+  "events": 91,
   "first_seen": "2026-11-11T01:01:22Z",
-  "last_seen": "2026-11-16T09:43:45Z",
+  "last_seen": "2026-11-16T17:01:18Z",
   "reported": "not reported (permanent ban)"
 }

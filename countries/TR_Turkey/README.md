@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 1 | SSH brute force (54) |
-| [AS205196](AS205196_BIG-CORE-LLC/) | BIG CORE LLC | 1 | Port scanning (63), Known botnet / C2 infrastructure (15) |
+| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 1 | SSH brute force (58) |
+| [AS205196](AS205196_BIG-CORE-LLC/) | BIG CORE LLC | 1 | Port scanning (64), Known botnet / C2 infrastructure (15) |
 | [AS47524](AS47524_Turksat-Uydu-Haberlesme-Kablo-TV-ve-Isletme-A-S/) | Turksat Uydu Haberlesme Kablo TV ve Isletme A.S. | 1 | Port scanning (22), Known botnet / C2 infrastructure (1) |
 
 ---
