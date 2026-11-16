@@ -101,7 +101,7 @@
 | [`100.29.192.11`](100.29.192.11/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-15T16:08:44Z |
 | [`100.29.192.12`](100.29.192.12/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-16T04:50:23Z |
 | [`100.29.192.13`](100.29.192.13/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T06:15:53Z |
-| [`100.29.192.14`](100.29.192.14/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-15T13:39:42Z |
+| [`100.29.192.14`](100.29.192.14/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-16T15:17:13Z |
 | [`100.29.192.16`](100.29.192.16/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-13T08:40:01Z |
 | [`100.29.192.19`](100.29.192.19/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-15T20:28:07Z |
 | [`100.29.192.25`](100.29.192.25/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-15T13:25:28Z |
@@ -150,7 +150,7 @@
 | [`100.29.192.106`](100.29.192.106/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-14T05:13:47Z |
 | [`100.29.192.108`](100.29.192.108/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-15T12:52:22Z |
 | [`100.29.192.109`](100.29.192.109/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-15T14:55:01Z |
-| [`100.29.192.110`](100.29.192.110/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-16T08:02:53Z |
+| [`100.29.192.110`](100.29.192.110/) | Port scanning (13), Known botnet / C2 infrastructure (7) | 21 | 2026-11-16T15:17:11Z |
 | [`100.29.192.111`](100.29.192.111/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-16T01:04:59Z |
 | [`100.29.192.112`](100.29.192.112/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-16T01:49:46Z |
 | [`100.29.192.113`](100.29.192.113/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-16T06:05:17Z |
