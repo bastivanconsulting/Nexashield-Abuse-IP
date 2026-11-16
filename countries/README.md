@@ -59,9 +59,9 @@
 | [🇸🇬 Singapore](SG_Singapore/) | 34 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 12 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
-| [🇹🇭 Thailand](TH_Thailand/) | 32 |
+| [🇹🇭 Thailand](TH_Thailand/) | 33 |
 | [🇹🇷 Turkey](TR_Turkey/) | 3 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 10 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1936 |
+| [🇺🇸 United States](US_United-States/) | 1938 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 11 |

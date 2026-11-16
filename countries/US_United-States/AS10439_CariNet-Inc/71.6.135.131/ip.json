@@ -5,11 +5,11 @@
   "asn": 10439,
   "asn_org": "CariNet, Inc.",
   "categories": {
-    "c2": 20,
+    "c2": 21,
     "exploit": 1
   },
-  "events": 207,
+  "events": 209,
   "first_seen": "2026-11-11T09:39:11Z",
-  "last_seen": "2026-11-16T21:14:01Z",
+  "last_seen": "2026-11-16T23:14:10Z",
   "reported": "not reported (permanent ban)"
 }

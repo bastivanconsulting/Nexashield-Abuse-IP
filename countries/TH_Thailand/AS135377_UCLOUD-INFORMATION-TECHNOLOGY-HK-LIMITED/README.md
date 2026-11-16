@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇹🇭 Thailand · **28** malicious IP(s)
+🇹🇭 Thailand · **29** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -25,9 +25,10 @@
 | [`152.32.245.27`](152.32.245.27/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-16T14:22:15Z |
 | [`152.32.245.93`](152.32.245.93/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-14T22:14:02Z |
 | [`152.32.245.186`](152.32.245.186/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-16T09:45:25Z |
-| [`152.32.245.196`](152.32.245.196/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 13 | 2026-11-16T10:40:26Z |
+| [`152.32.245.196`](152.32.245.196/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-16T22:55:22Z |
 | [`165.154.51.27`](165.154.51.27/) | Port scanning (16), Known botnet / C2 infrastructure (10) | 27 | 2026-11-16T13:47:48Z |
 | [`165.154.51.193`](165.154.51.193/) | Port scanning (18), Known botnet / C2 infrastructure (9) | 28 | 2026-11-16T20:04:12Z |
+| [`165.154.118.215`](165.154.118.215/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-16T23:16:02Z |
 | [`165.154.119.20`](165.154.119.20/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T20:02:04Z |
 | [`165.154.120.89`](165.154.120.89/) | Port scanning (13), Known botnet / C2 infrastructure (7) | 21 | 2026-11-16T21:59:05Z |
 | [`165.154.120.223`](165.154.120.223/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 22 | 2026-11-16T13:51:09Z |

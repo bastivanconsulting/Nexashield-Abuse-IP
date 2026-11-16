@@ -5,11 +5,11 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-    "scan": 268,
+    "scan": 269,
     "c2": 1
   },
-  "events": 282,
+  "events": 283,
   "first_seen": "2026-11-11T09:47:10Z",
-  "last_seen": "2026-11-16T22:10:22Z",
+  "last_seen": "2026-11-16T22:41:45Z",
   "reported": "not reported (permanent ban)"
 }

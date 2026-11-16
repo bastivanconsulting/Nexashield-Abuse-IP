@@ -5,11 +5,11 @@
   "asn": 4837,
   "asn_org": "CHINA UNICOM China169 Backbone",
   "categories": {
-    "scan": 29,
-    "c2": 4
+    "scan": 31,
+    "c2": 5
   },
-  "events": 37,
+  "events": 40,
   "first_seen": "2026-11-13T16:22:55Z",
-  "last_seen": "2026-11-15T04:30:46Z",
+  "last_seen": "2026-11-16T22:46:44Z",
   "reported": "not reported (permanent ban)"
 }
