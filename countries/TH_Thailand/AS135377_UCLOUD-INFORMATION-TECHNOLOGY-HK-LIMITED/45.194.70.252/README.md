@@ -7,10 +7,10 @@
 | IP | `45.194.70.252` |
 | Country | Thailand (TH) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (16), Known botnet / C2 infrastructure (8) |
-| Events | 25 |
+| Activity | Port scanning (17), Known botnet / C2 infrastructure (8) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-12T17:07:22Z |
-| Last seen (UTC) | 2026-11-15T21:24:09Z |
+| Last seen (UTC) | 2026-11-16T00:28:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

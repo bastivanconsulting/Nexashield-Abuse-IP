@@ -5,11 +5,11 @@
   "asn": 14670,
   "asn_org": "WHG Hosting Services Ltd",
   "categories": {
-    "scan": 18,
-    "c2": 6
+    "scan": 21,
+    "c2": 7
   },
-  "events": 30,
+  "events": 34,
   "first_seen": "2026-11-11T15:23:21Z",
-  "last_seen": "2026-11-14T20:10:40Z",
+  "last_seen": "2026-11-16T00:58:17Z",
   "reported": "not reported (permanent ban)"
 }

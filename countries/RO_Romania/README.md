@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS200651](AS200651_FlokiNET-ehf/) | FlokiNET ehf | 1 | Port scanning (84), Known botnet / C2 infrastructure (5) |
-| [AS209588](AS209588_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (155), Known botnet / C2 infrastructure (10) |
+| [AS200651](AS200651_FlokiNET-ehf/) | FlokiNET ehf | 1 | Port scanning (88), Known botnet / C2 infrastructure (5) |
+| [AS209588](AS209588_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (161), Known botnet / C2 infrastructure (11) |
 | [AS39383](AS39383_Annarsy-SRL/) | Annarsy SRL | 1 | SSH brute force (10), Port scanning (1) |
 
 ---

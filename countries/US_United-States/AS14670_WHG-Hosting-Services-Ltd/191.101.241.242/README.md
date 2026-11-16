@@ -7,10 +7,10 @@
 | IP | `191.101.241.242` |
 | Country | United States (US) |
 | ASN | AS14670 · WHG Hosting Services Ltd |
-| Activity | Port scanning (18), Known botnet / C2 infrastructure (6) |
-| Events | 30 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (7) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-11T15:23:21Z |
-| Last seen (UTC) | 2026-11-14T20:10:40Z |
+| Last seen (UTC) | 2026-11-16T00:58:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

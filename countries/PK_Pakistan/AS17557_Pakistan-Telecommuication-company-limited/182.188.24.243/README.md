@@ -7,10 +7,10 @@
 | IP | `182.188.24.243` |
 | Country | Pakistan (PK) |
 | ASN | AS17557 · Pakistan Telecommuication company limited |
-| Activity | SSH brute force (7) |
-| Events | 7 |
+| Activity | SSH brute force (9) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-15T04:24:22Z |
-| Last seen (UTC) | 2026-11-15T20:02:05Z |
+| Last seen (UTC) | 2026-11-16T01:17:07Z |
 | Reported to network owner (UTC) | 2026-11-15T16:25:20Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,11 +5,11 @@
   "asn": 209425,
   "asn_org": "KOI CLOUD SERVICES (Pty) Ltd",
   "categories": {
-    "scan": 34,
+    "scan": 35,
     "c2": 3
   },
-  "events": 38,
+  "events": 39,
   "first_seen": "2026-11-14T11:11:20Z",
-  "last_seen": "2026-11-15T22:35:39Z",
+  "last_seen": "2026-11-16T00:45:30Z",
   "reported": "not reported (permanent ban)"
 }

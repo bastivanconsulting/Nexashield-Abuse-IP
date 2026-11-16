@@ -7,10 +7,10 @@
 | IP | `193.39.184.14` |
 | Country | United States (US) |
 | ASN | AS62164 · Heymman Servers Corporation |
-| Activity | Port scanning (25) |
-| Events | 26 |
+| Activity | Port scanning (35) |
+| Events | 38 |
 | First seen (UTC) | 2026-11-15T21:54:42Z |
-| Last seen (UTC) | 2026-11-16T00:17:20Z |
+| Last seen (UTC) | 2026-11-16T00:40:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

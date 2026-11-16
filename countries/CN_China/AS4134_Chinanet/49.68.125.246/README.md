@@ -7,10 +7,10 @@
 | IP | `49.68.125.246` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (16) |
-| Events | 22 |
+| Activity | Port scanning (23) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-12T17:21:19Z |
-| Last seen (UTC) | 2026-11-14T21:56:40Z |
+| Last seen (UTC) | 2026-11-16T01:11:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

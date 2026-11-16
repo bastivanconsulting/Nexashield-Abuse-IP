@@ -1,0 +1,15 @@
+{
+  "ip": "61.242.178.28",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 4837,
+  "asn_org": "CHINA UNICOM China169 Backbone",
+  "categories": {
+    "scan": 5,
+    "c2": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-13T03:44:22Z",
+  "last_seen": "2026-11-15T01:34:54Z",
+  "reported": "not reported (permanent ban)"
+}

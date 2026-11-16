@@ -1,13 +1,14 @@
 # AS37963 · Hangzhou Alibaba Advertising Co.,Ltd.
 
-🇨🇳 China · **4** malicious IP(s)
+🇨🇳 China · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`8.130.162.112`](8.130.162.112/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-14T19:50:40Z |
 | [`8.141.125.122`](8.141.125.122/) | SSH brute force (7), Port scanning (2) | 9 | 2026-11-12T11:11:18Z |
 | [`47.94.163.124`](47.94.163.124/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T22:59:50Z |
 | [`47.120.30.67`](47.120.30.67/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-15T02:28:02Z |
-| [`120.76.156.83`](120.76.156.83/) | Port scanning (28) | 38 | 2026-11-15T23:05:06Z |
+| [`120.76.156.83`](120.76.156.83/) | Port scanning (29) | 39 | 2026-11-16T00:40:28Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

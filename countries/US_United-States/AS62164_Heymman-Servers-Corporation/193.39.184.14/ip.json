@@ -5,10 +5,10 @@
   "asn": 62164,
   "asn_org": "Heymman Servers Corporation",
   "categories": {
-    "scan": 25
+    "scan": 35
   },
-  "events": 26,
+  "events": 38,
   "first_seen": "2026-11-15T21:54:42Z",
-  "last_seen": "2026-11-16T00:17:20Z",
+  "last_seen": "2026-11-16T00:40:24Z",
   "reported": "not reported (permanent ban)"
 }

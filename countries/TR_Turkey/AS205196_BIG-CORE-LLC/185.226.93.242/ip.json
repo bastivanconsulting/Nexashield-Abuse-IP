@@ -5,11 +5,11 @@
   "asn": 205196,
   "asn_org": "BIG CORE LLC",
   "categories": {
-    "scan": 54,
+    "scan": 55,
     "c2": 14
   },
-  "events": 69,
+  "events": 70,
   "first_seen": "2026-11-11T11:33:26Z",
-  "last_seen": "2026-11-16T00:16:53Z",
+  "last_seen": "2026-11-16T00:36:40Z",
   "reported": "not reported (permanent ban)"
 }
