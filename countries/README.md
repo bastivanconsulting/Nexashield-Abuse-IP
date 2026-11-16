@@ -13,7 +13,7 @@
 | [🇧🇪 Belgium](BE_Belgium/) | 284 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 42 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
-| [🇧🇷 Brazil](BR_Brazil/) | 19 |
+| [🇧🇷 Brazil](BR_Brazil/) | 20 |
 | [🇨🇦 Canada](CA_Canada/) | 10 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 9 |
 | [🇨🇳 China](CN_China/) | 55 |
@@ -63,5 +63,5 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 3 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 10 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1931 |
+| [🇺🇸 United States](US_United-States/) | 1936 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 11 |

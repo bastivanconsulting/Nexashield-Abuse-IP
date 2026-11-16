@@ -5,11 +5,11 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (60), Known botnet / C2 infrastructure (21) |
-| [AS135905](AS135905_VIETNAM-POSTS-AND-TELECOMMUNICATIONS-GROUP/) | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 1 | Port scanning (100) |
+| [AS135905](AS135905_VIETNAM-POSTS-AND-TELECOMMUNICATIONS-GROUP/) | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 1 | Port scanning (101) |
 | [AS135918](AS135918_VIET-DIGITAL-TECHNOLOGY-LIABILITY-COMPANY/) | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 1 | Port scanning (186) |
 | [AS140791](AS140791_BKHOST-TECHNOLOGY-VIETNAM-JOINT-STOCK-COMPANY/) | BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY | 1 | Port scanning (17), Known botnet / C2 infrastructure (9) |
 | [AS140832](AS140832_Vietnam-F-Tech-JSC/) | Vietnam F Tech., JSC | 1 | Port scanning (27), Known botnet / C2 infrastructure (12) |
-| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (118) |
+| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (119) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
