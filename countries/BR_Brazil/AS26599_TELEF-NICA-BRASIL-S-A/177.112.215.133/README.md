@@ -7,10 +7,10 @@
 | IP | `177.112.215.133` |
 | Country | Brazil (BR) |
 | ASN | AS26599 · TELEFÔNICA BRASIL S.A |
-| Activity | Port scanning (204) |
-| Events | 225 |
+| Activity | Port scanning (205) |
+| Events | 226 |
 | First seen (UTC) | 2026-11-11T09:56:10Z |
-| Last seen (UTC) | 2026-11-15T23:07:44Z |
+| Last seen (UTC) | 2026-11-16T00:12:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

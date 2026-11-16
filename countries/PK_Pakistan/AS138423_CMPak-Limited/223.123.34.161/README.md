@@ -7,8 +7,8 @@
 | IP | `223.123.34.161` |
 | Country | Pakistan (PK) |
 | ASN | AS138423 · CMPak Limited |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-15T12:01:10Z |
 | Last seen (UTC) | 2026-11-15T12:01:10Z |
 | Reported to network owner (UTC) | 2026-11-15T12:25:02Z |

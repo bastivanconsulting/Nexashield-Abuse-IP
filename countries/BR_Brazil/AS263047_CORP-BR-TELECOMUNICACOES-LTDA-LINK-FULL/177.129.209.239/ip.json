@@ -5,11 +5,11 @@
   "asn": 263047,
   "asn_org": "CORP BR TELECOMUNICACOES LTDA - LINK FULL",
   "categories": {
-    "scan": 28,
+    "scan": 29,
     "c2": 5
   },
-  "events": 35,
+  "events": 36,
   "first_seen": "2026-11-12T01:37:09Z",
-  "last_seen": "2026-11-15T22:24:01Z",
+  "last_seen": "2026-11-16T00:04:45Z",
   "reported": "not reported (permanent ban)"
 }

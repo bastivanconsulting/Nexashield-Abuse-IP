@@ -7,10 +7,10 @@
 | IP | `152.32.181.108` |
 | Country | United Arab Emirates (AE) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (3) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-11T18:26:56Z |
-| Last seen (UTC) | 2026-11-15T19:25:04Z |
+| Last seen (UTC) | 2026-11-16T00:03:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

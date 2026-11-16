@@ -1,0 +1,14 @@
+{
+  "ip": "9.205.17.221",
+  "country_code": "DK",
+  "country": "Denmark",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-15T23:51:25Z",
+  "last_seen": "2026-11-15T23:51:25Z",
+  "reported": "not reported (permanent ban)"
+}

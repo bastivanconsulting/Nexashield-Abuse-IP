@@ -10,7 +10,7 @@
 | Activity | Port scanning (12) |
 | Events | 12 |
 | First seen (UTC) | 2026-11-12T22:42:08Z |
-| Last seen (UTC) | 2026-11-15T06:05:47Z |
+| Last seen (UTC) | 2026-11-16T00:28:21Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:30Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

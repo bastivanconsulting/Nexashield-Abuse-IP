@@ -7,8 +7,8 @@
 | IP | `104.198.46.187` |
 | Country | United States (US) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (448), Port scanning (2) |
-| Events | 450 |
+| Activity | Abusive HTTP requests (224), Port scanning (1) |
+| Events | 225 |
 | First seen (UTC) | 2026-11-15T01:03:48Z |
 | Last seen (UTC) | 2026-11-15T01:04:29Z |
 | Reported to network owner (UTC) | 2026-11-15T02:25:48Z |

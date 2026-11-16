@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS174](AS174_Cogent-Communications/) | Cogent Communications | 1 | Port scanning (6) |
+| [AS174](AS174_Cogent-Communications/) | Cogent Communications | 1 | Port scanning (5) |
 | [AS200845](AS200845_AVATEL-TELECOM-SA/) | AVATEL TELECOM, SA | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 
 ---

@@ -7,8 +7,8 @@
 | IP | `159.203.20.151` |
 | Country | Canada (CA) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-15T07:22:42Z |
 | Last seen (UTC) | 2026-11-15T07:22:42Z |
 | Reported to network owner (UTC) | 2026-11-15T08:24:46Z |

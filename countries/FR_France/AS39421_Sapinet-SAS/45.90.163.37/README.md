@@ -7,10 +7,10 @@
 | IP | `45.90.163.37` |
 | Country | France (FR) |
 | ASN | AS39421 · Sapinet SAS |
-| Activity | Known botnet / C2 infrastructure (6) |
-| Events | 6 |
+| Activity | Known botnet / C2 infrastructure (10) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-11T10:10:56Z |
-| Last seen (UTC) | 2026-11-11T14:39:28Z |
+| Last seen (UTC) | 2026-11-16T00:31:42Z |
 | Reported to network owner (UTC) | 2026-11-11T16:34:45Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

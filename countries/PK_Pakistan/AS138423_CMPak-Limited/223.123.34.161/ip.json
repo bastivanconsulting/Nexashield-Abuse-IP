@@ -5,9 +5,9 @@
   "asn": 138423,
   "asn_org": "CMPak Limited",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-15T12:01:10Z",
   "last_seen": "2026-11-15T12:01:10Z",
   "reported": "2026-11-15T12:25:02Z"

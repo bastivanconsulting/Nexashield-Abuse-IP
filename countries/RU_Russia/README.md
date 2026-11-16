@@ -12,7 +12,7 @@
 | [AS212913](AS212913_TIME-HOST-LTD/) | TIME-HOST LTD | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (182), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (7) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (183), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (7) |
 | [AS8402](AS8402_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | Port scanning (11), Known botnet / C2 infrastructure (7) |
 
 ---

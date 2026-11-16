@@ -7,10 +7,10 @@
 | IP | `85.90.246.159` |
 | Country | Germany (DE) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (15), Web injection payload blocked by WAF (2) |
-| Events | 21 |
+| Activity | Port scanning (16), Web injection payload blocked by WAF (2), Known botnet / C2 infrastructure (1) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-11T03:53:30Z |
-| Last seen (UTC) | 2026-11-14T21:56:54Z |
+| Last seen (UTC) | 2026-11-16T00:04:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

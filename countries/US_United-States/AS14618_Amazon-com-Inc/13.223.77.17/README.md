@@ -7,8 +7,8 @@
 | IP | `13.223.77.17` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Abusive HTTP requests (312), Web injection payload blocked by WAF (20) |
-| Events | 332 |
+| Activity | Abusive HTTP requests (156), Web injection payload blocked by WAF (10) |
+| Events | 166 |
 | First seen (UTC) | 2026-11-15T18:23:11Z |
 | Last seen (UTC) | 2026-11-15T18:23:27Z |
 | Reported to network owner (UTC) | 2026-11-15T20:24:50Z |

@@ -12,7 +12,7 @@
 | [`36.255.97.152`](36.255.97.152/) | Port scanning (10) | 16 | 2026-11-14T21:56:40Z |
 | [`36.255.97.229`](36.255.97.229/) | SSH brute force (12), Spamhaus DROP-listed network (3) | 15 | 2026-11-12T01:14:02Z |
 | [`36.255.97.230`](36.255.97.230/) | SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (1) | 19 | 2026-11-11T23:10:54Z |
-| [`36.255.97.242`](36.255.97.242/) | Spamhaus DROP-listed network (11), SSH brute force (7), Port scanning (2) | 20 | 2026-11-15T21:49:37Z |
+| [`36.255.97.242`](36.255.97.242/) | Spamhaus DROP-listed network (8), SSH brute force (7), Port scanning (2) | 17 | 2026-11-15T21:49:37Z |
 | [`43.228.157.90`](43.228.157.90/) | Port scanning (10) | 11 | 2026-11-14T21:56:40Z |
 | [`43.228.157.161`](43.228.157.161/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |
 | [`43.228.157.180`](43.228.157.180/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |

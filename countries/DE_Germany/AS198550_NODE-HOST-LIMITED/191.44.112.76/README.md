@@ -7,8 +7,8 @@
 | IP | `191.44.112.76` |
 | Country | Germany (DE) |
 | ASN | AS198550 · NODE HOST LIMITED |
-| Activity | Exploitation attempt (CVE / RCE / injection) (8) |
-| Events | 8 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-15T18:44:04Z |
 | Last seen (UTC) | 2026-11-15T19:22:54Z |
 | Reported to network owner (UTC) | 2026-11-15T20:24:54Z |

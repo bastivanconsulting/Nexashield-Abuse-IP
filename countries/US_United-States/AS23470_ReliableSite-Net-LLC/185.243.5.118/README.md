@@ -7,8 +7,8 @@
 | IP | `185.243.5.118` |
 | Country | United States (US) |
 | ASN | AS23470 · ReliableSite.Net LLC |
-| Activity | Port scanning (8) |
-| Events | 8 |
+| Activity | Port scanning (7) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-11T21:10:49Z |
 | Last seen (UTC) | 2026-11-15T07:44:07Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:49Z |

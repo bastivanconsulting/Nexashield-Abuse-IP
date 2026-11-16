@@ -5,9 +5,9 @@
   "asn": 199457,
   "asn_org": "SolidCore Hosting LTD",
   "categories": {
-    "web": 160
+    "web": 80
   },
-  "events": 160,
+  "events": 80,
   "first_seen": "2026-11-15T07:58:01Z",
   "last_seen": "2026-11-15T08:00:04Z",
   "reported": "2026-11-15T08:24:51Z"

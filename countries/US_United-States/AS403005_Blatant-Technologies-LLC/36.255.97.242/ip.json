@@ -5,11 +5,11 @@
   "asn": 403005,
   "asn_org": "Blatant Technologies, LLC",
   "categories": {
-    "spamhaus": 11,
+    "spamhaus": 8,
     "scan": 2,
     "ssh": 7
   },
-  "events": 20,
+  "events": 17,
   "first_seen": "2026-11-11T18:58:54Z",
   "last_seen": "2026-11-15T21:49:37Z",
   "reported": "2026-11-11T21:10:10Z"

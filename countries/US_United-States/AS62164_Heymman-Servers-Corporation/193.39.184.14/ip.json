@@ -1,0 +1,14 @@
+{
+  "ip": "193.39.184.14",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 62164,
+  "asn_org": "Heymman Servers Corporation",
+  "categories": {
+    "scan": 25
+  },
+  "events": 26,
+  "first_seen": "2026-11-15T21:54:42Z",
+  "last_seen": "2026-11-16T00:17:20Z",
+  "reported": "not reported (permanent ban)"
+}

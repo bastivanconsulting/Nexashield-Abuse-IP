@@ -7,10 +7,10 @@
 | IP | `36.226.232.122` |
 | Country | Taiwan (TW) |
 | ASN | AS3462 · Chunghwa Telecom Co., Ltd. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 5 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-15T14:20:32Z |
-| Last seen (UTC) | 2026-11-15T21:05:19Z |
+| Last seen (UTC) | 2026-11-16T00:15:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

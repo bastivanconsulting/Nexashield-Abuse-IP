@@ -7,8 +7,8 @@
 | IP | `169.40.142.224` |
 | Country | France (FR) |
 | ASN | AS215599 · Zkillu SAS |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-15T19:36:01Z |
 | Last seen (UTC) | 2026-11-15T19:36:01Z |
 | Reported to network owner (UTC) | 2026-11-15T20:24:58Z |

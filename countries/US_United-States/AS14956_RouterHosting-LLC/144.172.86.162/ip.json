@@ -5,10 +5,10 @@
   "asn": 14956,
   "asn_org": "RouterHosting LLC",
   "categories": {
-    "web": 532,
-    "waf": 22
+    "web": 266,
+    "waf": 11
   },
-  "events": 554,
+  "events": 277,
   "first_seen": "2026-11-15T19:02:27Z",
   "last_seen": "2026-11-15T19:02:43Z",
   "reported": "2026-11-15T20:24:45Z"

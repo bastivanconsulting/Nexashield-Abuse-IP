@@ -7,8 +7,8 @@
 | IP | `34.163.127.33` |
 | Country | France (FR) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (660), Web injection payload blocked by WAF (40) |
-| Events | 700 |
+| Activity | Abusive HTTP requests (330), Web injection payload blocked by WAF (20) |
+| Events | 350 |
 | First seen (UTC) | 2026-11-15T06:36:25Z |
 | Last seen (UTC) | 2026-11-15T06:36:49Z |
 | Reported to network owner (UTC) | 2026-11-15T08:24:41Z |

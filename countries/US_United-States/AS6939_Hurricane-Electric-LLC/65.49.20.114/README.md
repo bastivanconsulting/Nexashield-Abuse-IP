@@ -7,10 +7,10 @@
 | IP | `65.49.20.114` |
 | Country | United States (US) |
 | ASN | AS6939 · Hurricane Electric LLC |
-| Activity | Port scanning (13), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 21 |
+| Activity | Port scanning (14), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-11T11:22:18Z |
-| Last seen (UTC) | 2026-11-15T11:53:51Z |
+| Last seen (UTC) | 2026-11-16T00:10:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

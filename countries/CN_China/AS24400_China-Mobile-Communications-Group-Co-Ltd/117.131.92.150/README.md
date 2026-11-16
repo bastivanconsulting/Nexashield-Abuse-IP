@@ -7,8 +7,8 @@
 | IP | `117.131.92.150` |
 | Country | China (CN) |
 | ASN | AS24400 · China Mobile Communications Group Co., Ltd |
-| Activity | Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 4 |
+| Activity | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-15T17:15:53Z |
 | Last seen (UTC) | 2026-11-15T17:15:53Z |
 | Reported to network owner (UTC) | 2026-11-15T18:25:13Z |
