@@ -1,0 +1,15 @@
+{
+  "ip": "103.66.148.82",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 142647,
+  "asn_org": "Nasstec Airnet Networks Private Limited",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-13T20:53:48Z",
+  "last_seen": "2026-11-16T03:56:04Z",
+  "reported": "not reported (permanent ban)"
+}

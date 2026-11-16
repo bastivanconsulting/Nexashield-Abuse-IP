@@ -1,11 +1,11 @@
 # 🇧🇪 Belgium
 
-**261** malicious IP(s) across **2** network(s).
+**263** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 237 | Port scanning (6726), Known botnet / C2 infrastructure (721), Abusive HTTP requests (42), SSH brute force (32), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 24 | Abusive HTTP requests (3990), Web injection payload blocked by WAF (34) |
+| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 238 | Port scanning (6838), Known botnet / C2 infrastructure (742), Abusive HTTP requests (42), SSH brute force (33), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 25 | Abusive HTTP requests (4274), Web injection payload blocked by WAF (34) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

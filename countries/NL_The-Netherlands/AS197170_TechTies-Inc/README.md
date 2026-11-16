@@ -4,27 +4,27 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.153.34.32`](45.153.34.32/) | Port scanning (59) | 60 | 2026-11-16T00:08:22Z |
+| [`45.153.34.32`](45.153.34.32/) | Port scanning (61) | 62 | 2026-11-16T04:10:05Z |
 | [`45.153.34.87`](45.153.34.87/) | Port scanning (64) | 65 | 2026-11-16T02:31:19Z |
 | [`45.156.87.10`](45.156.87.10/) | Port scanning (16) | 18 | 2026-11-14T21:56:40Z |
 | [`45.156.87.50`](45.156.87.50/) | SSH brute force (25) | 25 | 2026-11-12T03:52:57Z |
 | [`45.156.87.72`](45.156.87.72/) | SSH brute force (17) | 17 | 2026-11-12T01:10:46Z |
 | [`45.156.87.78`](45.156.87.78/) | SSH brute force (6) | 6 | 2026-11-14T08:14:22Z |
 | [`45.156.87.119`](45.156.87.119/) | Port scanning (10) | 10 | 2026-11-14T18:30:47Z |
-| [`45.156.87.127`](45.156.87.127/) | Port scanning (70) | 71 | 2026-11-16T03:02:42Z |
+| [`45.156.87.127`](45.156.87.127/) | Port scanning (71) | 72 | 2026-11-16T04:12:04Z |
 | [`45.156.87.153`](45.156.87.153/) | SSH brute force (14) | 14 | 2026-11-12T00:22:42Z |
 | [`45.156.87.168`](45.156.87.168/) | SSH brute force (27) | 27 | 2026-11-12T01:37:24Z |
 | [`45.156.87.189`](45.156.87.189/) | SSH brute force (10) | 10 | 2026-11-12T21:22:13Z |
-| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (268), Port scanning (187) | 455 | 2026-11-16T03:32:59Z |
+| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (278), Port scanning (187) | 465 | 2026-11-16T03:52:28Z |
 | [`85.11.167.37`](85.11.167.37/) | Port scanning (16), Known botnet / C2 infrastructure (7) | 24 | 2026-11-14T01:33:40Z |
 | [`85.11.167.72`](85.11.167.72/) | SSH brute force (12), Spamhaus DROP-listed network (5), Port scanning (3) | 20 | 2026-11-14T12:52:00Z |
-| [`85.11.167.192`](85.11.167.192/) | Port scanning (79), Abusive HTTP requests (1) | 84 | 2026-11-16T02:40:18Z |
+| [`85.11.167.192`](85.11.167.192/) | Port scanning (80), Abusive HTTP requests (1) | 85 | 2026-11-16T03:56:45Z |
 | [`85.11.167.204`](85.11.167.204/) | Spamhaus DROP-listed network (23), Abusive HTTP requests (11) | 34 | 2026-11-14T10:37:57Z |
-| [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (543), Exploitation attempt (CVE / RCE / injection) (3), Spamhaus DROP-listed network (1) | 547 | 2026-11-16T03:27:44Z |
+| [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (549), Spamhaus DROP-listed network (5), Exploitation attempt (CVE / RCE / injection) (3) | 557 | 2026-11-16T04:33:41Z |
 | [`91.92.47.5`](91.92.47.5/) | Abusive HTTP requests (8) | 8 | 2026-11-12T10:14:53Z |
 | [`176.65.132.39`](176.65.132.39/) | Port scanning (15) | 18 | 2026-11-14T21:56:40Z |
 | [`176.65.132.107`](176.65.132.107/) | Port scanning (8), Known botnet / C2 infrastructure (1) | 11 | 2026-11-14T16:53:08Z |
-| [`176.65.132.251`](176.65.132.251/) | Port scanning (67) | 69 | 2026-11-16T03:08:45Z |
+| [`176.65.132.251`](176.65.132.251/) | Port scanning (68) | 70 | 2026-11-16T03:54:24Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

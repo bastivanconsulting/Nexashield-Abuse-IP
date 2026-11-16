@@ -5,11 +5,11 @@
   "asn": 141474,
   "asn_org": "Trust Innovation Limited",
   "categories": {
-    "scan": 13,
-    "c2": 2
+    "scan": 14,
+    "c2": 3
   },
-  "events": 15,
+  "events": 18,
   "first_seen": "2026-11-12T12:46:30Z",
-  "last_seen": "2026-11-15T05:28:04Z",
+  "last_seen": "2026-11-16T03:28:04Z",
   "reported": "not reported (permanent ban)"
 }

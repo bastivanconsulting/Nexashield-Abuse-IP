@@ -7,10 +7,10 @@
 | IP | `185.226.197.48` |
 | Country | The Netherlands (NL) |
 | ASN | AS21859 · Zenlayer Inc |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (5) |
-| Events | 12 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (6) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-11T12:19:19Z |
-| Last seen (UTC) | 2026-11-15T10:59:26Z |
+| Last seen (UTC) | 2026-11-16T03:38:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
