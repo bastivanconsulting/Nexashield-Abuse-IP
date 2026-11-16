@@ -7,10 +7,10 @@
 | IP | `61.220.94.159` |
 | Country | Taiwan (TW) |
 | ASN | AS3462 · Chunghwa Telecom Co., Ltd. |
-| Activity | Port scanning (22) |
-| Events | 34 |
+| Activity | Port scanning (23) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-11T16:07:41Z |
-| Last seen (UTC) | 2026-11-16T00:51:43Z |
+| Last seen (UTC) | 2026-11-16T13:05:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

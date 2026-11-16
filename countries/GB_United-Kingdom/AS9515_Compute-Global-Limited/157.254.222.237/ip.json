@@ -1,0 +1,15 @@
+{
+  "ip": "157.254.222.237",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 9515,
+  "asn_org": "Compute Global Limited",
+  "categories": {
+    "scan": 9,
+    "c2": 3
+  },
+  "events": 13,
+  "first_seen": "2026-11-13T04:42:42Z",
+  "last_seen": "2026-11-16T12:58:47Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `92.154.95.236` |
 | Country | France (FR) |
 | ASN | AS3215 · Orange S.A. |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (4), Web injection payload blocked by WAF (1) |
-| Events | 29 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (5), Web injection payload blocked by WAF (1) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-11T09:17:03Z |
-| Last seen (UTC) | 2026-11-15T16:39:53Z |
+| Last seen (UTC) | 2026-11-16T12:32:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

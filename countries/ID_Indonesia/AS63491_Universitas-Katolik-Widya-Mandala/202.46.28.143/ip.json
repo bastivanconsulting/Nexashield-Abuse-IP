@@ -5,11 +5,11 @@
   "asn": 63491,
   "asn_org": "Universitas Katolik Widya Mandala",
   "categories": {
-    "scan": 71,
+    "scan": 72,
     "c2": 16
   },
-  "events": 88,
+  "events": 89,
   "first_seen": "2026-11-11T10:18:20Z",
-  "last_seen": "2026-11-16T11:11:01Z",
+  "last_seen": "2026-11-16T12:34:02Z",
   "reported": "not reported (permanent ban)"
 }

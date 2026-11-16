@@ -9,14 +9,14 @@
 | [`151.243.11.28`](151.243.11.28/) | Port scanning (79), Known botnet / C2 infrastructure (8) | 89 | 2026-11-15T21:48:47Z |
 | [`151.243.11.29`](151.243.11.29/) | Port scanning (60), Known botnet / C2 infrastructure (8) | 71 | 2026-11-16T10:06:17Z |
 | [`151.243.11.30`](151.243.11.30/) | Port scanning (62), Known botnet / C2 infrastructure (8) | 71 | 2026-11-16T10:51:29Z |
-| [`151.243.11.31`](151.243.11.31/) | Port scanning (86), Known botnet / C2 infrastructure (8) | 97 | 2026-11-16T09:45:56Z |
+| [`151.243.11.31`](151.243.11.31/) | Port scanning (88), Known botnet / C2 infrastructure (8) | 99 | 2026-11-16T12:46:47Z |
 | [`151.243.11.32`](151.243.11.32/) | Port scanning (65), Known botnet / C2 infrastructure (7) | 74 | 2026-11-15T22:45:42Z |
-| [`151.243.11.33`](151.243.11.33/) | Port scanning (63), Known botnet / C2 infrastructure (8) | 72 | 2026-11-16T10:31:10Z |
+| [`151.243.11.33`](151.243.11.33/) | Port scanning (65), Known botnet / C2 infrastructure (8) | 74 | 2026-11-16T12:36:23Z |
 | [`151.243.11.34`](151.243.11.34/) | Port scanning (67), Known botnet / C2 infrastructure (7) | 76 | 2026-11-15T22:17:41Z |
 | [`151.243.11.35`](151.243.11.35/) | Port scanning (83), Known botnet / C2 infrastructure (8) | 93 | 2026-11-16T11:19:38Z |
 | [`151.243.11.36`](151.243.11.36/) | Port scanning (82), Known botnet / C2 infrastructure (8) | 92 | 2026-11-16T10:47:39Z |
 | [`151.243.11.37`](151.243.11.37/) | Port scanning (60), Known botnet / C2 infrastructure (8) | 70 | 2026-11-16T10:23:33Z |
-| [`151.243.11.38`](151.243.11.38/) | Port scanning (59), Known botnet / C2 infrastructure (8) | 68 | 2026-11-16T11:22:13Z |
+| [`151.243.11.38`](151.243.11.38/) | Port scanning (61), Known botnet / C2 infrastructure (8) | 70 | 2026-11-16T12:50:52Z |
 | [`151.243.11.39`](151.243.11.39/) | Port scanning (62), Known botnet / C2 infrastructure (8) | 72 | 2026-11-16T10:39:22Z |
 | [`151.243.11.40`](151.243.11.40/) | Port scanning (57), Known botnet / C2 infrastructure (6) | 65 | 2026-11-16T10:49:50Z |
 | [`151.243.11.41`](151.243.11.41/) | Port scanning (72), Known botnet / C2 infrastructure (8) | 82 | 2026-11-16T11:35:11Z |

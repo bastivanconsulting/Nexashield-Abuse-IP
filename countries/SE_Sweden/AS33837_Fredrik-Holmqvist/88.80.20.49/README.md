@@ -7,10 +7,10 @@
 | IP | `88.80.20.49` |
 | Country | Sweden (SE) |
 | ASN | AS33837 · Fredrik Holmqvist |
-| Activity | Port scanning (20) |
-| Events | 29 |
+| Activity | Port scanning (21) |
+| Events | 30 |
 | First seen (UTC) | 2026-11-11T19:15:25Z |
-| Last seen (UTC) | 2026-11-16T10:53:05Z |
+| Last seen (UTC) | 2026-11-16T12:43:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
