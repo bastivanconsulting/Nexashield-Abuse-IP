@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇩🇪 Germany · **13** malicious IP(s)
+🇩🇪 Germany · **14** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,11 +12,12 @@
 | [`118.193.58.120`](118.193.58.120/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-15T22:59:43Z |
 | [`118.193.59.15`](118.193.59.15/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-16T03:17:30Z |
 | [`118.193.59.41`](118.193.59.41/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 9 | 2026-11-16T02:48:04Z |
-| [`118.193.59.142`](118.193.59.142/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T23:06:26Z |
+| [`118.193.59.142`](118.193.59.142/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-16T05:14:49Z |
 | [`165.154.138.79`](165.154.138.79/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T07:21:05Z |
 | [`165.154.138.165`](165.154.138.165/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-15T21:37:03Z |
 | [`165.154.164.21`](165.154.164.21/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-16T03:57:04Z |
 | [`165.154.164.24`](165.154.164.24/) | Port scanning (12), Known botnet / C2 infrastructure (6) | 20 | 2026-11-15T11:23:22Z |
+| [`165.154.164.114`](165.154.164.114/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 7 | 2026-11-16T00:13:31Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

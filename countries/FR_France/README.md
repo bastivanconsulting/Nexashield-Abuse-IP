@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (4344), Known botnet / C2 infrastructure (895), Exploitation attempt (CVE / RCE / injection) (8), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1261), SSH brute force (470), Known botnet / C2 infrastructure (109) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (4354), Known botnet / C2 infrastructure (901), Exploitation attempt (CVE / RCE / injection) (8), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1263), SSH brute force (470), Known botnet / C2 infrastructure (109) |
 | [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 21 | Port scanning (636), Known botnet / C2 infrastructure (70), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 7 | Abusive HTTP requests (348), Port scanning (109), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (13) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (214), Known botnet / C2 infrastructure (12) |

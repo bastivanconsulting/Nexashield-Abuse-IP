@@ -1,9 +1,10 @@
 # AS45090 · Shenzhen Tencent Computer Systems Company Limited
 
-🇨🇳 China · **4** malicious IP(s)
+🇨🇳 China · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`43.142.87.72`](43.142.87.72/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T05:16:03Z |
 | [`82.157.7.182`](82.157.7.182/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T22:09:04Z |
 | [`118.195.150.149`](118.195.150.149/) | Port scanning (18) | 27 | 2026-11-16T03:27:42Z |
 | [`159.75.211.148`](159.75.211.148/) | Web injection payload blocked by WAF (1) | 1 | 2026-11-15T16:28:35Z |

@@ -7,10 +7,10 @@
 | IP | `206.189.120.50` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (3) |
-| Events | 13 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (3) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-12T08:16:28Z |
-| Last seen (UTC) | 2026-11-16T03:19:20Z |
+| Last seen (UTC) | 2026-11-16T05:09:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

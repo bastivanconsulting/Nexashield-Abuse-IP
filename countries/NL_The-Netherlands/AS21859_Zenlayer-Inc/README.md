@@ -6,11 +6,11 @@
 |---|---|---:|---|
 | [`185.226.197.7`](185.226.197.7/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T03:19:18Z |
 | [`185.226.197.8`](185.226.197.8/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-15T21:43:30Z |
-| [`185.226.197.9`](185.226.197.9/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T10:07:03Z |
+| [`185.226.197.9`](185.226.197.9/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T04:54:27Z |
 | [`185.226.197.12`](185.226.197.12/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 12 | 2026-11-15T17:59:15Z |
 | [`185.226.197.27`](185.226.197.27/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 37 | 2026-11-15T02:22:18Z |
 | [`185.226.197.28`](185.226.197.28/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-15T03:35:38Z |
-| [`185.226.197.30`](185.226.197.30/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 17 | 2026-11-16T01:05:59Z |
+| [`185.226.197.30`](185.226.197.30/) | Port scanning (11), Known botnet / C2 infrastructure (5) | 18 | 2026-11-16T04:34:23Z |
 | [`185.226.197.34`](185.226.197.34/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T01:57:04Z |
 | [`185.226.197.35`](185.226.197.35/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T02:14:44Z |
 | [`185.226.197.38`](185.226.197.38/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-15T18:07:14Z |

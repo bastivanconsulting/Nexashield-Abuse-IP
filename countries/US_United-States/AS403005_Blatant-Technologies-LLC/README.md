@@ -1,6 +1,6 @@
 # AS403005 · Blatant Technologies, LLC
 
-🇺🇸 United States · **15** malicious IP(s)
+🇺🇸 United States · **16** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,10 +13,11 @@
 | [`36.255.97.229`](36.255.97.229/) | SSH brute force (12), Spamhaus DROP-listed network (3) | 15 | 2026-11-12T01:14:02Z |
 | [`36.255.97.230`](36.255.97.230/) | SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (1) | 19 | 2026-11-11T23:10:54Z |
 | [`36.255.97.242`](36.255.97.242/) | Spamhaus DROP-listed network (8), SSH brute force (7), Port scanning (2) | 17 | 2026-11-15T21:49:37Z |
-| [`43.228.157.90`](43.228.157.90/) | Port scanning (10) | 11 | 2026-11-14T21:56:40Z |
+| [`43.228.157.90`](43.228.157.90/) | Port scanning (11) | 12 | 2026-11-16T05:07:40Z |
 | [`43.228.157.161`](43.228.157.161/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |
 | [`43.228.157.180`](43.228.157.180/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |
 | [`43.228.157.200`](43.228.157.200/) | Port scanning (7) | 8 | 2026-11-14T21:56:40Z |
+| [`43.228.157.215`](43.228.157.215/) | Port scanning (22) | 25 | 2026-11-16T05:17:25Z |
 | [`43.228.157.222`](43.228.157.222/) | Port scanning (20) | 21 | 2026-11-14T21:56:40Z |
 | [`43.228.157.245`](43.228.157.245/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 23 | 2026-11-15T21:26:24Z |
 
