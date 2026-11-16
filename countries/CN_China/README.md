@@ -4,10 +4,10 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4134](AS4134_Chinanet/) | Chinanet | 10 | Port scanning (405), Known botnet / C2 infrastructure (25), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 10 | Port scanning (407), Known botnet / C2 infrastructure (26), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 6 | Port scanning (79), Known botnet / C2 infrastructure (46) |
 | [AS136958](AS136958_China-Unicom-Guangdong-IP-network/) | China Unicom Guangdong IP network | 5 | Port scanning (53) |
-| [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 5 | Port scanning (49), Known botnet / C2 infrastructure (12), SSH brute force (7) |
+| [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 5 | Port scanning (50), Known botnet / C2 infrastructure (12), SSH brute force (7) |
 | [AS45090](AS45090_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 5 | Port scanning (25), Known botnet / C2 infrastructure (6), SSH brute force (5), Web injection payload blocked by WAF (1) |
 | [AS4837](AS4837_CHINA-UNICOM-China169-Backbone/) | CHINA UNICOM China169 Backbone | 4 | Port scanning (66), Known botnet / C2 infrastructure (7), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS136180](AS136180_Beijing-Tiantexin-Tech-Co-Ltd/) | Beijing Tiantexin Tech. Co., Ltd. | 2 | Port scanning (116) |

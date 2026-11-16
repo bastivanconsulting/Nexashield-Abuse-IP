@@ -7,11 +7,11 @@
 | IP | `45.94.31.201` |
 | Country | The Netherlands (NL) |
 | ASN | AS210558 · 1337 Services GmbH |
-| Activity | Abusive HTTP requests (466), Exploitation attempt (CVE / RCE / injection) (10), Port scanning (5) |
-| Events | 494 |
+| Activity | Web injection payload blocked by WAF (20), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4), Spamhaus DROP-listed network (2) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-16T06:31:38Z |
-| Last seen (UTC) | 2026-11-16T06:33:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-16T06:32:26Z |
+| Reported to network owner (UTC) | 2026-11-16T08:25:00Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

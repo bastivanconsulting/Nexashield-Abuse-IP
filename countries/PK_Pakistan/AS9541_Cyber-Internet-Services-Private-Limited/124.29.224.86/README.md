@@ -7,11 +7,11 @@
 | IP | `124.29.224.86` |
 | Country | Pakistan (PK) |
 | ASN | AS9541 · Cyber Internet Services (Private) Limited |
-| Activity | Web injection payload blocked by WAF (1), Known botnet / C2 infrastructure (1) |
+| Activity | Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2) |
 | Events | 4 |
 | First seen (UTC) | 2026-11-16T05:34:25Z |
-| Last seen (UTC) | 2026-11-16T05:35:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-16T05:34:26Z |
+| Reported to network owner (UTC) | 2026-11-16T08:25:05Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

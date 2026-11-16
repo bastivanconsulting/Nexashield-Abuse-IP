@@ -18,15 +18,15 @@
 | [`185.242.226.8`](185.242.226.8/) | Port scanning (17), Known botnet / C2 infrastructure (2) | 24 | 2026-11-14T08:19:46Z |
 | [`185.242.226.17`](185.242.226.17/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 12 | 2026-11-13T19:53:59Z |
 | [`185.242.226.19`](185.242.226.19/) | Port scanning (9), Known botnet / C2 infrastructure (2) | 13 | 2026-11-13T17:52:53Z |
-| [`185.242.226.58`](185.242.226.58/) | Port scanning (24), Known botnet / C2 infrastructure (4) | 34 | 2026-11-14T21:10:04Z |
+| [`185.242.226.58`](185.242.226.58/) | Port scanning (25), Known botnet / C2 infrastructure (5) | 36 | 2026-11-16T07:33:46Z |
 | [`185.242.226.60`](185.242.226.60/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 19 | 2026-11-14T02:11:17Z |
 | [`185.242.226.61`](185.242.226.61/) | Port scanning (26), Known botnet / C2 infrastructure (4) | 34 | 2026-11-13T10:39:42Z |
 | [`185.242.226.64`](185.242.226.64/) | Port scanning (24) | 33 | 2026-11-16T06:53:50Z |
 | [`185.242.226.67`](185.242.226.67/) | Port scanning (36) | 47 | 2026-11-15T11:31:28Z |
-| [`185.242.226.68`](185.242.226.68/) | Port scanning (95) | 117 | 2026-11-16T02:10:33Z |
+| [`185.242.226.68`](185.242.226.68/) | Port scanning (96) | 119 | 2026-11-16T07:54:06Z |
 | [`185.242.226.72`](185.242.226.72/) | Port scanning (44), Known botnet / C2 infrastructure (6) | 57 | 2026-11-16T04:24:37Z |
 | [`185.242.226.74`](185.242.226.74/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 11 | 2026-11-13T23:25:35Z |
-| [`185.242.226.87`](185.242.226.87/) | Port scanning (58), Known botnet / C2 infrastructure (1) | 76 | 2026-11-16T06:59:04Z |
+| [`185.242.226.87`](185.242.226.87/) | Port scanning (60), Known botnet / C2 infrastructure (1) | 78 | 2026-11-16T08:09:15Z |
 | [`185.242.226.90`](185.242.226.90/) | Port scanning (29), Known botnet / C2 infrastructure (3) | 38 | 2026-11-15T22:22:21Z |
 | [`185.242.226.92`](185.242.226.92/) | Port scanning (20), Known botnet / C2 infrastructure (3) | 25 | 2026-11-13T21:46:02Z |
 | [`185.242.226.97`](185.242.226.97/) | Port scanning (134) | 159 | 2026-11-16T02:44:19Z |

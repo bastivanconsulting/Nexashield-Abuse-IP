@@ -1,0 +1,15 @@
+{
+  "ip": "45.156.129.153",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 211680,
+  "asn_org": "NSEC - Sistemas Informaticos, S.A.",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-15T12:47:04Z",
+  "last_seen": "2026-11-16T04:42:45Z",
+  "reported": "not reported (permanent ban)"
+}
