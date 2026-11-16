@@ -1,10 +1,10 @@
 # 🇵🇭 Philippines
 
-**4** malicious IP(s) across **3** network(s).
+**5** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | Port scanning (22), Known botnet / C2 infrastructure (9) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (29), Known botnet / C2 infrastructure (12) |
 | [AS142271](AS142271_DoubleSquare-Networks-Inc/) | DoubleSquare Networks Inc. | 1 | SSH brute force (1064) |
 | [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 1 | SSH brute force (5), Port scanning (4) |
 

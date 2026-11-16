@@ -510,6 +510,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 20.102.91.13
  network-object host 20.105.65.67
  network-object host 20.106.51.28
+ network-object host 20.106.51.146
  network-object host 20.106.59.36
  network-object host 20.106.59.145
  network-object host 20.106.59.227
@@ -589,6 +590,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 20.169.49.247
  network-object host 20.169.50.152
  network-object host 20.169.82.238
+ network-object host 20.169.84.52
  network-object host 20.169.84.197
  network-object host 20.169.84.200
  network-object host 20.169.84.217
@@ -1075,6 +1077,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 35.210.75.20
  network-object host 35.210.75.155
  network-object host 35.210.76.225
+ network-object host 35.210.78.230
  network-object host 35.210.82.106
  network-object host 35.210.82.131
  network-object host 35.210.82.144
@@ -1152,6 +1155,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 35.210.178.145
  network-object host 35.210.178.162
  network-object host 35.210.183.159
+ network-object host 35.210.184.1
  network-object host 35.210.184.14
  network-object host 35.210.184.157
  network-object host 35.210.184.225
@@ -1182,6 +1186,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 35.210.210.121
  network-object host 35.210.212.218
  network-object host 35.210.213.124
+ network-object host 35.210.214.138
  network-object host 35.210.222.181
  network-object host 35.210.223.3
  network-object host 35.210.223.127
@@ -1785,6 +1790,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 47.251.101.198
  network-object host 47.251.101.253
  network-object host 47.251.186.35
+ network-object host 47.251.190.194
  network-object host 47.253.224.181
  network-object host 47.254.44.103
  network-object host 47.254.90.34
@@ -3720,6 +3726,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 165.154.12.139
  network-object host 165.154.22.27
  network-object host 165.154.23.177
+ network-object host 165.154.33.91
  network-object host 165.154.36.105
  network-object host 165.154.40.244
  network-object host 165.154.41.6

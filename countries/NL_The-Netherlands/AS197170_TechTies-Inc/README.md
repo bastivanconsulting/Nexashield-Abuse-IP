@@ -15,12 +15,12 @@
 | [`45.156.87.153`](45.156.87.153/) | SSH brute force (14) | 14 | 2026-11-12T00:22:42Z |
 | [`45.156.87.168`](45.156.87.168/) | SSH brute force (27) | 27 | 2026-11-12T01:37:24Z |
 | [`45.156.87.189`](45.156.87.189/) | SSH brute force (10) | 10 | 2026-11-12T21:22:13Z |
-| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (306), Port scanning (187) | 493 | 2026-11-16T08:33:48Z |
+| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (308), Port scanning (187) | 495 | 2026-11-16T08:35:34Z |
 | [`85.11.167.37`](85.11.167.37/) | Port scanning (16), Known botnet / C2 infrastructure (7) | 24 | 2026-11-14T01:33:40Z |
 | [`85.11.167.72`](85.11.167.72/) | SSH brute force (12), Spamhaus DROP-listed network (5), Port scanning (3) | 20 | 2026-11-14T12:52:00Z |
-| [`85.11.167.192`](85.11.167.192/) | Port scanning (82), Abusive HTTP requests (1) | 87 | 2026-11-16T06:36:29Z |
+| [`85.11.167.192`](85.11.167.192/) | Port scanning (83), Abusive HTTP requests (1) | 88 | 2026-11-16T08:58:29Z |
 | [`85.11.167.204`](85.11.167.204/) | Spamhaus DROP-listed network (23), Abusive HTTP requests (11) | 34 | 2026-11-14T10:37:57Z |
-| [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (549), Spamhaus DROP-listed network (29), Exploitation attempt (CVE / RCE / injection) (7) | 585 | 2026-11-16T08:29:25Z |
+| [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (549), Spamhaus DROP-listed network (33), Exploitation attempt (CVE / RCE / injection) (11) | 593 | 2026-11-16T09:12:38Z |
 | [`91.92.47.5`](91.92.47.5/) | Abusive HTTP requests (8) | 8 | 2026-11-12T10:14:53Z |
 | [`176.65.132.39`](176.65.132.39/) | Port scanning (15) | 18 | 2026-11-14T21:56:40Z |
 | [`176.65.132.107`](176.65.132.107/) | Port scanning (8), Known botnet / C2 infrastructure (1) | 11 | 2026-11-14T16:53:08Z |

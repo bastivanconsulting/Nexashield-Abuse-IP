@@ -5,11 +5,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-    "scan": 143,
+    "scan": 145,
     "c2": 11
   },
-  "events": 165,
+  "events": 167,
   "first_seen": "2026-11-11T16:31:17Z",
-  "last_seen": "2026-11-16T08:00:11Z",
+  "last_seen": "2026-11-16T09:10:33Z",
   "reported": "not reported (permanent ban)"
 }
