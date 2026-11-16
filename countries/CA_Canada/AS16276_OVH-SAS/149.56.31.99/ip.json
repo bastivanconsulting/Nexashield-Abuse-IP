@@ -1,0 +1,15 @@
+{
+  "ip": "149.56.31.99",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 16276,
+  "asn_org": "OVH SAS",
+  "categories": {
+    "web": 7,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T22:40:13Z",
+  "last_seen": "2026-11-16T07:02:04Z",
+  "reported": "not reported (permanent ban)"
+}

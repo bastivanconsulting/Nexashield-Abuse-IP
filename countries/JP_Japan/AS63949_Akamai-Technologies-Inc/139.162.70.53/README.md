@@ -7,10 +7,10 @@
 | IP | `139.162.70.53` |
 | Country | Japan (JP) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (22) |
-| Events | 23 |
+| Activity | Port scanning (23) |
+| Events | 24 |
 | First seen (UTC) | 2026-11-11T09:52:36Z |
-| Last seen (UTC) | 2026-11-16T04:35:48Z |
+| Last seen (UTC) | 2026-11-16T06:21:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

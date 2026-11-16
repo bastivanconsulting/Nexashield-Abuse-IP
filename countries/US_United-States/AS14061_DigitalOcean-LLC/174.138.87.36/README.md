@@ -7,10 +7,10 @@
 | IP | `174.138.87.36` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (28) |
-| Events | 34 |
+| Activity | Port scanning (29) |
+| Events | 35 |
 | First seen (UTC) | 2026-11-13T07:15:52Z |
-| Last seen (UTC) | 2026-11-16T05:44:33Z |
+| Last seen (UTC) | 2026-11-16T06:23:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

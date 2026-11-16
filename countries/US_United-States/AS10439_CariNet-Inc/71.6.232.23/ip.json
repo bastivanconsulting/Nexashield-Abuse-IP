@@ -1,0 +1,16 @@
+{
+  "ip": "71.6.232.23",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 10439,
+  "asn_org": "CariNet, Inc.",
+  "categories": {
+    "scan": 13,
+    "c2": 3,
+    "web": 1
+  },
+  "events": 18,
+  "first_seen": "2026-11-12T03:41:55Z",
+  "last_seen": "2026-11-16T07:02:48Z",
+  "reported": "not reported (permanent ban)"
+}

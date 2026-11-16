@@ -4,12 +4,12 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS50360](AS50360_Tamatiya-EOOD/) | Tamatiya EOOD | 33 | Port scanning (5337), Known botnet / C2 infrastructure (171), Abusive HTTP requests (36), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS209160](AS209160_Miti-2000-EOOD/) | Miti 2000 EOOD | 3 | Port scanning (981), Known botnet / C2 infrastructure (57) |
-| [AS208637](AS208637_4-Vendeta-Ltd/) | 4 Vendeta Ltd | 2 | Port scanning (380), SSH brute force (28), Known botnet / C2 infrastructure (19) |
-| [AS209425](AS209425_KOI-CLOUD-SERVICES-Pty-Ltd/) | KOI CLOUD SERVICES (Pty) Ltd | 2 | Port scanning (71), Known botnet / C2 infrastructure (11) |
+| [AS50360](AS50360_Tamatiya-EOOD/) | Tamatiya EOOD | 33 | Port scanning (5403), Known botnet / C2 infrastructure (171), Abusive HTTP requests (36), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS209160](AS209160_Miti-2000-EOOD/) | Miti 2000 EOOD | 3 | Port scanning (988), Known botnet / C2 infrastructure (57) |
+| [AS208637](AS208637_4-Vendeta-Ltd/) | 4 Vendeta Ltd | 2 | Port scanning (383), SSH brute force (28), Known botnet / C2 infrastructure (19) |
+| [AS209425](AS209425_KOI-CLOUD-SERVICES-Pty-Ltd/) | KOI CLOUD SERVICES (Pty) Ltd | 2 | Port scanning (72), Known botnet / C2 infrastructure (11) |
 | [AS29580](AS29580_A1-Bulgaria-EAD/) | A1 Bulgaria EAD | 1 | SSH brute force (10), Port scanning (1) |
-| [AS57509](AS57509_L-L-Investment-Ltd/) | L&L Investment Ltd. | 1 | Port scanning (339), Known botnet / C2 infrastructure (19) |
+| [AS57509](AS57509_L-L-Investment-Ltd/) | L&L Investment Ltd. | 1 | Port scanning (343), Known botnet / C2 infrastructure (19) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,6 +1,6 @@
-Sur la période observée, le dépôt recense 218572 événements générés par 4736 adresses IP réparties sur 63 pays et 388 réseaux ASN, avec une dernière activité enregistrée le 2026-11-16. Les principales origines géographiques sont les États-Unis (1853), le Royaume-Uni (886), les Pays-Bas (450), l'Allemagne (356), la Belgique (263) et la France (236). Les réseaux les plus représentés incluent Hydra Communications Ltd (874), Microsoft Corporation (648), Google LLC (391) et Censys, Inc. (257).
+Le dépôt recense 223109 événements générés par 4773 adresses IP réparties sur 63 pays et 391 réseaux ASN, avec une activité observée jusqu'au 2026-11-16. Les États-Unis (1872), le Royaume-Uni (886) et les Pays-Bas (455) concentrent les volumes les plus élevés, tandis que les réseaux Hydra Communications Ltd (874), Microsoft Corporation (653) et Google LLC (391) figurent parmi les plus représentés.
 
-- Balayage de ports : 4455 événements
-- Infrastructure botnet / C2 connue : 3242 événements
-- Exploitation (CVE, RCE, injection) : 244 événements
-- Requêtes HTTP abusives : 236 événements et Force brute SSH : 148 événements
+- Balayage de ports : 4487 événements
+- Infrastructure botnet / C2 connue : 3276 événements
+- Exploitation (CVE, RCE, injection) : 246 événements
+- Requêtes HTTP abusives : 241 événements

@@ -5,10 +5,10 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-    "scan": 276
+    "scan": 279
   },
-  "events": 319,
+  "events": 323,
   "first_seen": "2026-11-11T12:39:34Z",
-  "last_seen": "2026-11-16T06:12:17Z",
+  "last_seen": "2026-11-16T07:01:50Z",
   "reported": "not reported (permanent ban)"
 }

@@ -5,10 +5,10 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-    "scan": 42
+    "scan": 43
   },
-  "events": 57,
+  "events": 58,
   "first_seen": "2026-11-11T16:39:32Z",
-  "last_seen": "2026-11-16T05:48:34Z",
+  "last_seen": "2026-11-16T06:55:49Z",
   "reported": "not reported (permanent ban)"
 }

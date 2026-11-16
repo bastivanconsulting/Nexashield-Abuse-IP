@@ -5,10 +5,11 @@
   "asn": 215381,
   "asn_org": "ROCKHOSTER PRIVATE LIMITED",
   "categories": {
-    "scan": 18
+    "scan": 21,
+    "c2": 1
   },
-  "events": 23,
+  "events": 27,
   "first_seen": "2026-11-11T10:15:36Z",
-  "last_seen": "2026-11-14T21:56:54Z",
+  "last_seen": "2026-11-16T06:56:31Z",
   "reported": "not reported (permanent ban)"
 }
