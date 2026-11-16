@@ -7,10 +7,10 @@
 | IP | `78.128.112.6` |
 | Country | Bulgaria (BG) |
 | ASN | AS208637 · 4 Vendeta Ltd |
-| Activity | Port scanning (348), Known botnet / C2 infrastructure (20) |
-| Events | 396 |
+| Activity | Port scanning (350), Known botnet / C2 infrastructure (21) |
+| Events | 399 |
 | First seen (UTC) | 2026-11-11T09:53:03Z |
-| Last seen (UTC) | 2026-11-16T16:12:41Z |
+| Last seen (UTC) | 2026-11-16T17:59:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

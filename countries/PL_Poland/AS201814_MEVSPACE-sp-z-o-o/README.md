@@ -1,10 +1,11 @@
 # AS201814 · MEVSPACE sp. z o.o.
 
-🇵🇱 Poland · **1** malicious IP(s)
+🇵🇱 Poland · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`95.214.53.157`](95.214.53.157/) | Port scanning (319) | 379 | 2026-11-16T17:11:59Z |
+| [`95.214.53.157`](95.214.53.157/) | Port scanning (321) | 381 | 2026-11-16T18:04:13Z |
+| [`195.3.220.7`](195.3.220.7/) | SSH brute force (18) | 18 | 2026-11-16T16:24:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

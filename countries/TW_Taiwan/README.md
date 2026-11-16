@@ -1,10 +1,10 @@
 # 🇹🇼 Taiwan
 
-**9** malicious IP(s) across **3** network(s).
+**10** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (81), Known botnet / C2 infrastructure (3) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (86), Known botnet / C2 infrastructure (6) |
 | [AS3462](AS3462_Chunghwa-Telecom-Co-Ltd/) | Chunghwa Telecom Co., Ltd. | 4 | Port scanning (27), Exploitation attempt (CVE / RCE / injection) (8) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (4) |
 
