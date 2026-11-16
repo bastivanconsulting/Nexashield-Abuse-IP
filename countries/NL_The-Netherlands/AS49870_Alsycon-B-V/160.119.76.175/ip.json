@@ -5,11 +5,11 @@
   "asn": 49870,
   "asn_org": "Alsycon B.V.",
   "categories": {
-    "scan": 56,
+    "scan": 58,
     "c2": 6
   },
-  "events": 69,
+  "events": 71,
   "first_seen": "2026-11-11T23:56:48Z",
-  "last_seen": "2026-11-16T10:45:54Z",
+  "last_seen": "2026-11-16T14:05:48Z",
   "reported": "not reported (permanent ban)"
 }

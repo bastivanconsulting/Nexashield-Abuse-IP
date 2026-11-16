@@ -7,10 +7,10 @@
 | IP | `118.195.150.149` |
 | Country | China (CN) |
 | ASN | AS45090 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Port scanning (18) |
-| Events | 27 |
+| Activity | Port scanning (19) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-11T12:33:15Z |
-| Last seen (UTC) | 2026-11-16T03:27:42Z |
+| Last seen (UTC) | 2026-11-16T13:27:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

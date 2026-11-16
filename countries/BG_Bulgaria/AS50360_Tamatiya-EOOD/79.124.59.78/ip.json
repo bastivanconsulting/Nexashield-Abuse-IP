@@ -5,11 +5,11 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-    "scan": 413,
+    "scan": 415,
     "c2": 20
   },
-  "events": 471,
+  "events": 473,
   "first_seen": "2026-11-11T09:49:58Z",
-  "last_seen": "2026-11-16T13:10:31Z",
+  "last_seen": "2026-11-16T14:05:04Z",
   "reported": "not reported (permanent ban)"
 }

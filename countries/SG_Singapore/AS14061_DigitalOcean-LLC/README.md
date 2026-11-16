@@ -12,7 +12,7 @@
 | [`167.172.89.248`](167.172.89.248/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 22 | 2026-11-16T10:04:14Z |
 | [`178.128.57.150`](178.128.57.150/) | SSH brute force (29), Port scanning (1) | 30 | 2026-11-11T11:15:26Z |
 | [`178.128.84.112`](178.128.84.112/) | Port scanning (15), Known botnet / C2 infrastructure (7) | 23 | 2026-11-16T04:20:05Z |
-| [`178.128.95.222`](178.128.95.222/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-16T04:54:58Z |
+| [`178.128.95.222`](178.128.95.222/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-16T13:33:34Z |
 | [`188.166.233.47`](188.166.233.47/) | Abusive HTTP requests (24) | 24 | 2026-11-12T16:11:32Z |
 
 ---

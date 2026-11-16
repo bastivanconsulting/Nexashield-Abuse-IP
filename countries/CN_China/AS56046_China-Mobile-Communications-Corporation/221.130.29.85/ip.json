@@ -1,0 +1,15 @@
+{
+  "ip": "221.130.29.85",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 56046,
+  "asn_org": "China Mobile Communications Corporation",
+  "categories": {
+    "scan": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-12T09:03:45Z",
+  "last_seen": "2026-11-16T13:50:04Z",
+  "reported": "not reported (permanent ban)"
+}
