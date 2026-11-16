@@ -7,10 +7,10 @@
 | IP | `174.49.225.71` |
 | Country | United States (US) |
 | ASN | AS7922 · Comcast Cable Communications, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) |
-| Events | 9 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (4) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-15T04:38:47Z |
-| Last seen (UTC) | 2026-11-15T18:19:58Z |
+| Last seen (UTC) | 2026-11-16T15:30:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

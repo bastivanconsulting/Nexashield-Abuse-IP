@@ -1,5 +1,5 @@
-Le dépôt recense 229792 événements répartis sur 4855 adresses IP issues de 63 pays et 395 réseaux ASN, avec une dernière activité enregistrée le 2026-11-16. Les principales origines géographiques sont les États-Unis avec 1916 adresses, le Royaume-Uni avec 891, les Pays-Bas avec 458, l'Allemagne avec 362 et la Belgique avec 280. Les natures d'événements les plus fréquentes sont le balayage de ports avec 4566 occurrences et l'infrastructure botnet / C2 connue avec 3353 occurrences.
+Sur la période observée avec une dernière activité le 2026-11-16, le dépôt recense 231322 événements générés par 4859 adresses IP réparties sur 63 pays et 395 réseaux ASN. Les principales origines géographiques incluent les États-Unis avec 1917 adresses, le Royaume-Uni avec 891 et les Pays-Bas avec 458. Les activités observées couvrent principalement le balayage de ports avec 4569 occurrences et l'infrastructure botnet/C2 connue avec 3361 occurrences.
 
-- Les principaux réseaux ASN concernés incluent AS25369 (Hydra Communications Ltd) avec 878 événements, AS8075 (Microsoft Corporation) avec 661 et AS396982 (Google LLC) avec 391.
-- Parmi les autres natures observées figurent l'exploitation (CVE, RCE, injection) avec 248 cas, les requêtes HTTP abusives avec 245 cas et la force brute SSH avec 152 cas.
-- On relève également 88 charges d'injection bloquées par le WAF, 36 réseaux listés Spamhaus DROP, ainsi qu'une occurrence de force brute SMTP / IMAP et une signature d'exploit UDP.
+- Les réseaux les plus représentés sont AS25369 (Hydra Communications Ltd) avec 878 adresses, AS8075 (Microsoft Corporation) avec 661 et AS396982 (Google LLC) avec 391
+- Parmi les natures d'événements, on relève également l'exploitation (CVE, RCE, injection) avec 248 cas et les requêtes HTTP abusives avec 245 cas
+- La force brute SSH compte 152 événements, tandis que la charge d'injection bloquée par le WAF en compte 89

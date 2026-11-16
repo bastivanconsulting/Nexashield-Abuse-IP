@@ -5,11 +5,11 @@
   "asn": 7922,
   "asn_org": "Comcast Cable Communications, LLC",
   "categories": {
-    "exploit": 3,
-    "scan": 3
+    "exploit": 4,
+    "scan": 4
   },
-  "events": 9,
+  "events": 12,
   "first_seen": "2026-11-15T04:38:47Z",
-  "last_seen": "2026-11-15T18:19:58Z",
+  "last_seen": "2026-11-16T15:30:54Z",
   "reported": "not reported (permanent ban)"
 }
