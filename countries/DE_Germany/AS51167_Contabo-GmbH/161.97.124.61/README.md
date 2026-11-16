@@ -7,10 +7,10 @@
 | IP | `161.97.124.61` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Port scanning (8) |
-| Events | 14 |
+| Activity | Port scanning (9) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-11T23:55:24Z |
-| Last seen (UTC) | 2026-11-15T03:28:30Z |
+| Last seen (UTC) | 2026-11-16T21:23:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

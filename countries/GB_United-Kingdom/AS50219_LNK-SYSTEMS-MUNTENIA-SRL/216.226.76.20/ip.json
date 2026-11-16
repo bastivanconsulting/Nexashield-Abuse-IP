@@ -5,11 +5,11 @@
   "asn": 50219,
   "asn_org": "LNK SYSTEMS MUNTENIA SRL",
   "categories": {
-    "scan": 42,
-    "c2": 13
+    "scan": 43,
+    "c2": 14
   },
-  "events": 56,
+  "events": 58,
   "first_seen": "2026-11-11T10:04:31Z",
-  "last_seen": "2026-11-16T05:26:59Z",
+  "last_seen": "2026-11-16T22:08:08Z",
   "reported": "not reported (permanent ban)"
 }

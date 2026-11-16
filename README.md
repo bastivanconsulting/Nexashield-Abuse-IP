@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-4899-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-4901-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-63-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--16-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 4899 IP, 63 pays, 395 réseaux, 236641 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 4901 IP, 63 pays, 395 réseaux, 237699 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Sur la période observée avec une dernière activité au 2026-11-16, le dépôt recense 236641 événements issus de 4899 adresses IP réparties sur 63 pays et 395 réseaux ASN. Les natures d'événements les plus fréquentes sont le balayage de ports avec 4602 occurrences et l'infrastructure botnet/C2 connue avec 3399 occurrences. Les principaux pays représentés sont les États-Unis avec 1936 adresses, le Royaume-Uni avec 893 et les Pays-Bas avec 460.
+Sur la période observée, le dépôt recense 237699 événements répartis sur 4901 adresses IP issues de 63 pays et 395 réseaux ASN, avec une dernière activité enregistrée le 2026-11-16. Les principales natures d'événements observées sont le balayage de ports avec 4602 occurrences et l'infrastructure botnet / C2 connue avec 3400 occurrences. Les pays les plus représentés sont les États-Unis avec 1936 IP, le Royaume-Uni avec 893 et les Pays-Bas avec 460.
 
-- Les principaux réseaux ASN identifiés sont AS25369 (Hydra Communications Ltd) avec 879 adresses, AS8075 (Microsoft Corporation) avec 666 et AS396982 (Google LLC) avec 395.
-- Parmi les autres natures recensées figurent l'exploitation (CVE, RCE, injection) avec 251 événements, les requêtes HTTP abusives avec 250 et la force brute SSH avec 156.
-- On relève également 94 charges d'injection bloquées par le WAF, 37 réseaux listés Spamhaus DROP, ainsi qu'une occurrence de force brute SMTP/IMAP et une signature d'exploit UDP.
+- Les réseaux les plus actifs incluent AS25369 (Hydra Communications Ltd) avec 879 événements, AS8075 (Microsoft Corporation) avec 666 et AS396982 (Google LLC) avec 395.
+- Parmi les autres natures recensées figurent les requêtes HTTP abusives (254), l'exploitation (CVE, RCE, injection) (251) et la force brute SSH (156).
+- On note également 94 charges d'injection bloquées par le WAF, 37 réseaux listés Spamhaus DROP, ainsi qu'une occurrence de
 
 <sub>Synthèse générée automatiquement le 2026-11-16 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
@@ -170,7 +170,7 @@ Sur la période observée avec une dernière activité au 2026-11-16, le dépôt
 | 🇦🇩 [Andorra](countries/AD_Andorra/) | 73 |
 | 🇨🇳 [China](countries/CN_China/) | 55 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 42 |
-| 🇸🇬 [Singapore](countries/SG_Singapore/) | 33 |
+| 🇸🇬 [Singapore](countries/SG_Singapore/) | 34 |
 | 🇹🇭 [Thailand](countries/TH_Thailand/) | 32 |
 | 🇸🇪 [Sweden](countries/SE_Sweden/) | 30 |
 | 🇯🇵 [Japan](countries/JP_Japan/) | 27 |
@@ -186,9 +186,9 @@ Sur la période observée avec une dernière activité au 2026-11-16, le dépôt
 | Nature | IP |
 |---|---:|
 | Balayage de ports | 4602 |
-| Infrastructure botnet / C2 connue | 3399 |
+| Infrastructure botnet / C2 connue | 3400 |
+| Requêtes HTTP abusives | 254 |
 | Exploitation (CVE, RCE, injection) | 251 |
-| Requêtes HTTP abusives | 250 |
 | Force brute SSH | 156 |
 | Charge d'injection bloquée par le WAF | 94 |
 | Réseau listé Spamhaus DROP | 37 |
@@ -211,7 +211,7 @@ Sur la période observée avec une dernière activité au 2026-11-16, le dépôt
 | **AS213412** | ONYPHE SAS | [🇫🇷 135](countries/FR_France/AS213412_ONYPHE-SAS/) [🇺🇸 99](countries/US_United-States/AS213412_ONYPHE-SAS/) [🇨🇳 6](countries/CN_China/AS213412_ONYPHE-SAS/) | 240 |
 | **AS135377** | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | [🇭🇰 68](countries/HK_Hong-Kong/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇺🇸 47](countries/US_United-States/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇭 28](countries/TH_Thailand/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇬🇧 21](countries/GB_United-Kingdom/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇩🇪 15](countries/DE_Germany/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇳🇬 10](countries/NG_Nigeria/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇯🇵 6](countries/JP_Japan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇸🇬 6](countries/SG_Singapore/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇻🇳 6](countries/VN_Vietnam/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇼 5](countries/TW_Taiwan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇵🇭 4](countries/PH_Philippines/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇦🇪 3](countries/AE_United-Arab-Emirates/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇧🇷 3](countries/BR_Brazil/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇰🇷 3](countries/KR_South-Korea/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇷🇺 3](countries/RU_Russia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇳 2](countries/IN_India/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | 230 |
 | **AS14618** | Amazon.com, Inc. | [🇺🇸 174](countries/US_United-States/AS14618_Amazon-com-Inc/) | 174 |
-| **AS14061** | DigitalOcean, LLC | [🇺🇸 63](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 26](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇳🇱 13](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇬🇧 11](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇸🇬 11](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇦🇺 8](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇨🇦 5](countries/CA_Canada/AS14061_DigitalOcean-LLC/) [🇮🇳 5](countries/IN_India/AS14061_DigitalOcean-LLC/) | 142 |
+| **AS14061** | DigitalOcean, LLC | [🇺🇸 63](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 26](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇳🇱 13](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇸🇬 12](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇬🇧 11](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇦🇺 8](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇨🇦 5](countries/CA_Canada/AS14061_DigitalOcean-LLC/) [🇮🇳 5](countries/IN_India/AS14061_DigitalOcean-LLC/) | 143 |
 | **AS211680** | NSEC - Sistemas Informaticos, S.A. | [🇺🇸 71](countries/US_United-States/AS211680_NSEC-Sistemas-Informaticos-S-A/) [🇳🇱 46](countries/NL_The-Netherlands/AS211680_NSEC-Sistemas-Informaticos-S-A/) | 117 |
 
 ---

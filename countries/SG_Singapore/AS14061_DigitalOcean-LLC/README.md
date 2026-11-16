@@ -1,10 +1,11 @@
 # AS14061 · DigitalOcean, LLC
 
-🇸🇬 Singapore · **11** malicious IP(s)
+🇸🇬 Singapore · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`129.212.228.218`](129.212.228.218/) | Port scanning (85) | 86 | 2026-11-13T01:33:51Z |
+| [`139.59.112.161`](139.59.112.161/) | Abusive HTTP requests (48) | 48 | 2026-11-16T21:48:18Z |
 | [`157.245.157.191`](157.245.157.191/) | Port scanning (43), Known botnet / C2 infrastructure (8) | 52 | 2026-11-13T15:48:55Z |
 | [`159.223.59.82`](159.223.59.82/) | SSH brute force (13), Port scanning (4) | 17 | 2026-11-12T17:05:23Z |
 | [`167.71.213.166`](167.71.213.166/) | Abusive HTTP requests (48) | 48 | 2026-11-10T01:32:47Z |

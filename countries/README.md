@@ -28,7 +28,7 @@
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
 | [🇭🇰 Hong Kong](HK_Hong-Kong/) | 116 |
 | [🇭🇺 Hungary](HU_Hungary/) | 5 |
-| [🇮🇩 Indonesia](ID_Indonesia/) | 11 |
+| [🇮🇩 Indonesia](ID_Indonesia/) | 12 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
 | [🇮🇱 Israel](IL_Israel/) | 8 |
 | [🇮🇳 India](IN_India/) | 16 |
@@ -56,7 +56,7 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 8 |
 | [🇸🇪 Sweden](SE_Sweden/) | 30 |
-| [🇸🇬 Singapore](SG_Singapore/) | 33 |
+| [🇸🇬 Singapore](SG_Singapore/) | 34 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 12 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 32 |

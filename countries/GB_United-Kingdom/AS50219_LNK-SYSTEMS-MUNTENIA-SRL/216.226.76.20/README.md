@@ -7,10 +7,10 @@
 | IP | `216.226.76.20` |
 | Country | United Kingdom (GB) |
 | ASN | AS50219 · LNK SYSTEMS MUNTENIA SRL |
-| Activity | Port scanning (42), Known botnet / C2 infrastructure (13) |
-| Events | 56 |
+| Activity | Port scanning (43), Known botnet / C2 infrastructure (14) |
+| Events | 58 |
 | First seen (UTC) | 2026-11-11T10:04:31Z |
-| Last seen (UTC) | 2026-11-16T05:26:59Z |
+| Last seen (UTC) | 2026-11-16T22:08:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

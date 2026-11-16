@@ -7,10 +7,10 @@
 | IP | `45.9.168.192` |
 | Country | Hungary (HU) |
 | ASN | AS211619 · MAXKO d.o.o. |
-| Activity | Port scanning (30), Known botnet / C2 infrastructure (3) |
-| Events | 35 |
+| Activity | Port scanning (32), Known botnet / C2 infrastructure (4) |
+| Events | 38 |
 | First seen (UTC) | 2026-11-12T04:02:27Z |
-| Last seen (UTC) | 2026-11-13T10:03:50Z |
+| Last seen (UTC) | 2026-11-16T22:10:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

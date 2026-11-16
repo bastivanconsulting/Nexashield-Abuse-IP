@@ -6,9 +6,9 @@
 |---|---|---:|---|
 | [`167.94.145.16`](167.94.145.16/) | Port scanning (50), Known botnet / C2 infrastructure (11) | 62 | 2026-11-16T01:31:58Z |
 | [`167.94.145.17`](167.94.145.17/) | Port scanning (109), Known botnet / C2 infrastructure (19) | 131 | 2026-11-16T18:05:41Z |
-| [`167.94.145.18`](167.94.145.18/) | Port scanning (107), Known botnet / C2 infrastructure (16) | 126 | 2026-11-16T18:48:45Z |
+| [`167.94.145.18`](167.94.145.18/) | Port scanning (109), Known botnet / C2 infrastructure (17) | 129 | 2026-11-16T21:49:39Z |
 | [`167.94.145.19`](167.94.145.19/) | Port scanning (107), Known botnet / C2 infrastructure (18) | 127 | 2026-11-16T17:03:35Z |
-| [`167.94.145.20`](167.94.145.20/) | Port scanning (117), Known botnet / C2 infrastructure (18) | 138 | 2026-11-16T13:35:50Z |
+| [`167.94.145.20`](167.94.145.20/) | Port scanning (118), Known botnet / C2 infrastructure (19) | 140 | 2026-11-16T21:45:47Z |
 | [`167.94.145.21`](167.94.145.21/) | Port scanning (107), Known botnet / C2 infrastructure (18) | 129 | 2026-11-16T20:22:28Z |
 | [`167.94.145.22`](167.94.145.22/) | Port scanning (101), Known botnet / C2 infrastructure (18) | 121 | 2026-11-16T20:56:00Z |
 | [`167.94.145.23`](167.94.145.23/) | Port scanning (61), Known botnet / C2 infrastructure (4) | 73 | 2026-11-16T01:17:25Z |
@@ -18,7 +18,7 @@
 | [`167.94.145.27`](167.94.145.27/) | Port scanning (117), Known botnet / C2 infrastructure (19) | 140 | 2026-11-16T16:57:27Z |
 | [`167.94.145.28`](167.94.145.28/) | Port scanning (87), Known botnet / C2 infrastructure (16) | 106 | 2026-11-16T20:37:33Z |
 | [`167.94.145.29`](167.94.145.29/) | Port scanning (81) | 93 | 2026-11-16T16:49:09Z |
-| [`167.94.145.30`](167.94.145.30/) | Port scanning (107), Known botnet / C2 infrastructure (18) | 128 | 2026-11-16T20:55:44Z |
+| [`167.94.145.30`](167.94.145.30/) | Port scanning (108), Known botnet / C2 infrastructure (19) | 130 | 2026-11-16T22:06:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

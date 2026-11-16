@@ -7,11 +7,11 @@
 | IP | `34.95.221.104` |
 | Country | Brazil (BR) |
 | ASN | AS396982 · Google LLC |
-| Activity | Web injection payload blocked by WAF (183) |
-| Events | 187 |
+| Activity | Abusive HTTP requests (344), Web injection payload blocked by WAF (22) |
+| Events | 366 |
 | First seen (UTC) | 2026-11-16T21:11:48Z |
-| Last seen (UTC) | 2026-11-16T21:14:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-16T21:12:00Z |
+| Reported to network owner (UTC) | 2026-11-16T22:25:44Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 
