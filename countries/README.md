@@ -43,7 +43,7 @@
 | [🇲🇽 Mexico](MX_Mexico/) | 2 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 10 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 11 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 457 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 458 |
 | [🇳🇴 Norway](NO_Norway/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 5 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 11 |
@@ -63,5 +63,5 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 3 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 9 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 1912 |
+| [🇺🇸 United States](US_United-States/) | 1915 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 11 |
