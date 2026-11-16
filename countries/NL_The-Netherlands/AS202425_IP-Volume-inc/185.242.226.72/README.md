@@ -7,10 +7,10 @@
 | IP | `185.242.226.72` |
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
-| Activity | Port scanning (39), Known botnet / C2 infrastructure (6) |
-| Events | 51 |
+| Activity | Port scanning (41), Known botnet / C2 infrastructure (6) |
+| Events | 53 |
 | First seen (UTC) | 2026-11-12T00:00:39Z |
-| Last seen (UTC) | 2026-11-16T02:15:56Z |
+| Last seen (UTC) | 2026-11-16T02:42:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

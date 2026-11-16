@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇩🇪 Germany · **11** malicious IP(s)
+🇩🇪 Germany · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,7 +10,8 @@
 | [`107.150.117.187`](107.150.117.187/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-15T14:33:04Z |
 | [`107.150.117.219`](107.150.117.219/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 14 | 2026-11-16T00:47:11Z |
 | [`118.193.58.120`](118.193.58.120/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-15T22:59:43Z |
-| [`118.193.59.15`](118.193.59.15/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-16T01:39:04Z |
+| [`118.193.59.15`](118.193.59.15/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-16T03:17:30Z |
+| [`118.193.59.41`](118.193.59.41/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 9 | 2026-11-16T02:48:04Z |
 | [`118.193.59.142`](118.193.59.142/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-15T23:06:26Z |
 | [`165.154.138.79`](165.154.138.79/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T07:21:05Z |
 | [`165.154.138.165`](165.154.138.165/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-15T21:37:03Z |

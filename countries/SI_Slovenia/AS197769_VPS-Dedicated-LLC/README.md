@@ -1,14 +1,15 @@
 # AS197769 · VPS Dedicated LLC
 
-🇸🇮 Slovenia · **11** malicious IP(s)
+🇸🇮 Slovenia · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`31.57.37.64`](31.57.37.64/) | Port scanning (55) | 69 | 2026-11-16T02:06:47Z |
 | [`102.220.161.61`](102.220.161.61/) | Port scanning (45), Known botnet / C2 infrastructure (11) | 57 | 2026-11-14T05:37:42Z |
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 24 | 2026-11-15T16:19:53Z |
-| [`102.220.161.84`](102.220.161.84/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-16T00:15:08Z |
+| [`102.220.161.84`](102.220.161.84/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-16T02:26:32Z |
 | [`102.220.161.85`](102.220.161.85/) | SSH brute force (25), Port scanning (10), Known botnet / C2 infrastructure (3) | 41 | 2026-11-14T10:18:31Z |
+| [`102.220.161.86`](102.220.161.86/) | SSH brute force (9), Port scanning (3), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) | 18 | 2026-11-16T03:12:06Z |
 | [`102.220.161.119`](102.220.161.119/) | Port scanning (31), SSH brute force (14), Known botnet / C2 infrastructure (5) | 51 | 2026-11-14T16:21:24Z |
 | [`102.220.161.170`](102.220.161.170/) | Port scanning (13), Known botnet / C2 infrastructure (5), SSH brute force (2) | 21 | 2026-11-15T14:26:42Z |
 | [`102.220.161.171`](102.220.161.171/) | SSH brute force (26), Port scanning (8), Known botnet / C2 infrastructure (3) | 38 | 2026-11-12T10:37:29Z |

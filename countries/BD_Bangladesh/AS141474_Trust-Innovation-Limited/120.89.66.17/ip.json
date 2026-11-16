@@ -1,0 +1,15 @@
+{
+  "ip": "120.89.66.17",
+  "country_code": "BD",
+  "country": "Bangladesh",
+  "asn": 141474,
+  "asn_org": "Trust Innovation Limited",
+  "categories": {
+    "scan": 13,
+    "c2": 2
+  },
+  "events": 15,
+  "first_seen": "2026-11-12T12:46:30Z",
+  "last_seen": "2026-11-15T05:28:04Z",
+  "reported": "not reported (permanent ban)"
+}

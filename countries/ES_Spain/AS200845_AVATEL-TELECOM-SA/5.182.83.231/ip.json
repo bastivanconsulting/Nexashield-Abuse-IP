@@ -5,11 +5,11 @@
   "asn": 200845,
   "asn_org": "AVATEL TELECOM, SA",
   "categories": {
-    "scan": 3,
-    "c2": 3
+    "scan": 4,
+    "c2": 4
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-12T21:02:54Z",
-  "last_seen": "2026-11-15T06:18:04Z",
+  "last_seen": "2026-11-16T02:20:18Z",
   "reported": "not reported (permanent ban)"
 }
