@@ -6,10 +6,10 @@
   "asn_org": "MEVSPACE sp. z o.o.",
   "categories": {
     "scan": 2,
-    "ssh": 11
+    "ssh": 19
   },
-  "events": 13,
+  "events": 21,
   "first_seen": "2026-11-16T12:05:39Z",
-  "last_seen": "2026-11-17T05:11:24Z",
+  "last_seen": "2026-11-17T06:24:18Z",
   "reported": "2026-11-16T18:27:34Z"
 }

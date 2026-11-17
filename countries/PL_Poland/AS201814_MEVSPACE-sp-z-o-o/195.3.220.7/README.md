@@ -7,10 +7,10 @@
 | IP | `195.3.220.7` |
 | Country | Poland (PL) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | SSH brute force (11), Port scanning (2) |
-| Events | 13 |
+| Activity | SSH brute force (19), Port scanning (2) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-16T12:05:39Z |
-| Last seen (UTC) | 2026-11-17T05:11:24Z |
+| Last seen (UTC) | 2026-11-17T06:24:18Z |
 | Reported to network owner (UTC) | 2026-11-16T18:27:34Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

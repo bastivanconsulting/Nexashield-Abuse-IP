@@ -1,31 +1,31 @@
 # 🇳🇱 The Netherlands
 
-**466** malicious IP(s) across **35** network(s).
+**469** malicious IP(s) across **35** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 189 | Port scanning (4938), Known botnet / C2 infrastructure (1736) |
-| [AS211680](AS211680_NSEC-Sistemas-Informaticos-S-A/) | NSEC - Sistemas Informaticos, S.A. | 50 | Port scanning (308), Known botnet / C2 infrastructure (229), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 189 | Port scanning (4957), Known botnet / C2 infrastructure (1748) |
+| [AS211680](AS211680_NSEC-Sistemas-Informaticos-S-A/) | NSEC - Sistemas Informaticos, S.A. | 51 | Port scanning (313), Known botnet / C2 infrastructure (234), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 29 | Port scanning (1133), Known botnet / C2 infrastructure (131), Abusive HTTP requests (13), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 29 | SSH brute force (2435), Port scanning (1092), Web injection payload blocked by WAF (207), Known botnet / C2 infrastructure (183) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 24 | Port scanning (1317), SSH brute force (363), Spamhaus DROP-listed network (10), Known botnet / C2 infrastructure (8) |
-| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 21 | Port scanning (655), Known botnet / C2 infrastructure (536), Spamhaus DROP-listed network (418), SSH brute force (111), Exploitation attempt (CVE / RCE / injection) (21), Abusive HTTP requests (20) |
-| [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 21 | Port scanning (147), Known botnet / C2 infrastructure (101) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 29 | SSH brute force (2435), Port scanning (1093), Web injection payload blocked by WAF (207), Known botnet / C2 infrastructure (185) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 26 | Port scanning (1459), SSH brute force (387), Spamhaus DROP-listed network (10), Known botnet / C2 infrastructure (8) |
+| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 21 | Port scanning (656), Known botnet / C2 infrastructure (536), Spamhaus DROP-listed network (424), SSH brute force (111), Exploitation attempt (CVE / RCE / injection) (21), Abusive HTTP requests (20) |
+| [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 21 | Port scanning (149), Known botnet / C2 infrastructure (103) |
 | [AS49870](AS49870_Alsycon-B-V/) | Alsycon B.V. | 14 | Port scanning (526), Known botnet / C2 infrastructure (32), Exploitation attempt (CVE / RCE / injection) (5) |
 | [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 14 | Port scanning (521), Known botnet / C2 infrastructure (48), Abusive HTTP requests (9), Web injection payload blocked by WAF (2) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 13 | Abusive HTTP requests (48), Port scanning (42), Known botnet / C2 infrastructure (29), Exploitation attempt (CVE / RCE / injection) (9) |
-| [AS44589](AS44589_DIGITAL-NETWORK-S-R-L/) | DIGITAL NETWORK S.R.L. | 13 | Port scanning (3977), SSH brute force (264), Known botnet / C2 infrastructure (62), Abusive HTTP requests (1) |
+| [AS44589](AS44589_DIGITAL-NETWORK-S-R-L/) | DIGITAL NETWORK S.R.L. | 13 | Port scanning (3980), SSH brute force (264), Known botnet / C2 infrastructure (62), Abusive HTTP requests (1) |
 | [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 7 | Port scanning (56), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS12989](AS12989_Black-HOST-Ltd/) | Black HOST Ltd | 4 | Port scanning (690), Known botnet / C2 infrastructure (68) |
+| [AS12989](AS12989_Black-HOST-Ltd/) | Black HOST Ltd | 4 | Port scanning (693), Known botnet / C2 infrastructure (68) |
 | [AS401626](AS401626_Netiface-America-Inc/) | Netiface America, Inc. | 4 | Port scanning (88), Known botnet / C2 infrastructure (30), SSH brute force (2) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (159), Known botnet / C2 infrastructure (20), Web injection payload blocked by WAF (16), Abusive HTTP requests (6) |
 | [AS210558](AS210558_1337-Services-GmbH/) | 1337 Services GmbH | 3 | Abusive HTTP requests (16), Port scanning (12), Web injection payload blocked by WAF (10), Known botnet / C2 infrastructure (5), Exploitation attempt (CVE / RCE / injection) (2), Spamhaus DROP-listed network (1) |
 | [AS214677](AS214677_Matteo-Martelloni-trading-as-DELUXHOST/) | Matteo Martelloni trading as DELUXHOST | 3 | Port scanning (180) |
-| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 2 | Port scanning (354), Known botnet / C2 infrastructure (4) |
-| [AS219502](AS219502_Storm-Industries-LLC/) | Storm Industries LLC | 2 | Port scanning (193), Abusive HTTP requests (1) |
+| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 2 | Port scanning (356), Known botnet / C2 infrastructure (4) |
+| [AS219502](AS219502_Storm-Industries-LLC/) | Storm Industries LLC | 2 | Port scanning (195), Abusive HTTP requests (1) |
 | [AS32475](AS32475_Internap-Holding-LLC/) | Internap Holding LLC | 2 | Port scanning (85), Known botnet / C2 infrastructure (27) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 2 | Abusive HTTP requests (79) |
-| [AS52000](AS52000_MIRhosting-B-V/) | MIRhosting B.V. | 2 | Port scanning (220) |
+| [AS52000](AS52000_MIRhosting-B-V/) | MIRhosting B.V. | 2 | Port scanning (221) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (63), Known botnet / C2 infrastructure (7) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 2 | SSH brute force (9), Abusive HTTP requests (8), Port scanning (2) |
 | [AS199058](AS199058_SERVA-ONE-LTD/) | SERVA ONE LTD | 1 | Port scanning (18), Known botnet / C2 infrastructure (3) |

@@ -1,0 +1,15 @@
+{
+  "ip": "178.239.46.43",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 49289,
+  "asn_org": "Omegacom S.R.L.S.",
+  "categories": {
+    "exploit": 3,
+    "scan": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-14T19:30:47Z",
+  "last_seen": "2026-11-17T05:42:03Z",
+  "reported": "not reported (permanent ban)"
+}

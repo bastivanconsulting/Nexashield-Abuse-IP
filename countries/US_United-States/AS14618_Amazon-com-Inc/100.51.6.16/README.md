@@ -7,10 +7,10 @@
 | IP | `100.51.6.16` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Port scanning (117) |
-| Events | 138 |
+| Activity | Port scanning (119) |
+| Events | 140 |
 | First seen (UTC) | 2026-11-11T09:53:25Z |
-| Last seen (UTC) | 2026-11-17T03:42:12Z |
+| Last seen (UTC) | 2026-11-17T05:50:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

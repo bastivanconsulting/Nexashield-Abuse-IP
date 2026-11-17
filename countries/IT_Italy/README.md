@@ -1,6 +1,6 @@
 # 🇮🇹 Italy
 
-**20** malicious IP(s) across **7** network(s).
+**21** malicious IP(s) across **8** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 2 | Port scanning (63), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS24608](AS24608_WIND-TRE-S-P-A/) | WIND TRE S.P.A. | 1 | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (4) |
 | [AS29447](AS29447_SCALEWAY-S-A-S/) | SCALEWAY S.A.S. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) |
+| [AS49289](AS49289_Omegacom-S-R-L-S/) | Omegacom S.R.L.S. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

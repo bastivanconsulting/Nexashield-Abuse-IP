@@ -1,0 +1,14 @@
+{
+  "ip": "194.62.52.22",
+  "country_code": "TR",
+  "country": "Turkey",
+  "asn": 204876,
+  "asn_org": "BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI",
+  "categories": {
+    "scan": 26
+  },
+  "events": 32,
+  "first_seen": "2026-11-14T05:50:57Z",
+  "last_seen": "2026-11-16T13:06:07Z",
+  "reported": "not reported (permanent ban)"
+}
