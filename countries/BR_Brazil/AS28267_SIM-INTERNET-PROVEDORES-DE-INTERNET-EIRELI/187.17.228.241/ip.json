@@ -1,0 +1,16 @@
+{
+  "ip": "187.17.228.241",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 28267,
+  "asn_org": "SIM INTERNET PROVEDORES DE INTERNET EIRELI.",
+  "categories": {
+    "scan": 5,
+    "web": 1,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T18:58:56Z",
+  "last_seen": "2026-11-17T00:58:03Z",
+  "reported": "not reported (permanent ban)"
+}

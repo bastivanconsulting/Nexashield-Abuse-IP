@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 7 | Port scanning (772), Spamhaus DROP-listed network (445), Known botnet / C2 infrastructure (7) |
+| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 7 | Port scanning (776), Spamhaus DROP-listed network (451), Known botnet / C2 infrastructure (7) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

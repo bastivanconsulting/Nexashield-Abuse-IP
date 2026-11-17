@@ -7,10 +7,10 @@
 | IP | `185.217.1.243` |
 | Country | Sweden (SE) |
 | ASN | AS42237 · w1n ltd |
-| Activity | Port scanning (13) |
-| Events | 20 |
+| Activity | Port scanning (14) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-13T06:37:36Z |
-| Last seen (UTC) | 2026-11-16T04:42:45Z |
+| Last seen (UTC) | 2026-11-17T00:26:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
