@@ -8,9 +8,9 @@
 | Country | Turkey (TR) |
 | ASN | AS204876 · BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI |
 | Activity | Port scanning (26) |
-| Events | 32 |
+| Events | 34 |
 | First seen (UTC) | 2026-11-14T05:50:57Z |
-| Last seen (UTC) | 2026-11-16T13:06:07Z |
+| Last seen (UTC) | 2026-11-17T06:19:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

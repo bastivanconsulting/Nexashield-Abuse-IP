@@ -5,10 +5,10 @@
   "asn": 680,
   "asn_org": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
   "categories": {
-    "ssh": 12
+    "ssh": 14
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-16T19:44:00Z",
-  "last_seen": "2026-11-17T05:38:59Z",
+  "last_seen": "2026-11-17T06:39:02Z",
   "reported": "2026-11-17T06:26:14Z"
 }

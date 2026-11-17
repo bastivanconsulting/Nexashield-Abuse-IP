@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS210328](AS210328_AO-ALMAZ/) | AO ALMAZ | 6 | Port scanning (260), Known botnet / C2 infrastructure (18) |
-| [AS210006](AS210006_Shereverov-Marat-Ahmedovich/) | Shereverov Marat Ahmedovich | 2 | Port scanning (567), Known botnet / C2 infrastructure (11) |
+| [AS210006](AS210006_Shereverov-Marat-Ahmedovich/) | Shereverov Marat Ahmedovich | 2 | Port scanning (570), Known botnet / C2 infrastructure (11) |
 | [AS205431](AS205431_HostLab-LLC/) | HostLab LLC | 1 | Port scanning (10) |
 
 ---

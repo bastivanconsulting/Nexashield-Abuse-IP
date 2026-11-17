@@ -1,10 +1,11 @@
 # AS20052 · Arbor Networks, Inc.
 
-🇺🇸 United States · **15** malicious IP(s)
+🇺🇸 United States · **16** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`146.88.241.20`](146.88.241.20/) | Port scanning (58), Known botnet / C2 infrastructure (11) | 73 | 2026-11-16T12:03:38Z |
+| [`146.88.241.30`](146.88.241.30/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-17T06:59:03Z |
 | [`146.88.241.40`](146.88.241.40/) | Port scanning (44), Known botnet / C2 infrastructure (9), Exploitation attempt (CVE / RCE / injection) (1) | 59 | 2026-11-17T05:14:44Z |
 | [`146.88.241.50`](146.88.241.50/) | Port scanning (38), Known botnet / C2 infrastructure (5) | 49 | 2026-11-17T05:12:51Z |
 | [`146.88.241.60`](146.88.241.60/) | Port scanning (24), Known botnet / C2 infrastructure (5) | 43 | 2026-11-17T05:01:45Z |
@@ -15,9 +16,9 @@
 | [`146.88.241.110`](146.88.241.110/) | Port scanning (42), Known botnet / C2 infrastructure (9) | 58 | 2026-11-17T02:34:47Z |
 | [`146.88.241.120`](146.88.241.120/) | Port scanning (50), Known botnet / C2 infrastructure (2) | 67 | 2026-11-17T03:25:24Z |
 | [`146.88.241.130`](146.88.241.130/) | Port scanning (53), Known botnet / C2 infrastructure (11) | 77 | 2026-11-17T02:37:20Z |
-| [`146.88.241.140`](146.88.241.140/) | Port scanning (47), Known botnet / C2 infrastructure (10) | 62 | 2026-11-16T16:03:59Z |
+| [`146.88.241.140`](146.88.241.140/) | Port scanning (48), Known botnet / C2 infrastructure (11) | 64 | 2026-11-17T07:06:42Z |
 | [`146.88.241.150`](146.88.241.150/) | Port scanning (42), Known botnet / C2 infrastructure (9) | 52 | 2026-11-17T00:26:19Z |
-| [`146.88.241.160`](146.88.241.160/) | Port scanning (26), Known botnet / C2 infrastructure (6) | 34 | 2026-11-17T04:23:02Z |
+| [`146.88.241.160`](146.88.241.160/) | Port scanning (27), Known botnet / C2 infrastructure (6) | 35 | 2026-11-17T06:49:35Z |
 | [`146.88.241.170`](146.88.241.170/) | Port scanning (72), Known botnet / C2 infrastructure (10) | 90 | 2026-11-17T05:28:35Z |
 
 ---

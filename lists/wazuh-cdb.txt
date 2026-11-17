@@ -199,6 +199,7 @@
 5.226.140.85:nexashield
 5.226.140.86:nexashield
 5.226.140.87:nexashield
+5.226.140.89:nexashield
 5.226.140.91:nexashield
 5.226.140.92:nexashield
 5.226.140.93:nexashield
@@ -418,6 +419,7 @@
 20.64.98.132:nexashield
 20.64.98.159:nexashield
 20.64.98.197:nexashield
+20.64.99.165:nexashield
 20.65.144.53:nexashield
 20.65.144.98:nexashield
 20.65.144.133:nexashield
@@ -1015,6 +1017,7 @@
 35.206.149.166:nexashield
 35.206.150.95:nexashield
 35.206.150.182:nexashield
+35.206.151.143:nexashield
 35.206.151.215:nexashield
 35.206.153.174:nexashield
 35.206.153.176:nexashield
@@ -1842,6 +1845,7 @@
 46.229.233.132:nexashield
 47.77.223.200:nexashield
 47.84.112.180:nexashield
+47.84.114.18:nexashield
 47.84.137.6:nexashield
 47.84.138.210:nexashield
 47.84.204.129:nexashield
@@ -1884,6 +1888,7 @@
 47.251.101.89:nexashield
 47.251.101.198:nexashield
 47.251.101.253:nexashield
+47.251.171.255:nexashield
 47.251.186.35:nexashield
 47.251.190.194:nexashield
 47.253.224.181:nexashield
@@ -2571,6 +2576,7 @@
 81.19.216.124:nexashield
 81.19.219.195:nexashield
 81.19.219.196:nexashield
+81.19.219.198:nexashield
 81.19.219.199:nexashield
 81.19.219.200:nexashield
 81.19.219.202:nexashield
@@ -2593,6 +2599,7 @@
 81.19.219.234:nexashield
 81.19.219.235:nexashield
 81.19.219.236:nexashield
+81.19.219.238:nexashield
 81.19.219.239:nexashield
 81.19.219.240:nexashield
 81.19.219.245:nexashield
@@ -3188,6 +3195,7 @@
 102.220.161.171:nexashield
 102.220.161.174:nexashield
 102.220.161.244:nexashield
+102.220.161.248:nexashield
 102.220.163.241:nexashield
 103.1.210.25:nexashield
 103.14.32.192:nexashield
@@ -3536,6 +3544,7 @@
 144.126.133.155:nexashield
 144.172.86.162:nexashield
 146.88.241.20:nexashield
+146.88.241.30:nexashield
 146.88.241.40:nexashield
 146.88.241.50:nexashield
 146.88.241.60:nexashield
@@ -4545,6 +4554,7 @@
 193.176.31.226:nexashield
 193.176.31.227:nexashield
 193.176.31.228:nexashield
+193.176.31.229:nexashield
 193.176.31.230:nexashield
 193.176.31.231:nexashield
 193.176.31.232:nexashield

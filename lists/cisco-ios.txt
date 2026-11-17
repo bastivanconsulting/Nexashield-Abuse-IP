@@ -201,6 +201,7 @@ object-group network NEXASHIELD-ABUSE
  host 5.226.140.85
  host 5.226.140.86
  host 5.226.140.87
+ host 5.226.140.89
  host 5.226.140.91
  host 5.226.140.92
  host 5.226.140.93
@@ -420,6 +421,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.64.98.132
  host 20.64.98.159
  host 20.64.98.197
+ host 20.64.99.165
  host 20.65.144.53
  host 20.65.144.98
  host 20.65.144.133
@@ -1017,6 +1019,7 @@ object-group network NEXASHIELD-ABUSE
  host 35.206.149.166
  host 35.206.150.95
  host 35.206.150.182
+ host 35.206.151.143
  host 35.206.151.215
  host 35.206.153.174
  host 35.206.153.176
@@ -1844,6 +1847,7 @@ object-group network NEXASHIELD-ABUSE
  host 46.229.233.132
  host 47.77.223.200
  host 47.84.112.180
+ host 47.84.114.18
  host 47.84.137.6
  host 47.84.138.210
  host 47.84.204.129
@@ -1886,6 +1890,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.251.101.89
  host 47.251.101.198
  host 47.251.101.253
+ host 47.251.171.255
  host 47.251.186.35
  host 47.251.190.194
  host 47.253.224.181
@@ -2573,6 +2578,7 @@ object-group network NEXASHIELD-ABUSE
  host 81.19.216.124
  host 81.19.219.195
  host 81.19.219.196
+ host 81.19.219.198
  host 81.19.219.199
  host 81.19.219.200
  host 81.19.219.202
@@ -2595,6 +2601,7 @@ object-group network NEXASHIELD-ABUSE
  host 81.19.219.234
  host 81.19.219.235
  host 81.19.219.236
+ host 81.19.219.238
  host 81.19.219.239
  host 81.19.219.240
  host 81.19.219.245
@@ -3190,6 +3197,7 @@ object-group network NEXASHIELD-ABUSE
  host 102.220.161.171
  host 102.220.161.174
  host 102.220.161.244
+ host 102.220.161.248
  host 102.220.163.241
  host 103.1.210.25
  host 103.14.32.192
@@ -3538,6 +3546,7 @@ object-group network NEXASHIELD-ABUSE
  host 144.126.133.155
  host 144.172.86.162
  host 146.88.241.20
+ host 146.88.241.30
  host 146.88.241.40
  host 146.88.241.50
  host 146.88.241.60
@@ -4547,6 +4556,7 @@ object-group network NEXASHIELD-ABUSE
  host 193.176.31.226
  host 193.176.31.227
  host 193.176.31.228
+ host 193.176.31.229
  host 193.176.31.230
  host 193.176.31.231
  host 193.176.31.232
