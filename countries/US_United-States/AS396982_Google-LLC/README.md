@@ -1,11 +1,13 @@
 # AS396982 · Google LLC
 
-🇺🇸 United States · **150** malicious IP(s)
+🇺🇸 United States · **152** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`8.228.7.154`](8.228.7.154/) | Web injection payload blocked by WAF (193) | 194 | 2026-11-17T14:17:03Z |
 | [`34.27.245.17`](34.27.245.17/) | Port scanning (5) | 10 | 2026-11-16T04:16:02Z |
 | [`34.72.233.34`](34.72.233.34/) | Abusive HTTP requests (462) | 462 | 2026-11-17T01:58:29Z |
+| [`34.75.133.70`](34.75.133.70/) | Web injection payload blocked by WAF (1) | 1 | 2026-11-17T14:25:21Z |
 | [`34.125.49.40`](34.125.49.40/) | Port scanning (8) | 8 | 2026-11-14T13:40:58Z |
 | [`34.125.179.242`](34.125.179.242/) | Abusive HTTP requests (1028), Web injection payload blocked by WAF (40) | 1068 | 2026-11-11T03:35:57Z |
 | [`34.148.17.138`](34.148.17.138/) | Abusive HTTP requests (213), Web injection payload blocked by WAF (2) | 215 | 2026-11-16T19:52:00Z |
@@ -13,7 +15,7 @@
 | [`104.198.46.187`](104.198.46.187/) | Abusive HTTP requests (224), Port scanning (1) | 225 | 2026-11-15T01:04:29Z |
 | [`136.71.167.87`](136.71.167.87/) | Abusive HTTP requests (594) | 594 | 2026-11-17T07:35:08Z |
 | [`136.87.66.64`](136.87.66.64/) | Abusive HTTP requests (178), Web injection payload blocked by WAF (22) | 200 | 2026-11-15T16:25:56Z |
-| [`136.117.44.34`](136.117.44.34/) | Web injection payload blocked by WAF (256) | 257 | 2026-11-17T13:03:03Z |
+| [`136.117.44.34`](136.117.44.34/) | Abusive HTTP requests (506), Web injection payload blocked by WAF (6) | 512 | 2026-11-17T13:02:20Z |
 | [`216.25.89.65`](216.25.89.65/) | Port scanning (18) | 22 | 2026-11-16T02:18:28Z |
 | [`216.25.89.67`](216.25.89.67/) | Port scanning (36) | 51 | 2026-11-16T15:31:43Z |
 | [`216.25.89.68`](216.25.89.68/) | Port scanning (16) | 22 | 2026-11-17T10:01:00Z |

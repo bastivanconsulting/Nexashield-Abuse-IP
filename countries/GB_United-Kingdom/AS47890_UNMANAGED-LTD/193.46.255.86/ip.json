@@ -6,10 +6,10 @@
   "asn_org": "UNMANAGED LTD",
   "categories": {
     "spamhaus": 100,
-    "ssh": 422
+    "ssh": 432
   },
-  "events": 522,
+  "events": 532,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-17T13:20:08Z",
+  "last_seen": "2026-11-17T14:10:00Z",
   "reported": "2026-11-11T17:05:43Z"
 }

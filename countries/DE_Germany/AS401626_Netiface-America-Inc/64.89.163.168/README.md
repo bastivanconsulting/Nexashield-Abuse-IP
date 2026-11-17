@@ -7,10 +7,10 @@
 | IP | `64.89.163.168` |
 | Country | Germany (DE) |
 | ASN | AS401626 · Netiface America, Inc. |
-| Activity | Port scanning (17) |
-| Events | 22 |
+| Activity | Port scanning (18) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-11T17:38:29Z |
-| Last seen (UTC) | 2026-11-14T21:56:40Z |
+| Last seen (UTC) | 2026-11-17T13:44:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

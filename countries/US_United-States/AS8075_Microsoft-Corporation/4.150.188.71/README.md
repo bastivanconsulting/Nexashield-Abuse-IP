@@ -7,10 +7,10 @@
 | IP | `4.150.188.71` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (17) |
-| Events | 26 |
+| Activity | Port scanning (18) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-11T11:17:43Z |
-| Last seen (UTC) | 2026-11-17T08:06:13Z |
+| Last seen (UTC) | 2026-11-17T13:27:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
