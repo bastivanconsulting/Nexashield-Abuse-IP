@@ -7,10 +7,10 @@
 | IP | `118.26.105.52` |
 | Country | Brazil (BR) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (23) |
-| Events | 31 |
+| Activity | Port scanning (24) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-14T06:42:04Z |
-| Last seen (UTC) | 2026-11-17T14:47:05Z |
+| Last seen (UTC) | 2026-11-17T20:25:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

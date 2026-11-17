@@ -7,10 +7,10 @@
 | IP | `103.87.175.110` |
 | Country | India (IN) |
 | ASN | AS146943 · Tier 4 Cloud Services |
-| Activity | Port scanning (112), Known botnet / C2 infrastructure (19) |
-| Events | 137 |
+| Activity | Port scanning (114), Known botnet / C2 infrastructure (20) |
+| Events | 140 |
 | First seen (UTC) | 2026-11-12T03:55:34Z |
-| Last seen (UTC) | 2026-11-17T19:18:58Z |
+| Last seen (UTC) | 2026-11-17T20:49:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

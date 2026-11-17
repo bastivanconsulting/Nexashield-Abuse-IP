@@ -7,10 +7,10 @@
 | IP | `5.188.206.194` |
 | Country | United States (US) |
 | ASN | AS200391 · KREZ 999 EOOD |
-| Activity | Port scanning (198) |
-| Events | 225 |
+| Activity | Port scanning (200) |
+| Events | 227 |
 | First seen (UTC) | 2026-11-13T15:19:05Z |
-| Last seen (UTC) | 2026-11-17T20:07:54Z |
+| Last seen (UTC) | 2026-11-17T20:45:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

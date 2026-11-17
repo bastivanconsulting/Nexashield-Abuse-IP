@@ -1,0 +1,14 @@
+{
+  "ip": "35.187.255.130",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 220
+  },
+  "events": 224,
+  "first_seen": "2026-11-17T20:51:38Z",
+  "last_seen": "2026-11-17T20:54:03Z",
+  "reported": "not reported (permanent ban)"
+}

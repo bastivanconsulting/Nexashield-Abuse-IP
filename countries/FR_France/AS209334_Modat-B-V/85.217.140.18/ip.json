@@ -5,11 +5,11 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-    "scan": 422,
+    "scan": 425,
     "c2": 16
   },
-  "events": 490,
+  "events": 493,
   "first_seen": "2026-11-12T19:48:13Z",
-  "last_seen": "2026-11-17T20:00:51Z",
+  "last_seen": "2026-11-17T21:10:52Z",
   "reported": "not reported (permanent ban)"
 }

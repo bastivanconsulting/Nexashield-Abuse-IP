@@ -5,11 +5,11 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-    "scan": 44,
+    "scan": 45,
     "c2": 7
   },
-  "events": 54,
+  "events": 55,
   "first_seen": "2026-11-11T10:25:24Z",
-  "last_seen": "2026-11-17T19:49:33Z",
+  "last_seen": "2026-11-17T21:09:04Z",
   "reported": "not reported (permanent ban)"
 }
