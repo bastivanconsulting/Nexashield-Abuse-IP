@@ -7,10 +7,10 @@
 | IP | `217.60.76.18` |
 | Country | The Netherlands (NL) |
 | ASN | AS401626 · Netiface America, Inc. |
-| Activity | Port scanning (11), Known botnet / C2 infrastructure (7) |
-| Events | 19 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (8) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-13T06:42:42Z |
-| Last seen (UTC) | 2026-11-16T14:47:14Z |
+| Last seen (UTC) | 2026-11-17T08:03:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,32 +1,32 @@
 # 🇩🇪 Germany
 
-**375** malicious IP(s) across **34** network(s).
+**376** malicious IP(s) across **34** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209630](AS209630_LLC-VASH-KREDIT-BANK/) | LLC VASH KREDIT BANK | 80 | Port scanning (3957), Known botnet / C2 infrastructure (619), Exploitation attempt (CVE / RCE / injection) (21), Abusive HTTP requests (3) |
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 61 | Port scanning (2577), Known botnet / C2 infrastructure (680), Abusive HTTP requests (2) |
-| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 40 | Port scanning (1395), Known botnet / C2 infrastructure (177), Abusive HTTP requests (8), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS208843](AS208843_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 33 | Port scanning (137), Known botnet / C2 infrastructure (116) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 26 | Port scanning (140), Known botnet / C2 infrastructure (48), Abusive HTTP requests (37), Exploitation attempt (CVE / RCE / injection) (6) |
+| [AS209630](AS209630_LLC-VASH-KREDIT-BANK/) | LLC VASH KREDIT BANK | 80 | Port scanning (3968), Known botnet / C2 infrastructure (619), Exploitation attempt (CVE / RCE / injection) (21), Abusive HTTP requests (3) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 61 | Port scanning (2589), Known botnet / C2 infrastructure (683), Abusive HTTP requests (2) |
+| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 40 | Port scanning (1401), Known botnet / C2 infrastructure (180), Abusive HTTP requests (8), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS208843](AS208843_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 34 | Port scanning (140), Known botnet / C2 infrastructure (119) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 26 | Port scanning (141), Known botnet / C2 infrastructure (48), Abusive HTTP requests (37), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 15 | Port scanning (140), Known botnet / C2 infrastructure (69) |
 | [AS401626](AS401626_Netiface-America-Inc/) | Netiface America, Inc. | 15 | Port scanning (225) |
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 15 | Port scanning (70), Known botnet / C2 infrastructure (53) |
-| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 15 | Port scanning (4256), Known botnet / C2 infrastructure (197), Abusive HTTP requests (10) |
-| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 8 | Port scanning (734), Abusive HTTP requests (102), Known botnet / C2 infrastructure (29) |
-| [AS211607](AS211607_Securitytrails-LLC/) | Securitytrails, LLC | 7 | Port scanning (158) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 15 | Port scanning (71), Known botnet / C2 infrastructure (54) |
+| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 15 | Port scanning (4269), Known botnet / C2 infrastructure (197), Abusive HTTP requests (10) |
+| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 8 | Port scanning (747), Abusive HTTP requests (102), Known botnet / C2 infrastructure (30) |
+| [AS211607](AS211607_Securitytrails-LLC/) | Securitytrails, LLC | 7 | Port scanning (160) |
 | [AS51167](AS51167_Contabo-GmbH/) | Contabo GmbH | 7 | Abusive HTTP requests (156), Port scanning (46), Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (5) |
 | [AS199457](AS199457_SolidCore-Hosting-LTD/) | SolidCore Hosting LTD | 6 | Port scanning (232), Abusive HTTP requests (118), Known botnet / C2 infrastructure (15) |
 | [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 5 | SSH brute force (80), Port scanning (16), Spamhaus DROP-listed network (12), Known botnet / C2 infrastructure (3), Abusive HTTP requests (3) |
 | [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 5 | Port scanning (312), Abusive HTTP requests (10) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 5 | Port scanning (1432), Known botnet / C2 infrastructure (8), Web injection payload blocked by WAF (2) |
-| [AS680](AS680_Verein-zur-Foerderung-eines-Deutschen-Forschungs/) | Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. | 5 | Port scanning (65), Known botnet / C2 infrastructure (21), SSH brute force (14) |
+| [AS680](AS680_Verein-zur-Foerderung-eines-Deutschen-Forschungs/) | Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. | 5 | Port scanning (66), Known botnet / C2 infrastructure (22), SSH brute force (16) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 4 | Port scanning (85), Known botnet / C2 infrastructure (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (966), Web injection payload blocked by WAF (57) |
 | [AS8560](AS8560_IONOS-SE/) | IONOS SE | 3 | Port scanning (113), Known botnet / C2 infrastructure (8) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 2 | Abusive HTTP requests (160), Web injection payload blocked by WAF (26), Known botnet / C2 infrastructure (3) |
 | [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 2 | Port scanning (39), Exploitation attempt (CVE / RCE / injection) (32), Abusive HTTP requests (27) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 2 | Port scanning (433), Abusive HTTP requests (47), Known botnet / C2 infrastructure (22) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 2 | Port scanning (435), Abusive HTTP requests (47), Known botnet / C2 infrastructure (22) |
 | [AS12816](AS12816_Leibniz-Rechenzentrum/) | Leibniz-Rechenzentrum | 1 | Port scanning (11) |
 | [AS153810](AS153810_MDN-TECHNOLOGY-LTD/) | MDN TECHNOLOGY LTD | 1 | SSH brute force (10) |
 | [AS197540](AS197540_netcup-GmbH/) | netcup GmbH | 1 | Port scanning (7) |
