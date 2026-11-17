@@ -7,10 +7,10 @@
 | IP | `151.242.149.155` |
 | Country | Brazil (BR) |
 | ASN | AS272696 · HOSTING NOW NET LTDA |
-| Activity | Port scanning (81) |
-| Events | 96 |
+| Activity | Port scanning (82) |
+| Events | 98 |
 | First seen (UTC) | 2026-11-11T09:50:11Z |
-| Last seen (UTC) | 2026-11-17T01:41:43Z |
+| Last seen (UTC) | 2026-11-17T03:18:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

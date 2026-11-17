@@ -1,12 +1,12 @@
 # AS6939 · Hurricane Electric LLC
 
-🇺🇸 United States · **41** malicious IP(s)
+🇺🇸 United States · **42** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`65.49.20.66`](65.49.20.66/) | Port scanning (2), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-13T03:59:13Z |
 | [`65.49.20.70`](65.49.20.70/) | Port scanning (16), Known botnet / C2 infrastructure (7) | 24 | 2026-11-16T11:45:21Z |
-| [`65.49.20.72`](65.49.20.72/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-17T02:52:36Z |
+| [`65.49.20.72`](65.49.20.72/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-17T04:10:42Z |
 | [`65.49.20.75`](65.49.20.75/) | Port scanning (19), Known botnet / C2 infrastructure (9) | 29 | 2026-11-16T06:22:27Z |
 | [`65.49.20.78`](65.49.20.78/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-17T02:15:51Z |
 | [`65.49.20.80`](65.49.20.80/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-17T03:08:21Z |
@@ -45,6 +45,7 @@
 | [`184.105.139.120`](184.105.139.120/) | Exploitation attempt (CVE / RCE / injection) (3) | 4 | 2026-11-13T02:28:17Z |
 | [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-15T08:30:36Z |
 | [`184.105.247.240`](184.105.247.240/) | Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-15T08:30:03Z |
+| [`216.218.206.67`](216.218.206.67/) | SSH brute force (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-17T04:06:03Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
