@@ -1,13 +1,13 @@
 # 🇫🇷 France
 
-**244** malicious IP(s) across **17** network(s).
+**245** malicious IP(s) across **17** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (5585), Known botnet / C2 infrastructure (1160), Exploitation attempt (CVE / RCE / injection) (11), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1393), SSH brute force (470), Known botnet / C2 infrastructure (123) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 26 | Port scanning (786), Known botnet / C2 infrastructure (89), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 7 | Abusive HTTP requests (348), Port scanning (109), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (13) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (5631), Known botnet / C2 infrastructure (1161), Exploitation attempt (CVE / RCE / injection) (11), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1405), SSH brute force (470), Known botnet / C2 infrastructure (123) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 26 | Port scanning (794), Known botnet / C2 infrastructure (90), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 8 | Abusive HTTP requests (348), Port scanning (127), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (15) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (238), Known botnet / C2 infrastructure (16) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (179), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |

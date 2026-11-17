@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4134](AS4134_Chinanet/) | Chinanet | 12 | Port scanning (432), Known botnet / C2 infrastructure (34), SSH brute force (16), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 12 | Port scanning (433), Known botnet / C2 infrastructure (35), SSH brute force (16), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 6 | Port scanning (84), Known botnet / C2 infrastructure (51) |
 | [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 6 | Port scanning (58), Known botnet / C2 infrastructure (16), SSH brute force (7) |
 | [AS136958](AS136958_China-Unicom-Guangdong-IP-network/) | China Unicom Guangdong IP network | 5 | Port scanning (59) |
@@ -16,7 +16,7 @@
 | [AS136188](AS136188_NINGBO-ZHEJIANG-Province-P-R-China/) | NINGBO, ZHEJIANG Province, P.R.China. | 1 | Port scanning (12) |
 | [AS136195](AS136195_Qingdao-Shandong-Province-P-R-China/) | Qingdao, Shandong Province, P.R.China. | 1 | Port scanning (9), Known botnet / C2 infrastructure (2) |
 | [AS137718](AS137718_Beijing-Volcano-Engine-Technology-Co-Ltd/) | Beijing Volcano Engine Technology Co., Ltd. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (1) |
-| [AS23724](AS23724_IDC-China-Telecommunications-Corporation/) | IDC, China Telecommunications Corporation | 1 | Port scanning (25), Known botnet / C2 infrastructure (6) |
+| [AS23724](AS23724_IDC-China-Telecommunications-Corporation/) | IDC, China Telecommunications Corporation | 1 | Port scanning (26), Known botnet / C2 infrastructure (7) |
 | [AS24151](AS24151_China-Internet-Network-Infomation-Center/) | China Internet Network Infomation Center | 1 | Port scanning (7), Known botnet / C2 infrastructure (3) |
 | [AS24400](AS24400_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 1 | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS24404](AS24404_CNISP-Union-Technology-Beijing-Co-Ltd/) | CNISP-Union Technology (Beijing) Co., Ltd | 1 | Port scanning (68), Known botnet / C2 infrastructure (5) |

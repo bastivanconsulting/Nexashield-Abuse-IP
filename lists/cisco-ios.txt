@@ -159,6 +159,7 @@ object-group network NEXASHIELD-ABUSE
  host 5.226.140.10
  host 5.226.140.11
  host 5.226.140.14
+ host 5.226.140.15
  host 5.226.140.16
  host 5.226.140.17
  host 5.226.140.18
@@ -169,6 +170,7 @@ object-group network NEXASHIELD-ABUSE
  host 5.226.140.24
  host 5.226.140.25
  host 5.226.140.26
+ host 5.226.140.27
  host 5.226.140.29
  host 5.226.140.31
  host 5.226.140.32
@@ -183,6 +185,7 @@ object-group network NEXASHIELD-ABUSE
  host 5.226.140.54
  host 5.226.140.55
  host 5.226.140.56
+ host 5.226.140.57
  host 5.226.140.59
  host 5.226.140.62
  host 5.226.140.63
@@ -212,6 +215,7 @@ object-group network NEXASHIELD-ABUSE
  host 5.226.140.98
  host 5.226.140.100
  host 5.226.140.103
+ host 5.226.140.104
  host 5.226.140.105
  host 5.226.140.111
  host 5.226.140.113
@@ -220,6 +224,7 @@ object-group network NEXASHIELD-ABUSE
  host 5.226.140.119
  host 5.226.140.120
  host 5.226.140.121
+ host 5.226.140.123
  host 5.226.140.124
  host 5.226.140.125
  host 5.252.83.3
@@ -771,6 +776,7 @@ object-group network NEXASHIELD-ABUSE
  host 34.79.37.102
  host 34.84.48.180
  host 34.95.221.104
+ host 34.97.157.192
  host 34.97.184.237
  host 34.107.15.145
  host 34.118.151.74
@@ -1736,6 +1742,7 @@ object-group network NEXASHIELD-ABUSE
  host 45.156.128.150
  host 45.156.128.153
  host 45.156.128.155
+ host 45.156.128.156
  host 45.156.128.164
  host 45.156.128.165
  host 45.156.128.166
@@ -1874,6 +1881,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.84.137.6
  host 47.84.137.56
  host 47.84.138.210
+ host 47.84.139.148
  host 47.84.141.126
  host 47.84.204.129
  host 47.84.206.196
@@ -3243,6 +3251,7 @@ object-group network NEXASHIELD-ABUSE
  host 102.220.161.174
  host 102.220.161.244
  host 102.220.161.248
+ host 102.220.163.13
  host 102.220.163.241
  host 103.1.210.25
  host 103.14.32.192
@@ -5028,6 +5037,7 @@ object-group network NEXASHIELD-ABUSE
  host 216.180.246.34
  host 216.180.246.35
  host 216.180.246.88
+ host 216.180.246.128
  host 216.180.246.140
  host 216.180.246.240
  host 216.180.246.243

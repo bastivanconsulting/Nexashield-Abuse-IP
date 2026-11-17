@@ -1,0 +1,14 @@
+{
+  "ip": "34.97.157.192",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-17T12:30:34Z",
+  "last_seen": "2026-11-17T12:30:34Z",
+  "reported": "not reported (permanent ban)"
+}

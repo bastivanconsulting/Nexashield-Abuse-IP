@@ -1,10 +1,10 @@
 # 🇸🇮 Slovenia
 
-**13** malicious IP(s) across **1** network(s).
+**14** malicious IP(s) across **1** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS197769](AS197769_VPS-Dedicated-LLC/) | VPS Dedicated LLC | 13 | Port scanning (334), SSH brute force (76), Known botnet / C2 infrastructure (55), Abusive HTTP requests (8), Web injection payload blocked by WAF (6) |
+| [AS197769](AS197769_VPS-Dedicated-LLC/) | VPS Dedicated LLC | 14 | Port scanning (341), SSH brute force (76), Known botnet / C2 infrastructure (57), Abusive HTTP requests (8), Web injection payload blocked by WAF (6) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

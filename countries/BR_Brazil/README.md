@@ -12,8 +12,8 @@
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (19) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (17), Known botnet / C2 infrastructure (4) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (84) |
-| [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (23), Known botnet / C2 infrastructure (9) |
-| [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 1 | Port scanning (6), Known botnet / C2 infrastructure (4), Abusive HTTP requests (1) |
+| [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (24), Known botnet / C2 infrastructure (10) |
+| [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 1 | Port scanning (7), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) |
 | [AS4230](AS4230_CLARO-S-A/) | CLARO S.A. | 1 | Port scanning (21) |
 | [AS53107](AS53107_EVEO-Servi-os-de-Internet-Ltda/) | EVEO Serviços de Internet Ltda. | 1 | Port scanning (12) |
 | [AS53238](AS53238_Chapeco-Tecnologia-em-Telecomunica-es-Ltda/) | Chapeco Tecnologia em Telecomunicações Ltda. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (1) |

@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS48090](AS48090_TECHOFF-SRV-LIMITED/) | TECHOFF SRV LIMITED | 58 | Port scanning (10811), Web injection payload blocked by WAF (2723), SSH brute force (2621), Known botnet / C2 infrastructure (277), Abusive HTTP requests (19), Exploitation attempt (CVE / RCE / injection) (7) |
+| [AS48090](AS48090_TECHOFF-SRV-LIMITED/) | TECHOFF SRV LIMITED | 58 | Port scanning (10832), Web injection payload blocked by WAF (2723), SSH brute force (2621), Known botnet / C2 infrastructure (278), Abusive HTTP requests (19), Exploitation attempt (CVE / RCE / injection) (7) |
 | [AS216014](AS216014_BestDC-Limited/) | BestDC Limited | 17 | Port scanning (6722), Known botnet / C2 infrastructure (207), SSH brute force (175), Abusive HTTP requests (17) |
 
 ---
