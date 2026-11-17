@@ -7,10 +7,10 @@
 | IP | `194.62.52.22` |
 | Country | Turkey (TR) |
 | ASN | AS204876 · BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI |
-| Activity | Port scanning (27) |
-| Events | 35 |
+| Activity | Port scanning (28) |
+| Events | 37 |
 | First seen (UTC) | 2026-11-14T05:50:57Z |
-| Last seen (UTC) | 2026-11-17T11:45:27Z |
+| Last seen (UTC) | 2026-11-17T14:40:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

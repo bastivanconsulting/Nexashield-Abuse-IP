@@ -8,8 +8,8 @@
 | [AS135905](AS135905_VIETNAM-POSTS-AND-TELECOMMUNICATIONS-GROUP/) | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 1 | Port scanning (106) |
 | [AS135918](AS135918_VIET-DIGITAL-TECHNOLOGY-LIABILITY-COMPANY/) | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 1 | Port scanning (188) |
 | [AS140791](AS140791_BKHOST-TECHNOLOGY-VIETNAM-JOINT-STOCK-COMPANY/) | BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY | 1 | Port scanning (17), Known botnet / C2 infrastructure (9) |
-| [AS140832](AS140832_Vietnam-F-Tech-JSC/) | Vietnam F Tech., JSC | 1 | Port scanning (28), Known botnet / C2 infrastructure (13) |
-| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (125) |
+| [AS140832](AS140832_Vietnam-F-Tech-JSC/) | Vietnam F Tech., JSC | 1 | Port scanning (29), Known botnet / C2 infrastructure (14) |
+| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (126) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
