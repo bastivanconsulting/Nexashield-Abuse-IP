@@ -7,8 +7,8 @@
 | IP | `34.53.147.106` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (284) |
-| Events | 284 |
+| Activity | Abusive HTTP requests (142) |
+| Events | 142 |
 | First seen (UTC) | 2026-11-16T02:31:58Z |
 | Last seen (UTC) | 2026-11-16T02:32:06Z |
 | Reported to network owner (UTC) | 2026-11-16T04:25:07Z |

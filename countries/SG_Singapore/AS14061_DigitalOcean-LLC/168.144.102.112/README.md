@@ -7,8 +7,8 @@
 | IP | `168.144.102.112` |
 | Country | Singapore (SG) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (96) |
-| Events | 96 |
+| Activity | Abusive HTTP requests (48) |
+| Events | 48 |
 | First seen (UTC) | 2026-11-16T17:44:49Z |
 | Last seen (UTC) | 2026-11-16T17:51:21Z |
 | Reported to network owner (UTC) | 2026-11-16T18:27:39Z |

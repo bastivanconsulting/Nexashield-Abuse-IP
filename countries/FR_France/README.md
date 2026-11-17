@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (5033), Known botnet / C2 infrastructure (1043), Exploitation attempt (CVE / RCE / injection) (9), SSH brute force (1) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (5048), Known botnet / C2 infrastructure (1045), Exploitation attempt (CVE / RCE / injection) (9), SSH brute force (1) |
 | [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1295), SSH brute force (470), Known botnet / C2 infrastructure (116) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 21 | Port scanning (693), Known botnet / C2 infrastructure (74), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 21 | Port scanning (696), Known botnet / C2 infrastructure (74), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 7 | Abusive HTTP requests (348), Port scanning (109), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (13) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (232), Known botnet / C2 infrastructure (15) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (169), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
@@ -19,7 +19,7 @@
 | [AS215381](AS215381_ROCKHOSTER-PRIVATE-LIMITED/) | ROCKHOSTER PRIVATE LIMITED | 1 | Port scanning (21), Known botnet / C2 infrastructure (1) |
 | [AS215599](AS215599_Zkillu-SAS/) | Zkillu SAS | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS29066](AS29066_velia-net-Internetdienste-GmbH/) | velia.net Internetdienste GmbH | 1 | SSH brute force (87) |
-| [AS39421](AS39421_Sapinet-SAS/) | Sapinet SAS | 1 | Known botnet / C2 infrastructure (10) |
+| [AS39421](AS39421_Sapinet-SAS/) | Sapinet SAS | 1 | Known botnet / C2 infrastructure (8) |
 | [AS49434](AS49434_FBW-NETWORKS-SAS/) | FBW NETWORKS SAS | 1 | Port scanning (19) |
 
 ---

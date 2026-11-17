@@ -5,11 +5,11 @@
   "asn": 931,
   "asn_org": "Hyonix",
   "categories": {
-    "scan": 26,
+    "scan": 27,
     "c2": 1
   },
-  "events": 38,
+  "events": 40,
   "first_seen": "2026-11-11T10:18:49Z",
-  "last_seen": "2026-11-16T05:33:39Z",
+  "last_seen": "2026-11-17T00:05:59Z",
   "reported": "not reported (permanent ban)"
 }

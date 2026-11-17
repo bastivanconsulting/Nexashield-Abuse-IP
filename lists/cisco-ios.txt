@@ -1,4 +1,4 @@
-! NexaShield abuse IP - Cisco IOS / IOS-XE (IPv4) - generated 2026-11-16
+! NexaShield abuse IP - Cisco IOS / IOS-XE (IPv4) - generated 2026-11-17
 object-group network NEXASHIELD-ABUSE
  host 2.27.32.182
  host 2.31.192.136
@@ -765,6 +765,7 @@ object-group network NEXASHIELD-ABUSE
  host 34.156.64.247
  host 34.158.206.112
  host 34.163.127.33
+ host 34.176.47.134
  host 34.193.119.44
  host 34.197.70.90
  host 34.203.35.197
@@ -1814,6 +1815,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.245.129.141
  host 47.245.141.129
  host 47.245.143.11
+ host 47.245.143.183
  host 47.250.50.149
  host 47.250.57.175
  host 47.250.83.248
@@ -3729,6 +3731,7 @@ object-group network NEXASHIELD-ABUSE
  host 154.80.128.231
  host 154.197.56.163
  host 154.222.21.108
+ host 154.242.156.3
  host 156.225.1.10
  host 156.225.1.70
  host 156.225.1.71
@@ -4556,6 +4559,7 @@ object-group network NEXASHIELD-ABUSE
  host 194.187.176.149
  host 194.187.176.162
  host 194.187.176.184
+ host 194.187.176.217
  host 194.187.176.228
  host 194.187.176.231
  host 194.187.176.232

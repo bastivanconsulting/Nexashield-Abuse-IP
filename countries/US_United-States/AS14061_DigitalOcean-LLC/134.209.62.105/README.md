@@ -7,8 +7,8 @@
 | IP | `134.209.62.105` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-16T04:40:30Z |
 | Last seen (UTC) | 2026-11-16T04:40:30Z |
 | Reported to network owner (UTC) | 2026-11-16T06:25:12Z |

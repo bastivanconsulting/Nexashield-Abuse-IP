@@ -5,10 +5,10 @@
   "asn": 36352,
   "asn_org": "HostPapa",
   "categories": {
-    "waf": 32,
-    "web": 4
+    "waf": 16,
+    "web": 2
   },
-  "events": 36,
+  "events": 18,
   "first_seen": "2026-11-16T18:04:59Z",
   "last_seen": "2026-11-16T18:04:59Z",
   "reported": "2026-11-16T20:25:57Z"

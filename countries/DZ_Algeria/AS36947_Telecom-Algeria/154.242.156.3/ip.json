@@ -1,0 +1,15 @@
+{
+  "ip": "154.242.156.3",
+  "country_code": "DZ",
+  "country": "Algeria",
+  "asn": 36947,
+  "asn_org": "Telecom Algeria",
+  "categories": {
+    "ssh": 146,
+    "scan": 4
+  },
+  "events": 152,
+  "first_seen": "2026-11-17T00:00:42Z",
+  "last_seen": "2026-11-17T00:02:48Z",
+  "reported": "not reported (permanent ban)"
+}

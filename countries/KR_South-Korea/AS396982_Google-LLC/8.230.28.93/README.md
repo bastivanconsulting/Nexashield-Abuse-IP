@@ -7,8 +7,8 @@
 | IP | `8.230.28.93` |
 | Country | South Korea (KR) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (426), Web injection payload blocked by WAF (22) |
-| Events | 448 |
+| Activity | Abusive HTTP requests (213), Web injection payload blocked by WAF (11) |
+| Events | 224 |
 | First seen (UTC) | 2026-11-16T16:41:15Z |
 | Last seen (UTC) | 2026-11-16T16:41:39Z |
 | Reported to network owner (UTC) | 2026-11-16T18:27:25Z |

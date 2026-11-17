@@ -5,12 +5,12 @@
   "asn": 210558,
   "asn_org": "1337 Services GmbH",
   "categories": {
-    "spamhaus": 2,
-    "scan": 6,
-    "exploit": 4,
-    "waf": 20
+    "spamhaus": 1,
+    "scan": 3,
+    "exploit": 2,
+    "waf": 10
   },
-  "events": 32,
+  "events": 16,
   "first_seen": "2026-11-16T06:31:38Z",
   "last_seen": "2026-11-16T06:32:26Z",
   "reported": "2026-11-16T08:25:00Z"

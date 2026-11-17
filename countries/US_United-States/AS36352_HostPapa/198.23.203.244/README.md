@@ -7,8 +7,8 @@
 | IP | `198.23.203.244` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Web injection payload blocked by WAF (32), Abusive HTTP requests (4) |
-| Events | 36 |
+| Activity | Web injection payload blocked by WAF (16), Abusive HTTP requests (2) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-16T18:04:59Z |
 | Last seen (UTC) | 2026-11-16T18:04:59Z |
 | Reported to network owner (UTC) | 2026-11-16T20:25:57Z |

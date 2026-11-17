@@ -9,8 +9,8 @@
 | ASN | AS211298 · Driftnet Ltd |
 | Activity | Port scanning (1) |
 | Events | 1 |
-| First seen (UTC) | 2026-11-16T23:35:37Z |
-| Last seen (UTC) | 2026-11-16T23:35:37Z |
+| First seen (UTC) | 2026-11-17T00:35:35Z |
+| Last seen (UTC) | 2026-11-17T00:35:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

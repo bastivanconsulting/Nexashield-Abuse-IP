@@ -5,9 +5,9 @@
   "asn": 39421,
   "asn_org": "Sapinet SAS",
   "categories": {
-    "c2": 10
+    "c2": 8
   },
-  "events": 10,
+  "events": 8,
   "first_seen": "2026-11-11T10:10:56Z",
   "last_seen": "2026-11-16T00:31:42Z",
   "reported": "2026-11-11T16:34:45Z"

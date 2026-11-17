@@ -11,7 +11,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 45.148.10.165,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:2;scan:8;web:1,11,2026-11-14T21:09:44Z,2026-11-15T22:38:26Z,not reported (permanent ban)
 45.148.10.171,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:7;scan:95;waf:6;web:7,121,2026-11-09T17:10:37Z,2026-11-16T18:13:57Z,not reported (permanent ban)
 45.148.10.183,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:5,6,2026-11-11T20:09:03Z,2026-11-11T20:28:18Z,not reported (permanent ban)
-45.148.10.188,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:596,638,2026-11-11T10:33:22Z,2026-11-16T22:41:20Z,not reported (permanent ban)
+45.148.10.188,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:598,640,2026-11-11T10:33:22Z,2026-11-17T00:16:45Z,not reported (permanent ban)
 45.148.10.201,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:1;scan:2;web:1,4,2026-11-13T20:57:37Z,2026-11-13T20:58:08Z,not reported (permanent ban)
 45.148.10.230,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:11;scan:764,821,2026-11-11T10:02:48Z,2026-11-16T22:18:18Z,not reported (permanent ban)
 45.148.10.233,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:19;scan:300,320,2026-11-11T12:14:54Z,2026-11-16T23:04:38Z,not reported (permanent ban)
@@ -20,14 +20,14 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 93.123.109.4,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:264,284,2026-11-11T12:30:15Z,2026-11-16T23:00:18Z,not reported (permanent ban)
 93.123.109.6,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:19;scan:226,285,2026-11-11T09:47:22Z,2026-11-16T22:59:36Z,not reported (permanent ban)
 93.123.109.9,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:285,311,2026-11-11T12:29:51Z,2026-11-16T22:54:38Z,not reported (permanent ban)
-93.123.109.12,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:276,302,2026-11-11T12:29:05Z,2026-11-16T22:52:38Z,not reported (permanent ban)
+93.123.109.12,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:277,303,2026-11-11T12:29:05Z,2026-11-17T00:10:07Z,not reported (permanent ban)
 93.123.109.75,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:270,296,2026-11-11T12:36:22Z,2026-11-16T23:10:21Z,not reported (permanent ban)
 93.123.109.77,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:273,297,2026-11-11T12:34:50Z,2026-11-16T22:13:09Z,not reported (permanent ban)
 93.123.109.80,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:266,288,2026-11-11T12:30:05Z,2026-11-16T22:36:27Z,not reported (permanent ban)
 93.123.109.82,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:268,289,2026-11-11T12:31:47Z,2026-11-16T22:55:28Z,not reported (permanent ban)
 93.123.109.83,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:275,295,2026-11-11T12:32:48Z,2026-11-16T23:02:43Z,not reported (permanent ban)
-93.123.109.84,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:282,306,2026-11-11T12:33:26Z,2026-11-16T22:47:46Z,not reported (permanent ban)
-93.123.109.95,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:277,305,2026-11-11T12:38:46Z,2026-11-16T23:03:12Z,not reported (permanent ban)
+93.123.109.84,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:283,307,2026-11-11T12:33:26Z,2026-11-17T00:15:05Z,not reported (permanent ban)
+93.123.109.95,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:278,306,2026-11-11T12:38:46Z,2026-11-17T00:06:51Z,not reported (permanent ban)
 93.123.109.105,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:1;scan:2;waf:232;web:1,237,2026-11-11T11:05:01Z,2026-11-14T22:00:22Z,not reported (permanent ban)
 93.123.109.164,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:1;scan:1;waf:61,67,2026-11-13T07:39:28Z,2026-11-13T07:40:03Z,not reported (permanent ban)
 93.123.109.204,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:6;scan:11,20,2026-11-11T15:54:12Z,2026-11-15T04:18:24Z,not reported (permanent ban)
@@ -36,18 +36,18 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 195.178.110.22,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:1;scan:2;waf:499;web:1,506,2026-11-13T17:45:50Z,2026-11-13T17:47:27Z,not reported (permanent ban)
 195.178.110.26,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:8;scan:22;ssh:291,322,2026-11-10T13:54:40Z,2026-11-16T09:36:47Z,not reported (permanent ban)
 195.178.110.32,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:4;scan:6,11,2026-11-12T16:43:32Z,2026-11-15T10:47:14Z,not reported (permanent ban)
-195.178.110.78,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:22;scan:566;web:1,638,2026-11-11T00:02:40Z,2026-11-16T23:02:15Z,not reported (permanent ban)
+195.178.110.78,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:22;scan:567;web:1,639,2026-11-11T00:02:40Z,2026-11-17T00:07:59Z,not reported (permanent ban)
 195.178.110.94,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:1;scan:1,2,2026-11-11T10:22:39Z,2026-11-11T10:22:43Z,not reported (permanent ban)
-195.178.110.134,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:383,414,2026-11-11T12:29:31Z,2026-11-16T23:15:32Z,not reported (permanent ban)
+195.178.110.134,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:384,415,2026-11-11T12:29:31Z,2026-11-17T00:16:11Z,not reported (permanent ban)
 195.178.110.144,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:18;scan:375,418,2026-11-11T12:38:04Z,2026-11-16T22:20:44Z,not reported (permanent ban)
 195.178.110.145,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:371,391,2026-11-11T12:31:35Z,2026-11-16T23:04:50Z,not reported (permanent ban)
-195.178.110.147,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:392,419,2026-11-11T12:30:47Z,2026-11-16T22:35:42Z,not reported (permanent ban)
-195.178.110.148,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:402,424,2026-11-11T12:34:26Z,2026-11-16T23:02:48Z,not reported (permanent ban)
-195.178.110.149,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:366,389,2026-11-11T12:53:36Z,2026-11-16T22:53:11Z,not reported (permanent ban)
+195.178.110.147,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:393,420,2026-11-11T12:30:47Z,2026-11-17T00:16:14Z,not reported (permanent ban)
+195.178.110.148,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:404,426,2026-11-11T12:34:26Z,2026-11-17T00:04:57Z,not reported (permanent ban)
+195.178.110.149,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:367,390,2026-11-11T12:53:36Z,2026-11-17T00:15:00Z,not reported (permanent ban)
 195.178.110.150,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:349,373,2026-11-11T12:29:27Z,2026-11-16T23:06:30Z,not reported (permanent ban)
 195.178.110.151,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:354,375,2026-11-11T12:28:58Z,2026-11-16T22:44:04Z,not reported (permanent ban)
-195.178.110.152,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:358,379,2026-11-11T12:59:31Z,2026-11-16T22:57:29Z,not reported (permanent ban)
-195.178.110.153,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:360,388,2026-11-11T12:45:49Z,2026-11-16T23:14:33Z,not reported (permanent ban)
+195.178.110.152,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:359,380,2026-11-11T12:59:31Z,2026-11-17T00:11:19Z,not reported (permanent ban)
+195.178.110.153,AD,Andorra,48090,TECHOFF SRV LIMITED,scan:361,389,2026-11-11T12:45:49Z,2026-11-17T00:17:18Z,not reported (permanent ban)
 195.178.110.159,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:3;scan:19;waf:12;web:3,41,2026-11-11T03:50:29Z,2026-11-12T02:55:48Z,not reported (permanent ban)
 195.178.110.204,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:10;scan:279,309,2026-11-11T10:11:21Z,2026-11-14T12:11:42Z,not reported (permanent ban)
 195.178.110.217,AD,Andorra,48090,TECHOFF SRV LIMITED,c2:8;scan:23;ssh:625,665,2026-11-10T19:16:03Z,2026-11-16T21:23:59Z,not reported (permanent ban)
@@ -65,7 +65,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 193.47.62.95,AD,Andorra,216014,BestDC Limited,c2:7;scan:442,473,2026-11-11T12:34:53Z,2026-11-16T22:47:19Z,not reported (permanent ban)
 193.47.62.96,AD,Andorra,216014,BestDC Limited,c2:19;scan:499,543,2026-11-11T12:31:46Z,2026-11-16T22:25:11Z,not reported (permanent ban)
 193.47.62.97,AD,Andorra,216014,BestDC Limited,c2:7;scan:475,511,2026-11-11T12:36:38Z,2026-11-16T23:04:55Z,not reported (permanent ban)
-193.47.62.98,AD,Andorra,216014,BestDC Limited,c2:8;scan:430,469,2026-11-11T12:38:06Z,2026-11-16T22:55:57Z,not reported (permanent ban)
+193.47.62.98,AD,Andorra,216014,BestDC Limited,c2:8;scan:434,473,2026-11-11T12:38:06Z,2026-11-17T00:01:36Z,not reported (permanent ban)
 193.47.62.99,AD,Andorra,216014,BestDC Limited,c2:19;scan:513,558,2026-11-11T12:32:49Z,2026-11-16T23:06:42Z,not reported (permanent ban)
 193.47.62.101,AD,Andorra,216014,BestDC Limited,c2:7;scan:380,413,2026-11-11T12:30:48Z,2026-11-16T22:37:29Z,not reported (permanent ban)
 193.47.62.110,AD,Andorra,216014,BestDC Limited,c2:20;scan:791,859,2026-11-11T09:48:12Z,2026-11-16T23:02:20Z,not reported (permanent ban)
@@ -82,7 +82,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 176.32.193.16,AM,Armenia,197834,Ucom CJSC,c2:17;scan:79,99,2026-11-11T15:06:53Z,2026-11-16T21:56:27Z,not reported (permanent ban)
 190.111.206.171,AR,Argentina,11014,CPS,c2:4;scan:5,10,2026-11-12T17:28:12Z,2026-11-15T10:59:26Z,not reported (permanent ban)
 186.182.14.10,AR,Argentina,11664,Techtel LMDS Comunicaciones Interactivas S.A.,scan:14,22,2026-11-12T18:28:05Z,2026-11-15T15:01:07Z,not reported (permanent ban)
-81.16.152.2,AT,Austria,1764,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,scan:978,980,2026-11-11T22:31:06Z,2026-11-16T23:15:45Z,not reported (permanent ban)
+81.16.152.2,AT,Austria,1764,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,scan:979,981,2026-11-11T22:31:06Z,2026-11-17T00:15:42Z,not reported (permanent ban)
 159.195.252.54,AT,Austria,197540,netcup GmbH,scan:14,18,2026-11-14T07:14:25Z,2026-11-15T13:18:04Z,not reported (permanent ban)
 134.199.145.200,AU,Australia,14061,"DigitalOcean, LLC",exploit:3,3,2026-11-12T05:29:05Z,2026-11-12T05:29:05Z,2026-11-12T06:23:56Z
 168.144.167.130,AU,Australia,14061,"DigitalOcean, LLC",exploit:3,3,2026-11-11T19:25:03Z,2026-11-11T19:25:03Z,2026-11-11T21:09:38Z
@@ -366,13 +366,13 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 34.22.196.121,BE,Belgium,396982,Google LLC,web:118,118,2026-11-14T01:11:36Z,2026-11-14T01:11:42Z,2026-11-14T02:26:08Z
 34.38.141.52,BE,Belgium,396982,Google LLC,web:84,84,2026-11-10T09:25:25Z,2026-11-10T09:25:28Z,2026-11-11T17:06:48Z
 34.38.252.135,BE,Belgium,396982,Google LLC,web:621,621,2026-11-10T11:01:00Z,2026-11-14T07:22:18Z,2026-11-11T17:06:48Z
-34.53.147.106,BE,Belgium,396982,Google LLC,web:284,284,2026-11-16T02:31:58Z,2026-11-16T02:32:06Z,2026-11-16T04:25:07Z
+34.53.147.106,BE,Belgium,396982,Google LLC,web:142,142,2026-11-16T02:31:58Z,2026-11-16T02:32:06Z,2026-11-16T04:25:07Z
 34.62.25.39,BE,Belgium,396982,Google LLC,web:95,95,2026-11-14T11:37:04Z,2026-11-14T11:37:08Z,2026-11-14T14:27:43Z
 34.62.39.143,BE,Belgium,396982,Google LLC,waf:34;web:198,232,2026-11-15T17:14:49Z,2026-11-15T17:14:59Z,2026-11-15T18:25:04Z
 34.62.82.207,BE,Belgium,396982,Google LLC,web:79,79,2026-11-11T20:45:48Z,2026-11-11T20:45:51Z,2026-11-11T21:10:14Z
 34.62.122.185,BE,Belgium,396982,Google LLC,web:127,127,2026-11-13T09:16:51Z,2026-11-13T09:16:57Z,2026-11-13T10:24:30Z
 34.76.27.30,BE,Belgium,396982,Google LLC,web:71,71,2026-11-12T10:21:39Z,2026-11-12T10:21:42Z,2026-11-12T12:23:56Z
-34.76.33.44,BE,Belgium,396982,Google LLC,web:435,435,2026-11-12T23:26:57Z,2026-11-16T00:22:54Z,2026-11-13T02:31:22Z
+34.76.33.44,BE,Belgium,396982,Google LLC,web:300,300,2026-11-12T23:26:57Z,2026-11-16T00:22:54Z,2026-11-13T02:31:22Z
 34.76.228.132,BE,Belgium,396982,Google LLC,web:565,565,2026-11-10T11:00:16Z,2026-11-14T09:46:16Z,2026-11-11T17:06:48Z
 34.77.153.177,BE,Belgium,396982,Google LLC,web:198,198,2026-11-11T10:31:04Z,2026-11-13T11:18:55Z,2026-11-11T17:06:48Z
 34.79.37.102,BE,Belgium,396982,Google LLC,web:108,108,2026-11-14T13:34:08Z,2026-11-14T13:34:13Z,2026-11-14T16:26:23Z
@@ -389,45 +389,45 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 207.175.218.17,BE,Belgium,396982,Google LLC,web:107,107,2026-11-14T11:36:04Z,2026-11-14T11:36:08Z,2026-11-14T14:27:43Z
 207.175.237.228,BE,Belgium,396982,Google LLC,web:186,186,2026-11-12T09:39:50Z,2026-11-13T11:26:40Z,2026-11-12T12:23:56Z
 87.227.143.150,BG,Bulgaria,29580,A1 Bulgaria EAD,scan:1;ssh:10,11,2026-11-13T08:00:49Z,2026-11-13T08:01:21Z,2026-11-13T10:24:25Z
-78.128.114.46,BG,Bulgaria,50360,Tamatiya EOOD,scan:14,14,2026-11-12T22:42:08Z,2026-11-16T18:38:59Z,2026-11-11T16:35:30Z
-78.128.114.166,BG,Bulgaria,50360,Tamatiya EOOD,c2:12;scan:58,71,2026-11-13T14:23:17Z,2026-11-16T22:53:37Z,not reported (permanent ban)
+78.128.114.46,BG,Bulgaria,50360,Tamatiya EOOD,scan:12,12,2026-11-12T22:42:08Z,2026-11-16T18:38:59Z,2026-11-11T16:35:30Z
+78.128.114.166,BG,Bulgaria,50360,Tamatiya EOOD,c2:13;scan:59,73,2026-11-13T14:23:17Z,2026-11-17T00:02:25Z,not reported (permanent ban)
 78.128.114.174,BG,Bulgaria,50360,Tamatiya EOOD,scan:52,52,2026-11-14T06:28:08Z,2026-11-14T16:03:24Z,2026-11-11T16:35:30Z
-79.124.40.114,BG,Bulgaria,50360,Tamatiya EOOD,c2:19;scan:333,378,2026-11-11T12:46:38Z,2026-11-16T23:00:04Z,not reported (permanent ban)
+79.124.40.114,BG,Bulgaria,50360,Tamatiya EOOD,c2:19;scan:335,380,2026-11-11T12:46:38Z,2026-11-17T00:13:35Z,not reported (permanent ban)
 79.124.40.142,BG,Bulgaria,50360,Tamatiya EOOD,c2:10;scan:35,51,2026-11-11T10:11:46Z,2026-11-16T22:59:44Z,not reported (permanent ban)
-79.124.40.150,BG,Bulgaria,50360,Tamatiya EOOD,c2:20;scan:304,352,2026-11-11T12:29:45Z,2026-11-16T22:42:39Z,not reported (permanent ban)
+79.124.40.150,BG,Bulgaria,50360,Tamatiya EOOD,c2:21;scan:305,354,2026-11-11T12:29:45Z,2026-11-17T00:05:59Z,not reported (permanent ban)
 79.124.40.158,BG,Bulgaria,50360,Tamatiya EOOD,c2:20;scan:319,366,2026-11-11T12:33:17Z,2026-11-16T22:29:59Z,not reported (permanent ban)
-79.124.40.170,BG,Bulgaria,50360,Tamatiya EOOD,c2:19;scan:318,356,2026-11-11T12:30:25Z,2026-11-16T22:48:51Z,not reported (permanent ban)
+79.124.40.170,BG,Bulgaria,50360,Tamatiya EOOD,c2:19;scan:320,358,2026-11-11T12:30:25Z,2026-11-17T00:15:30Z,not reported (permanent ban)
 79.124.40.186,BG,Bulgaria,50360,Tamatiya EOOD,scan:135,154,2026-11-11T16:48:07Z,2026-11-16T14:09:49Z,not reported (permanent ban)
 79.124.49.62,BG,Bulgaria,50360,Tamatiya EOOD,c2:9;scan:21,34,2026-11-12T09:12:05Z,2026-11-16T17:11:36Z,not reported (permanent ban)
 79.124.49.146,BG,Bulgaria,50360,Tamatiya EOOD,c2:8;scan:31,47,2026-11-11T20:34:29Z,2026-11-16T02:46:56Z,not reported (permanent ban)
-79.124.56.222,BG,Bulgaria,50360,Tamatiya EOOD,c2:18;scan:315,358,2026-11-11T12:33:52Z,2026-11-16T23:00:54Z,not reported (permanent ban)
+79.124.56.222,BG,Bulgaria,50360,Tamatiya EOOD,c2:18;scan:316,359,2026-11-11T12:33:52Z,2026-11-17T00:17:28Z,not reported (permanent ban)
 79.124.56.254,BG,Bulgaria,50360,Tamatiya EOOD,c2:19;scan:317,362,2026-11-11T12:31:02Z,2026-11-16T23:13:24Z,not reported (permanent ban)
 79.124.58.22,BG,Bulgaria,50360,Tamatiya EOOD,web:36,36,2026-11-10T02:42:46Z,2026-11-10T02:43:24Z,2026-11-11T17:07:17Z
 79.124.58.70,BG,Bulgaria,50360,Tamatiya EOOD,scan:297,341,2026-11-11T12:31:23Z,2026-11-16T23:16:42Z,not reported (permanent ban)
 79.124.58.74,BG,Bulgaria,50360,Tamatiya EOOD,scan:289,325,2026-11-11T12:29:13Z,2026-11-16T22:28:33Z,not reported (permanent ban)
 79.124.58.82,BG,Bulgaria,50360,Tamatiya EOOD,exploit:1,1,2026-11-11T20:34:21Z,2026-11-11T20:34:21Z,2026-11-11T21:09:42Z
 79.124.58.98,BG,Bulgaria,50360,Tamatiya EOOD,scan:290,338,2026-11-11T12:56:56Z,2026-11-16T22:11:09Z,not reported (permanent ban)
-79.124.58.102,BG,Bulgaria,50360,Tamatiya EOOD,scan:276,320,2026-11-11T12:32:03Z,2026-11-16T23:10:02Z,not reported (permanent ban)
-79.124.58.106,BG,Bulgaria,50360,Tamatiya EOOD,scan:273,311,2026-11-11T12:30:02Z,2026-11-16T23:00:27Z,not reported (permanent ban)
-79.124.58.110,BG,Bulgaria,50360,Tamatiya EOOD,scan:290,341,2026-11-11T12:36:16Z,2026-11-16T23:15:07Z,not reported (permanent ban)
+79.124.58.102,BG,Bulgaria,50360,Tamatiya EOOD,scan:277,321,2026-11-11T12:32:03Z,2026-11-17T00:07:03Z,not reported (permanent ban)
+79.124.58.106,BG,Bulgaria,50360,Tamatiya EOOD,scan:274,312,2026-11-11T12:30:02Z,2026-11-17T00:08:55Z,not reported (permanent ban)
+79.124.58.110,BG,Bulgaria,50360,Tamatiya EOOD,scan:291,342,2026-11-11T12:36:16Z,2026-11-17T00:15:38Z,not reported (permanent ban)
 79.124.58.134,BG,Bulgaria,50360,Tamatiya EOOD,c2:8;scan:18,30,2026-11-12T04:01:20Z,2026-11-16T08:24:06Z,not reported (permanent ban)
 79.124.58.194,BG,Bulgaria,50360,Tamatiya EOOD,scan:37,47,2026-11-13T15:28:17Z,2026-11-15T14:03:36Z,not reported (permanent ban)
 79.124.58.218,BG,Bulgaria,50360,Tamatiya EOOD,c2:2;scan:65,69,2026-11-11T13:53:19Z,2026-11-12T06:31:08Z,not reported (permanent ban)
-79.124.58.250,BG,Bulgaria,50360,Tamatiya EOOD,scan:282,327,2026-11-11T12:32:39Z,2026-11-16T22:54:57Z,not reported (permanent ban)
-79.124.59.10,BG,Bulgaria,50360,Tamatiya EOOD,scan:278,316,2026-11-11T12:41:48Z,2026-11-16T23:07:36Z,not reported (permanent ban)
-79.124.59.78,BG,Bulgaria,50360,Tamatiya EOOD,c2:22;scan:434,494,2026-11-11T09:49:58Z,2026-11-16T22:40:38Z,not reported (permanent ban)
+79.124.58.250,BG,Bulgaria,50360,Tamatiya EOOD,scan:283,328,2026-11-11T12:32:39Z,2026-11-17T00:00:57Z,not reported (permanent ban)
+79.124.59.10,BG,Bulgaria,50360,Tamatiya EOOD,scan:279,317,2026-11-11T12:41:48Z,2026-11-17T00:16:45Z,not reported (permanent ban)
+79.124.59.78,BG,Bulgaria,50360,Tamatiya EOOD,c2:22;scan:436,496,2026-11-11T09:49:58Z,2026-11-17T00:07:29Z,not reported (permanent ban)
 79.124.59.82,BG,Bulgaria,50360,Tamatiya EOOD,c2:10;scan:225,266,2026-11-11T12:39:48Z,2026-11-16T22:16:58Z,not reported (permanent ban)
 79.124.60.194,BG,Bulgaria,50360,Tamatiya EOOD,scan:86,99,2026-11-11T09:55:07Z,2026-11-12T14:50:09Z,not reported (permanent ban)
 79.124.60.218,BG,Bulgaria,50360,Tamatiya EOOD,scan:23,23,2026-11-11T12:35:28Z,2026-11-12T10:44:03Z,2026-11-11T16:35:30Z
-79.124.60.250,BG,Bulgaria,50360,Tamatiya EOOD,scan:284,326,2026-11-11T12:30:05Z,2026-11-16T22:42:44Z,not reported (permanent ban)
+79.124.60.250,BG,Bulgaria,50360,Tamatiya EOOD,scan:287,330,2026-11-11T12:30:05Z,2026-11-17T00:04:43Z,not reported (permanent ban)
 91.148.190.72,BG,Bulgaria,50360,Tamatiya EOOD,scan:91,108,2026-11-11T10:39:48Z,2026-11-16T14:26:54Z,not reported (permanent ban)
 91.148.190.73,BG,Bulgaria,50360,Tamatiya EOOD,scan:34,42,2026-11-11T10:39:53Z,2026-11-16T14:19:48Z,not reported (permanent ban)
 91.191.209.98,BG,Bulgaria,57509,L&L Investment Ltd.,c2:22;scan:368,423,2026-11-11T09:45:58Z,2026-11-16T22:50:55Z,not reported (permanent ban)
-78.128.112.6,BG,Bulgaria,208637,4 Vendeta Ltd,c2:21;scan:356,405,2026-11-11T09:53:03Z,2026-11-16T23:07:18Z,not reported (permanent ban)
-78.128.112.74,BG,Bulgaria,208637,4 Vendeta Ltd,scan:57;ssh:28,85,2026-11-09T16:18:15Z,2026-11-16T21:11:19Z,2026-11-11T17:05:58Z
+78.128.112.6,BG,Bulgaria,208637,4 Vendeta Ltd,c2:21;scan:357,406,2026-11-11T09:53:03Z,2026-11-17T00:16:35Z,not reported (permanent ban)
+78.128.112.74,BG,Bulgaria,208637,4 Vendeta Ltd,scan:51;ssh:28,79,2026-11-09T16:18:15Z,2026-11-16T21:11:19Z,2026-11-11T17:05:58Z
 78.128.113.22,BG,Bulgaria,209160,Miti 2000 EOOD,c2:21;scan:348,402,2026-11-11T09:54:08Z,2026-11-16T22:30:05Z,not reported (permanent ban)
 78.128.113.46,BG,Bulgaria,209160,Miti 2000 EOOD,c2:21;scan:348,394,2026-11-11T09:46:24Z,2026-11-16T23:06:52Z,not reported (permanent ban)
-78.128.113.74,BG,Bulgaria,209160,Miti 2000 EOOD,c2:21;scan:361,405,2026-11-11T09:55:00Z,2026-11-16T23:10:30Z,not reported (permanent ban)
+78.128.113.74,BG,Bulgaria,209160,Miti 2000 EOOD,c2:21;scan:362,406,2026-11-11T09:55:00Z,2026-11-17T00:04:04Z,not reported (permanent ban)
 62.60.134.132,BG,Bulgaria,209425,KOI CLOUD SERVICES (Pty) Ltd,c2:7;scan:56,64,2026-11-14T11:11:20Z,2026-11-16T23:14:37Z,not reported (permanent ban)
 62.60.134.150,BG,Bulgaria,209425,KOI CLOUD SERVICES (Pty) Ltd,c2:7;scan:31,39,2026-11-14T12:04:59Z,2026-11-16T06:05:08Z,not reported (permanent ban)
 181.115.192.10,BO,Bolivia,6568,Entel S.A. - EntelNet,c2:3;scan:3,7,2026-11-13T13:34:14Z,2026-11-14T21:39:28Z,not reported (permanent ban)
@@ -449,7 +449,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 168.196.206.14,BR,Brazil,268786,LINE FIBRA TELECOM LTDA,scan:17,23,2026-11-12T04:00:19Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 45.173.24.147,BR,Brazil,268788,HEXA TELECOM LTDA,c2:4;scan:16,21,2026-11-11T23:05:07Z,2026-11-16T21:49:20Z,not reported (permanent ban)
 151.242.149.155,BR,Brazil,272696,HOSTING NOW NET LTDA,scan:80,95,2026-11-11T09:50:11Z,2026-11-16T22:52:47Z,not reported (permanent ban)
-34.95.221.104,BR,Brazil,396982,Google LLC,waf:22;web:344,366,2026-11-16T21:11:48Z,2026-11-16T21:12:00Z,2026-11-16T22:25:44Z
+34.95.221.104,BR,Brazil,396982,Google LLC,waf:11;web:172,183,2026-11-16T21:11:48Z,2026-11-16T21:12:00Z,2026-11-16T22:25:44Z
 35.199.96.92,BR,Brazil,396982,Google LLC,waf:10;web:257,267,2026-11-14T09:42:56Z,2026-11-14T09:43:58Z,2026-11-14T12:28:04Z
 104.30.167.164,CA,Canada,13335,"Cloudflare, Inc.",web:15,16,2026-11-12T09:42:19Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 143.110.217.244,CA,Canada,14061,"DigitalOcean, LLC",web:12,12,2026-11-10T06:15:26Z,2026-11-10T06:15:46Z,2026-11-11T17:05:30Z
@@ -470,6 +470,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 176.65.144.200,CH,Switzerland,209413,DEDIK SERVICES LIMITED,scan:24,25,2026-11-11T13:15:33Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 185.191.236.38,CH,Switzerland,264617,GRUPO PANAGLOBAL 15 S.A,c2:5;scan:4;web:4,14,2026-11-11T00:07:04Z,2026-11-16T03:14:44Z,not reported (permanent ban)
 104.251.180.156,CH,Switzerland,402253,SKN Subnet & Telecom Ltd,c2:3;scan:12,16,2026-11-15T10:27:54Z,2026-11-16T01:25:03Z,not reported (permanent ban)
+34.176.47.134,CL,Chile,396982,Google LLC,waf:196,197,2026-11-17T00:10:18Z,2026-11-17T00:13:05Z,not reported (permanent ban)
 49.68.125.246,CN,China,4134,Chinanet,scan:23,31,2026-11-12T17:21:19Z,2026-11-16T01:11:02Z,not reported (permanent ban)
 61.146.235.54,CN,China,4134,Chinanet,c2:3;scan:4,8,2026-11-11T10:04:01Z,2026-11-13T20:59:03Z,not reported (permanent ban)
 110.182.224.33,CN,China,4134,Chinanet,exploit:4;scan:4,11,2026-11-11T15:34:48Z,2026-11-12T03:13:57Z,not reported (permanent ban)
@@ -594,7 +595,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 194.88.98.86,DE,Germany,25369,Hydra Communications Ltd,c2:9;scan:33,43,2026-11-11T12:30:39Z,2026-11-14T02:15:58Z,not reported (permanent ban)
 194.88.98.87,DE,Germany,25369,Hydra Communications Ltd,c2:11;scan:40,52,2026-11-13T12:21:46Z,2026-11-16T21:13:47Z,not reported (permanent ban)
 194.88.98.88,DE,Germany,25369,Hydra Communications Ltd,c2:5;scan:20;web:1,27,2026-11-10T14:14:54Z,2026-11-14T00:10:41Z,not reported (permanent ban)
-194.88.98.89,DE,Germany,25369,Hydra Communications Ltd,c2:17;scan:55,73,2026-11-11T16:09:21Z,2026-11-16T22:47:43Z,not reported (permanent ban)
+194.88.98.89,DE,Germany,25369,Hydra Communications Ltd,c2:17;scan:56,74,2026-11-11T16:09:21Z,2026-11-17T00:11:15Z,not reported (permanent ban)
 194.88.98.90,DE,Germany,25369,Hydra Communications Ltd,c2:16;scan:59,76,2026-11-12T04:02:00Z,2026-11-16T21:14:48Z,not reported (permanent ban)
 194.88.98.91,DE,Germany,25369,Hydra Communications Ltd,c2:12;scan:38,53,2026-11-11T11:40:36Z,2026-11-16T19:09:47Z,not reported (permanent ban)
 194.88.98.92,DE,Germany,25369,Hydra Communications Ltd,c2:18;scan:62;web:1,83,2026-11-11T11:32:20Z,2026-11-16T21:16:43Z,not reported (permanent ban)
@@ -602,7 +603,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 194.88.98.94,DE,Germany,25369,Hydra Communications Ltd,c2:15;scan:54,70,2026-11-12T05:09:48Z,2026-11-16T22:59:26Z,not reported (permanent ban)
 194.88.98.99,DE,Germany,25369,Hydra Communications Ltd,c2:16;scan:61,78,2026-11-11T16:42:06Z,2026-11-16T18:50:59Z,not reported (permanent ban)
 194.88.98.101,DE,Germany,25369,Hydra Communications Ltd,c2:6;scan:19,26,2026-11-11T11:27:08Z,2026-11-13T00:30:36Z,not reported (permanent ban)
-194.88.98.102,DE,Germany,25369,Hydra Communications Ltd,c2:14;scan:52,68,2026-11-12T03:51:25Z,2026-11-16T19:30:08Z,not reported (permanent ban)
+194.88.98.102,DE,Germany,25369,Hydra Communications Ltd,c2:15;scan:53,70,2026-11-12T03:51:25Z,2026-11-17T00:04:59Z,not reported (permanent ban)
 194.88.98.103,DE,Germany,25369,Hydra Communications Ltd,c2:17;scan:50,68,2026-11-11T11:19:30Z,2026-11-16T16:10:30Z,not reported (permanent ban)
 194.88.98.104,DE,Germany,25369,Hydra Communications Ltd,c2:12;scan:37,50,2026-11-12T09:36:53Z,2026-11-16T20:31:05Z,not reported (permanent ban)
 194.88.98.105,DE,Germany,25369,Hydra Communications Ltd,c2:16;scan:55,73,2026-11-12T04:00:01Z,2026-11-16T22:14:04Z,not reported (permanent ban)
@@ -612,10 +613,10 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 194.88.98.110,DE,Germany,25369,Hydra Communications Ltd,c2:17;scan:66,85,2026-11-11T11:41:39Z,2026-11-16T23:01:28Z,not reported (permanent ban)
 194.88.98.112,DE,Germany,25369,Hydra Communications Ltd,c2:3;scan:10,14,2026-11-13T05:18:44Z,2026-11-13T21:04:03Z,not reported (permanent ban)
 194.88.98.113,DE,Germany,25369,Hydra Communications Ltd,c2:5;scan:12,18,2026-11-12T05:41:53Z,2026-11-14T00:10:48Z,not reported (permanent ban)
-194.88.98.114,DE,Germany,25369,Hydra Communications Ltd,c2:18;scan:61,80,2026-11-11T09:47:10Z,2026-11-16T21:55:43Z,not reported (permanent ban)
+194.88.98.114,DE,Germany,25369,Hydra Communications Ltd,c2:18;scan:62,81,2026-11-11T09:47:10Z,2026-11-17T00:06:15Z,not reported (permanent ban)
 194.88.98.115,DE,Germany,25369,Hydra Communications Ltd,c2:3;scan:13,17,2026-11-12T05:42:15Z,2026-11-13T01:01:59Z,not reported (permanent ban)
 194.88.98.116,DE,Germany,25369,Hydra Communications Ltd,c2:11;scan:42,54,2026-11-11T10:18:35Z,2026-11-16T17:35:59Z,not reported (permanent ban)
-194.88.98.117,DE,Germany,25369,Hydra Communications Ltd,c2:17;scan:56,74,2026-11-11T12:14:57Z,2026-11-16T22:55:52Z,not reported (permanent ban)
+194.88.98.117,DE,Germany,25369,Hydra Communications Ltd,c2:17;scan:57,75,2026-11-11T12:14:57Z,2026-11-17T00:13:09Z,not reported (permanent ban)
 194.88.98.118,DE,Germany,25369,Hydra Communications Ltd,c2:15;scan:54,70,2026-11-11T10:06:39Z,2026-11-16T17:24:39Z,not reported (permanent ban)
 194.88.98.119,DE,Germany,25369,Hydra Communications Ltd,scan:20,25,2026-11-11T10:37:32Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 194.88.98.120,DE,Germany,25369,Hydra Communications Ltd,c2:3;scan:15,22,2026-11-12T06:42:06Z,2026-11-14T21:56:54Z,not reported (permanent ban)
@@ -636,6 +637,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 47.245.129.141,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:3;scan:3,7,2026-11-12T07:49:28Z,2026-11-13T02:17:01Z,not reported (permanent ban)
 47.245.141.129,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:3;scan:4,8,2026-11-11T17:30:53Z,2026-11-15T18:01:04Z,not reported (permanent ban)
 47.245.143.11,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:4;scan:6,11,2026-11-11T17:08:33Z,2026-11-16T04:34:37Z,not reported (permanent ban)
+47.245.143.183,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:3;scan:3,7,2026-11-11T15:16:36Z,2026-11-17T00:06:03Z,not reported (permanent ban)
 47.254.154.232,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:3;scan:3,7,2026-11-11T12:43:51Z,2026-11-13T21:27:02Z,not reported (permanent ban)
 47.254.167.143,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:3;scan:3,7,2026-11-12T13:42:53Z,2026-11-15T21:04:03Z,not reported (permanent ban)
 47.254.172.242,DE,Germany,45102,"Alibaba (US) Technology Co., Ltd.",c2:4;scan:5,10,2026-11-12T05:39:50Z,2026-11-15T14:49:24Z,not reported (permanent ban)
@@ -648,17 +650,17 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 2a02:c207:2319:3820::1,DE,Germany,51167,Contabo GmbH,waf:8;web:3,11,2026-11-10T06:46:42Z,2026-11-10T06:46:42Z,2026-11-11T17:06:58Z
 45.135.194.24,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),scan:28,29,2026-11-11T11:15:57Z,2026-11-15T19:38:09Z,not reported (permanent ban)
 45.135.194.31,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),scan:77,78,2026-11-11T20:19:47Z,2026-11-16T22:47:13Z,not reported (permanent ban)
-204.76.203.4,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:10;scan:515,613,2026-11-11T10:56:37Z,2026-11-16T22:53:40Z,not reported (permanent ban)
-204.76.203.38,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:19;scan:327,370,2026-11-11T10:00:27Z,2026-11-16T22:52:43Z,not reported (permanent ban)
+204.76.203.4,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:10;scan:516,614,2026-11-11T10:56:37Z,2026-11-17T00:01:35Z,not reported (permanent ban)
+204.76.203.38,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:20;scan:328,372,2026-11-11T10:00:27Z,2026-11-17T00:15:09Z,not reported (permanent ban)
 204.76.203.40,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:19;scan:343,391,2026-11-11T09:49:56Z,2026-11-16T23:08:40Z,not reported (permanent ban)
-204.76.203.43,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:18;scan:337;web:1,393,2026-11-11T09:51:14Z,2026-11-16T22:59:28Z,not reported (permanent ban)
-204.76.203.44,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:18;scan:344,398,2026-11-11T09:48:10Z,2026-11-16T23:02:36Z,not reported (permanent ban)
-204.76.203.53,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:18;scan:354,402,2026-11-11T09:51:32Z,2026-11-16T22:53:22Z,not reported (permanent ban)
+204.76.203.43,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:19;scan:338;web:1,395,2026-11-11T09:51:14Z,2026-11-17T00:09:01Z,not reported (permanent ban)
+204.76.203.44,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:19;scan:345,400,2026-11-11T09:48:10Z,2026-11-17T00:14:07Z,not reported (permanent ban)
+204.76.203.53,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:18;scan:355,403,2026-11-11T09:51:32Z,2026-11-17T00:11:15Z,not reported (permanent ban)
 204.76.203.212,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:16;scan:365;web:3,427,2026-11-10T10:54:36Z,2026-11-16T06:31:06Z,not reported (permanent ban)
 204.76.203.213,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:15;scan:358,428,2026-11-11T17:52:57Z,2026-11-16T06:37:01Z,not reported (permanent ban)
 204.76.203.214,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:15;scan:355,421,2026-11-11T17:56:33Z,2026-11-16T06:41:15Z,not reported (permanent ban)
 204.76.203.221,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:14;scan:348;web:1,413,2026-11-10T21:32:32Z,2026-11-16T06:38:15Z,not reported (permanent ban)
-204.76.203.231,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:19;scan:378,487,2026-11-11T09:33:43Z,2026-11-16T23:03:30Z,not reported (permanent ban)
+204.76.203.231,DE,Germany,51396,Pfcloud UG (haftungsbeschrankt),c2:19;scan:379,488,2026-11-11T09:33:43Z,2026-11-17T00:03:39Z,not reported (permanent ban)
 23.158.56.134,DE,Germany,63023,GTHost,c2:1;scan:8,12,2026-11-14T04:01:44Z,2026-11-14T07:55:34Z,not reported (permanent ban)
 85.90.246.159,DE,Germany,63949,"Akamai Technologies, Inc.",c2:1;scan:23;waf:2,31,2026-11-11T03:53:30Z,2026-11-16T01:44:40Z,not reported (permanent ban)
 139.144.160.162,DE,Germany,63949,"Akamai Technologies, Inc.",c2:2;scan:1365,1369,2026-11-11T23:03:13Z,2026-11-14T21:39:50Z,not reported (permanent ban)
@@ -668,7 +670,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 43.131.45.213,DE,Germany,132203,Shenzhen Tencent Computer Systems Company Limited,c2:3;web:3,7,2026-11-11T22:54:11Z,2026-11-15T02:29:04Z,not reported (permanent ban)
 162.62.209.177,DE,Germany,132203,Shenzhen Tencent Computer Systems Company Limited,waf:26;web:157,183,2026-11-12T04:29:27Z,2026-11-12T04:29:41Z,2026-11-12T06:23:52Z
 45.43.62.77,DE,Germany,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:5;scan:8,14,2026-11-11T19:07:37Z,2026-11-13T20:27:37Z,not reported (permanent ban)
-103.14.32.192,DE,Germany,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,scan:29,39,2026-11-11T15:16:16Z,2026-11-16T19:35:43Z,not reported (permanent ban)
+103.14.32.192,DE,Germany,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,scan:30,40,2026-11-11T15:16:16Z,2026-11-17T00:17:04Z,not reported (permanent ban)
 107.150.117.121,DE,Germany,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:6,11,2026-11-11T17:15:08Z,2026-11-14T14:21:54Z,not reported (permanent ban)
 107.150.117.187,DE,Germany,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:6,12,2026-11-14T13:11:36Z,2026-11-16T22:01:01Z,not reported (permanent ban)
 107.150.117.219,DE,Germany,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:8,14,2026-11-12T08:13:46Z,2026-11-16T00:47:11Z,not reported (permanent ban)
@@ -698,9 +700,9 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 85.155.15.103,DE,Germany,199457,SolidCore Hosting LTD,c2:14;scan:36,51,2026-11-11T11:00:51Z,2026-11-16T20:51:56Z,not reported (permanent ban)
 85.155.15.106,DE,Germany,199457,SolidCore Hosting LTD,scan:124,141,2026-11-11T15:41:54Z,2026-11-16T21:50:03Z,not reported (permanent ban)
 194.180.49.16,DE,Germany,201814,MEVSPACE sp. z o.o.,exploit:32,32,2026-11-13T06:05:22Z,2026-11-13T09:19:40Z,2026-11-13T06:25:11Z
-194.180.49.41,DE,Germany,201814,MEVSPACE sp. z o.o.,scan:60;web:27,87,2026-11-09T22:14:09Z,2026-11-16T07:00:09Z,2026-11-13T10:24:34Z
+194.180.49.41,DE,Germany,201814,MEVSPACE sp. z o.o.,scan:39;web:27,66,2026-11-09T22:14:09Z,2026-11-16T07:00:09Z,2026-11-13T10:24:34Z
 45.86.202.216,DE,Germany,206092,F.N.S. HOLDINGS LIMITED,c2:1;exploit:1,3,2026-11-12T23:42:20Z,2026-11-12T23:43:02Z,not reported (permanent ban)
-195.182.16.23,DE,Germany,206264,Amarutu Technology Ltd,c2:20;scan:366;web:43,477,2026-11-11T10:09:48Z,2026-11-16T22:13:55Z,not reported (permanent ban)
+195.182.16.23,DE,Germany,206264,Amarutu Technology Ltd,c2:21;scan:366;web:44,479,2026-11-11T10:09:48Z,2026-11-17T00:10:03Z,not reported (permanent ban)
 195.182.16.183,DE,Germany,206264,Amarutu Technology Ltd,scan:53,53,2026-11-15T11:25:36Z,2026-11-15T11:39:48Z,2026-11-11T16:35:54Z
 93.152.224.190,DE,Germany,207043,DEDIK SERVICES LIMITED,exploit:2,2,2026-11-14T04:26:34Z,2026-11-14T04:26:34Z,2026-11-14T06:27:48Z
 213.209.159.25,DE,Germany,208137,Feo Prest SRL,scan:88,93,2026-11-11T09:58:17Z,2026-11-13T03:25:29Z,not reported (permanent ban)
@@ -733,6 +735,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 194.187.176.149,DE,Germany,208843,Alpha Strike Labs GmbH,c2:3;scan:3,7,2026-11-14T04:28:45Z,2026-11-16T04:41:05Z,not reported (permanent ban)
 194.187.176.162,DE,Germany,208843,Alpha Strike Labs GmbH,c2:3;scan:3,7,2026-11-12T16:05:10Z,2026-11-14T00:43:03Z,not reported (permanent ban)
 194.187.176.184,DE,Germany,208843,Alpha Strike Labs GmbH,c2:3;scan:3,7,2026-11-13T02:25:40Z,2026-11-16T20:33:04Z,not reported (permanent ban)
+194.187.176.217,DE,Germany,208843,Alpha Strike Labs GmbH,c2:2;scan:3,5,2026-11-14T07:19:12Z,2026-11-17T00:17:10Z,not reported (permanent ban)
 194.187.176.228,DE,Germany,208843,Alpha Strike Labs GmbH,c2:3;scan:4,8,2026-11-12T09:06:09Z,2026-11-14T03:51:03Z,not reported (permanent ban)
 194.187.176.231,DE,Germany,208843,Alpha Strike Labs GmbH,c2:6;scan:5,12,2026-11-11T22:35:48Z,2026-11-16T19:44:22Z,not reported (permanent ban)
 194.187.176.232,DE,Germany,208843,Alpha Strike Labs GmbH,c2:4;scan:5,10,2026-11-13T04:49:20Z,2026-11-16T01:48:46Z,not reported (permanent ban)
@@ -831,7 +834,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 77.90.185.31,DE,Germany,213790,Limited Network LTD,c2:3;scan:4,8,2026-11-11T19:24:08Z,2026-11-13T08:44:03Z,not reported (permanent ban)
 77.90.185.78,DE,Germany,213790,Limited Network LTD,scan:329,343,2026-11-11T10:20:00Z,2026-11-16T23:12:11Z,not reported (permanent ban)
 77.90.185.226,DE,Germany,213790,Limited Network LTD,scan:193,195,2026-11-11T10:41:45Z,2026-11-16T22:02:21Z,not reported (permanent ban)
-77.90.185.253,DE,Germany,213790,Limited Network LTD,scan:17,18,2026-11-12T01:34:23Z,2026-11-16T09:54:48Z,not reported (permanent ban)
+77.90.185.253,DE,Germany,213790,Limited Network LTD,scan:18,19,2026-11-12T01:34:23Z,2026-11-17T00:05:59Z,not reported (permanent ban)
 34.107.15.145,DE,Germany,396982,Google LLC,waf:37;web:266,303,2026-11-11T16:22:50Z,2026-11-11T22:23:23Z,2026-11-11T17:06:48Z
 35.198.68.22,DE,Germany,396982,Google LLC,waf:20;web:416,436,2026-11-11T04:59:23Z,2026-11-11T05:00:27Z,2026-11-11T17:06:48Z
 167.94.146.32,DE,Germany,398705,"Censys, Inc.",scan:18,19,2026-11-13T04:18:10Z,2026-11-14T21:56:40Z,not reported (permanent ban)
@@ -892,7 +895,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 46.151.182.191,DE,Germany,403005,"Blatant Technologies, LLC",scan:25,28,2026-11-11T13:27:48Z,2026-11-16T12:15:17Z,not reported (permanent ban)
 9.205.17.221,DK,Denmark,8075,Microsoft Corporation,scan:1,1,2026-11-15T23:51:25Z,2026-11-15T23:51:25Z,not reported (permanent ban)
 186.7.4.141,DO,Dominican Republic,6400,Compañía Dominicana de Teléfonos S. A.,exploit:3,3,2026-11-14T00:36:50Z,2026-11-15T07:16:14Z,2026-11-14T02:26:03Z
-154.58.4.13,ES,Spain,174,Cogent Communications,scan:21,21,2026-11-12T19:15:05Z,2026-11-16T18:18:43Z,2026-11-11T16:34:54Z
+154.242.156.3,DZ,Algeria,36947,Telecom Algeria,scan:4;ssh:146,152,2026-11-17T00:00:42Z,2026-11-17T00:02:48Z,not reported (permanent ban)
+154.58.4.13,ES,Spain,174,Cogent Communications,scan:13,13,2026-11-12T19:15:05Z,2026-11-16T18:18:43Z,2026-11-11T16:34:54Z
 5.182.83.231,ES,Spain,200845,"AVATEL TELECOM, SA",c2:4;scan:4,9,2026-11-12T21:02:54Z,2026-11-16T02:20:18Z,not reported (permanent ban)
 196.189.236.67,ET,Ethiopia,24757,EthioNet,c2:8;scan:29;waf:2,40,2026-11-11T14:23:56Z,2026-11-15T20:21:02Z,not reported (permanent ban)
 91.159.20.74,FI,Finland,719,RIPE Network Coordination Centre,exploit:2;scan:2,5,2026-11-11T11:39:33Z,2026-11-11T23:53:02Z,not reported (permanent ban)
@@ -916,7 +920,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 199.247.13.109,FR,France,20473,"The Constant Company, LLC",ssh:8,8,2026-11-12T21:08:16Z,2026-11-12T21:08:30Z,2026-11-12T22:28:55Z
 217.69.7.25,FR,France,20473,"The Constant Company, LLC",exploit:1;scan:11,88,2026-11-12T22:20:24Z,2026-11-14T19:40:18Z,not reported (permanent ban)
 62.138.8.174,FR,France,29066,velia.net Internetdienste GmbH,ssh:87,87,2026-11-10T12:06:31Z,2026-11-11T02:30:22Z,2026-11-11T17:05:48Z
-45.90.163.37,FR,France,39421,Sapinet SAS,c2:10,10,2026-11-11T10:10:56Z,2026-11-16T00:31:42Z,2026-11-11T16:34:45Z
+45.90.163.37,FR,France,39421,Sapinet SAS,c2:8,8,2026-11-11T10:10:56Z,2026-11-16T00:31:42Z,2026-11-11T16:34:45Z
 91.238.181.10,FR,France,49434,FBW NETWORKS SAS,scan:19,25,2026-11-11T09:40:33Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 172.234.162.56,FR,France,63949,"Akamai Technologies, Inc.",c2:2;scan:19,23,2026-11-12T05:18:52Z,2026-11-14T11:02:35Z,not reported (permanent ban)
 172.239.4.138,FR,France,63949,"Akamai Technologies, Inc.",scan:17,27,2026-11-12T20:48:55Z,2026-11-15T19:42:50Z,not reported (permanent ban)
@@ -979,7 +983,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 85.217.140.12,FR,France,209334,Modat B.V.,scan:33,35,2026-11-11T12:09:23Z,2026-11-12T13:40:35Z,not reported (permanent ban)
 85.217.140.13,FR,France,209334,Modat B.V.,c2:1;exploit:5,8,2026-11-15T19:25:02Z,2026-11-15T19:28:26Z,not reported (permanent ban)
 85.217.140.15,FR,France,209334,Modat B.V.,c2:4;scan:11,16,2026-11-11T10:51:39Z,2026-11-16T12:34:37Z,not reported (permanent ban)
-85.217.140.18,FR,France,209334,Modat B.V.,c2:13;scan:375,439,2026-11-12T19:48:13Z,2026-11-16T22:36:31Z,not reported (permanent ban)
+85.217.140.18,FR,France,209334,Modat B.V.,c2:13;scan:376,440,2026-11-12T19:48:13Z,2026-11-17T00:00:36Z,not reported (permanent ban)
 85.217.140.20,FR,France,209334,Modat B.V.,c2:3;scan:7,11,2026-11-13T07:59:02Z,2026-11-15T20:40:05Z,not reported (permanent ban)
 85.217.140.26,FR,France,209334,Modat B.V.,c2:5;scan:10,16,2026-11-11T11:52:45Z,2026-11-14T12:30:21Z,not reported (permanent ban)
 85.217.140.31,FR,France,209334,Modat B.V.,c2:3;scan:4;ssh:1,10,2026-11-11T09:50:06Z,2026-11-16T22:24:17Z,not reported (permanent ban)
@@ -988,7 +992,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 85.217.140.39,FR,France,209334,Modat B.V.,c2:3;exploit:3;scan:31,39,2026-11-12T00:23:50Z,2026-11-15T19:31:33Z,not reported (permanent ban)
 85.217.140.41,FR,France,209334,Modat B.V.,c2:4;scan:4,11,2026-11-11T22:59:08Z,2026-11-14T00:51:58Z,not reported (permanent ban)
 85.217.140.43,FR,France,209334,Modat B.V.,c2:2;scan:10,12,2026-11-12T20:00:56Z,2026-11-16T15:23:12Z,not reported (permanent ban)
-85.217.140.45,FR,France,209334,Modat B.V.,c2:2;scan:13,17,2026-11-11T12:00:10Z,2026-11-16T18:48:08Z,not reported (permanent ban)
+85.217.140.45,FR,France,209334,Modat B.V.,c2:2;scan:15,19,2026-11-11T12:00:10Z,2026-11-17T00:05:11Z,not reported (permanent ban)
 85.217.140.46,FR,France,209334,Modat B.V.,c2:3;scan:4,11,2026-11-12T19:58:59Z,2026-11-14T09:57:02Z,not reported (permanent ban)
 85.217.140.50,FR,France,209334,Modat B.V.,c2:1;scan:27,30,2026-11-12T23:32:34Z,2026-11-16T02:18:04Z,not reported (permanent ban)
 85.217.140.51,FR,France,209334,Modat B.V.,c2:5;scan:13;web:2,21,2026-11-10T23:30:28Z,2026-11-15T06:35:37Z,not reported (permanent ban)
@@ -1002,7 +1006,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.196.152.24,FR,France,213412,ONYPHE SAS,c2:6;scan:6,13,2026-11-13T05:58:34Z,2026-11-16T07:58:12Z,not reported (permanent ban)
 91.196.152.27,FR,France,213412,ONYPHE SAS,c2:5;scan:13,20,2026-11-11T18:47:15Z,2026-11-14T15:53:37Z,not reported (permanent ban)
 91.196.152.31,FR,France,213412,ONYPHE SAS,c2:17;scan:24,42,2026-11-11T11:48:19Z,2026-11-15T16:01:39Z,not reported (permanent ban)
-91.196.152.32,FR,France,213412,ONYPHE SAS,c2:9;scan:114,126,2026-11-11T11:57:30Z,2026-11-16T23:14:51Z,not reported (permanent ban)
+91.196.152.32,FR,France,213412,ONYPHE SAS,c2:9;scan:115,127,2026-11-11T11:57:30Z,2026-11-17T00:10:38Z,not reported (permanent ban)
 91.196.152.33,FR,France,213412,ONYPHE SAS,c2:11;scan:73,88,2026-11-11T10:33:44Z,2026-11-16T23:09:35Z,not reported (permanent ban)
 91.196.152.34,FR,France,213412,ONYPHE SAS,c2:15;scan:73,89,2026-11-11T10:46:05Z,2026-11-16T22:03:23Z,not reported (permanent ban)
 91.196.152.36,FR,France,213412,ONYPHE SAS,c2:7;scan:31,39,2026-11-11T10:22:39Z,2026-11-14T02:45:28Z,not reported (permanent ban)
@@ -1019,7 +1023,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.196.152.118,FR,France,213412,ONYPHE SAS,c2:8;scan:18,29,2026-11-12T13:39:37Z,2026-11-16T07:20:35Z,not reported (permanent ban)
 91.196.152.120,FR,France,213412,ONYPHE SAS,c2:4;scan:40,47,2026-11-11T09:59:29Z,2026-11-14T01:59:39Z,not reported (permanent ban)
 91.196.152.121,FR,France,213412,ONYPHE SAS,c2:15;scan:72,88,2026-11-11T09:54:12Z,2026-11-16T22:30:21Z,not reported (permanent ban)
-91.196.152.122,FR,France,213412,ONYPHE SAS,c2:15;scan:74,90,2026-11-11T10:06:41Z,2026-11-16T22:42:40Z,not reported (permanent ban)
+91.196.152.122,FR,France,213412,ONYPHE SAS,c2:15;scan:75,91,2026-11-11T10:06:41Z,2026-11-17T00:01:13Z,not reported (permanent ban)
 91.196.152.124,FR,France,213412,ONYPHE SAS,c2:7;scan:32,40,2026-11-11T11:02:03Z,2026-11-14T03:24:51Z,not reported (permanent ban)
 91.196.152.125,FR,France,213412,ONYPHE SAS,c2:7;scan:41,51,2026-11-11T10:01:59Z,2026-11-16T06:55:15Z,not reported (permanent ban)
 91.196.152.184,FR,France,213412,ONYPHE SAS,c2:6;scan:36,46,2026-11-11T09:46:52Z,2026-11-16T06:15:53Z,not reported (permanent ban)
@@ -1037,7 +1041,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.196.152.207,FR,France,213412,ONYPHE SAS,c2:4;scan:15,20,2026-11-13T03:58:53Z,2026-11-14T02:10:39Z,not reported (permanent ban)
 91.196.152.216,FR,France,213412,ONYPHE SAS,c2:10;scan:38,49,2026-11-11T10:25:37Z,2026-11-16T06:53:43Z,not reported (permanent ban)
 91.196.152.219,FR,France,213412,ONYPHE SAS,c2:11;scan:60,72,2026-11-11T11:02:12Z,2026-11-14T03:25:02Z,not reported (permanent ban)
-91.196.152.220,FR,France,213412,ONYPHE SAS,c2:11;scan:69,84,2026-11-11T10:57:02Z,2026-11-16T22:49:53Z,not reported (permanent ban)
+91.196.152.220,FR,France,213412,ONYPHE SAS,c2:11;scan:70,85,2026-11-11T10:57:02Z,2026-11-17T00:06:53Z,not reported (permanent ban)
 91.196.152.221,FR,France,213412,ONYPHE SAS,c2:15;scan:74,90,2026-11-11T09:51:29Z,2026-11-16T23:01:58Z,not reported (permanent ban)
 91.196.152.223,FR,France,213412,ONYPHE SAS,c2:7;scan:32,40,2026-11-11T10:46:05Z,2026-11-14T03:09:06Z,not reported (permanent ban)
 91.196.152.232,FR,France,213412,ONYPHE SAS,c2:4;scan:24,29,2026-11-13T04:56:58Z,2026-11-14T03:19:58Z,not reported (permanent ban)
@@ -1049,13 +1053,13 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.196.152.245,FR,France,213412,ONYPHE SAS,c2:4;scan:16,21,2026-11-13T03:38:54Z,2026-11-14T03:26:05Z,not reported (permanent ban)
 91.196.152.247,FR,France,213412,ONYPHE SAS,c2:4;scan:15,20,2026-11-13T04:46:37Z,2026-11-14T02:57:35Z,not reported (permanent ban)
 91.231.89.2,FR,France,213412,ONYPHE SAS,c2:10;scan:38,49,2026-11-11T10:20:03Z,2026-11-16T06:52:23Z,not reported (permanent ban)
-91.231.89.5,FR,France,213412,ONYPHE SAS,c2:12;scan:101,116,2026-11-11T10:55:46Z,2026-11-16T22:53:57Z,not reported (permanent ban)
-91.231.89.6,FR,France,213412,ONYPHE SAS,c2:7;scan:38,48,2026-11-11T10:50:38Z,2026-11-16T22:48:49Z,not reported (permanent ban)
+91.231.89.5,FR,France,213412,ONYPHE SAS,c2:12;scan:102,117,2026-11-11T10:55:46Z,2026-11-17T00:11:03Z,not reported (permanent ban)
+91.231.89.6,FR,France,213412,ONYPHE SAS,c2:7;scan:39,49,2026-11-11T10:50:38Z,2026-11-17T00:05:53Z,not reported (permanent ban)
 91.231.89.7,FR,France,213412,ONYPHE SAS,c2:15;scan:74,90,2026-11-11T09:45:28Z,2026-11-16T23:00:56Z,not reported (permanent ban)
 91.231.89.8,FR,France,213412,ONYPHE SAS,c2:11;scan:74,89,2026-11-11T10:00:27Z,2026-11-16T22:32:15Z,not reported (permanent ban)
-91.231.89.9,FR,France,213412,ONYPHE SAS,c2:15;scan:75,91,2026-11-11T10:12:49Z,2026-11-16T22:44:40Z,not reported (permanent ban)
+91.231.89.9,FR,France,213412,ONYPHE SAS,c2:15;scan:76,92,2026-11-11T10:12:49Z,2026-11-17T00:03:27Z,not reported (permanent ban)
 91.231.89.12,FR,France,213412,ONYPHE SAS,c2:6;scan:30,37,2026-11-11T10:08:19Z,2026-11-13T02:55:20Z,not reported (permanent ban)
-91.231.89.15,FR,France,213412,ONYPHE SAS,c2:16;scan:106,123,2026-11-11T10:44:58Z,2026-11-16T23:16:53Z,not reported (permanent ban)
+91.231.89.15,FR,France,213412,ONYPHE SAS,c2:16;scan:107,124,2026-11-11T10:44:58Z,2026-11-17T00:12:54Z,not reported (permanent ban)
 91.231.89.26,FR,France,213412,ONYPHE SAS,c2:6;scan:23,33,2026-11-11T10:31:59Z,2026-11-16T05:14:23Z,not reported (permanent ban)
 91.231.89.27,FR,France,213412,ONYPHE SAS,c2:14;scan:27,42,2026-11-11T10:10:54Z,2026-11-16T04:57:31Z,not reported (permanent ban)
 91.231.89.28,FR,France,213412,ONYPHE SAS,c2:13;scan:32,49,2026-11-11T10:56:24Z,2026-11-16T22:11:10Z,not reported (permanent ban)
@@ -1067,8 +1071,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.231.89.79,FR,France,213412,ONYPHE SAS,c2:12;scan:73,88,2026-11-11T10:42:29Z,2026-11-16T22:27:14Z,not reported (permanent ban)
 91.231.89.81,FR,France,213412,ONYPHE SAS,c2:1;scan:14,18,2026-11-11T10:23:43Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 91.231.89.84,FR,France,213412,ONYPHE SAS,c2:3;scan:12,16,2026-11-11T12:17:09Z,2026-11-12T02:27:53Z,not reported (permanent ban)
-91.231.89.85,FR,France,213412,ONYPHE SAS,c2:15;scan:71,87,2026-11-11T10:54:42Z,2026-11-16T22:47:13Z,not reported (permanent ban)
-91.231.89.86,FR,France,213412,ONYPHE SAS,c2:15;scan:75,91,2026-11-11T09:49:33Z,2026-11-16T22:59:16Z,not reported (permanent ban)
+91.231.89.85,FR,France,213412,ONYPHE SAS,c2:15;scan:72,88,2026-11-11T10:54:42Z,2026-11-17T00:04:11Z,not reported (permanent ban)
+91.231.89.86,FR,France,213412,ONYPHE SAS,c2:15;scan:76,92,2026-11-11T09:49:33Z,2026-11-17T00:16:19Z,not reported (permanent ban)
 91.231.89.89,FR,France,213412,ONYPHE SAS,c2:2;scan:15,26,2026-11-11T15:45:17Z,2026-11-16T22:49:16Z,not reported (permanent ban)
 91.231.89.91,FR,France,213412,ONYPHE SAS,exploit:3;scan:15,28,2026-11-11T22:41:39Z,2026-11-16T14:56:22Z,not reported (permanent ban)
 91.231.89.93,FR,France,213412,ONYPHE SAS,exploit:1;scan:15,26,2026-11-11T12:16:35Z,2026-11-16T21:52:23Z,not reported (permanent ban)
@@ -1092,7 +1096,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.231.89.148,FR,France,213412,ONYPHE SAS,c2:7;scan:31,39,2026-11-11T09:45:43Z,2026-11-13T02:54:05Z,not reported (permanent ban)
 91.231.89.149,FR,France,213412,ONYPHE SAS,c2:3;scan:14,18,2026-11-11T09:57:55Z,2026-11-12T03:12:01Z,not reported (permanent ban)
 91.231.89.151,FR,France,213412,ONYPHE SAS,c2:1;scan:13,15,2026-11-11T10:53:57Z,2026-11-14T21:56:54Z,not reported (permanent ban)
-91.231.89.152,FR,France,213412,ONYPHE SAS,c2:18;scan:113,132,2026-11-12T05:00:55Z,2026-11-16T22:56:51Z,not reported (permanent ban)
+91.231.89.152,FR,France,213412,ONYPHE SAS,c2:19;scan:114,134,2026-11-12T05:00:55Z,2026-11-17T00:03:27Z,not reported (permanent ban)
 91.231.89.157,FR,France,213412,ONYPHE SAS,c2:8;scan:27,36,2026-11-14T06:59:36Z,2026-11-16T05:36:41Z,not reported (permanent ban)
 91.231.89.160,FR,France,213412,ONYPHE SAS,c2:6;scan:14,23,2026-11-11T10:41:43Z,2026-11-16T09:31:42Z,not reported (permanent ban)
 91.231.89.161,FR,France,213412,ONYPHE SAS,c2:2;exploit:1;scan:15,27,2026-11-11T14:10:26Z,2026-11-16T13:01:03Z,not reported (permanent ban)
@@ -1108,8 +1112,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.231.89.192,FR,France,213412,ONYPHE SAS,c2:12;scan:33,50,2026-11-11T09:54:57Z,2026-11-16T20:09:46Z,not reported (permanent ban)
 91.231.89.198,FR,France,213412,ONYPHE SAS,c2:11;scan:22,34,2026-11-11T11:24:10Z,2026-11-16T05:18:59Z,not reported (permanent ban)
 91.231.89.199,FR,France,213412,ONYPHE SAS,c2:15;scan:29,45,2026-11-11T11:03:29Z,2026-11-16T05:01:35Z,not reported (permanent ban)
-91.231.89.202,FR,France,213412,ONYPHE SAS,c2:12;scan:100,115,2026-11-11T10:58:40Z,2026-11-16T22:55:21Z,not reported (permanent ban)
-91.231.89.203,FR,France,213412,ONYPHE SAS,c2:12;scan:53,66,2026-11-11T10:53:32Z,2026-11-16T22:50:15Z,not reported (permanent ban)
+91.231.89.202,FR,France,213412,ONYPHE SAS,c2:12;scan:101,116,2026-11-11T10:58:40Z,2026-11-17T00:12:19Z,not reported (permanent ban)
+91.231.89.203,FR,France,213412,ONYPHE SAS,c2:12;scan:54,67,2026-11-11T10:53:32Z,2026-11-17T00:07:11Z,not reported (permanent ban)
 91.231.89.204,FR,France,213412,ONYPHE SAS,c2:10;scan:51,62,2026-11-11T09:48:27Z,2026-11-14T02:11:56Z,not reported (permanent ban)
 91.231.89.206,FR,France,213412,ONYPHE SAS,c2:1;scan:13,15,2026-11-11T10:42:49Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 91.231.89.207,FR,France,213412,ONYPHE SAS,c2:10;scan:38,49,2026-11-11T11:01:17Z,2026-11-16T06:13:51Z,not reported (permanent ban)
@@ -1118,13 +1122,13 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 91.231.89.212,FR,France,213412,ONYPHE SAS,c2:7;scan:40,48,2026-11-11T10:21:10Z,2026-11-14T02:44:27Z,not reported (permanent ban)
 91.231.89.213,FR,France,213412,ONYPHE SAS,c2:15;scan:72,88,2026-11-11T10:15:58Z,2026-11-16T22:08:43Z,not reported (permanent ban)
 91.231.89.214,FR,France,213412,ONYPHE SAS,c2:12;scan:74,89,2026-11-11T10:28:21Z,2026-11-16T22:20:56Z,not reported (permanent ban)
-91.231.89.218,FR,France,213412,ONYPHE SAS,c2:14;scan:58,77,2026-11-11T10:43:13Z,2026-11-16T19:55:37Z,not reported (permanent ban)
+91.231.89.218,FR,France,213412,ONYPHE SAS,c2:15;scan:59,79,2026-11-11T10:43:13Z,2026-11-17T00:01:55Z,not reported (permanent ban)
 91.231.89.226,FR,France,213412,ONYPHE SAS,c2:10;scan:41,52,2026-11-11T10:37:41Z,2026-11-16T06:48:50Z,not reported (permanent ban)
 91.231.89.229,FR,France,213412,ONYPHE SAS,c2:15;scan:105,121,2026-11-11T09:56:36Z,2026-11-16T22:59:29Z,not reported (permanent ban)
-91.231.89.230,FR,France,213412,ONYPHE SAS,c2:11;scan:76,91,2026-11-11T09:51:22Z,2026-11-16T22:54:09Z,not reported (permanent ban)
+91.231.89.230,FR,France,213412,ONYPHE SAS,c2:11;scan:77,92,2026-11-11T09:51:22Z,2026-11-17T00:14:09Z,not reported (permanent ban)
 91.231.89.231,FR,France,213412,ONYPHE SAS,c2:4;scan:32,39,2026-11-11T10:03:33Z,2026-11-14T02:53:15Z,not reported (permanent ban)
 91.231.89.232,FR,France,213412,ONYPHE SAS,c2:5;scan:40,49,2026-11-11T09:53:22Z,2026-11-16T06:13:21Z,not reported (permanent ban)
-91.231.89.235,FR,France,213412,ONYPHE SAS,c2:9;scan:91,103,2026-11-11T10:30:40Z,2026-11-16T22:43:01Z,not reported (permanent ban)
+91.231.89.235,FR,France,213412,ONYPHE SAS,c2:9;scan:92,104,2026-11-11T10:30:40Z,2026-11-17T00:02:23Z,not reported (permanent ban)
 91.231.89.236,FR,France,213412,ONYPHE SAS,c2:4;scan:31,38,2026-11-11T10:25:24Z,2026-11-14T03:25:10Z,not reported (permanent ban)
 91.231.89.237,FR,France,213412,ONYPHE SAS,c2:10;scan:48,59,2026-11-11T11:57:07Z,2026-11-14T02:18:02Z,not reported (permanent ban)
 91.231.89.248,FR,France,213412,ONYPHE SAS,c2:4;scan:23,28,2026-11-13T04:19:03Z,2026-11-14T02:50:31Z,not reported (permanent ban)
@@ -1236,7 +1240,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 5.226.140.2,GB,United Kingdom,25369,Hydra Communications Ltd,c2:10;scan:26,39,2026-11-11T13:02:46Z,2026-11-16T21:23:43Z,not reported (permanent ban)
 5.226.140.5,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:10,12,2026-11-11T22:52:48Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 5.226.140.6,GB,United Kingdom,25369,Hydra Communications Ltd,c2:10;scan:30,43,2026-11-11T17:04:12Z,2026-11-16T20:23:00Z,not reported (permanent ban)
-5.226.140.8,GB,United Kingdom,25369,Hydra Communications Ltd,scan:26,40,2026-11-11T13:47:19Z,2026-11-16T06:20:17Z,not reported (permanent ban)
+5.226.140.8,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:27,42,2026-11-11T13:47:19Z,2026-11-17T00:11:05Z,not reported (permanent ban)
 5.226.140.9,GB,United Kingdom,25369,Hydra Communications Ltd,scan:30,42,2026-11-12T00:00:03Z,2026-11-16T19:07:56Z,not reported (permanent ban)
 5.226.140.10,GB,United Kingdom,25369,Hydra Communications Ltd,c2:10;scan:35,50,2026-11-11T16:42:35Z,2026-11-16T22:23:22Z,not reported (permanent ban)
 5.226.140.11,GB,United Kingdom,25369,Hydra Communications Ltd,scan:35,51,2026-11-11T14:26:31Z,2026-11-16T21:58:41Z,not reported (permanent ban)
@@ -1283,7 +1287,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 5.226.140.86,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:32,44,2026-11-11T09:52:14Z,2026-11-16T03:19:49Z,not reported (permanent ban)
 5.226.140.87,GB,United Kingdom,25369,Hydra Communications Ltd,scan:29,43,2026-11-11T10:10:02Z,2026-11-16T20:20:18Z,not reported (permanent ban)
 5.226.140.91,GB,United Kingdom,25369,Hydra Communications Ltd,c2:7;scan:32,47,2026-11-11T16:13:51Z,2026-11-16T19:53:59Z,not reported (permanent ban)
-5.226.140.92,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:38,53,2026-11-11T11:13:55Z,2026-11-16T22:04:03Z,not reported (permanent ban)
+5.226.140.92,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:39,54,2026-11-11T11:13:55Z,2026-11-17T00:07:26Z,not reported (permanent ban)
 5.226.140.93,GB,United Kingdom,25369,Hydra Communications Ltd,scan:32,45,2026-11-11T10:26:50Z,2026-11-16T08:10:34Z,not reported (permanent ban)
 5.226.140.95,GB,United Kingdom,25369,Hydra Communications Ltd,scan:33,47,2026-11-11T12:31:23Z,2026-11-16T23:04:18Z,not reported (permanent ban)
 5.226.140.96,GB,United Kingdom,25369,Hydra Communications Ltd,scan:43,59,2026-11-11T12:21:25Z,2026-11-16T22:24:54Z,not reported (permanent ban)
@@ -1291,7 +1295,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 5.226.140.98,GB,United Kingdom,25369,Hydra Communications Ltd,scan:30,45,2026-11-11T22:20:41Z,2026-11-16T22:26:56Z,not reported (permanent ban)
 5.226.140.100,GB,United Kingdom,25369,Hydra Communications Ltd,scan:12,13,2026-11-14T09:38:34Z,2026-11-16T15:23:10Z,not reported (permanent ban)
 5.226.140.103,GB,United Kingdom,25369,Hydra Communications Ltd,c2:10;scan:35,51,2026-11-11T12:39:50Z,2026-11-16T16:45:00Z,not reported (permanent ban)
-5.226.140.105,GB,United Kingdom,25369,Hydra Communications Ltd,scan:27,43,2026-11-11T14:45:17Z,2026-11-16T06:20:59Z,not reported (permanent ban)
+5.226.140.105,GB,United Kingdom,25369,Hydra Communications Ltd,scan:28,45,2026-11-11T14:45:17Z,2026-11-17T00:16:39Z,not reported (permanent ban)
 5.226.140.111,GB,United Kingdom,25369,Hydra Communications Ltd,scan:34,49,2026-11-11T11:28:48Z,2026-11-16T21:35:07Z,not reported (permanent ban)
 5.226.140.113,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:45,61,2026-11-11T14:05:30Z,2026-11-16T19:36:54Z,not reported (permanent ban)
 5.226.140.114,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:24,35,2026-11-11T10:13:26Z,2026-11-16T06:40:47Z,not reported (permanent ban)
@@ -1425,7 +1429,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 31.14.254.111,GB,United Kingdom,25369,Hydra Communications Ltd,c2:6;scan:29,40,2026-11-11T11:12:15Z,2026-11-15T17:43:03Z,not reported (permanent ban)
 31.14.254.112,GB,United Kingdom,25369,Hydra Communications Ltd,scan:29,42,2026-11-11T09:57:59Z,2026-11-16T18:23:48Z,not reported (permanent ban)
 31.14.254.117,GB,United Kingdom,25369,Hydra Communications Ltd,scan:32,45,2026-11-11T13:22:53Z,2026-11-16T20:08:16Z,not reported (permanent ban)
-31.14.254.118,GB,United Kingdom,25369,Hydra Communications Ltd,c2:11;scan:49,65,2026-11-11T09:57:21Z,2026-11-16T16:56:06Z,not reported (permanent ban)
+31.14.254.118,GB,United Kingdom,25369,Hydra Communications Ltd,c2:11;scan:50,66,2026-11-11T09:57:21Z,2026-11-17T00:09:33Z,not reported (permanent ban)
 31.14.254.119,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:15,18,2026-11-11T13:04:17Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 31.14.254.122,GB,United Kingdom,25369,Hydra Communications Ltd,c2:4;scan:29,41,2026-11-11T17:55:46Z,2026-11-16T21:38:53Z,not reported (permanent ban)
 31.14.254.123,GB,United Kingdom,25369,Hydra Communications Ltd,c2:7;scan:32,44,2026-11-11T09:54:02Z,2026-11-16T11:50:39Z,not reported (permanent ban)
@@ -1532,7 +1536,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 81.19.219.239,GB,United Kingdom,25369,Hydra Communications Ltd,c2:2;scan:36,50,2026-11-11T10:02:46Z,2026-11-16T20:03:22Z,not reported (permanent ban)
 81.19.219.240,GB,United Kingdom,25369,Hydra Communications Ltd,scan:36,52,2026-11-11T11:36:06Z,2026-11-16T22:24:24Z,not reported (permanent ban)
 81.19.219.245,GB,United Kingdom,25369,Hydra Communications Ltd,scan:27,40,2026-11-11T09:59:11Z,2026-11-16T18:04:17Z,not reported (permanent ban)
-81.19.219.246,GB,United Kingdom,25369,Hydra Communications Ltd,c2:13;scan:37,51,2026-11-11T12:48:19Z,2026-11-16T21:02:36Z,not reported (permanent ban)
+81.19.219.246,GB,United Kingdom,25369,Hydra Communications Ltd,c2:13;scan:38,52,2026-11-11T12:48:19Z,2026-11-17T00:02:35Z,not reported (permanent ban)
 81.19.219.247,GB,United Kingdom,25369,Hydra Communications Ltd,scan:13,19,2026-11-12T06:01:38Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 81.19.219.248,GB,United Kingdom,25369,Hydra Communications Ltd,scan:10,13,2026-11-11T11:20:16Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 81.19.219.249,GB,United Kingdom,25369,Hydra Communications Ltd,c2:13;scan:30,45,2026-11-11T14:41:23Z,2026-11-16T18:42:21Z,not reported (permanent ban)
@@ -1545,8 +1549,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 89.37.172.137,GB,United Kingdom,25369,Hydra Communications Ltd,scan:19,20,2026-11-11T13:11:32Z,2026-11-16T13:23:51Z,not reported (permanent ban)
 89.37.172.138,GB,United Kingdom,25369,Hydra Communications Ltd,c2:8;scan:20,30,2026-11-13T06:59:42Z,2026-11-16T20:47:22Z,not reported (permanent ban)
 89.37.172.139,GB,United Kingdom,25369,Hydra Communications Ltd,scan:34,48,2026-11-11T09:53:08Z,2026-11-16T21:13:47Z,not reported (permanent ban)
-89.37.172.140,GB,United Kingdom,25369,Hydra Communications Ltd,scan:32,44,2026-11-11T17:06:01Z,2026-11-16T05:46:16Z,not reported (permanent ban)
-89.37.172.143,GB,United Kingdom,25369,Hydra Communications Ltd,scan:20,26,2026-11-13T17:22:58Z,2026-11-16T11:07:56Z,not reported (permanent ban)
+89.37.172.140,GB,United Kingdom,25369,Hydra Communications Ltd,scan:33,46,2026-11-11T17:06:01Z,2026-11-17T00:07:01Z,not reported (permanent ban)
+89.37.172.143,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:21,28,2026-11-13T17:22:58Z,2026-11-17T00:11:35Z,not reported (permanent ban)
 89.37.172.145,GB,United Kingdom,25369,Hydra Communications Ltd,scan:28,40,2026-11-11T09:53:59Z,2026-11-16T22:07:38Z,not reported (permanent ban)
 89.37.172.149,GB,United Kingdom,25369,Hydra Communications Ltd,scan:14,20,2026-11-11T11:34:55Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 89.37.172.151,GB,United Kingdom,25369,Hydra Communications Ltd,scan:24,37,2026-11-11T15:54:18Z,2026-11-16T12:01:07Z,not reported (permanent ban)
@@ -1627,7 +1631,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 185.216.145.174,GB,United Kingdom,25369,Hydra Communications Ltd,scan:15,18,2026-11-12T07:03:56Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 185.216.145.176,GB,United Kingdom,25369,Hydra Communications Ltd,scan:30,45,2026-11-11T12:44:01Z,2026-11-16T20:43:19Z,not reported (permanent ban)
 185.216.145.182,GB,United Kingdom,25369,Hydra Communications Ltd,c2:10;scan:28,41,2026-11-11T15:56:06Z,2026-11-16T13:46:46Z,not reported (permanent ban)
-185.216.145.184,GB,United Kingdom,25369,Hydra Communications Ltd,scan:34,47,2026-11-11T11:29:13Z,2026-11-16T21:49:20Z,not reported (permanent ban)
+185.216.145.184,GB,United Kingdom,25369,Hydra Communications Ltd,scan:35,48,2026-11-11T11:29:13Z,2026-11-17T00:12:03Z,not reported (permanent ban)
 188.240.59.2,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:50,66,2026-11-11T09:41:39Z,2026-11-16T22:44:53Z,not reported (permanent ban)
 188.240.59.4,GB,United Kingdom,25369,Hydra Communications Ltd,scan:26,36,2026-11-11T12:31:35Z,2026-11-16T09:36:49Z,not reported (permanent ban)
 188.240.59.5,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:15,25,2026-11-13T09:25:30Z,2026-11-16T20:43:45Z,not reported (permanent ban)
@@ -1635,7 +1639,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 188.240.59.8,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:46,63,2026-11-11T09:48:36Z,2026-11-16T19:59:06Z,not reported (permanent ban)
 188.240.59.9,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:1,3,2026-11-15T19:25:46Z,2026-11-16T03:18:18Z,not reported (permanent ban)
 188.240.59.11,GB,United Kingdom,25369,Hydra Communications Ltd,scan:36,50,2026-11-11T10:07:46Z,2026-11-16T01:39:36Z,not reported (permanent ban)
-188.240.59.12,GB,United Kingdom,25369,Hydra Communications Ltd,c2:4;scan:45,62,2026-11-11T12:24:40Z,2026-11-16T22:29:58Z,not reported (permanent ban)
+188.240.59.12,GB,United Kingdom,25369,Hydra Communications Ltd,c2:4;scan:46,63,2026-11-11T12:24:40Z,2026-11-17T00:07:33Z,not reported (permanent ban)
 188.240.59.13,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:29,43,2026-11-11T17:41:33Z,2026-11-16T05:57:31Z,not reported (permanent ban)
 188.240.59.16,GB,United Kingdom,25369,Hydra Communications Ltd,c2:6;scan:38,54,2026-11-11T12:19:23Z,2026-11-16T13:32:34Z,not reported (permanent ban)
 188.240.59.17,GB,United Kingdom,25369,Hydra Communications Ltd,scan:17,19,2026-11-11T09:53:22Z,2026-11-14T21:56:54Z,not reported (permanent ban)
@@ -1650,11 +1654,11 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 188.240.59.29,GB,United Kingdom,25369,Hydra Communications Ltd,scan:27,32,2026-11-14T08:26:35Z,2026-11-16T13:25:26Z,not reported (permanent ban)
 188.240.59.30,GB,United Kingdom,25369,Hydra Communications Ltd,c2:12;scan:34,48,2026-11-11T09:53:38Z,2026-11-16T08:06:04Z,not reported (permanent ban)
 188.240.59.31,GB,United Kingdom,25369,Hydra Communications Ltd,scan:25,39,2026-11-11T19:17:57Z,2026-11-16T13:31:32Z,not reported (permanent ban)
-188.240.59.35,GB,United Kingdom,25369,Hydra Communications Ltd,c2:1;scan:39,52,2026-11-11T10:09:55Z,2026-11-16T21:03:11Z,not reported (permanent ban)
+188.240.59.35,GB,United Kingdom,25369,Hydra Communications Ltd,c2:2;scan:40,54,2026-11-11T10:09:55Z,2026-11-17T00:11:35Z,not reported (permanent ban)
 188.240.59.37,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:43,58,2026-11-11T10:01:39Z,2026-11-16T02:33:30Z,not reported (permanent ban)
 188.240.59.38,GB,United Kingdom,25369,Hydra Communications Ltd,c2:4;scan:29,43,2026-11-11T14:58:11Z,2026-11-16T21:00:04Z,not reported (permanent ban)
 188.240.59.40,GB,United Kingdom,25369,Hydra Communications Ltd,c2:11;scan:22,35,2026-11-12T08:04:48Z,2026-11-16T16:04:54Z,not reported (permanent ban)
-188.240.59.41,GB,United Kingdom,25369,Hydra Communications Ltd,c2:13;scan:40,54,2026-11-11T10:21:38Z,2026-11-16T23:11:02Z,not reported (permanent ban)
+188.240.59.41,GB,United Kingdom,25369,Hydra Communications Ltd,c2:13;scan:41,55,2026-11-11T10:21:38Z,2026-11-17T00:10:02Z,not reported (permanent ban)
 188.240.59.44,GB,United Kingdom,25369,Hydra Communications Ltd,c2:3;scan:9,14,2026-11-14T06:28:14Z,2026-11-16T05:32:37Z,not reported (permanent ban)
 188.240.59.46,GB,United Kingdom,25369,Hydra Communications Ltd,c2:12;scan:34,47,2026-11-11T19:08:49Z,2026-11-16T07:57:40Z,not reported (permanent ban)
 188.240.59.49,GB,United Kingdom,25369,Hydra Communications Ltd,c2:12;scan:49,62,2026-11-11T10:46:47Z,2026-11-16T01:22:53Z,not reported (permanent ban)
@@ -1706,12 +1710,12 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 194.50.235.134,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:35,50,2026-11-11T19:28:57Z,2026-11-16T07:00:09Z,not reported (permanent ban)
 194.50.235.135,GB,United Kingdom,25369,Hydra Communications Ltd,scan:35,48,2026-11-11T12:17:35Z,2026-11-16T16:41:29Z,not reported (permanent ban)
 194.50.235.136,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:30,44,2026-11-11T14:57:36Z,2026-11-16T20:03:40Z,not reported (permanent ban)
-194.50.235.139,GB,United Kingdom,25369,Hydra Communications Ltd,scan:36,52,2026-11-11T18:38:21Z,2026-11-16T22:48:42Z,not reported (permanent ban)
+194.50.235.139,GB,United Kingdom,25369,Hydra Communications Ltd,scan:37,53,2026-11-11T18:38:21Z,2026-11-17T00:07:20Z,not reported (permanent ban)
 194.50.235.140,GB,United Kingdom,25369,Hydra Communications Ltd,c2:2;scan:10,17,2026-11-12T06:48:19Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 194.50.235.141,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:28,39,2026-11-13T06:30:58Z,2026-11-16T21:06:09Z,not reported (permanent ban)
 194.50.235.142,GB,United Kingdom,25369,Hydra Communications Ltd,scan:45,61,2026-11-11T12:41:09Z,2026-11-16T15:35:51Z,not reported (permanent ban)
 194.50.235.143,GB,United Kingdom,25369,Hydra Communications Ltd,scan:36,51,2026-11-11T12:58:06Z,2026-11-16T22:23:22Z,not reported (permanent ban)
-194.50.235.144,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:35,50,2026-11-11T15:08:31Z,2026-11-16T15:11:05Z,not reported (permanent ban)
+194.50.235.144,GB,United Kingdom,25369,Hydra Communications Ltd,c2:15;scan:36,52,2026-11-11T15:08:31Z,2026-11-17T00:00:55Z,not reported (permanent ban)
 194.50.235.149,GB,United Kingdom,25369,Hydra Communications Ltd,c2:6;scan:13,20,2026-11-14T04:53:20Z,2026-11-16T08:48:20Z,not reported (permanent ban)
 194.50.235.151,GB,United Kingdom,25369,Hydra Communications Ltd,c2:6;scan:26,38,2026-11-11T10:38:19Z,2026-11-16T16:15:36Z,not reported (permanent ban)
 194.50.235.153,GB,United Kingdom,25369,Hydra Communications Ltd,c2:12;scan:27,40,2026-11-11T18:49:17Z,2026-11-16T18:22:45Z,not reported (permanent ban)
@@ -1745,7 +1749,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 195.206.182.219,GB,United Kingdom,25369,Hydra Communications Ltd,c2:11;scan:20,32,2026-11-11T18:52:18Z,2026-11-16T09:23:04Z,not reported (permanent ban)
 213.166.84.34,GB,United Kingdom,25369,Hydra Communications Ltd,c2:11;scan:35,48,2026-11-11T10:04:16Z,2026-11-16T06:56:05Z,not reported (permanent ban)
 213.166.84.35,GB,United Kingdom,25369,Hydra Communications Ltd,scan:27,40,2026-11-11T10:03:20Z,2026-11-16T10:34:13Z,not reported (permanent ban)
-213.166.84.36,GB,United Kingdom,25369,Hydra Communications Ltd,c2:9;scan:44,61,2026-11-11T15:20:06Z,2026-11-16T07:45:58Z,not reported (permanent ban)
+213.166.84.36,GB,United Kingdom,25369,Hydra Communications Ltd,c2:10;scan:45,63,2026-11-11T15:20:06Z,2026-11-17T00:08:31Z,not reported (permanent ban)
 213.166.84.37,GB,United Kingdom,25369,Hydra Communications Ltd,c2:8;scan:23,35,2026-11-12T03:54:02Z,2026-11-16T19:53:31Z,not reported (permanent ban)
 213.166.84.39,GB,United Kingdom,25369,Hydra Communications Ltd,c2:15;scan:35,51,2026-11-11T09:51:12Z,2026-11-16T19:15:57Z,not reported (permanent ban)
 213.166.84.40,GB,United Kingdom,25369,Hydra Communications Ltd,scan:35,46,2026-11-11T13:03:13Z,2026-11-16T01:16:59Z,not reported (permanent ban)
@@ -1754,7 +1758,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 213.166.84.43,GB,United Kingdom,25369,Hydra Communications Ltd,scan:15,17,2026-11-14T09:34:42Z,2026-11-16T12:57:18Z,not reported (permanent ban)
 213.166.84.44,GB,United Kingdom,25369,Hydra Communications Ltd,scan:31,46,2026-11-11T14:52:54Z,2026-11-16T23:15:58Z,not reported (permanent ban)
 213.166.84.46,GB,United Kingdom,25369,Hydra Communications Ltd,scan:14,17,2026-11-11T12:21:19Z,2026-11-14T21:56:40Z,not reported (permanent ban)
-213.166.84.47,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:34,49,2026-11-11T10:06:43Z,2026-11-16T21:13:47Z,not reported (permanent ban)
+213.166.84.47,GB,United Kingdom,25369,Hydra Communications Ltd,c2:14;scan:35,50,2026-11-11T10:06:43Z,2026-11-17T00:13:59Z,not reported (permanent ban)
 213.166.84.52,GB,United Kingdom,25369,Hydra Communications Ltd,scan:36,50,2026-11-11T10:05:45Z,2026-11-16T22:04:34Z,not reported (permanent ban)
 213.166.84.53,GB,United Kingdom,25369,Hydra Communications Ltd,scan:1,2,2026-11-16T02:41:20Z,2026-11-16T03:18:04Z,not reported (permanent ban)
 213.166.84.54,GB,United Kingdom,25369,Hydra Communications Ltd,c2:16;scan:38,55,2026-11-11T09:50:16Z,2026-11-16T21:35:07Z,not reported (permanent ban)
@@ -1783,10 +1787,10 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 217.146.80.123,GB,United Kingdom,25369,Hydra Communications Ltd,scan:27,40,2026-11-11T12:43:49Z,2026-11-16T20:21:58Z,not reported (permanent ban)
 217.146.80.124,GB,United Kingdom,25369,Hydra Communications Ltd,c2:12;scan:39,52,2026-11-11T10:45:07Z,2026-11-16T07:58:12Z,not reported (permanent ban)
 81.171.74.60,GB,United Kingdom,34343,Eweka Internet Services B.V.,web:27,27,2026-11-13T00:50:28Z,2026-11-13T00:50:31Z,2026-11-13T02:31:46Z
-2.57.121.25,GB,United Kingdom,47890,UNMANAGED LTD,ssh:613,613,2026-11-09T17:20:00Z,2026-11-16T22:48:55Z,2026-11-11T17:05:43Z
-2.57.121.112,GB,United Kingdom,47890,UNMANAGED LTD,ssh:471,471,2026-11-09T16:45:47Z,2026-11-16T23:14:06Z,2026-11-11T16:35:03Z
-193.46.255.86,GB,United Kingdom,47890,UNMANAGED LTD,spamhaus:105;ssh:395,500,2026-11-09T18:41:28Z,2026-11-16T23:16:38Z,2026-11-11T17:05:43Z
-216.226.76.20,GB,United Kingdom,50219,LNK SYSTEMS MUNTENIA SRL,c2:14;scan:43,58,2026-11-11T10:04:31Z,2026-11-16T22:08:08Z,not reported (permanent ban)
+2.57.121.25,GB,United Kingdom,47890,UNMANAGED LTD,ssh:510,510,2026-11-09T17:20:00Z,2026-11-16T23:52:46Z,2026-11-11T17:05:43Z
+2.57.121.112,GB,United Kingdom,47890,UNMANAGED LTD,ssh:366,366,2026-11-09T16:45:47Z,2026-11-16T23:14:06Z,2026-11-11T16:35:03Z
+193.46.255.86,GB,United Kingdom,47890,UNMANAGED LTD,spamhaus:80;ssh:348,428,2026-11-09T18:41:28Z,2026-11-17T00:35:02Z,2026-11-11T17:05:43Z
+216.226.76.20,GB,United Kingdom,50219,LNK SYSTEMS MUNTENIA SRL,c2:14;scan:44,59,2026-11-11T10:04:31Z,2026-11-17T00:01:04Z,not reported (permanent ban)
 216.226.76.30,GB,United Kingdom,50219,LNK SYSTEMS MUNTENIA SRL,c2:14;scan:42,57,2026-11-11T10:12:09Z,2026-11-16T21:00:01Z,not reported (permanent ban)
 172.236.28.161,GB,United Kingdom,63949,"Akamai Technologies, Inc.",c2:2;scan:4,7,2026-11-11T07:46:36Z,2026-11-14T11:38:53Z,not reported (permanent ban)
 172.239.117.185,GB,United Kingdom,63949,"Akamai Technologies, Inc.",scan:4,5,2026-11-10T23:43:11Z,2026-11-11T09:56:39Z,not reported (permanent ban)
@@ -1830,7 +1834,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 185.247.137.56,GB,United Kingdom,211298,Driftnet Ltd,c2:1;exploit:1,3,2026-11-11T16:47:59Z,2026-11-11T16:49:01Z,not reported (permanent ban)
 185.247.137.65,GB,United Kingdom,211298,Driftnet Ltd,c2:1;exploit:1,3,2026-11-13T10:28:32Z,2026-11-13T10:29:02Z,not reported (permanent ban)
 195.96.139.185,GB,United Kingdom,211298,Driftnet Ltd,c2:1;exploit:1,3,2026-11-14T08:10:39Z,2026-11-14T08:12:02Z,not reported (permanent ban)
-2a06:4883:d000::da,GB,United Kingdom,211298,Driftnet Ltd,scan:1,1,2026-11-16T23:35:37Z,2026-11-16T23:35:37Z,not reported (permanent ban)
+2a06:4883:d000::da,GB,United Kingdom,211298,Driftnet Ltd,scan:1,1,2026-11-17T00:35:35Z,2026-11-17T00:35:35Z,not reported (permanent ban)
 35.203.210.4,GB,United Kingdom,396982,Google LLC,scan:19,30,2026-11-11T10:29:23Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 35.203.210.5,GB,United Kingdom,396982,Google LLC,scan:11,18,2026-11-12T00:59:25Z,2026-11-15T03:47:19Z,not reported (permanent ban)
 35.203.210.7,GB,United Kingdom,396982,Google LLC,c2:5;scan:11,18,2026-11-11T21:54:08Z,2026-11-15T04:28:11Z,not reported (permanent ban)
@@ -1974,7 +1978,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 35.203.211.104,GB,United Kingdom,396982,Google LLC,c2:9;scan:16,26,2026-11-12T09:02:47Z,2026-11-16T11:14:37Z,not reported (permanent ban)
 35.203.211.106,GB,United Kingdom,396982,Google LLC,c2:3;scan:5,9,2026-11-12T12:57:34Z,2026-11-13T02:07:03Z,not reported (permanent ban)
 35.203.211.107,GB,United Kingdom,396982,Google LLC,c2:10;scan:27,41,2026-11-12T03:05:23Z,2026-11-16T18:35:45Z,not reported (permanent ban)
-35.203.211.110,GB,United Kingdom,396982,Google LLC,scan:23,35,2026-11-12T02:11:15Z,2026-11-16T22:04:15Z,not reported (permanent ban)
+35.203.211.110,GB,United Kingdom,396982,Google LLC,scan:24,36,2026-11-12T02:11:15Z,2026-11-17T00:06:46Z,not reported (permanent ban)
 35.203.211.114,GB,United Kingdom,396982,Google LLC,scan:23,36,2026-11-12T02:17:51Z,2026-11-16T09:45:42Z,not reported (permanent ban)
 35.203.211.116,GB,United Kingdom,396982,Google LLC,c2:9;scan:21,31,2026-11-11T09:54:44Z,2026-11-16T15:54:45Z,not reported (permanent ban)
 35.203.211.117,GB,United Kingdom,396982,Google LLC,scan:22,33,2026-11-11T22:05:20Z,2026-11-15T22:12:58Z,not reported (permanent ban)
@@ -1994,7 +1998,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 35.203.211.142,GB,United Kingdom,396982,Google LLC,c2:8;scan:11,21,2026-11-12T03:36:26Z,2026-11-16T20:12:50Z,not reported (permanent ban)
 35.203.211.148,GB,United Kingdom,396982,Google LLC,c2:2;scan:19,28,2026-11-11T09:49:57Z,2026-11-16T11:14:03Z,not reported (permanent ban)
 35.203.211.152,GB,United Kingdom,396982,Google LLC,c2:12;scan:36,51,2026-11-12T10:14:12Z,2026-11-16T18:10:19Z,not reported (permanent ban)
-35.203.211.156,GB,United Kingdom,396982,Google LLC,scan:20,28,2026-11-11T09:58:01Z,2026-11-16T16:07:01Z,not reported (permanent ban)
+35.203.211.156,GB,United Kingdom,396982,Google LLC,scan:21,30,2026-11-11T09:58:01Z,2026-11-17T00:05:29Z,not reported (permanent ban)
 35.203.211.159,GB,United Kingdom,396982,Google LLC,c2:4;scan:24,37,2026-11-12T00:33:34Z,2026-11-16T13:07:39Z,not reported (permanent ban)
 35.203.211.160,GB,United Kingdom,396982,Google LLC,c2:4;scan:20,31,2026-11-11T10:47:21Z,2026-11-16T19:15:55Z,not reported (permanent ban)
 35.203.211.163,GB,United Kingdom,396982,Google LLC,scan:18,28,2026-11-12T10:14:27Z,2026-11-16T15:24:06Z,not reported (permanent ban)
@@ -2018,7 +2022,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 35.203.211.211,GB,United Kingdom,396982,Google LLC,c2:9;scan:14,24,2026-11-12T08:05:53Z,2026-11-16T19:52:15Z,not reported (permanent ban)
 35.203.211.215,GB,United Kingdom,396982,Google LLC,c2:8;scan:19,29,2026-11-12T06:51:48Z,2026-11-16T20:33:10Z,not reported (permanent ban)
 35.203.211.216,GB,United Kingdom,396982,Google LLC,c2:7;scan:24,36,2026-11-11T10:39:05Z,2026-11-16T10:18:28Z,not reported (permanent ban)
-35.203.211.221,GB,United Kingdom,396982,Google LLC,scan:20,30,2026-11-12T00:20:02Z,2026-11-15T18:02:19Z,not reported (permanent ban)
+35.203.211.221,GB,United Kingdom,396982,Google LLC,c2:1;scan:21,32,2026-11-12T00:20:02Z,2026-11-17T00:13:37Z,not reported (permanent ban)
 35.203.211.222,GB,United Kingdom,396982,Google LLC,c2:8;scan:28,40,2026-11-11T22:58:59Z,2026-11-16T05:43:50Z,not reported (permanent ban)
 35.203.211.226,GB,United Kingdom,396982,Google LLC,c2:7;scan:32,46,2026-11-11T22:37:15Z,2026-11-16T19:44:53Z,not reported (permanent ban)
 35.203.211.230,GB,United Kingdom,396982,Google LLC,c2:9;scan:26,38,2026-11-11T22:46:50Z,2026-11-16T16:30:07Z,not reported (permanent ban)
@@ -2081,7 +2085,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 118.193.43.158,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:8;scan:19,28,2026-11-12T08:30:13Z,2026-11-16T08:01:35Z,not reported (permanent ban)
 123.58.210.106,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:10,16,2026-11-11T20:32:48Z,2026-11-15T06:47:46Z,not reported (permanent ban)
 123.58.213.20,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:7;scan:10,18,2026-11-11T13:26:54Z,2026-11-16T19:57:43Z,not reported (permanent ban)
-123.58.213.117,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:9;scan:18,28,2026-11-12T13:23:42Z,2026-11-16T20:50:41Z,not reported (permanent ban)
+123.58.213.117,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:9;scan:19,29,2026-11-12T13:23:42Z,2026-11-17T00:16:02Z,not reported (permanent ban)
 128.1.131.193,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,scan:47,65,2026-11-11T15:12:06Z,2026-11-16T21:47:18Z,not reported (permanent ban)
 150.107.38.5,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:4,9,2026-11-11T22:57:07Z,2026-11-16T06:30:39Z,not reported (permanent ban)
 150.107.38.40,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:6;scan:8,16,2026-11-12T11:41:04Z,2026-11-16T11:31:07Z,not reported (permanent ban)
@@ -2089,7 +2093,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 152.32.128.85,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:5;scan:6,12,2026-11-13T01:53:55Z,2026-11-16T05:20:34Z,not reported (permanent ban)
 152.32.128.169,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:4,8,2026-11-12T07:54:46Z,2026-11-16T02:37:59Z,not reported (permanent ban)
 152.32.129.154,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:10;scan:16;web:1,28,2026-11-11T08:28:21Z,2026-11-16T16:59:14Z,not reported (permanent ban)
-152.32.133.103,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:7;scan:13,21,2026-11-13T11:14:48Z,2026-11-16T08:36:19Z,not reported (permanent ban)
+152.32.133.103,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:8;scan:14,23,2026-11-13T11:14:48Z,2026-11-17T00:09:33Z,not reported (permanent ban)
 152.32.134.156,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:3,7,2026-11-11T19:31:13Z,2026-11-13T16:24:02Z,not reported (permanent ban)
 152.32.134.166,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:10;scan:17,28,2026-11-12T15:02:43Z,2026-11-16T17:46:29Z,not reported (permanent ban)
 152.32.135.81,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:5;scan:6,12,2026-11-12T11:46:17Z,2026-11-16T05:32:37Z,not reported (permanent ban)
@@ -2118,14 +2122,14 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 165.154.42.209,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:10;scan:27,38,2026-11-12T08:35:48Z,2026-11-16T19:39:17Z,not reported (permanent ban)
 165.154.43.179,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:4,8,2026-11-12T12:57:47Z,2026-11-13T03:03:02Z,not reported (permanent ban)
 165.154.70.178,HK,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,scan:20,30,2026-11-11T14:20:39Z,2026-11-16T07:06:34Z,not reported (permanent ban)
-5.187.38.30,HK,Hong Kong,206264,Amarutu Technology Ltd,scan:461;web:24,567,2026-11-11T09:40:03Z,2026-11-16T22:49:45Z,not reported (permanent ban)
+5.187.38.30,HK,Hong Kong,206264,Amarutu Technology Ltd,scan:462;web:24,568,2026-11-11T09:40:03Z,2026-11-17T00:06:58Z,not reported (permanent ban)
 46.151.178.14,HK,Hong Kong,211443,SINO WORLDWIDE TRADING LIMITED,c2:4;scan:114;web:4,131,2026-11-11T14:54:27Z,2026-11-16T22:17:04Z,not reported (permanent ban)
 45.138.12.6,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:1;web:224,225,2026-11-10T05:02:45Z,2026-11-12T06:13:55Z,2026-11-11T17:06:53Z
 45.138.12.16,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:27;web:75,102,2026-11-11T15:36:19Z,2026-11-15T22:43:09Z,2026-11-12T04:23:53Z
-45.138.12.19,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:76;web:22,98,2026-11-14T20:38:26Z,2026-11-16T22:58:47Z,2026-11-14T22:28:52Z
+45.138.12.19,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:48;web:22,70,2026-11-14T20:38:26Z,2026-11-17T00:17:12Z,2026-11-14T22:28:52Z
 45.138.12.37,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:2;web:102,104,2026-11-15T18:01:13Z,2026-11-15T23:28:49Z,2026-11-15T18:25:32Z
 45.138.12.40,HK,Hong Kong,218785,TC DATACENTER LIMITED,c2:6;scan:9,16,2026-11-12T12:38:13Z,2026-11-15T06:29:44Z,not reported (permanent ban)
-45.138.12.41,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:11;web:3,14,2026-11-11T12:13:56Z,2026-11-16T00:16:03Z,2026-11-11T17:06:53Z
+45.138.12.41,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:10;web:3,13,2026-11-11T12:13:56Z,2026-11-16T00:16:03Z,2026-11-11T17:06:53Z
 45.138.12.42,HK,Hong Kong,218785,TC DATACENTER LIMITED,c2:6;scan:10;web:2,19,2026-11-13T01:41:22Z,2026-11-15T19:37:46Z,not reported (permanent ban)
 45.138.12.43,HK,Hong Kong,218785,TC DATACENTER LIMITED,c2:4;scan:4,9,2026-11-12T13:21:15Z,2026-11-14T19:00:18Z,not reported (permanent ban)
 45.138.12.44,HK,Hong Kong,218785,TC DATACENTER LIMITED,c2:3;scan:4;web:3,11,2026-11-13T12:26:12Z,2026-11-15T04:19:04Z,not reported (permanent ban)
@@ -2136,25 +2140,25 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 45.138.12.215,HK,Hong Kong,218785,TC DATACENTER LIMITED,spamhaus:14;web:6,20,2026-11-12T05:32:24Z,2026-11-15T15:35:08Z,2026-11-15T06:24:56Z
 45.138.12.216,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:11;waf:3;web:1,15,2026-11-12T02:19:13Z,2026-11-15T15:35:08Z,not reported (permanent ban)
 45.138.12.217,HK,Hong Kong,218785,TC DATACENTER LIMITED,c2:3;scan:14;waf:2;web:4,24,2026-11-12T12:56:17Z,2026-11-16T03:08:04Z,not reported (permanent ban)
-185.218.86.2,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:275,311,2026-11-11T12:43:18Z,2026-11-16T22:56:49Z,not reported (permanent ban)
+185.218.86.2,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:276,312,2026-11-11T12:43:18Z,2026-11-17T00:14:12Z,not reported (permanent ban)
 185.218.86.4,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:297,344,2026-11-11T12:39:34Z,2026-11-16T22:53:50Z,not reported (permanent ban)
-185.218.86.10,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:271,314,2026-11-11T12:44:47Z,2026-11-16T23:06:51Z,not reported (permanent ban)
+185.218.86.10,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:272,315,2026-11-11T12:44:47Z,2026-11-17T00:01:32Z,not reported (permanent ban)
 185.218.86.12,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:265,304,2026-11-11T12:51:47Z,2026-11-16T22:40:09Z,not reported (permanent ban)
-185.218.86.13,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:265,307,2026-11-11T12:46:26Z,2026-11-16T23:06:48Z,not reported (permanent ban)
-185.218.86.17,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:267,306,2026-11-11T12:29:34Z,2026-11-16T22:42:29Z,not reported (permanent ban)
+185.218.86.13,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:266,308,2026-11-11T12:46:26Z,2026-11-17T00:03:09Z,not reported (permanent ban)
+185.218.86.17,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:268,307,2026-11-11T12:29:34Z,2026-11-17T00:01:41Z,not reported (permanent ban)
 185.218.86.20,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:270,315,2026-11-11T12:30:03Z,2026-11-16T22:47:01Z,not reported (permanent ban)
 185.218.86.23,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:268,306,2026-11-11T12:37:30Z,2026-11-16T22:41:38Z,not reported (permanent ban)
-185.218.86.31,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:273,314,2026-11-11T12:45:07Z,2026-11-16T23:10:48Z,not reported (permanent ban)
-185.218.86.33,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:258,298,2026-11-11T12:29:17Z,2026-11-16T23:14:10Z,not reported (permanent ban)
+185.218.86.31,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:274,315,2026-11-11T12:45:07Z,2026-11-17T00:14:11Z,not reported (permanent ban)
+185.218.86.33,HK,Hong Kong,218785,TC DATACENTER LIMITED,scan:259,299,2026-11-11T12:29:17Z,2026-11-17T00:01:32Z,not reported (permanent ban)
 154.222.21.108,HK,Hong Kong,401701,cognetcloud INC,c2:3;scan:31,38,2026-11-11T21:46:53Z,2026-11-14T16:12:41Z,not reported (permanent ban)
-80.94.95.115,HU,Hungary,204428,SS-Net,scan:594;ssh:156,750,2026-11-11T21:29:19Z,2026-11-16T05:29:47Z,2026-11-12T02:25:33Z
-80.94.95.116,HU,Hungary,204428,SS-Net,scan:635;ssh:137,772,2026-11-11T21:29:43Z,2026-11-16T05:28:35Z,2026-11-15T04:24:56Z
+80.94.95.115,HU,Hungary,204428,SS-Net,scan:538;ssh:130,668,2026-11-11T21:29:19Z,2026-11-16T05:29:47Z,2026-11-12T02:25:33Z
+80.94.95.116,HU,Hungary,204428,SS-Net,scan:580;ssh:110,690,2026-11-11T21:29:43Z,2026-11-16T05:28:35Z,2026-11-15T04:24:56Z
 80.94.95.211,HU,Hungary,204428,SS-Net,web:10,10,2026-11-10T02:06:15Z,2026-11-14T08:32:38Z,2026-11-11T17:07:59Z
 80.94.95.245,HU,Hungary,204428,SS-Net,scan:13,18,2026-11-14T16:08:42Z,2026-11-15T09:51:35Z,not reported (permanent ban)
 45.9.168.192,HU,Hungary,211619,MAXKO d.o.o.,c2:4;scan:34,40,2026-11-12T04:02:27Z,2026-11-16T22:57:16Z,not reported (permanent ban)
 36.89.141.138,ID,Indonesia,7713,Telekomunikasi Indonesia (PT),scan:30,39,2026-11-11T23:35:14Z,2026-11-16T14:27:21Z,not reported (permanent ban)
-182.253.123.10,ID,Indonesia,17451,BIZNET NETWORKS,web:8,8,2026-11-16T15:19:03Z,2026-11-16T21:51:26Z,2026-11-16T22:25:53Z
-182.253.123.49,ID,Indonesia,17451,BIZNET NETWORKS,web:6,6,2026-11-15T15:52:29Z,2026-11-16T09:21:14Z,2026-11-16T10:25:03Z
+182.253.123.10,ID,Indonesia,17451,BIZNET NETWORKS,web:4,4,2026-11-16T15:19:03Z,2026-11-16T21:51:26Z,2026-11-16T22:25:53Z
+182.253.123.49,ID,Indonesia,17451,BIZNET NETWORKS,web:4,4,2026-11-15T15:52:29Z,2026-11-16T09:21:14Z,2026-11-16T10:25:03Z
 202.46.28.142,ID,Indonesia,63491,Universitas Katolik Widya Mandala,c2:18;scan:108,130,2026-11-11T10:37:42Z,2026-11-16T18:47:32Z,not reported (permanent ban)
 202.46.28.143,ID,Indonesia,63491,Universitas Katolik Widya Mandala,c2:16;scan:73,90,2026-11-11T10:18:20Z,2026-11-16T13:40:30Z,not reported (permanent ban)
 103.106.114.71,ID,Indonesia,136880,PT. Sumatra Multimedia Solusi,scan:28,43,2026-11-13T13:46:08Z,2026-11-16T03:24:46Z,not reported (permanent ban)
@@ -2166,7 +2170,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 34.128.96.0,ID,Indonesia,396982,Google LLC,scan:17,24,2026-11-13T07:38:25Z,2026-11-15T01:16:45Z,not reported (permanent ban)
 20.105.65.67,IE,Ireland,8075,Microsoft Corporation,scan:4;ssh:15,19,2026-11-11T05:31:42Z,2026-11-14T09:13:23Z,2026-11-11T21:09:56Z
 3.249.39.4,IE,Ireland,16509,"Amazon.com, Inc.",waf:16;web:6,22,2026-11-12T11:04:05Z,2026-11-12T11:04:05Z,2026-11-12T12:23:37Z
-45.153.102.83,IE,Ireland,203020,HostRoyale Technologies Pvt Ltd,web:21,21,2026-11-09T18:42:53Z,2026-11-16T07:10:48Z,2026-11-11T17:07:45Z
+45.153.102.83,IE,Ireland,203020,HostRoyale Technologies Pvt Ltd,web:18,18,2026-11-09T18:42:53Z,2026-11-16T07:10:48Z,2026-11-11T17:07:45Z
 20.217.186.29,IL,Israel,8075,Microsoft Corporation,web:5,5,2026-11-09T20:20:17Z,2026-11-09T21:17:11Z,2026-11-11T17:07:53Z
 77.91.71.11,IL,Israel,211486,Alferov Aleksey Aleksandrovich,scan:116,131,2026-11-11T15:50:18Z,2026-11-15T13:47:04Z,not reported (permanent ban)
 77.91.71.23,IL,Israel,211486,Alferov Aleksey Aleksandrovich,c2:4;scan:24,28,2026-11-11T19:14:12Z,2026-11-16T22:21:50Z,not reported (permanent ban)
@@ -2188,7 +2192,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 152.32.159.79,IN,India,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:3,7,2026-11-15T01:28:17Z,2026-11-16T13:02:03Z,not reported (permanent ban)
 103.87.175.110,IN,India,146943,Tier 4 Cloud Services,c2:17;scan:106,129,2026-11-12T03:55:34Z,2026-11-16T23:13:18Z,not reported (permanent ban)
 191.44.93.66,IN,India,152523,BLAZING BULLET PRIVATE LIMITED,ssh:10,10,2026-11-14T12:54:37Z,2026-11-14T15:28:46Z,2026-11-14T14:27:39Z
-191.44.93.114,IN,India,152523,BLAZING BULLET PRIVATE LIMITED,ssh:122,122,2026-11-15T16:41:51Z,2026-11-16T00:15:23Z,2026-11-15T18:25:23Z
+191.44.93.114,IN,India,152523,BLAZING BULLET PRIVATE LIMITED,ssh:118,118,2026-11-15T16:41:51Z,2026-11-16T00:15:23Z,2026-11-15T18:25:23Z
 34.131.67.82,IN,India,396982,Google LLC,waf:26;web:514,540,2026-11-12T12:06:43Z,2026-11-12T12:42:58Z,2026-11-12T14:24:01Z
 34.131.248.132,IN,India,396982,Google LLC,waf:26;web:258,284,2026-11-11T03:32:28Z,2026-11-11T03:33:54Z,2026-11-11T17:06:48Z
 185.112.150.97,IR,Iran,48715,Sefroyek Pardaz Engineering PJSC,ssh:47,47,2026-11-10T15:10:31Z,2026-11-12T07:10:40Z,2026-11-12T00:21:31Z
@@ -2222,7 +2226,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 216.226.78.10,JP,Japan,50219,LNK SYSTEMS MUNTENIA SRL,c2:12;scan:41,55,2026-11-11T11:43:45Z,2026-11-16T20:02:54Z,not reported (permanent ban)
 216.226.78.20,JP,Japan,50219,LNK SYSTEMS MUNTENIA SRL,c2:15;scan:46,63,2026-11-11T11:24:48Z,2026-11-16T22:08:08Z,not reported (permanent ban)
 139.162.70.53,JP,Japan,63949,"Akamai Technologies, Inc.",scan:25,26,2026-11-11T09:52:36Z,2026-11-16T19:17:35Z,not reported (permanent ban)
-139.162.78.6,JP,Japan,63949,"Akamai Technologies, Inc.",scan:26,36,2026-11-11T11:37:30Z,2026-11-16T02:12:58Z,not reported (permanent ban)
+139.162.78.6,JP,Japan,63949,"Akamai Technologies, Inc.",scan:27,38,2026-11-11T11:37:30Z,2026-11-17T00:15:09Z,not reported (permanent ban)
 139.162.88.198,JP,Japan,63949,"Akamai Technologies, Inc.",scan:170,194,2026-11-11T09:59:14Z,2026-11-16T22:55:26Z,not reported (permanent ban)
 139.162.113.212,JP,Japan,63949,"Akamai Technologies, Inc.",c2:10;scan:21,32,2026-11-11T09:49:20Z,2026-11-16T18:32:09Z,not reported (permanent ban)
 139.162.116.22,JP,Japan,63949,"Akamai Technologies, Inc.",c2:9;scan:20,30,2026-11-11T11:39:57Z,2026-11-16T06:58:49Z,not reported (permanent ban)
@@ -2239,7 +2243,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 2400:8d60:8::96b0:ddfd,JP,Japan,149440,Evoxt Sdn. Bhd.,web:6,6,2026-11-12T04:20:43Z,2026-11-12T08:09:33Z,2026-11-12T10:23:58Z
 34.84.48.180,JP,Japan,396982,Google LLC,waf:26;web:258,284,2026-11-11T02:20:23Z,2026-11-11T02:21:35Z,2026-11-11T17:06:48Z
 34.97.184.237,JP,Japan,396982,Google LLC,waf:26;web:258,284,2026-11-11T01:12:58Z,2026-11-11T01:14:48Z,2026-11-11T17:06:48Z
-14.55.141.2,KR,South Korea,4766,Korea Telecom,scan:4;ssh:10,14,2026-11-16T07:43:54Z,2026-11-16T07:44:08Z,2026-11-16T08:25:14Z
+14.55.141.2,KR,South Korea,4766,Korea Telecom,scan:2;ssh:5,7,2026-11-16T07:43:54Z,2026-11-16T07:44:08Z,2026-11-16T08:25:14Z
 61.74.103.25,KR,South Korea,4766,Korea Telecom,exploit:2;scan:2,7,2026-11-11T13:55:04Z,2026-11-12T04:41:01Z,not reported (permanent ban)
 119.195.45.76,KR,South Korea,4766,Korea Telecom,scan:1;ssh:9,10,2026-11-11T11:11:54Z,2026-11-11T11:12:40Z,2026-11-11T17:06:02Z
 121.132.116.156,KR,South Korea,4766,Korea Telecom,ssh:5,5,2026-11-11T08:20:31Z,2026-11-11T08:20:43Z,2026-11-11T17:06:02Z
@@ -2256,7 +2260,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 101.36.114.252,KR,South Korea,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:4,8,2026-11-12T11:27:46Z,2026-11-14T21:39:28Z,not reported (permanent ban)
 118.193.69.177,KR,South Korea,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:6;scan:8,16,2026-11-12T09:36:15Z,2026-11-15T18:58:36Z,not reported (permanent ban)
 123.58.200.147,KR,South Korea,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:8,15,2026-11-11T10:37:25Z,2026-11-16T09:59:08Z,not reported (permanent ban)
-8.230.28.93,KR,South Korea,396982,Google LLC,waf:22;web:426,448,2026-11-16T16:41:15Z,2026-11-16T16:41:39Z,2026-11-16T18:27:25Z
+8.230.28.93,KR,South Korea,396982,Google LLC,waf:11;web:213,224,2026-11-16T16:41:15Z,2026-11-16T16:41:39Z,2026-11-16T18:27:25Z
 34.158.206.112,KR,South Korea,396982,Google LLC,waf:30;web:515,545,2026-11-11T10:07:50Z,2026-11-11T10:08:59Z,2026-11-11T21:10:14Z
 199.189.253.30,KZ,Kazakhstan,205431,HostLab LLC,scan:10,16,2026-11-12T11:36:47Z,2026-11-15T13:43:35Z,not reported (permanent ban)
 178.20.210.151,KZ,Kazakhstan,210006,Shereverov Marat Ahmedovich,c2:10;scan:299,326,2026-11-11T09:59:53Z,2026-11-16T22:23:56Z,not reported (permanent ban)
@@ -2267,10 +2271,10 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 185.136.15.90,KZ,Kazakhstan,210328,AO ALMAZ,scan:134,154,2026-11-11T16:56:55Z,2026-11-15T12:46:30Z,not reported (permanent ban)
 185.136.15.110,KZ,Kazakhstan,210328,AO ALMAZ,c2:4;scan:25,32,2026-11-11T15:08:42Z,2026-11-16T22:34:02Z,not reported (permanent ban)
 185.136.15.111,KZ,Kazakhstan,210328,AO ALMAZ,c2:4;scan:32,37,2026-11-11T15:03:47Z,2026-11-15T01:47:38Z,not reported (permanent ban)
-91.224.92.45,LT,Lithuania,209605,UAB Host Baltic,spamhaus:465,465,2026-11-11T10:23:09Z,2026-11-16T23:24:21Z,2026-11-11T16:35:12Z
+91.224.92.45,LT,Lithuania,209605,UAB Host Baltic,spamhaus:445,445,2026-11-11T10:23:09Z,2026-11-17T00:19:31Z,2026-11-11T16:35:12Z
 91.224.92.52,LT,Lithuania,209605,UAB Host Baltic,scan:425,470,2026-11-11T20:58:50Z,2026-11-16T23:15:12Z,not reported (permanent ban)
 141.98.9.26,LT,Lithuania,209605,UAB Host Baltic,c2:3,4,2026-11-12T07:01:06Z,2026-11-12T21:24:03Z,not reported (permanent ban)
-141.98.11.96,LT,Lithuania,209605,UAB Host Baltic,scan:169,186,2026-11-11T09:49:51Z,2026-11-16T22:38:19Z,not reported (permanent ban)
+141.98.11.96,LT,Lithuania,209605,UAB Host Baltic,scan:171,188,2026-11-11T09:49:51Z,2026-11-17T00:17:08Z,not reported (permanent ban)
 141.98.11.129,LT,Lithuania,209605,UAB Host Baltic,c2:1;scan:143,149,2026-11-11T10:18:23Z,2026-11-16T18:57:37Z,not reported (permanent ban)
 141.98.11.215,LT,Lithuania,209605,UAB Host Baltic,c2:3;scan:18,22,2026-11-11T11:26:00Z,2026-11-16T20:02:58Z,not reported (permanent ban)
 185.36.81.23,LT,Lithuania,209605,UAB Host Baltic,scan:15,17,2026-11-11T15:00:37Z,2026-11-14T21:56:40Z,not reported (permanent ban)
@@ -2305,7 +2309,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 165.154.11.247,NG,Nigeria,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:10;scan:21,32,2026-11-12T10:56:04Z,2026-11-16T06:29:07Z,not reported (permanent ban)
 165.154.176.251,NG,Nigeria,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,scan:16,23,2026-11-12T16:09:16Z,2026-11-16T01:20:31Z,not reported (permanent ban)
 4.180.183.247,NL,The Netherlands,8075,Microsoft Corporation,scan:2;ssh:9,11,2026-11-12T13:57:33Z,2026-11-12T14:03:00Z,2026-11-12T16:24:35Z
-4.231.98.231,NL,The Netherlands,8075,Microsoft Corporation,web:9,9,2026-11-13T13:57:40Z,2026-11-16T11:58:42Z,2026-11-13T22:23:51Z
+4.231.98.231,NL,The Netherlands,8075,Microsoft Corporation,web:8,8,2026-11-13T13:57:40Z,2026-11-16T11:58:42Z,2026-11-13T22:23:51Z
 51.15.51.245,NL,The Netherlands,12876,Scaleway SAS,waf:16;web:6,22,2026-11-11T14:13:13Z,2026-11-11T14:13:13Z,2026-11-11T17:07:21Z
 51.158.145.37,NL,The Netherlands,12876,Scaleway SAS,scan:16,22,2026-11-11T10:29:59Z,2026-11-13T21:42:17Z,not reported (permanent ban)
 51.158.205.203,NL,The Netherlands,12876,Scaleway SAS,c2:19;scan:141,162,2026-11-11T10:42:15Z,2026-11-16T22:21:10Z,not reported (permanent ban)
@@ -2414,7 +2418,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 89.21.67.154,NL,The Netherlands,25369,Hydra Communications Ltd,c2:15;scan:36,52,2026-11-11T12:03:29Z,2026-11-16T15:19:13Z,not reported (permanent ban)
 89.21.67.155,NL,The Netherlands,25369,Hydra Communications Ltd,c2:3;scan:8,13,2026-11-12T07:47:11Z,2026-11-13T02:47:01Z,not reported (permanent ban)
 89.21.67.156,NL,The Netherlands,25369,Hydra Communications Ltd,c2:5;scan:14,20,2026-11-11T11:03:55Z,2026-11-14T02:50:12Z,not reported (permanent ban)
-89.21.67.157,NL,The Netherlands,25369,Hydra Communications Ltd,c2:8;scan:22,31,2026-11-12T04:44:21Z,2026-11-15T20:21:14Z,not reported (permanent ban)
+89.21.67.157,NL,The Netherlands,25369,Hydra Communications Ltd,c2:9;scan:23,33,2026-11-12T04:44:21Z,2026-11-17T00:17:11Z,not reported (permanent ban)
 89.21.67.158,NL,The Netherlands,25369,Hydra Communications Ltd,c2:14;scan:41,56,2026-11-11T14:52:10Z,2026-11-16T17:43:27Z,not reported (permanent ban)
 89.21.67.159,NL,The Netherlands,25369,Hydra Communications Ltd,c2:15;scan:35,51,2026-11-11T11:35:50Z,2026-11-16T08:42:25Z,not reported (permanent ban)
 89.21.67.160,NL,The Netherlands,25369,Hydra Communications Ltd,c2:12;scan:35,48,2026-11-11T12:06:01Z,2026-11-16T15:22:41Z,not reported (permanent ban)
@@ -2492,7 +2496,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 193.176.31.197,NL,The Netherlands,25369,Hydra Communications Ltd,c2:3;scan:9,14,2026-11-12T04:30:58Z,2026-11-13T00:25:02Z,not reported (permanent ban)
 193.176.31.198,NL,The Netherlands,25369,Hydra Communications Ltd,c2:5;scan:13,19,2026-11-12T05:21:27Z,2026-11-14T01:42:38Z,not reported (permanent ban)
 193.176.31.199,NL,The Netherlands,25369,Hydra Communications Ltd,c2:13;scan:37,51,2026-11-11T10:58:39Z,2026-11-16T16:48:36Z,not reported (permanent ban)
-193.176.31.201,NL,The Netherlands,25369,Hydra Communications Ltd,c2:12;scan:31,44,2026-11-11T14:55:59Z,2026-11-16T16:20:58Z,not reported (permanent ban)
+193.176.31.201,NL,The Netherlands,25369,Hydra Communications Ltd,c2:13;scan:32,46,2026-11-11T14:55:59Z,2026-11-17T00:02:57Z,not reported (permanent ban)
 193.176.31.202,NL,The Netherlands,25369,Hydra Communications Ltd,c2:5;scan:18,24,2026-11-12T05:00:33Z,2026-11-13T21:00:55Z,not reported (permanent ban)
 193.176.31.203,NL,The Netherlands,25369,Hydra Communications Ltd,c2:14;scan:37,52,2026-11-11T10:57:32Z,2026-11-16T19:36:46Z,not reported (permanent ban)
 193.176.31.204,NL,The Netherlands,25369,Hydra Communications Ltd,c2:16;scan:35,52,2026-11-11T13:41:45Z,2026-11-16T23:10:36Z,not reported (permanent ban)
@@ -2518,7 +2522,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 193.176.31.226,NL,The Netherlands,25369,Hydra Communications Ltd,c2:5;scan:13,19,2026-11-11T15:25:12Z,2026-11-14T02:52:57Z,not reported (permanent ban)
 193.176.31.227,NL,The Netherlands,25369,Hydra Communications Ltd,c2:8;scan:21,30,2026-11-14T04:01:43Z,2026-11-16T18:39:49Z,not reported (permanent ban)
 193.176.31.228,NL,The Netherlands,25369,Hydra Communications Ltd,c2:12;scan:32,45,2026-11-11T13:06:14Z,2026-11-16T12:04:39Z,not reported (permanent ban)
-193.176.31.230,NL,The Netherlands,25369,Hydra Communications Ltd,c2:5;scan:22,29,2026-11-12T05:24:08Z,2026-11-16T15:22:16Z,not reported (permanent ban)
+193.176.31.230,NL,The Netherlands,25369,Hydra Communications Ltd,c2:6;scan:23,31,2026-11-12T05:24:08Z,2026-11-17T00:01:25Z,not reported (permanent ban)
 193.176.31.231,NL,The Netherlands,25369,Hydra Communications Ltd,c2:6;scan:16,23,2026-11-12T05:27:36Z,2026-11-14T03:08:41Z,not reported (permanent ban)
 193.176.31.232,NL,The Netherlands,25369,Hydra Communications Ltd,c2:14;scan:35,50,2026-11-11T18:50:17Z,2026-11-16T20:03:16Z,not reported (permanent ban)
 193.176.31.233,NL,The Netherlands,25369,Hydra Communications Ltd,c2:13;scan:29,44,2026-11-12T08:20:35Z,2026-11-16T21:48:59Z,not reported (permanent ban)
@@ -2557,7 +2561,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 138.226.239.22,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,scan:63,69,2026-11-13T08:48:57Z,2026-11-15T23:12:40Z,not reported (permanent ban)
 138.226.239.34,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,c2:17;scan:491,553,2026-11-11T09:32:53Z,2026-11-16T18:21:07Z,not reported (permanent ban)
 138.226.239.56,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,scan:1,2,2026-11-15T09:27:51Z,2026-11-16T06:18:03Z,not reported (permanent ban)
-138.226.239.66,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,c2:11;scan:360,425,2026-11-13T13:44:02Z,2026-11-16T23:15:41Z,not reported (permanent ban)
+138.226.239.66,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,c2:11;scan:361,426,2026-11-13T13:44:02Z,2026-11-17T00:15:58Z,not reported (permanent ban)
 138.226.239.90,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,c2:4;scan:59,66,2026-11-11T15:05:35Z,2026-11-15T00:04:45Z,not reported (permanent ban)
 138.226.239.91,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,c2:4;scan:31,36,2026-11-11T15:01:35Z,2026-11-15T00:06:47Z,not reported (permanent ban)
 138.226.239.233,NL,The Netherlands,44589,DIGITAL NETWORK S.R.L.,c2:11;scan:1383;ssh:124,1567,2026-11-11T21:38:13Z,2026-11-16T05:24:25Z,not reported (permanent ban)
@@ -2625,29 +2629,29 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 172.235.181.217,NL,The Netherlands,63949,"Akamai Technologies, Inc.",c2:3;scan:35,40,2026-11-14T08:19:11Z,2026-11-16T06:23:20Z,not reported (permanent ban)
 172.235.181.226,NL,The Netherlands,63949,"Akamai Technologies, Inc.",c2:4;scan:28,34,2026-11-11T14:58:22Z,2026-11-16T04:59:21Z,not reported (permanent ban)
 45.153.34.32,NL,The Netherlands,197170,TechTies Inc.,scan:72,73,2026-11-11T13:02:07Z,2026-11-16T22:50:54Z,not reported (permanent ban)
-45.153.34.87,NL,The Netherlands,197170,TechTies Inc.,scan:72,73,2026-11-11T10:09:23Z,2026-11-16T20:01:05Z,not reported (permanent ban)
+45.153.34.87,NL,The Netherlands,197170,TechTies Inc.,scan:73,74,2026-11-11T10:09:23Z,2026-11-17T00:05:43Z,not reported (permanent ban)
 45.156.87.10,NL,The Netherlands,197170,TechTies Inc.,scan:16,18,2026-11-11T19:01:20Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 45.156.87.50,NL,The Netherlands,197170,TechTies Inc.,ssh:25,25,2026-11-11T18:22:22Z,2026-11-12T03:52:57Z,2026-11-11T22:20:44Z
 45.156.87.72,NL,The Netherlands,197170,TechTies Inc.,ssh:17,17,2026-11-11T18:23:26Z,2026-11-12T01:10:46Z,2026-11-11T21:10:00Z
 45.156.87.78,NL,The Netherlands,197170,TechTies Inc.,ssh:6,6,2026-11-14T06:07:36Z,2026-11-14T08:14:22Z,2026-11-14T08:29:15Z
 45.156.87.119,NL,The Netherlands,197170,TechTies Inc.,scan:10,10,2026-11-13T17:40:25Z,2026-11-14T18:30:47Z,not reported (permanent ban)
 45.156.87.127,NL,The Netherlands,197170,TechTies Inc.,scan:76,77,2026-11-11T13:59:15Z,2026-11-16T20:48:19Z,not reported (permanent ban)
-45.156.87.153,NL,The Netherlands,197170,TechTies Inc.,scan:2;ssh:14,16,2026-11-11T18:03:00Z,2026-11-16T12:16:11Z,2026-11-11T21:10:00Z
+45.156.87.153,NL,The Netherlands,197170,TechTies Inc.,scan:1;ssh:14,15,2026-11-11T18:03:00Z,2026-11-16T12:16:11Z,2026-11-11T21:10:00Z
 45.156.87.168,NL,The Netherlands,197170,TechTies Inc.,ssh:27,27,2026-11-11T19:02:34Z,2026-11-12T01:37:24Z,2026-11-11T21:10:00Z
 45.156.87.189,NL,The Netherlands,197170,TechTies Inc.,ssh:10,10,2026-11-10T15:56:29Z,2026-11-12T21:22:13Z,2026-11-12T22:29:00Z
-85.11.167.7,NL,The Netherlands,197170,TechTies Inc.,scan:201;spamhaus:358,559,2026-11-11T09:43:19Z,2026-11-16T23:13:31Z,2026-11-11T16:34:40Z
+85.11.167.7,NL,The Netherlands,197170,TechTies Inc.,scan:174;spamhaus:301,475,2026-11-11T09:43:19Z,2026-11-17T00:08:36Z,2026-11-11T16:34:40Z
 85.11.167.37,NL,The Netherlands,197170,TechTies Inc.,c2:8;scan:18,27,2026-11-11T13:03:06Z,2026-11-16T22:51:47Z,not reported (permanent ban)
 85.11.167.72,NL,The Netherlands,197170,TechTies Inc.,scan:3;spamhaus:5;ssh:12,20,2026-11-12T20:50:13Z,2026-11-14T12:52:00Z,2026-11-14T08:29:15Z
-85.11.167.192,NL,The Netherlands,197170,TechTies Inc.,scan:87;web:1,92,2026-11-11T01:01:22Z,2026-11-16T18:02:53Z,not reported (permanent ban)
-85.11.167.204,NL,The Netherlands,197170,TechTies Inc.,spamhaus:25;web:11,36,2026-11-09T20:24:33Z,2026-11-16T18:38:19Z,2026-11-11T17:07:35Z
-91.92.40.12,NL,The Netherlands,197170,TechTies Inc.,c2:549;exploit:23;spamhaus:83,655,2026-11-11T09:47:10Z,2026-11-16T23:23:13Z,2026-11-11T16:34:40Z
+85.11.167.192,NL,The Netherlands,197170,TechTies Inc.,scan:88;web:1,93,2026-11-11T01:01:22Z,2026-11-17T00:10:20Z,not reported (permanent ban)
+85.11.167.204,NL,The Netherlands,197170,TechTies Inc.,spamhaus:24;web:11,35,2026-11-09T20:24:33Z,2026-11-16T18:38:19Z,2026-11-11T17:07:35Z
+91.92.40.12,NL,The Netherlands,197170,TechTies Inc.,c2:526;exploit:17;spamhaus:44,587,2026-11-11T09:47:10Z,2026-11-17T00:07:46Z,2026-11-11T16:34:40Z
 91.92.47.5,NL,The Netherlands,197170,TechTies Inc.,web:8,8,2026-11-11T23:06:24Z,2026-11-12T10:14:53Z,2026-11-12T04:24:02Z
 176.65.132.39,NL,The Netherlands,197170,TechTies Inc.,scan:21,24,2026-11-11T13:28:03Z,2026-11-16T13:25:26Z,not reported (permanent ban)
 176.65.132.107,NL,The Netherlands,197170,TechTies Inc.,c2:1;scan:9,12,2026-11-11T10:17:59Z,2026-11-16T17:32:01Z,not reported (permanent ban)
 176.65.132.251,NL,The Netherlands,197170,TechTies Inc.,scan:72,74,2026-11-11T12:14:16Z,2026-11-16T10:23:13Z,not reported (permanent ban)
 109.160.32.34,NL,The Netherlands,198364,BANATSYNC SRL,scan:62;ssh:24,86,2026-11-14T22:36:52Z,2026-11-15T00:39:39Z,2026-11-15T02:25:44Z
 109.160.32.37,NL,The Netherlands,198364,BANATSYNC SRL,c2:2;scan:42,45,2026-11-11T23:04:02Z,2026-11-14T21:56:54Z,not reported (permanent ban)
-109.160.32.40,NL,The Netherlands,198364,BANATSYNC SRL,scan:96;spamhaus:1;ssh:18,115,2026-11-12T04:52:33Z,2026-11-16T18:16:43Z,2026-11-16T18:27:30Z
+109.160.32.40,NL,The Netherlands,198364,BANATSYNC SRL,scan:48;spamhaus:1;ssh:9,58,2026-11-12T04:52:33Z,2026-11-16T18:16:43Z,2026-11-16T18:27:30Z
 109.160.32.47,NL,The Netherlands,198364,BANATSYNC SRL,scan:53;spamhaus:2;ssh:16,71,2026-11-11T23:42:57Z,2026-11-14T10:24:25Z,2026-11-14T12:28:09Z
 109.160.32.108,NL,The Netherlands,198364,BANATSYNC SRL,scan:54;ssh:20,74,2026-11-15T18:15:52Z,2026-11-15T20:00:40Z,2026-11-15T18:25:28Z
 109.160.32.118,NL,The Netherlands,198364,BANATSYNC SRL,scan:50;ssh:23,73,2026-11-09T23:32:54Z,2026-11-14T13:58:42Z,2026-11-11T17:06:12Z
@@ -2657,17 +2661,17 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 109.160.32.139,NL,The Netherlands,198364,BANATSYNC SRL,scan:2;spamhaus:1;ssh:27,30,2026-11-10T20:24:18Z,2026-11-12T22:34:33Z,2026-11-11T17:06:12Z
 109.160.32.141,NL,The Netherlands,198364,BANATSYNC SRL,scan:58;ssh:25,83,2026-11-14T21:00:51Z,2026-11-14T22:53:52Z,2026-11-14T22:28:39Z
 109.160.32.142,NL,The Netherlands,198364,BANATSYNC SRL,ssh:20,20,2026-11-10T18:52:03Z,2026-11-10T20:22:56Z,2026-11-11T16:35:07Z
-109.160.32.145,NL,The Netherlands,198364,BANATSYNC SRL,scan:114;ssh:16,130,2026-11-16T07:23:08Z,2026-11-16T09:13:57Z,2026-11-16T08:25:09Z
+109.160.32.145,NL,The Netherlands,198364,BANATSYNC SRL,scan:57;ssh:8,65,2026-11-16T07:23:08Z,2026-11-16T09:13:57Z,2026-11-16T08:25:09Z
 109.160.32.153,NL,The Netherlands,198364,BANATSYNC SRL,scan:38;spamhaus:2;ssh:21,61,2026-11-11T19:00:18Z,2026-11-11T20:14:38Z,2026-11-11T21:09:46Z
-109.160.32.159,NL,The Netherlands,198364,BANATSYNC SRL,scan:97;spamhaus:1;ssh:14,112,2026-11-13T01:38:48Z,2026-11-16T10:46:31Z,2026-11-16T10:24:58Z
+109.160.32.159,NL,The Netherlands,198364,BANATSYNC SRL,scan:49;spamhaus:1;ssh:7,57,2026-11-13T01:38:48Z,2026-11-16T10:46:31Z,2026-11-16T10:24:58Z
 109.160.32.166,NL,The Netherlands,198364,BANATSYNC SRL,c2:2;scan:53,56,2026-11-12T19:14:13Z,2026-11-16T05:18:05Z,not reported (permanent ban)
 109.160.32.167,NL,The Netherlands,198364,BANATSYNC SRL,scan:54;ssh:24,78,2026-11-15T22:12:50Z,2026-11-15T23:57:49Z,2026-11-16T00:25:27Z
 109.160.32.168,NL,The Netherlands,198364,BANATSYNC SRL,c2:2;scan:101,104,2026-11-14T07:01:08Z,2026-11-15T13:19:25Z,not reported (permanent ban)
 109.160.32.170,NL,The Netherlands,198364,BANATSYNC SRL,scan:70;spamhaus:1;ssh:14,85,2026-11-12T02:15:42Z,2026-11-15T04:07:00Z,2026-11-15T02:25:44Z
-109.160.32.173,NL,The Netherlands,198364,BANATSYNC SRL,scan:154;ssh:10,164,2026-11-16T04:46:17Z,2026-11-16T07:17:26Z,2026-11-16T06:25:17Z
+109.160.32.173,NL,The Netherlands,198364,BANATSYNC SRL,scan:77;ssh:5,82,2026-11-16T04:46:17Z,2026-11-16T07:17:26Z,2026-11-16T06:25:17Z
 109.160.32.175,NL,The Netherlands,198364,BANATSYNC SRL,scan:80;ssh:22,102,2026-11-15T10:09:46Z,2026-11-15T12:46:56Z,2026-11-15T10:25:15Z
 109.160.32.177,NL,The Netherlands,198364,BANATSYNC SRL,c2:2;scan:54,57,2026-11-15T13:17:00Z,2026-11-16T05:18:21Z,not reported (permanent ban)
-109.160.32.179,NL,The Netherlands,198364,BANATSYNC SRL,scan:100;ssh:48,148,2026-11-16T02:05:14Z,2026-11-16T03:43:52Z,2026-11-16T02:24:58Z
+109.160.32.179,NL,The Netherlands,198364,BANATSYNC SRL,scan:50;ssh:24,74,2026-11-16T02:05:14Z,2026-11-16T03:43:52Z,2026-11-16T02:24:58Z
 81.22.132.64,NL,The Netherlands,199058,SERVA ONE LTD,c2:3;scan:18,26,2026-11-11T11:02:52Z,2026-11-16T12:20:55Z,not reported (permanent ban)
 45.115.26.137,NL,The Netherlands,199457,SolidCore Hosting LTD,scan:57,67,2026-11-14T04:42:15Z,2026-11-16T22:09:18Z,not reported (permanent ban)
 31.14.32.4,NL,The Netherlands,201401,NewVM B.V.,c2:3;scan:16,20,2026-11-14T04:32:24Z,2026-11-15T09:38:39Z,not reported (permanent ban)
@@ -2688,7 +2692,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 185.242.226.58,NL,The Netherlands,202425,IP Volume inc,c2:5;scan:28,39,2026-11-11T22:01:56Z,2026-11-16T13:05:04Z,not reported (permanent ban)
 185.242.226.60,NL,The Netherlands,202425,IP Volume inc,c2:3;scan:13,19,2026-11-13T05:06:39Z,2026-11-14T02:11:17Z,not reported (permanent ban)
 185.242.226.61,NL,The Netherlands,202425,IP Volume inc,c2:4;scan:26,34,2026-11-11T14:17:30Z,2026-11-13T10:39:42Z,not reported (permanent ban)
-185.242.226.64,NL,The Netherlands,202425,IP Volume inc,scan:29,40,2026-11-13T19:03:49Z,2026-11-16T21:55:27Z,not reported (permanent ban)
+185.242.226.64,NL,The Netherlands,202425,IP Volume inc,scan:30,41,2026-11-13T19:03:49Z,2026-11-17T00:11:55Z,not reported (permanent ban)
 185.242.226.67,NL,The Netherlands,202425,IP Volume inc,scan:40,52,2026-11-11T11:50:57Z,2026-11-16T18:39:13Z,not reported (permanent ban)
 185.242.226.68,NL,The Netherlands,202425,IP Volume inc,scan:103,127,2026-11-12T03:37:19Z,2026-11-16T17:54:12Z,not reported (permanent ban)
 185.242.226.72,NL,The Netherlands,202425,IP Volume inc,c2:7;scan:47,61,2026-11-12T00:00:39Z,2026-11-16T22:05:22Z,not reported (permanent ban)
@@ -2703,7 +2707,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 31.57.34.150,NL,The Netherlands,207994,Blockchain Creek B.V.,exploit:12;waf:32,44,2026-11-13T15:58:19Z,2026-11-13T15:59:25Z,2026-11-13T18:25:18Z
 213.177.179.12,NL,The Netherlands,208137,Feo Prest SRL,scan:19,21,2026-11-13T14:57:44Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 45.92.1.25,NL,The Netherlands,210558,1337 Services GmbH,web:16,16,2026-11-10T17:52:48Z,2026-11-10T17:52:49Z,2026-11-11T17:07:40Z
-45.94.31.201,NL,The Netherlands,210558,1337 Services GmbH,exploit:4;scan:6;spamhaus:2;waf:20,32,2026-11-16T06:31:38Z,2026-11-16T06:32:26Z,2026-11-16T08:25:00Z
+45.94.31.201,NL,The Netherlands,210558,1337 Services GmbH,exploit:2;scan:3;spamhaus:1;waf:10,16,2026-11-16T06:31:38Z,2026-11-16T06:32:26Z,2026-11-16T08:25:00Z
 194.26.192.113,NL,The Netherlands,210558,1337 Services GmbH,c2:5;scan:9,21,2026-11-11T20:27:44Z,2026-11-15T03:07:06Z,not reported (permanent ban)
 45.156.128.51,NL,The Netherlands,211680,"NSEC - Sistemas Informaticos, S.A.",c2:3;scan:5,9,2026-11-11T09:57:28Z,2026-11-16T01:32:04Z,not reported (permanent ban)
 45.156.128.52,NL,The Netherlands,211680,"NSEC - Sistemas Informaticos, S.A.",c2:4;scan:5,10,2026-11-14T03:06:38Z,2026-11-16T09:40:49Z,not reported (permanent ban)
@@ -2756,7 +2760,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 46.34.3.216,NL,The Netherlands,214677,Matteo Martelloni trading as DELUXHOST,scan:50,61,2026-11-11T15:09:58Z,2026-11-16T14:13:42Z,not reported (permanent ban)
 46.34.3.217,NL,The Netherlands,214677,Matteo Martelloni trading as DELUXHOST,scan:95,108,2026-11-11T10:40:05Z,2026-11-16T08:34:17Z,not reported (permanent ban)
 195.206.234.19,NL,The Netherlands,214677,Matteo Martelloni trading as DELUXHOST,scan:35,42,2026-11-11T10:12:07Z,2026-11-14T21:56:54Z,not reported (permanent ban)
-45.74.28.2,NL,The Netherlands,219326,SULAVI LTD,spamhaus:290,290,2026-11-11T10:46:14Z,2026-11-16T22:52:13Z,2026-11-11T16:35:21Z
+45.74.28.2,NL,The Netherlands,219326,SULAVI LTD,spamhaus:265,265,2026-11-11T10:46:14Z,2026-11-17T00:26:16Z,2026-11-11T16:35:21Z
 45.204.146.31,NL,The Netherlands,219502,Storm Industries LLC,scan:106;web:1,123,2026-11-14T03:39:51Z,2026-11-16T23:13:44Z,not reported (permanent ban)
 45.204.146.203,NL,The Netherlands,219502,Storm Industries LLC,scan:81,106,2026-11-14T03:56:53Z,2026-11-16T22:55:34Z,not reported (permanent ban)
 34.7.135.227,NL,The Netherlands,396982,Google LLC,waf:22;web:196,218,2026-11-13T01:17:36Z,2026-11-13T01:17:50Z,2026-11-13T02:31:22Z
@@ -2766,18 +2770,18 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 217.60.76.26,NL,The Netherlands,401626,"Netiface America, Inc.",scan:15,21,2026-11-11T18:34:41Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 185.12.59.118,NO,Norway,50304,Blix Solutions AS,c2:15;scan:133;web:2,164,2026-11-10T13:16:58Z,2026-11-16T05:16:11Z,not reported (permanent ban)
 8.220.180.66,PH,Philippines,45102,"Alibaba (US) Technology Co., Ltd.",scan:4;ssh:5,9,2026-11-12T00:31:20Z,2026-11-12T00:37:22Z,2026-11-12T02:25:38Z
-118.194.238.196,PH,Philippines,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:6;scan:18,27,2026-11-11T17:21:40Z,2026-11-15T22:45:30Z,not reported (permanent ban)
+118.194.238.196,PH,Philippines,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:7;scan:19,29,2026-11-11T17:21:40Z,2026-11-17T00:08:01Z,not reported (permanent ban)
 165.154.33.91,PH,Philippines,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:8,14,2026-11-12T03:03:02Z,2026-11-16T17:37:51Z,not reported (permanent ban)
 165.154.59.90,PH,Philippines,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:6,12,2026-11-13T22:06:59Z,2026-11-16T18:31:03Z,not reported (permanent ban)
 165.154.59.168,PH,Philippines,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:7,12,2026-11-12T04:05:57Z,2026-11-16T21:27:27Z,not reported (permanent ban)
 154.18.197.29,PH,Philippines,142271,DoubleSquare Networks Inc.,ssh:1064,1064,2026-11-09T20:03:14Z,2026-11-10T12:12:37Z,2026-11-11T16:34:54Z
 101.53.235.246,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:1;web:1,2,2026-11-11T10:06:36Z,2026-11-11T10:06:36Z,2026-11-11T17:05:35Z
 124.29.224.7,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:2;scan:1,3,2026-11-12T16:54:01Z,2026-11-12T16:54:01Z,2026-11-12T18:28:23Z
-124.29.224.86,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:2;web:2,4,2026-11-16T05:34:25Z,2026-11-16T05:34:26Z,2026-11-16T08:25:05Z
+124.29.224.86,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:1;web:1,2,2026-11-16T05:34:25Z,2026-11-16T05:34:26Z,2026-11-16T08:25:05Z
 153.117.33.154,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:1;web:1,2,2026-11-13T06:11:52Z,2026-11-13T06:11:52Z,2026-11-13T08:25:17Z
 153.117.56.82,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:1,1,2026-11-14T15:41:03Z,2026-11-14T15:41:03Z,2026-11-14T16:26:14Z
 153.117.56.102,PK,Pakistan,9541,Cyber Internet Services (Private) Limited,exploit:2;scan:1,3,2026-11-13T01:22:54Z,2026-11-13T01:22:54Z,2026-11-13T02:31:37Z
-182.188.24.243,PK,Pakistan,17557,Pakistan Telecommuication company limited,ssh:13,13,2026-11-15T04:24:22Z,2026-11-16T12:11:31Z,2026-11-15T16:25:20Z
+182.188.24.243,PK,Pakistan,17557,Pakistan Telecommuication company limited,ssh:12,12,2026-11-15T04:24:22Z,2026-11-17T00:06:33Z,2026-11-15T16:25:20Z
 202.141.230.214,PK,Pakistan,135523,Multinet Broadband,c2:6;scan:8,15,2026-11-12T02:49:57Z,2026-11-15T07:01:14Z,not reported (permanent ban)
 223.123.34.161,PK,Pakistan,138423,CMPak Limited,exploit:1,1,2026-11-15T12:01:10Z,2026-11-15T12:01:10Z,2026-11-15T12:25:02Z
 103.66.148.82,PK,Pakistan,142647,Nasstec Airnet Networks Private Limited,c2:3;scan:3,7,2026-11-13T20:53:48Z,2026-11-16T03:56:04Z,not reported (permanent ban)
@@ -2788,7 +2792,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 51.38.135.55,PL,Poland,16276,OVH SAS,c2:2;scan:8,13,2026-11-11T11:34:50Z,2026-11-13T05:42:11Z,not reported (permanent ban)
 57.128.239.181,PL,Poland,16276,OVH SAS,c2:3;scan:3,7,2026-11-15T11:55:41Z,2026-11-16T05:44:03Z,not reported (permanent ban)
 95.214.53.157,PL,Poland,201814,MEVSPACE sp. z o.o.,scan:324,385,2026-11-11T10:49:33Z,2026-11-16T19:11:02Z,not reported (permanent ban)
-195.3.220.7,PL,Poland,201814,MEVSPACE sp. z o.o.,ssh:22,22,2026-11-16T12:05:39Z,2026-11-16T21:35:51Z,2026-11-16T18:27:34Z
+195.3.220.7,PL,Poland,201814,MEVSPACE sp. z o.o.,ssh:11,11,2026-11-16T12:05:39Z,2026-11-16T21:35:51Z,2026-11-16T18:27:34Z
 89.248.172.9,PL,Poland,202425,IP Volume inc,scan:152,182,2026-11-12T03:53:45Z,2026-11-16T23:12:53Z,not reported (permanent ban)
 89.248.172.10,PL,Poland,202425,IP Volume inc,scan:242,278,2026-11-12T03:46:08Z,2026-11-16T22:34:58Z,not reported (permanent ban)
 89.248.172.11,PL,Poland,202425,IP Volume inc,c2:3;web:3,7,2026-11-11T16:27:43Z,2026-11-16T07:07:04Z,not reported (permanent ban)
@@ -2800,7 +2804,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 81.181.129.218,RO,Romania,39383,Annarsy SRL,scan:1;ssh:10,11,2026-11-11T17:20:12Z,2026-11-11T17:20:50Z,2026-11-11T21:10:06Z
 185.100.87.24,RO,Romania,200651,FlokiNET ehf,scan:3;ssh:1,14,2026-11-16T18:08:51Z,2026-11-16T18:11:03Z,not reported (permanent ban)
 185.100.87.136,RO,Romania,200651,FlokiNET ehf,c2:5;scan:106,114,2026-11-12T03:50:25Z,2026-11-16T23:17:14Z,not reported (permanent ban)
-141.98.83.48,RO,Romania,209588,Flyservers S.A.,c2:13;scan:197,262,2026-11-11T09:46:40Z,2026-11-16T17:37:03Z,not reported (permanent ban)
+141.98.83.48,RO,Romania,209588,Flyservers S.A.,c2:14;scan:199,265,2026-11-11T09:46:40Z,2026-11-17T00:10:26Z,not reported (permanent ban)
 141.98.103.251,RS,Serbia,9009,M247 Europe SRL,web:24,24,2026-11-14T16:29:03Z,2026-11-14T16:29:07Z,2026-11-14T18:25:28Z
 78.107.31.154,RU,Russia,8402,"PJSC ""Vimpelcom""",c2:7;scan:11,19,2026-11-11T20:58:31Z,2026-11-15T18:09:33Z,not reported (permanent ban)
 90.151.171.109,RU,Russia,12389,PJSC Rostelecom,scan:24,37,2026-11-13T08:13:20Z,2026-11-16T17:57:41Z,not reported (permanent ban)
@@ -2809,7 +2813,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 31.184.195.248,RU,Russia,34665,Petersburg Internet Network ltd.,scan:44;web:2,62,2026-11-11T10:03:39Z,2026-11-16T22:15:42Z,not reported (permanent ban)
 85.140.87.16,RU,Russia,39001,MTS PJSC,exploit:1,1,2026-11-14T19:08:43Z,2026-11-14T19:08:43Z,2026-11-14T20:26:32Z
 46.180.150.230,RU,Russia,39927,E-Light-Telecom Ltd.,udp:2,2,2026-11-11T10:36:01Z,2026-11-11T16:07:52Z,2026-11-11T16:34:50Z
-185.94.111.1,RU,Russia,51115,HLL LLC,c2:18;exploit:7;scan:214,263,2026-11-11T09:36:39Z,2026-11-16T22:56:14Z,not reported (permanent ban)
+185.94.111.1,RU,Russia,51115,HLL LLC,c2:19;exploit:7;scan:215,265,2026-11-11T09:36:39Z,2026-11-17T00:13:07Z,not reported (permanent ban)
 31.132.169.138,RU,Russia,57044,"JSC ""ER-Telecom Holding""",c2:7;scan:12,20,2026-11-13T23:27:02Z,2026-11-16T10:29:52Z,not reported (permanent ban)
 212.103.118.144,RU,Russia,57044,"JSC ""ER-Telecom Holding""",c2:8;scan:12,21,2026-11-11T17:25:43Z,2026-11-15T21:38:55Z,not reported (permanent ban)
 128.1.46.183,RU,Russia,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:5;scan:7,14,2026-11-12T15:26:36Z,2026-11-16T15:25:19Z,not reported (permanent ban)
@@ -2825,7 +2829,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 79.124.62.10,SC,Seychelles,207812,DM AUTO EOOD,c2:8;scan:31,47,2026-11-11T16:23:39Z,2026-11-16T07:27:10Z,not reported (permanent ban)
 79.124.62.126,SC,Seychelles,207812,DM AUTO EOOD,scan:48,56,2026-11-11T15:30:36Z,2026-11-16T15:39:19Z,not reported (permanent ban)
 79.124.62.134,SC,Seychelles,207812,DM AUTO EOOD,scan:41,47,2026-11-11T11:21:11Z,2026-11-16T13:13:15Z,not reported (permanent ban)
-79.124.62.178,SC,Seychelles,207812,DM AUTO EOOD,scan:284,308,2026-11-11T10:04:53Z,2026-11-16T22:39:32Z,not reported (permanent ban)
+79.124.62.178,SC,Seychelles,207812,DM AUTO EOOD,scan:285,309,2026-11-11T10:04:53Z,2026-11-17T00:02:57Z,not reported (permanent ban)
 79.124.62.218,SC,Seychelles,207812,DM AUTO EOOD,scan:60,61,2026-11-12T16:31:02Z,2026-11-16T06:03:30Z,not reported (permanent ban)
 79.124.62.230,SC,Seychelles,207812,DM AUTO EOOD,scan:39,46,2026-11-11T14:06:35Z,2026-11-16T22:31:28Z,not reported (permanent ban)
 85.11.190.207,SC,Seychelles,209101,IP Vendetta Inc.,scan:11,12,2026-11-11T10:07:35Z,2026-11-14T21:56:40Z,not reported (permanent ban)
@@ -2847,7 +2851,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 45.198.224.92,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:17;scan:53;ssh:14,87,2026-11-11T00:54:39Z,2026-11-16T21:10:14Z,not reported (permanent ban)
 45.198.224.110,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:1;scan:26,31,2026-11-11T11:58:05Z,2026-11-16T16:06:53Z,not reported (permanent ban)
 45.198.224.114,SE,Sweden,215925,VPSVAULT.HOST LTD,scan:23,28,2026-11-11T14:00:54Z,2026-11-12T20:38:36Z,not reported (permanent ban)
-45.198.224.125,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:22;scan:507;web:16,610,2026-11-09T16:44:19Z,2026-11-16T23:00:40Z,not reported (permanent ban)
+45.198.224.125,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:22;scan:509;web:16,612,2026-11-09T16:44:19Z,2026-11-17T00:11:47Z,not reported (permanent ban)
 45.198.224.177,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:3;scan:11,15,2026-11-12T20:30:31Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 45.198.224.230,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:4;scan:18,23,2026-11-11T10:06:23Z,2026-11-15T12:51:12Z,not reported (permanent ban)
 45.198.224.231,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:5;scan:19,26,2026-11-11T10:17:11Z,2026-11-16T09:56:34Z,not reported (permanent ban)
@@ -2859,17 +2863,17 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 45.198.224.237,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:5;scan:26,33,2026-11-11T10:01:02Z,2026-11-16T09:47:11Z,not reported (permanent ban)
 45.198.224.238,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:4;scan:26,31,2026-11-11T10:32:11Z,2026-11-15T12:27:08Z,not reported (permanent ban)
 45.198.224.239,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:5;scan:26,32,2026-11-11T10:29:17Z,2026-11-16T11:26:39Z,not reported (permanent ban)
-45.198.224.251,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:18;exploit:25;scan:336,459,2026-11-11T10:18:27Z,2026-11-16T20:42:09Z,not reported (permanent ban)
+45.198.224.251,SE,Sweden,215925,VPSVAULT.HOST LTD,c2:18;exploit:25;scan:338,461,2026-11-11T10:18:27Z,2026-11-17T00:12:38Z,not reported (permanent ban)
 185.200.116.75,SG,Singapore,9009,M247 Europe SRL,scan:17,22,2026-11-12T16:10:08Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 185.200.116.76,SG,Singapore,9009,M247 Europe SRL,scan:31,42,2026-11-11T12:16:36Z,2026-11-16T17:27:43Z,not reported (permanent ban)
 129.212.228.218,SG,Singapore,14061,"DigitalOcean, LLC",scan:85,86,2026-11-13T01:30:08Z,2026-11-13T01:33:51Z,not reported (permanent ban)
-139.59.112.161,SG,Singapore,14061,"DigitalOcean, LLC",web:48,48,2026-11-16T21:45:06Z,2026-11-16T21:48:18Z,2026-11-16T22:25:48Z
+139.59.112.161,SG,Singapore,14061,"DigitalOcean, LLC",web:48,48,2026-11-16T21:45:06Z,2026-11-16T23:48:56Z,2026-11-16T22:25:48Z
 157.245.157.191,SG,Singapore,14061,"DigitalOcean, LLC",c2:8;scan:43,52,2026-11-11T11:04:45Z,2026-11-13T15:48:55Z,not reported (permanent ban)
 159.223.59.82,SG,Singapore,14061,"DigitalOcean, LLC",scan:4;ssh:13,17,2026-11-12T16:59:19Z,2026-11-12T17:05:23Z,2026-11-12T18:28:28Z
 167.71.213.166,SG,Singapore,14061,"DigitalOcean, LLC",web:48,48,2026-11-10T01:27:59Z,2026-11-10T01:32:47Z,2026-11-11T17:05:30Z
 167.172.66.238,SG,Singapore,14061,"DigitalOcean, LLC",c2:4;exploit:4,8,2026-11-14T15:24:37Z,2026-11-14T21:21:00Z,2026-11-15T00:33:35Z
 167.172.89.248,SG,Singapore,14061,"DigitalOcean, LLC",c2:8;scan:15,24,2026-11-13T13:38:05Z,2026-11-16T19:06:15Z,not reported (permanent ban)
-168.144.102.112,SG,Singapore,14061,"DigitalOcean, LLC",web:96,96,2026-11-16T17:44:49Z,2026-11-16T17:51:21Z,2026-11-16T18:27:39Z
+168.144.102.112,SG,Singapore,14061,"DigitalOcean, LLC",web:48,48,2026-11-16T17:44:49Z,2026-11-16T17:51:21Z,2026-11-16T18:27:39Z
 178.128.57.150,SG,Singapore,14061,"DigitalOcean, LLC",scan:1;ssh:29,30,2026-11-10T15:45:37Z,2026-11-11T11:15:26Z,2026-11-11T17:05:30Z
 178.128.84.112,SG,Singapore,14061,"DigitalOcean, LLC",c2:8;scan:17,26,2026-11-11T09:59:31Z,2026-11-16T20:10:27Z,not reported (permanent ban)
 178.128.95.222,SG,Singapore,14061,"DigitalOcean, LLC",c2:9;scan:13,23,2026-11-11T21:10:01Z,2026-11-16T17:38:55Z,not reported (permanent ban)
@@ -2941,7 +2945,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 165.154.120.223,TH,Thailand,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:9;scan:13,22,2026-11-12T12:45:30Z,2026-11-16T13:51:09Z,not reported (permanent ban)
 165.154.120.226,TH,Thailand,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:5;scan:7,13,2026-11-12T00:50:51Z,2026-11-16T21:53:59Z,not reported (permanent ban)
 46.197.92.42,TR,Turkey,47524,Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.,c2:1;scan:22,26,2026-11-15T20:48:36Z,2026-11-16T02:18:04Z,not reported (permanent ban)
-193.187.110.160,TR,Turkey,153947,FAST ZONE IT,ssh:62,62,2026-11-10T23:36:18Z,2026-11-16T20:32:47Z,2026-11-14T04:24:59Z
+193.187.110.160,TR,Turkey,153947,FAST ZONE IT,ssh:50,50,2026-11-10T23:36:18Z,2026-11-16T23:45:12Z,2026-11-14T04:24:59Z
 185.226.93.242,TR,Turkey,205196,BIG CORE LLC,c2:15;scan:64,80,2026-11-11T11:33:26Z,2026-11-16T16:26:07Z,not reported (permanent ban)
 36.226.232.122,TW,Taiwan,3462,"Chunghwa Telecom Co., Ltd.",exploit:4,8,2026-11-15T14:20:32Z,2026-11-16T10:56:03Z,not reported (permanent ban)
 59.126.214.71,TW,Taiwan,3462,"Chunghwa Telecom Co., Ltd.",exploit:2;scan:2,7,2026-11-11T15:47:07Z,2026-11-12T03:07:03Z,not reported (permanent ban)
@@ -2968,7 +2972,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 98.114.254.12,US,United States,701,Verizon Business,exploit:3;scan:3,8,2026-11-11T15:04:33Z,2026-11-12T04:27:37Z,not reported (permanent ban)
 108.29.16.72,US,United States,701,Verizon Business,exploit:2;scan:2,6,2026-11-11T18:21:00Z,2026-11-11T20:57:03Z,not reported (permanent ban)
 173.68.24.246,US,United States,701,Verizon Business,exploit:2;scan:2,6,2026-11-11T20:46:04Z,2026-11-12T04:32:01Z,not reported (permanent ban)
-38.240.57.51,US,United States,931,Hyonix,c2:1;scan:26,38,2026-11-11T10:18:49Z,2026-11-16T05:33:39Z,not reported (permanent ban)
+38.240.57.51,US,United States,931,Hyonix,c2:1;scan:27,40,2026-11-11T10:18:49Z,2026-11-17T00:05:59Z,not reported (permanent ban)
 74.117.6.146,US,United States,1643,Brockway Television Inc.,exploit:2,45,2026-11-11T18:00:12Z,2026-11-14T14:15:54Z,not reported (permanent ban)
 24.148.33.160,US,United States,6079,RCN,exploit:3;scan:3,9,2026-11-11T19:32:39Z,2026-11-14T18:38:54Z,not reported (permanent ban)
 65.49.20.66,US,United States,6939,Hurricane Electric LLC,c2:2;exploit:1;scan:2,6,2026-11-12T02:44:51Z,2026-11-13T03:59:13Z,not reported (permanent ban)
@@ -3235,7 +3239,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 20.83.42.255,US,United States,8075,Microsoft Corporation,c2:6;scan:15,25,2026-11-11T20:18:03Z,2026-11-16T06:44:23Z,not reported (permanent ban)
 20.83.44.118,US,United States,8075,Microsoft Corporation,c2:7;scan:12,21,2026-11-11T15:19:00Z,2026-11-15T09:24:30Z,not reported (permanent ban)
 20.83.44.180,US,United States,8075,Microsoft Corporation,c2:5;scan:7,18,2026-11-11T09:32:53Z,2026-11-16T18:55:23Z,not reported (permanent ban)
-20.83.44.198,US,United States,8075,Microsoft Corporation,c2:3;scan:9,15,2026-11-11T11:44:18Z,2026-11-14T22:32:03Z,not reported (permanent ban)
+20.83.44.198,US,United States,8075,Microsoft Corporation,c2:4;scan:10,17,2026-11-11T11:44:18Z,2026-11-17T00:07:31Z,not reported (permanent ban)
 20.83.45.16,US,United States,8075,Microsoft Corporation,c2:7;scan:11,19,2026-11-12T07:32:36Z,2026-11-15T17:15:21Z,not reported (permanent ban)
 20.83.51.72,US,United States,8075,Microsoft Corporation,c2:4;scan:11,18,2026-11-11T13:13:19Z,2026-11-16T21:23:56Z,not reported (permanent ban)
 20.83.51.113,US,United States,8075,Microsoft Corporation,c2:6;scan:10,19,2026-11-11T10:28:15Z,2026-11-16T06:29:37Z,not reported (permanent ban)
@@ -3310,7 +3314,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 20.163.12.242,US,United States,8075,Microsoft Corporation,c2:3;scan:6,12,2026-11-11T20:08:45Z,2026-11-16T22:33:32Z,not reported (permanent ban)
 20.163.12.245,US,United States,8075,Microsoft Corporation,c2:5;scan:10,20,2026-11-11T18:01:07Z,2026-11-15T16:28:05Z,not reported (permanent ban)
 20.163.12.255,US,United States,8075,Microsoft Corporation,c2:3;scan:6,11,2026-11-11T21:19:20Z,2026-11-14T09:50:03Z,not reported (permanent ban)
-20.163.13.5,US,United States,8075,Microsoft Corporation,c2:4;scan:9,17,2026-11-11T12:58:13Z,2026-11-16T22:40:08Z,not reported (permanent ban)
+20.163.13.5,US,United States,8075,Microsoft Corporation,c2:4;scan:10,18,2026-11-11T12:58:13Z,2026-11-17T00:01:53Z,not reported (permanent ban)
 20.163.13.19,US,United States,8075,Microsoft Corporation,scan:9,16,2026-11-11T12:19:21Z,2026-11-15T23:11:31Z,not reported (permanent ban)
 20.163.13.24,US,United States,8075,Microsoft Corporation,c2:4;scan:7,15,2026-11-11T13:27:55Z,2026-11-16T21:36:38Z,not reported (permanent ban)
 20.163.35.245,US,United States,8075,Microsoft Corporation,scan:15,24,2026-11-11T11:17:25Z,2026-11-16T15:22:16Z,not reported (permanent ban)
@@ -3521,7 +3525,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 40.124.172.65,US,United States,8075,Microsoft Corporation,c2:6;scan:8,15,2026-11-12T11:59:07Z,2026-11-16T05:56:02Z,not reported (permanent ban)
 40.124.172.70,US,United States,8075,Microsoft Corporation,c2:4;scan:6,11,2026-11-12T18:16:37Z,2026-11-15T19:25:34Z,not reported (permanent ban)
 40.124.176.147,US,United States,8075,Microsoft Corporation,c2:5;scan:8,15,2026-11-12T17:21:07Z,2026-11-16T19:27:35Z,not reported (permanent ban)
-40.124.176.225,US,United States,8075,Microsoft Corporation,c2:7;scan:9,17,2026-11-12T02:02:39Z,2026-11-16T20:25:02Z,not reported (permanent ban)
+40.124.176.225,US,United States,8075,Microsoft Corporation,c2:7;scan:10,18,2026-11-12T02:02:39Z,2026-11-17T00:16:50Z,not reported (permanent ban)
 40.124.178.24,US,United States,8075,Microsoft Corporation,c2:4;scan:5,10,2026-11-11T21:07:35Z,2026-11-15T04:34:10Z,not reported (permanent ban)
 40.124.178.68,US,United States,8075,Microsoft Corporation,c2:6;scan:13,20,2026-11-11T11:51:13Z,2026-11-16T06:12:34Z,not reported (permanent ban)
 40.124.178.70,US,United States,8075,Microsoft Corporation,c2:3;scan:8,13,2026-11-11T14:36:28Z,2026-11-16T00:28:13Z,not reported (permanent ban)
@@ -3537,7 +3541,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 40.124.178.214,US,United States,8075,Microsoft Corporation,c2:9;scan:15,25,2026-11-11T11:38:24Z,2026-11-16T03:50:31Z,not reported (permanent ban)
 40.124.179.77,US,United States,8075,Microsoft Corporation,c2:7;scan:11,19,2026-11-11T16:34:23Z,2026-11-16T03:53:46Z,not reported (permanent ban)
 40.124.179.181,US,United States,8075,Microsoft Corporation,c2:3;scan:5,9,2026-11-11T14:40:00Z,2026-11-14T08:35:23Z,not reported (permanent ban)
-40.124.179.244,US,United States,8075,Microsoft Corporation,c2:8;scan:12,21,2026-11-11T11:01:51Z,2026-11-16T15:10:04Z,not reported (permanent ban)
+40.124.179.244,US,United States,8075,Microsoft Corporation,c2:9;scan:13,23,2026-11-11T11:01:51Z,2026-11-17T00:08:01Z,not reported (permanent ban)
 40.124.179.252,US,United States,8075,Microsoft Corporation,c2:5;scan:10,16,2026-11-11T19:10:28Z,2026-11-16T09:39:17Z,not reported (permanent ban)
 40.124.180.50,US,United States,8075,Microsoft Corporation,c2:6;scan:13;waf:1,21,2026-11-11T08:21:52Z,2026-11-16T00:55:49Z,not reported (permanent ban)
 40.124.185.216,US,United States,8075,Microsoft Corporation,c2:4;scan:4,9,2026-11-11T11:19:19Z,2026-11-16T10:14:25Z,not reported (permanent ban)
@@ -3547,7 +3551,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 40.124.186.137,US,United States,8075,Microsoft Corporation,c2:6;scan:12,20,2026-11-12T22:02:12Z,2026-11-16T05:22:56Z,not reported (permanent ban)
 40.124.186.144,US,United States,8075,Microsoft Corporation,c2:8;scan:13,23,2026-11-11T13:55:45Z,2026-11-14T17:55:38Z,not reported (permanent ban)
 40.124.186.156,US,United States,8075,Microsoft Corporation,c2:8;scan:13,22,2026-11-11T13:59:12Z,2026-11-16T02:52:50Z,not reported (permanent ban)
-40.124.186.172,US,United States,8075,Microsoft Corporation,c2:7;scan:9,17,2026-11-11T20:24:45Z,2026-11-16T20:09:29Z,not reported (permanent ban)
+40.124.186.172,US,United States,8075,Microsoft Corporation,c2:8;scan:10,19,2026-11-11T20:24:45Z,2026-11-17T00:16:09Z,not reported (permanent ban)
 40.124.186.190,US,United States,8075,Microsoft Corporation,c2:7;scan:10,18,2026-11-12T09:52:53Z,2026-11-16T18:19:01Z,not reported (permanent ban)
 40.124.187.1,US,United States,8075,Microsoft Corporation,c2:4;scan:5,10,2026-11-12T05:44:53Z,2026-11-14T20:08:29Z,not reported (permanent ban)
 40.124.187.7,US,United States,8075,Microsoft Corporation,c2:7;scan:9,17,2026-11-11T15:58:02Z,2026-11-15T18:09:16Z,not reported (permanent ban)
@@ -3679,7 +3683,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 172.212.203.125,US,United States,8075,Microsoft Corporation,c2:6;scan:11,18,2026-11-12T01:22:06Z,2026-11-16T16:03:51Z,not reported (permanent ban)
 172.212.203.134,US,United States,8075,Microsoft Corporation,c2:7;exploit:1;scan:11,20,2026-11-11T16:27:20Z,2026-11-16T16:55:42Z,not reported (permanent ban)
 172.212.226.97,US,United States,8075,Microsoft Corporation,c2:7;scan:9,17,2026-11-12T22:27:40Z,2026-11-16T11:55:01Z,not reported (permanent ban)
-172.212.226.215,US,United States,8075,Microsoft Corporation,c2:7;scan:10,18,2026-11-12T02:55:41Z,2026-11-16T00:29:54Z,not reported (permanent ban)
+172.212.226.215,US,United States,8075,Microsoft Corporation,c2:8;scan:11,20,2026-11-12T02:55:41Z,2026-11-17T00:05:59Z,not reported (permanent ban)
 172.212.226.249,US,United States,8075,Microsoft Corporation,c2:8;scan:12,21,2026-11-11T10:23:49Z,2026-11-16T03:54:54Z,not reported (permanent ban)
 172.212.227.53,US,United States,8075,Microsoft Corporation,c2:7;scan:13,22,2026-11-11T11:32:58Z,2026-11-16T19:38:47Z,not reported (permanent ban)
 172.212.227.98,US,United States,8075,Microsoft Corporation,c2:7;scan:12,20,2026-11-12T22:00:25Z,2026-11-15T21:35:21Z,not reported (permanent ban)
@@ -3712,7 +3716,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 147.203.255.20,US,United States,11320,LightEdge Solutions,exploit:9;scan:5,23,2026-11-11T10:02:54Z,2026-11-16T20:08:26Z,not reported (permanent ban)
 146.168.10.75,US,United States,11776,Breezeline,exploit:5,10,2026-11-14T08:27:56Z,2026-11-16T05:41:47Z,not reported (permanent ban)
 64.23.218.208,US,United States,14061,"DigitalOcean, LLC",web:6,6,2026-11-10T06:18:38Z,2026-11-10T06:18:56Z,2026-11-11T17:05:30Z
-64.225.126.26,US,United States,14061,"DigitalOcean, LLC",exploit:6,6,2026-11-16T04:15:49Z,2026-11-16T04:15:49Z,2026-11-16T04:25:02Z
+64.225.126.26,US,United States,14061,"DigitalOcean, LLC",exploit:3,3,2026-11-16T04:15:49Z,2026-11-16T04:15:49Z,2026-11-16T04:25:02Z
 64.227.88.100,US,United States,14061,"DigitalOcean, LLC",waf:2;web:8,10,2026-11-15T12:27:38Z,2026-11-15T12:40:08Z,2026-11-15T14:24:41Z
 64.227.95.171,US,United States,14061,"DigitalOcean, LLC",exploit:3,3,2026-11-12T10:36:16Z,2026-11-12T10:36:16Z,2026-11-12T12:23:42Z
 68.183.139.205,US,United States,14061,"DigitalOcean, LLC",c2:12;scan:3159,3172,2026-11-12T03:45:42Z,2026-11-16T06:59:19Z,not reported (permanent ban)
@@ -3725,7 +3729,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 134.122.119.203,US,United States,14061,"DigitalOcean, LLC",scan:3,5,2026-11-15T04:48:08Z,2026-11-15T04:49:04Z,not reported (permanent ban)
 134.199.209.2,US,United States,14061,"DigitalOcean, LLC",scan:18,28,2026-11-11T17:04:26Z,2026-11-16T03:28:58Z,not reported (permanent ban)
 134.199.230.0,US,United States,14061,"DigitalOcean, LLC",scan:38,45,2026-11-12T01:22:19Z,2026-11-16T05:35:32Z,not reported (permanent ban)
-134.209.62.105,US,United States,14061,"DigitalOcean, LLC",exploit:6,6,2026-11-16T04:40:30Z,2026-11-16T04:40:30Z,2026-11-16T06:25:12Z
+134.209.62.105,US,United States,14061,"DigitalOcean, LLC",exploit:3,3,2026-11-16T04:40:30Z,2026-11-16T04:40:30Z,2026-11-16T06:25:12Z
 137.184.31.185,US,United States,14061,"DigitalOcean, LLC",c2:6;scan:7,14,2026-11-11T15:02:05Z,2026-11-16T15:32:26Z,not reported (permanent ban)
 137.184.85.24,US,United States,14061,"DigitalOcean, LLC",c2:4;scan:15;waf:2,24,2026-11-12T23:20:00Z,2026-11-16T22:15:14Z,not reported (permanent ban)
 137.184.105.192,US,United States,14061,"DigitalOcean, LLC",c2:6;scan:11,19,2026-11-12T00:31:11Z,2026-11-16T16:18:38Z,not reported (permanent ban)
@@ -3759,7 +3763,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 159.65.224.182,US,United States,14061,"DigitalOcean, LLC",c2:5;scan:6,12,2026-11-13T18:00:30Z,2026-11-16T05:53:29Z,not reported (permanent ban)
 159.89.236.7,US,United States,14061,"DigitalOcean, LLC",scan:19,27,2026-11-11T12:21:33Z,2026-11-16T03:46:26Z,not reported (permanent ban)
 161.35.51.104,US,United States,14061,"DigitalOcean, LLC",c2:4;scan:4,9,2026-11-12T10:06:31Z,2026-11-14T15:06:40Z,not reported (permanent ban)
-161.35.102.143,US,United States,14061,"DigitalOcean, LLC",exploit:12;waf:4,16,2026-11-16T10:10:26Z,2026-11-16T10:21:12Z,2026-11-16T12:25:12Z
+161.35.102.143,US,United States,14061,"DigitalOcean, LLC",exploit:6;waf:2,8,2026-11-16T10:10:26Z,2026-11-16T10:21:12Z,2026-11-16T12:25:12Z
 165.22.47.52,US,United States,14061,"DigitalOcean, LLC",c2:7;scan:12,20,2026-11-11T09:54:57Z,2026-11-16T03:17:46Z,not reported (permanent ban)
 165.22.146.118,US,United States,14061,"DigitalOcean, LLC",exploit:3,3,2026-11-11T20:42:41Z,2026-11-11T20:42:41Z,2026-11-11T21:09:38Z
 165.227.84.134,US,United States,14061,"DigitalOcean, LLC",c2:5;scan:7,13,2026-11-12T17:43:53Z,2026-11-16T22:09:10Z,not reported (permanent ban)
@@ -3800,7 +3804,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 34.207.149.221,US,United States,14618,"Amazon.com, Inc.",c2:2;scan:12,19,2026-11-12T08:19:31Z,2026-11-15T10:18:01Z,not reported (permanent ban)
 34.226.202.61,US,United States,14618,"Amazon.com, Inc.",c2:3;scan:6,11,2026-11-13T10:02:07Z,2026-11-15T08:20:03Z,not reported (permanent ban)
 34.226.249.229,US,United States,14618,"Amazon.com, Inc.",c2:2;scan:13,19,2026-11-11T10:06:03Z,2026-11-15T10:43:40Z,not reported (permanent ban)
-34.228.104.231,US,United States,14618,"Amazon.com, Inc.",scan:61,61,2026-11-15T05:53:39Z,2026-11-16T16:01:03Z,2026-11-11T16:35:25Z
+34.228.104.231,US,United States,14618,"Amazon.com, Inc.",scan:57,57,2026-11-15T05:53:39Z,2026-11-16T16:01:03Z,2026-11-11T16:35:25Z
 34.229.199.247,US,United States,14618,"Amazon.com, Inc.",scan:12,19,2026-11-12T08:25:09Z,2026-11-15T10:07:03Z,not reported (permanent ban)
 34.230.47.36,US,United States,14618,"Amazon.com, Inc.",c2:2;scan:6,11,2026-11-12T08:18:10Z,2026-11-16T08:33:04Z,not reported (permanent ban)
 34.230.221.101,US,United States,14618,"Amazon.com, Inc.",c2:3;scan:99,114,2026-11-11T09:59:11Z,2026-11-14T21:23:36Z,not reported (permanent ban)
@@ -3935,7 +3939,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 100.29.192.124,US,United States,14618,"Amazon.com, Inc.",c2:7;scan:7,15,2026-11-12T01:33:07Z,2026-11-15T04:27:02Z,not reported (permanent ban)
 100.29.192.126,US,United States,14618,"Amazon.com, Inc.",c2:4;scan:5,10,2026-11-12T10:46:03Z,2026-11-15T19:24:32Z,not reported (permanent ban)
 100.29.192.127,US,United States,14618,"Amazon.com, Inc.",c2:8;scan:11,20,2026-11-11T20:17:44Z,2026-11-15T21:57:14Z,not reported (permanent ban)
-100.49.117.77,US,United States,14618,"Amazon.com, Inc.",scan:28,28,2026-11-16T02:01:35Z,2026-11-16T22:22:06Z,2026-11-11T16:35:25Z
+100.49.117.77,US,United States,14618,"Amazon.com, Inc.",scan:14,14,2026-11-16T02:01:35Z,2026-11-16T22:22:06Z,2026-11-11T16:35:25Z
 100.50.17.159,US,United States,14618,"Amazon.com, Inc.",scan:49,49,2026-11-12T04:37:12Z,2026-11-12T05:47:00Z,2026-11-11T16:35:25Z
 100.51.6.16,US,United States,14618,"Amazon.com, Inc.",scan:112,132,2026-11-11T09:53:25Z,2026-11-14T21:48:54Z,not reported (permanent ban)
 100.54.251.77,US,United States,14618,"Amazon.com, Inc.",c2:3;scan:6,11,2026-11-13T08:21:42Z,2026-11-15T10:37:08Z,not reported (permanent ban)
@@ -3959,12 +3963,12 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 3.131.24.55,US,United States,16509,"Amazon.com, Inc.",scan:15,15,2026-11-12T20:06:45Z,2026-11-14T02:14:57Z,2026-11-11T16:35:25Z
 3.134.100.58,US,United States,16509,"Amazon.com, Inc.",scan:2,3,2026-11-11T21:38:45Z,2026-11-11T21:39:01Z,not reported (permanent ban)
 3.144.77.222,US,United States,16509,"Amazon.com, Inc.",scan:5,7,2026-11-15T00:58:24Z,2026-11-15T00:59:03Z,not reported (permanent ban)
-3.144.198.231,US,United States,16509,"Amazon.com, Inc.",waf:22;web:8,30,2026-11-16T10:24:24Z,2026-11-16T10:24:24Z,2026-11-16T12:25:08Z
+3.144.198.231,US,United States,16509,"Amazon.com, Inc.",waf:11;web:4,15,2026-11-16T10:24:24Z,2026-11-16T10:24:24Z,2026-11-16T12:25:08Z
 3.147.122.184,US,United States,16509,"Amazon.com, Inc.",scan:18,18,2026-11-11T14:24:47Z,2026-11-13T02:15:10Z,2026-11-11T16:35:25Z
 18.116.101.220,US,United States,16509,"Amazon.com, Inc.",c2:3;scan:8;ssh:1,21,2026-11-09T18:57:52Z,2026-11-16T22:32:07Z,not reported (permanent ban)
-18.119.209.50,US,United States,16509,"Amazon.com, Inc.",scan:24,24,2026-11-12T02:03:27Z,2026-11-16T20:27:40Z,2026-11-11T16:35:25Z
+18.119.209.50,US,United States,16509,"Amazon.com, Inc.",scan:20,20,2026-11-12T02:03:27Z,2026-11-16T20:27:40Z,2026-11-11T16:35:25Z
 18.189.6.159,US,United States,16509,"Amazon.com, Inc.",waf:26;web:157,183,2026-11-12T16:32:28Z,2026-11-12T16:32:54Z,2026-11-12T18:28:18Z
-18.190.15.50,US,United States,16509,"Amazon.com, Inc.",scan:123,123,2026-11-11T20:17:25Z,2026-11-16T06:47:37Z,2026-11-11T16:35:25Z
+18.190.15.50,US,United States,16509,"Amazon.com, Inc.",scan:71,71,2026-11-11T20:17:25Z,2026-11-16T06:47:37Z,2026-11-11T16:35:25Z
 18.191.69.170,US,United States,16509,"Amazon.com, Inc.",scan:6,8,2026-11-15T19:46:58Z,2026-11-15T19:48:04Z,not reported (permanent ban)
 18.217.102.23,US,United States,16509,"Amazon.com, Inc.",scan:2,3,2026-11-11T07:26:54Z,2026-11-11T09:56:39Z,not reported (permanent ban)
 18.217.208.51,US,United States,16509,"Amazon.com, Inc.",scan:10,10,2026-11-15T01:57:36Z,2026-11-15T02:14:20Z,2026-11-11T16:35:25Z
@@ -3991,7 +3995,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 146.88.241.160,US,United States,20052,"Arbor Networks, Inc.",c2:5;scan:25,32,2026-11-11T09:48:54Z,2026-11-14T01:58:04Z,not reported (permanent ban)
 146.88.241.170,US,United States,20052,"Arbor Networks, Inc.",c2:9;scan:71,88,2026-11-11T11:34:22Z,2026-11-16T11:42:26Z,not reported (permanent ban)
 109.105.209.4,US,United States,21859,Zenlayer Inc,c2:5;scan:7,13,2026-11-11T18:25:38Z,2026-11-15T06:59:42Z,not reported (permanent ban)
-109.105.209.5,US,United States,21859,Zenlayer Inc,c2:1;scan:1,3,2026-11-15T03:39:27Z,2026-11-15T04:18:24Z,not reported (permanent ban)
+109.105.209.5,US,United States,21859,Zenlayer Inc,c2:1;scan:2,4,2026-11-15T03:39:27Z,2026-11-17T00:10:51Z,not reported (permanent ban)
 109.105.209.7,US,United States,21859,Zenlayer Inc,c2:6;scan:10,17,2026-11-11T20:24:44Z,2026-11-16T23:08:04Z,not reported (permanent ban)
 109.105.209.9,US,United States,21859,Zenlayer Inc,c2:6;scan:9,16,2026-11-11T19:51:45Z,2026-11-14T21:37:31Z,not reported (permanent ban)
 109.105.209.10,US,United States,21859,Zenlayer Inc,c2:8;scan:10,19,2026-11-14T04:05:37Z,2026-11-16T20:05:12Z,not reported (permanent ban)
@@ -4082,7 +4086,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 172.245.118.176,US,United States,36352,HostPapa,c2:4;scan:8;web:1,15,2026-11-12T16:31:40Z,2026-11-16T02:31:40Z,not reported (permanent ban)
 192.236.230.186,US,United States,36352,HostPapa,scan:13,22,2026-11-11T21:49:33Z,2026-11-16T00:30:55Z,not reported (permanent ban)
 198.23.150.2,US,United States,36352,HostPapa,c2:3;scan:8,12,2026-11-15T02:38:20Z,2026-11-15T19:26:04Z,not reported (permanent ban)
-198.23.203.244,US,United States,36352,HostPapa,waf:32;web:4,36,2026-11-16T18:04:59Z,2026-11-16T18:04:59Z,2026-11-16T20:25:57Z
+198.23.203.244,US,United States,36352,HostPapa,waf:16;web:2,18,2026-11-16T18:04:59Z,2026-11-16T18:04:59Z,2026-11-16T20:25:57Z
 198.23.213.7,US,United States,36352,HostPapa,c2:3;scan:4,8,2026-11-14T07:41:49Z,2026-11-15T15:35:05Z,not reported (permanent ban)
 5.34.216.39,US,United States,38136,Akari Networks Limited,c2:1;scan:48,58,2026-11-11T10:12:53Z,2026-11-14T21:56:54Z,not reported (permanent ban)
 144.126.133.155,US,United States,40021,Contabo Inc.,c2:4;scan:27,34,2026-11-11T17:05:11Z,2026-11-16T09:12:24Z,not reported (permanent ban)
@@ -4117,7 +4121,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 193.39.184.14,US,United States,62164,Heymman Servers Corporation,scan:35,38,2026-11-15T21:54:42Z,2026-11-16T00:40:24Z,not reported (permanent ban)
 148.153.56.170,US,United States,63199,"CDS Global Cloud Co., Ltd",c2:18;scan:144,190,2026-11-11T10:14:50Z,2026-11-16T22:37:45Z,not reported (permanent ban)
 148.153.56.174,US,United States,63199,"CDS Global Cloud Co., Ltd",c2:11;scan:63,85,2026-11-13T06:57:59Z,2026-11-16T23:04:18Z,not reported (permanent ban)
-148.153.188.246,US,United States,63199,"CDS Global Cloud Co., Ltd",scan:2,2,2026-11-16T19:06:43Z,2026-11-16T19:06:43Z,2026-11-11T16:35:35Z
+148.153.188.246,US,United States,63199,"CDS Global Cloud Co., Ltd",scan:1,1,2026-11-16T19:06:43Z,2026-11-16T19:06:43Z,2026-11-11T16:35:35Z
 148.153.188.254,US,United States,63199,"CDS Global Cloud Co., Ltd",c2:17;exploit:1;scan:115,155,2026-11-11T11:51:13Z,2026-11-16T20:57:38Z,not reported (permanent ban)
 148.153.189.62,US,United States,63199,"CDS Global Cloud Co., Ltd",c2:16;scan:104,140,2026-11-11T11:33:14Z,2026-11-16T20:16:55Z,not reported (permanent ban)
 23.92.26.21,US,United States,63949,"Akamai Technologies, Inc.",scan:33,46,2026-11-12T00:33:37Z,2026-11-16T16:12:05Z,not reported (permanent ban)
@@ -4125,8 +4129,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 23.92.26.77,US,United States,63949,"Akamai Technologies, Inc.",scan:18,26,2026-11-12T07:27:01Z,2026-11-16T18:10:13Z,not reported (permanent ban)
 23.92.26.123,US,United States,63949,"Akamai Technologies, Inc.",scan:27,39,2026-11-11T10:24:04Z,2026-11-16T23:04:00Z,not reported (permanent ban)
 23.92.26.208,US,United States,63949,"Akamai Technologies, Inc.",scan:36,50,2026-11-11T09:54:52Z,2026-11-16T21:05:40Z,not reported (permanent ban)
-23.92.27.179,US,United States,63949,"Akamai Technologies, Inc.",scan:32,46,2026-11-11T09:59:17Z,2026-11-16T16:57:41Z,not reported (permanent ban)
-23.92.27.206,US,United States,63949,"Akamai Technologies, Inc.",scan:25,38,2026-11-11T12:05:37Z,2026-11-16T14:00:38Z,not reported (permanent ban)
+23.92.27.179,US,United States,63949,"Akamai Technologies, Inc.",scan:33,48,2026-11-11T09:59:17Z,2026-11-17T00:08:31Z,not reported (permanent ban)
+23.92.27.206,US,United States,63949,"Akamai Technologies, Inc.",scan:26,40,2026-11-11T12:05:37Z,2026-11-17T00:11:05Z,not reported (permanent ban)
 45.33.65.239,US,United States,63949,"Akamai Technologies, Inc.",c2:1;scan:2,4,2026-11-13T05:19:03Z,2026-11-13T05:20:02Z,not reported (permanent ban)
 45.33.83.115,US,United States,63949,"Akamai Technologies, Inc.",scan:25,36,2026-11-11T09:46:32Z,2026-11-16T12:52:51Z,not reported (permanent ban)
 45.33.94.76,US,United States,63949,"Akamai Technologies, Inc.",scan:38,53,2026-11-12T03:18:48Z,2026-11-16T20:14:41Z,not reported (permanent ban)
@@ -4145,7 +4149,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 45.79.145.34,US,United States,63949,"Akamai Technologies, Inc.",scan:27,40,2026-11-11T10:38:25Z,2026-11-16T22:57:54Z,not reported (permanent ban)
 45.79.145.233,US,United States,63949,"Akamai Technologies, Inc.",scan:28,45,2026-11-11T15:33:56Z,2026-11-16T16:47:04Z,not reported (permanent ban)
 45.79.153.51,US,United States,63949,"Akamai Technologies, Inc.",scan:38,53,2026-11-11T13:32:13Z,2026-11-16T19:32:10Z,not reported (permanent ban)
-45.79.153.72,US,United States,63949,"Akamai Technologies, Inc.",scan:27,40,2026-11-11T17:37:37Z,2026-11-16T22:19:00Z,not reported (permanent ban)
+45.79.153.72,US,United States,63949,"Akamai Technologies, Inc.",scan:28,41,2026-11-11T17:37:37Z,2026-11-17T00:09:34Z,not reported (permanent ban)
 45.79.186.176,US,United States,63949,"Akamai Technologies, Inc.",scan:24,38,2026-11-12T03:35:01Z,2026-11-16T20:43:19Z,not reported (permanent ban)
 45.79.190.10,US,United States,63949,"Akamai Technologies, Inc.",c2:4;scan:16,21,2026-11-13T03:41:11Z,2026-11-14T00:09:47Z,not reported (permanent ban)
 45.79.225.32,US,United States,63949,"Akamai Technologies, Inc.",scan:35,50,2026-11-11T10:04:57Z,2026-11-16T21:39:41Z,not reported (permanent ban)
@@ -4161,7 +4165,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 139.144.239.78,US,United States,63949,"Akamai Technologies, Inc.",scan:36,51,2026-11-11T15:31:42Z,2026-11-16T21:03:37Z,not reported (permanent ban)
 139.144.239.185,US,United States,63949,"Akamai Technologies, Inc.",scan:26,39,2026-11-11T14:39:41Z,2026-11-16T20:39:14Z,not reported (permanent ban)
 143.42.1.34,US,United States,63949,"Akamai Technologies, Inc.",scan:21,32,2026-11-12T09:48:31Z,2026-11-16T14:43:35Z,not reported (permanent ban)
-143.42.1.44,US,United States,63949,"Akamai Technologies, Inc.",scan:27,39,2026-11-12T02:00:29Z,2026-11-16T18:18:31Z,not reported (permanent ban)
+143.42.1.44,US,United States,63949,"Akamai Technologies, Inc.",scan:28,40,2026-11-12T02:00:29Z,2026-11-17T00:08:28Z,not reported (permanent ban)
 143.42.1.123,US,United States,63949,"Akamai Technologies, Inc.",scan:28,39,2026-11-12T03:55:17Z,2026-11-16T23:05:44Z,not reported (permanent ban)
 143.42.1.189,US,United States,63949,"Akamai Technologies, Inc.",scan:26,39,2026-11-11T14:44:54Z,2026-11-16T19:56:57Z,not reported (permanent ban)
 143.42.1.213,US,United States,63949,"Akamai Technologies, Inc.",scan:29,37,2026-11-11T12:11:09Z,2026-11-16T21:45:29Z,not reported (permanent ban)
@@ -4186,7 +4190,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 172.236.103.8,US,United States,63949,"Akamai Technologies, Inc.",scan:19,29,2026-11-13T01:51:57Z,2026-11-16T22:44:12Z,not reported (permanent ban)
 172.236.106.113,US,United States,63949,"Akamai Technologies, Inc.",scan:33,46,2026-11-11T12:16:17Z,2026-11-16T15:54:15Z,not reported (permanent ban)
 172.236.111.98,US,United States,63949,"Akamai Technologies, Inc.",scan:13,19,2026-11-11T09:49:48Z,2026-11-14T21:56:54Z,not reported (permanent ban)
-172.236.111.197,US,United States,63949,"Akamai Technologies, Inc.",scan:32,44,2026-11-11T18:42:36Z,2026-11-16T09:24:41Z,not reported (permanent ban)
+172.236.111.197,US,United States,63949,"Akamai Technologies, Inc.",scan:33,46,2026-11-11T18:42:36Z,2026-11-17T00:16:39Z,not reported (permanent ban)
 172.236.112.125,US,United States,63949,"Akamai Technologies, Inc.",scan:33,47,2026-11-11T10:27:57Z,2026-11-16T16:57:11Z,not reported (permanent ban)
 172.236.112.131,US,United States,63949,"Akamai Technologies, Inc.",scan:26,37,2026-11-12T09:54:04Z,2026-11-16T21:56:58Z,not reported (permanent ban)
 172.236.126.127,US,United States,63949,"Akamai Technologies, Inc.",scan:28,37,2026-11-11T09:51:01Z,2026-11-16T22:01:17Z,not reported (permanent ban)
@@ -4200,18 +4204,18 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 172.237.155.29,US,United States,63949,"Akamai Technologies, Inc.",scan:19,28,2026-11-13T16:39:17Z,2026-11-16T22:08:38Z,not reported (permanent ban)
 172.237.156.206,US,United States,63949,"Akamai Technologies, Inc.",scan:23,35,2026-11-11T10:23:02Z,2026-11-16T19:18:27Z,not reported (permanent ban)
 172.238.188.122,US,United States,63949,"Akamai Technologies, Inc.",scan:32,46,2026-11-11T11:25:58Z,2026-11-16T23:10:06Z,not reported (permanent ban)
-172.239.51.96,US,United States,63949,"Akamai Technologies, Inc.",scan:25,38,2026-11-11T15:39:37Z,2026-11-16T17:15:29Z,not reported (permanent ban)
+172.239.51.96,US,United States,63949,"Akamai Technologies, Inc.",scan:26,40,2026-11-11T15:39:37Z,2026-11-17T00:02:25Z,not reported (permanent ban)
 172.239.62.109,US,United States,63949,"Akamai Technologies, Inc.",scan:29,42,2026-11-11T12:56:21Z,2026-11-16T07:50:42Z,not reported (permanent ban)
 173.255.221.189,US,United States,63949,"Akamai Technologies, Inc.",exploit:1;scan:25,27,2026-11-12T08:11:54Z,2026-11-15T08:53:03Z,not reported (permanent ban)
 173.255.223.32,US,United States,63949,"Akamai Technologies, Inc.",scan:36,50,2026-11-11T15:58:10Z,2026-11-16T19:24:02Z,not reported (permanent ban)
 173.255.223.49,US,United States,63949,"Akamai Technologies, Inc.",c2:4;scan:36,53,2026-11-11T16:35:09Z,2026-11-16T23:09:04Z,not reported (permanent ban)
 173.255.223.89,US,United States,63949,"Akamai Technologies, Inc.",scan:29,44,2026-11-11T13:22:27Z,2026-11-16T02:08:06Z,not reported (permanent ban)
-173.255.223.103,US,United States,63949,"Akamai Technologies, Inc.",scan:37,51,2026-11-11T10:00:20Z,2026-11-16T20:56:31Z,not reported (permanent ban)
-173.255.223.115,US,United States,63949,"Akamai Technologies, Inc.",scan:29,39,2026-11-12T08:14:27Z,2026-11-16T19:32:57Z,not reported (permanent ban)
+173.255.223.103,US,United States,63949,"Akamai Technologies, Inc.",scan:38,52,2026-11-11T10:00:20Z,2026-11-17T00:00:26Z,not reported (permanent ban)
+173.255.223.115,US,United States,63949,"Akamai Technologies, Inc.",scan:30,41,2026-11-12T08:14:27Z,2026-11-17T00:10:03Z,not reported (permanent ban)
 173.255.223.149,US,United States,63949,"Akamai Technologies, Inc.",scan:32,43,2026-11-12T05:14:55Z,2026-11-16T16:15:36Z,not reported (permanent ban)
 192.81.132.226,US,United States,63949,"Akamai Technologies, Inc.",scan:27,38,2026-11-12T04:08:05Z,2026-11-16T20:12:57Z,not reported (permanent ban)
 198.74.58.45,US,United States,63949,"Akamai Technologies, Inc.",scan:25,35,2026-11-12T01:38:41Z,2026-11-16T17:21:34Z,not reported (permanent ban)
-198.74.58.111,US,United States,63949,"Akamai Technologies, Inc.",scan:27,38,2026-11-11T11:32:16Z,2026-11-16T20:14:52Z,not reported (permanent ban)
+198.74.58.111,US,United States,63949,"Akamai Technologies, Inc.",scan:28,39,2026-11-11T11:32:16Z,2026-11-17T00:07:56Z,not reported (permanent ban)
 198.74.58.130,US,United States,63949,"Akamai Technologies, Inc.",scan:38,51,2026-11-11T13:06:14Z,2026-11-16T21:13:37Z,not reported (permanent ban)
 198.74.58.148,US,United States,63949,"Akamai Technologies, Inc.",scan:30,43,2026-11-11T10:47:25Z,2026-11-16T22:49:31Z,not reported (permanent ban)
 198.74.58.192,US,United States,63949,"Akamai Technologies, Inc.",scan:39,55,2026-11-11T15:22:26Z,2026-11-16T22:21:54Z,not reported (permanent ban)
@@ -4241,7 +4245,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 152.32.207.179,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:12;scan:22,35,2026-11-11T10:22:47Z,2026-11-16T20:06:54Z,not reported (permanent ban)
 152.32.208.73,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:4;scan:5,11,2026-11-12T16:40:37Z,2026-11-15T17:15:21Z,not reported (permanent ban)
 152.32.208.116,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:3;scan:3,7,2026-11-12T12:14:20Z,2026-11-14T23:29:03Z,not reported (permanent ban)
-152.32.234.184,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:8;scan:14,23,2026-11-12T17:38:26Z,2026-11-16T23:05:02Z,not reported (permanent ban)
+152.32.234.184,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:8;scan:15,24,2026-11-12T17:38:26Z,2026-11-17T00:05:48Z,not reported (permanent ban)
 152.32.235.36,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:6;scan:10,17,2026-11-12T12:45:38Z,2026-11-16T14:03:32Z,not reported (permanent ban)
 152.32.235.96,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,c2:5;scan:7,13,2026-11-13T01:29:08Z,2026-11-16T15:34:59Z,not reported (permanent ban)
 152.32.235.107,US,United States,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,scan:19,26,2026-11-13T18:45:13Z,2026-11-16T12:33:07Z,not reported (permanent ban)
@@ -4269,8 +4273,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 165.154.206.71,US,United States,142002,Scloud Pte Ltd,c2:3;scan:4,8,2026-11-12T07:53:41Z,2026-11-13T02:27:03Z,not reported (permanent ban)
 165.154.206.139,US,United States,142002,Scloud Pte Ltd,c2:8;scan:11,20,2026-11-12T15:10:44Z,2026-11-16T18:19:01Z,not reported (permanent ban)
 165.154.206.250,US,United States,142002,Scloud Pte Ltd,c2:8;scan:11,20,2026-11-12T19:31:12Z,2026-11-16T19:23:03Z,not reported (permanent ban)
-103.215.74.112,US,United States,150303,SoloRDP,exploit:1;scan:72;web:41,114,2026-11-11T12:19:53Z,2026-11-16T13:59:10Z,2026-11-13T02:31:32Z
-5.188.206.30,US,United States,200391,KREZ 999 EOOD,scan:284,328,2026-11-11T09:57:51Z,2026-11-16T22:58:03Z,not reported (permanent ban)
+103.215.74.112,US,United States,150303,SoloRDP,exploit:1;scan:64;web:41,106,2026-11-11T12:19:53Z,2026-11-16T13:59:10Z,2026-11-13T02:31:32Z
+5.188.206.30,US,United States,200391,KREZ 999 EOOD,scan:285,329,2026-11-11T09:57:51Z,2026-11-17T00:04:25Z,not reported (permanent ban)
 5.188.206.66,US,United States,200391,KREZ 999 EOOD,scan:52,58,2026-11-15T09:18:45Z,2026-11-15T16:50:16Z,not reported (permanent ban)
 5.188.206.194,US,United States,200391,KREZ 999 EOOD,scan:167,191,2026-11-13T15:19:05Z,2026-11-16T23:13:20Z,not reported (permanent ban)
 23.94.145.35,US,United States,207043,DEDIK SERVICES LIMITED,exploit:9,9,2026-11-13T21:38:17Z,2026-11-14T16:59:00Z,2026-11-14T00:23:42Z
@@ -4453,8 +4457,8 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 34.27.245.17,US,United States,396982,Google LLC,scan:5,10,2026-11-13T02:37:05Z,2026-11-16T04:16:02Z,not reported (permanent ban)
 34.125.49.40,US,United States,396982,Google LLC,scan:8,8,2026-11-13T18:07:39Z,2026-11-14T13:40:58Z,not reported (permanent ban)
 34.125.179.242,US,United States,396982,Google LLC,waf:40;web:1028,1068,2026-11-10T03:18:40Z,2026-11-11T03:35:57Z,2026-11-11T17:06:48Z
-34.148.17.138,US,United States,396982,Google LLC,waf:4;web:426,430,2026-11-16T19:51:47Z,2026-11-16T19:52:00Z,2026-11-16T20:25:52Z
-35.245.194.25,US,United States,396982,Google LLC,waf:44;web:278,322,2026-11-16T21:02:22Z,2026-11-16T21:02:32Z,2026-11-16T22:25:44Z
+34.148.17.138,US,United States,396982,Google LLC,waf:2;web:213,215,2026-11-16T19:51:47Z,2026-11-16T19:52:00Z,2026-11-16T20:25:52Z
+35.245.194.25,US,United States,396982,Google LLC,waf:22;web:139,161,2026-11-16T21:02:22Z,2026-11-16T21:02:32Z,2026-11-16T22:25:44Z
 104.198.46.187,US,United States,396982,Google LLC,scan:1;web:224,225,2026-11-15T01:03:48Z,2026-11-15T01:04:29Z,2026-11-15T02:25:48Z
 136.87.66.64,US,United States,396982,Google LLC,waf:22;web:178,200,2026-11-15T16:25:43Z,2026-11-15T16:25:56Z,2026-11-15T18:25:04Z
 216.25.89.65,US,United States,396982,Google LLC,scan:18,22,2026-11-11T16:09:33Z,2026-11-16T02:18:28Z,not reported (permanent ban)
@@ -4464,7 +4468,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 216.25.89.72,US,United States,396982,Google LLC,scan:33,46,2026-11-12T10:00:10Z,2026-11-16T20:18:35Z,not reported (permanent ban)
 216.25.89.74,US,United States,396982,Google LLC,c2:7;scan:32,41,2026-11-11T18:15:45Z,2026-11-15T15:07:28Z,not reported (permanent ban)
 216.25.89.75,US,United States,396982,Google LLC,scan:33,45,2026-11-11T10:29:36Z,2026-11-16T22:47:46Z,not reported (permanent ban)
-216.25.89.77,US,United States,396982,Google LLC,c2:12;scan:32,45,2026-11-12T07:53:59Z,2026-11-16T19:39:17Z,not reported (permanent ban)
+216.25.89.77,US,United States,396982,Google LLC,c2:12;scan:33,46,2026-11-12T07:53:59Z,2026-11-17T00:16:43Z,not reported (permanent ban)
 216.25.89.80,US,United States,396982,Google LLC,scan:24,28,2026-11-11T18:56:04Z,2026-11-15T00:39:38Z,not reported (permanent ban)
 216.25.89.83,US,United States,396982,Google LLC,c2:8;scan:32,41,2026-11-11T15:07:37Z,2026-11-14T18:38:05Z,not reported (permanent ban)
 216.25.89.86,US,United States,396982,Google LLC,scan:34,46,2026-11-11T21:21:09Z,2026-11-16T22:28:26Z,not reported (permanent ban)
@@ -4566,7 +4570,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 216.25.90.71,US,United States,396982,Google LLC,c2:5;scan:32,39,2026-11-12T04:34:01Z,2026-11-14T03:32:35Z,not reported (permanent ban)
 216.25.90.72,US,United States,396982,Google LLC,c2:8;scan:27,36,2026-11-11T18:46:07Z,2026-11-16T20:39:41Z,not reported (permanent ban)
 216.25.90.74,US,United States,396982,Google LLC,c2:4;scan:15,20,2026-11-12T04:31:10Z,2026-11-15T02:43:22Z,not reported (permanent ban)
-216.25.90.75,US,United States,396982,Google LLC,c2:5;scan:16,22,2026-11-12T22:10:30Z,2026-11-16T01:26:50Z,not reported (permanent ban)
+216.25.90.75,US,United States,396982,Google LLC,c2:6;scan:17,24,2026-11-12T22:10:30Z,2026-11-17T00:07:01Z,not reported (permanent ban)
 216.25.90.77,US,United States,396982,Google LLC,c2:4;scan:13,19,2026-11-11T20:42:19Z,2026-11-14T00:29:33Z,not reported (permanent ban)
 216.25.90.78,US,United States,396982,Google LLC,c2:5;exploit:1;scan:11,18,2026-11-12T05:00:40Z,2026-11-16T23:17:12Z,not reported (permanent ban)
 216.25.90.80,US,United States,396982,Google LLC,c2:6;scan:24,31,2026-11-11T18:31:58Z,2026-11-14T17:16:38Z,not reported (permanent ban)
@@ -4653,7 +4657,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 66.132.172.123,US,United States,398324,"Censys, Inc.",c2:17;scan:113,131,2026-11-11T11:41:53Z,2026-11-16T22:43:51Z,not reported (permanent ban)
 66.132.172.124,US,United States,398324,"Censys, Inc.",c2:18;scan:104,123,2026-11-11T13:21:24Z,2026-11-16T21:45:47Z,not reported (permanent ban)
 66.132.172.125,US,United States,398324,"Censys, Inc.",scan:25,26,2026-11-11T10:34:10Z,2026-11-14T21:56:40Z,not reported (permanent ban)
-66.132.172.126,US,United States,398324,"Censys, Inc.",c2:14;scan:68,84,2026-11-11T12:10:57Z,2026-11-16T04:46:08Z,not reported (permanent ban)
+66.132.172.126,US,United States,398324,"Censys, Inc.",c2:15;scan:69,86,2026-11-11T12:10:57Z,2026-11-17T00:05:59Z,not reported (permanent ban)
 66.132.172.127,US,United States,398324,"Censys, Inc.",c2:16;scan:86,103,2026-11-11T11:07:43Z,2026-11-16T23:00:20Z,not reported (permanent ban)
 66.132.172.128,US,United States,398324,"Censys, Inc.",c2:4;scan:13,18,2026-11-11T05:56:55Z,2026-11-15T21:05:11Z,not reported (permanent ban)
 66.132.172.130,US,United States,398324,"Censys, Inc.",c2:3;scan:5;web:2,11,2026-11-11T21:30:40Z,2026-11-14T21:39:28Z,not reported (permanent ban)
@@ -4709,7 +4713,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 66.132.172.236,US,United States,398324,"Censys, Inc.",c2:9;scan:47,57,2026-11-11T10:02:05Z,2026-11-14T00:55:45Z,not reported (permanent ban)
 66.132.172.237,US,United States,398324,"Censys, Inc.",c2:19;scan:147,174,2026-11-11T10:05:14Z,2026-11-16T20:46:37Z,not reported (permanent ban)
 66.132.172.238,US,United States,398324,"Censys, Inc.",c2:18;scan:107,127,2026-11-11T10:16:10Z,2026-11-16T22:27:26Z,not reported (permanent ban)
-66.132.172.239,US,United States,398324,"Censys, Inc.",c2:17;scan:126,146,2026-11-11T12:01:27Z,2026-11-16T20:45:39Z,not reported (permanent ban)
+66.132.172.239,US,United States,398324,"Censys, Inc.",c2:18;scan:127,148,2026-11-11T12:01:27Z,2026-11-17T00:10:33Z,not reported (permanent ban)
 66.132.172.240,US,United States,398324,"Censys, Inc.",scan:38,39,2026-11-11T10:32:11Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 66.132.172.241,US,United States,398324,"Censys, Inc.",c2:19;scan:115,137,2026-11-11T10:58:04Z,2026-11-16T22:23:22Z,not reported (permanent ban)
 66.132.172.242,US,United States,398324,"Censys, Inc.",scan:46,47,2026-11-11T10:08:11Z,2026-11-14T21:56:40Z,not reported (permanent ban)
@@ -4722,7 +4726,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 66.132.172.249,US,United States,398324,"Censys, Inc.",scan:40,41,2026-11-11T13:38:04Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 66.132.172.250,US,United States,398324,"Censys, Inc.",scan:46,47,2026-11-11T10:26:41Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 66.132.172.251,US,United States,398324,"Censys, Inc.",scan:47,50,2026-11-11T11:05:06Z,2026-11-14T21:56:40Z,not reported (permanent ban)
-66.132.172.252,US,United States,398324,"Censys, Inc.",c2:18;scan:129,148,2026-11-11T11:45:34Z,2026-11-16T20:08:21Z,not reported (permanent ban)
+66.132.172.252,US,United States,398324,"Censys, Inc.",c2:19;scan:130,150,2026-11-11T11:45:34Z,2026-11-17T00:10:33Z,not reported (permanent ban)
 66.132.172.253,US,United States,398324,"Censys, Inc.",scan:41,42,2026-11-11T10:52:23Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 66.132.172.254,US,United States,398324,"Censys, Inc.",c2:19;scan:127,148,2026-11-11T09:50:15Z,2026-11-16T21:29:47Z,not reported (permanent ban)
 66.132.186.127,US,United States,398324,"Censys, Inc.",scan:27,28,2026-11-12T04:45:14Z,2026-11-14T21:56:40Z,not reported (permanent ban)
@@ -4778,13 +4782,13 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 66.132.186.234,US,United States,398324,"Censys, Inc.",c2:16;scan:86,103,2026-11-11T17:50:33Z,2026-11-16T22:06:36Z,not reported (permanent ban)
 66.132.186.235,US,United States,398324,"Censys, Inc.",scan:18,19,2026-11-12T03:55:02Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 66.132.186.236,US,United States,398324,"Censys, Inc.",c2:16;scan:80,97,2026-11-11T12:00:41Z,2026-11-16T22:12:42Z,not reported (permanent ban)
-66.132.186.237,US,United States,398324,"Censys, Inc.",c2:15;scan:81,97,2026-11-11T12:43:57Z,2026-11-16T06:46:05Z,not reported (permanent ban)
+66.132.186.237,US,United States,398324,"Censys, Inc.",c2:16;scan:82,99,2026-11-11T12:43:57Z,2026-11-17T00:09:01Z,not reported (permanent ban)
 66.132.186.238,US,United States,398324,"Censys, Inc.",c2:16;scan:91,108,2026-11-11T12:55:44Z,2026-11-16T22:21:42Z,not reported (permanent ban)
 66.132.186.239,US,United States,398324,"Censys, Inc.",c2:19;exploit:2;scan:154,179,2026-11-11T10:52:15Z,2026-11-16T15:52:13Z,not reported (permanent ban)
 66.132.186.240,US,United States,398324,"Censys, Inc.",c2:20;scan:163,191,2026-11-11T10:33:41Z,2026-11-16T23:08:41Z,not reported (permanent ban)
 66.132.186.241,US,United States,398324,"Censys, Inc.",c2:19;scan:147,179,2026-11-11T14:26:25Z,2026-11-16T22:47:29Z,not reported (permanent ban)
 66.132.186.242,US,United States,398324,"Censys, Inc.",c2:8;scan:42,53,2026-11-12T04:29:21Z,2026-11-15T21:48:11Z,not reported (permanent ban)
-66.132.186.243,US,United States,398324,"Censys, Inc.",c2:18;exploit:2;scan:146,170,2026-11-11T10:01:13Z,2026-11-16T19:54:01Z,not reported (permanent ban)
+66.132.186.243,US,United States,398324,"Censys, Inc.",c2:18;exploit:2;scan:147,171,2026-11-11T10:01:13Z,2026-11-17T00:03:58Z,not reported (permanent ban)
 66.132.186.244,US,United States,398324,"Censys, Inc.",c2:20;exploit:2;scan:155,182,2026-11-11T09:50:44Z,2026-11-16T20:24:00Z,not reported (permanent ban)
 66.132.186.245,US,United States,398324,"Censys, Inc.",c2:17;scan:120,140,2026-11-11T11:03:05Z,2026-11-16T14:16:14Z,not reported (permanent ban)
 66.132.186.246,US,United States,398324,"Censys, Inc.",c2:18;scan:135,158,2026-11-11T11:26:48Z,2026-11-16T22:38:23Z,not reported (permanent ban)
@@ -4809,7 +4813,7 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 66.132.195.25,US,United States,398324,"Censys, Inc.",c2:19;scan:127,148,2026-11-11T09:56:39Z,2026-11-16T20:48:53Z,not reported (permanent ban)
 66.132.195.26,US,United States,398324,"Censys, Inc.",scan:35,36,2026-11-12T04:12:48Z,2026-11-14T21:56:40Z,not reported (permanent ban)
 66.132.195.27,US,United States,398324,"Censys, Inc.",c2:20;scan:137,158,2026-11-11T09:52:25Z,2026-11-16T22:22:20Z,not reported (permanent ban)
-66.132.195.28,US,United States,398324,"Censys, Inc.",c2:18;scan:133,152,2026-11-11T11:40:27Z,2026-11-16T20:51:43Z,not reported (permanent ban)
+66.132.195.28,US,United States,398324,"Censys, Inc.",c2:18;scan:134,153,2026-11-11T11:40:27Z,2026-11-17T00:04:35Z,not reported (permanent ban)
 66.132.195.29,US,United States,398324,"Censys, Inc.",c2:19;scan:128,152,2026-11-11T10:31:37Z,2026-11-16T22:02:47Z,not reported (permanent ban)
 66.132.195.30,US,United States,398324,"Censys, Inc.",c2:18;scan:146,167,2026-11-11T09:54:52Z,2026-11-16T18:33:43Z,not reported (permanent ban)
 66.132.195.31,US,United States,398324,"Censys, Inc.",c2:1;scan:3,5,2026-11-12T03:11:43Z,2026-11-12T03:12:03Z,not reported (permanent ban)
@@ -4856,18 +4860,18 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 66.132.224.235,US,United States,398324,"Censys, Inc.",c2:1;scan:1,3,2026-11-14T16:31:38Z,2026-11-15T00:18:31Z,not reported (permanent ban)
 66.132.224.241,US,United States,398324,"Censys, Inc.",c2:1;scan:2,4,2026-11-15T04:13:37Z,2026-11-15T04:14:03Z,not reported (permanent ban)
 167.94.145.16,US,United States,398705,"Censys, Inc.",c2:11;scan:50,62,2026-11-11T09:49:30Z,2026-11-16T01:31:58Z,not reported (permanent ban)
-167.94.145.17,US,United States,398705,"Censys, Inc.",c2:19;scan:109,131,2026-11-11T09:47:43Z,2026-11-16T18:05:41Z,not reported (permanent ban)
+167.94.145.17,US,United States,398705,"Censys, Inc.",c2:20;scan:110,133,2026-11-11T09:47:43Z,2026-11-17T00:02:25Z,not reported (permanent ban)
 167.94.145.18,US,United States,398705,"Censys, Inc.",c2:17;scan:109,129,2026-11-11T10:00:54Z,2026-11-16T21:49:39Z,not reported (permanent ban)
 167.94.145.19,US,United States,398705,"Censys, Inc.",c2:18;scan:107,127,2026-11-11T09:46:02Z,2026-11-16T17:03:35Z,not reported (permanent ban)
 167.94.145.20,US,United States,398705,"Censys, Inc.",c2:19;scan:118,140,2026-11-11T09:51:54Z,2026-11-16T21:45:47Z,not reported (permanent ban)
 167.94.145.21,US,United States,398705,"Censys, Inc.",c2:18;scan:109,131,2026-11-11T10:43:41Z,2026-11-16T22:50:28Z,not reported (permanent ban)
 167.94.145.22,US,United States,398705,"Censys, Inc.",c2:18;scan:101,121,2026-11-11T09:46:05Z,2026-11-16T20:56:00Z,not reported (permanent ban)
 167.94.145.23,US,United States,398705,"Censys, Inc.",c2:4;scan:61,73,2026-11-11T10:04:05Z,2026-11-16T01:17:25Z,not reported (permanent ban)
-167.94.145.24,US,United States,398705,"Censys, Inc.",scan:125,146,2026-11-12T03:51:11Z,2026-11-16T19:46:24Z,not reported (permanent ban)
+167.94.145.24,US,United States,398705,"Censys, Inc.",scan:126,147,2026-11-12T03:51:11Z,2026-11-17T00:11:49Z,not reported (permanent ban)
 167.94.145.25,US,United States,398705,"Censys, Inc.",c2:19;scan:110,131,2026-11-11T10:08:24Z,2026-11-16T20:27:11Z,not reported (permanent ban)
 167.94.145.26,US,United States,398705,"Censys, Inc.",c2:9;scan:62,73,2026-11-11T10:32:12Z,2026-11-16T04:21:34Z,not reported (permanent ban)
 167.94.145.27,US,United States,398705,"Censys, Inc.",c2:20;scan:119,143,2026-11-11T09:49:25Z,2026-11-16T23:11:06Z,not reported (permanent ban)
-167.94.145.28,US,United States,398705,"Censys, Inc.",c2:16;scan:87,106,2026-11-11T10:07:36Z,2026-11-16T20:37:33Z,not reported (permanent ban)
+167.94.145.28,US,United States,398705,"Censys, Inc.",c2:17;scan:88,108,2026-11-11T10:07:36Z,2026-11-17T00:14:37Z,not reported (permanent ban)
 167.94.145.29,US,United States,398705,"Censys, Inc.",scan:81,93,2026-11-11T09:57:13Z,2026-11-16T16:49:09Z,not reported (permanent ban)
 167.94.145.30,US,United States,398705,"Censys, Inc.",c2:19;scan:109,131,2026-11-11T11:09:03Z,2026-11-16T23:04:41Z,not reported (permanent ban)
 185.242.3.111,US,United States,401626,"Netiface America, Inc.",scan:31,32,2026-11-12T01:38:05Z,2026-11-15T12:45:42Z,not reported (permanent ban)

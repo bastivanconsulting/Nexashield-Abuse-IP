@@ -7,8 +7,8 @@
 | IP | `100.49.117.77` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Port scanning (28) |
-| Events | 28 |
+| Activity | Port scanning (14) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-16T02:01:35Z |
 | Last seen (UTC) | 2026-11-16T22:22:06Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:25Z |
