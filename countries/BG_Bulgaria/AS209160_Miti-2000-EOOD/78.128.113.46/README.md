@@ -7,10 +7,10 @@
 | IP | `78.128.113.46` |
 | Country | Bulgaria (BG) |
 | ASN | AS209160 · Miti 2000 EOOD |
-| Activity | Port scanning (367), Known botnet / C2 infrastructure (23) |
-| Events | 415 |
+| Activity | Port scanning (368), Known botnet / C2 infrastructure (24) |
+| Events | 417 |
 | First seen (UTC) | 2026-11-11T09:46:24Z |
-| Last seen (UTC) | 2026-11-17T11:17:23Z |
+| Last seen (UTC) | 2026-11-17T13:10:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

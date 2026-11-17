@@ -1,0 +1,14 @@
+{
+  "ip": "13.140.58.111",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 141995,
+  "asn_org": "Contabo Asia Private Limited",
+  "categories": {
+    "scan": 22
+  },
+  "events": 31,
+  "first_seen": "2026-11-14T08:05:07Z",
+  "last_seen": "2026-11-17T11:14:41Z",
+  "reported": "not reported (permanent ban)"
+}
