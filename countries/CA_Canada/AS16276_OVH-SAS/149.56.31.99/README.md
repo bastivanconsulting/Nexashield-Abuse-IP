@@ -7,10 +7,10 @@
 | IP | `149.56.31.99` |
 | Country | Canada (CA) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Abusive HTTP requests (8), Known botnet / C2 infrastructure (4) |
-| Events | 13 |
+| Activity | Abusive HTTP requests (9), Known botnet / C2 infrastructure (5) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-12T22:40:13Z |
-| Last seen (UTC) | 2026-11-16T19:57:35Z |
+| Last seen (UTC) | 2026-11-17T08:20:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

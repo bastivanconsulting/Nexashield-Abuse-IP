@@ -13,7 +13,7 @@
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 1 | Port scanning (12) |
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (5) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 1 | Port scanning (18), Known botnet / C2 infrastructure (4) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 1 | Port scanning (19), Known botnet / C2 infrastructure (4) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
