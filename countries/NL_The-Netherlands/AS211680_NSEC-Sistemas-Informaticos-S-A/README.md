@@ -1,11 +1,11 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇳🇱 The Netherlands · **54** malicious IP(s)
+🇳🇱 The Netherlands · **55** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.156.128.10`](45.156.128.10/) | Port scanning (2) | 3 | 2026-11-17T13:30:29Z |
-| [`45.156.128.51`](45.156.128.51/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-16T01:32:04Z |
+| [`45.156.128.51`](45.156.128.51/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-17T17:44:24Z |
 | [`45.156.128.52`](45.156.128.52/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-17T11:54:51Z |
 | [`45.156.128.54`](45.156.128.54/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-17T06:28:04Z |
 | [`45.156.128.57`](45.156.128.57/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-17T05:44:21Z |
@@ -26,6 +26,7 @@
 | [`45.156.128.78`](45.156.128.78/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 23 | 2026-11-16T09:47:58Z |
 | [`45.156.128.79`](45.156.128.79/) | Port scanning (12), Known botnet / C2 infrastructure (8), Exploitation attempt (CVE / RCE / injection) (1) | 22 | 2026-11-17T06:45:51Z |
 | [`45.156.128.83`](45.156.128.83/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-17T16:30:44Z |
+| [`45.156.128.93`](45.156.128.93/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-17T17:48:03Z |
 | [`45.156.128.98`](45.156.128.98/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T16:41:03Z |
 | [`45.156.128.101`](45.156.128.101/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 16 | 2026-11-16T13:19:20Z |
 | [`45.156.128.102`](45.156.128.102/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 13 | 2026-11-15T14:59:05Z |

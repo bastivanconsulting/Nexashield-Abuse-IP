@@ -24,7 +24,7 @@
 | [`91.92.47.5`](91.92.47.5/) | Abusive HTTP requests (8) | 8 | 2026-11-12T10:14:53Z |
 | [`176.65.132.39`](176.65.132.39/) | Port scanning (21) | 24 | 2026-11-16T13:25:26Z |
 | [`176.65.132.107`](176.65.132.107/) | Port scanning (9), Known botnet / C2 infrastructure (1) | 12 | 2026-11-16T17:32:01Z |
-| [`176.65.132.251`](176.65.132.251/) | Port scanning (74) | 76 | 2026-11-17T09:45:32Z |
+| [`176.65.132.251`](176.65.132.251/) | Port scanning (75) | 77 | 2026-11-17T18:02:07Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

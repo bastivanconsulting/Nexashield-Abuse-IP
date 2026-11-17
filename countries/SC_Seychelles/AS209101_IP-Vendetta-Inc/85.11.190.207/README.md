@@ -8,9 +8,9 @@
 | Country | Seychelles (SC) |
 | ASN | AS209101 · IP Vendetta Inc. |
 | Activity | Port scanning (11) |
-| Events | 12 |
+| Events | 14 |
 | First seen (UTC) | 2026-11-11T10:07:35Z |
-| Last seen (UTC) | 2026-11-14T21:56:40Z |
+| Last seen (UTC) | 2026-11-17T17:38:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

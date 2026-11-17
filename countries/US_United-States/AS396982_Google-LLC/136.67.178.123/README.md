@@ -7,11 +7,11 @@
 | IP | `136.67.178.123` |
 | Country | United States (US) |
 | ASN | AS396982 · Google LLC |
-| Activity | Web injection payload blocked by WAF (179) |
-| Events | 180 |
+| Activity | Abusive HTTP requests (314), Web injection payload blocked by WAF (44) |
+| Events | 358 |
 | First seen (UTC) | 2026-11-17T16:35:15Z |
-| Last seen (UTC) | 2026-11-17T16:38:04Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-17T16:35:25Z |
+| Reported to network owner (UTC) | 2026-11-17T18:26:14Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 
