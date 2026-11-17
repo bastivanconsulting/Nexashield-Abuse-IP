@@ -7,10 +7,10 @@
 | IP | `165.154.176.251` |
 | Country | Nigeria (NG) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (18) |
-| Events | 26 |
+| Activity | Port scanning (19) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-12T16:09:16Z |
-| Last seen (UTC) | 2026-11-17T09:18:44Z |
+| Last seen (UTC) | 2026-11-17T16:50:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

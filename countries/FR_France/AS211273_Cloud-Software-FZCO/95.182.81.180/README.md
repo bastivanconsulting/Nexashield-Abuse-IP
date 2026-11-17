@@ -8,9 +8,9 @@
 | Country | France (FR) |
 | ASN | AS211273 · Cloud Software - FZCO |
 | Activity | Port scanning (14) |
-| Events | 15 |
+| Events | 17 |
 | First seen (UTC) | 2026-11-11T10:13:54Z |
-| Last seen (UTC) | 2026-11-14T21:56:40Z |
+| Last seen (UTC) | 2026-11-17T16:53:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
