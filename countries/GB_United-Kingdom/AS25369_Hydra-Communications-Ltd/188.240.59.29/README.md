@@ -7,10 +7,10 @@
 | IP | `188.240.59.29` |
 | Country | United Kingdom (GB) |
 | ASN | AS25369 · Hydra Communications Ltd |
-| Activity | Port scanning (29) |
-| Events | 35 |
+| Activity | Port scanning (30) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-14T08:26:35Z |
-| Last seen (UTC) | 2026-11-17T06:44:11Z |
+| Last seen (UTC) | 2026-11-17T10:29:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

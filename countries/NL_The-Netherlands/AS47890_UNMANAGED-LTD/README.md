@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`2.57.122.150`](2.57.122.150/) | SSH brute force (264), Port scanning (27), Known botnet / C2 infrastructure (9) | 321 | 2026-11-17T03:57:22Z |
 | [`2.57.122.168`](2.57.122.168/) | SSH brute force (176), Port scanning (22), Known botnet / C2 infrastructure (8) | 210 | 2026-11-16T17:06:52Z |
-| [`2.57.122.207`](2.57.122.207/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 16 | 2026-11-17T06:11:47Z |
+| [`2.57.122.207`](2.57.122.207/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 17 | 2026-11-17T10:41:00Z |
 | [`2.57.122.209`](2.57.122.209/) | SSH brute force (73), Port scanning (25), Known botnet / C2 infrastructure (9) | 112 | 2026-11-17T01:14:19Z |
 | [`80.94.92.55`](80.94.92.55/) | SSH brute force (78), Port scanning (43), Known botnet / C2 infrastructure (14) | 145 | 2026-11-16T18:23:37Z |
 | [`80.94.92.130`](80.94.92.130/) | Port scanning (163), Known botnet / C2 infrastructure (13) | 188 | 2026-11-16T20:03:02Z |
@@ -26,7 +26,7 @@
 | [`92.118.39.77`](92.118.39.77/) | SSH brute force (339), Port scanning (13), Known botnet / C2 infrastructure (6) | 360 | 2026-11-16T05:00:33Z |
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (72), Port scanning (6), Known botnet / C2 infrastructure (5) | 90 | 2026-11-17T03:53:33Z |
 | [`92.118.39.92`](92.118.39.92/) | Port scanning (49), Known botnet / C2 infrastructure (14) | 64 | 2026-11-17T09:51:22Z |
-| [`92.118.39.181`](92.118.39.181/) | Port scanning (162), Known botnet / C2 infrastructure (5) | 173 | 2026-11-17T09:37:18Z |
+| [`92.118.39.181`](92.118.39.181/) | Port scanning (163), Known botnet / C2 infrastructure (5) | 174 | 2026-11-17T10:43:31Z |
 | [`92.118.39.246`](92.118.39.246/) | Port scanning (11) | 12 | 2026-11-16T03:44:37Z |
 | [`193.32.162.15`](193.32.162.15/) | Port scanning (378), SSH brute force (20), Known botnet / C2 infrastructure (20) | 433 | 2026-11-17T09:01:54Z |
 | [`193.32.162.73`](193.32.162.73/) | Web injection payload blocked by WAF (16), Port scanning (7), Known botnet / C2 infrastructure (1) | 25 | 2026-11-14T21:56:54Z |

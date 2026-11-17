@@ -7,10 +7,10 @@
 | IP | `139.19.117.129` |
 | Country | Germany (DE) |
 | ASN | AS680 · Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. |
-| Activity | SSH brute force (18) |
-| Events | 18 |
+| Activity | SSH brute force (20) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-16T19:44:00Z |
-| Last seen (UTC) | 2026-11-17T08:39:03Z |
+| Last seen (UTC) | 2026-11-17T10:36:13Z |
 | Reported to network owner (UTC) | 2026-11-17T06:26:14Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

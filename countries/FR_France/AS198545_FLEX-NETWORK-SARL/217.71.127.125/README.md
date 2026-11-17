@@ -7,10 +7,10 @@
 | IP | `217.71.127.125` |
 | Country | France (FR) |
 | ASN | AS198545 · FLEX NETWORK SARL |
-| Activity | Port scanning (52) |
-| Events | 66 |
+| Activity | Port scanning (53) |
+| Events | 68 |
 | First seen (UTC) | 2026-11-12T04:06:55Z |
-| Last seen (UTC) | 2026-11-17T01:29:24Z |
+| Last seen (UTC) | 2026-11-17T10:30:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

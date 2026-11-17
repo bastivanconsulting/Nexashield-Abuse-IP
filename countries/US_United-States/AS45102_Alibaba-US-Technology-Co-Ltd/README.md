@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`47.77.223.200`](47.77.223.200/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T20:08:04Z |
-| [`47.88.2.147`](47.88.2.147/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T20:50:04Z |
+| [`47.88.2.147`](47.88.2.147/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-17T10:53:51Z |
 | [`47.88.66.103`](47.88.66.103/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T18:40:03Z |
 | [`47.89.241.203`](47.89.241.203/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-17T09:00:02Z |
 | [`47.251.13.198`](47.251.13.198/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T05:57:03Z |
@@ -24,8 +24,8 @@
 | [`47.251.101.253`](47.251.101.253/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 12 | 2026-11-16T22:29:58Z |
 | [`47.251.124.51`](47.251.124.51/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-17T09:22:04Z |
 | [`47.251.171.255`](47.251.171.255/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T07:21:03Z |
-| [`47.251.179.212`](47.251.179.212/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 8 | 2026-11-14T10:31:38Z |
-| [`47.251.186.35`](47.251.186.35/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T11:56:02Z |
+| [`47.251.179.212`](47.251.179.212/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-17T10:27:04Z |
+| [`47.251.186.35`](47.251.186.35/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-17T10:21:20Z |
 | [`47.251.190.194`](47.251.190.194/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T20:54:29Z |
 | [`47.253.224.181`](47.253.224.181/) | Port scanning (18) | 30 | 2026-11-16T23:06:25Z |
 | [`47.254.44.103`](47.254.44.103/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-17T04:36:14Z |

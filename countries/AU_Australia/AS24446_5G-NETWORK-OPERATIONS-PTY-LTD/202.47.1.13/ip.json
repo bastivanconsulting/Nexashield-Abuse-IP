@@ -5,11 +5,11 @@
   "asn": 24446,
   "asn_org": "5G NETWORK OPERATIONS PTY LTD",
   "categories": {
-    "scan": 3,
-    "c2": 2
+    "scan": 4,
+    "c2": 3
   },
-  "events": 5,
+  "events": 8,
   "first_seen": "2026-11-13T15:59:17Z",
-  "last_seen": "2026-11-16T14:24:52Z",
+  "last_seen": "2026-11-17T10:21:04Z",
   "reported": "not reported (permanent ban)"
 }

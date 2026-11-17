@@ -8,9 +8,9 @@
 | Country | United Kingdom (GB) |
 | ASN | AS215930 · CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD |
 | Activity | Port scanning (34) |
-| Events | 34 |
+| Events | 35 |
 | First seen (UTC) | 2026-11-14T11:19:58Z |
-| Last seen (UTC) | 2026-11-17T10:05:55Z |
+| Last seen (UTC) | 2026-11-17T10:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
