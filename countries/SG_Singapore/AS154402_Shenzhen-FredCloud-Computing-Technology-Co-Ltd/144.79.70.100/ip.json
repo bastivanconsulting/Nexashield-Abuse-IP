@@ -1,0 +1,14 @@
+{
+  "ip": "144.79.70.100",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 154402,
+  "asn_org": "Shenzhen FredCloud Computing Technology Co., Ltd.",
+  "categories": {
+    "scan": 29
+  },
+  "events": 30,
+  "first_seen": "2026-11-11T12:21:13Z",
+  "last_seen": "2026-11-16T01:41:08Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`5.188.206.30`](5.188.206.30/) | Port scanning (286) | 330 | 2026-11-17T00:29:31Z |
 | [`5.188.206.66`](5.188.206.66/) | Port scanning (52) | 58 | 2026-11-15T16:50:16Z |
-| [`5.188.206.194`](5.188.206.194/) | Port scanning (168) | 192 | 2026-11-17T00:48:33Z |
+| [`5.188.206.194`](5.188.206.194/) | Port scanning (169) | 193 | 2026-11-17T01:47:52Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

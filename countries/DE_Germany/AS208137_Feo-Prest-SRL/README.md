@@ -1,6 +1,6 @@
 # AS208137 · Feo Prest SRL
 
-🇩🇪 Germany · **4** malicious IP(s)
+🇩🇪 Germany · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`213.209.159.26`](213.209.159.26/) | Port scanning (89) | 95 | 2026-11-13T03:26:48Z |
 | [`213.209.159.66`](213.209.159.66/) | Port scanning (58) | 59 | 2026-11-17T01:07:20Z |
 | [`213.209.159.115`](213.209.159.115/) | Port scanning (72) | 116 | 2026-11-16T22:28:27Z |
+| [`213.209.159.175`](213.209.159.175/) | Abusive HTTP requests (10) | 10 | 2026-11-17T01:43:37Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

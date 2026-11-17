@@ -7,10 +7,10 @@
 | IP | `199.195.252.209` |
 | Country | United States (US) |
 | ASN | AS53667 · FranTech Solutions |
-| Activity | Port scanning (24), Known botnet / C2 infrastructure (6) |
-| Events | 31 |
+| Activity | Port scanning (27), Known botnet / C2 infrastructure (6) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-14T01:30:50Z |
-| Last seen (UTC) | 2026-11-16T20:21:28Z |
+| Last seen (UTC) | 2026-11-17T02:04:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
