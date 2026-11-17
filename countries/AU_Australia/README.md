@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 8 | Port scanning (74), Known botnet / C2 infrastructure (22), Exploitation attempt (CVE / RCE / injection) (12) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Port scanning (24) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (100), Known botnet / C2 infrastructure (36) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (101), Known botnet / C2 infrastructure (37) |
 | [AS24446](AS24446_5G-NETWORK-OPERATIONS-PTY-LTD/) | 5G NETWORK OPERATIONS PTY LTD | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (26), Known botnet / C2 infrastructure (3) |
 

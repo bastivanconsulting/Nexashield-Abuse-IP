@@ -8,9 +8,9 @@
 | Country | Andorra (AD) |
 | ASN | AS48090 · TECHOFF SRV LIMITED |
 | Activity | SSH brute force (104), Known botnet / C2 infrastructure (8) |
-| Events | 181 |
+| Events | 182 |
 | First seen (UTC) | 2026-11-11T09:52:20Z |
-| Last seen (UTC) | 2026-11-17T19:02:06Z |
+| Last seen (UTC) | 2026-11-17T23:16:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

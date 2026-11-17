@@ -10,7 +10,7 @@
 | [`3.144.77.222`](3.144.77.222/) | Port scanning (5) | 7 | 2026-11-15T00:59:03Z |
 | [`3.144.198.231`](3.144.198.231/) | Web injection payload blocked by WAF (11), Abusive HTTP requests (4) | 15 | 2026-11-16T10:24:24Z |
 | [`3.147.122.184`](3.147.122.184/) | Port scanning (18) | 18 | 2026-11-13T02:15:10Z |
-| [`18.116.101.220`](18.116.101.220/) | Port scanning (8), Known botnet / C2 infrastructure (4), SSH brute force (2) | 25 | 2026-11-17T17:10:12Z |
+| [`18.116.101.220`](18.116.101.220/) | Port scanning (10), Known botnet / C2 infrastructure (5), SSH brute force (2) | 28 | 2026-11-17T23:10:58Z |
 | [`18.119.209.50`](18.119.209.50/) | Port scanning (20) | 20 | 2026-11-16T20:27:40Z |
 | [`18.189.6.159`](18.189.6.159/) | Abusive HTTP requests (157), Web injection payload blocked by WAF (26) | 183 | 2026-11-12T16:32:54Z |
 | [`18.190.15.50`](18.190.15.50/) | Port scanning (79) | 79 | 2026-11-17T15:50:34Z |

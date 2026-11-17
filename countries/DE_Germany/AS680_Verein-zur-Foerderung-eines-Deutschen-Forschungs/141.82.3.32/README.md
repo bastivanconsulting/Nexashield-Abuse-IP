@@ -7,10 +7,10 @@
 | IP | `141.82.3.32` |
 | Country | Germany (DE) |
 | ASN | AS680 · Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. |
-| Activity | Port scanning (15) |
-| Events | 18 |
+| Activity | Port scanning (17) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-12T18:37:24Z |
-| Last seen (UTC) | 2026-11-17T20:52:02Z |
+| Last seen (UTC) | 2026-11-17T23:14:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

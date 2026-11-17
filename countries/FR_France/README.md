@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (6168), Known botnet / C2 infrastructure (1256), Exploitation attempt (CVE / RCE / injection) (11), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1490), SSH brute force (470), Known botnet / C2 infrastructure (132) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 27 | Port scanning (878), Known botnet / C2 infrastructure (96), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (6219), Known botnet / C2 infrastructure (1264), Exploitation attempt (CVE / RCE / injection) (11), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1497), SSH brute force (470), Known botnet / C2 infrastructure (132) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 27 | Port scanning (884), Known botnet / C2 infrastructure (97), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 8 | Abusive HTTP requests (348), Port scanning (144), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (18) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 6 | Port scanning (272), Known botnet / C2 infrastructure (18) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 6 | Port scanning (273), Known botnet / C2 infrastructure (18) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 4 | Port scanning (188), Web injection payload blocked by WAF (8), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (53), Abusive HTTP requests (19), Known botnet / C2 infrastructure (8) |

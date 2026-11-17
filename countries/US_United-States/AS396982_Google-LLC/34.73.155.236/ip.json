@@ -1,0 +1,14 @@
+{
+  "ip": "34.73.155.236",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 217
+  },
+  "events": 218,
+  "first_seen": "2026-11-17T23:08:54Z",
+  "last_seen": "2026-11-17T23:09:06Z",
+  "reported": "not reported (permanent ban)"
+}
