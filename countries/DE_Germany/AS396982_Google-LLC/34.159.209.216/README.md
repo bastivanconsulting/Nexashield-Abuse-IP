@@ -7,11 +7,11 @@
 | IP | `34.159.209.216` |
 | Country | Germany (DE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Web injection payload blocked by WAF (1) |
-| Events | 1 |
+| Activity | Abusive HTTP requests (282), Web injection payload blocked by WAF (52) |
+| Events | 334 |
 | First seen (UTC) | 2026-11-17T21:18:34Z |
-| Last seen (UTC) | 2026-11-17T21:18:34Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-17T22:23:22Z |
+| Reported to network owner (UTC) | 2026-11-17T22:25:26Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

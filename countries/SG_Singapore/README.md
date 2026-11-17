@@ -13,7 +13,7 @@
 | [AS154402](AS154402_Shenzhen-FredCloud-Computing-Technology-Co-Ltd/) | Shenzhen FredCloud Computing Technology Co., Ltd. | 1 | Port scanning (33) |
 | [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (120) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Abusive HTTP requests (59) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Web injection payload blocked by WAF (220) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (396), Web injection payload blocked by WAF (44) |
 | [AS55430](AS55430_Starhub-Internet-Pte-Ltd/) | Starhub Internet Pte Ltd | 1 | Port scanning (16), Known botnet / C2 infrastructure (5) |
 
 ---

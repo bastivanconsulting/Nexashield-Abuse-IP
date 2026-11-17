@@ -7,10 +7,10 @@
 | IP | `221.145.31.147` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | Port scanning (75) |
-| Events | 99 |
+| Activity | Port scanning (76) |
+| Events | 101 |
 | First seen (UTC) | 2026-11-12T04:15:59Z |
-| Last seen (UTC) | 2026-11-17T13:46:36Z |
+| Last seen (UTC) | 2026-11-17T21:51:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

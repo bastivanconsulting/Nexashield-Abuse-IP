@@ -5,12 +5,12 @@
   "asn": 28267,
   "asn_org": "SIM INTERNET PROVEDORES DE INTERNET EIRELI.",
   "categories": {
-    "scan": 7,
+    "scan": 8,
     "web": 2,
-    "c2": 4
+    "c2": 5
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-12T18:58:56Z",
-  "last_seen": "2026-11-17T12:03:54Z",
+  "last_seen": "2026-11-17T22:15:08Z",
   "reported": "not reported (permanent ban)"
 }

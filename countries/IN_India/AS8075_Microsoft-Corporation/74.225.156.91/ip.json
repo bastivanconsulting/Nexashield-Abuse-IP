@@ -1,0 +1,15 @@
+{
+  "ip": "74.225.156.91",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "ssh": 21,
+    "c2": 1
+  },
+  "events": 22,
+  "first_seen": "2026-11-16T11:26:59Z",
+  "last_seen": "2026-11-17T22:17:34Z",
+  "reported": "not reported (permanent ban)"
+}
