@@ -5,11 +5,11 @@
   "asn": 9515,
   "asn_org": "Compute Global Limited",
   "categories": {
-    "scan": 10,
+    "scan": 12,
     "c2": 4
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-13T04:42:42Z",
-  "last_seen": "2026-11-17T01:47:05Z",
+  "last_seen": "2026-11-17T02:33:00Z",
   "reported": "not reported (permanent ban)"
 }

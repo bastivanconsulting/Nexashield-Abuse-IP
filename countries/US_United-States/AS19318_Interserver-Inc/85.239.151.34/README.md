@@ -7,10 +7,10 @@
 | IP | `85.239.151.34` |
 | Country | United States (US) |
 | ASN | AS19318 · Interserver, Inc |
-| Activity | Port scanning (66) |
-| Events | 82 |
+| Activity | Port scanning (68) |
+| Events | 84 |
 | First seen (UTC) | 2026-11-11T10:39:59Z |
-| Last seen (UTC) | 2026-11-17T00:18:11Z |
+| Last seen (UTC) | 2026-11-17T03:08:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

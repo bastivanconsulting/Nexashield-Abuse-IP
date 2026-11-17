@@ -12,7 +12,7 @@
 | [`109.105.209.12`](109.105.209.12/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 13 | 2026-11-16T05:59:33Z |
 | [`109.105.209.13`](109.105.209.13/) | Port scanning (15), Known botnet / C2 infrastructure (8) | 24 | 2026-11-16T09:25:57Z |
 | [`109.105.209.14`](109.105.209.14/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-15T20:51:05Z |
-| [`109.105.209.15`](109.105.209.15/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T10:12:02Z |
+| [`109.105.209.15`](109.105.209.15/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-17T02:38:21Z |
 | [`109.105.209.17`](109.105.209.17/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T01:56:12Z |
 | [`109.105.209.18`](109.105.209.18/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-16T10:38:17Z |
 | [`109.105.209.20`](109.105.209.20/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-16T16:28:46Z |
@@ -44,7 +44,7 @@
 | [`109.105.210.59`](109.105.210.59/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-16T04:43:46Z |
 | [`109.105.210.60`](109.105.210.60/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-16T06:26:35Z |
 | [`109.105.210.62`](109.105.210.62/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-16T03:13:42Z |
-| [`109.105.210.63`](109.105.210.63/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-16T04:54:27Z |
+| [`109.105.210.63`](109.105.210.63/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-17T03:04:47Z |
 | [`109.105.210.64`](109.105.210.64/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-17T00:48:09Z |
 | [`109.105.210.65`](109.105.210.65/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-16T05:56:10Z |
 | [`109.105.210.67`](109.105.210.67/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-15T21:56:13Z |

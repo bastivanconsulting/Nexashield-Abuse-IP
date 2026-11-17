@@ -8,9 +8,9 @@
 | Country | Singapore (SG) |
 | ASN | AS154402 · Shenzhen FredCloud Computing Technology Co., Ltd. |
 | Activity | Port scanning (29) |
-| Events | 30 |
+| Events | 31 |
 | First seen (UTC) | 2026-11-11T12:21:13Z |
-| Last seen (UTC) | 2026-11-16T01:41:08Z |
+| Last seen (UTC) | 2026-11-17T02:18:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

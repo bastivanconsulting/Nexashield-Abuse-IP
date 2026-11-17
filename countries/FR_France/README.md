@@ -4,14 +4,14 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (5122), Known botnet / C2 infrastructure (1084), Exploitation attempt (CVE / RCE / injection) (9), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1300), SSH brute force (470), Known botnet / C2 infrastructure (116) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 21 | Port scanning (702), Known botnet / C2 infrastructure (75), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 135 | Port scanning (5156), Known botnet / C2 infrastructure (1085), Exploitation attempt (CVE / RCE / injection) (9), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1303), SSH brute force (470), Known botnet / C2 infrastructure (118) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 21 | Port scanning (707), Known botnet / C2 infrastructure (76), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 7 | Abusive HTTP requests (348), Port scanning (109), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (13) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (232), Known botnet / C2 infrastructure (15) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (171), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (51), Abusive HTTP requests (19), Known botnet / C2 infrastructure (8) |
+| [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (52), Abusive HTTP requests (19), Known botnet / C2 infrastructure (8) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (37), Known botnet / C2 infrastructure (2) |
 | [AS12322](AS12322_Free-SAS/) | Free SAS | 1 | Port scanning (5), Known botnet / C2 infrastructure (4) |
 | [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (52) |

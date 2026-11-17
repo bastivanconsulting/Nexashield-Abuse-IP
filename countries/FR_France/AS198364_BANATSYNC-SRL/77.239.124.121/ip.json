@@ -6,10 +6,10 @@
   "asn_org": "BANATSYNC SRL",
   "categories": {
     "scan": 111,
-    "c2": 14
+    "c2": 15
   },
-  "events": 127,
+  "events": 128,
   "first_seen": "2026-11-12T09:25:03Z",
-  "last_seen": "2026-11-17T02:17:35Z",
+  "last_seen": "2026-11-17T02:18:03Z",
   "reported": "not reported (permanent ban)"
 }

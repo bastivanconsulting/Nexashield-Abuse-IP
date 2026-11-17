@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 259 | Port scanning (7946), Known botnet / C2 infrastructure (902), Abusive HTTP requests (42), SSH brute force (41), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
+| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 259 | Port scanning (7983), Known botnet / C2 infrastructure (924), Abusive HTTP requests (42), SSH brute force (41), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 26 | Abusive HTTP requests (4173), Web injection payload blocked by WAF (34) |
 
 ---

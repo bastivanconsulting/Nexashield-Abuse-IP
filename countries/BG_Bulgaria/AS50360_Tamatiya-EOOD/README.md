@@ -1,16 +1,17 @@
 # AS50360 · Tamatiya EOOD
 
-🇧🇬 Bulgaria · **33** malicious IP(s)
+🇧🇬 Bulgaria · **34** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`78.128.114.46`](78.128.114.46/) | Port scanning (14) | 14 | 2026-11-17T01:37:41Z |
-| [`78.128.114.166`](78.128.114.166/) | Port scanning (60), Known botnet / C2 infrastructure (13) | 74 | 2026-11-17T01:18:30Z |
+| [`78.128.114.166`](78.128.114.166/) | Port scanning (61), Known botnet / C2 infrastructure (13) | 75 | 2026-11-17T02:36:03Z |
 | [`78.128.114.174`](78.128.114.174/) | Port scanning (52) | 52 | 2026-11-14T16:03:24Z |
 | [`79.124.40.114`](79.124.40.114/) | Port scanning (336), Known botnet / C2 infrastructure (19) | 381 | 2026-11-17T00:52:35Z |
 | [`79.124.40.142`](79.124.40.142/) | Port scanning (35), Known botnet / C2 infrastructure (10) | 51 | 2026-11-16T22:59:44Z |
 | [`79.124.40.150`](79.124.40.150/) | Port scanning (306), Known botnet / C2 infrastructure (21) | 355 | 2026-11-17T00:19:54Z |
 | [`79.124.40.158`](79.124.40.158/) | Port scanning (320), Known botnet / C2 infrastructure (20) | 367 | 2026-11-17T00:33:17Z |
+| [`79.124.40.166`](79.124.40.166/) | Port scanning (22), Known botnet / C2 infrastructure (3) | 26 | 2026-11-17T03:11:34Z |
 | [`79.124.40.170`](79.124.40.170/) | Port scanning (321), Known botnet / C2 infrastructure (20) | 360 | 2026-11-17T01:05:25Z |
 | [`79.124.40.186`](79.124.40.186/) | Port scanning (136) | 155 | 2026-11-17T00:17:38Z |
 | [`79.124.49.62`](79.124.49.62/) | Port scanning (21), Known botnet / C2 infrastructure (9) | 34 | 2026-11-16T17:11:36Z |
@@ -30,8 +31,8 @@
 | [`79.124.58.218`](79.124.58.218/) | Port scanning (65), Known botnet / C2 infrastructure (2) | 69 | 2026-11-12T06:31:08Z |
 | [`79.124.58.250`](79.124.58.250/) | Port scanning (284) | 329 | 2026-11-17T00:20:13Z |
 | [`79.124.59.10`](79.124.59.10/) | Port scanning (281) | 319 | 2026-11-17T00:53:22Z |
-| [`79.124.59.78`](79.124.59.78/) | Port scanning (439), Known botnet / C2 infrastructure (22) | 499 | 2026-11-17T02:10:02Z |
-| [`79.124.59.82`](79.124.59.82/) | Port scanning (227), Known botnet / C2 infrastructure (10) | 268 | 2026-11-17T01:16:59Z |
+| [`79.124.59.78`](79.124.59.78/) | Port scanning (441), Known botnet / C2 infrastructure (22) | 501 | 2026-11-17T03:15:28Z |
+| [`79.124.59.82`](79.124.59.82/) | Port scanning (229), Known botnet / C2 infrastructure (10) | 270 | 2026-11-17T03:00:54Z |
 | [`79.124.60.194`](79.124.60.194/) | Port scanning (86) | 99 | 2026-11-12T14:50:09Z |
 | [`79.124.60.218`](79.124.60.218/) | Port scanning (23) | 23 | 2026-11-12T10:44:03Z |
 | [`79.124.60.250`](79.124.60.250/) | Port scanning (287) | 330 | 2026-11-17T00:04:43Z |
