@@ -7,10 +7,10 @@
 | IP | `62.60.134.132` |
 | Country | Bulgaria (BG) |
 | ASN | AS209425 · KOI CLOUD SERVICES (Pty) Ltd |
-| Activity | Port scanning (72), Known botnet / C2 infrastructure (10) |
-| Events | 83 |
+| Activity | Port scanning (73), Known botnet / C2 infrastructure (10) |
+| Events | 84 |
 | First seen (UTC) | 2026-11-14T11:11:20Z |
-| Last seen (UTC) | 2026-11-17T17:16:35Z |
+| Last seen (UTC) | 2026-11-17T18:21:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

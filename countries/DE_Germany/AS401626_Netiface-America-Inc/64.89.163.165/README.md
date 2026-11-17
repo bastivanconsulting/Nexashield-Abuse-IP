@@ -8,9 +8,9 @@
 | Country | Germany (DE) |
 | ASN | AS401626 · Netiface America, Inc. |
 | Activity | Port scanning (26) |
-| Events | 36 |
+| Events | 37 |
 | First seen (UTC) | 2026-11-13T10:09:12Z |
-| Last seen (UTC) | 2026-11-17T17:39:52Z |
+| Last seen (UTC) | 2026-11-17T18:18:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

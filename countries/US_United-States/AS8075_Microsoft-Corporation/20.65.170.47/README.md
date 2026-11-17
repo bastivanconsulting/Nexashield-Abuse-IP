@@ -7,10 +7,10 @@
 | IP | `20.65.170.47` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (3) |
-| Events | 16 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (4) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-11T20:30:37Z |
-| Last seen (UTC) | 2026-11-16T22:32:00Z |
+| Last seen (UTC) | 2026-11-17T18:40:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
