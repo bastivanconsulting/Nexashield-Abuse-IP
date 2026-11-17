@@ -1,0 +1,15 @@
+{
+  "ip": "202.47.1.13",
+  "country_code": "AU",
+  "country": "Australia",
+  "asn": 24446,
+  "asn_org": "5G NETWORK OPERATIONS PTY LTD",
+  "categories": {
+    "scan": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-13T15:59:17Z",
+  "last_seen": "2026-11-16T14:24:52Z",
+  "reported": "not reported (permanent ban)"
+}

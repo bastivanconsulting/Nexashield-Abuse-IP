@@ -10,7 +10,7 @@
 | [`207.90.244.14`](207.90.244.14/) | Port scanning (95), Known botnet / C2 infrastructure (19) | 115 | 2026-11-17T04:33:48Z |
 | [`207.90.244.17`](207.90.244.17/) | Port scanning (20), Known botnet / C2 infrastructure (12) | 33 | 2026-11-16T21:05:01Z |
 | [`207.90.244.18`](207.90.244.18/) | Port scanning (111), Known botnet / C2 infrastructure (20) | 134 | 2026-11-17T08:33:34Z |
-| [`207.90.244.19`](207.90.244.19/) | Port scanning (91), Known botnet / C2 infrastructure (17) | 109 | 2026-11-17T07:59:02Z |
+| [`207.90.244.19`](207.90.244.19/) | Port scanning (92), Known botnet / C2 infrastructure (17) | 110 | 2026-11-17T10:04:24Z |
 | [`207.90.244.28`](207.90.244.28/) | Port scanning (37), Known botnet / C2 infrastructure (7) | 45 | 2026-11-17T09:17:26Z |
 
 ---

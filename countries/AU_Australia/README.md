@@ -1,12 +1,13 @@
 # 🇦🇺 Australia
 
-**13** malicious IP(s) across **4** network(s).
+**14** malicious IP(s) across **5** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 8 | Port scanning (70), Known botnet / C2 infrastructure (20), Exploitation attempt (CVE / RCE / injection) (12) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 8 | Port scanning (71), Known botnet / C2 infrastructure (20), Exploitation attempt (CVE / RCE / injection) (12) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Port scanning (24) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (98), Known botnet / C2 infrastructure (34) |
+| [AS24446](AS24446_5G-NETWORK-OPERATIONS-PTY-LTD/) | 5G NETWORK OPERATIONS PTY LTD | 1 | Port scanning (3), Known botnet / C2 infrastructure (2) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (26), Known botnet / C2 infrastructure (3) |
 
 ---

@@ -7,11 +7,11 @@
 | IP | `217.60.183.81` |
 | Country | Germany (DE) |
 | ASN | AS197574 · ExpressHost Ltd |
-| Activity | Abusive HTTP requests (27), Port scanning (8), SSH brute force (6) |
-| Events | 46 |
+| Activity | Port scanning (16), SSH brute force (10) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-17T04:42:40Z |
-| Last seen (UTC) | 2026-11-17T08:46:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-17T08:45:17Z |
+| Reported to network owner (UTC) | 2026-11-17T10:25:50Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

@@ -1,0 +1,14 @@
+{
+  "ip": "62.60.130.219",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 215930,
+  "asn_org": "CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD",
+  "categories": {
+    "scan": 34
+  },
+  "events": 34,
+  "first_seen": "2026-11-14T11:19:58Z",
+  "last_seen": "2026-11-17T10:05:55Z",
+  "reported": "not reported (permanent ban)"
+}

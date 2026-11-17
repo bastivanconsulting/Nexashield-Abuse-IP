@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (5480), Known botnet / C2 infrastructure (1144), Exploitation attempt (CVE / RCE / injection) (10), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1369), SSH brute force (470), Known botnet / C2 infrastructure (121) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 26 | Port scanning (776), Known botnet / C2 infrastructure (87), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (5530), Known botnet / C2 infrastructure (1150), Exploitation attempt (CVE / RCE / injection) (11), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1381), SSH brute force (470), Known botnet / C2 infrastructure (123) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 26 | Port scanning (780), Known botnet / C2 infrastructure (87), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 7 | Abusive HTTP requests (348), Port scanning (109), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (13) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (232), Known botnet / C2 infrastructure (15) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 5 | Port scanning (238), Known botnet / C2 infrastructure (16) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (177), Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (52), Abusive HTTP requests (19), Known botnet / C2 infrastructure (8) |

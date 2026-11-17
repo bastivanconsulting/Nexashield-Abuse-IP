@@ -5,12 +5,11 @@
   "asn": 197574,
   "asn_org": "ExpressHost Ltd",
   "categories": {
-    "scan": 8,
-    "ssh": 6,
-    "web": 27
+    "scan": 16,
+    "ssh": 10
   },
-  "events": 46,
+  "events": 26,
   "first_seen": "2026-11-17T04:42:40Z",
-  "last_seen": "2026-11-17T08:46:03Z",
-  "reported": "not reported (permanent ban)"
+  "last_seen": "2026-11-17T08:45:17Z",
+  "reported": "2026-11-17T10:25:50Z"
 }

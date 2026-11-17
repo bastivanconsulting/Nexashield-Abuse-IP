@@ -7,10 +7,10 @@
 | IP | `106.75.177.147` |
 | Country | China (CN) |
 | ASN | AS136958 · China Unicom Guangdong IP network |
-| Activity | Port scanning (10) |
-| Events | 16 |
+| Activity | Port scanning (11) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-12T01:33:27Z |
-| Last seen (UTC) | 2026-11-16T14:08:38Z |
+| Last seen (UTC) | 2026-11-17T09:27:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
