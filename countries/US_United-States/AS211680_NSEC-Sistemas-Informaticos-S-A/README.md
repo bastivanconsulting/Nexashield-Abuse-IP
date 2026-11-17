@@ -1,6 +1,6 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇺🇸 United States · **75** malicious IP(s)
+🇺🇸 United States · **76** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -32,7 +32,7 @@
 | [`45.156.129.98`](45.156.129.98/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-17T11:51:01Z |
 | [`45.156.129.101`](45.156.129.101/) | Port scanning (2) | 4 | 2026-11-15T16:24:01Z |
 | [`45.156.129.105`](45.156.129.105/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T15:13:49Z |
-| [`45.156.129.106`](45.156.129.106/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-17T08:56:29Z |
+| [`45.156.129.106`](45.156.129.106/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-17T15:53:40Z |
 | [`45.156.129.107`](45.156.129.107/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-14T21:39:28Z |
 | [`45.156.129.108`](45.156.129.108/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-16T12:58:31Z |
 | [`45.156.129.110`](45.156.129.110/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-14T21:39:28Z |
@@ -68,6 +68,7 @@
 | [`45.156.129.170`](45.156.129.170/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 19 | 2026-11-17T02:54:07Z |
 | [`45.156.129.172`](45.156.129.172/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-15T19:09:48Z |
 | [`45.156.129.173`](45.156.129.173/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-16T02:57:56Z |
+| [`45.156.129.174`](45.156.129.174/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-14T08:03:24Z |
 | [`45.156.129.175`](45.156.129.175/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-16T02:11:08Z |
 | [`45.156.129.176`](45.156.129.176/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-16T00:43:04Z |
 | [`45.156.129.177`](45.156.129.177/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-16T09:03:14Z |

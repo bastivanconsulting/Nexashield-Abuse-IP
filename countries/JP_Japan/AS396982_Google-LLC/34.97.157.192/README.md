@@ -7,10 +7,10 @@
 | IP | `34.97.157.192` |
 | Country | Japan (JP) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (558), Web injection payload blocked by WAF (8) |
-| Events | 566 |
+| Activity | Abusive HTTP requests (1038), Web injection payload blocked by WAF (14) |
+| Events | 1052 |
 | First seen (UTC) | 2026-11-17T12:30:34Z |
-| Last seen (UTC) | 2026-11-17T12:30:56Z |
+| Last seen (UTC) | 2026-11-17T16:20:11Z |
 | Reported to network owner (UTC) | 2026-11-17T14:25:30Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

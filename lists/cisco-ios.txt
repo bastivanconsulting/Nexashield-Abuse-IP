@@ -636,6 +636,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.169.82.238
  host 20.169.83.244
  host 20.169.84.52
+ host 20.169.84.56
  host 20.169.84.197
  host 20.169.84.200
  host 20.169.84.217
@@ -1832,6 +1833,7 @@ object-group network NEXASHIELD-ABUSE
  host 45.156.129.170
  host 45.156.129.172
  host 45.156.129.173
+ host 45.156.129.174
  host 45.156.129.175
  host 45.156.129.176
  host 45.156.129.177

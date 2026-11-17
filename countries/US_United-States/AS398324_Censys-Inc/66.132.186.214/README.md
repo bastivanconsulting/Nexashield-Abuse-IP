@@ -7,10 +7,10 @@
 | IP | `66.132.186.214` |
 | Country | United States (US) |
 | ASN | AS398324 · Censys, Inc. |
-| Activity | Port scanning (133), Known botnet / C2 infrastructure (16) |
-| Events | 153 |
+| Activity | Port scanning (134), Known botnet / C2 infrastructure (17) |
+| Events | 155 |
 | First seen (UTC) | 2026-11-11T10:10:44Z |
-| Last seen (UTC) | 2026-11-17T12:34:43Z |
+| Last seen (UTC) | 2026-11-17T15:50:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
