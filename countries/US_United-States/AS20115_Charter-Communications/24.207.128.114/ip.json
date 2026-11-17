@@ -1,0 +1,15 @@
+{
+  "ip": "24.207.128.114",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 20115,
+  "asn_org": "Charter Communications",
+  "categories": {
+    "ssh": 22,
+    "scan": 6
+  },
+  "events": 28,
+  "first_seen": "2026-11-16T14:25:21Z",
+  "last_seen": "2026-11-17T19:08:50Z",
+  "reported": "2026-11-17T20:26:12Z"
+}

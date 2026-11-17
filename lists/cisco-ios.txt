@@ -380,6 +380,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.15.228.164
  host 20.25.142.204
  host 20.29.29.248
+ host 20.29.44.58
  host 20.29.44.99
  host 20.29.51.138
  host 20.29.51.181
@@ -683,6 +684,7 @@ object-group network NEXASHIELD-ABUSE
  host 23.247.136.239
  host 23.251.87.120
  host 24.148.33.160
+ host 24.207.128.114
  host 24.230.148.242
  host 27.102.116.43
  host 31.14.32.4
@@ -821,6 +823,7 @@ object-group network NEXASHIELD-ABUSE
  host 34.230.47.36
  host 34.230.221.101
  host 35.169.206.177
+ host 35.193.228.113
  host 35.195.19.202
  host 35.195.41.101
  host 35.195.85.59
@@ -1718,6 +1721,7 @@ object-group network NEXASHIELD-ABUSE
  host 45.156.87.153
  host 45.156.87.168
  host 45.156.87.189
+ host 45.156.128.8
  host 45.156.128.10
  host 45.156.128.51
  host 45.156.128.52
@@ -1901,6 +1905,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.84.114.18
  host 47.84.137.6
  host 47.84.137.56
+ host 47.84.137.71
  host 47.84.138.210
  host 47.84.139.148
  host 47.84.141.126
@@ -2153,6 +2158,7 @@ object-group network NEXASHIELD-ABUSE
  host 66.132.159.99
  host 66.132.159.102
  host 66.132.159.108
+ host 66.132.159.109
  host 66.132.159.111
  host 66.132.159.118
  host 66.132.159.122
@@ -2369,6 +2375,7 @@ object-group network NEXASHIELD-ABUSE
  host 66.132.195.105
  host 66.132.195.106
  host 66.132.195.108
+ host 66.132.195.110
  host 66.132.195.111
  host 66.132.195.114
  host 66.132.195.120
@@ -2403,6 +2410,7 @@ object-group network NEXASHIELD-ABUSE
  host 66.240.236.116
  host 66.240.236.119
  host 68.69.177.101
+ host 68.69.177.102
  host 68.183.9.16
  host 68.183.139.205
  host 68.183.174.225
@@ -4542,6 +4550,7 @@ object-group network NEXASHIELD-ABUSE
  host 193.32.209.234
  host 193.32.209.235
  host 193.32.209.237
+ host 193.32.209.239
  host 193.32.209.242
  host 193.32.209.243
  host 193.32.209.244
@@ -4718,6 +4727,7 @@ object-group network NEXASHIELD-ABUSE
  host 194.88.98.106
  host 194.88.98.107
  host 194.88.98.108
+ host 194.88.98.109
  host 194.88.98.110
  host 194.88.98.112
  host 194.88.98.113

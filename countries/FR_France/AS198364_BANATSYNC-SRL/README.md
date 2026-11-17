@@ -31,8 +31,8 @@
 | [`77.239.124.106`](77.239.124.106/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-17T13:01:23Z |
 | [`77.239.124.112`](77.239.124.112/) | Port scanning (46), Known botnet / C2 infrastructure (3) | 52 | 2026-11-14T02:10:55Z |
 | [`77.239.124.115`](77.239.124.115/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-12T14:09:20Z |
-| [`77.239.124.121`](77.239.124.121/) | Port scanning (116), Known botnet / C2 infrastructure (16) | 134 | 2026-11-17T17:57:46Z |
-| [`77.239.124.130`](77.239.124.130/) | Port scanning (283), Known botnet / C2 infrastructure (22) | 327 | 2026-11-17T17:03:33Z |
+| [`77.239.124.121`](77.239.124.121/) | Port scanning (118), Known botnet / C2 infrastructure (16) | 136 | 2026-11-17T20:13:55Z |
+| [`77.239.124.130`](77.239.124.130/) | Port scanning (285), Known botnet / C2 infrastructure (23) | 330 | 2026-11-17T20:06:56Z |
 | [`77.239.124.135`](77.239.124.135/) | Port scanning (171), Known botnet / C2 infrastructure (22) | 197 | 2026-11-17T18:57:29Z |
 | [`77.239.124.137`](77.239.124.137/) | Port scanning (63) | 71 | 2026-11-13T09:37:26Z |
 | [`77.239.124.139`](77.239.124.139/) | Port scanning (82), Known botnet / C2 infrastructure (3) | 92 | 2026-11-14T21:56:54Z |
@@ -53,7 +53,7 @@
 | [`77.239.124.175`](77.239.124.175/) | Port scanning (49), Known botnet / C2 infrastructure (3) | 55 | 2026-11-14T21:56:54Z |
 | [`77.239.124.177`](77.239.124.177/) | Port scanning (122), Known botnet / C2 infrastructure (15) | 138 | 2026-11-17T13:14:07Z |
 | [`77.239.124.178`](77.239.124.178/) | Port scanning (12), Known botnet / C2 infrastructure (3) | 15 | 2026-11-15T22:24:26Z |
-| [`77.239.124.252`](77.239.124.252/) | Port scanning (141), Known botnet / C2 infrastructure (5) | 160 | 2026-11-17T18:51:44Z |
+| [`77.239.124.252`](77.239.124.252/) | Port scanning (152), Known botnet / C2 infrastructure (5) | 172 | 2026-11-17T20:13:52Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

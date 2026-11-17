@@ -6,10 +6,10 @@
   "asn_org": "Google LLC",
   "categories": {
     "c2": 6,
-    "scan": 8
+    "scan": 9
   },
-  "events": 17,
+  "events": 18,
   "first_seen": "2026-11-11T22:02:23Z",
-  "last_seen": "2026-11-17T16:13:28Z",
+  "last_seen": "2026-11-17T20:13:59Z",
   "reported": "not reported (permanent ban)"
 }

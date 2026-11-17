@@ -1,17 +1,17 @@
 # 🇬🇧 United Kingdom
 
-**908** malicious IP(s) across **17** network(s).
+**909** malicious IP(s) across **17** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 640 | Port scanning (11761), Known botnet / C2 infrastructure (1951), Abusive HTTP requests (1) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3670), Known botnet / C2 infrastructure (770) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 23 | Port scanning (273), Known botnet / C2 infrastructure (167) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (866), Abusive HTTP requests (91), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 12 | Port scanning (281), Abusive HTTP requests (54), Known botnet / C2 infrastructure (37), Exploitation attempt (CVE / RCE / injection) (15) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 641 | Port scanning (11794), Known botnet / C2 infrastructure (1967), Abusive HTTP requests (1) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3674), Known botnet / C2 infrastructure (771) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 23 | Port scanning (274), Known botnet / C2 infrastructure (167) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (869), Abusive HTTP requests (91), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 12 | Port scanning (282), Abusive HTTP requests (54), Known botnet / C2 infrastructure (38), Exploitation attempt (CVE / RCE / injection) (15) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (1722), Spamhaus DROP-listed network (106) |
-| [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Known botnet / C2 infrastructure (9), Port scanning (9) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (1740), Spamhaus DROP-listed network (108) |
+| [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (10), Known botnet / C2 infrastructure (9) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (93), Known botnet / C2 infrastructure (32) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (8), Known botnet / C2 infrastructure (2) |
 | [AS11878](AS11878_tzulo-inc/) | tzulo, inc. | 1 | Port scanning (11) |
