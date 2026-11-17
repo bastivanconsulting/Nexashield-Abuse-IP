@@ -1,0 +1,15 @@
+{
+  "ip": "45.135.193.198",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 51396,
+  "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+  "categories": {
+    "web": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-12T07:18:42Z",
+  "last_seen": "2026-11-17T04:51:03Z",
+  "reported": "not reported (permanent ban)"
+}

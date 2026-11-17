@@ -5,10 +5,10 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-    "scan": 22
+    "scan": 24
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-11T19:19:30Z",
-  "last_seen": "2026-11-17T04:08:24Z",
+  "last_seen": "2026-11-17T04:49:12Z",
   "reported": "2026-11-11T16:35:25Z"
 }

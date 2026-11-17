@@ -7,10 +7,10 @@
 | IP | `144.79.70.100` |
 | Country | Singapore (SG) |
 | ASN | AS154402 · Shenzhen FredCloud Computing Technology Co., Ltd. |
-| Activity | Port scanning (29) |
-| Events | 31 |
+| Activity | Port scanning (32) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-11T12:21:13Z |
-| Last seen (UTC) | 2026-11-17T02:18:03Z |
+| Last seen (UTC) | 2026-11-17T05:10:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

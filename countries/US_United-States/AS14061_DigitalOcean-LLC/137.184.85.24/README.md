@@ -7,10 +7,10 @@
 | IP | `137.184.85.24` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (4), Web injection payload blocked by WAF (2) |
-| Events | 24 |
+| Activity | Port scanning (16), Known botnet / C2 infrastructure (5), Web injection payload blocked by WAF (2) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-12T23:20:00Z |
-| Last seen (UTC) | 2026-11-16T22:15:14Z |
+| Last seen (UTC) | 2026-11-17T04:51:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

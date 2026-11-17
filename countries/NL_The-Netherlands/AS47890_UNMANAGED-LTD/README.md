@@ -18,14 +18,14 @@
 | [`92.118.39.56`](92.118.39.56/) | Known botnet / C2 infrastructure (4), Port scanning (4) | 10 | 2026-11-17T02:40:24Z |
 | [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 7 | 2026-11-16T15:06:11Z |
 | [`92.118.39.63`](92.118.39.63/) | SSH brute force (80), Port scanning (16), Known botnet / C2 infrastructure (8) | 109 | 2026-11-17T01:16:05Z |
-| [`92.118.39.64`](92.118.39.64/) | SSH brute force (20), Port scanning (13), Known botnet / C2 infrastructure (5) | 42 | 2026-11-17T04:16:10Z |
+| [`92.118.39.64`](92.118.39.64/) | SSH brute force (22), Port scanning (13), Known botnet / C2 infrastructure (5) | 44 | 2026-11-17T04:26:05Z |
 | [`92.118.39.65`](92.118.39.65/) | Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T12:14:03Z |
 | [`92.118.39.71`](92.118.39.71/) | SSH brute force (455), Port scanning (15), Known botnet / C2 infrastructure (5) | 477 | 2026-11-17T02:28:56Z |
 | [`92.118.39.75`](92.118.39.75/) | SSH brute force (58), Port scanning (19), Known botnet / C2 infrastructure (7) | 88 | 2026-11-16T10:12:53Z |
 | [`92.118.39.76`](92.118.39.76/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 13 | 2026-11-16T01:05:04Z |
 | [`92.118.39.77`](92.118.39.77/) | SSH brute force (339), Port scanning (13), Known botnet / C2 infrastructure (6) | 360 | 2026-11-16T05:00:33Z |
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (72), Port scanning (6), Known botnet / C2 infrastructure (5) | 90 | 2026-11-17T03:53:33Z |
-| [`92.118.39.92`](92.118.39.92/) | Port scanning (47), Known botnet / C2 infrastructure (13) | 61 | 2026-11-17T00:48:09Z |
+| [`92.118.39.92`](92.118.39.92/) | Port scanning (48), Known botnet / C2 infrastructure (13) | 62 | 2026-11-17T04:25:41Z |
 | [`92.118.39.181`](92.118.39.181/) | Port scanning (156), Known botnet / C2 infrastructure (4) | 166 | 2026-11-17T02:58:44Z |
 | [`92.118.39.246`](92.118.39.246/) | Port scanning (11) | 12 | 2026-11-16T03:44:37Z |
 | [`193.32.162.15`](193.32.162.15/) | Port scanning (374), SSH brute force (20), Known botnet / C2 infrastructure (19) | 428 | 2026-11-17T02:07:18Z |

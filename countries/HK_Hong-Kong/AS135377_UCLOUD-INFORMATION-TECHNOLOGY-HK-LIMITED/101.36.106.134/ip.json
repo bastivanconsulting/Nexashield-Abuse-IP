@@ -5,11 +5,11 @@
   "asn": 135377,
   "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
   "categories": {
-    "scan": 12,
-    "c2": 7
+    "scan": 13,
+    "c2": 8
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-12T19:15:09Z",
-  "last_seen": "2026-11-16T16:49:06Z",
+  "last_seen": "2026-11-17T04:30:08Z",
   "reported": "not reported (permanent ban)"
 }
