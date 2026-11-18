@@ -7,10 +7,10 @@
 | IP | `45.56.85.254` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (29), Known botnet / C2 infrastructure (2) |
-| Events | 42 |
+| Activity | Port scanning (30), Known botnet / C2 infrastructure (3) |
+| Events | 44 |
 | First seen (UTC) | 2026-11-12T03:26:47Z |
-| Last seen (UTC) | 2026-11-18T04:14:33Z |
+| Last seen (UTC) | 2026-11-18T09:24:47Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

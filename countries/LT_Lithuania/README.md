@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 9 | Port scanning (888), Spamhaus DROP-listed network (534), Known botnet / C2 infrastructure (9) |
+| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 9 | Port scanning (898), Spamhaus DROP-listed network (538), Known botnet / C2 infrastructure (10) |
 | [AS48721](AS48721_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 
 ---

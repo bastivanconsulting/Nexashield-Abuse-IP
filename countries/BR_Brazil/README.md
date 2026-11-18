@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (802), Known botnet / C2 infrastructure (60), Exploitation attempt (CVE / RCE / injection) (40) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (48), Known botnet / C2 infrastructure (12) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (804), Known botnet / C2 infrastructure (62), Exploitation attempt (CVE / RCE / injection) (40) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (49), Known botnet / C2 infrastructure (13) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (429), Web injection payload blocked by WAF (21) |
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
 | [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 1 | Port scanning (268) |

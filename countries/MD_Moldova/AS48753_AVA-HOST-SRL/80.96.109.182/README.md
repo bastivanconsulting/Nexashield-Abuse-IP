@@ -7,10 +7,10 @@
 | IP | `80.96.109.182` |
 | Country | Moldova (MD) |
 | ASN | AS48753 · AVA HOST SRL |
-| Activity | Port scanning (33) |
-| Events | 48 |
+| Activity | Port scanning (34) |
+| Events | 50 |
 | First seen (UTC) | 2026-11-11T11:31:32Z |
-| Last seen (UTC) | 2026-11-18T06:03:50Z |
+| Last seen (UTC) | 2026-11-18T10:14:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
