@@ -1,0 +1,19 @@
+# `185.200.116.40`
+
+🇸🇬 **Singapore** · AS9009 M247 Europe SRL
+
+| Field | Value |
+|---|---|
+| IP | `185.200.116.40` |
+| Country | Singapore (SG) |
+| ASN | AS9009 · M247 Europe SRL |
+| Activity | Port scanning (20) |
+| Events | 22 |
+| First seen (UTC) | 2026-11-13T16:07:18Z |
+| Last seen (UTC) | 2026-11-18T01:28:31Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `45.81.23.7` |
 | Country | The Netherlands (NL) |
 | ASN | AS49870 · Alsycon B.V. |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (2) |
-| Events | 9 |
+| Activity | Port scanning (8), Known botnet / C2 infrastructure (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-17T09:21:04Z |
-| Last seen (UTC) | 2026-11-17T15:30:18Z |
+| Last seen (UTC) | 2026-11-18T01:24:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
