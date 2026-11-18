@@ -7,11 +7,11 @@
 | IP | `185.123.13.209` |
 | Country | Russia (RU) |
 | ASN | AS57214 · Vidikon-K, CJSC |
-| Activity | SSH brute force (155), Port scanning (2), Known botnet / C2 infrastructure (1) |
-| Events | 160 |
+| Activity | SSH brute force (284), Port scanning (4) |
+| Events | 288 |
 | First seen (UTC) | 2026-11-18T03:08:51Z |
-| Last seen (UTC) | 2026-11-18T03:10:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-18T03:09:21Z |
+| Reported to network owner (UTC) | 2026-11-18T04:25:45Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

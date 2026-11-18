@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇭🇰 Hong Kong · **70** malicious IP(s)
+🇭🇰 Hong Kong · **71** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,7 +8,7 @@
 | [`45.249.246.196`](45.249.246.196/) | Port scanning (20) | 31 | 2026-11-17T21:28:53Z |
 | [`101.36.106.78`](101.36.106.78/) | Port scanning (21) | 21 | 2026-11-17T12:26:10Z |
 | [`101.36.106.89`](101.36.106.89/) | Port scanning (16), Known botnet / C2 infrastructure (10) | 27 | 2026-11-17T20:39:07Z |
-| [`101.36.106.134`](101.36.106.134/) | Port scanning (14), Known botnet / C2 infrastructure (9) | 24 | 2026-11-17T18:48:24Z |
+| [`101.36.106.134`](101.36.106.134/) | Port scanning (15), Known botnet / C2 infrastructure (10) | 26 | 2026-11-18T04:03:01Z |
 | [`101.36.107.243`](101.36.107.243/) | Port scanning (21) | 21 | 2026-11-17T11:38:52Z |
 | [`101.36.108.9`](101.36.108.9/) | Port scanning (14), Known botnet / C2 infrastructure (9) | 24 | 2026-11-17T01:56:12Z |
 | [`101.36.108.133`](101.36.108.133/) | Port scanning (19), Known botnet / C2 infrastructure (11) | 31 | 2026-11-18T00:45:56Z |
@@ -18,8 +18,8 @@
 | [`101.36.110.201`](101.36.110.201/) | Port scanning (32) | 32 | 2026-11-17T12:02:26Z |
 | [`101.36.111.121`](101.36.111.121/) | Port scanning (14) | 14 | 2026-11-15T20:37:57Z |
 | [`101.36.112.101`](101.36.112.101/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-16T15:03:28Z |
-| [`101.36.118.148`](101.36.118.148/) | Port scanning (25), Known botnet / C2 infrastructure (11) | 37 | 2026-11-17T08:11:45Z |
-| [`101.36.119.146`](101.36.119.146/) | Port scanning (18), Known botnet / C2 infrastructure (9) | 28 | 2026-11-17T05:15:40Z |
+| [`101.36.118.148`](101.36.118.148/) | Port scanning (26), Known botnet / C2 infrastructure (12) | 39 | 2026-11-18T04:17:18Z |
+| [`101.36.119.146`](101.36.119.146/) | Port scanning (19), Known botnet / C2 infrastructure (10) | 30 | 2026-11-18T03:36:35Z |
 | [`101.36.121.22`](101.36.121.22/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-15T01:20:08Z |
 | [`101.36.121.72`](101.36.121.72/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-17T16:15:30Z |
 | [`101.36.122.183`](101.36.122.183/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-16T05:13:17Z |
@@ -29,6 +29,7 @@
 | [`101.36.127.95`](101.36.127.95/) | Port scanning (25) | 26 | 2026-11-16T10:30:16Z |
 | [`107.150.123.48`](107.150.123.48/) | Port scanning (16), Known botnet / C2 infrastructure (7) | 24 | 2026-11-17T22:45:34Z |
 | [`118.26.36.18`](118.26.36.18/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-17T15:33:59Z |
+| [`118.26.39.231`](118.26.39.231/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T04:04:04Z |
 | [`118.193.36.107`](118.193.36.107/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-17T17:00:42Z |
 | [`118.193.36.149`](118.193.36.149/) | Port scanning (23), Known botnet / C2 infrastructure (11) | 35 | 2026-11-16T22:00:00Z |
 | [`118.193.39.117`](118.193.39.117/) | Port scanning (5), Known botnet / C2 infrastructure (4), Exploitation attempt (CVE / RCE / injection) (1) | 13 | 2026-11-17T19:35:53Z |
@@ -40,7 +41,7 @@
 | [`128.1.131.193`](128.1.131.193/) | Port scanning (51) | 70 | 2026-11-17T20:18:53Z |
 | [`150.107.38.5`](150.107.38.5/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-17T06:40:16Z |
 | [`150.107.38.40`](150.107.38.40/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 16 | 2026-11-16T11:31:07Z |
-| [`150.107.38.251`](150.107.38.251/) | Port scanning (62), Known botnet / C2 infrastructure (10) | 87 | 2026-11-18T02:22:26Z |
+| [`150.107.38.251`](150.107.38.251/) | Port scanning (64), Known botnet / C2 infrastructure (10) | 89 | 2026-11-18T04:02:57Z |
 | [`152.32.128.85`](152.32.128.85/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-17T16:08:56Z |
 | [`152.32.128.169`](152.32.128.169/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-16T02:37:59Z |
 | [`152.32.129.154`](152.32.129.154/) | Port scanning (16), Known botnet / C2 infrastructure (10), Abusive HTTP requests (1) | 28 | 2026-11-16T16:59:14Z |
@@ -59,7 +60,7 @@
 | [`152.32.213.86`](152.32.213.86/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T05:35:03Z |
 | [`152.32.225.99`](152.32.225.99/) | Port scanning (19), Known botnet / C2 infrastructure (11) | 31 | 2026-11-17T09:28:30Z |
 | [`152.32.251.44`](152.32.251.44/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-17T08:55:58Z |
-| [`165.154.6.224`](165.154.6.224/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 23 | 2026-11-17T03:45:56Z |
+| [`165.154.6.224`](165.154.6.224/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-18T03:46:46Z |
 | [`165.154.22.27`](165.154.22.27/) | Port scanning (21) | 34 | 2026-11-18T00:55:05Z |
 | [`165.154.23.177`](165.154.23.177/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 23 | 2026-11-17T10:17:16Z |
 | [`165.154.40.244`](165.154.40.244/) | Port scanning (22), Known botnet / C2 infrastructure (10) | 33 | 2026-11-16T22:38:36Z |

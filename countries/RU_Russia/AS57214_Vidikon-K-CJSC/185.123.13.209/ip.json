@@ -5,12 +5,11 @@
   "asn": 57214,
   "asn_org": "Vidikon-K, CJSC",
   "categories": {
-    "ssh": 155,
-    "scan": 2,
-    "c2": 1
+    "ssh": 284,
+    "scan": 4
   },
-  "events": 160,
+  "events": 288,
   "first_seen": "2026-11-18T03:08:51Z",
-  "last_seen": "2026-11-18T03:10:03Z",
-  "reported": "not reported (permanent ban)"
+  "last_seen": "2026-11-18T03:09:21Z",
+  "reported": "2026-11-18T04:25:45Z"
 }
