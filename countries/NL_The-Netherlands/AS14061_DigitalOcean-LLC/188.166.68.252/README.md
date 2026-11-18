@@ -7,10 +7,10 @@
 | IP | `188.166.68.252` |
 | Country | The Netherlands (NL) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (8) |
-| Events | 29 |
+| Activity | Port scanning (20), Known botnet / C2 infrastructure (9) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-12T19:47:39Z |
-| Last seen (UTC) | 2026-11-18T07:51:03Z |
+| Last seen (UTC) | 2026-11-18T12:57:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

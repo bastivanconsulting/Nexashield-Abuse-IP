@@ -1,6 +1,6 @@
 # AS14061 · DigitalOcean, LLC
 
-🇺🇸 United States · **65** malicious IP(s)
+🇺🇸 United States · **66** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -24,7 +24,7 @@
 | [`137.184.85.24`](137.184.85.24/) | Port scanning (19), Known botnet / C2 infrastructure (7), Web injection payload blocked by WAF (2) | 31 | 2026-11-18T06:51:46Z |
 | [`137.184.105.192`](137.184.105.192/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 24 | 2026-11-17T22:25:52Z |
 | [`137.184.226.250`](137.184.226.250/) | Port scanning (17), Known botnet / C2 infrastructure (9) | 27 | 2026-11-18T07:24:49Z |
-| [`138.68.16.163`](138.68.16.163/) | Port scanning (34), Known botnet / C2 infrastructure (9) | 44 | 2026-11-18T12:07:35Z |
+| [`138.68.16.163`](138.68.16.163/) | Port scanning (35), Known botnet / C2 infrastructure (9) | 45 | 2026-11-18T13:10:31Z |
 | [`138.197.15.182`](138.197.15.182/) | Port scanning (27), Known botnet / C2 infrastructure (10) | 41 | 2026-11-18T02:50:37Z |
 | [`138.197.35.218`](138.197.35.218/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T15:43:43Z |
 | [`138.197.214.228`](138.197.214.228/) | Exploitation attempt (CVE / RCE / injection) (6) | 6 | 2026-11-11T16:15:28Z |
@@ -43,7 +43,7 @@
 | [`147.182.252.3`](147.182.252.3/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T19:40:06Z |
 | [`157.230.157.213`](157.230.157.213/) | SSH brute force (33) | 33 | 2026-11-14T22:55:18Z |
 | [`157.230.186.231`](157.230.186.231/) | Port scanning (28) | 38 | 2026-11-16T18:02:15Z |
-| [`157.230.209.238`](157.230.209.238/) | Port scanning (18) | 24 | 2026-11-18T10:51:56Z |
+| [`157.230.209.238`](157.230.209.238/) | Port scanning (19) | 25 | 2026-11-18T12:37:06Z |
 | [`157.230.213.242`](157.230.213.242/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-15T06:44:26Z |
 | [`157.245.13.108`](157.245.13.108/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T20:42:01Z |
 | [`157.245.166.229`](157.245.166.229/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-15T17:00:21Z |
@@ -69,6 +69,7 @@
 | [`178.128.66.109`](178.128.66.109/) | Port scanning (20), Web injection payload blocked by WAF (1), Known botnet / C2 infrastructure (1) | 24 | 2026-11-15T05:10:44Z |
 | [`178.128.70.123`](178.128.70.123/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T10:03:58Z |
 | [`198.211.109.100`](198.211.109.100/) | Port scanning (5), Web injection payload blocked by WAF (2) | 12 | 2026-11-17T12:39:36Z |
+| [`198.211.109.241`](198.211.109.241/) | Port scanning (24) | 26 | 2026-11-17T14:33:12Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

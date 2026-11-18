@@ -1,0 +1,14 @@
+{
+  "ip": "198.211.109.241",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 24
+  },
+  "events": 26,
+  "first_seen": "2026-11-16T17:06:31Z",
+  "last_seen": "2026-11-17T14:33:12Z",
+  "reported": "not reported (permanent ban)"
+}

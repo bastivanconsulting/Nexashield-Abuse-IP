@@ -5,11 +5,11 @@
   "asn": 146943,
   "asn_org": "Tier 4 Cloud Services",
   "categories": {
-    "scan": 121,
+    "scan": 122,
     "c2": 22
   },
-  "events": 149,
+  "events": 150,
   "first_seen": "2026-11-12T03:55:34Z",
-  "last_seen": "2026-11-18T11:53:08Z",
+  "last_seen": "2026-11-18T13:14:36Z",
   "reported": "not reported (permanent ban)"
 }
