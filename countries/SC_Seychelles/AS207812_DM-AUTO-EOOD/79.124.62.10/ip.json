@@ -5,11 +5,11 @@
   "asn": 207812,
   "asn_org": "DM AUTO EOOD",
   "categories": {
-    "scan": 37,
+    "scan": 38,
     "c2": 11
   },
-  "events": 56,
+  "events": 57,
   "first_seen": "2026-11-11T16:23:39Z",
-  "last_seen": "2026-11-18T04:50:18Z",
+  "last_seen": "2026-11-18T06:23:32Z",
   "reported": "not reported (permanent ban)"
 }

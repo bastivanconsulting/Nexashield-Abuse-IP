@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS21859 · Zenlayer Inc |
 | Activity | Port scanning (1) |
-| Events | 2 |
+| Events | 4 |
 | First seen (UTC) | 2026-11-17T16:57:37Z |
-| Last seen (UTC) | 2026-11-17T16:57:40Z |
+| Last seen (UTC) | 2026-11-18T06:18:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -26,9 +26,9 @@
 | [`185.226.197.68`](185.226.197.68/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-16T02:46:14Z |
 | [`185.226.197.69`](185.226.197.69/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T10:56:23Z |
 | [`185.226.197.82`](185.226.197.82/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T16:20:57Z |
-| [`185.226.197.83`](185.226.197.83/) | Port scanning (3) | 5 | 2026-11-17T17:00:12Z |
-| [`185.226.197.106`](185.226.197.106/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-17T17:43:24Z |
-| [`185.226.197.112`](185.226.197.112/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-17T17:28:09Z |
+| [`185.226.197.83`](185.226.197.83/) | Port scanning (3) | 7 | 2026-11-18T06:18:14Z |
+| [`185.226.197.106`](185.226.197.106/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T06:18:14Z |
+| [`185.226.197.112`](185.226.197.112/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T06:18:14Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

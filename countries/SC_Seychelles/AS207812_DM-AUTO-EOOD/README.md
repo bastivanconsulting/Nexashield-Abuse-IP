@@ -4,12 +4,12 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`79.124.62.10`](79.124.62.10/) | Port scanning (37), Known botnet / C2 infrastructure (11) | 56 | 2026-11-18T04:50:18Z |
-| [`79.124.62.126`](79.124.62.126/) | Port scanning (53) | 61 | 2026-11-17T18:09:53Z |
-| [`79.124.62.134`](79.124.62.134/) | Port scanning (46) | 52 | 2026-11-18T06:14:28Z |
-| [`79.124.62.178`](79.124.62.178/) | Port scanning (309) | 333 | 2026-11-18T06:16:54Z |
+| [`79.124.62.10`](79.124.62.10/) | Port scanning (38), Known botnet / C2 infrastructure (11) | 57 | 2026-11-18T06:23:32Z |
+| [`79.124.62.126`](79.124.62.126/) | Port scanning (55) | 63 | 2026-11-18T06:53:48Z |
+| [`79.124.62.134`](79.124.62.134/) | Port scanning (47) | 53 | 2026-11-18T06:57:52Z |
+| [`79.124.62.178`](79.124.62.178/) | Port scanning (310) | 334 | 2026-11-18T06:44:26Z |
 | [`79.124.62.218`](79.124.62.218/) | Port scanning (60) | 61 | 2026-11-16T06:03:30Z |
-| [`79.124.62.230`](79.124.62.230/) | Port scanning (41) | 48 | 2026-11-17T14:34:17Z |
+| [`79.124.62.230`](79.124.62.230/) | Port scanning (43) | 50 | 2026-11-18T07:04:14Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

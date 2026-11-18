@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS21859 · Zenlayer Inc |
 | Activity | Port scanning (3) |
-| Events | 5 |
+| Events | 7 |
 | First seen (UTC) | 2026-11-12T15:46:44Z |
-| Last seen (UTC) | 2026-11-17T17:00:12Z |
+| Last seen (UTC) | 2026-11-18T06:18:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
