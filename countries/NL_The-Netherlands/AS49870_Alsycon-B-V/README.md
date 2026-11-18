@@ -1,9 +1,10 @@
 # AS49870 · Alsycon B.V.
 
-🇳🇱 The Netherlands · **14** malicious IP(s)
+🇳🇱 The Netherlands · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`45.81.23.7`](45.81.23.7/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 9 | 2026-11-17T15:30:18Z |
 | [`160.119.66.206`](160.119.66.206/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 10 | 2026-11-14T12:38:51Z |
 | [`160.119.71.71`](160.119.71.71/) | Port scanning (169), Known botnet / C2 infrastructure (12) | 190 | 2026-11-17T17:27:25Z |
 | [`160.119.71.168`](160.119.71.168/) | Port scanning (59) | 75 | 2026-11-16T21:15:16Z |

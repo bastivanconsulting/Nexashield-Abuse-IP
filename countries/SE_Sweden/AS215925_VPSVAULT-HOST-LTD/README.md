@@ -8,8 +8,8 @@
 | [`45.198.224.32`](45.198.224.32/) | Port scanning (51), Known botnet / C2 infrastructure (7) | 61 | 2026-11-17T08:23:57Z |
 | [`45.198.224.69`](45.198.224.69/) | Port scanning (19), Known botnet / C2 infrastructure (3) | 24 | 2026-11-12T23:15:01Z |
 | [`45.198.224.70`](45.198.224.70/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-17T05:18:25Z |
-| [`45.198.224.71`](45.198.224.71/) | Port scanning (100), Known botnet / C2 infrastructure (15) | 118 | 2026-11-17T21:45:40Z |
-| [`45.198.224.72`](45.198.224.72/) | Port scanning (87), Known botnet / C2 infrastructure (13) | 103 | 2026-11-17T19:29:26Z |
+| [`45.198.224.71`](45.198.224.71/) | Port scanning (102), Known botnet / C2 infrastructure (16) | 121 | 2026-11-18T01:06:54Z |
+| [`45.198.224.72`](45.198.224.72/) | Port scanning (88), Known botnet / C2 infrastructure (14) | 105 | 2026-11-18T00:27:08Z |
 | [`45.198.224.85`](45.198.224.85/) | Port scanning (132), Known botnet / C2 infrastructure (15) | 150 | 2026-11-15T22:08:57Z |
 | [`45.198.224.92`](45.198.224.92/) | Port scanning (59), Known botnet / C2 infrastructure (20), SSH brute force (14) | 96 | 2026-11-17T16:51:34Z |
 | [`45.198.224.110`](45.198.224.110/) | Port scanning (31), Known botnet / C2 infrastructure (3) | 38 | 2026-11-18T00:05:48Z |

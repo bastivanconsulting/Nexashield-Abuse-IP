@@ -6,11 +6,11 @@
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
     "waf": 3,
-    "scan": 11,
+    "scan": 12,
     "web": 1
   },
-  "events": 15,
+  "events": 16,
   "first_seen": "2026-11-12T02:19:13Z",
-  "last_seen": "2026-11-15T15:35:08Z",
+  "last_seen": "2026-11-18T00:54:46Z",
   "reported": "not reported (permanent ban)"
 }
