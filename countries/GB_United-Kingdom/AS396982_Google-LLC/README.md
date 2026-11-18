@@ -120,7 +120,7 @@
 | [`35.203.211.40`](35.203.211.40/) | Port scanning (26), Known botnet / C2 infrastructure (10) | 40 | 2026-11-17T13:54:15Z |
 | [`35.203.211.42`](35.203.211.42/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 13 | 2026-11-13T02:00:51Z |
 | [`35.203.211.44`](35.203.211.44/) | Port scanning (26), Known botnet / C2 infrastructure (1) | 39 | 2026-11-17T21:24:49Z |
-| [`35.203.211.47`](35.203.211.47/) | Port scanning (24) | 37 | 2026-11-18T07:01:32Z |
+| [`35.203.211.47`](35.203.211.47/) | Port scanning (25) | 38 | 2026-11-18T10:45:08Z |
 | [`35.203.211.48`](35.203.211.48/) | Port scanning (26) | 41 | 2026-11-17T18:31:45Z |
 | [`35.203.211.49`](35.203.211.49/) | Port scanning (31), Known botnet / C2 infrastructure (11) | 47 | 2026-11-18T03:16:47Z |
 | [`35.203.211.50`](35.203.211.50/) | Port scanning (28), Known botnet / C2 infrastructure (14) | 45 | 2026-11-18T07:19:13Z |
@@ -137,8 +137,8 @@
 | [`35.203.211.84`](35.203.211.84/) | Port scanning (30), Known botnet / C2 infrastructure (1) | 45 | 2026-11-18T10:03:39Z |
 | [`35.203.211.85`](35.203.211.85/) | Port scanning (23), Known botnet / C2 infrastructure (1) | 34 | 2026-11-17T03:51:31Z |
 | [`35.203.211.86`](35.203.211.86/) | Port scanning (31), Known botnet / C2 infrastructure (2) | 47 | 2026-11-18T08:42:09Z |
-| [`35.203.211.87`](35.203.211.87/) | Port scanning (28), Known botnet / C2 infrastructure (2) | 40 | 2026-11-18T06:20:16Z |
-| [`35.203.211.88`](35.203.211.88/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 35 | 2026-11-18T04:06:50Z |
+| [`35.203.211.87`](35.203.211.87/) | Port scanning (29), Known botnet / C2 infrastructure (2) | 41 | 2026-11-18T10:42:09Z |
+| [`35.203.211.88`](35.203.211.88/) | Port scanning (23), Known botnet / C2 infrastructure (13) | 37 | 2026-11-18T10:32:51Z |
 | [`35.203.211.89`](35.203.211.89/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-14T02:54:53Z |
 | [`35.203.211.93`](35.203.211.93/) | Port scanning (33), Known botnet / C2 infrastructure (13) | 48 | 2026-11-18T09:16:07Z |
 | [`35.203.211.97`](35.203.211.97/) | Port scanning (20), Known botnet / C2 infrastructure (9) | 33 | 2026-11-18T08:28:20Z |
@@ -148,7 +148,7 @@
 | [`35.203.211.106`](35.203.211.106/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-13T02:07:03Z |
 | [`35.203.211.107`](35.203.211.107/) | Port scanning (29), Known botnet / C2 infrastructure (12) | 45 | 2026-11-18T08:50:43Z |
 | [`35.203.211.110`](35.203.211.110/) | Port scanning (27) | 40 | 2026-11-17T14:39:06Z |
-| [`35.203.211.114`](35.203.211.114/) | Port scanning (27) | 43 | 2026-11-18T03:09:09Z |
+| [`35.203.211.114`](35.203.211.114/) | Port scanning (28) | 45 | 2026-11-18T11:07:54Z |
 | [`35.203.211.116`](35.203.211.116/) | Port scanning (24), Known botnet / C2 infrastructure (10) | 35 | 2026-11-18T05:20:41Z |
 | [`35.203.211.117`](35.203.211.117/) | Port scanning (24) | 37 | 2026-11-17T16:58:10Z |
 | [`35.203.211.118`](35.203.211.118/) | Port scanning (30), Known botnet / C2 infrastructure (13) | 44 | 2026-11-17T15:03:59Z |
@@ -165,7 +165,7 @@
 | [`35.203.211.139`](35.203.211.139/) | Port scanning (25), Known botnet / C2 infrastructure (9) | 40 | 2026-11-18T07:23:49Z |
 | [`35.203.211.141`](35.203.211.141/) | Port scanning (23), Known botnet / C2 infrastructure (10) | 38 | 2026-11-18T05:02:08Z |
 | [`35.203.211.142`](35.203.211.142/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 21 | 2026-11-16T20:12:50Z |
-| [`35.203.211.148`](35.203.211.148/) | Port scanning (20), Known botnet / C2 infrastructure (3) | 30 | 2026-11-17T07:18:54Z |
+| [`35.203.211.148`](35.203.211.148/) | Port scanning (21), Known botnet / C2 infrastructure (4) | 32 | 2026-11-18T10:58:46Z |
 | [`35.203.211.152`](35.203.211.152/) | Port scanning (37), Known botnet / C2 infrastructure (13) | 53 | 2026-11-17T21:02:29Z |
 | [`35.203.211.156`](35.203.211.156/) | Port scanning (23) | 34 | 2026-11-18T00:13:56Z |
 | [`35.203.211.159`](35.203.211.159/) | Port scanning (25), Known botnet / C2 infrastructure (5) | 39 | 2026-11-17T14:52:41Z |

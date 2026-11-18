@@ -1,0 +1,15 @@
+{
+  "ip": "140.238.153.39",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 31898,
+  "asn_org": "Oracle Corporation",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-12T01:16:41Z",
+  "last_seen": "2026-11-12T15:27:12Z",
+  "reported": "not reported (permanent ban)"
+}

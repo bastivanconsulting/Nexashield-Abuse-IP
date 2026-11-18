@@ -12,7 +12,7 @@
 | [`8.216.9.22`](8.216.9.22/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-18T07:14:03Z |
 | [`8.216.13.201`](8.216.13.201/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T18:15:05Z |
 | [`8.216.17.25`](8.216.17.25/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T05:19:05Z |
-| [`8.216.17.164`](8.216.17.164/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-17T07:45:46Z |
+| [`8.216.17.164`](8.216.17.164/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T10:23:03Z |
 | [`47.245.54.87`](47.245.54.87/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T04:22:54Z |
 
 ---

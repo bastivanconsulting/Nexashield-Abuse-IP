@@ -1,0 +1,15 @@
+{
+  "ip": "92.205.40.200",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 21499,
+  "asn_org": "Host Europe GmbH",
+  "categories": {
+    "scan": 5,
+    "c2": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T17:19:36Z",
+  "last_seen": "2026-11-15T11:38:02Z",
+  "reported": "not reported (permanent ban)"
+}
