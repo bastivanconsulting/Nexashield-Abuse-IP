@@ -7,10 +7,10 @@
 | IP | `20.38.35.115` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (9) |
-| Events | 16 |
+| Activity | Port scanning (10) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-12T02:04:03Z |
-| Last seen (UTC) | 2026-11-15T15:06:41Z |
+| Last seen (UTC) | 2026-11-18T14:04:42Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

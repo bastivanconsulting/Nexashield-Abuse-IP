@@ -7,10 +7,10 @@
 | IP | `204.76.203.44` |
 | Country | Germany (DE) |
 | ASN | AS51396 · Pfcloud UG (haftungsbeschrankt) |
-| Activity | Port scanning (429), Known botnet / C2 infrastructure (24) |
-| Events | 490 |
+| Activity | Port scanning (431), Known botnet / C2 infrastructure (25), Abusive HTTP requests (1) |
+| Events | 494 |
 | First seen (UTC) | 2026-11-11T09:48:10Z |
-| Last seen (UTC) | 2026-11-18T13:05:44Z |
+| Last seen (UTC) | 2026-11-18T14:06:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

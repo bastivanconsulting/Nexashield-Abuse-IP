@@ -12,7 +12,7 @@
 | [`34.125.49.40`](34.125.49.40/) | Port scanning (8) | 8 | 2026-11-14T13:40:58Z |
 | [`34.125.179.242`](34.125.179.242/) | Abusive HTTP requests (1028), Web injection payload blocked by WAF (40) | 1068 | 2026-11-11T03:35:57Z |
 | [`34.148.17.138`](34.148.17.138/) | Abusive HTTP requests (213), Web injection payload blocked by WAF (2) | 215 | 2026-11-16T19:52:00Z |
-| [`35.193.228.113`](35.193.228.113/) | Abusive HTTP requests (177), Web injection payload blocked by WAF (22) | 199 | 2026-11-17T20:14:47Z |
+| [`35.193.228.113`](35.193.228.113/) | Abusive HTTP requests (643), Web injection payload blocked by WAF (30) | 673 | 2026-11-18T14:11:40Z |
 | [`35.223.124.108`](35.223.124.108/) | Abusive HTTP requests (6) | 6 | 2026-11-18T03:20:55Z |
 | [`35.245.194.25`](35.245.194.25/) | Abusive HTTP requests (373), Web injection payload blocked by WAF (26) | 399 | 2026-11-17T07:50:33Z |
 | [`104.198.46.187`](104.198.46.187/) | Abusive HTTP requests (224), Port scanning (1) | 225 | 2026-11-15T01:04:29Z |

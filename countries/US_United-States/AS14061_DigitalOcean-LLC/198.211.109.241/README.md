@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
 | Activity | Port scanning (24) |
-| Events | 26 |
+| Events | 28 |
 | First seen (UTC) | 2026-11-16T17:06:31Z |
-| Last seen (UTC) | 2026-11-17T14:33:12Z |
+| Last seen (UTC) | 2026-11-18T13:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
