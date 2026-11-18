@@ -7,8 +7,8 @@
 | IP | `49.84.226.110` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (16), Port scanning (2) |
-| Events | 18 |
+| Activity | SSH brute force (8), Port scanning (1) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-17T09:11:19Z |
 | Last seen (UTC) | 2026-11-17T09:11:45Z |
 | Reported to network owner (UTC) | 2026-11-17T10:25:55Z |

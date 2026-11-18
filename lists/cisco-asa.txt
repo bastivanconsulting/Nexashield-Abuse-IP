@@ -1,4 +1,4 @@
-! NexaShield abuse IP - Cisco ASA - generated 2026-11-17
+! NexaShield abuse IP - Cisco ASA - generated 2026-11-18
 object-group network NEXASHIELD-ABUSE
  network-object host 2.27.32.182
  network-object host 2.31.192.136
@@ -1426,6 +1426,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 40.119.45.43
  network-object host 40.119.45.59
  network-object host 40.119.45.117
+ network-object host 40.119.45.136
  network-object host 40.119.45.161
  network-object host 40.119.45.230
  network-object host 40.119.45.234
@@ -4294,6 +4295,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 176.65.149.232
  network-object host 176.65.149.233
  network-object host 176.65.149.236
+ network-object host 176.65.151.21
  network-object host 176.123.5.126
  network-object host 177.10.160.46
  network-object host 177.104.131.33
@@ -4376,6 +4378,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 185.216.145.173
  network-object host 185.216.145.174
  network-object host 185.216.145.176
+ network-object host 185.216.145.179
  network-object host 185.216.145.182
  network-object host 185.216.145.184
  network-object host 185.217.1.243

@@ -1,6 +1,6 @@
 # AS51396 · Pfcloud UG (haftungsbeschrankt)
 
-🇳🇱 The Netherlands · **14** malicious IP(s)
+🇳🇱 The Netherlands · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -18,6 +18,7 @@
 | [`176.65.149.232`](176.65.149.232/) | Port scanning (17) | 18 | 2026-11-15T02:31:09Z |
 | [`176.65.149.233`](176.65.149.233/) | Port scanning (20) | 21 | 2026-11-17T18:53:06Z |
 | [`176.65.149.236`](176.65.149.236/) | Port scanning (71), Known botnet / C2 infrastructure (16), Abusive HTTP requests (1) | 89 | 2026-11-17T17:41:49Z |
+| [`176.65.151.21`](176.65.151.21/) | Abusive HTTP requests (5), Spamhaus DROP-listed network (1) | 6 | 2026-11-17T22:33:26Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

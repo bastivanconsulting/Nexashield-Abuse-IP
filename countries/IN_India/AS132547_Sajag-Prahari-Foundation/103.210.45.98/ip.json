@@ -5,9 +5,9 @@
   "asn": 132547,
   "asn_org": "Sajag Prahari Foundation",
   "categories": {
-    "ssh": 24
+    "ssh": 12
   },
-  "events": 24,
+  "events": 12,
   "first_seen": "2026-11-17T07:29:28Z",
   "last_seen": "2026-11-17T07:57:05Z",
   "reported": "2026-11-17T08:25:35Z"

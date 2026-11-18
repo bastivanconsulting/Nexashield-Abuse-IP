@@ -7,10 +7,10 @@
 | IP | `93.123.109.77` |
 | Country | Andorra (AD) |
 | ASN | AS48090 · TECHOFF SRV LIMITED |
-| Activity | Port scanning (301) |
-| Events | 325 |
+| Activity | Port scanning (302) |
+| Events | 326 |
 | First seen (UTC) | 2026-11-11T12:34:50Z |
-| Last seen (UTC) | 2026-11-17T23:15:46Z |
+| Last seen (UTC) | 2026-11-18T00:01:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

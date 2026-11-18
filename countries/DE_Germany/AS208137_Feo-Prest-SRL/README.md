@@ -8,7 +8,7 @@
 | [`213.209.159.26`](213.209.159.26/) | Port scanning (89) | 95 | 2026-11-13T03:26:48Z |
 | [`213.209.159.66`](213.209.159.66/) | Port scanning (60) | 61 | 2026-11-17T18:41:38Z |
 | [`213.209.159.115`](213.209.159.115/) | Port scanning (87) | 146 | 2026-11-17T21:45:08Z |
-| [`213.209.159.175`](213.209.159.175/) | Abusive HTTP requests (10) | 10 | 2026-11-17T01:43:37Z |
+| [`213.209.159.175`](213.209.159.175/) | Abusive HTTP requests (5) | 5 | 2026-11-17T01:43:37Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

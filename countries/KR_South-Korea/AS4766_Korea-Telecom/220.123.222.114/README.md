@@ -7,8 +7,8 @@
 | IP | `220.123.222.114` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | SSH brute force (304), Port scanning (10) |
-| Events | 314 |
+| Activity | SSH brute force (152), Port scanning (5) |
+| Events | 157 |
 | First seen (UTC) | 2026-11-17T02:52:08Z |
 | Last seen (UTC) | 2026-11-17T02:54:32Z |
 | Reported to network owner (UTC) | 2026-11-17T04:25:23Z |

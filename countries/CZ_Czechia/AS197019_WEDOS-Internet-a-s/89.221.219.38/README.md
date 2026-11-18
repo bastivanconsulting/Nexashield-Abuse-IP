@@ -7,8 +7,8 @@
 | IP | `89.221.219.38` |
 | Country | Czechia (CZ) |
 | ASN | AS197019 · WEDOS Internet, a.s. |
-| Activity | SSH brute force (18), Port scanning (4) |
-| Events | 22 |
+| Activity | SSH brute force (9), Port scanning (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-17T03:45:43Z |
 | Last seen (UTC) | 2026-11-17T03:46:13Z |
 | Reported to network owner (UTC) | 2026-11-17T06:26:10Z |

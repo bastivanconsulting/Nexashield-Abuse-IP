@@ -7,8 +7,8 @@
 | IP | `109.63.173.169` |
 | Country | Russia (RU) |
 | ASN | AS12714 · PJSC MegaFon |
-| Activity | SSH brute force (10), Port scanning (4) |
-| Events | 14 |
+| Activity | SSH brute force (5), Port scanning (2) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-17T13:52:25Z |
 | Last seen (UTC) | 2026-11-17T13:52:49Z |
 | Reported to network owner (UTC) | 2026-11-17T14:25:35Z |

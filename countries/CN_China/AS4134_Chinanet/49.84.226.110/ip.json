@@ -5,10 +5,10 @@
   "asn": 4134,
   "asn_org": "Chinanet",
   "categories": {
-    "ssh": 16,
-    "scan": 2
+    "ssh": 8,
+    "scan": 1
   },
-  "events": 18,
+  "events": 9,
   "first_seen": "2026-11-17T09:11:19Z",
   "last_seen": "2026-11-17T09:11:45Z",
   "reported": "2026-11-17T10:25:55Z"

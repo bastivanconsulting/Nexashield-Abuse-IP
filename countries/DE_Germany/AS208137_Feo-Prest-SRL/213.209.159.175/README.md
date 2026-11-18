@@ -7,8 +7,8 @@
 | IP | `213.209.159.175` |
 | Country | Germany (DE) |
 | ASN | AS208137 · Feo Prest SRL |
-| Activity | Abusive HTTP requests (10) |
-| Events | 10 |
+| Activity | Abusive HTTP requests (5) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-17T01:43:34Z |
 | Last seen (UTC) | 2026-11-17T01:43:37Z |
 | Reported to network owner (UTC) | 2026-11-17T02:25:44Z |

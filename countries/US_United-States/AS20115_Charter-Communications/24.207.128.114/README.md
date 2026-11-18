@@ -7,8 +7,8 @@
 | IP | `24.207.128.114` |
 | Country | United States (US) |
 | ASN | AS20115 · Charter Communications |
-| Activity | SSH brute force (22), Port scanning (6) |
-| Events | 28 |
+| Activity | SSH brute force (13), Port scanning (4) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-16T14:25:21Z |
 | Last seen (UTC) | 2026-11-17T19:08:50Z |
 | Reported to network owner (UTC) | 2026-11-17T20:26:12Z |

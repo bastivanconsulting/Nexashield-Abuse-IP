@@ -5,10 +5,10 @@
   "asn": 12714,
   "asn_org": "PJSC MegaFon",
   "categories": {
-    "ssh": 10,
-    "scan": 4
+    "ssh": 5,
+    "scan": 2
   },
-  "events": 14,
+  "events": 7,
   "first_seen": "2026-11-17T13:52:25Z",
   "last_seen": "2026-11-17T13:52:49Z",
   "reported": "2026-11-17T14:25:35Z"
