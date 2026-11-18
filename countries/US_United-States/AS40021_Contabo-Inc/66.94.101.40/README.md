@@ -7,10 +7,10 @@
 | IP | `66.94.101.40` |
 | Country | United States (US) |
 | ASN | AS40021 · Contabo Inc. |
-| Activity | Port scanning (25) |
-| Events | 31 |
+| Activity | Port scanning (26) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-15T21:53:31Z |
-| Last seen (UTC) | 2026-11-18T16:21:01Z |
+| Last seen (UTC) | 2026-11-18T20:10:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

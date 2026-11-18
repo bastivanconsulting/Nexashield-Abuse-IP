@@ -11,7 +11,7 @@
 | [`79.124.40.142`](79.124.40.142/) | Port scanning (38), Known botnet / C2 infrastructure (12) | 56 | 2026-11-18T16:33:06Z |
 | [`79.124.40.150`](79.124.40.150/) | Port scanning (350), Known botnet / C2 infrastructure (26) | 404 | 2026-11-18T17:29:47Z |
 | [`79.124.40.158`](79.124.40.158/) | Port scanning (358), Known botnet / C2 infrastructure (26) | 411 | 2026-11-18T17:35:02Z |
-| [`79.124.40.166`](79.124.40.166/) | Port scanning (50), Known botnet / C2 infrastructure (6) | 57 | 2026-11-18T18:21:02Z |
+| [`79.124.40.166`](79.124.40.166/) | Port scanning (52), Known botnet / C2 infrastructure (6) | 59 | 2026-11-18T19:52:12Z |
 | [`79.124.40.170`](79.124.40.170/) | Port scanning (361), Known botnet / C2 infrastructure (25) | 405 | 2026-11-18T16:32:30Z |
 | [`79.124.40.178`](79.124.40.178/) | Port scanning (8) | 8 | 2026-11-18T04:25:12Z |
 | [`79.124.40.186`](79.124.40.186/) | Port scanning (137) | 156 | 2026-11-17T05:15:05Z |
@@ -32,8 +32,8 @@
 | [`79.124.58.218`](79.124.58.218/) | Port scanning (65), Known botnet / C2 infrastructure (2) | 69 | 2026-11-12T06:31:08Z |
 | [`79.124.58.250`](79.124.58.250/) | Port scanning (325) | 378 | 2026-11-18T17:08:51Z |
 | [`79.124.59.10`](79.124.59.10/) | Port scanning (323) | 368 | 2026-11-18T17:19:05Z |
-| [`79.124.59.78`](79.124.59.78/) | Port scanning (519), Known botnet / C2 infrastructure (28) | 585 | 2026-11-18T19:15:00Z |
-| [`79.124.59.82`](79.124.59.82/) | Port scanning (273), Known botnet / C2 infrastructure (16) | 322 | 2026-11-18T19:14:03Z |
+| [`79.124.59.78`](79.124.59.78/) | Port scanning (521), Known botnet / C2 infrastructure (29) | 588 | 2026-11-18T20:08:33Z |
+| [`79.124.59.82`](79.124.59.82/) | Port scanning (274), Known botnet / C2 infrastructure (16) | 323 | 2026-11-18T19:42:40Z |
 | [`79.124.60.194`](79.124.60.194/) | Port scanning (86) | 99 | 2026-11-12T14:50:09Z |
 | [`79.124.60.218`](79.124.60.218/) | Port scanning (23) | 23 | 2026-11-12T10:44:03Z |
 | [`79.124.60.250`](79.124.60.250/) | Port scanning (331) | 380 | 2026-11-18T16:42:19Z |

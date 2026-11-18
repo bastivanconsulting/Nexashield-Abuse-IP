@@ -43,7 +43,7 @@
 | [`81.19.216.108`](81.19.216.108/) | Port scanning (12), Known botnet / C2 infrastructure (5) | 18 | 2026-11-14T02:01:06Z |
 | [`81.19.216.109`](81.19.216.109/) | Port scanning (46), Known botnet / C2 infrastructure (17) | 64 | 2026-11-18T18:20:33Z |
 | [`81.19.216.110`](81.19.216.110/) | Port scanning (42), Known botnet / C2 infrastructure (16) | 59 | 2026-11-18T18:16:13Z |
-| [`81.19.216.112`](81.19.216.112/) | Port scanning (34), Known botnet / C2 infrastructure (14) | 49 | 2026-11-18T11:17:46Z |
+| [`81.19.216.112`](81.19.216.112/) | Port scanning (35), Known botnet / C2 infrastructure (15) | 51 | 2026-11-18T20:14:26Z |
 | [`81.19.216.114`](81.19.216.114/) | Port scanning (43), Known botnet / C2 infrastructure (16) | 60 | 2026-11-18T01:47:44Z |
 | [`81.19.216.116`](81.19.216.116/) | Port scanning (17), Known botnet / C2 infrastructure (1) | 24 | 2026-11-14T21:56:54Z |
 | [`81.19.216.117`](81.19.216.117/) | Port scanning (20), Known botnet / C2 infrastructure (9) | 30 | 2026-11-18T07:55:19Z |
@@ -98,7 +98,7 @@
 | [`89.21.67.182`](89.21.67.182/) | Port scanning (23), Known botnet / C2 infrastructure (8) | 32 | 2026-11-17T01:01:23Z |
 | [`89.21.67.183`](89.21.67.183/) | Port scanning (25), Known botnet / C2 infrastructure (10) | 36 | 2026-11-18T14:06:14Z |
 | [`89.21.67.184`](89.21.67.184/) | Port scanning (18), Known botnet / C2 infrastructure (9) | 28 | 2026-11-18T09:35:27Z |
-| [`89.21.67.185`](89.21.67.185/) | Port scanning (41), Known botnet / C2 infrastructure (1) | 58 | 2026-11-18T13:26:31Z |
+| [`89.21.67.185`](89.21.67.185/) | Port scanning (42), Known botnet / C2 infrastructure (2) | 60 | 2026-11-18T19:30:14Z |
 | [`89.21.67.186`](89.21.67.186/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-13T00:34:02Z |
 | [`89.21.67.188`](89.21.67.188/) | Port scanning (40), Known botnet / C2 infrastructure (16) | 58 | 2026-11-18T10:09:14Z |
 | [`89.21.67.189`](89.21.67.189/) | Port scanning (44), Known botnet / C2 infrastructure (15) | 60 | 2026-11-17T16:48:30Z |
@@ -135,7 +135,7 @@
 | [`185.223.235.42`](185.223.235.42/) | Port scanning (47), Known botnet / C2 infrastructure (16) | 68 | 2026-11-18T13:27:37Z |
 | [`185.223.235.43`](185.223.235.43/) | Port scanning (26), Known botnet / C2 infrastructure (7) | 34 | 2026-11-16T18:30:41Z |
 | [`185.223.235.45`](185.223.235.45/) | Port scanning (39), Known botnet / C2 infrastructure (11) | 53 | 2026-11-16T16:22:05Z |
-| [`185.223.235.48`](185.223.235.48/) | Port scanning (26), Known botnet / C2 infrastructure (11) | 38 | 2026-11-18T14:54:49Z |
+| [`185.223.235.48`](185.223.235.48/) | Port scanning (27), Known botnet / C2 infrastructure (12) | 40 | 2026-11-18T20:03:14Z |
 | [`185.223.235.49`](185.223.235.49/) | Port scanning (36), Known botnet / C2 infrastructure (14) | 51 | 2026-11-18T14:00:50Z |
 | [`185.223.235.50`](185.223.235.50/) | Port scanning (38), Known botnet / C2 infrastructure (16) | 55 | 2026-11-18T19:04:13Z |
 | [`185.223.235.51`](185.223.235.51/) | Port scanning (17), Known botnet / C2 infrastructure (7) | 25 | 2026-11-18T13:21:02Z |
@@ -181,7 +181,7 @@
 | [`193.176.31.221`](193.176.31.221/) | Port scanning (39), Known botnet / C2 infrastructure (16) | 56 | 2026-11-18T18:13:49Z |
 | [`193.176.31.222`](193.176.31.222/) | Port scanning (43), Known botnet / C2 infrastructure (18) | 62 | 2026-11-18T14:00:38Z |
 | [`193.176.31.223`](193.176.31.223/) | Port scanning (33), Known botnet / C2 infrastructure (11) | 45 | 2026-11-18T01:32:11Z |
-| [`193.176.31.224`](193.176.31.224/) | Port scanning (39), Known botnet / C2 infrastructure (15) | 55 | 2026-11-18T13:00:42Z |
+| [`193.176.31.224`](193.176.31.224/) | Port scanning (40), Known botnet / C2 infrastructure (16) | 57 | 2026-11-18T20:11:52Z |
 | [`193.176.31.225`](193.176.31.225/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 12 | 2026-11-12T02:03:02Z |
 | [`193.176.31.226`](193.176.31.226/) | Port scanning (18), Known botnet / C2 infrastructure (7) | 26 | 2026-11-18T04:14:55Z |
 | [`193.176.31.227`](193.176.31.227/) | Port scanning (21), Known botnet / C2 infrastructure (8) | 30 | 2026-11-16T18:39:49Z |

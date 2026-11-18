@@ -7,10 +7,10 @@
 | IP | `68.69.177.101` |
 | Country | United States (US) |
 | ASN | AS402226 · OnlyScans LLC |
-| Activity | Port scanning (16), Known botnet / C2 infrastructure (2) |
-| Events | 27 |
+| Activity | Port scanning (17), Known botnet / C2 infrastructure (3) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-11T09:49:20Z |
-| Last seen (UTC) | 2026-11-17T22:47:36Z |
+| Last seen (UTC) | 2026-11-18T19:32:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

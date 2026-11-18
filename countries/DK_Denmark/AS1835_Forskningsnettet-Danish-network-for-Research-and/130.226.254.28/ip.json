@@ -1,0 +1,16 @@
+{
+  "ip": "130.226.254.28",
+  "country_code": "DK",
+  "country": "Denmark",
+  "asn": 1835,
+  "asn_org": "Forskningsnettet - Danish network for Research and Education",
+  "categories": {
+    "web": 1,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 4,
+  "first_seen": "2026-11-15T23:00:01Z",
+  "last_seen": "2026-11-17T06:39:15Z",
+  "reported": "not reported (permanent ban)"
+}

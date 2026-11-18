@@ -1,0 +1,15 @@
+{
+  "ip": "200.199.32.174",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 7738,
+  "asn_org": "V tal",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-15T16:22:57Z",
+  "last_seen": "2026-11-18T20:17:28Z",
+  "reported": "not reported (permanent ban)"
+}

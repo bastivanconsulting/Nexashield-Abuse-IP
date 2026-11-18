@@ -1,9 +1,10 @@
 # 🇩🇰 Denmark
 
-**1** malicious IP(s) across **1** network(s).
+**2** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS1835](AS1835_Forskningsnettet-Danish-network-for-Research-and/) | Forskningsnettet - Danish network for Research and Education | 1 | Known botnet / C2 infrastructure (2), Abusive HTTP requests (1), Port scanning (1) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | Port scanning (1) |
 
 ---
