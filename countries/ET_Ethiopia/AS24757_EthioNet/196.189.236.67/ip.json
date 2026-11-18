@@ -5,12 +5,12 @@
   "asn": 24757,
   "asn_org": "EthioNet",
   "categories": {
-    "scan": 33,
-    "c2": 9,
+    "scan": 35,
+    "c2": 10,
     "waf": 2
   },
-  "events": 45,
+  "events": 48,
   "first_seen": "2026-11-11T14:23:56Z",
-  "last_seen": "2026-11-17T14:32:08Z",
+  "last_seen": "2026-11-18T05:39:38Z",
   "reported": "not reported (permanent ban)"
 }

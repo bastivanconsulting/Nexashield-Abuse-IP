@@ -7,10 +7,10 @@
 | IP | `141.98.11.96` |
 | Country | Lithuania (LT) |
 | ASN | AS209605 · UAB Host Baltic |
-| Activity | Port scanning (184) |
-| Events | 203 |
+| Activity | Port scanning (187) |
+| Events | 206 |
 | First seen (UTC) | 2026-11-11T09:49:51Z |
-| Last seen (UTC) | 2026-11-18T04:00:00Z |
+| Last seen (UTC) | 2026-11-18T05:50:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

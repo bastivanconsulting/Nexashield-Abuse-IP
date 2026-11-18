@@ -5,13 +5,13 @@
   "asn": 141127,
   "asn_org": "PT Anugerah Cimanuk Raya",
   "categories": {
-    "scan": 12,
-    "c2": 4,
+    "scan": 13,
+    "c2": 5,
     "waf": 1,
     "web": 1
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-12T09:20:44Z",
-  "last_seen": "2026-11-15T14:05:38Z",
+  "last_seen": "2026-11-18T05:31:30Z",
   "reported": "not reported (permanent ban)"
 }

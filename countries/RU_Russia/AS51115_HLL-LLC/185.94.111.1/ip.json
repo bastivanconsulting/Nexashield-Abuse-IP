@@ -5,12 +5,12 @@
   "asn": 51115,
   "asn_org": "HLL LLC",
   "categories": {
-    "scan": 234,
+    "scan": 236,
     "c2": 22,
     "exploit": 7
   },
-  "events": 288,
+  "events": 290,
   "first_seen": "2026-11-11T09:36:39Z",
-  "last_seen": "2026-11-18T03:26:03Z",
+  "last_seen": "2026-11-18T05:47:30Z",
   "reported": "not reported (permanent ban)"
 }

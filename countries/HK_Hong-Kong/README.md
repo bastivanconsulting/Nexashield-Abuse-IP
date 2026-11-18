@@ -1,16 +1,16 @@
 # 🇭🇰 Hong Kong
 
-**120** malicious IP(s) across **11** network(s).
+**121** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 71 | Port scanning (1167), Known botnet / C2 infrastructure (504), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 72 | Port scanning (1182), Known botnet / C2 infrastructure (512), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
 | [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 26 | Port scanning (3065), Abusive HTTP requests (973), Spamhaus DROP-listed network (143), Known botnet / C2 infrastructure (40), Web injection payload blocked by WAF (5) |
 | [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (594), Known botnet / C2 infrastructure (47) |
-| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1039), Known botnet / C2 infrastructure (45), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1039), Known botnet / C2 infrastructure (46), Exploitation attempt (CVE / RCE / injection) (5) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 2 | SSH brute force (152), Port scanning (10), Exploitation attempt (CVE / RCE / injection) (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (522), Abusive HTTP requests (33) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (524), Abusive HTTP requests (33) |
 | [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (121), Known botnet / C2 infrastructure (6), Abusive HTTP requests (4) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (40) |
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (31), Known botnet / C2 infrastructure (3) |

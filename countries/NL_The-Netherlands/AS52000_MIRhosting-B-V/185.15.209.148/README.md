@@ -7,10 +7,10 @@
 | IP | `185.15.209.148` |
 | Country | The Netherlands (NL) |
 | ASN | AS52000 · MIRhosting B.V. |
-| Activity | Port scanning (187) |
-| Events | 212 |
+| Activity | Port scanning (188) |
+| Events | 213 |
 | First seen (UTC) | 2026-11-11T09:58:52Z |
-| Last seen (UTC) | 2026-11-18T04:14:58Z |
+| Last seen (UTC) | 2026-11-18T05:54:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

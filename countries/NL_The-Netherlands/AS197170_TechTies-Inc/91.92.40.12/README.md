@@ -7,10 +7,10 @@
 | IP | `91.92.40.12` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Known botnet / C2 infrastructure (526), Spamhaus DROP-listed network (96), Exploitation attempt (CVE / RCE / injection) (23) |
-| Events | 645 |
+| Activity | Known botnet / C2 infrastructure (526), Spamhaus DROP-listed network (100), Exploitation attempt (CVE / RCE / injection) (23) |
+| Events | 649 |
 | First seen (UTC) | 2026-11-11T09:47:10Z |
-| Last seen (UTC) | 2026-11-18T05:28:23Z |
+| Last seen (UTC) | 2026-11-18T06:28:56Z |
 | Reported to network owner (UTC) | 2026-11-11T16:34:40Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
