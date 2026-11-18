@@ -7,10 +7,10 @@
 | IP | `216.25.90.123` |
 | Country | United States (US) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (18), Known botnet / C2 infrastructure (6) |
-| Events | 25 |
+| Activity | Port scanning (19), Known botnet / C2 infrastructure (6) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-12T06:34:10Z |
-| Last seen (UTC) | 2026-11-18T05:02:00Z |
+| Last seen (UTC) | 2026-11-18T07:36:40Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS208843 · Alpha Strike Labs GmbH
 
-🇩🇪 Germany · **36** malicious IP(s)
+🇩🇪 Germany · **37** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -16,13 +16,14 @@
 | [`194.187.176.48`](194.187.176.48/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T06:25:04Z |
 | [`194.187.176.51`](194.187.176.51/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T11:13:02Z |
 | [`194.187.176.58`](194.187.176.58/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T21:45:03Z |
+| [`194.187.176.83`](194.187.176.83/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-13T11:03:51Z |
 | [`194.187.176.92`](194.187.176.92/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-12T09:49:01Z |
 | [`194.187.176.96`](194.187.176.96/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-17T08:41:13Z |
 | [`194.187.176.97`](194.187.176.97/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T17:32:04Z |
 | [`194.187.176.103`](194.187.176.103/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-13T12:59:02Z |
 | [`194.187.176.106`](194.187.176.106/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T03:23:03Z |
 | [`194.187.176.123`](194.187.176.123/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 10 | 2026-11-15T20:37:19Z |
-| [`194.187.176.124`](194.187.176.124/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T06:12:39Z |
+| [`194.187.176.124`](194.187.176.124/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-18T07:26:27Z |
 | [`194.187.176.133`](194.187.176.133/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T17:31:08Z |
 | [`194.187.176.134`](194.187.176.134/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-17T23:17:08Z |
 | [`194.187.176.136`](194.187.176.136/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-18T05:39:38Z |

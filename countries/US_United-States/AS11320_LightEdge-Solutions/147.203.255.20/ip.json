@@ -5,11 +5,11 @@
   "asn": 11320,
   "asn_org": "LightEdge Solutions",
   "categories": {
-    "scan": 5,
+    "scan": 6,
     "exploit": 9
   },
-  "events": 23,
+  "events": 24,
   "first_seen": "2026-11-11T10:02:54Z",
-  "last_seen": "2026-11-16T20:08:26Z",
+  "last_seen": "2026-11-18T08:03:03Z",
   "reported": "not reported (permanent ban)"
 }

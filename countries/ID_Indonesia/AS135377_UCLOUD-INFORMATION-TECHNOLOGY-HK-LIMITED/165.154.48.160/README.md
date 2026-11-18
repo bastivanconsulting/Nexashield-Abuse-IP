@@ -7,10 +7,10 @@
 | IP | `165.154.48.160` |
 | Country | Indonesia (ID) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (22) |
-| Events | 31 |
+| Activity | Port scanning (23) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-14T05:29:07Z |
-| Last seen (UTC) | 2026-11-18T04:36:57Z |
+| Last seen (UTC) | 2026-11-18T07:26:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

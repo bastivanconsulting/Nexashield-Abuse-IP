@@ -1,0 +1,15 @@
+{
+  "ip": "93.152.221.43",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+    "ssh": 28,
+    "spamhaus": 8
+  },
+  "events": 36,
+  "first_seen": "2026-11-18T04:32:01Z",
+  "last_seen": "2026-11-18T08:27:18Z",
+  "reported": "2026-11-18T08:26:29Z"
+}

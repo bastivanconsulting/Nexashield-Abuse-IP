@@ -1,6 +1,6 @@
 # AS14061 · DigitalOcean, LLC
 
-🇦🇺 Australia · **8** malicious IP(s)
+🇦🇺 Australia · **9** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [`170.64.134.89`](170.64.134.89/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-18T03:05:27Z |
 | [`170.64.134.120`](170.64.134.120/) | Port scanning (24), Known botnet / C2 infrastructure (6) | 35 | 2026-11-18T04:33:21Z |
 | [`170.64.139.120`](170.64.139.120/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T07:21:54Z |
+| [`170.64.147.115`](170.64.147.115/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-18T00:58:08Z |
 | [`170.64.177.80`](170.64.177.80/) | Port scanning (27), Known botnet / C2 infrastructure (9) | 37 | 2026-11-17T21:26:56Z |
 | [`209.38.93.248`](209.38.93.248/) | Port scanning (10) | 11 | 2026-11-14T21:56:40Z |
 
