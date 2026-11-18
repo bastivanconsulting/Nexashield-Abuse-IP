@@ -5,11 +5,11 @@
   "asn": 21499,
   "asn_org": "Host Europe GmbH",
   "categories": {
-    "scan": 5,
-    "c2": 2
+    "scan": 6,
+    "c2": 3
   },
-  "events": 8,
+  "events": 11,
   "first_seen": "2026-11-14T17:19:36Z",
-  "last_seen": "2026-11-15T11:38:02Z",
+  "last_seen": "2026-11-18T11:27:04Z",
   "reported": "not reported (permanent ban)"
 }
