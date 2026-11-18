@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 13 | Port scanning (53), Known botnet / C2 infrastructure (38), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 13 | Port scanning (54), Known botnet / C2 infrastructure (39), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS136727](AS136727_Jimat-Technology-Solution/) | Jimat Technology Solution | 1 | Port scanning (7) |
 
 ---

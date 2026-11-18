@@ -7,10 +7,10 @@
 | IP | `5.187.38.30` |
 | Country | Hong Kong (HK) |
 | ASN | AS206264 · Amarutu Technology Ltd |
-| Activity | Port scanning (554), Abusive HTTP requests (37) |
-| Events | 682 |
+| Activity | Port scanning (556), Abusive HTTP requests (38) |
+| Events | 685 |
 | First seen (UTC) | 2026-11-11T09:40:03Z |
-| Last seen (UTC) | 2026-11-18T20:05:37Z |
+| Last seen (UTC) | 2026-11-18T20:56:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

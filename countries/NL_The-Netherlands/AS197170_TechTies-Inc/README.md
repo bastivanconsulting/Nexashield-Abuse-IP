@@ -1,11 +1,12 @@
 # AS197170 · TechTies Inc.
 
-🇳🇱 The Netherlands · **21** malicious IP(s)
+🇳🇱 The Netherlands · **22** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.153.34.32`](45.153.34.32/) | Port scanning (87) | 88 | 2026-11-18T16:40:41Z |
 | [`45.153.34.87`](45.153.34.87/) | Port scanning (86) | 87 | 2026-11-18T18:52:35Z |
+| [`45.153.34.230`](45.153.34.230/) | Abusive HTTP requests (8), Known botnet / C2 infrastructure (3), Port scanning (1) | 13 | 2026-11-18T21:04:05Z |
 | [`45.156.87.10`](45.156.87.10/) | Port scanning (16) | 18 | 2026-11-14T21:56:40Z |
 | [`45.156.87.50`](45.156.87.50/) | SSH brute force (25) | 25 | 2026-11-12T03:52:57Z |
 | [`45.156.87.72`](45.156.87.72/) | SSH brute force (17) | 17 | 2026-11-12T01:10:46Z |
@@ -15,10 +16,10 @@
 | [`45.156.87.153`](45.156.87.153/) | SSH brute force (14), Port scanning (1) | 15 | 2026-11-16T12:16:11Z |
 | [`45.156.87.168`](45.156.87.168/) | SSH brute force (27) | 27 | 2026-11-12T01:37:24Z |
 | [`45.156.87.189`](45.156.87.189/) | SSH brute force (10) | 10 | 2026-11-12T21:22:13Z |
-| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (388), Port scanning (210) | 598 | 2026-11-18T19:50:04Z |
+| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (392), Port scanning (210) | 602 | 2026-11-18T20:53:57Z |
 | [`85.11.167.37`](85.11.167.37/) | Port scanning (19), Known botnet / C2 infrastructure (9) | 29 | 2026-11-17T01:22:41Z |
 | [`85.11.167.72`](85.11.167.72/) | SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (3) | 21 | 2026-11-17T11:45:51Z |
-| [`85.11.167.192`](85.11.167.192/) | Port scanning (101), Abusive HTTP requests (1) | 106 | 2026-11-18T16:18:42Z |
+| [`85.11.167.192`](85.11.167.192/) | Port scanning (102), Abusive HTTP requests (1) | 107 | 2026-11-18T20:27:41Z |
 | [`85.11.167.204`](85.11.167.204/) | Spamhaus DROP-listed network (38), Abusive HTTP requests (11) | 49 | 2026-11-18T20:23:57Z |
 | [`91.92.40.12`](91.92.40.12/) | Known botnet / C2 infrastructure (526), Spamhaus DROP-listed network (120), Exploitation attempt (CVE / RCE / injection) (31) | 677 | 2026-11-18T11:48:54Z |
 | [`91.92.47.5`](91.92.47.5/) | Abusive HTTP requests (8), Spamhaus DROP-listed network (2) | 10 | 2026-11-18T13:25:07Z |

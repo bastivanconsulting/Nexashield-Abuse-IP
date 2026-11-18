@@ -5,10 +5,10 @@
   "asn": 40021,
   "asn_org": "Contabo Inc.",
   "categories": {
-    "scan": 26
+    "scan": 27
   },
-  "events": 33,
+  "events": 34,
   "first_seen": "2026-11-15T21:53:31Z",
-  "last_seen": "2026-11-18T20:10:52Z",
+  "last_seen": "2026-11-18T21:10:31Z",
   "reported": "not reported (permanent ban)"
 }

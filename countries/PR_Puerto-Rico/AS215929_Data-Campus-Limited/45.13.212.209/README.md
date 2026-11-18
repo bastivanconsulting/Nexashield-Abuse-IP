@@ -7,10 +7,10 @@
 | IP | `45.13.212.209` |
 | Country | Puerto Rico (PR) |
 | ASN | AS215929 · Data Campus Limited |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-18T02:43:15Z |
-| Last seen (UTC) | 2026-11-18T11:21:53Z |
+| Last seen (UTC) | 2026-11-18T20:32:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
