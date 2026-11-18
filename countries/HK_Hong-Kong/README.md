@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 72 | Port scanning (1236), Known botnet / C2 infrastructure (542), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 26 | Port scanning (3157), Abusive HTTP requests (973), Spamhaus DROP-listed network (143), Known botnet / C2 infrastructure (40), Web injection payload blocked by WAF (5) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (602), Known botnet / C2 infrastructure (49) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 72 | Port scanning (1242), Known botnet / C2 infrastructure (544), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 26 | Port scanning (3166), Abusive HTTP requests (973), Spamhaus DROP-listed network (143), Known botnet / C2 infrastructure (40), Web injection payload blocked by WAF (5) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (603), Known botnet / C2 infrastructure (50) |
 | [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1059), Known botnet / C2 infrastructure (47), Exploitation attempt (CVE / RCE / injection) (5) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 2 | SSH brute force (152), Port scanning (10), Exploitation attempt (CVE / RCE / injection) (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (541), Abusive HTTP requests (35) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (544), Abusive HTTP requests (36) |
 | [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (127), Known botnet / C2 infrastructure (7), Abusive HTTP requests (4) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (40) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (836), Web injection payload blocked by WAF (12) |
