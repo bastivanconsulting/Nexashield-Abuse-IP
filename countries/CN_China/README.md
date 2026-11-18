@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4134](AS4134_Chinanet/) | Chinanet | 12 | Port scanning (447), Known botnet / C2 infrastructure (38), SSH brute force (8), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 12 | Port scanning (448), Known botnet / C2 infrastructure (38), SSH brute force (8), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 6 | Port scanning (97), Known botnet / C2 infrastructure (64) |
 | [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 6 | Port scanning (64), Known botnet / C2 infrastructure (18), SSH brute force (7) |
 | [AS4837](AS4837_CHINA-UNICOM-China169-Backbone/) | CHINA UNICOM China169 Backbone | 6 | Port scanning (76), SSH brute force (10), Known botnet / C2 infrastructure (8), Exploitation attempt (CVE / RCE / injection) (3), Abusive HTTP requests (2) |
@@ -16,7 +16,7 @@
 | [AS136188](AS136188_NINGBO-ZHEJIANG-Province-P-R-China/) | NINGBO, ZHEJIANG Province, P.R.China. | 1 | Port scanning (12) |
 | [AS136195](AS136195_Qingdao-Shandong-Province-P-R-China/) | Qingdao, Shandong Province, P.R.China. | 1 | Port scanning (9), Known botnet / C2 infrastructure (2) |
 | [AS137718](AS137718_Beijing-Volcano-Engine-Technology-Co-Ltd/) | Beijing Volcano Engine Technology Co., Ltd. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (1) |
-| [AS23724](AS23724_IDC-China-Telecommunications-Corporation/) | IDC, China Telecommunications Corporation | 1 | Port scanning (28), Known botnet / C2 infrastructure (8) |
+| [AS23724](AS23724_IDC-China-Telecommunications-Corporation/) | IDC, China Telecommunications Corporation | 1 | Port scanning (29), Known botnet / C2 infrastructure (9) |
 | [AS24151](AS24151_China-Internet-Network-Infomation-Center/) | China Internet Network Infomation Center | 1 | Port scanning (7), Known botnet / C2 infrastructure (3) |
 | [AS24400](AS24400_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 1 | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS24404](AS24404_CNISP-Union-Technology-Beijing-Co-Ltd/) | CNISP-Union Technology (Beijing) Co., Ltd | 1 | Port scanning (68), Known botnet / C2 infrastructure (5) |

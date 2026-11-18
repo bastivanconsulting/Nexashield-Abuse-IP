@@ -1,6 +1,6 @@
 # AS208843 · Alpha Strike Labs GmbH
 
-🇩🇪 Germany · **45** malicious IP(s)
+🇩🇪 Germany · **46** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -36,13 +36,14 @@
 | [`194.187.176.139`](194.187.176.139/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T21:39:28Z |
 | [`194.187.176.141`](194.187.176.141/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T14:22:57Z |
 | [`194.187.176.143`](194.187.176.143/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T00:57:03Z |
+| [`194.187.176.145`](194.187.176.145/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-18T19:05:04Z |
 | [`194.187.176.146`](194.187.176.146/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-16T01:24:47Z |
 | [`194.187.176.149`](194.187.176.149/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T04:41:05Z |
 | [`194.187.176.162`](194.187.176.162/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-14T00:43:03Z |
 | [`194.187.176.184`](194.187.176.184/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T20:33:04Z |
 | [`194.187.176.191`](194.187.176.191/) | Port scanning (8) | 16 | 2026-11-18T13:18:04Z |
 | [`194.187.176.217`](194.187.176.217/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-17T09:23:26Z |
-| [`194.187.176.223`](194.187.176.223/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-18T13:18:30Z |
+| [`194.187.176.223`](194.187.176.223/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T18:58:57Z |
 | [`194.187.176.228`](194.187.176.228/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-18T07:15:09Z |
 | [`194.187.176.231`](194.187.176.231/) | Known botnet / C2 infrastructure (6), Port scanning (5) | 12 | 2026-11-16T19:44:22Z |
 | [`194.187.176.232`](194.187.176.232/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-16T01:48:46Z |

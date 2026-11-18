@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS11014](AS11014_CPS/) | CPS | 1 | Port scanning (8), Known botnet / C2 infrastructure (6) |
-| [AS11664](AS11664_Techtel-LMDS-Comunicaciones-Interactivas-S-A/) | Techtel LMDS Comunicaciones Interactivas S.A. | 1 | Port scanning (14) |
+| [AS11664](AS11664_Techtel-LMDS-Comunicaciones-Interactivas-S-A/) | Techtel LMDS Comunicaciones Interactivas S.A. | 1 | Port scanning (15) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

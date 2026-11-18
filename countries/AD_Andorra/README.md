@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS48090](AS48090_TECHOFF-SRV-LIMITED/) | TECHOFF SRV LIMITED | 58 | Port scanning (11824), SSH brute force (2907), Web injection payload blocked by WAF (2723), Known botnet / C2 infrastructure (324), Abusive HTTP requests (19), Exploitation attempt (CVE / RCE / injection) (7) |
-| [AS216014](AS216014_BestDC-Limited/) | BestDC Limited | 17 | Port scanning (7293), Known botnet / C2 infrastructure (256), SSH brute force (175), Abusive HTTP requests (17) |
+| [AS48090](AS48090_TECHOFF-SRV-LIMITED/) | TECHOFF SRV LIMITED | 58 | Port scanning (11835), SSH brute force (2911), Web injection payload blocked by WAF (2723), Known botnet / C2 infrastructure (325), Abusive HTTP requests (19), Exploitation attempt (CVE / RCE / injection) (7) |
+| [AS216014](AS216014_BestDC-Limited/) | BestDC Limited | 17 | Port scanning (7304), Known botnet / C2 infrastructure (258), SSH brute force (175), Abusive HTTP requests (17) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
