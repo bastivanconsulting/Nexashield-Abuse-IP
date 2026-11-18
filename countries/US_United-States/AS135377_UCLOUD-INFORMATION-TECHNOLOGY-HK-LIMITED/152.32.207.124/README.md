@@ -7,10 +7,10 @@
 | IP | `152.32.207.124` |
 | Country | United States (US) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (9) |
-| Events | 22 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (10) |
+| Events | 24 |
 | First seen (UTC) | 2026-11-12T10:03:04Z |
-| Last seen (UTC) | 2026-11-18T10:09:59Z |
+| Last seen (UTC) | 2026-11-18T22:51:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

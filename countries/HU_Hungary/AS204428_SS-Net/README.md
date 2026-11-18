@@ -4,8 +4,8 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`80.94.95.115`](80.94.95.115/) | Port scanning (554), SSH brute force (150), Spamhaus DROP-listed network (12) | 716 | 2026-11-18T22:34:33Z |
-| [`80.94.95.116`](80.94.95.116/) | Port scanning (590), SSH brute force (150), Spamhaus DROP-listed network (10) | 750 | 2026-11-18T22:11:51Z |
+| [`80.94.95.115`](80.94.95.115/) | Port scanning (560), SSH brute force (158), Spamhaus DROP-listed network (12) | 730 | 2026-11-18T23:24:27Z |
+| [`80.94.95.116`](80.94.95.116/) | Port scanning (592), SSH brute force (162), Spamhaus DROP-listed network (14) | 768 | 2026-11-18T23:21:11Z |
 | [`80.94.95.211`](80.94.95.211/) | Abusive HTTP requests (10) | 10 | 2026-11-14T08:32:38Z |
 | [`80.94.95.245`](80.94.95.245/) | Port scanning (13) | 18 | 2026-11-15T09:51:35Z |
 

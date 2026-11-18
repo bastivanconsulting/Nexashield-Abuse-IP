@@ -7,10 +7,10 @@
 | IP | `85.217.140.18` |
 | Country | France (FR) |
 | ASN | AS209334 · Modat B.V. |
-| Activity | Port scanning (484), Known botnet / C2 infrastructure (20) |
-| Events | 561 |
+| Activity | Port scanning (487), Known botnet / C2 infrastructure (21) |
+| Events | 565 |
 | First seen (UTC) | 2026-11-12T19:48:13Z |
-| Last seen (UTC) | 2026-11-18T22:02:36Z |
+| Last seen (UTC) | 2026-11-18T23:08:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

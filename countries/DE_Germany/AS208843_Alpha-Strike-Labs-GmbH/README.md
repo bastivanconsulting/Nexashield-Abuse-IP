@@ -1,6 +1,6 @@
 # AS208843 · Alpha Strike Labs GmbH
 
-🇩🇪 Germany · **48** malicious IP(s)
+🇩🇪 Germany · **50** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,10 +12,11 @@
 | [`194.187.176.15`](194.187.176.15/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-17T07:32:37Z |
 | [`194.187.176.16`](194.187.176.16/) | Port scanning (1) | 2 | 2026-11-18T13:18:04Z |
 | [`194.187.176.21`](194.187.176.21/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T20:36:02Z |
+| [`194.187.176.30`](194.187.176.30/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T22:51:03Z |
 | [`194.187.176.31`](194.187.176.31/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T03:27:57Z |
 | [`194.187.176.35`](194.187.176.35/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-18T10:26:13Z |
 | [`194.187.176.43`](194.187.176.43/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-18T04:02:31Z |
-| [`194.187.176.45`](194.187.176.45/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-18T13:18:30Z |
+| [`194.187.176.45`](194.187.176.45/) | Known botnet / C2 infrastructure (4), Port scanning (3) | 8 | 2026-11-18T22:31:05Z |
 | [`194.187.176.48`](194.187.176.48/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-18T10:26:13Z |
 | [`194.187.176.51`](194.187.176.51/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T11:13:02Z |
 | [`194.187.176.57`](194.187.176.57/) | Port scanning (1) | 2 | 2026-11-18T13:18:04Z |
@@ -28,6 +29,7 @@
 | [`194.187.176.103`](194.187.176.103/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-13T12:59:02Z |
 | [`194.187.176.106`](194.187.176.106/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-18T15:36:39Z |
 | [`194.187.176.111`](194.187.176.111/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 7 | 2026-11-18T13:18:04Z |
+| [`194.187.176.118`](194.187.176.118/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T23:03:04Z |
 | [`194.187.176.120`](194.187.176.120/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-18T13:18:04Z |
 | [`194.187.176.123`](194.187.176.123/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T08:34:26Z |
 | [`194.187.176.124`](194.187.176.124/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-18T07:26:27Z |

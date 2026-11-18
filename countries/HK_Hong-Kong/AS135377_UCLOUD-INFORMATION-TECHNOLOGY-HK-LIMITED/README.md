@@ -5,8 +5,8 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.249.246.17`](45.249.246.17/) | Port scanning (26), Known botnet / C2 infrastructure (14) | 41 | 2026-11-18T17:32:57Z |
-| [`45.249.246.196`](45.249.246.196/) | Port scanning (23) | 36 | 2026-11-18T20:02:44Z |
-| [`101.36.106.78`](101.36.106.78/) | Port scanning (21) | 21 | 2026-11-17T12:26:10Z |
+| [`45.249.246.196`](45.249.246.196/) | Port scanning (24) | 37 | 2026-11-18T22:51:47Z |
+| [`101.36.106.78`](101.36.106.78/) | Port scanning (22) | 22 | 2026-11-18T23:11:27Z |
 | [`101.36.106.89`](101.36.106.89/) | Port scanning (20), Known botnet / C2 infrastructure (12) | 33 | 2026-11-18T19:25:40Z |
 | [`101.36.106.134`](101.36.106.134/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-18T11:44:30Z |
 | [`101.36.107.243`](101.36.107.243/) | Port scanning (25) | 25 | 2026-11-18T19:36:03Z |
@@ -21,17 +21,17 @@
 | [`101.36.118.148`](101.36.118.148/) | Port scanning (27), Known botnet / C2 infrastructure (13) | 41 | 2026-11-18T19:30:44Z |
 | [`101.36.119.146`](101.36.119.146/) | Port scanning (20), Known botnet / C2 infrastructure (10) | 31 | 2026-11-18T09:04:24Z |
 | [`101.36.121.22`](101.36.121.22/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-15T01:20:08Z |
-| [`101.36.121.72`](101.36.121.72/) | Port scanning (18), Known botnet / C2 infrastructure (12) | 31 | 2026-11-18T06:27:54Z |
+| [`101.36.121.72`](101.36.121.72/) | Port scanning (19), Known botnet / C2 infrastructure (13) | 33 | 2026-11-18T22:45:49Z |
 | [`101.36.122.183`](101.36.122.183/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-16T05:13:17Z |
 | [`101.36.123.67`](101.36.123.67/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-18T17:15:40Z |
-| [`101.36.124.220`](101.36.124.220/) | Port scanning (27), Known botnet / C2 infrastructure (7) | 34 | 2026-11-18T17:33:58Z |
+| [`101.36.124.220`](101.36.124.220/) | Port scanning (28), Known botnet / C2 infrastructure (7) | 35 | 2026-11-18T23:04:46Z |
 | [`101.36.127.85`](101.36.127.85/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-18T19:52:34Z |
 | [`101.36.127.95`](101.36.127.95/) | Port scanning (27) | 28 | 2026-11-18T21:28:49Z |
 | [`107.150.123.48`](107.150.123.48/) | Port scanning (18), Known botnet / C2 infrastructure (8) | 27 | 2026-11-18T16:58:54Z |
 | [`118.26.36.18`](118.26.36.18/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-17T15:33:59Z |
 | [`118.26.39.231`](118.26.39.231/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T04:04:04Z |
-| [`118.193.36.107`](118.193.36.107/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-18T04:58:58Z |
-| [`118.193.36.149`](118.193.36.149/) | Port scanning (27), Known botnet / C2 infrastructure (13) | 41 | 2026-11-18T16:04:05Z |
+| [`118.193.36.107`](118.193.36.107/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-18T23:10:13Z |
+| [`118.193.36.149`](118.193.36.149/) | Port scanning (28), Known botnet / C2 infrastructure (14) | 43 | 2026-11-18T22:50:54Z |
 | [`118.193.39.117`](118.193.39.117/) | Port scanning (7), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) | 17 | 2026-11-18T21:01:41Z |
 | [`118.193.40.88`](118.193.40.88/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 35 | 2026-11-18T18:54:11Z |
 | [`118.193.43.158`](118.193.43.158/) | Port scanning (22), Known botnet / C2 infrastructure (10) | 33 | 2026-11-18T17:49:43Z |
@@ -67,13 +67,13 @@
 | [`165.154.40.244`](165.154.40.244/) | Port scanning (23), Known botnet / C2 infrastructure (11) | 35 | 2026-11-18T05:57:54Z |
 | [`165.154.41.6`](165.154.41.6/) | Port scanning (24), Known botnet / C2 infrastructure (11) | 36 | 2026-11-17T14:31:36Z |
 | [`165.154.41.50`](165.154.41.50/) | Port scanning (17), Known botnet / C2 infrastructure (9) | 27 | 2026-11-18T21:57:04Z |
-| [`165.154.41.56`](165.154.41.56/) | Port scanning (19), Known botnet / C2 infrastructure (7) | 28 | 2026-11-16T04:25:31Z |
+| [`165.154.41.56`](165.154.41.56/) | Port scanning (20), Known botnet / C2 infrastructure (8) | 30 | 2026-11-18T22:46:19Z |
 | [`165.154.41.97`](165.154.41.97/) | Port scanning (17), Known botnet / C2 infrastructure (10) | 30 | 2026-11-18T21:03:13Z |
 | [`165.154.41.152`](165.154.41.152/) | Port scanning (20), Known botnet / C2 infrastructure (13) | 34 | 2026-11-18T20:58:39Z |
 | [`165.154.41.182`](165.154.41.182/) | Port scanning (19), Known botnet / C2 infrastructure (12) | 32 | 2026-11-18T17:45:19Z |
 | [`165.154.41.205`](165.154.41.205/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 23 | 2026-11-17T20:40:43Z |
 | [`165.154.41.232`](165.154.41.232/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 23 | 2026-11-18T22:06:12Z |
-| [`165.154.42.209`](165.154.42.209/) | Port scanning (27), Known botnet / C2 infrastructure (10) | 38 | 2026-11-16T19:39:17Z |
+| [`165.154.42.209`](165.154.42.209/) | Port scanning (28), Known botnet / C2 infrastructure (11) | 40 | 2026-11-18T22:46:19Z |
 | [`165.154.43.179`](165.154.43.179/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-13T03:03:02Z |
 | [`165.154.70.178`](165.154.70.178/) | Port scanning (22) | 33 | 2026-11-18T06:07:04Z |
 

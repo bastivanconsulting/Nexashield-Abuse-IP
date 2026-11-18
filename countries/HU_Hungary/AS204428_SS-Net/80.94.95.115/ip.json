@@ -6,11 +6,11 @@
   "asn_org": "SS-Net",
   "categories": {
     "spamhaus": 12,
-    "scan": 554,
-    "ssh": 150
+    "scan": 560,
+    "ssh": 158
   },
-  "events": 716,
+  "events": 730,
   "first_seen": "2026-11-11T21:29:19Z",
-  "last_seen": "2026-11-18T22:34:33Z",
+  "last_seen": "2026-11-18T23:24:27Z",
   "reported": "2026-11-12T02:25:33Z"
 }

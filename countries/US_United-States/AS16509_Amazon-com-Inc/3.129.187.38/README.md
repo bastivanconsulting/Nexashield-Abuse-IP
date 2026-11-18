@@ -7,10 +7,10 @@
 | IP | `3.129.187.38` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Known botnet / C2 infrastructure (2), SSH brute force (1) |
-| Events | 10 |
+| Activity | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-15T17:29:48Z |
-| Last seen (UTC) | 2026-11-18T15:06:41Z |
+| Last seen (UTC) | 2026-11-18T22:44:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
