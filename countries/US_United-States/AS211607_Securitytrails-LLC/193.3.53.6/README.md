@@ -7,10 +7,10 @@
 | IP | `193.3.53.6` |
 | Country | United States (US) |
 | ASN | AS211607 · Securitytrails, LLC |
-| Activity | Port scanning (28) |
-| Events | 41 |
+| Activity | Port scanning (29) |
+| Events | 43 |
 | First seen (UTC) | 2026-11-12T21:53:25Z |
-| Last seen (UTC) | 2026-11-17T12:48:00Z |
+| Last seen (UTC) | 2026-11-18T02:25:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

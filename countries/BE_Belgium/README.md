@@ -1,10 +1,10 @@
 # 🇧🇪 Belgium
 
-**308** malicious IP(s) across **2** network(s).
+**311** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 277 | Port scanning (8908), Known botnet / C2 infrastructure (1137), SSH brute force (58), Abusive HTTP requests (51), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
+| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 280 | Port scanning (8978), Known botnet / C2 infrastructure (1168), SSH brute force (60), Abusive HTTP requests (51), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 31 | Abusive HTTP requests (5227), Web injection payload blocked by WAF (34) |
 
 ---

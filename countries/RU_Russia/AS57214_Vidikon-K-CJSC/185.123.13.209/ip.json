@@ -1,0 +1,16 @@
+{
+  "ip": "185.123.13.209",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 57214,
+  "asn_org": "Vidikon-K, CJSC",
+  "categories": {
+    "ssh": 155,
+    "scan": 2,
+    "c2": 1
+  },
+  "events": 160,
+  "first_seen": "2026-11-18T03:08:51Z",
+  "last_seen": "2026-11-18T03:10:03Z",
+  "reported": "not reported (permanent ban)"
+}

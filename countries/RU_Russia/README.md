@@ -1,6 +1,6 @@
 # 🇷🇺 Russia
 
-**20** malicious IP(s) across **11** network(s).
+**21** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -14,6 +14,7 @@
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
 | [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (233), Known botnet / C2 infrastructure (22), Exploitation attempt (CVE / RCE / injection) (7) |
+| [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (155), Port scanning (2), Known botnet / C2 infrastructure (1) |
 | [AS8402](AS8402_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | Port scanning (11), Known botnet / C2 infrastructure (7) |
 
 ---

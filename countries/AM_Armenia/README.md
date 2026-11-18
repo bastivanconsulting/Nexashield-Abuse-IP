@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS197834](AS197834_Ucom-CJSC/) | Ucom CJSC | 1 | Port scanning (85), Known botnet / C2 infrastructure (20) |
+| [AS197834](AS197834_Ucom-CJSC/) | Ucom CJSC | 1 | Port scanning (86), Known botnet / C2 infrastructure (20) |
 | [AS49800](AS49800_GNC-Alfa-CJSC/) | GNC-Alfa CJSC | 1 | Port scanning (43), Known botnet / C2 infrastructure (4) |
 
 ---

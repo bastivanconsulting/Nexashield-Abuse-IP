@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (97), Known botnet / C2 infrastructure (9) |
-| [AS3462](AS3462_Chunghwa-Telecom-Co-Ltd/) | Chunghwa Telecom Co., Ltd. | 4 | Port scanning (29), Exploitation attempt (CVE / RCE / injection) (9) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (98), Known botnet / C2 infrastructure (9) |
+| [AS3462](AS3462_Chunghwa-Telecom-Co-Ltd/) | Chunghwa Telecom Co., Ltd. | 4 | Port scanning (30), Exploitation attempt (CVE / RCE / injection) (9) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (4) |
 
 ---

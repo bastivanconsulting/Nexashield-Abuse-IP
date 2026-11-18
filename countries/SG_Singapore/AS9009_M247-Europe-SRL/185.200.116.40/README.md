@@ -8,9 +8,9 @@
 | Country | Singapore (SG) |
 | ASN | AS9009 · M247 Europe SRL |
 | Activity | Port scanning (20) |
-| Events | 22 |
+| Events | 23 |
 | First seen (UTC) | 2026-11-13T16:07:18Z |
-| Last seen (UTC) | 2026-11-18T01:28:31Z |
+| Last seen (UTC) | 2026-11-18T02:19:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

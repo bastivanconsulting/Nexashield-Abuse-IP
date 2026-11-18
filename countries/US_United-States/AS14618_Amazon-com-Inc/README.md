@@ -115,7 +115,7 @@
 | [`100.29.192.2`](100.29.192.2/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-16T06:55:35Z |
 | [`100.29.192.4`](100.29.192.4/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-15T22:23:12Z |
 | [`100.29.192.5`](100.29.192.5/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-17T17:32:43Z |
-| [`100.29.192.6`](100.29.192.6/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-17T16:54:37Z |
+| [`100.29.192.6`](100.29.192.6/) | Port scanning (13), Known botnet / C2 infrastructure (11) | 25 | 2026-11-18T02:29:33Z |
 | [`100.29.192.7`](100.29.192.7/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-14T01:14:20Z |
 | [`100.29.192.10`](100.29.192.10/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-16T02:17:16Z |
 | [`100.29.192.11`](100.29.192.11/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-15T16:08:44Z |
@@ -167,7 +167,7 @@
 | [`100.29.192.101`](100.29.192.101/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-17T11:08:33Z |
 | [`100.29.192.102`](100.29.192.102/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-17T19:38:10Z |
 | [`100.29.192.103`](100.29.192.103/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-18T02:12:17Z |
-| [`100.29.192.104`](100.29.192.104/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-16T23:08:34Z |
+| [`100.29.192.104`](100.29.192.104/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-18T02:31:05Z |
 | [`100.29.192.106`](100.29.192.106/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-17T14:13:03Z |
 | [`100.29.192.108`](100.29.192.108/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-17T01:07:27Z |
 | [`100.29.192.109`](100.29.192.109/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-17T13:01:25Z |

@@ -6,11 +6,11 @@
   "asn_org": "ONYPHE SAS",
   "categories": {
     "exploit": 1,
-    "scan": 16,
-    "c2": 3
+    "scan": 17,
+    "c2": 4
   },
-  "events": 29,
+  "events": 31,
   "first_seen": "2026-11-11T14:10:26Z",
-  "last_seen": "2026-11-17T11:45:41Z",
+  "last_seen": "2026-11-18T02:34:37Z",
   "reported": "not reported (permanent ban)"
 }
