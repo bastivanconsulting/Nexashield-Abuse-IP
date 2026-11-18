@@ -1,14 +1,14 @@
 # 🇧🇷 Brazil
 
-**23** malicious IP(s) across **14** network(s).
+**24** malicious IP(s) across **14** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (813), Known botnet / C2 infrastructure (63), Exploitation attempt (CVE / RCE / injection) (44) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (50), Known botnet / C2 infrastructure (13) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (816), Known botnet / C2 infrastructure (64), Exploitation attempt (CVE / RCE / injection) (44) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (51), Known botnet / C2 infrastructure (13) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 2 | Port scanning (269), SSH brute force (4), Known botnet / C2 infrastructure (3) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (429), Web injection payload blocked by WAF (21) |
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 1 | Port scanning (268) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (21) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (17), Known botnet / C2 infrastructure (4) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |

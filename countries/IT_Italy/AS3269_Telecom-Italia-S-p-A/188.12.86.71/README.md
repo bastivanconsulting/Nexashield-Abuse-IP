@@ -7,10 +7,10 @@
 | IP | `188.12.86.71` |
 | Country | Italy (IT) |
 | ASN | AS3269 · Telecom Italia S.p.A. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
-| Events | 7 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (1) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-14T01:54:58Z |
-| Last seen (UTC) | 2026-11-15T20:53:07Z |
+| Last seen (UTC) | 2026-11-18T15:19:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

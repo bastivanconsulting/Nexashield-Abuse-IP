@@ -5,11 +5,11 @@
   "asn": 132203,
   "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
   "categories": {
-    "scan": 11,
-    "c2": 8
+    "scan": 12,
+    "c2": 9
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-12T03:18:07Z",
-  "last_seen": "2026-11-16T01:19:13Z",
+  "last_seen": "2026-11-18T15:28:31Z",
   "reported": "not reported (permanent ban)"
 }

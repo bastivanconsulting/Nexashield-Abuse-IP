@@ -1,0 +1,15 @@
+{
+  "ip": "168.144.130.137",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 7,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-12T15:31:09Z",
+  "last_seen": "2026-11-18T15:55:03Z",
+  "reported": "not reported (permanent ban)"
+}

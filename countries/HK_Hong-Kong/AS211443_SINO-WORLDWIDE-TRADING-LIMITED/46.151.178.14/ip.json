@@ -5,12 +5,12 @@
   "asn": 211443,
   "asn_org": "SINO WORLDWIDE TRADING LIMITED",
   "categories": {
-    "scan": 127,
+    "scan": 129,
     "c2": 7,
     "web": 4
   },
-  "events": 147,
+  "events": 150,
   "first_seen": "2026-11-11T14:54:27Z",
-  "last_seen": "2026-11-18T10:17:43Z",
+  "last_seen": "2026-11-18T16:11:10Z",
   "reported": "not reported (permanent ban)"
 }
