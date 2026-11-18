@@ -7,10 +7,10 @@
 | IP | `147.203.255.20` |
 | Country | United States (US) |
 | ASN | AS11320 · LightEdge Solutions |
-| Activity | Exploitation attempt (CVE / RCE / injection) (12), Port scanning (9) |
-| Events | 30 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (13), Port scanning (9) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-11T10:02:54Z |
-| Last seen (UTC) | 2026-11-18T16:20:09Z |
+| Last seen (UTC) | 2026-11-18T17:34:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

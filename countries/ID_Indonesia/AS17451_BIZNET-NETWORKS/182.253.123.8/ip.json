@@ -1,0 +1,14 @@
+{
+  "ip": "182.253.123.8",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 17451,
+  "asn_org": "BIZNET NETWORKS",
+  "categories": {
+    "web": 8
+  },
+  "events": 8,
+  "first_seen": "2026-11-18T11:11:32Z",
+  "last_seen": "2026-11-18T17:57:25Z",
+  "reported": "2026-11-18T18:26:27Z"
+}

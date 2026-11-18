@@ -4,18 +4,18 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 681 | Port scanning (12682), Known botnet / C2 infrastructure (2395), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 681 | Port scanning (12709), Known botnet / C2 infrastructure (2410), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3760), Known botnet / C2 infrastructure (826) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 23 | Port scanning (299), Known botnet / C2 infrastructure (184) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (924), Abusive HTTP requests (91), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (928), Abusive HTTP requests (91), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 12 | Port scanning (302), Known botnet / C2 infrastructure (46), Abusive HTTP requests (30), Exploitation attempt (CVE / RCE / injection) (15) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (1980), Spamhaus DROP-listed network (102) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2004), Spamhaus DROP-listed network (102) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (22), Known botnet / C2 infrastructure (11) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (95), Known botnet / C2 infrastructure (34) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (8), Known botnet / C2 infrastructure (2) |
 | [AS11878](AS11878_tzulo-inc/) | tzulo, inc. | 1 | Port scanning (11) |
-| [AS15830](AS15830_Equinix-EMEA-Acquisition-Enterprises-B-V/) | Equinix (EMEA) Acquisition Enterprises B.V. | 1 | Port scanning (13) |
+| [AS15830](AS15830_Equinix-EMEA-Acquisition-Enterprises-B-V/) | Equinix (EMEA) Acquisition Enterprises B.V. | 1 | Port scanning (14) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Port scanning (1) |
 | [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 1 | Port scanning (50), Exploitation attempt (CVE / RCE / injection) (17), Known botnet / C2 infrastructure (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 1 | Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |

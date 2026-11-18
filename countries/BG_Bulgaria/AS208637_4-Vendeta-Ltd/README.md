@@ -4,8 +4,8 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`78.128.112.6`](78.128.112.6/) | Port scanning (423), Known botnet / C2 infrastructure (27) | 478 | 2026-11-18T17:05:03Z |
-| [`78.128.112.74`](78.128.112.74/) | Port scanning (64), SSH brute force (28) | 92 | 2026-11-18T13:54:28Z |
+| [`78.128.112.6`](78.128.112.6/) | Port scanning (424), Known botnet / C2 infrastructure (27) | 479 | 2026-11-18T17:32:33Z |
+| [`78.128.112.74`](78.128.112.74/) | Port scanning (66), SSH brute force (28) | 94 | 2026-11-18T18:26:57Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -5,11 +5,11 @@
   "asn": 24323,
   "asn_org": "Aamra Networks Limited",
   "categories": {
-    "scan": 5,
-    "c2": 3
+    "scan": 6,
+    "c2": 4
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-13T02:02:14Z",
-  "last_seen": "2026-11-14T11:52:23Z",
+  "last_seen": "2026-11-18T17:56:19Z",
   "reported": "not reported (permanent ban)"
 }

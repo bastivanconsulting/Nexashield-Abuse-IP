@@ -8,7 +8,7 @@
 | [AS139029](AS139029_AKNetworks/) | AKNetworks | 1 | Port scanning (28) |
 | [AS141474](AS141474_Trust-Innovation-Limited/) | Trust Innovation Limited | 1 | Port scanning (14), Known botnet / C2 infrastructure (3) |
 | [AS23923](AS23923_Agni-Systems-Limited/) | Agni Systems Limited | 1 | Port scanning (191) |
-| [AS24323](AS24323_Aamra-Networks-Limited/) | Aamra Networks Limited | 1 | Port scanning (5), Known botnet / C2 infrastructure (3) |
+| [AS24323](AS24323_Aamra-Networks-Limited/) | Aamra Networks Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (4) |
 | [AS63961](AS63961_Bangladesh-Research-and-Education-Network-BdREN/) | Bangladesh Research and Education Network (BdREN) | 1 | Port scanning (47), SSH brute force (40), Known botnet / C2 infrastructure (9) |
 
 ---

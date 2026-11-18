@@ -44,7 +44,7 @@
 | [`109.105.210.43`](109.105.210.43/) | Port scanning (5) | 10 | 2026-11-18T05:18:16Z |
 | [`109.105.210.45`](109.105.210.45/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-17T17:34:14Z |
 | [`109.105.210.49`](109.105.210.49/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-15T17:37:14Z |
-| [`109.105.210.52`](109.105.210.52/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-18T10:04:35Z |
+| [`109.105.210.52`](109.105.210.52/) | Port scanning (18), Known botnet / C2 infrastructure (12) | 31 | 2026-11-18T17:55:17Z |
 | [`109.105.210.54`](109.105.210.54/) | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 7 | 2026-11-15T01:52:40Z |
 | [`109.105.210.58`](109.105.210.58/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-17T05:30:37Z |
 | [`109.105.210.59`](109.105.210.59/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T11:23:40Z |
@@ -52,7 +52,7 @@
 | [`109.105.210.62`](109.105.210.62/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-16T03:13:42Z |
 | [`109.105.210.63`](109.105.210.63/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-17T06:52:27Z |
 | [`109.105.210.64`](109.105.210.64/) | Port scanning (14), Known botnet / C2 infrastructure (9) | 24 | 2026-11-18T04:51:50Z |
-| [`109.105.210.65`](109.105.210.65/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-18T05:42:40Z |
+| [`109.105.210.65`](109.105.210.65/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-18T17:34:59Z |
 | [`109.105.210.67`](109.105.210.67/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-17T19:08:12Z |
 | [`109.105.210.68`](109.105.210.68/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-16T19:17:25Z |
 | [`109.105.210.70`](109.105.210.70/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-17T19:02:37Z |

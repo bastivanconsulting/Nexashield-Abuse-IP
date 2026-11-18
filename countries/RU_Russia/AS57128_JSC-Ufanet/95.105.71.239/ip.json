@@ -5,11 +5,11 @@
   "asn": 57128,
   "asn_org": "JSC \"Ufanet\"",
   "categories": {
-    "scan": 2,
+    "scan": 3,
     "c2": 2
   },
-  "events": 5,
+  "events": 6,
   "first_seen": "2026-11-16T20:29:23Z",
-  "last_seen": "2026-11-18T14:16:04Z",
+  "last_seen": "2026-11-18T18:05:55Z",
   "reported": "not reported (permanent ban)"
 }
