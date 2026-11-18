@@ -7,10 +7,10 @@
 | IP | `154.6.110.30` |
 | Country | United States (US) |
 | ASN | AS64286 · LogicWeb Inc. |
-| Activity | Port scanning (16) |
-| Events | 23 |
+| Activity | Port scanning (17) |
+| Events | 25 |
 | First seen (UTC) | 2026-11-11T14:30:57Z |
-| Last seen (UTC) | 2026-11-16T18:51:41Z |
+| Last seen (UTC) | 2026-11-18T16:46:13Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
