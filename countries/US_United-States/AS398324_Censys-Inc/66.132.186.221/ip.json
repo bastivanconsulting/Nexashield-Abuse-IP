@@ -7,10 +7,10 @@
   "categories": {
     "exploit": 2,
     "c2": 10,
-    "scan": 25
+    "scan": 26
   },
-  "events": 38,
+  "events": 39,
   "first_seen": "2026-11-11T19:38:06Z",
-  "last_seen": "2026-11-18T05:05:51Z",
+  "last_seen": "2026-11-18T08:44:18Z",
   "reported": "not reported (permanent ban)"
 }

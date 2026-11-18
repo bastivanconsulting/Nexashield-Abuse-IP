@@ -5,11 +5,11 @@
   "asn": 197834,
   "asn_org": "Ucom CJSC",
   "categories": {
-    "scan": 87,
-    "c2": 20
+    "scan": 88,
+    "c2": 21
   },
-  "events": 110,
+  "events": 112,
   "first_seen": "2026-11-11T15:06:53Z",
-  "last_seen": "2026-11-18T06:19:52Z",
+  "last_seen": "2026-11-18T08:38:30Z",
   "reported": "not reported (permanent ban)"
 }

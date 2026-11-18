@@ -5,11 +5,11 @@
   "asn": 208637,
   "asn_org": "4 Vendeta Ltd",
   "categories": {
-    "scan": 409,
-    "c2": 25
+    "scan": 411,
+    "c2": 26
   },
-  "events": 462,
+  "events": 465,
   "first_seen": "2026-11-11T09:53:03Z",
-  "last_seen": "2026-11-18T07:53:43Z",
+  "last_seen": "2026-11-18T08:57:49Z",
   "reported": "not reported (permanent ban)"
 }

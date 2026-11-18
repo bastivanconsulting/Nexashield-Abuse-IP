@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇺🇸 United States · **51** malicious IP(s)
+🇺🇸 United States · **52** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -15,7 +15,7 @@
 | [`152.32.151.39`](152.32.151.39/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 19 | 2026-11-15T02:52:42Z |
 | [`152.32.151.121`](152.32.151.121/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-17T00:26:49Z |
 | [`152.32.182.165`](152.32.182.165/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-18T05:49:16Z |
-| [`152.32.183.27`](152.32.183.27/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-17T05:43:21Z |
+| [`152.32.183.27`](152.32.183.27/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-18T09:10:01Z |
 | [`152.32.205.193`](152.32.205.193/) | Port scanning (18), Known botnet / C2 infrastructure (9) | 28 | 2026-11-18T02:21:27Z |
 | [`152.32.205.206`](152.32.205.206/) | Port scanning (16), Known botnet / C2 infrastructure (9) | 26 | 2026-11-16T19:10:19Z |
 | [`152.32.206.51`](152.32.206.51/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T19:09:18Z |
@@ -41,6 +41,7 @@
 | [`165.154.36.105`](165.154.36.105/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-17T22:03:26Z |
 | [`165.154.36.107`](165.154.36.107/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-17T07:25:47Z |
 | [`165.154.134.156`](165.154.134.156/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 22 | 2026-11-16T18:13:05Z |
+| [`165.154.135.215`](165.154.135.215/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-17T17:43:58Z |
 | [`165.154.162.102`](165.154.162.102/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T20:13:03Z |
 | [`165.154.163.10`](165.154.163.10/) | Port scanning (126), Known botnet / C2 infrastructure (19) | 165 | 2026-11-18T07:10:04Z |
 | [`165.154.172.108`](165.154.172.108/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-17T07:26:31Z |
