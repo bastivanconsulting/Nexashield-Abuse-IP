@@ -7,10 +7,10 @@
 | IP | `165.154.206.250` |
 | Country | United States (US) |
 | ASN | AS142002 · Scloud Pte Ltd |
-| Activity | Port scanning (18), Known botnet / C2 infrastructure (11) |
-| Events | 30 |
+| Activity | Port scanning (19), Known botnet / C2 infrastructure (12) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-12T19:31:12Z |
-| Last seen (UTC) | 2026-11-18T16:24:13Z |
+| Last seen (UTC) | 2026-11-18T21:20:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

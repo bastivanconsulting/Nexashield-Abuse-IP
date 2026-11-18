@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 9 | Port scanning (84), Known botnet / C2 infrastructure (27), Exploitation attempt (CVE / RCE / injection) (12) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 9 | Port scanning (85), Known botnet / C2 infrastructure (28), Exploitation attempt (CVE / RCE / injection) (12) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Port scanning (24) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (106), Known botnet / C2 infrastructure (40) |
 | [AS24446](AS24446_5G-NETWORK-OPERATIONS-PTY-LTD/) | 5G NETWORK OPERATIONS PTY LTD | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
