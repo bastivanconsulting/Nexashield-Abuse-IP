@@ -1,0 +1,15 @@
+{
+  "ip": "72.182.98.26",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 11427,
+  "asn_org": "Charter Communications Inc",
+  "categories": {
+    "scan": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-16T04:21:56Z",
+  "last_seen": "2026-11-18T04:37:04Z",
+  "reported": "not reported (permanent ban)"
+}

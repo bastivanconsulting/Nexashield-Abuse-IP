@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (68), Known botnet / C2 infrastructure (23) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (69), Known botnet / C2 infrastructure (23) |
 | [AS135905](AS135905_VIETNAM-POSTS-AND-TELECOMMUNICATIONS-GROUP/) | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 1 | Port scanning (106) |
 | [AS135918](AS135918_VIET-DIGITAL-TECHNOLOGY-LIABILITY-COMPANY/) | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 1 | Port scanning (188) |
 | [AS140791](AS140791_BKHOST-TECHNOLOGY-VIETNAM-JOINT-STOCK-COMPANY/) | BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY | 1 | Port scanning (20), Known botnet / C2 infrastructure (11) |
-| [AS140832](AS140832_Vietnam-F-Tech-JSC/) | Vietnam F Tech., JSC | 1 | Port scanning (31), Known botnet / C2 infrastructure (15) |
+| [AS140832](AS140832_Vietnam-F-Tech-JSC/) | Vietnam F Tech., JSC | 1 | Port scanning (32), Known botnet / C2 infrastructure (15) |
 | [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (132) |
 
 ---

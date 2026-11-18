@@ -7,10 +7,10 @@
 | IP | `71.6.155.70` |
 | Country | United States (US) |
 | ASN | AS10439 · CariNet, Inc. |
-| Activity | Port scanning (295), Known botnet / C2 infrastructure (20), Abusive HTTP requests (6) |
-| Events | 358 |
+| Activity | Port scanning (296), Known botnet / C2 infrastructure (20), Abusive HTTP requests (6) |
+| Events | 359 |
 | First seen (UTC) | 2026-11-10T10:04:13Z |
-| Last seen (UTC) | 2026-11-18T04:05:01Z |
+| Last seen (UTC) | 2026-11-18T04:25:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

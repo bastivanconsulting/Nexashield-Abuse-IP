@@ -6,11 +6,11 @@
   "asn_org": "VPS Dedicated LLC",
   "categories": {
     "scan": 19,
-    "c2": 6,
-    "ssh": 2
+    "c2": 7,
+    "ssh": 4
   },
-  "events": 29,
+  "events": 32,
   "first_seen": "2026-11-12T09:00:48Z",
-  "last_seen": "2026-11-16T03:54:59Z",
+  "last_seen": "2026-11-18T04:32:02Z",
   "reported": "not reported (permanent ban)"
 }

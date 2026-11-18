@@ -5,10 +5,10 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-    "scan": 29
+    "scan": 30
   },
-  "events": 44,
+  "events": 46,
   "first_seen": "2026-11-11T10:02:26Z",
-  "last_seen": "2026-11-18T02:16:39Z",
+  "last_seen": "2026-11-18T04:52:20Z",
   "reported": "not reported (permanent ban)"
 }
