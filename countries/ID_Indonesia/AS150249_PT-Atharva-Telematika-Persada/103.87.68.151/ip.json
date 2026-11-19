@@ -1,0 +1,14 @@
+{
+  "ip": "103.87.68.151",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 150249,
+  "asn_org": "PT Atharva Telematika Persada",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-19T02:23:22Z",
+  "last_seen": "2026-11-19T02:23:22Z",
+  "reported": "not reported (permanent ban)"
+}

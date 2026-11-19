@@ -1,6 +1,6 @@
 # AS43515 · Google Ireland Limited
 
-🇧🇪 Belgium · **302** malicious IP(s)
+🇧🇪 Belgium · **303** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -135,7 +135,7 @@
 | [`35.210.54.245`](35.210.54.245/) | Port scanning (27), Known botnet / C2 infrastructure (6) | 35 | 2026-11-18T15:23:08Z |
 | [`35.210.55.156`](35.210.55.156/) | Port scanning (39), Known botnet / C2 infrastructure (4) | 44 | 2026-11-12T16:14:54Z |
 | [`35.210.58.143`](35.210.58.143/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-16T16:52:04Z |
-| [`35.210.62.65`](35.210.62.65/) | Port scanning (43), Known botnet / C2 infrastructure (10) | 54 | 2026-11-18T16:30:36Z |
+| [`35.210.62.65`](35.210.62.65/) | Port scanning (44), Known botnet / C2 infrastructure (11) | 56 | 2026-11-19T02:17:09Z |
 | [`35.210.63.11`](35.210.63.11/) | Port scanning (46), Known botnet / C2 infrastructure (8) | 58 | 2026-11-16T16:50:18Z |
 | [`35.210.63.250`](35.210.63.250/) | Port scanning (23) | 23 | 2026-11-11T17:07:19Z |
 | [`35.210.65.254`](35.210.65.254/) | Port scanning (21), Known botnet / C2 infrastructure (4) | 26 | 2026-11-18T16:19:09Z |
@@ -302,6 +302,7 @@
 | [`35.210.242.117`](35.210.242.117/) | Port scanning (37), Known botnet / C2 infrastructure (8) | 47 | 2026-11-18T14:06:35Z |
 | [`35.210.244.26`](35.210.244.26/) | Port scanning (68), Known botnet / C2 infrastructure (5) | 83 | 2026-11-18T10:11:29Z |
 | [`35.210.246.75`](35.210.246.75/) | Port scanning (38) | 47 | 2026-11-12T16:44:12Z |
+| [`35.210.250.71`](35.210.250.71/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 21 | 2026-11-16T16:57:59Z |
 | [`35.210.252.134`](35.210.252.134/) | Port scanning (60), Known botnet / C2 infrastructure (7), Web injection payload blocked by WAF (1) | 73 | 2026-11-18T11:29:24Z |
 | [`35.210.253.69`](35.210.253.69/) | Port scanning (34), Known botnet / C2 infrastructure (4) | 51 | 2026-11-17T16:48:57Z |
 | [`35.210.253.236`](35.210.253.236/) | Port scanning (25), Known botnet / C2 infrastructure (8) | 34 | 2026-11-18T15:29:33Z |

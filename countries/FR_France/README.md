@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (6804), Known botnet / C2 infrastructure (1397), Exploitation attempt (CVE / RCE / injection) (12), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1611), SSH brute force (470), Known botnet / C2 infrastructure (144) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 28 | Port scanning (1031), Known botnet / C2 infrastructure (110), Exploitation attempt (CVE / RCE / injection) (13), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (6818), Known botnet / C2 infrastructure (1400), Exploitation attempt (CVE / RCE / injection) (12), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1625), SSH brute force (470), Known botnet / C2 infrastructure (144) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 28 | Port scanning (1039), Known botnet / C2 infrastructure (110), Exploitation attempt (CVE / RCE / injection) (13), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 8 | Port scanning (310), Known botnet / C2 infrastructure (26), Abusive HTTP requests (4), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 8 | Abusive HTTP requests (348), Port scanning (144), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (18) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 5 | Port scanning (209), Web injection payload blocked by WAF (8), Known botnet / C2 infrastructure (3), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (3) |
@@ -17,7 +17,7 @@
 | [AS141995](AS141995_Contabo-Asia-Private-Limited/) | Contabo Asia Private Limited | 1 | Port scanning (29) |
 | [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (55) |
 | [AS211273](AS211273_Cloud-Software-FZCO/) | Cloud Software - FZCO | 1 | Port scanning (14) |
-| [AS215381](AS215381_ROCKHOSTER-PRIVATE-LIMITED/) | ROCKHOSTER PRIVATE LIMITED | 1 | Port scanning (21), Known botnet / C2 infrastructure (1) |
+| [AS215381](AS215381_ROCKHOSTER-PRIVATE-LIMITED/) | ROCKHOSTER PRIVATE LIMITED | 1 | Port scanning (22), Known botnet / C2 infrastructure (2) |
 | [AS215599](AS215599_Zkillu-SAS/) | Zkillu SAS | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS29066](AS29066_velia-net-Internetdienste-GmbH/) | velia.net Internetdienste GmbH | 1 | SSH brute force (87) |
 | [AS39421](AS39421_Sapinet-SAS/) | Sapinet SAS | 1 | Known botnet / C2 infrastructure (8) |

@@ -29,7 +29,7 @@
 | [`65.49.20.117`](65.49.20.117/) | Port scanning (18), Known botnet / C2 infrastructure (9) | 28 | 2026-11-18T06:34:00Z |
 | [`65.49.20.118`](65.49.20.118/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-12T04:58:01Z |
 | [`65.49.20.119`](65.49.20.119/) | Port scanning (18), Known botnet / C2 infrastructure (9) | 28 | 2026-11-18T12:46:59Z |
-| [`65.49.20.120`](65.49.20.120/) | Port scanning (22), Known botnet / C2 infrastructure (11) | 34 | 2026-11-18T01:40:05Z |
+| [`65.49.20.120`](65.49.20.120/) | Port scanning (23), Known botnet / C2 infrastructure (12) | 36 | 2026-11-19T01:22:50Z |
 | [`65.49.20.124`](65.49.20.124/) | Port scanning (25), Known botnet / C2 infrastructure (9) | 35 | 2026-11-17T06:26:43Z |
 | [`65.49.20.125`](65.49.20.125/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-17T11:51:17Z |
 | [`74.82.47.2`](74.82.47.2/) | Abusive HTTP requests (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-16T07:18:04Z |
@@ -46,7 +46,7 @@
 | [`184.105.139.89`](184.105.139.89/) | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (1) | 7 | 2026-11-17T08:58:03Z |
 | [`184.105.139.96`](184.105.139.96/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 4 | 2026-11-13T02:15:03Z |
 | [`184.105.139.120`](184.105.139.120/) | Exploitation attempt (CVE / RCE / injection) (3) | 4 | 2026-11-13T02:28:17Z |
-| [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-15T08:30:36Z |
+| [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (2), SSH brute force (1) | 7 | 2026-11-19T01:38:34Z |
 | [`184.105.247.240`](184.105.247.240/) | Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-15T08:30:03Z |
 | [`216.218.206.67`](216.218.206.67/) | SSH brute force (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-17T04:06:03Z |
 | [`216.218.206.69`](216.218.206.69/) | SSH brute force (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-18T01:36:03Z |

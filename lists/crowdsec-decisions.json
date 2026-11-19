@@ -1496,6 +1496,14 @@
   "origin": "lists"
  },
  {
+  "value": "5.226.140.40",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "5.226.140.41",
   "scope": "Ip",
   "type": "ban",
@@ -1601,6 +1609,14 @@
  },
  {
   "value": "5.226.140.66",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "5.226.140.68",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -11416,6 +11432,14 @@
   "origin": "lists"
  },
  {
+  "value": "35.210.250.71",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "35.210.252.134",
   "scope": "Ip",
   "type": "ban",
@@ -16832,6 +16856,14 @@
   "origin": "lists"
  },
  {
+  "value": "47.251.78.194",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "47.251.81.121",
   "scope": "Ip",
   "type": "ban",
@@ -16953,6 +16985,14 @@
  },
  {
   "value": "47.251.244.32",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "47.251.249.208",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -17129,6 +17169,14 @@
  },
  {
   "value": "50.79.0.190",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "50.188.204.213",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -20913,6 +20961,14 @@
  },
  {
   "value": "66.240.223.240",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "66.240.236.109",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -28296,6 +28352,14 @@
   "origin": "lists"
  },
  {
+  "value": "103.87.68.151",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "103.87.175.110",
   "scope": "Ip",
   "type": "ban",
@@ -29489,6 +29553,14 @@
  },
  {
   "value": "114.98.194.25",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "115.50.151.125",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -34000,6 +34072,14 @@
   "origin": "lists"
  },
  {
+  "value": "159.196.65.138",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "159.203.20.151",
   "scope": "Ip",
   "type": "ban",
@@ -37304,6 +37384,14 @@
   "origin": "lists"
  },
  {
+  "value": "185.203.118.142",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "185.216.145.164",
   "scope": "Ip",
   "type": "ban",
@@ -37497,6 +37585,14 @@
  },
  {
   "value": "185.223.235.6",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "185.223.235.10",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -40736,6 +40832,14 @@
   "origin": "lists"
  },
  {
+  "value": "194.187.176.88",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "194.187.176.92",
   "scope": "Ip",
   "type": "ban",
@@ -40920,6 +41024,14 @@
   "origin": "lists"
  },
  {
+  "value": "194.187.176.213",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "194.187.176.217",
   "scope": "Ip",
   "type": "ban",
@@ -40977,6 +41089,14 @@
  },
  {
   "value": "194.187.176.244",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "194.187.176.247",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",

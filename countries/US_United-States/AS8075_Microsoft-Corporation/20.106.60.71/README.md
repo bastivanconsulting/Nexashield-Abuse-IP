@@ -7,10 +7,10 @@
 | IP | `20.106.60.71` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (14) |
-| Events | 21 |
+| Activity | Port scanning (15) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-12T00:47:55Z |
-| Last seen (UTC) | 2026-11-16T10:28:08Z |
+| Last seen (UTC) | 2026-11-19T01:19:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

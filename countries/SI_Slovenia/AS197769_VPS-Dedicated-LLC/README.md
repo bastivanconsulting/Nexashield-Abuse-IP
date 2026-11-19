@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`31.57.37.64`](31.57.37.64/) | Port scanning (67), Known botnet / C2 infrastructure (1) | 84 | 2026-11-19T00:36:38Z |
+| [`31.57.37.64`](31.57.37.64/) | Port scanning (68), Known botnet / C2 infrastructure (1) | 85 | 2026-11-19T01:34:46Z |
 | [`102.220.161.61`](102.220.161.61/) | Port scanning (45), Known botnet / C2 infrastructure (11) | 57 | 2026-11-14T05:37:42Z |
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 24 | 2026-11-15T16:19:53Z |
 | [`102.220.161.84`](102.220.161.84/) | Port scanning (8), Known botnet / C2 infrastructure (7), SSH brute force (6) | 22 | 2026-11-18T14:18:45Z |
@@ -18,7 +18,7 @@
 | [`102.220.161.248`](102.220.161.248/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-17T07:07:03Z |
 | [`102.220.162.164`](102.220.162.164/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 13 | 2026-11-18T16:24:55Z |
 | [`102.220.163.13`](102.220.163.13/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 12 | 2026-11-17T12:26:12Z |
-| [`102.220.163.241`](102.220.163.241/) | Port scanning (23), Abusive HTTP requests (7), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (3) | 42 | 2026-11-17T09:26:27Z |
+| [`102.220.163.241`](102.220.163.241/) | Port scanning (23), Abusive HTTP requests (8), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (4) | 44 | 2026-11-19T01:36:00Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
