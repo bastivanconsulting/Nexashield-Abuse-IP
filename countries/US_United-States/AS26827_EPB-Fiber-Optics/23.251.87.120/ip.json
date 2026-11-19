@@ -5,11 +5,11 @@
   "asn": 26827,
   "asn_org": "EPB Fiber Optics",
   "categories": {
-    "exploit": 6,
-    "scan": 6
+    "exploit": 7,
+    "scan": 7
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-11T12:26:05Z",
-  "last_seen": "2026-11-19T16:44:01Z",
+  "last_seen": "2026-11-19T22:47:33Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `46.151.182.204` |
 | Country | Germany (DE) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (2) |
-| Events | 7 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (2) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-19T01:15:14Z |
-| Last seen (UTC) | 2026-11-19T21:44:04Z |
+| Last seen (UTC) | 2026-11-19T23:15:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

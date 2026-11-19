@@ -5,11 +5,11 @@
   "asn": 38283,
   "asn_org": "CHINANET SiChuan Telecom Internet Data Center",
   "categories": {
-    "scan": 54,
+    "scan": 110,
     "ssh": 342
   },
-  "events": 396,
+  "events": 452,
   "first_seen": "2026-11-11T18:22:16Z",
-  "last_seen": "2026-11-19T22:34:21Z",
+  "last_seen": "2026-11-19T23:33:50Z",
   "reported": "2026-11-11T21:09:51Z"
 }

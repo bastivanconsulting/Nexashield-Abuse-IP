@@ -7,10 +7,10 @@
 | IP | `182.252.82.88` |
 | Country | Bangladesh (BD) |
 | ASN | AS23923 · Agni Systems Limited |
-| Activity | Port scanning (198) |
-| Events | 228 |
+| Activity | Port scanning (199) |
+| Events | 230 |
 | First seen (UTC) | 2026-11-11T09:53:10Z |
-| Last seen (UTC) | 2026-11-19T20:31:29Z |
+| Last seen (UTC) | 2026-11-19T22:57:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `91.148.245.81` |
 | Country | Albania (AL) |
 | ASN | AS34343 · Eweka Internet Services B.V. |
-| Activity | Abusive HTTP requests (81) |
-| Events | 81 |
+| Activity | Abusive HTTP requests (135) |
+| Events | 135 |
 | First seen (UTC) | 2026-11-18T17:06:25Z |
-| Last seen (UTC) | 2026-11-19T14:50:38Z |
+| Last seen (UTC) | 2026-11-19T23:14:54Z |
 | Reported to network owner (UTC) | 2026-11-18T18:26:18Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

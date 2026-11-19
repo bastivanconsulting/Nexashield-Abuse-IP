@@ -7,10 +7,10 @@
 | IP | `222.210.35.197` |
 | Country | China (CN) |
 | ASN | AS38283 · CHINANET SiChuan Telecom Internet Data Center |
-| Activity | SSH brute force (342), Port scanning (54) |
-| Events | 396 |
+| Activity | SSH brute force (342), Port scanning (110) |
+| Events | 452 |
 | First seen (UTC) | 2026-11-11T18:22:16Z |
-| Last seen (UTC) | 2026-11-19T22:34:21Z |
+| Last seen (UTC) | 2026-11-19T23:33:50Z |
 | Reported to network owner (UTC) | 2026-11-11T21:09:51Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

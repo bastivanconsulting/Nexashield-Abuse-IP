@@ -11,7 +11,7 @@
 | [`77.90.185.78`](77.90.185.78/) | Port scanning (458) | 472 | 2026-11-19T21:44:34Z |
 | [`77.90.185.226`](77.90.185.226/) | Port scanning (195) | 197 | 2026-11-17T16:59:11Z |
 | [`77.90.185.230`](77.90.185.230/) | Abusive HTTP requests (51) | 51 | 2026-11-17T05:36:25Z |
-| [`77.90.185.253`](77.90.185.253/) | Port scanning (21) | 22 | 2026-11-17T12:46:58Z |
+| [`77.90.185.253`](77.90.185.253/) | Port scanning (23) | 24 | 2026-11-19T23:07:18Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

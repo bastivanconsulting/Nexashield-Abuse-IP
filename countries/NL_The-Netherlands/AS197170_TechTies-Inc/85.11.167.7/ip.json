@@ -5,11 +5,11 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-    "spamhaus": 437,
-    "scan": 222
+    "spamhaus": 445,
+    "scan": 232
   },
-  "events": 659,
+  "events": 677,
   "first_seen": "2026-11-11T09:43:19Z",
-  "last_seen": "2026-11-19T22:25:04Z",
+  "last_seen": "2026-11-19T23:31:14Z",
   "reported": "2026-11-11T16:34:40Z"
 }
