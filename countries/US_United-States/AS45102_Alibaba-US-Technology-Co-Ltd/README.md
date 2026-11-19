@@ -1,10 +1,11 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇺🇸 United States · **47** malicious IP(s)
+🇺🇸 United States · **48** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`47.77.198.243`](47.77.198.243/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T21:52:04Z |
+| [`47.77.211.73`](47.77.211.73/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 7 | 2026-11-19T16:49:04Z |
 | [`47.77.215.130`](47.77.215.130/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T18:54:03Z |
 | [`47.77.217.201`](47.77.217.201/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-18T10:58:04Z |
 | [`47.77.218.117`](47.77.218.117/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T17:52:03Z |

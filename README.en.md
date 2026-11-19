@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/malicious%20IPs-5741-dc2626?style=flat&labelColor=080f12" alt="IPs">
+  <img src="https://img.shields.io/badge/malicious%20IPs-5750-dc2626?style=flat&labelColor=080f12" alt="IPs">
   <img src="https://img.shields.io/badge/countries-70-2563eb?style=flat&labelColor=080f12" alt="Countries">
   <img src="https://img.shields.io/badge/updated-2026--11--19-1fa669?style=flat&labelColor=080f12" alt="Updated">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 5741 IPs, 70 countries, 450 networks, 303238 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 5750 IPs, 70 countries, 451 networks, 304099 events">
 </picture>
 
 > [!TIP]
@@ -147,12 +147,12 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Country | IPs |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 2307 |
+| 🇺🇸 [United States](countries/US_United-States/) | 2310 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 965 |
-| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 532 |
+| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 534 |
 | 🇩🇪 [Germany](countries/DE_Germany/) | 426 |
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 342 |
-| 🇫🇷 [France](countries/FR_France/) | 264 |
+| 🇫🇷 [France](countries/FR_France/) | 266 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 162 |
 | 🇦🇩 [Andorra](countries/AD_Andorra/) | 76 |
 | 🇨🇳 [China](countries/CN_China/) | 64 |
@@ -172,13 +172,13 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Type | IPs |
 |---|---:|
-| Port scanning | 5354 |
-| Known botnet / C2 infrastructure | 4199 |
-| Abusive HTTP requests | 355 |
-| Exploitation attempt (CVE / RCE / injection) | 293 |
-| SSH brute force | 221 |
-| Web injection payload blocked by WAF | 127 |
-| Spamhaus DROP-listed network | 54 |
+| Port scanning | 5360 |
+| Known botnet / C2 infrastructure | 4208 |
+| Abusive HTTP requests | 356 |
+| Exploitation attempt (CVE / RCE / injection) | 294 |
+| SSH brute force | 223 |
+| Web injection payload blocked by WAF | 128 |
+| Spamhaus DROP-listed network | 55 |
 | SMTP / IMAP credential guessing | 1 |
 | UDP exploit signature | 1 |
 
@@ -191,7 +191,7 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | ASN | Owner | Countries (IPs) | Total IPs |
 |---|---|---|---:|
 | **AS25369** | Hydra Communications Ltd | [🇬🇧 694](countries/GB_United-Kingdom/AS25369_Hydra-Communications-Ltd/) [🇳🇱 210](countries/NL_The-Netherlands/AS25369_Hydra-Communications-Ltd/) [🇩🇪 63](countries/DE_Germany/AS25369_Hydra-Communications-Ltd/) | 967 |
-| **AS8075** | Microsoft Corporation | [🇺🇸 741](countries/US_United-States/AS8075_Microsoft-Corporation/) [🇦🇪 3](countries/AE_United-Arab-Emirates/AS8075_Microsoft-Corporation/) [🇳🇱 2](countries/NL_The-Netherlands/AS8075_Microsoft-Corporation/) [🇿🇦 2](countries/ZA_South-Africa/AS8075_Microsoft-Corporation/) [🇩🇰 1](countries/DK_Denmark/AS8075_Microsoft-Corporation/) [🇮🇪 1](countries/IE_Ireland/AS8075_Microsoft-Corporation/) [🇮🇱 1](countries/IL_Israel/AS8075_Microsoft-Corporation/) [🇮🇳 1](countries/IN_India/AS8075_Microsoft-Corporation/) | 752 |
+| **AS8075** | Microsoft Corporation | [🇺🇸 743](countries/US_United-States/AS8075_Microsoft-Corporation/) [🇦🇪 3](countries/AE_United-Arab-Emirates/AS8075_Microsoft-Corporation/) [🇳🇱 2](countries/NL_The-Netherlands/AS8075_Microsoft-Corporation/) [🇿🇦 2](countries/ZA_South-Africa/AS8075_Microsoft-Corporation/) [🇩🇰 1](countries/DK_Denmark/AS8075_Microsoft-Corporation/) [🇮🇪 1](countries/IE_Ireland/AS8075_Microsoft-Corporation/) [🇮🇱 1](countries/IL_Israel/AS8075_Microsoft-Corporation/) [🇮🇳 1](countries/IN_India/AS8075_Microsoft-Corporation/) | 754 |
 | **AS396982** | Google LLC | [🇬🇧 200](countries/GB_United-Kingdom/AS396982_Google-LLC/) [🇺🇸 158](countries/US_United-States/AS396982_Google-LLC/) [🇧🇪 39](countries/BE_Belgium/AS396982_Google-LLC/) [🇫🇷 8](countries/FR_France/AS396982_Google-LLC/) [🇩🇪 5](countries/DE_Germany/AS396982_Google-LLC/) [🇯🇵 3](countries/JP_Japan/AS396982_Google-LLC/) [🇰🇷 3](countries/KR_South-Korea/AS396982_Google-LLC/) [🇦🇺 2](countries/AU_Australia/AS396982_Google-LLC/) [🇧🇷 2](countries/BR_Brazil/AS396982_Google-LLC/) [🇨🇦 2](countries/CA_Canada/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇨🇱 1](countries/CL_Chile/AS396982_Google-LLC/) [🇭🇰 1](countries/HK_Hong-Kong/AS396982_Google-LLC/) [🇮🇩 1](countries/ID_Indonesia/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇸🇬 1](countries/SG_Singapore/AS396982_Google-LLC/) [🇹🇼 1](countries/TW_Taiwan/AS396982_Google-LLC/) | 430 |
 | **AS43515** | Google Ireland Limited | [🇧🇪 303](countries/BE_Belgium/AS43515_Google-Ireland-Limited/) [🇳🇱 8](countries/NL_The-Netherlands/AS43515_Google-Ireland-Limited/) | 311 |
 | **AS398324** | Censys, Inc. | [🇺🇸 305](countries/US_United-States/AS398324_Censys-Inc/) | 305 |
@@ -284,7 +284,7 @@ Addresses **permanently banned** by NexaShield without an abuse report (repeat o
 On top of the reported addresses above, NexaShield publishes **every** address it has permanently banned on Bastivan Consulting infrastructure: repeat offenders, persistent low-level attacks judged by the AI, confirmed campaigns. Updated automatically every hour.
 
 <!-- BANS:START -->
-**4699** permanently banned addresses (**4643** IPs, **56** CIDR ranges), updated every hour: [`bans/permaban.txt`](bans/permaban.txt) (commented) · [`bans/plain/all.txt`](bans/plain/all.txt) (firewall feed) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
+**4709** permanently banned addresses (**4653** IPs, **56** CIDR ranges), updated every hour: [`bans/permaban.txt`](bans/permaban.txt) (commented) · [`bans/plain/all.txt`](bans/plain/all.txt) (firewall feed) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
 <!-- BANS:END -->
 
 > Not all of these addresses were reported to their hosting provider: for a strictly "reported and evidenced" blocklist, prefer [`lists/`](lists/).

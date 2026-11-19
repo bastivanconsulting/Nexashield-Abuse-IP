@@ -7,10 +7,10 @@
 | IP | `120.76.156.83` |
 | Country | China (CN) |
 | ASN | AS37963 · Hangzhou Alibaba Advertising Co.,Ltd. |
-| Activity | Port scanning (39) |
-| Events | 55 |
+| Activity | Port scanning (40) |
+| Events | 57 |
 | First seen (UTC) | 2026-11-11T14:00:06Z |
-| Last seen (UTC) | 2026-11-19T08:00:04Z |
+| Last seen (UTC) | 2026-11-19T17:10:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

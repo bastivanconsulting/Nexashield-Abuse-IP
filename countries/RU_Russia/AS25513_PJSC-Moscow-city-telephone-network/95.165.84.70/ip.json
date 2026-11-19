@@ -1,0 +1,15 @@
+{
+  "ip": "95.165.84.70",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 25513,
+  "asn_org": "PJSC Moscow city telephone network",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-15T09:37:41Z",
+  "last_seen": "2026-11-19T17:07:04Z",
+  "reported": "not reported (permanent ban)"
+}

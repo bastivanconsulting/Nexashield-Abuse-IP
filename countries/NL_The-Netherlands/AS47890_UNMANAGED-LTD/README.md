@@ -15,7 +15,7 @@
 | [`92.118.39.14`](92.118.39.14/) | SSH brute force (189), Port scanning (20), Known botnet / C2 infrastructure (10) | 221 | 2026-11-19T00:59:41Z |
 | [`92.118.39.43`](92.118.39.43/) | Port scanning (4) | 5 | 2026-11-18T08:18:03Z |
 | [`92.118.39.49`](92.118.39.49/) | SSH brute force (64), Port scanning (21), Known botnet / C2 infrastructure (9) | 100 | 2026-11-19T12:45:31Z |
-| [`92.118.39.50`](92.118.39.50/) | SSH brute force (54), Port scanning (27), Known botnet / C2 infrastructure (12) | 98 | 2026-11-19T03:46:29Z |
+| [`92.118.39.50`](92.118.39.50/) | SSH brute force (54), Port scanning (28), Known botnet / C2 infrastructure (13) | 100 | 2026-11-19T16:53:22Z |
 | [`92.118.39.56`](92.118.39.56/) | Known botnet / C2 infrastructure (8), Port scanning (8), SSH brute force (2) | 20 | 2026-11-19T11:59:09Z |
 | [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 8 | 2026-11-19T09:48:59Z |
 | [`92.118.39.63`](92.118.39.63/) | SSH brute force (84), Port scanning (19), Known botnet / C2 infrastructure (10) | 118 | 2026-11-19T07:22:31Z |
@@ -29,7 +29,7 @@
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (86), Port scanning (12), Known botnet / C2 infrastructure (8) | 113 | 2026-11-19T03:52:08Z |
 | [`92.118.39.92`](92.118.39.92/) | Port scanning (58), Known botnet / C2 infrastructure (18) | 77 | 2026-11-19T07:57:00Z |
 | [`92.118.39.93`](92.118.39.93/) | Web injection payload blocked by WAF (3) | 4 | 2026-11-18T08:18:03Z |
-| [`92.118.39.181`](92.118.39.181/) | Port scanning (203), Known botnet / C2 infrastructure (12) | 221 | 2026-11-19T16:07:38Z |
+| [`92.118.39.181`](92.118.39.181/) | Port scanning (204), Known botnet / C2 infrastructure (12) | 222 | 2026-11-19T17:08:12Z |
 | [`92.118.39.227`](92.118.39.227/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-18T08:18:10Z |
 | [`92.118.39.246`](92.118.39.246/) | Port scanning (11) | 12 | 2026-11-16T03:44:37Z |
 | [`193.32.162.15`](193.32.162.15/) | Port scanning (396), Known botnet / C2 infrastructure (27), SSH brute force (20) | 458 | 2026-11-19T14:01:12Z |

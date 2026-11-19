@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 694 | Port scanning (13375), Known botnet / C2 infrastructure (2737), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 694 | Port scanning (13392), Known botnet / C2 infrastructure (2746), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3796), Known botnet / C2 infrastructure (853) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 24 | Port scanning (319), Known botnet / C2 infrastructure (194) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 13 | Port scanning (328), Known botnet / C2 infrastructure (51), Abusive HTTP requests (30), Exploitation attempt (CVE / RCE / injection) (15) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (990), Abusive HTTP requests (93), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (994), Abusive HTTP requests (93), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2262), Spamhaus DROP-listed network (99) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2286), Spamhaus DROP-listed network (99) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (35), Known botnet / C2 infrastructure (15) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (98), Known botnet / C2 infrastructure (36) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (8), Known botnet / C2 infrastructure (2) |

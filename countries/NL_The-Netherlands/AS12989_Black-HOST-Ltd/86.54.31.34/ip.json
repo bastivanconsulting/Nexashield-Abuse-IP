@@ -1,0 +1,15 @@
+{
+  "ip": "86.54.31.34",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 12989,
+  "asn_org": "Black HOST Ltd",
+  "categories": {
+    "c2": 2,
+    "exploit": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-12T07:08:37Z",
+  "last_seen": "2026-11-12T22:22:32Z",
+  "reported": "not reported (permanent ban)"
+}

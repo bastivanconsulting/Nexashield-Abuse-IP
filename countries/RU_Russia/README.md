@@ -1,16 +1,17 @@
 # 🇷🇺 Russia
 
-**23** malicious IP(s) across **14** network(s).
+**24** malicious IP(s) across **15** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS211860](AS211860_Nerushenko-Vyacheslav-Nikolaevich/) | Nerushenko Vyacheslav Nikolaevich | 5 | Port scanning (159), Known botnet / C2 infrastructure (26) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (19), Known botnet / C2 infrastructure (15) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (43), Known botnet / C2 infrastructure (5) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (371), Known botnet / C2 infrastructure (24), Abusive HTTP requests (2) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (372), Known botnet / C2 infrastructure (24), Abusive HTTP requests (2) |
 | [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (42), Known botnet / C2 infrastructure (25) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
 | [AS212913](AS212913_TIME-HOST-LTD/) | TIME-HOST LTD | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
+| [AS25513](AS25513_PJSC-Moscow-city-telephone-network/) | PJSC Moscow city telephone network | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
 | [AS28890](AS28890_INSYS-LLC/) | INSYS LLC | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |

@@ -5,12 +5,12 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-    "spamhaus": 5,
+    "spamhaus": 7,
     "ssh": 24,
     "scan": 112
   },
-  "events": 141,
+  "events": 143,
   "first_seen": "2026-11-18T22:46:12Z",
-  "last_seen": "2026-11-19T05:58:30Z",
+  "last_seen": "2026-11-19T17:18:25Z",
   "reported": "2026-11-19T04:25:46Z"
 }

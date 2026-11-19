@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 12 | Port scanning (1225), Spamhaus DROP-listed network (611), Known botnet / C2 infrastructure (11) |
-| [AS48721](AS48721_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
+| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 12 | Port scanning (1231), Spamhaus DROP-listed network (615), Known botnet / C2 infrastructure (11) |
+| [AS48721](AS48721_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
