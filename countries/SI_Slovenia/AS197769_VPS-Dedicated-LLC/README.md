@@ -9,7 +9,7 @@
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 24 | 2026-11-15T16:19:53Z |
 | [`102.220.161.84`](102.220.161.84/) | Port scanning (8), Known botnet / C2 infrastructure (7), SSH brute force (6) | 22 | 2026-11-18T14:18:45Z |
 | [`102.220.161.85`](102.220.161.85/) | SSH brute force (25), Port scanning (10), Known botnet / C2 infrastructure (3) | 41 | 2026-11-14T10:18:31Z |
-| [`102.220.161.86`](102.220.161.86/) | SSH brute force (36), Known botnet / C2 infrastructure (5), Port scanning (4), Abusive HTTP requests (1) | 49 | 2026-11-19T08:11:11Z |
+| [`102.220.161.86`](102.220.161.86/) | SSH brute force (38), Known botnet / C2 infrastructure (6), Port scanning (4), Abusive HTTP requests (1) | 52 | 2026-11-19T15:02:08Z |
 | [`102.220.161.119`](102.220.161.119/) | Port scanning (31), SSH brute force (14), Known botnet / C2 infrastructure (5) | 51 | 2026-11-14T16:21:24Z |
 | [`102.220.161.170`](102.220.161.170/) | Port scanning (19), SSH brute force (8), Known botnet / C2 infrastructure (7) | 36 | 2026-11-18T07:49:38Z |
 | [`102.220.161.171`](102.220.161.171/) | SSH brute force (26), Port scanning (9), Known botnet / C2 infrastructure (4) | 40 | 2026-11-16T11:37:43Z |
@@ -18,7 +18,7 @@
 | [`102.220.161.248`](102.220.161.248/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-17T07:07:03Z |
 | [`102.220.162.164`](102.220.162.164/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 13 | 2026-11-18T16:24:55Z |
 | [`102.220.163.13`](102.220.163.13/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 12 | 2026-11-17T12:26:12Z |
-| [`102.220.163.241`](102.220.163.241/) | Port scanning (23), Abusive HTTP requests (8), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (4) | 44 | 2026-11-19T01:36:00Z |
+| [`102.220.163.241`](102.220.163.241/) | Port scanning (23), Abusive HTTP requests (9), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (5) | 46 | 2026-11-19T14:29:06Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

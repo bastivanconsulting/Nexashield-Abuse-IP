@@ -1,6 +1,6 @@
 # AS198364 · BANATSYNC SRL
 
-🇳🇱 The Netherlands · **35** malicious IP(s)
+🇳🇱 The Netherlands · **36** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -27,13 +27,14 @@
 | [`109.160.32.145`](109.160.32.145/) | Port scanning (57), SSH brute force (8) | 65 | 2026-11-16T09:13:57Z |
 | [`109.160.32.147`](109.160.32.147/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-19T11:18:09Z |
 | [`109.160.32.153`](109.160.32.153/) | Port scanning (38), SSH brute force (21), Spamhaus DROP-listed network (2) | 61 | 2026-11-11T20:14:38Z |
+| [`109.160.32.157`](109.160.32.157/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T14:45:04Z |
 | [`109.160.32.159`](109.160.32.159/) | Port scanning (49), SSH brute force (7), Spamhaus DROP-listed network (3) | 59 | 2026-11-19T01:48:40Z |
 | [`109.160.32.166`](109.160.32.166/) | Port scanning (53), Known botnet / C2 infrastructure (2) | 56 | 2026-11-16T05:18:05Z |
 | [`109.160.32.167`](109.160.32.167/) | Port scanning (54), SSH brute force (24) | 78 | 2026-11-15T23:57:49Z |
 | [`109.160.32.168`](109.160.32.168/) | Port scanning (101), Known botnet / C2 infrastructure (2) | 104 | 2026-11-15T13:19:25Z |
 | [`109.160.32.170`](109.160.32.170/) | Port scanning (70), SSH brute force (14), Spamhaus DROP-listed network (1) | 85 | 2026-11-15T04:07:00Z |
 | [`109.160.32.171`](109.160.32.171/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-19T11:18:09Z |
-| [`109.160.32.172`](109.160.32.172/) | SSH brute force (46), Port scanning (28), Spamhaus DROP-listed network (2) | 76 | 2026-11-19T14:33:56Z |
+| [`109.160.32.172`](109.160.32.172/) | Port scanning (88), SSH brute force (46), Spamhaus DROP-listed network (4) | 138 | 2026-11-19T15:34:25Z |
 | [`109.160.32.173`](109.160.32.173/) | Port scanning (77), SSH brute force (5), Spamhaus DROP-listed network (2) | 84 | 2026-11-18T10:15:04Z |
 | [`109.160.32.175`](109.160.32.175/) | Port scanning (80), SSH brute force (22) | 102 | 2026-11-15T12:46:56Z |
 | [`109.160.32.177`](109.160.32.177/) | Port scanning (54), Known botnet / C2 infrastructure (2) | 57 | 2026-11-16T05:18:21Z |

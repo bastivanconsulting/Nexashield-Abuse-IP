@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS197769](AS197769_VPS-Dedicated-LLC/) | VPS Dedicated LLC | 15 | Port scanning (364), SSH brute force (125), Known botnet / C2 infrastructure (69), Abusive HTTP requests (9), Web injection payload blocked by WAF (6) |
+| [AS197769](AS197769_VPS-Dedicated-LLC/) | VPS Dedicated LLC | 15 | Port scanning (364), SSH brute force (127), Known botnet / C2 infrastructure (71), Abusive HTTP requests (10), Web injection payload blocked by WAF (6) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
