@@ -18,15 +18,15 @@
 | [🇨🇦 Canada](CA_Canada/) | 13 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 10 |
 | [🇨🇱 Chile](CL_Chile/) | 1 |
-| [🇨🇳 China](CN_China/) | 65 |
+| [🇨🇳 China](CN_China/) | 66 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 1 |
-| [🇩🇪 Germany](DE_Germany/) | 429 |
+| [🇩🇪 Germany](DE_Germany/) | 432 |
 | [🇩🇰 Denmark](DK_Denmark/) | 2 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 2 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 2 |
-| [🇫🇮 Finland](FI_Finland/) | 6 |
+| [🇫🇮 Finland](FI_Finland/) | 7 |
 | [🇫🇷 France](FR_France/) | 268 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 966 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
@@ -69,6 +69,6 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 4 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 11 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 2324 |
+| [🇺🇸 United States](US_United-States/) | 2327 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 12 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |

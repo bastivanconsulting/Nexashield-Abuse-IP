@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`222.210.35.197`](222.210.35.197/) | SSH brute force (342) | 342 | 2026-11-12T18:41:06Z |
+| [`222.210.35.197`](222.210.35.197/) | SSH brute force (342), Port scanning (54) | 396 | 2026-11-19T22:34:21Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

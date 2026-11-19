@@ -5,15 +5,15 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 73 | Port scanning (1357), Known botnet / C2 infrastructure (584), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
-| [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 36 | Port scanning (92) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (3433), Abusive HTTP requests (1062), Spamhaus DROP-listed network (140), Known botnet / C2 infrastructure (40), Web injection payload blocked by WAF (5) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (683), Known botnet / C2 infrastructure (60) |
-| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1101), Known botnet / C2 infrastructure (54), Exploitation attempt (CVE / RCE / injection) (8) |
+| [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 36 | Port scanning (93) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (3458), Abusive HTTP requests (1062), Spamhaus DROP-listed network (140), Known botnet / C2 infrastructure (40), Web injection payload blocked by WAF (5) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (689), Known botnet / C2 infrastructure (60) |
+| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1108), Known botnet / C2 infrastructure (56), Exploitation attempt (CVE / RCE / injection) (8) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 2 | SSH brute force (152), Port scanning (10), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS138995](AS138995_Antbox-Networks-Limited/) | Antbox Networks Limited | 1 | Port scanning (8), Known botnet / C2 infrastructure (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (607), Abusive HTTP requests (45) |
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (141), Known botnet / C2 infrastructure (8), Abusive HTTP requests (6) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (610), Abusive HTTP requests (45) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (143), Known botnet / C2 infrastructure (8), Abusive HTTP requests (6) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (40) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (418), Web injection payload blocked by WAF (6) |
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (33), Known botnet / C2 infrastructure (4) |

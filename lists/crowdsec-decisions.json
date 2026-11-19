@@ -2656,6 +2656,14 @@
   "origin": "lists"
  },
  {
+  "value": "8.211.47.19",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "8.211.47.177",
   "scope": "Ip",
   "type": "ban",
@@ -5928,6 +5936,14 @@
   "origin": "lists"
  },
  {
+  "value": "20.169.85.0",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "20.169.85.11",
   "scope": "Ip",
   "type": "ban",
@@ -6273,6 +6289,14 @@
  },
  {
   "value": "23.158.56.134",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "23.242.245.150",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -16960,6 +16984,14 @@
   "origin": "lists"
  },
  {
+  "value": "46.151.182.204",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "46.180.150.230",
   "scope": "Ip",
   "type": "ban",
@@ -19224,6 +19256,14 @@
   "origin": "lists"
  },
  {
+  "value": "62.220.236.203",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "64.23.218.208",
   "scope": "Ip",
   "type": "ban",
@@ -19393,6 +19433,14 @@
  },
  {
   "value": "64.89.163.178",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "64.89.163.180",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -22617,6 +22665,14 @@
  },
  {
   "value": "74.225.156.91",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "74.235.106.65",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -31753,6 +31809,14 @@
  },
  {
   "value": "121.242.232.216",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "122.97.137.110",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",

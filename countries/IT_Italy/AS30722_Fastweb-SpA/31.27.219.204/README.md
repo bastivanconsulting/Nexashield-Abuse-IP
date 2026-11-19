@@ -7,10 +7,10 @@
 | IP | `31.27.219.204` |
 | Country | Italy (IT) |
 | ASN | AS30722 · Fastweb SpA |
-| Activity | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (1) |
-| Events | 7 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (2) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-18T19:59:10Z |
-| Last seen (UTC) | 2026-11-19T08:37:38Z |
+| Last seen (UTC) | 2026-11-19T21:45:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

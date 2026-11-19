@@ -7,10 +7,10 @@
 | IP | `46.151.178.14` |
 | Country | Hong Kong (HK) |
 | ASN | AS211443 · SINO WORLDWIDE TRADING LIMITED |
-| Activity | Port scanning (141), Known botnet / C2 infrastructure (8), Abusive HTTP requests (6) |
-| Events | 166 |
+| Activity | Port scanning (143), Known botnet / C2 infrastructure (8), Abusive HTTP requests (6) |
+| Events | 168 |
 | First seen (UTC) | 2026-11-11T14:54:27Z |
-| Last seen (UTC) | 2026-11-19T08:55:48Z |
+| Last seen (UTC) | 2026-11-19T21:33:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

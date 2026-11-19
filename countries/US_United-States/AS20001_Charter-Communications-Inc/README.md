@@ -1,9 +1,10 @@
 # AS20001 · Charter Communications Inc
 
-🇺🇸 United States · **1** malicious IP(s)
+🇺🇸 United States · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`23.242.245.150`](23.242.245.150/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-19T21:46:04Z |
 | [`24.43.144.225`](24.43.144.225/) | Known botnet / C2 infrastructure (3), SSH brute force (3), Port scanning (1) | 8 | 2026-11-18T16:37:03Z |
 
 ---

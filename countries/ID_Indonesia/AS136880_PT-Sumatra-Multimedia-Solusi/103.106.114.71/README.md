@@ -7,10 +7,10 @@
 | IP | `103.106.114.71` |
 | Country | Indonesia (ID) |
 | ASN | AS136880 · PT. Sumatra Multimedia Solusi |
-| Activity | Port scanning (33) |
-| Events | 52 |
+| Activity | Port scanning (34) |
+| Events | 54 |
 | First seen (UTC) | 2026-11-13T13:46:08Z |
-| Last seen (UTC) | 2026-11-19T14:26:04Z |
+| Last seen (UTC) | 2026-11-19T21:54:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

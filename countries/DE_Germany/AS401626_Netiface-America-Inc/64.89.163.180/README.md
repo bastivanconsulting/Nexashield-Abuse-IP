@@ -1,0 +1,19 @@
+# `64.89.163.180`
+
+🇩🇪 **Germany** · AS401626 Netiface America, Inc.
+
+| Field | Value |
+|---|---|
+| IP | `64.89.163.180` |
+| Country | Germany (DE) |
+| ASN | AS401626 · Netiface America, Inc. |
+| Activity | Port scanning (17) |
+| Events | 25 |
+| First seen (UTC) | 2026-11-15T09:11:43Z |
+| Last seen (UTC) | 2026-11-19T22:03:48Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
