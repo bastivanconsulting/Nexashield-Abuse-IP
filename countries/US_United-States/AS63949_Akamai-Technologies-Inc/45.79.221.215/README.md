@@ -7,10 +7,10 @@
 | IP | `45.79.221.215` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-18T18:50:39Z |
-| Last seen (UTC) | 2026-11-19T00:16:03Z |
+| Last seen (UTC) | 2026-11-19T02:52:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

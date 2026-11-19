@@ -7,10 +7,10 @@
 | IP | `74.82.47.5` |
 | Country | United States (US) |
 | ASN | AS6939 · Hurricane Electric LLC |
-| Activity | Abusive HTTP requests (1), SSH brute force (1), Known botnet / C2 infrastructure (1) |
-| Events | 5 |
+| Activity | Abusive HTTP requests (3), Known botnet / C2 infrastructure (2), SSH brute force (1) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-11T00:02:14Z |
-| Last seen (UTC) | 2026-11-15T04:06:02Z |
+| Last seen (UTC) | 2026-11-19T02:45:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
