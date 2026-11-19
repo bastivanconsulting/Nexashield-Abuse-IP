@@ -11,7 +11,7 @@
 | [AS7738](AS7738_V-tal/) | V tal | 2 | SSH brute force (9), Known botnet / C2 infrastructure (6) |
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (21) |
-| [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (17), Known botnet / C2 infrastructure (4) |
+| [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (19), Known botnet / C2 infrastructure (5) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |
 | [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (28), Known botnet / C2 infrastructure (14) |
 | [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 1 | Port scanning (9), Known botnet / C2 infrastructure (6), Abusive HTTP requests (2) |

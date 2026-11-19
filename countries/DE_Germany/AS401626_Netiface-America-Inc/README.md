@@ -1,11 +1,12 @@
 # AS401626 · Netiface America, Inc.
 
-🇩🇪 Germany · **19** malicious IP(s)
+🇩🇪 Germany · **20** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`64.89.163.77`](64.89.163.77/) | Port scanning (25) | 37 | 2026-11-19T01:15:15Z |
 | [`64.89.163.81`](64.89.163.81/) | Port scanning (17) | 18 | 2026-11-18T07:30:40Z |
+| [`64.89.163.85`](64.89.163.85/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-19T07:07:04Z |
 | [`64.89.163.92`](64.89.163.92/) | Port scanning (14) | 17 | 2026-11-16T01:27:51Z |
 | [`64.89.163.94`](64.89.163.94/) | Port scanning (33) | 45 | 2026-11-18T18:27:19Z |
 | [`64.89.163.137`](64.89.163.137/) | Port scanning (22) | 24 | 2026-11-19T03:18:03Z |

@@ -8,9 +8,9 @@
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
 | Activity | Port scanning (18) |
-| Events | 28 |
+| Events | 29 |
 | First seen (UTC) | 2026-11-13T05:02:00Z |
-| Last seen (UTC) | 2026-11-19T06:09:50Z |
+| Last seen (UTC) | 2026-11-19T06:18:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

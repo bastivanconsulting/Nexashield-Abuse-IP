@@ -1,9 +1,10 @@
 # AS16509 · Amazon.com, Inc.
 
-🇺🇸 United States · **17** malicious IP(s)
+🇺🇸 United States · **18** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`3.15.230.87`](3.15.230.87/) | Port scanning (9) | 14 | 2026-11-19T06:48:04Z |
 | [`3.129.187.38`](3.129.187.38/) | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) | 13 | 2026-11-18T22:44:48Z |
 | [`3.131.24.55`](3.131.24.55/) | Port scanning (15) | 15 | 2026-11-14T02:14:57Z |
 | [`3.134.100.58`](3.134.100.58/) | Port scanning (2) | 3 | 2026-11-11T21:39:01Z |
@@ -13,7 +14,7 @@
 | [`18.116.101.220`](18.116.101.220/) | Port scanning (10), Known botnet / C2 infrastructure (6), SSH brute force (3) | 32 | 2026-11-18T17:10:47Z |
 | [`18.119.209.50`](18.119.209.50/) | Port scanning (20) | 20 | 2026-11-16T20:27:40Z |
 | [`18.189.6.159`](18.189.6.159/) | Abusive HTTP requests (157), Web injection payload blocked by WAF (26) | 183 | 2026-11-12T16:32:54Z |
-| [`18.190.15.50`](18.190.15.50/) | Port scanning (81) | 81 | 2026-11-19T06:32:28Z |
+| [`18.190.15.50`](18.190.15.50/) | Port scanning (87) | 87 | 2026-11-19T06:46:02Z |
 | [`18.191.69.170`](18.191.69.170/) | Port scanning (6) | 8 | 2026-11-15T19:48:04Z |
 | [`18.217.102.23`](18.217.102.23/) | Port scanning (2) | 3 | 2026-11-11T09:56:39Z |
 | [`18.217.208.51`](18.217.208.51/) | Port scanning (18) | 18 | 2026-11-18T21:29:27Z |

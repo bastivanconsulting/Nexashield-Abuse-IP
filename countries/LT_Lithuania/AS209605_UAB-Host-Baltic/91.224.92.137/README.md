@@ -7,10 +7,10 @@
 | IP | `91.224.92.137` |
 | Country | Lithuania (LT) |
 | ASN | AS209605 · UAB Host Baltic |
-| Activity | Port scanning (55) |
-| Events | 58 |
+| Activity | Port scanning (57) |
+| Events | 60 |
 | First seen (UTC) | 2026-11-17T22:15:54Z |
-| Last seen (UTC) | 2026-11-19T05:42:12Z |
+| Last seen (UTC) | 2026-11-19T07:05:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

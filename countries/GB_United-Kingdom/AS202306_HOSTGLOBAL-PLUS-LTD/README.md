@@ -11,10 +11,10 @@
 | [`78.153.140.148`](78.153.140.148/) | Port scanning (18), Spamhaus DROP-listed network (16), Abusive HTTP requests (15) | 49 | 2026-11-13T01:10:54Z |
 | [`78.153.140.149`](78.153.140.149/) | Abusive HTTP requests (18), Port scanning (16), Spamhaus DROP-listed network (13) | 47 | 2026-11-13T22:34:40Z |
 | [`78.153.140.156`](78.153.140.156/) | Spamhaus DROP-listed network (6), Abusive HTTP requests (6) | 12 | 2026-11-13T22:42:16Z |
-| [`78.153.140.159`](78.153.140.159/) | Port scanning (43) | 51 | 2026-11-19T06:01:32Z |
-| [`78.153.140.235`](78.153.140.235/) | Port scanning (271) | 282 | 2026-11-19T05:25:04Z |
-| [`78.153.140.236`](78.153.140.236/) | Port scanning (311), Known botnet / C2 infrastructure (1) | 325 | 2026-11-19T04:39:14Z |
-| [`78.153.140.237`](78.153.140.237/) | Port scanning (277) | 289 | 2026-11-19T06:03:17Z |
+| [`78.153.140.159`](78.153.140.159/) | Port scanning (44) | 52 | 2026-11-19T07:00:40Z |
+| [`78.153.140.235`](78.153.140.235/) | Port scanning (273) | 284 | 2026-11-19T07:12:51Z |
+| [`78.153.140.236`](78.153.140.236/) | Port scanning (312), Known botnet / C2 infrastructure (1) | 326 | 2026-11-19T06:50:37Z |
+| [`78.153.140.237`](78.153.140.237/) | Port scanning (278) | 290 | 2026-11-19T06:40:29Z |
 | [`78.153.140.251`](78.153.140.251/) | Spamhaus DROP-listed network (9), Abusive HTTP requests (8) | 17 | 2026-11-13T00:33:32Z |
 | [`78.153.140.252`](78.153.140.252/) | Abusive HTTP requests (10), Spamhaus DROP-listed network (9) | 19 | 2026-11-19T01:51:36Z |
 
