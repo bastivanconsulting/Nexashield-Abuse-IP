@@ -1,0 +1,16 @@
+{
+  "ip": "112.197.2.116",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 45543,
+  "asn_org": "SaiGon Tourist cable Televition Company",
+  "categories": {
+    "scan": 20,
+    "ssh": 1,
+    "c2": 2
+  },
+  "events": 26,
+  "first_seen": "2026-11-14T12:37:46Z",
+  "last_seen": "2026-11-19T20:53:31Z",
+  "reported": "not reported (permanent ban)"
+}

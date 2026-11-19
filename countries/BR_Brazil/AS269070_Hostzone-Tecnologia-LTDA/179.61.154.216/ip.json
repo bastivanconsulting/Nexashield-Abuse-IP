@@ -1,0 +1,15 @@
+{
+  "ip": "179.61.154.216",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 269070,
+  "asn_org": "Hostzone Tecnologia LTDA",
+  "categories": {
+    "scan": 10,
+    "c2": 3
+  },
+  "events": 14,
+  "first_seen": "2026-11-19T05:23:10Z",
+  "last_seen": "2026-11-19T20:45:05Z",
+  "reported": "not reported (permanent ban)"
+}

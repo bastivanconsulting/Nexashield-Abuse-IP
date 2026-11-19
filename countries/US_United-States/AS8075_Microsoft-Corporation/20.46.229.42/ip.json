@@ -1,0 +1,15 @@
+{
+  "ip": "20.46.229.42",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "ssh": 1,
+    "c2": 1
+  },
+  "events": 4,
+  "first_seen": "2026-11-19T20:49:41Z",
+  "last_seen": "2026-11-19T20:50:03Z",
+  "reported": "not reported (permanent ban)"
+}

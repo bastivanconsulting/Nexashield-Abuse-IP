@@ -1,0 +1,19 @@
+# `20.46.229.42`
+
+🇺🇸 **United States** · AS8075 Microsoft Corporation
+
+| Field | Value |
+|---|---|
+| IP | `20.46.229.42` |
+| Country | United States (US) |
+| ASN | AS8075 · Microsoft Corporation |
+| Activity | SSH brute force (1), Known botnet / C2 infrastructure (1) |
+| Events | 4 |
+| First seen (UTC) | 2026-11-19T20:49:41Z |
+| Last seen (UTC) | 2026-11-19T20:50:03Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
