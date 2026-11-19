@@ -1,0 +1,14 @@
+{
+  "ip": "85.12.251.50",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 28890,
+  "asn_org": "INSYS LLC",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-19T05:11:13Z",
+  "last_seen": "2026-11-19T05:11:13Z",
+  "reported": "2026-11-19T06:25:54Z"
+}

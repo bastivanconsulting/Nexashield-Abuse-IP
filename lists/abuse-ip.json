@@ -223,11 +223,11 @@
   "asn": 48090,
   "asn_org": "TECHOFF SRV LIMITED",
   "categories": {
-   "scan": 698
+   "scan": 700
   },
-  "events": 740,
+  "events": 742,
   "first_seen": "2026-11-11T10:33:22Z",
-  "last_seen": "2026-11-19T04:36:39Z",
+  "last_seen": "2026-11-19T05:34:15Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -330,12 +330,12 @@
   "asn": 48090,
   "asn_org": "TECHOFF SRV LIMITED",
   "categories": {
-   "scan": 278,
-   "c2": 25
+   "scan": 281,
+   "c2": 26
   },
-  "events": 345,
+  "events": 349,
   "first_seen": "2026-11-11T09:47:22Z",
-  "last_seen": "2026-11-19T03:05:19Z",
+  "last_seen": "2026-11-19T06:02:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -519,12 +519,12 @@
   "asn": 48090,
   "asn_org": "TECHOFF SRV LIMITED",
   "categories": {
-   "scan": 311,
+   "scan": 312,
    "c2": 28
   },
-  "events": 362,
+  "events": 363,
   "first_seen": "2026-11-11T10:24:55Z",
-  "last_seen": "2026-11-19T04:36:15Z",
+  "last_seen": "2026-11-19T05:56:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -599,12 +599,12 @@
   "asn_org": "TECHOFF SRV LIMITED",
   "categories": {
    "web": 1,
-   "scan": 623,
+   "scan": 624,
    "c2": 28
   },
-  "events": 702,
+  "events": 703,
   "first_seen": "2026-11-11T00:02:40Z",
-  "last_seen": "2026-11-19T05:05:57Z",
+  "last_seen": "2026-11-19T05:34:09Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -787,12 +787,12 @@
   "asn": 48090,
   "asn_org": "TECHOFF SRV LIMITED",
   "categories": {
-   "scan": 357,
-   "c2": 16
+   "scan": 358,
+   "c2": 17
   },
-  "events": 396,
+  "events": 398,
   "first_seen": "2026-11-11T10:11:21Z",
-  "last_seen": "2026-11-19T05:16:43Z",
+  "last_seen": "2026-11-19T06:03:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -1270,12 +1270,12 @@
   "asn": 197834,
   "asn_org": "Ucom CJSC",
   "categories": {
-   "scan": 99,
+   "scan": 106,
    "c2": 23
   },
-  "events": 136,
+  "events": 154,
   "first_seen": "2026-11-11T15:06:53Z",
-  "last_seen": "2026-11-19T04:53:37Z",
+  "last_seen": "2026-11-19T05:19:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -1300,11 +1300,11 @@
   "asn": 11664,
   "asn_org": "Techtel LMDS Comunicaciones Interactivas S.A.",
   "categories": {
-   "scan": 15
+   "scan": 16
   },
-  "events": 24,
+  "events": 26,
   "first_seen": "2026-11-12T18:28:05Z",
-  "last_seen": "2026-11-18T18:57:44Z",
+  "last_seen": "2026-11-19T05:24:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -1314,11 +1314,11 @@
   "asn": 1764,
   "asn_org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
   "categories": {
-   "scan": 1187
+   "scan": 1190
   },
-  "events": 1189,
+  "events": 1192,
   "first_seen": "2026-11-11T22:31:06Z",
-  "last_seen": "2026-11-19T05:17:34Z",
+  "last_seen": "2026-11-19T06:15:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -6635,6 +6635,20 @@
   "reported": "2026-11-18T14:27:15Z"
  },
  {
+  "ip": "35.233.44.84",
+  "country_code": "BE",
+  "country": "Belgium",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+   "web": 324
+  },
+  "events": 324,
+  "first_seen": "2026-11-19T06:07:17Z",
+  "last_seen": "2026-11-19T06:07:25Z",
+  "reported": "2026-11-19T06:25:59Z"
+ },
+ {
   "ip": "130.211.87.56",
   "country_code": "BE",
   "country": "Belgium",
@@ -6783,13 +6797,12 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 88,
-   "c2": 21
+   "c2": 4
   },
-  "events": 110,
-  "first_seen": "2026-11-13T14:23:17Z",
-  "last_seen": "2026-11-19T04:55:37Z",
-  "reported": "not reported (permanent ban)"
+  "events": 4,
+  "first_seen": "2026-11-19T04:55:37Z",
+  "last_seen": "2026-11-19T05:59:29Z",
+  "reported": "2026-11-19T06:25:49Z"
  },
  {
   "ip": "78.128.114.174",
@@ -6930,12 +6943,12 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 26,
-   "c2": 12
+   "scan": 27,
+   "c2": 13
   },
-  "events": 42,
+  "events": 44,
   "first_seen": "2026-11-12T09:12:05Z",
-  "last_seen": "2026-11-18T18:44:03Z",
+  "last_seen": "2026-11-19T05:50:32Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7189,12 +7202,12 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-   "scan": 284,
+   "scan": 287,
    "c2": 17
   },
-  "events": 334,
+  "events": 337,
   "first_seen": "2026-11-11T12:39:48Z",
-  "last_seen": "2026-11-19T02:39:51Z",
+  "last_seen": "2026-11-19T05:47:26Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7304,12 +7317,12 @@
   "asn": 208637,
   "asn_org": "4 Vendeta Ltd",
   "categories": {
-   "scan": 442,
+   "scan": 444,
    "c2": 29
   },
-  "events": 499,
+  "events": 501,
   "first_seen": "2026-11-11T09:53:03Z",
-  "last_seen": "2026-11-19T05:07:43Z",
+  "last_seen": "2026-11-19T05:49:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7334,12 +7347,12 @@
   "asn": 209160,
   "asn_org": "Miti 2000 EOOD",
   "categories": {
-   "scan": 420,
+   "scan": 422,
    "c2": 30
   },
-  "events": 484,
+  "events": 486,
   "first_seen": "2026-11-11T09:54:08Z",
-  "last_seen": "2026-11-19T05:05:19Z",
+  "last_seen": "2026-11-19T06:16:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7349,12 +7362,12 @@
   "asn": 209160,
   "asn_org": "Miti 2000 EOOD",
   "categories": {
-   "scan": 422,
+   "scan": 425,
    "c2": 30
   },
-  "events": 477,
+  "events": 480,
   "first_seen": "2026-11-11T09:46:24Z",
-  "last_seen": "2026-11-19T04:11:50Z",
+  "last_seen": "2026-11-19T05:42:59Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7364,12 +7377,12 @@
   "asn": 209160,
   "asn_org": "Miti 2000 EOOD",
   "categories": {
-   "scan": 431,
-   "c2": 29
+   "scan": 433,
+   "c2": 30
   },
-  "events": 483,
+  "events": 486,
   "first_seen": "2026-11-11T09:55:00Z",
-  "last_seen": "2026-11-19T04:16:18Z",
+  "last_seen": "2026-11-19T05:43:15Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7379,12 +7392,12 @@
   "asn": 209425,
   "asn_org": "KOI CLOUD SERVICES (Pty) Ltd",
   "categories": {
-   "scan": 103,
+   "scan": 104,
    "c2": 14
   },
-  "events": 118,
+  "events": 119,
   "first_seen": "2026-11-14T11:11:20Z",
-  "last_seen": "2026-11-19T04:15:44Z",
+  "last_seen": "2026-11-19T05:20:22Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7722,13 +7735,13 @@
   "asn": 215925,
   "asn_org": "VPSVAULT.HOST LTD",
   "categories": {
-   "scan": 680,
+   "scan": 682,
    "c2": 30,
    "exploit": 44
   },
-  "events": 854,
+  "events": 856,
   "first_seen": "2026-11-11T09:46:18Z",
-  "last_seen": "2026-11-19T04:34:48Z",
+  "last_seen": "2026-11-19T06:02:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -7884,12 +7897,12 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-   "scan": 24,
-   "c2": 7
+   "scan": 25,
+   "c2": 8
   },
-  "events": 35,
+  "events": 37,
   "first_seen": "2026-11-11T09:59:42Z",
-  "last_seen": "2026-11-18T19:09:44Z",
+  "last_seen": "2026-11-19T06:04:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -8059,12 +8072,12 @@
   "asn": 51852,
   "asn_org": "Private Layer INC",
   "categories": {
-   "scan": 12,
-   "c2": 3
+   "scan": 13,
+   "c2": 4
   },
-  "events": 18,
+  "events": 20,
   "first_seen": "2026-11-11T23:33:47Z",
-  "last_seen": "2026-11-14T21:56:54Z",
+  "last_seen": "2026-11-19T05:54:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -8325,12 +8338,12 @@
   "asn": 4134,
   "asn_org": "Chinanet",
   "categories": {
-   "scan": 144,
-   "c2": 21
+   "scan": 145,
+   "c2": 22
   },
-  "events": 186,
+  "events": 188,
   "first_seen": "2026-11-11T11:14:57Z",
-  "last_seen": "2026-11-18T21:21:32Z",
+  "last_seen": "2026-11-19T06:00:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -8355,12 +8368,12 @@
   "asn": 4538,
   "asn_org": "China Education and Research Network Center",
   "categories": {
-   "scan": 22,
+   "scan": 23,
    "c2": 7
   },
-  "events": 30,
+  "events": 31,
   "first_seen": "2026-11-13T04:35:29Z",
-  "last_seen": "2026-11-19T05:08:51Z",
+  "last_seen": "2026-11-19T05:59:28Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -8739,11 +8752,11 @@
   "asn": 45090,
   "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
   "categories": {
-   "scan": 21
+   "scan": 22
   },
-  "events": 32,
+  "events": 34,
   "first_seen": "2026-11-11T12:33:15Z",
-  "last_seen": "2026-11-18T16:49:23Z",
+  "last_seen": "2026-11-19T05:57:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -8870,11 +8883,11 @@
   "asn": 136180,
   "asn_org": "Beijing Tiantexin Tech. Co., Ltd.",
   "categories": {
-   "scan": 124
+   "scan": 125
   },
-  "events": 148,
+  "events": 150,
   "first_seen": "2026-11-11T10:51:01Z",
-  "last_seen": "2026-11-18T20:41:52Z",
+  "last_seen": "2026-11-19T05:31:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -9043,12 +9056,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 24,
-   "c2": 9
+   "scan": 25,
+   "c2": 10
   },
-  "events": 39,
+  "events": 41,
   "first_seen": "2026-11-11T23:09:56Z",
-  "last_seen": "2026-11-18T17:20:44Z",
+  "last_seen": "2026-11-19T06:04:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -9771,12 +9784,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 67,
+   "scan": 68,
    "c2": 19
   },
-  "events": 89,
+  "events": 90,
   "first_seen": "2026-11-11T12:31:33Z",
-  "last_seen": "2026-11-19T04:26:11Z",
+  "last_seen": "2026-11-19T05:48:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -10056,12 +10069,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 33,
+   "scan": 34,
    "c2": 10
   },
-  "events": 48,
+  "events": 49,
   "first_seen": "2026-11-14T10:45:48Z",
-  "last_seen": "2026-11-19T03:46:44Z",
+  "last_seen": "2026-11-19T06:00:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -10314,12 +10327,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 57,
-   "c2": 21
+   "scan": 58,
+   "c2": 22
   },
-  "events": 79,
+  "events": 81,
   "first_seen": "2026-11-11T11:19:30Z",
-  "last_seen": "2026-11-18T16:59:45Z",
+  "last_seen": "2026-11-19T06:13:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -10524,12 +10537,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 65,
-   "c2": 20
+   "scan": 66,
+   "c2": 21
   },
-  "events": 86,
+  "events": 88,
   "first_seen": "2026-11-11T10:06:39Z",
-  "last_seen": "2026-11-18T21:20:03Z",
+  "last_seen": "2026-11-19T05:28:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -10553,12 +10566,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 21,
-   "c2": 6
+   "scan": 22,
+   "c2": 7
   },
-  "events": 31,
+  "events": 33,
   "first_seen": "2026-11-12T06:42:06Z",
-  "last_seen": "2026-11-18T02:59:31Z",
+  "last_seen": "2026-11-19T05:22:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -10598,12 +10611,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 13,
+   "scan": 14,
    "c2": 5
   },
-  "events": 21,
+  "events": 22,
   "first_seen": "2026-11-10T07:54:17Z",
-  "last_seen": "2026-11-19T04:37:53Z",
+  "last_seen": "2026-11-19T05:20:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11177,12 +11190,12 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 669,
+   "scan": 671,
    "c2": 18
   },
-  "events": 794,
+  "events": 796,
   "first_seen": "2026-11-11T10:56:37Z",
-  "last_seen": "2026-11-19T05:16:41Z",
+  "last_seen": "2026-11-19T05:48:43Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11192,12 +11205,12 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 439,
+   "scan": 441,
    "c2": 28
   },
-  "events": 495,
+  "events": 497,
   "first_seen": "2026-11-11T10:00:27Z",
-  "last_seen": "2026-11-19T05:00:13Z",
+  "last_seen": "2026-11-19T06:00:39Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11207,12 +11220,12 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 454,
+   "scan": 456,
    "c2": 26
   },
-  "events": 511,
+  "events": 513,
   "first_seen": "2026-11-11T09:49:56Z",
-  "last_seen": "2026-11-19T05:12:46Z",
+  "last_seen": "2026-11-19T06:14:11Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11222,13 +11235,13 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 441,
+   "scan": 442,
    "c2": 27,
    "web": 1
   },
-  "events": 510,
+  "events": 511,
   "first_seen": "2026-11-11T09:51:14Z",
-  "last_seen": "2026-11-19T05:17:03Z",
+  "last_seen": "2026-11-19T05:50:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11238,13 +11251,13 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 461,
+   "scan": 462,
    "c2": 27,
    "web": 1
   },
-  "events": 527,
+  "events": 528,
   "first_seen": "2026-11-11T09:48:10Z",
-  "last_seen": "2026-11-19T04:24:21Z",
+  "last_seen": "2026-11-19T05:25:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11254,12 +11267,12 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 459,
+   "scan": 462,
    "c2": 26
   },
-  "events": 518,
+  "events": 521,
   "first_seen": "2026-11-11T09:51:32Z",
-  "last_seen": "2026-11-19T04:45:33Z",
+  "last_seen": "2026-11-19T05:46:39Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11331,12 +11344,12 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 431,
+   "scan": 432,
    "c2": 26
   },
-  "events": 547,
+  "events": 548,
   "first_seen": "2026-11-11T09:33:43Z",
-  "last_seen": "2026-11-19T04:43:07Z",
+  "last_seen": "2026-11-19T05:43:32Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -11767,12 +11780,12 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "ssh": 36,
-   "spamhaus": 11
+   "ssh": 40,
+   "spamhaus": 13
   },
-  "events": 47,
+  "events": 53,
   "first_seen": "2026-11-18T10:26:56Z",
-  "last_seen": "2026-11-19T05:07:27Z",
+  "last_seen": "2026-11-19T06:01:47Z",
   "reported": "2026-11-18T16:25:43Z"
  },
  {
@@ -11782,13 +11795,13 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 8,
+   "spamhaus": 10,
    "ssh": 15,
    "scan": 3
   },
-  "events": 26,
+  "events": 28,
   "first_seen": "2026-11-11T19:27:50Z",
-  "last_seen": "2026-11-14T23:14:35Z",
+  "last_seen": "2026-11-19T06:26:44Z",
   "reported": "2026-11-11T21:10:00Z"
  },
  {
@@ -12049,11 +12062,11 @@
   "categories": {
    "scan": 466,
    "c2": 29,
-   "web": 65
+   "web": 66
   },
-  "events": 610,
+  "events": 611,
   "first_seen": "2026-11-11T10:09:48Z",
-  "last_seen": "2026-11-19T03:27:26Z",
+  "last_seen": "2026-11-19T05:40:45Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -12091,12 +12104,12 @@
   "asn": 208137,
   "asn_org": "Feo Prest SRL",
   "categories": {
-   "scan": 115,
+   "scan": 116,
    "c2": 4
   },
-  "events": 124,
+  "events": 125,
   "first_seen": "2026-11-11T09:58:17Z",
-  "last_seen": "2026-11-19T04:07:16Z",
+  "last_seen": "2026-11-19T05:42:07Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -12106,11 +12119,11 @@
   "asn": 208137,
   "asn_org": "Feo Prest SRL",
   "categories": {
-   "scan": 118
+   "scan": 119
   },
-  "events": 125,
+  "events": 126,
   "first_seen": "2026-11-11T10:29:52Z",
-  "last_seen": "2026-11-19T05:01:42Z",
+  "last_seen": "2026-11-19T05:40:59Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -12505,12 +12518,12 @@
   "asn": 208843,
   "asn_org": "Alpha Strike Labs GmbH",
   "categories": {
-   "scan": 3,
-   "c2": 3
+   "scan": 4,
+   "c2": 4
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-11T20:19:01Z",
-  "last_seen": "2026-11-13T12:59:02Z",
+  "last_seen": "2026-11-19T05:31:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -12804,12 +12817,12 @@
   "asn": 208843,
   "asn_org": "Alpha Strike Labs GmbH",
   "categories": {
-   "scan": 4,
-   "c2": 4
+   "scan": 5,
+   "c2": 5
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-14T07:19:12Z",
-  "last_seen": "2026-11-17T09:23:26Z",
+  "last_seen": "2026-11-19T05:34:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -13013,12 +13026,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 85,
-   "c2": 14
+   "scan": 87,
+   "c2": 15
   },
-  "events": 100,
+  "events": 103,
   "first_seen": "2026-11-12T10:30:13Z",
-  "last_seen": "2026-11-19T01:18:29Z",
+  "last_seen": "2026-11-19T05:29:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -13104,12 +13117,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 109,
-   "c2": 13
+   "scan": 111,
+   "c2": 14
   },
-  "events": 124,
+  "events": 127,
   "first_seen": "2026-11-12T10:37:19Z",
-  "last_seen": "2026-11-18T22:06:15Z",
+  "last_seen": "2026-11-19T05:28:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -13119,12 +13132,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 89,
+   "scan": 91,
    "c2": 15
   },
-  "events": 106,
+  "events": 108,
   "first_seen": "2026-11-12T13:11:54Z",
-  "last_seen": "2026-11-19T04:50:37Z",
+  "last_seen": "2026-11-19T05:32:41Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -13149,12 +13162,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 87,
-   "c2": 14
+   "scan": 89,
+   "c2": 15
   },
-  "events": 103,
+  "events": 106,
   "first_seen": "2026-11-12T11:03:47Z",
-  "last_seen": "2026-11-19T02:11:34Z",
+  "last_seen": "2026-11-19T05:37:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -13180,12 +13193,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 110,
-   "c2": 14
+   "scan": 112,
+   "c2": 15
   },
-  "events": 128,
+  "events": 131,
   "first_seen": "2026-11-12T11:24:33Z",
-  "last_seen": "2026-11-19T04:54:38Z",
+  "last_seen": "2026-11-19T05:34:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -13436,12 +13449,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 66,
-   "c2": 14
+   "scan": 70,
+   "c2": 15
   },
-  "events": 81,
+  "events": 86,
   "first_seen": "2026-11-12T10:35:16Z",
-  "last_seen": "2026-11-18T16:30:13Z",
+  "last_seen": "2026-11-19T05:36:47Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14147,13 +14160,13 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-   "scan": 265,
+   "scan": 266,
    "c2": 22,
-   "exploit": 21
+   "exploit": 23
   },
-  "events": 409,
+  "events": 412,
   "first_seen": "2026-11-11T09:46:46Z",
-  "last_seen": "2026-11-19T05:09:35Z",
+  "last_seen": "2026-11-19T06:00:38Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14191,11 +14204,11 @@
   "asn": 211607,
   "asn_org": "Securitytrails, LLC",
   "categories": {
-   "scan": 34
+   "scan": 36
   },
-  "events": 51,
+  "events": 54,
   "first_seen": "2026-11-11T12:16:28Z",
-  "last_seen": "2026-11-18T19:48:32Z",
+  "last_seen": "2026-11-19T05:58:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14321,11 +14334,11 @@
   "asn": 213790,
   "asn_org": "Limited Network LTD",
   "categories": {
-   "scan": 415
+   "scan": 417
   },
-  "events": 429,
+  "events": 431,
   "first_seen": "2026-11-11T10:20:00Z",
-  "last_seen": "2026-11-19T04:34:10Z",
+  "last_seen": "2026-11-19T06:07:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14377,13 +14390,13 @@
   "asn": 264617,
   "asn_org": "GRUPO PANAGLOBAL 15 S.A",
   "categories": {
-   "web": 3,
-   "c2": 2,
+   "web": 4,
+   "c2": 3,
    "scan": 1
   },
-  "events": 6,
+  "events": 9,
   "first_seen": "2026-11-12T01:06:20Z",
-  "last_seen": "2026-11-14T22:56:40Z",
+  "last_seen": "2026-11-19T05:28:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14567,12 +14580,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 68,
+   "scan": 69,
    "c2": 13
   },
-  "events": 84,
+  "events": 85,
   "first_seen": "2026-11-12T03:37:39Z",
-  "last_seen": "2026-11-19T03:28:33Z",
+  "last_seen": "2026-11-19T05:23:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14582,12 +14595,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 129,
+   "scan": 130,
    "c2": 20
   },
-  "events": 152,
+  "events": 153,
   "first_seen": "2026-11-13T03:45:03Z",
-  "last_seen": "2026-11-19T04:24:51Z",
+  "last_seen": "2026-11-19T05:41:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14639,12 +14652,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 119,
-   "c2": 19
+   "scan": 120,
+   "c2": 20
   },
-  "events": 139,
+  "events": 141,
   "first_seen": "2026-11-13T03:44:08Z",
-  "last_seen": "2026-11-19T04:30:43Z",
+  "last_seen": "2026-11-19T05:43:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -14806,12 +14819,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 12,
+   "scan": 14,
    "c2": 4
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-11T16:58:16Z",
-  "last_seen": "2026-11-19T04:06:22Z",
+  "last_seen": "2026-11-19T06:13:33Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -15000,12 +15013,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 47,
-   "c2": 15
+   "scan": 48,
+   "c2": 16
   },
-  "events": 67,
+  "events": 69,
   "first_seen": "2026-11-11T14:43:37Z",
-  "last_seen": "2026-11-18T15:21:04Z",
+  "last_seen": "2026-11-19T05:32:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -15326,11 +15339,11 @@
   "asn": 403005,
   "asn_org": "Blatant Technologies, LLC",
   "categories": {
-   "scan": 33
+   "scan": 35
   },
-  "events": 37,
+  "events": 39,
   "first_seen": "2026-11-11T13:27:48Z",
-  "last_seen": "2026-11-18T07:44:26Z",
+  "last_seen": "2026-11-19T05:52:30Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -15610,11 +15623,11 @@
   "asn": 12876,
   "asn_org": "Scaleway SAS",
   "categories": {
-   "scan": 173
+   "scan": 174
   },
-  "events": 200,
+  "events": 201,
   "first_seen": "2026-11-11T09:57:55Z",
-  "last_seen": "2026-11-19T04:59:13Z",
+  "last_seen": "2026-11-19T05:27:38Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16296,12 +16309,12 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "scan": 54,
+   "scan": 55,
    "c2": 6
   },
-  "events": 63,
+  "events": 64,
   "first_seen": "2026-11-12T04:18:09Z",
-  "last_seen": "2026-11-19T04:57:41Z",
+  "last_seen": "2026-11-19T05:20:26Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16341,12 +16354,12 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "scan": 312,
-   "c2": 26
+   "scan": 315,
+   "c2": 27
   },
-  "events": 360,
+  "events": 365,
   "first_seen": "2026-11-11T10:07:00Z",
-  "last_seen": "2026-11-19T02:50:19Z",
+  "last_seen": "2026-11-19T06:16:22Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16356,12 +16369,12 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "scan": 14,
+   "scan": 15,
    "c2": 3
   },
-  "events": 18,
+  "events": 19,
   "first_seen": "2026-11-18T15:38:35Z",
-  "last_seen": "2026-11-19T04:35:03Z",
+  "last_seen": "2026-11-19T05:39:49Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16667,12 +16680,12 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-   "scan": 279,
+   "scan": 289,
    "c2": 9
   },
-  "events": 313,
+  "events": 324,
   "first_seen": "2026-11-13T19:59:38Z",
-  "last_seen": "2026-11-19T05:12:54Z",
+  "last_seen": "2026-11-19T06:16:20Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16726,12 +16739,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 16,
+   "scan": 18,
    "c2": 6
   },
-  "events": 23,
+  "events": 25,
   "first_seen": "2026-11-11T18:27:34Z",
-  "last_seen": "2026-11-19T05:17:11Z",
+  "last_seen": "2026-11-19T06:13:31Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16847,12 +16860,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 501,
-   "c2": 21
+   "scan": 504,
+   "c2": 22
   },
-  "events": 579,
+  "events": 583,
   "first_seen": "2026-11-12T19:48:13Z",
-  "last_seen": "2026-11-19T05:05:11Z",
+  "last_seen": "2026-11-19T06:13:15Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16877,12 +16890,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 14,
+   "scan": 16,
    "c2": 5
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-13T07:59:02Z",
-  "last_seen": "2026-11-19T05:16:25Z",
+  "last_seen": "2026-11-19T06:16:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16892,12 +16905,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 17,
+   "scan": 20,
    "c2": 6
   },
-  "events": 24,
+  "events": 27,
   "first_seen": "2026-11-11T11:52:45Z",
-  "last_seen": "2026-11-19T05:05:20Z",
+  "last_seen": "2026-11-19T06:06:00Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16907,13 +16920,13 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 10,
+   "scan": 13,
    "c2": 5,
    "ssh": 1
   },
-  "events": 18,
+  "events": 21,
   "first_seen": "2026-11-11T09:50:06Z",
-  "last_seen": "2026-11-19T04:51:05Z",
+  "last_seen": "2026-11-19T06:11:11Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16939,12 +16952,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 163,
+   "scan": 166,
    "c2": 10
   },
-  "events": 203,
+  "events": 207,
   "first_seen": "2026-11-12T10:19:49Z",
-  "last_seen": "2026-11-19T04:49:39Z",
+  "last_seen": "2026-11-19T06:03:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -16970,12 +16983,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 11,
+   "scan": 14,
    "c2": 5
   },
-  "events": 19,
+  "events": 23,
   "first_seen": "2026-11-11T22:59:08Z",
-  "last_seen": "2026-11-19T05:00:13Z",
+  "last_seen": "2026-11-19T06:05:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17030,12 +17043,12 @@
   "asn": 209334,
   "asn_org": "Modat B.V.",
   "categories": {
-   "scan": 12,
+   "scan": 15,
    "c2": 4
   },
-  "events": 20,
+  "events": 24,
   "first_seen": "2026-11-12T19:58:59Z",
-  "last_seen": "2026-11-19T05:11:45Z",
+  "last_seen": "2026-11-19T06:13:51Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17093,12 +17106,12 @@
   "asn_org": "Modat B.V.",
   "categories": {
    "web": 2,
-   "scan": 20,
+   "scan": 23,
    "c2": 6
   },
-  "events": 31,
+  "events": 35,
   "first_seen": "2026-11-10T23:30:28Z",
-  "last_seen": "2026-11-19T04:45:43Z",
+  "last_seen": "2026-11-19T06:01:00Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17287,12 +17300,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 95,
+   "scan": 96,
    "c2": 16
   },
-  "events": 115,
+  "events": 116,
   "first_seen": "2026-11-11T10:33:44Z",
-  "last_seen": "2026-11-19T04:52:14Z",
+  "last_seen": "2026-11-19T06:10:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17497,12 +17510,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 79,
+   "scan": 80,
    "c2": 9
   },
-  "events": 91,
+  "events": 92,
   "first_seen": "2026-11-11T09:59:29Z",
-  "last_seen": "2026-11-19T05:13:58Z",
+  "last_seen": "2026-11-19T05:36:43Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17512,12 +17525,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 111,
-   "c2": 23
+   "scan": 112,
+   "c2": 24
   },
-  "events": 135,
+  "events": 137,
   "first_seen": "2026-11-11T09:54:12Z",
-  "last_seen": "2026-11-19T04:13:00Z",
+  "last_seen": "2026-11-19T05:31:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17587,12 +17600,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 157,
+   "scan": 158,
    "c2": 15
   },
-  "events": 175,
+  "events": 176,
   "first_seen": "2026-11-11T10:23:16Z",
-  "last_seen": "2026-11-19T05:10:41Z",
+  "last_seen": "2026-11-19T05:32:55Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17797,12 +17810,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 110,
+   "scan": 111,
    "c2": 20
   },
-  "events": 134,
+  "events": 135,
   "first_seen": "2026-11-11T10:57:02Z",
-  "last_seen": "2026-11-19T04:49:33Z",
+  "last_seen": "2026-11-19T06:06:22Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -17977,12 +17990,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 145,
+   "scan": 146,
    "c2": 18
   },
-  "events": 166,
+  "events": 167,
   "first_seen": "2026-11-11T10:55:46Z",
-  "last_seen": "2026-11-19T04:52:12Z",
+  "last_seen": "2026-11-19T05:46:57Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18007,12 +18020,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 114,
+   "scan": 115,
    "c2": 24
   },
-  "events": 139,
+  "events": 140,
   "first_seen": "2026-11-11T09:45:28Z",
-  "last_seen": "2026-11-19T04:59:43Z",
+  "last_seen": "2026-11-19T06:16:20Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18022,12 +18035,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 95,
+   "scan": 96,
    "c2": 17
   },
-  "events": 116,
+  "events": 117,
   "first_seen": "2026-11-11T10:00:27Z",
-  "last_seen": "2026-11-19T04:23:39Z",
+  "last_seen": "2026-11-19T05:42:38Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18172,12 +18185,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 52,
+   "scan": 54,
    "c2": 8
   },
-  "events": 61,
+  "events": 63,
   "first_seen": "2026-11-11T10:35:20Z",
-  "last_seen": "2026-11-19T04:49:40Z",
+  "last_seen": "2026-11-19T06:07:18Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18232,12 +18245,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 50,
+   "scan": 52,
    "c2": 8
   },
-  "events": 59,
+  "events": 61,
   "first_seen": "2026-11-11T12:17:09Z",
-  "last_seen": "2026-11-19T04:53:54Z",
+  "last_seen": "2026-11-19T06:11:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18323,13 +18336,13 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 18,
+   "scan": 19,
    "exploit": 1,
-   "c2": 2
+   "c2": 3
   },
-  "events": 32,
+  "events": 34,
   "first_seen": "2026-11-11T12:16:35Z",
-  "last_seen": "2026-11-18T06:40:06Z",
+  "last_seen": "2026-11-19T05:23:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18430,12 +18443,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 116,
+   "scan": 117,
    "c2": 21
   },
-  "events": 141,
+  "events": 142,
   "first_seen": "2026-11-11T10:24:09Z",
-  "last_seen": "2026-11-19T04:20:37Z",
+  "last_seen": "2026-11-19T05:37:36Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18460,12 +18473,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 90,
+   "scan": 91,
    "c2": 21
   },
-  "events": 112,
+  "events": 113,
   "first_seen": "2026-11-11T10:15:02Z",
-  "last_seen": "2026-11-19T04:15:31Z",
+  "last_seen": "2026-11-19T05:32:09Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18610,12 +18623,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 49,
+   "scan": 50,
    "c2": 12
   },
-  "events": 62,
+  "events": 63,
   "first_seen": "2026-11-11T09:45:43Z",
-  "last_seen": "2026-11-19T04:21:37Z",
+  "last_seen": "2026-11-19T05:41:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18897,12 +18910,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 145,
+   "scan": 147,
    "c2": 18
   },
-  "events": 166,
+  "events": 168,
   "first_seen": "2026-11-11T10:58:40Z",
-  "last_seen": "2026-11-19T04:58:42Z",
+  "last_seen": "2026-11-19T06:15:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -18912,12 +18925,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 92,
+   "scan": 93,
    "c2": 21
   },
-  "events": 114,
+  "events": 115,
   "first_seen": "2026-11-11T10:53:32Z",
-  "last_seen": "2026-11-19T04:53:37Z",
+  "last_seen": "2026-11-19T06:10:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19002,12 +19015,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 78,
+   "scan": 79,
    "c2": 11
   },
-  "events": 90,
+  "events": 91,
   "first_seen": "2026-11-11T10:21:10Z",
-  "last_seen": "2026-11-19T05:10:11Z",
+  "last_seen": "2026-11-19T05:32:39Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19017,12 +19030,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 92,
+   "scan": 93,
    "c2": 21
   },
-  "events": 114,
+  "events": 115,
   "first_seen": "2026-11-11T10:15:58Z",
-  "last_seen": "2026-11-19T04:10:26Z",
+  "last_seen": "2026-11-19T05:27:32Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19047,12 +19060,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 72,
+   "scan": 73,
    "c2": 21
   },
-  "events": 98,
+  "events": 99,
   "first_seen": "2026-11-11T10:43:13Z",
-  "last_seen": "2026-11-19T01:34:30Z",
+  "last_seen": "2026-11-19T05:42:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19077,12 +19090,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 149,
+   "scan": 150,
    "c2": 21
   },
-  "events": 171,
+  "events": 172,
   "first_seen": "2026-11-11T09:56:36Z",
-  "last_seen": "2026-11-19T05:06:03Z",
+  "last_seen": "2026-11-19T05:28:36Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19092,12 +19105,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 98,
+   "scan": 99,
    "c2": 17
   },
-  "events": 119,
+  "events": 120,
   "first_seen": "2026-11-11T09:51:22Z",
-  "last_seen": "2026-11-19T04:05:52Z",
+  "last_seen": "2026-11-19T05:23:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19107,12 +19120,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 69,
+   "scan": 70,
    "c2": 11
   },
-  "events": 83,
+  "events": 84,
   "first_seen": "2026-11-11T10:03:33Z",
-  "last_seen": "2026-11-19T04:17:59Z",
+  "last_seen": "2026-11-19T05:35:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19182,12 +19195,12 @@
   "asn": 213412,
   "asn_org": "ONYPHE SAS",
   "categories": {
-   "scan": 82,
+   "scan": 84,
    "c2": 12
   },
-  "events": 95,
+  "events": 97,
   "first_seen": "2026-11-13T04:19:03Z",
-  "last_seen": "2026-11-19T04:27:59Z",
+  "last_seen": "2026-11-19T06:03:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -19411,6 +19424,20 @@
   "events": 47,
   "first_seen": "2026-11-11T13:27:39Z",
   "last_seen": "2026-11-19T01:17:51Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
+  "ip": "138.68.153.47",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+   "scan": 18
+  },
+  "events": 28,
+  "first_seen": "2026-11-13T05:02:00Z",
+  "last_seen": "2026-11-19T06:09:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -20809,12 +20836,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 38,
-   "c2": 13
+   "scan": 39,
+   "c2": 14
   },
-  "events": 56,
+  "events": 58,
   "first_seen": "2026-11-11T16:42:35Z",
-  "last_seen": "2026-11-18T13:17:58Z",
+  "last_seen": "2026-11-19T05:29:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -20853,12 +20880,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 41,
+   "scan": 42,
    "c2": 2
   },
-  "events": 59,
+  "events": 60,
   "first_seen": "2026-11-11T14:43:01Z",
-  "last_seen": "2026-11-19T05:06:59Z",
+  "last_seen": "2026-11-19T05:50:20Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -20987,12 +21014,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 24,
-   "c2": 9
+   "scan": 26,
+   "c2": 10
   },
-  "events": 36,
+  "events": 39,
   "first_seen": "2026-11-11T10:09:40Z",
-  "last_seen": "2026-11-17T20:30:29Z",
+  "last_seen": "2026-11-19T05:38:53Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -21490,12 +21517,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 47,
-   "c2": 3
+   "scan": 48,
+   "c2": 4
   },
-  "events": 64,
+  "events": 66,
   "first_seen": "2026-11-11T12:29:29Z",
-  "last_seen": "2026-11-18T23:12:15Z",
+  "last_seen": "2026-11-19T05:47:58Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -21534,12 +21561,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 19,
-   "c2": 10
+   "scan": 21,
+   "c2": 11
   },
-  "events": 30,
+  "events": 33,
   "first_seen": "2026-11-11T10:45:56Z",
-  "last_seen": "2026-11-16T14:45:12Z",
+  "last_seen": "2026-11-19T06:16:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -21579,12 +21606,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 35,
-   "c2": 2
+   "scan": 36,
+   "c2": 3
   },
-  "events": 52,
+  "events": 54,
   "first_seen": "2026-11-11T10:10:02Z",
-  "last_seen": "2026-11-19T00:00:36Z",
+  "last_seen": "2026-11-19T05:56:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -21638,12 +21665,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 46,
+   "scan": 47,
    "c2": 13
   },
-  "events": 65,
+  "events": 66,
   "first_seen": "2026-11-11T11:13:55Z",
-  "last_seen": "2026-11-19T02:36:26Z",
+  "last_seen": "2026-11-19T05:39:03Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -24297,12 +24324,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 41,
-   "c2": 1
+   "scan": 42,
+   "c2": 2
   },
-  "events": 59,
+  "events": 61,
   "first_seen": "2026-11-11T12:49:22Z",
-  "last_seen": "2026-11-18T00:56:06Z",
+  "last_seen": "2026-11-19T05:35:18Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -25608,12 +25635,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 37,
-   "c2": 15
+   "scan": 38,
+   "c2": 16
   },
-  "events": 53,
+  "events": 55,
   "first_seen": "2026-11-11T21:43:01Z",
-  "last_seen": "2026-11-18T16:40:08Z",
+  "last_seen": "2026-11-19T05:32:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -25623,12 +25650,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 41,
-   "c2": 6
+   "scan": 42,
+   "c2": 7
   },
-  "events": 61,
+  "events": 63,
   "first_seen": "2026-11-11T10:22:23Z",
-  "last_seen": "2026-11-19T01:28:36Z",
+  "last_seen": "2026-11-19T05:53:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -25638,12 +25665,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 38,
-   "c2": 18
+   "scan": 39,
+   "c2": 19
   },
-  "events": 57,
+  "events": 59,
   "first_seen": "2026-11-11T11:24:24Z",
-  "last_seen": "2026-11-18T21:08:07Z",
+  "last_seen": "2026-11-19T05:47:58Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -26022,12 +26049,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 40,
+   "scan": 41,
    "c2": 2
   },
-  "events": 59,
+  "events": 60,
   "first_seen": "2026-11-11T09:53:08Z",
-  "last_seen": "2026-11-19T00:59:58Z",
+  "last_seen": "2026-11-19T05:48:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -27365,12 +27392,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 42,
-   "c2": 1
+   "scan": 43,
+   "c2": 2
   },
-  "events": 58,
+  "events": 60,
   "first_seen": "2026-11-11T10:07:46Z",
-  "last_seen": "2026-11-18T07:17:31Z",
+  "last_seen": "2026-11-19T05:53:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -27691,12 +27718,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 36,
-   "c2": 13
+   "scan": 37,
+   "c2": 14
   },
-  "events": 50,
+  "events": 52,
   "first_seen": "2026-11-11T19:08:49Z",
-  "last_seen": "2026-11-17T09:58:30Z",
+  "last_seen": "2026-11-19T05:31:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -27750,12 +27777,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 37,
+   "scan": 38,
    "c2": 10
   },
-  "events": 58,
+  "events": 59,
   "first_seen": "2026-11-11T10:36:08Z",
-  "last_seen": "2026-11-19T04:42:27Z",
+  "last_seen": "2026-11-19T05:43:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -28106,12 +28133,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 35,
+   "scan": 36,
    "c2": 16
   },
-  "events": 52,
+  "events": 53,
   "first_seen": "2026-11-11T14:47:35Z",
-  "last_seen": "2026-11-19T02:00:24Z",
+  "last_seen": "2026-11-19T05:58:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -28431,12 +28458,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 32,
-   "c2": 11
+   "scan": 33,
+   "c2": 12
   },
-  "events": 48,
+  "events": 50,
   "first_seen": "2026-11-11T14:57:36Z",
-  "last_seen": "2026-11-18T17:10:35Z",
+  "last_seen": "2026-11-19T05:31:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -29217,12 +29244,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 44,
+   "scan": 45,
    "c2": 20
   },
-  "events": 65,
+  "events": 66,
   "first_seen": "2026-11-11T09:50:16Z",
-  "last_seen": "2026-11-18T15:54:59Z",
+  "last_seen": "2026-11-19T05:21:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -29305,12 +29332,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 48,
-   "c2": 8
+   "scan": 49,
+   "c2": 9
   },
-  "events": 67,
+  "events": 69,
   "first_seen": "2026-11-11T10:25:18Z",
-  "last_seen": "2026-11-19T01:03:00Z",
+  "last_seen": "2026-11-19T05:29:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -29363,12 +29390,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 41,
-   "c2": 17
+   "scan": 42,
+   "c2": 18
   },
-  "events": 59,
+  "events": 61,
   "first_seen": "2026-11-11T11:09:48Z",
-  "last_seen": "2026-11-18T14:34:41Z",
+  "last_seen": "2026-11-19T05:52:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -29393,12 +29420,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 39,
-   "c2": 17
+   "scan": 40,
+   "c2": 18
   },
-  "events": 57,
+  "events": 59,
   "first_seen": "2026-11-11T10:26:37Z",
-  "last_seen": "2026-11-18T15:34:59Z",
+  "last_seen": "2026-11-19T05:40:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -29598,11 +29625,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 798
+   "ssh": 810
   },
-  "events": 798,
+  "events": 810,
   "first_seen": "2026-11-09T17:20:00Z",
-  "last_seen": "2026-11-19T05:11:30Z",
+  "last_seen": "2026-11-19T06:11:11Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -29612,11 +29639,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 647
+   "ssh": 661
   },
-  "events": 647,
+  "events": 661,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-19T04:33:32Z",
+  "last_seen": "2026-11-19T05:57:23Z",
   "reported": "2026-11-11T16:35:03Z"
  },
  {
@@ -29626,12 +29653,12 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-   "ssh": 539,
+   "ssh": 549,
    "spamhaus": 99
   },
-  "events": 638,
+  "events": 648,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-19T04:40:49Z",
+  "last_seen": "2026-11-19T05:54:59Z",
   "reported": "2026-11-11T17:05:43Z"
  },
  {
@@ -30060,11 +30087,11 @@
   "asn_org": "HOSTGNOME LTD",
   "categories": {
    "c2": 10,
-   "scan": 28
+   "scan": 29
   },
-  "events": 39,
+  "events": 40,
   "first_seen": "2026-11-14T06:33:08Z",
-  "last_seen": "2026-11-19T04:22:05Z",
+  "last_seen": "2026-11-19T05:58:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -30199,11 +30226,11 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "scan": 42
+   "scan": 43
   },
-  "events": 50,
+  "events": 51,
   "first_seen": "2026-11-12T04:08:26Z",
-  "last_seen": "2026-11-19T04:05:10Z",
+  "last_seen": "2026-11-19T06:01:32Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -30213,11 +30240,11 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "scan": 270
+   "scan": 271
   },
-  "events": 281,
+  "events": 282,
   "first_seen": "2026-11-11T09:36:55Z",
-  "last_seen": "2026-11-19T05:17:29Z",
+  "last_seen": "2026-11-19T05:25:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -30242,11 +30269,11 @@
   "asn": 202306,
   "asn_org": "HOSTGLOBAL.PLUS LTD",
   "categories": {
-   "scan": 275
+   "scan": 277
   },
-  "events": 287,
+  "events": 289,
   "first_seen": "2026-11-11T09:45:08Z",
-  "last_seen": "2026-11-19T04:41:37Z",
+  "last_seen": "2026-11-19T06:03:17Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -30334,8 +30361,8 @@
    "scan": 1
   },
   "events": 1,
-  "first_seen": "2026-11-19T05:35:42Z",
-  "last_seen": "2026-11-19T05:35:42Z",
+  "first_seen": "2026-11-19T06:35:42Z",
+  "last_seen": "2026-11-19T06:35:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -33346,12 +33373,12 @@
   "asn": 9465,
   "asn_org": "AGOTOZ PTE. LTD.",
   "categories": {
-   "scan": 127,
+   "scan": 130,
    "c2": 11
   },
-  "events": 144,
+  "events": 147,
   "first_seen": "2026-11-11T09:56:33Z",
-  "last_seen": "2026-11-19T03:46:33Z",
+  "last_seen": "2026-11-19T06:13:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -33405,11 +33432,11 @@
   "asn": 9465,
   "asn_org": "AGOTOZ PTE. LTD.",
   "categories": {
-   "scan": 97
+   "scan": 98
   },
-  "events": 111,
+  "events": 112,
   "first_seen": "2026-11-11T10:52:48Z",
-  "last_seen": "2026-11-19T03:33:41Z",
+  "last_seen": "2026-11-19T05:24:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -33433,12 +33460,12 @@
   "asn": 9465,
   "asn_org": "AGOTOZ PTE. LTD.",
   "categories": {
-   "scan": 87,
-   "c2": 10
+   "scan": 88,
+   "c2": 11
   },
-  "events": 104,
+  "events": 106,
   "first_seen": "2026-11-11T10:05:43Z",
-  "last_seen": "2026-11-14T02:32:43Z",
+  "last_seen": "2026-11-19T05:24:38Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -33521,13 +33548,13 @@
   "asn": 47154,
   "asn_org": "HUSAM A. H. HIJAZI",
   "categories": {
-   "scan": 44,
-   "c2": 12,
+   "scan": 47,
+   "c2": 13,
    "exploit": 5
   },
-  "events": 86,
+  "events": 90,
   "first_seen": "2026-11-11T13:20:08Z",
-  "last_seen": "2026-11-18T21:03:43Z",
+  "last_seen": "2026-11-19T06:14:45Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -34698,12 +34725,12 @@
   "asn": 206264,
   "asn_org": "Amarutu Technology Ltd",
   "categories": {
-   "scan": 573,
+   "scan": 575,
    "web": 40
   },
-  "events": 708,
+  "events": 710,
   "first_seen": "2026-11-11T09:40:03Z",
-  "last_seen": "2026-11-19T05:08:51Z",
+  "last_seen": "2026-11-19T06:05:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -35160,13 +35187,13 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-   "scan": 580,
-   "ssh": 196,
-   "spamhaus": 31
+   "scan": 586,
+   "ssh": 212,
+   "spamhaus": 37
   },
-  "events": 807,
+  "events": 835,
   "first_seen": "2026-11-11T21:29:19Z",
-  "last_seen": "2026-11-19T05:26:20Z",
+  "last_seen": "2026-11-19T06:33:28Z",
   "reported": "2026-11-12T02:25:33Z"
  },
  {
@@ -35176,13 +35203,13 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-   "spamhaus": 23,
-   "scan": 607,
-   "ssh": 168
+   "spamhaus": 25,
+   "scan": 613,
+   "ssh": 176
   },
-  "events": 798,
+  "events": 814,
   "first_seen": "2026-11-11T21:29:43Z",
-  "last_seen": "2026-11-19T05:04:25Z",
+  "last_seen": "2026-11-19T06:23:10Z",
   "reported": "2026-11-15T04:24:56Z"
  },
  {
@@ -35306,12 +35333,12 @@
   "asn": 63491,
   "asn_org": "Universitas Katolik Widya Mandala",
   "categories": {
-   "scan": 87,
+   "scan": 88,
    "c2": 22
   },
-  "events": 110,
+  "events": 111,
   "first_seen": "2026-11-11T10:18:20Z",
-  "last_seen": "2026-11-19T03:49:54Z",
+  "last_seen": "2026-11-19T05:56:28Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -36368,12 +36395,12 @@
   "asn": 45102,
   "asn_org": "Alibaba (US) Technology Co., Ltd.",
   "categories": {
-   "scan": 3,
-   "c2": 3
+   "scan": 4,
+   "c2": 4
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-14T07:07:20Z",
-  "last_seen": "2026-11-16T18:15:05Z",
+  "last_seen": "2026-11-19T06:06:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -36693,11 +36720,11 @@
   "asn": 135377,
   "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
   "categories": {
-   "scan": 27
+   "scan": 28
   },
-  "events": 41,
+  "events": 43,
   "first_seen": "2026-11-12T15:06:29Z",
-  "last_seen": "2026-11-19T03:43:00Z",
+  "last_seen": "2026-11-19T05:36:18Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -36758,6 +36785,22 @@
   "first_seen": "2026-11-11T01:12:58Z",
   "last_seen": "2026-11-11T01:14:48Z",
   "reported": "2026-11-11T17:06:48Z"
+ },
+ {
+  "ip": "203.252.10.4",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 3786,
+  "asn_org": "LG DACOM Corporation",
+  "categories": {
+   "ssh": 4,
+   "c2": 3,
+   "scan": 1
+  },
+  "events": 9,
+  "first_seen": "2026-11-13T22:39:15Z",
+  "last_seen": "2026-11-19T06:15:04Z",
+  "reported": "not reported (permanent ban)"
  },
  {
   "ip": "14.55.141.2",
@@ -37179,12 +37222,12 @@
   "asn": 210006,
   "asn_org": "Shereverov Marat Ahmedovich",
   "categories": {
-   "scan": 366,
+   "scan": 367,
    "c2": 19
   },
-  "events": 403,
+  "events": 404,
   "first_seen": "2026-11-11T09:59:53Z",
-  "last_seen": "2026-11-19T04:55:29Z",
+  "last_seen": "2026-11-19T06:10:43Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -37327,11 +37370,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "spamhaus": 567
+   "spamhaus": 569
   },
-  "events": 567,
+  "events": 569,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-19T05:26:50Z",
+  "last_seen": "2026-11-19T05:49:32Z",
   "reported": "2026-11-11T16:35:12Z"
  },
  {
@@ -37341,11 +37384,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "scan": 492
+   "scan": 495
   },
-  "events": 537,
+  "events": 540,
   "first_seen": "2026-11-11T20:58:50Z",
-  "last_seen": "2026-11-19T05:10:43Z",
+  "last_seen": "2026-11-19T06:11:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -37355,11 +37398,11 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-   "scan": 53
+   "scan": 55
   },
-  "events": 56,
+  "events": 58,
   "first_seen": "2026-11-17T22:15:54Z",
-  "last_seen": "2026-11-19T05:08:33Z",
+  "last_seen": "2026-11-19T05:42:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -38004,11 +38047,11 @@
   "asn": 12876,
   "asn_org": "Scaleway SAS",
   "categories": {
-   "scan": 23
+   "scan": 25
   },
-  "events": 31,
+  "events": 33,
   "first_seen": "2026-11-11T10:29:59Z",
-  "last_seen": "2026-11-19T01:22:18Z",
+  "last_seen": "2026-11-19T05:42:55Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -38033,12 +38076,12 @@
   "asn": 12989,
   "asn_org": "Black HOST Ltd",
   "categories": {
-   "scan": 60,
+   "scan": 63,
    "c2": 15
   },
-  "events": 76,
+  "events": 79,
   "first_seen": "2026-11-11T10:40:50Z",
-  "last_seen": "2026-11-19T04:20:07Z",
+  "last_seen": "2026-11-19T06:02:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -38048,12 +38091,12 @@
   "asn": 12989,
   "asn_org": "Black HOST Ltd",
   "categories": {
-   "scan": 381,
+   "scan": 383,
    "c2": 28
   },
-  "events": 429,
+  "events": 431,
   "first_seen": "2026-11-11T09:42:35Z",
-  "last_seen": "2026-11-19T04:43:51Z",
+  "last_seen": "2026-11-19T05:45:15Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -38078,12 +38121,12 @@
   "asn": 12989,
   "asn_org": "Black HOST Ltd",
   "categories": {
-   "scan": 362,
+   "scan": 365,
    "c2": 30
   },
-  "events": 404,
+  "events": 407,
   "first_seen": "2026-11-11T09:53:43Z",
-  "last_seen": "2026-11-19T03:56:43Z",
+  "last_seen": "2026-11-19T06:14:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -38728,12 +38771,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 50,
+   "scan": 51,
    "c2": 19
   },
-  "events": 71,
+  "events": 72,
   "first_seen": "2026-11-11T12:14:43Z",
-  "last_seen": "2026-11-19T01:15:42Z",
+  "last_seen": "2026-11-19T05:31:09Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -39268,12 +39311,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 36,
-   "c2": 15
+   "scan": 37,
+   "c2": 16
   },
-  "events": 52,
+  "events": 54,
   "first_seen": "2026-11-11T13:57:16Z",
-  "last_seen": "2026-11-19T00:40:57Z",
+  "last_seen": "2026-11-19T05:51:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -39508,12 +39551,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 45,
-   "c2": 14
+   "scan": 46,
+   "c2": 15
   },
-  "events": 64,
+  "events": 66,
   "first_seen": "2026-11-11T12:20:07Z",
-  "last_seen": "2026-11-18T05:24:22Z",
+  "last_seen": "2026-11-19T05:21:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -39568,12 +39611,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 22,
-   "c2": 7
+   "scan": 23,
+   "c2": 8
   },
-  "events": 30,
+  "events": 32,
   "first_seen": "2026-11-11T15:02:23Z",
-  "last_seen": "2026-11-14T00:22:29Z",
+  "last_seen": "2026-11-19T06:06:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -39883,12 +39926,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 48,
+   "scan": 49,
    "c2": 1
   },
-  "events": 65,
+  "events": 66,
   "first_seen": "2026-11-11T12:12:21Z",
-  "last_seen": "2026-11-19T05:04:43Z",
+  "last_seen": "2026-11-19T05:28:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -40363,12 +40406,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 20,
+   "scan": 21,
    "c2": 11
   },
-  "events": 32,
+  "events": 33,
   "first_seen": "2026-11-11T14:37:44Z",
-  "last_seen": "2026-11-19T02:17:39Z",
+  "last_seen": "2026-11-19T05:25:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -40468,12 +40511,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 43,
-   "c2": 18
+   "scan": 44,
+   "c2": 19
   },
-  "events": 63,
+  "events": 65,
   "first_seen": "2026-11-11T11:35:44Z",
-  "last_seen": "2026-11-19T02:36:32Z",
+  "last_seen": "2026-11-19T05:53:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -40513,12 +40556,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 43,
-   "c2": 16
+   "scan": 44,
+   "c2": 17
   },
-  "events": 60,
+  "events": 62,
   "first_seen": "2026-11-11T11:48:47Z",
-  "last_seen": "2026-11-19T02:27:33Z",
+  "last_seen": "2026-11-19T05:42:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -40723,12 +40766,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 39,
+   "scan": 40,
    "c2": 17
   },
-  "events": 57,
+  "events": 58,
   "first_seen": "2026-11-11T12:05:03Z",
-  "last_seen": "2026-11-19T03:34:52Z",
+  "last_seen": "2026-11-19T05:49:37Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -40783,12 +40826,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 28,
-   "c2": 12
+   "scan": 29,
+   "c2": 13
   },
-  "events": 41,
+  "events": 43,
   "first_seen": "2026-11-11T11:37:25Z",
-  "last_seen": "2026-11-18T05:29:58Z",
+  "last_seen": "2026-11-19T05:20:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -40873,12 +40916,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 58,
-   "c2": 21
+   "scan": 59,
+   "c2": 22
   },
-  "events": 80,
+  "events": 82,
   "first_seen": "2026-11-11T10:56:12Z",
-  "last_seen": "2026-11-18T20:59:15Z",
+  "last_seen": "2026-11-19T05:21:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -41038,12 +41081,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 44,
+   "scan": 45,
    "c2": 18
   },
-  "events": 63,
+  "events": 64,
   "first_seen": "2026-11-11T10:58:39Z",
-  "last_seen": "2026-11-19T03:51:08Z",
+  "last_seen": "2026-11-19T05:44:05Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -41622,12 +41665,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 49,
-   "c2": 18
+   "scan": 50,
+   "c2": 19
   },
-  "events": 69,
+  "events": 71,
   "first_seen": "2026-11-11T10:53:29Z",
-  "last_seen": "2026-11-18T20:24:04Z",
+  "last_seen": "2026-11-19T05:42:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -41742,12 +41785,12 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-   "scan": 39,
+   "scan": 40,
    "c2": 18
   },
-  "events": 58,
+  "events": 59,
   "first_seen": "2026-11-11T15:17:09Z",
-  "last_seen": "2026-11-19T01:30:56Z",
+  "last_seen": "2026-11-19T05:27:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42090,12 +42133,12 @@
   "asn": 44589,
   "asn_org": "DIGITAL NETWORK S.R.L.",
   "categories": {
-   "scan": 519,
+   "scan": 521,
    "c2": 21
   },
-  "events": 586,
+  "events": 588,
   "first_seen": "2026-11-11T09:32:53Z",
-  "last_seen": "2026-11-19T04:29:43Z",
+  "last_seen": "2026-11-19T05:49:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42119,12 +42162,12 @@
   "asn": 44589,
   "asn_org": "DIGITAL NETWORK S.R.L.",
   "categories": {
-   "scan": 435,
-   "c2": 14
+   "scan": 436,
+   "c2": 15
   },
-  "events": 508,
+  "events": 510,
   "first_seen": "2026-11-13T13:44:02Z",
-  "last_seen": "2026-11-18T03:41:46Z",
+  "last_seen": "2026-11-19T06:07:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42164,13 +42207,13 @@
   "asn": 44589,
   "asn_org": "DIGITAL NETWORK S.R.L.",
   "categories": {
-   "scan": 1446,
+   "scan": 1451,
    "c2": 13,
-   "ssh": 152
+   "ssh": 156
   },
-  "events": 1663,
+  "events": 1672,
   "first_seen": "2026-11-11T21:38:13Z",
-  "last_seen": "2026-11-19T05:02:05Z",
+  "last_seen": "2026-11-19T06:13:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42180,13 +42223,13 @@
   "asn": 44589,
   "asn_org": "DIGITAL NETWORK S.R.L.",
   "categories": {
-   "scan": 1467,
+   "scan": 1480,
    "c2": 13,
-   "ssh": 198
+   "ssh": 200
   },
-  "events": 1732,
+  "events": 1748,
   "first_seen": "2026-11-11T21:33:16Z",
-  "last_seen": "2026-11-19T05:15:04Z",
+  "last_seen": "2026-11-19T06:11:58Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42750,12 +42793,12 @@
   "asn": 49870,
   "asn_org": "Alsycon B.V.",
   "categories": {
-   "scan": 64,
-   "c2": 2
+   "scan": 65,
+   "c2": 3
   },
-  "events": 82,
+  "events": 84,
   "first_seen": "2026-11-11T09:50:20Z",
-  "last_seen": "2026-11-19T03:08:56Z",
+  "last_seen": "2026-11-19T05:36:18Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42908,13 +42951,13 @@
   "asn": 49870,
   "asn_org": "Alsycon B.V.",
   "categories": {
-   "scan": 37,
+   "scan": 43,
    "exploit": 6,
-   "c2": 8
+   "c2": 9
   },
-  "events": 58,
+  "events": 65,
   "first_seen": "2026-11-13T18:48:57Z",
-  "last_seen": "2026-11-18T21:50:25Z",
+  "last_seen": "2026-11-19T06:08:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -42924,14 +42967,14 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 193,
+   "scan": 194,
    "web": 4,
    "waf": 1,
-   "c2": 13
+   "c2": 14
   },
-  "events": 220,
+  "events": 222,
   "first_seen": "2026-11-11T11:00:57Z",
-  "last_seen": "2026-11-18T21:29:33Z",
+  "last_seen": "2026-11-19T05:36:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -43144,13 +43187,13 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-   "scan": 79,
-   "c2": 19,
+   "scan": 80,
+   "c2": 20,
    "web": 1
   },
-  "events": 100,
+  "events": 102,
   "first_seen": "2026-11-12T09:35:11Z",
-  "last_seen": "2026-11-18T20:40:49Z",
+  "last_seen": "2026-11-19T05:46:58Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -43434,12 +43477,12 @@
   "asn": 197170,
   "asn_org": "TechTies Inc.",
   "categories": {
-   "spamhaus": 381,
+   "spamhaus": 383,
    "scan": 196
   },
-  "events": 577,
+  "events": 579,
   "first_seen": "2026-11-11T09:43:19Z",
-  "last_seen": "2026-11-19T05:15:52Z",
+  "last_seen": "2026-11-19T05:56:24Z",
   "reported": "2026-11-11T16:34:40Z"
  },
  {
@@ -43481,11 +43524,11 @@
   "asn_org": "TechTies Inc.",
   "categories": {
    "web": 1,
-   "scan": 103
+   "scan": 105
   },
-  "events": 108,
+  "events": 110,
   "first_seen": "2026-11-11T01:01:22Z",
-  "last_seen": "2026-11-19T04:49:23Z",
+  "last_seen": "2026-11-19T06:13:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -43664,11 +43707,11 @@
   "categories": {
    "spamhaus": 5,
    "ssh": 24,
-   "scan": 88
+   "scan": 112
   },
-  "events": 117,
+  "events": 141,
   "first_seen": "2026-11-18T22:46:12Z",
-  "last_seen": "2026-11-19T05:34:24Z",
+  "last_seen": "2026-11-19T05:58:30Z",
   "reported": "2026-11-19T04:25:46Z"
  },
  {
@@ -44163,13 +44206,13 @@
   "asn": 202425,
   "asn_org": "IP Volume inc",
   "categories": {
-   "scan": 66,
+   "scan": 68,
    "c2": 12,
    "exploit": 1
   },
-  "events": 80,
+  "events": 82,
   "first_seen": "2026-11-11T13:36:21Z",
-  "last_seen": "2026-11-19T04:24:31Z",
+  "last_seen": "2026-11-19T05:48:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -44181,9 +44224,9 @@
   "categories": {
    "c2": 12
   },
-  "events": 73,
+  "events": 75,
   "first_seen": "2026-11-12T03:46:40Z",
-  "last_seen": "2026-11-19T04:50:57Z",
+  "last_seen": "2026-11-19T05:56:21Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -44371,11 +44414,11 @@
   "asn": 202425,
   "asn_org": "IP Volume inc",
   "categories": {
-   "scan": 129
+   "scan": 130
   },
-  "events": 159,
+  "events": 161,
   "first_seen": "2026-11-12T03:37:19Z",
-  "last_seen": "2026-11-19T00:31:51Z",
+  "last_seen": "2026-11-19T06:13:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -44460,11 +44503,11 @@
   "asn": 202425,
   "asn_org": "IP Volume inc",
   "categories": {
-   "scan": 167
+   "scan": 168
   },
-  "events": 200,
+  "events": 202,
   "first_seen": "2026-11-12T03:34:47Z",
-  "last_seen": "2026-11-19T00:35:57Z",
+  "last_seen": "2026-11-19T06:15:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -44836,12 +44879,12 @@
   "asn_org": "NSEC - Sistemas Informaticos, S.A.",
   "categories": {
    "web": 1,
-   "scan": 13,
-   "c2": 7
+   "scan": 14,
+   "c2": 8
   },
-  "events": 24,
+  "events": 26,
   "first_seen": "2026-11-10T10:52:40Z",
-  "last_seen": "2026-11-18T00:03:46Z",
+  "last_seen": "2026-11-19T05:39:20Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -45512,11 +45555,11 @@
   "asn": 213790,
   "asn_org": "Limited Network LTD",
   "categories": {
-   "scan": 347
+   "scan": 348
   },
-  "events": 363,
+  "events": 364,
   "first_seen": "2026-11-11T10:47:11Z",
-  "last_seen": "2026-11-19T05:10:49Z",
+  "last_seen": "2026-11-19T05:23:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -45583,12 +45626,12 @@
   "asn": 215305,
   "asn_org": "Mastersoft S.R.L.",
   "categories": {
-   "scan": 11,
-   "c2": 3
+   "scan": 12,
+   "c2": 4
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-17T05:26:09Z",
-  "last_seen": "2026-11-19T02:31:26Z",
+  "last_seen": "2026-11-19T05:22:36Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -46300,12 +46343,12 @@
   "asn": 209588,
   "asn_org": "Flyservers S.A.",
   "categories": {
-   "scan": 256,
+   "scan": 258,
    "c2": 18
   },
-  "events": 339,
+  "events": 341,
   "first_seen": "2026-11-11T09:46:40Z",
-  "last_seen": "2026-11-19T05:00:35Z",
+  "last_seen": "2026-11-19T06:16:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -46382,18 +46425,32 @@
   "reported": "2026-11-17T14:25:35Z"
  },
  {
+  "ip": "85.12.251.50",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 28890,
+  "asn_org": "INSYS LLC",
+  "categories": {
+   "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-19T05:11:13Z",
+  "last_seen": "2026-11-19T05:11:13Z",
+  "reported": "2026-11-19T06:25:54Z"
+ },
+ {
   "ip": "31.184.195.246",
   "country_code": "RU",
   "country": "Russia",
   "asn": 34665,
   "asn_org": "Petersburg Internet Network ltd.",
   "categories": {
-   "scan": 304,
+   "scan": 305,
    "c2": 23
   },
-  "events": 346,
+  "events": 347,
   "first_seen": "2026-11-11T09:38:35Z",
-  "last_seen": "2026-11-19T04:42:57Z",
+  "last_seen": "2026-11-19T05:56:35Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -46403,12 +46460,12 @@
   "asn": 34665,
   "asn_org": "Petersburg Internet Network ltd.",
   "categories": {
-   "scan": 53,
+   "scan": 54,
    "web": 2
   },
-  "events": 77,
+  "events": 78,
   "first_seen": "2026-11-11T10:03:39Z",
-  "last_seen": "2026-11-19T04:37:21Z",
+  "last_seen": "2026-11-19T05:39:39Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -46446,13 +46503,13 @@
   "asn": 51115,
   "asn_org": "HLL LLC",
   "categories": {
-   "scan": 255,
+   "scan": 256,
    "c2": 25,
    "exploit": 7
   },
-  "events": 312,
+  "events": 313,
   "first_seen": "2026-11-11T09:36:39Z",
-  "last_seen": "2026-11-19T04:39:43Z",
+  "last_seen": "2026-11-19T06:04:36Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -46462,12 +46519,12 @@
   "asn": 57044,
   "asn_org": "JSC \"ER-Telecom Holding\"",
   "categories": {
-   "scan": 22,
+   "scan": 23,
    "c2": 13
   },
-  "events": 36,
+  "events": 37,
   "first_seen": "2026-11-13T23:27:02Z",
-  "last_seen": "2026-11-19T04:19:35Z",
+  "last_seen": "2026-11-19T05:48:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -48517,12 +48574,12 @@
   "asn": 135377,
   "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
   "categories": {
-   "scan": 14,
-   "c2": 7
+   "scan": 15,
+   "c2": 8
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-11T20:51:03Z",
-  "last_seen": "2026-11-18T08:22:44Z",
+  "last_seen": "2026-11-19T05:56:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -48742,12 +48799,12 @@
   "asn": 135377,
   "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
   "categories": {
-   "scan": 7,
-   "c2": 4
+   "scan": 8,
+   "c2": 5
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-11T20:47:07Z",
-  "last_seen": "2026-11-17T10:00:00Z",
+  "last_seen": "2026-11-19T05:54:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -48847,12 +48904,12 @@
   "asn": 135377,
   "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
   "categories": {
-   "scan": 3,
-   "c2": 3
+   "scan": 4,
+   "c2": 4
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-13T05:55:39Z",
-  "last_seen": "2026-11-18T14:37:05Z",
+  "last_seen": "2026-11-19T05:54:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -48922,11 +48979,11 @@
   "asn": 153947,
   "asn_org": "FAST ZONE IT",
   "categories": {
-   "ssh": 84
+   "ssh": 88
   },
-  "events": 84,
+  "events": 88,
   "first_seen": "2026-11-10T23:36:18Z",
-  "last_seen": "2026-11-19T03:08:23Z",
+  "last_seen": "2026-11-19T06:27:22Z",
   "reported": "2026-11-14T04:24:59Z"
  },
  {
@@ -49272,12 +49329,12 @@
   "asn": 174,
   "asn_org": "Cogent Communications",
   "categories": {
-   "scan": 106,
+   "scan": 107,
    "c2": 23
   },
-  "events": 130,
+  "events": 131,
   "first_seen": "2026-11-11T12:24:57Z",
-  "last_seen": "2026-11-19T03:36:54Z",
+  "last_seen": "2026-11-19T05:34:45Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -49452,12 +49509,12 @@
   "asn": 6939,
   "asn_org": "Hurricane Electric LLC",
   "categories": {
-   "scan": 22,
-   "c2": 12
+   "scan": 23,
+   "c2": 13
   },
-  "events": 35,
+  "events": 37,
   "first_seen": "2026-11-11T14:06:05Z",
-  "last_seen": "2026-11-18T10:08:57Z",
+  "last_seen": "2026-11-19T06:15:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -49771,12 +49828,12 @@
   "asn": 6939,
   "asn_org": "Hurricane Electric LLC",
   "categories": {
-   "scan": 24,
+   "scan": 25,
    "c2": 12
   },
-  "events": 37,
+  "events": 38,
   "first_seen": "2026-11-11T13:43:25Z",
-  "last_seen": "2026-11-19T04:07:24Z",
+  "last_seen": "2026-11-19T05:35:53Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -49786,12 +49843,12 @@
   "asn": 6939,
   "asn_org": "Hurricane Electric LLC",
   "categories": {
-   "scan": 25,
-   "c2": 9
+   "scan": 26,
+   "c2": 10
   },
-  "events": 35,
+  "events": 37,
   "first_seen": "2026-11-12T01:56:09Z",
-  "last_seen": "2026-11-17T06:26:43Z",
+  "last_seen": "2026-11-19T06:11:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -50559,12 +50616,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 5,
-   "c2": 4
+   "scan": 7,
+   "c2": 5
   },
-  "events": 10,
+  "events": 13,
   "first_seen": "2026-11-12T14:28:11Z",
-  "last_seen": "2026-11-15T07:20:05Z",
+  "last_seen": "2026-11-19T06:14:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -51083,12 +51140,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 16,
+   "scan": 17,
    "c2": 11
   },
-  "events": 28,
+  "events": 29,
   "first_seen": "2026-11-12T02:47:41Z",
-  "last_seen": "2026-11-19T02:52:40Z",
+  "last_seen": "2026-11-19T05:55:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -51920,12 +51977,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 11,
-   "c2": 6
+   "scan": 12,
+   "c2": 7
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-12T09:15:34Z",
-  "last_seen": "2026-11-18T21:11:51Z",
+  "last_seen": "2026-11-19T06:00:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -52825,11 +52882,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 13
+   "scan": 14,
+   "c2": 1
   },
-  "events": 23,
+  "events": 25,
   "first_seen": "2026-11-11T12:23:37Z",
-  "last_seen": "2026-11-15T13:57:30Z",
+  "last_seen": "2026-11-19T05:23:36Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -53460,12 +53518,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 6,
-   "c2": 6
+   "scan": 7,
+   "c2": 7
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-13T00:17:40Z",
-  "last_seen": "2026-11-18T21:46:23Z",
+  "last_seen": "2026-11-19T06:05:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -55301,12 +55359,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 11,
-   "c2": 8
+   "scan": 12,
+   "c2": 9
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-11T14:20:05Z",
-  "last_seen": "2026-11-18T12:56:38Z",
+  "last_seen": "2026-11-19T05:34:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -56154,12 +56212,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 8,
-   "c2": 5
+   "scan": 9,
+   "c2": 6
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-12T09:18:05Z",
-  "last_seen": "2026-11-15T22:46:43Z",
+  "last_seen": "2026-11-19T05:45:26Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -56559,12 +56617,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 9,
-   "c2": 5
+   "scan": 10,
+   "c2": 6
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-11T09:48:53Z",
-  "last_seen": "2026-11-16T01:07:01Z",
+  "last_seen": "2026-11-19T06:16:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -56695,12 +56753,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 10,
-   "c2": 9
+   "scan": 11,
+   "c2": 10
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-11T11:58:20Z",
-  "last_seen": "2026-11-18T22:45:04Z",
+  "last_seen": "2026-11-19T05:28:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -57205,12 +57263,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 10,
-   "c2": 8
+   "scan": 11,
+   "c2": 9
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-11T21:39:34Z",
-  "last_seen": "2026-11-17T03:12:25Z",
+  "last_seen": "2026-11-19T05:52:32Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -57371,12 +57429,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 16,
-   "c2": 7
+   "scan": 17,
+   "c2": 8
   },
-  "events": 25,
+  "events": 27,
   "first_seen": "2026-11-11T17:01:19Z",
-  "last_seen": "2026-11-18T15:00:05Z",
+  "last_seen": "2026-11-19T05:31:14Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -57507,12 +57565,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 12,
-   "c2": 7
+   "scan": 14,
+   "c2": 8
   },
-  "events": 20,
+  "events": 23,
   "first_seen": "2026-11-11T21:02:51Z",
-  "last_seen": "2026-11-18T17:14:08Z",
+  "last_seen": "2026-11-19T06:13:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -57597,12 +57655,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 8,
-   "c2": 4
+   "scan": 9,
+   "c2": 5
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-12T12:29:45Z",
-  "last_seen": "2026-11-16T15:43:35Z",
+  "last_seen": "2026-11-19T06:15:24Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -57792,12 +57850,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 11,
-   "c2": 9
+   "scan": 13,
+   "c2": 10
   },
-  "events": 21,
+  "events": 24,
   "first_seen": "2026-11-11T12:38:18Z",
-  "last_seen": "2026-11-17T17:37:18Z",
+  "last_seen": "2026-11-19T05:46:58Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -58077,12 +58135,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 11,
-   "c2": 5
+   "scan": 13,
+   "c2": 6
   },
-  "events": 17,
+  "events": 20,
   "first_seen": "2026-11-11T16:45:41Z",
-  "last_seen": "2026-11-17T01:52:39Z",
+  "last_seen": "2026-11-19T06:07:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -58137,12 +58195,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 6,
-   "c2": 4
+   "scan": 7,
+   "c2": 5
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-12T05:53:06Z",
-  "last_seen": "2026-11-13T16:53:34Z",
+  "last_seen": "2026-11-19T06:02:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -58437,12 +58495,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 12,
-   "c2": 7
+   "scan": 13,
+   "c2": 8
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-11T21:30:57Z",
-  "last_seen": "2026-11-18T22:08:37Z",
+  "last_seen": "2026-11-19T05:33:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -59252,12 +59310,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 8,
-   "c2": 7
+   "scan": 9,
+   "c2": 8
   },
-  "events": 16,
+  "events": 18,
   "first_seen": "2026-11-12T03:09:19Z",
-  "last_seen": "2026-11-18T02:05:11Z",
+  "last_seen": "2026-11-19T05:25:38Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -59694,6 +59752,21 @@
   "events": 17,
   "first_seen": "2026-11-14T12:22:02Z",
   "last_seen": "2026-11-18T20:42:03Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
+  "ip": "74.235.203.117",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+   "scan": 10,
+   "c2": 3
+  },
+  "events": 18,
+  "first_seen": "2026-11-14T18:07:09Z",
+  "last_seen": "2026-11-19T05:40:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -60657,6 +60730,21 @@
   "reported": "not reported (permanent ban)"
  },
  {
+  "ip": "172.174.233.58",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+   "scan": 9,
+   "c2": 2
+  },
+  "events": 16,
+  "first_seen": "2026-11-11T10:50:17Z",
+  "last_seen": "2026-11-18T08:45:06Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
   "ip": "172.178.116.20",
   "country_code": "US",
   "country": "United States",
@@ -60751,12 +60839,12 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-   "scan": 14,
-   "c2": 11
+   "scan": 15,
+   "c2": 12
   },
-  "events": 26,
+  "events": 28,
   "first_seen": "2026-11-11T19:52:33Z",
-  "last_seen": "2026-11-18T08:07:31Z",
+  "last_seen": "2026-11-19T05:53:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -61158,12 +61246,12 @@
   "asn": 10439,
   "asn_org": "CariNet, Inc.",
   "categories": {
-   "scan": 229,
+   "scan": 230,
    "c2": 27
   },
-  "events": 272,
+  "events": 273,
   "first_seen": "2026-11-11T10:17:53Z",
-  "last_seen": "2026-11-19T04:24:29Z",
+  "last_seen": "2026-11-19T06:06:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -61268,9 +61356,9 @@
    "c2": 29,
    "exploit": 1
   },
-  "events": 265,
+  "events": 266,
   "first_seen": "2026-11-11T09:39:11Z",
-  "last_seen": "2026-11-19T04:31:39Z",
+  "last_seen": "2026-11-19T05:45:47Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -61341,12 +61429,12 @@
   "asn_org": "CariNet, Inc.",
   "categories": {
    "web": 7,
-   "scan": 323,
+   "scan": 324,
    "c2": 23
   },
-  "events": 390,
+  "events": 391,
   "first_seen": "2026-11-10T10:04:13Z",
-  "last_seen": "2026-11-19T04:14:24Z",
+  "last_seen": "2026-11-19T06:16:07Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -61389,9 +61477,9 @@
    "c2": 11,
    "exploit": 2
   },
-  "events": 99,
+  "events": 103,
   "first_seen": "2026-11-11T10:02:12Z",
-  "last_seen": "2026-11-19T05:13:38Z",
+  "last_seen": "2026-11-19T06:16:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -61433,12 +61521,12 @@
   "asn": 10439,
   "asn_org": "CariNet, Inc.",
   "categories": {
-   "scan": 26,
+   "scan": 27,
    "c2": 8
   },
-  "events": 35,
+  "events": 36,
   "first_seen": "2026-11-11T10:10:51Z",
-  "last_seen": "2026-11-19T03:19:02Z",
+  "last_seen": "2026-11-19T05:31:47Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -61448,12 +61536,12 @@
   "asn": 10439,
   "asn_org": "CariNet, Inc.",
   "categories": {
-   "scan": 42,
-   "c2": 9
+   "scan": 43,
+   "c2": 10
   },
-  "events": 52,
+  "events": 54,
   "first_seen": "2026-11-11T10:18:41Z",
-  "last_seen": "2026-11-19T02:08:50Z",
+  "last_seen": "2026-11-19T05:30:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -62166,12 +62254,12 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-   "scan": 14,
-   "c2": 9
+   "scan": 15,
+   "c2": 10
   },
-  "events": 24,
+  "events": 26,
   "first_seen": "2026-11-12T05:10:50Z",
-  "last_seen": "2026-11-18T21:53:00Z",
+  "last_seen": "2026-11-19T06:08:48Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -65689,12 +65777,12 @@
   "asn": 14618,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 6,
-   "c2": 4
+   "scan": 7,
+   "c2": 5
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-11T16:47:01Z",
-  "last_seen": "2026-11-16T07:58:42Z",
+  "last_seen": "2026-11-19T06:12:22Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -66109,11 +66197,11 @@
   "asn": 14956,
   "asn_org": "RouterHosting LLC",
   "categories": {
-   "scan": 22
+   "scan": 23
   },
-  "events": 25,
+  "events": 27,
   "first_seen": "2026-11-14T06:48:21Z",
-  "last_seen": "2026-11-19T03:11:20Z",
+  "last_seen": "2026-11-19T05:40:22Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -66181,12 +66269,12 @@
   "asn": 16276,
   "asn_org": "OVH SAS",
   "categories": {
-   "scan": 78,
+   "scan": 81,
    "c2": 3
   },
-  "events": 85,
+  "events": 88,
   "first_seen": "2026-11-16T19:22:21Z",
-  "last_seen": "2026-11-19T01:52:55Z",
+  "last_seen": "2026-11-19T06:10:26Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -66343,11 +66431,11 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-   "scan": 79
+   "scan": 81
   },
-  "events": 79,
+  "events": 81,
   "first_seen": "2026-11-11T20:17:25Z",
-  "last_seen": "2026-11-18T20:29:36Z",
+  "last_seen": "2026-11-19T06:32:28Z",
   "reported": "2026-11-11T16:35:25Z"
  },
  {
@@ -66591,12 +66679,12 @@
   "asn": 20052,
   "asn_org": "Arbor Networks, Inc.",
   "categories": {
-   "scan": 52,
+   "scan": 53,
    "c2": 9
   },
-  "events": 68,
+  "events": 69,
   "first_seen": "2026-11-12T04:14:50Z",
-  "last_seen": "2026-11-19T04:00:00Z",
+  "last_seen": "2026-11-19T05:38:49Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -67831,12 +67919,12 @@
   "asn": 21859,
   "asn_org": "Zenlayer Inc",
   "categories": {
-   "scan": 8,
-   "c2": 8
+   "scan": 9,
+   "c2": 9
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-11T10:52:37Z",
-  "last_seen": "2026-11-18T20:51:01Z",
+  "last_seen": "2026-11-19T05:32:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -68233,12 +68321,12 @@
   "asn": 32475,
   "asn_org": "Internap Holding LLC",
   "categories": {
-   "scan": 173,
+   "scan": 176,
    "c2": 13
   },
-  "events": 195,
+  "events": 198,
   "first_seen": "2026-11-11T12:28:35Z",
-  "last_seen": "2026-11-19T04:55:33Z",
+  "last_seen": "2026-11-19T05:33:43Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -68844,11 +68932,11 @@
   "asn_org": "Alibaba (US) Technology Co., Ltd.",
   "categories": {
    "scan": 3,
-   "c2": 2
+   "c2": 3
   },
-  "events": 5,
+  "events": 6,
   "first_seen": "2026-11-12T14:37:58Z",
-  "last_seen": "2026-11-19T05:17:31Z",
+  "last_seen": "2026-11-19T05:18:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69485,12 +69573,12 @@
   "asn": 63199,
   "asn_org": "CDS Global Cloud Co., Ltd",
   "categories": {
-   "scan": 130,
+   "scan": 131,
    "c2": 23
   },
-  "events": 173,
+  "events": 174,
   "first_seen": "2026-11-11T11:33:14Z",
-  "last_seen": "2026-11-19T03:12:06Z",
+  "last_seen": "2026-11-19T05:51:45Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69500,11 +69588,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 49
+   "scan": 50
   },
-  "events": 66,
+  "events": 68,
   "first_seen": "2026-11-12T00:33:37Z",
-  "last_seen": "2026-11-18T19:04:57Z",
+  "last_seen": "2026-11-19T06:09:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69542,11 +69630,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 45
+   "scan": 47
   },
-  "events": 64,
+  "events": 66,
   "first_seen": "2026-11-11T10:24:04Z",
-  "last_seen": "2026-11-19T03:03:53Z",
+  "last_seen": "2026-11-19T05:58:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69584,11 +69672,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 38
+   "scan": 39
   },
-  "events": 57,
+  "events": 58,
   "first_seen": "2026-11-11T12:05:37Z",
-  "last_seen": "2026-11-19T00:53:52Z",
+  "last_seen": "2026-11-19T05:25:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69712,11 +69800,12 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 42
+   "scan": 43,
+   "c2": 1
   },
-  "events": 61,
+  "events": 63,
   "first_seen": "2026-11-11T15:44:46Z",
-  "last_seen": "2026-11-19T00:26:34Z",
+  "last_seen": "2026-11-19T05:19:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69754,11 +69843,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 48
+   "scan": 49
   },
-  "events": 67,
+  "events": 68,
   "first_seen": "2026-11-11T13:44:09Z",
-  "last_seen": "2026-11-19T04:54:08Z",
+  "last_seen": "2026-11-19T05:42:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -69889,6 +69978,20 @@
   "reported": "not reported (permanent ban)"
  },
  {
+  "ip": "45.79.191.178",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+   "scan": 20
+  },
+  "events": 31,
+  "first_seen": "2026-11-12T01:31:37Z",
+  "last_seen": "2026-11-19T05:38:57Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
   "ip": "45.79.221.215",
   "country_code": "US",
   "country": "United States",
@@ -69996,11 +70099,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 41
+   "scan": 42
   },
-  "events": 58,
+  "events": 59,
   "first_seen": "2026-11-12T03:01:49Z",
-  "last_seen": "2026-11-19T02:19:41Z",
+  "last_seen": "2026-11-19T05:35:53Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70024,12 +70127,12 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 38,
+   "scan": 39,
    "c2": 18
   },
-  "events": 57,
+  "events": 58,
   "first_seen": "2026-11-11T11:30:12Z",
-  "last_seen": "2026-11-19T04:53:11Z",
+  "last_seen": "2026-11-19T06:06:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70053,11 +70156,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 48
+   "scan": 49
   },
-  "events": 68,
+  "events": 70,
   "first_seen": "2026-11-11T15:31:42Z",
-  "last_seen": "2026-11-18T21:50:31Z",
+  "last_seen": "2026-11-19T05:20:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70109,11 +70212,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 40
+   "scan": 41
   },
-  "events": 57,
+  "events": 58,
   "first_seen": "2026-11-12T03:55:17Z",
-  "last_seen": "2026-11-19T04:02:18Z",
+  "last_seen": "2026-11-19T05:31:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70137,11 +70240,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 44
+   "scan": 45
   },
-  "events": 57,
+  "events": 59,
   "first_seen": "2026-11-11T12:11:09Z",
-  "last_seen": "2026-11-19T03:57:18Z",
+  "last_seen": "2026-11-19T05:27:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70151,11 +70254,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 43
+   "scan": 44
   },
-  "events": 61,
+  "events": 62,
   "first_seen": "2026-11-11T12:18:13Z",
-  "last_seen": "2026-11-19T01:38:02Z",
+  "last_seen": "2026-11-19T05:25:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70221,11 +70324,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 38
+   "scan": 39
   },
-  "events": 56,
+  "events": 57,
   "first_seen": "2026-11-11T16:18:25Z",
-  "last_seen": "2026-11-19T03:02:18Z",
+  "last_seen": "2026-11-19T05:28:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70305,11 +70408,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 41
+   "scan": 42
   },
-  "events": 59,
+  "events": 61,
   "first_seen": "2026-11-11T11:52:37Z",
-  "last_seen": "2026-11-19T02:47:21Z",
+  "last_seen": "2026-11-19T06:09:18Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70375,12 +70478,12 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 19,
-   "c2": 9
+   "scan": 20,
+   "c2": 10
   },
-  "events": 29,
+  "events": 31,
   "first_seen": "2026-11-11T13:29:28Z",
-  "last_seen": "2026-11-18T21:19:27Z",
+  "last_seen": "2026-11-19T06:00:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70432,11 +70535,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 26
+   "scan": 27
   },
-  "events": 38,
+  "events": 39,
   "first_seen": "2026-11-11T09:49:48Z",
-  "last_seen": "2026-11-19T04:02:18Z",
+  "last_seen": "2026-11-19T05:27:28Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70532,11 +70635,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 43
+   "scan": 44
   },
-  "events": 62,
+  "events": 63,
   "first_seen": "2026-11-11T12:28:21Z",
-  "last_seen": "2026-11-19T03:35:27Z",
+  "last_seen": "2026-11-19T06:10:31Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70588,11 +70691,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 41
+   "scan": 42
   },
-  "events": 57,
+  "events": 59,
   "first_seen": "2026-11-11T23:49:29Z",
-  "last_seen": "2026-11-18T15:17:35Z",
+  "last_seen": "2026-11-19T05:24:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70602,11 +70705,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 31
+   "scan": 32
   },
-  "events": 45,
+  "events": 47,
   "first_seen": "2026-11-13T16:39:17Z",
-  "last_seen": "2026-11-19T03:24:03Z",
+  "last_seen": "2026-11-19T05:55:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70718,12 +70821,12 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 52,
+   "scan": 53,
    "c2": 10
   },
-  "events": 75,
+  "events": 76,
   "first_seen": "2026-11-11T16:35:09Z",
-  "last_seen": "2026-11-19T01:59:53Z",
+  "last_seen": "2026-11-19T05:20:30Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70762,11 +70865,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 41
+   "scan": 42
   },
-  "events": 58,
+  "events": 59,
   "first_seen": "2026-11-12T08:14:27Z",
-  "last_seen": "2026-11-19T02:18:40Z",
+  "last_seen": "2026-11-19T05:47:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -70832,11 +70935,11 @@
   "asn": 63949,
   "asn_org": "Akamai Technologies, Inc.",
   "categories": {
-   "scan": 48
+   "scan": 49
   },
-  "events": 66,
+  "events": 67,
   "first_seen": "2026-11-11T13:06:14Z",
-  "last_seen": "2026-11-19T01:43:20Z",
+  "last_seen": "2026-11-19T05:52:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -71817,11 +71920,11 @@
   "asn": 200391,
   "asn_org": "KREZ 999 EOOD",
   "categories": {
-   "scan": 349
+   "scan": 350
   },
-  "events": 403,
+  "events": 404,
   "first_seen": "2026-11-11T09:57:51Z",
-  "last_seen": "2026-11-19T05:02:01Z",
+  "last_seen": "2026-11-19T06:12:54Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -72056,6 +72159,21 @@
   "events": 18,
   "first_seen": "2026-11-12T05:51:52Z",
   "last_seen": "2026-11-17T18:48:54Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
+  "ip": "45.156.129.72",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 211680,
+  "asn_org": "NSEC - Sistemas Informaticos, S.A.",
+  "categories": {
+   "scan": 2,
+   "c2": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-14T10:45:59Z",
+  "last_seen": "2026-11-19T06:01:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -72884,6 +73002,21 @@
   "reported": "not reported (permanent ban)"
  },
  {
+  "ip": "45.156.129.171",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 211680,
+  "asn_org": "NSEC - Sistemas Informaticos, S.A.",
+  "categories": {
+   "scan": 2,
+   "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-12T04:24:22Z",
+  "last_seen": "2026-11-19T00:05:35Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
   "ip": "45.156.129.172",
   "country_code": "US",
   "country": "United States",
@@ -72971,6 +73104,21 @@
   "events": 10,
   "first_seen": "2026-11-11T19:02:04Z",
   "last_seen": "2026-11-16T09:03:14Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
+  "ip": "45.156.129.178",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 211680,
+  "asn_org": "NSEC - Sistemas Informaticos, S.A.",
+  "categories": {
+   "scan": 1,
+   "c2": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-18T14:39:31Z",
+  "last_seen": "2026-11-18T14:39:45Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -75173,11 +75321,11 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "scan": 32
+   "scan": 33
   },
-  "events": 48,
+  "events": 50,
   "first_seen": "2026-11-11T21:57:19Z",
-  "last_seen": "2026-11-18T00:35:06Z",
+  "last_seen": "2026-11-19T05:20:34Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -75316,11 +75464,11 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "scan": 41
+   "scan": 42
   },
-  "events": 56,
+  "events": 58,
   "first_seen": "2026-11-12T00:07:44Z",
-  "last_seen": "2026-11-19T03:36:52Z",
+  "last_seen": "2026-11-19T06:10:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -75431,11 +75579,11 @@
   "asn": 396982,
   "asn_org": "Google LLC",
   "categories": {
-   "scan": 30
+   "scan": 31
   },
-  "events": 45,
+  "events": 47,
   "first_seen": "2026-11-12T02:47:12Z",
-  "last_seen": "2026-11-18T08:32:24Z",
+  "last_seen": "2026-11-19T06:01:12Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -76996,12 +77144,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 38,
-   "c2": 7
+   "scan": 39,
+   "c2": 8
   },
-  "events": 47,
+  "events": 49,
   "first_seen": "2026-11-11T10:32:43Z",
-  "last_seen": "2026-11-16T00:34:28Z",
+  "last_seen": "2026-11-19T05:56:06Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77088,12 +77236,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 25,
+   "scan": 26,
    "c2": 8
   },
-  "events": 40,
+  "events": 41,
   "first_seen": "2026-11-11T11:24:06Z",
-  "last_seen": "2026-11-19T01:25:52Z",
+  "last_seen": "2026-11-19T06:14:27Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77103,13 +77251,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 23,
-   "c2": 8,
+   "scan": 24,
+   "c2": 9,
    "exploit": 1
   },
-  "events": 33,
+  "events": 35,
   "first_seen": "2026-11-11T11:17:21Z",
-  "last_seen": "2026-11-15T07:23:07Z",
+  "last_seen": "2026-11-19T05:25:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77119,13 +77267,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 39,
+   "scan": 40,
    "c2": 8,
    "exploit": 1
   },
-  "events": 49,
+  "events": 50,
   "first_seen": "2026-11-11T10:14:13Z",
-  "last_seen": "2026-11-19T04:06:22Z",
+  "last_seen": "2026-11-19T05:46:05Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77135,13 +77283,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 41,
-   "c2": 9,
+   "scan": 42,
+   "c2": 10,
    "exploit": 2
   },
-  "events": 57,
+  "events": 59,
   "first_seen": "2026-11-11T10:09:43Z",
-  "last_seen": "2026-11-16T05:52:57Z",
+  "last_seen": "2026-11-19T06:15:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77182,12 +77330,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 17,
+   "scan": 18,
    "c2": 7
   },
-  "events": 26,
+  "events": 27,
   "first_seen": "2026-11-11T12:09:59Z",
-  "last_seen": "2026-11-19T04:51:05Z",
+  "last_seen": "2026-11-19T06:02:55Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77197,12 +77345,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 115,
-   "c2": 22
+   "scan": 118,
+   "c2": 23
   },
-  "events": 143,
+  "events": 147,
   "first_seen": "2026-11-11T16:00:09Z",
-  "last_seen": "2026-11-19T02:17:01Z",
+  "last_seen": "2026-11-19T05:34:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -77212,12 +77360,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 33,
-   "c2": 8
+   "scan": 35,
+   "c2": 9
   },
-  "events": 43,
+  "events": 46,
   "first_seen": "2026-11-11T10:20:20Z",
-  "last_seen": "2026-11-16T15:10:04Z",
+  "last_seen": "2026-11-19T05:54:42Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -78973,12 +79121,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 134,
+   "scan": 136,
    "c2": 24
   },
-  "events": 159,
+  "events": 161,
   "first_seen": "2026-11-11T10:55:14Z",
-  "last_seen": "2026-11-19T04:29:13Z",
+  "last_seen": "2026-11-19T05:41:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -78988,11 +79136,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 43
+   "scan": 44
   },
-  "events": 44,
+  "events": 45,
   "first_seen": "2026-11-12T05:03:09Z",
-  "last_seen": "2026-11-19T03:29:28Z",
+  "last_seen": "2026-11-19T05:46:39Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79047,12 +79195,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 127,
-   "c2": 23
+   "scan": 128,
+   "c2": 24
   },
-  "events": 152,
+  "events": 154,
   "first_seen": "2026-11-11T09:46:00Z",
-  "last_seen": "2026-11-19T04:22:51Z",
+  "last_seen": "2026-11-19T05:38:20Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79062,12 +79210,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 139,
+   "scan": 141,
    "c2": 25
   },
-  "events": 166,
+  "events": 168,
   "first_seen": "2026-11-11T11:42:02Z",
-  "last_seen": "2026-11-19T02:57:46Z",
+  "last_seen": "2026-11-19T05:25:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79092,12 +79240,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 83,
-   "c2": 13
+   "scan": 84,
+   "c2": 14
   },
-  "events": 97,
+  "events": 99,
   "first_seen": "2026-11-11T09:46:22Z",
-  "last_seen": "2026-11-19T04:43:26Z",
+  "last_seen": "2026-11-19T06:03:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79107,11 +79255,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 29
+   "scan": 30
   },
-  "events": 30,
+  "events": 31,
   "first_seen": "2026-11-12T04:01:09Z",
-  "last_seen": "2026-11-19T00:11:33Z",
+  "last_seen": "2026-11-19T06:15:58Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79151,11 +79299,11 @@
   "asn_org": "Censys, Inc.",
   "categories": {
    "scan": 120,
-   "c2": 22
+   "c2": 23
   },
-  "events": 143,
+  "events": 144,
   "first_seen": "2026-11-11T11:03:05Z",
-  "last_seen": "2026-11-19T05:17:36Z",
+  "last_seen": "2026-11-19T05:18:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79301,12 +79449,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 8,
-   "c2": 4
+   "scan": 9,
+   "c2": 5
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-12T17:21:21Z",
-  "last_seen": "2026-11-18T21:06:45Z",
+  "last_seen": "2026-11-19T05:23:36Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79347,12 +79495,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 4,
-   "c2": 3
+   "scan": 5,
+   "c2": 4
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-17T08:10:33Z",
-  "last_seen": "2026-11-18T17:13:54Z",
+  "last_seen": "2026-11-19T06:11:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79516,13 +79664,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 126,
+   "scan": 128,
    "c2": 22,
    "exploit": 1
   },
-  "events": 151,
+  "events": 153,
   "first_seen": "2026-11-11T12:05:31Z",
-  "last_seen": "2026-11-19T03:28:44Z",
+  "last_seen": "2026-11-19T06:04:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79532,12 +79680,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 150,
+   "scan": 151,
    "c2": 22
   },
-  "events": 176,
+  "events": 177,
   "first_seen": "2026-11-11T10:10:44Z",
-  "last_seen": "2026-11-19T03:30:18Z",
+  "last_seen": "2026-11-19T05:41:52Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79563,13 +79711,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "c2": 11,
-   "scan": 31,
+   "c2": 12,
+   "scan": 32,
    "exploit": 1
   },
-  "events": 47,
+  "events": 49,
   "first_seen": "2026-11-11T12:29:57Z",
-  "last_seen": "2026-11-19T02:56:41Z",
+  "last_seen": "2026-11-19T05:58:08Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79579,12 +79727,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 38,
-   "c2": 11
+   "scan": 41,
+   "c2": 12
   },
-  "events": 50,
+  "events": 54,
   "first_seen": "2026-11-11T23:02:57Z",
-  "last_seen": "2026-11-18T22:38:11Z",
+  "last_seen": "2026-11-19T06:01:23Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79656,12 +79804,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 40,
-   "c2": 9
+   "scan": 41,
+   "c2": 10
   },
-  "events": 51,
+  "events": 53,
   "first_seen": "2026-11-12T03:55:47Z",
-  "last_seen": "2026-11-19T01:50:51Z",
+  "last_seen": "2026-11-19T05:37:18Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79788,11 +79936,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 24
+   "scan": 25
   },
-  "events": 25,
+  "events": 26,
   "first_seen": "2026-11-12T04:06:58Z",
-  "last_seen": "2026-11-19T03:30:55Z",
+  "last_seen": "2026-11-19T06:04:43Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79847,11 +79995,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 23
+   "scan": 24
   },
-  "events": 24,
+  "events": 25,
   "first_seen": "2026-11-12T03:55:02Z",
-  "last_seen": "2026-11-19T04:07:06Z",
+  "last_seen": "2026-11-19T05:30:31Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79876,12 +80024,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 108,
-   "c2": 22
+   "scan": 109,
+   "c2": 23
   },
-  "events": 131,
+  "events": 133,
   "first_seen": "2026-11-11T12:43:57Z",
-  "last_seen": "2026-11-19T00:56:55Z",
+  "last_seen": "2026-11-19T05:43:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79922,12 +80070,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 194,
+   "scan": 196,
    "c2": 27
   },
-  "events": 229,
+  "events": 231,
   "first_seen": "2026-11-11T10:33:41Z",
-  "last_seen": "2026-11-19T02:15:07Z",
+  "last_seen": "2026-11-19T05:43:07Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -79983,13 +80131,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 183,
+   "scan": 184,
    "c2": 26,
    "exploit": 2
   },
-  "events": 216,
+  "events": 217,
   "first_seen": "2026-11-11T09:50:44Z",
-  "last_seen": "2026-11-19T05:10:23Z",
+  "last_seen": "2026-11-19T06:05:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80076,13 +80224,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 53,
+   "scan": 54,
    "c2": 13,
    "exploit": 1
   },
-  "events": 70,
+  "events": 71,
   "first_seen": "2026-11-11T14:54:21Z",
-  "last_seen": "2026-11-19T01:56:20Z",
+  "last_seen": "2026-11-19T05:24:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80123,12 +80271,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 171,
-   "c2": 24
+   "scan": 172,
+   "c2": 25
   },
-  "events": 200,
+  "events": 202,
   "first_seen": "2026-11-11T09:51:54Z",
-  "last_seen": "2026-11-18T20:25:04Z",
+  "last_seen": "2026-11-19T05:34:46Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80138,12 +80286,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 152,
+   "scan": 154,
    "c2": 25
   },
-  "events": 182,
+  "events": 184,
   "first_seen": "2026-11-11T13:27:09Z",
-  "last_seen": "2026-11-19T01:37:59Z",
+  "last_seen": "2026-11-19T06:00:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80196,11 +80344,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 41
+   "scan": 42
   },
-  "events": 42,
+  "events": 43,
   "first_seen": "2026-11-12T03:57:50Z",
-  "last_seen": "2026-11-18T22:45:30Z",
+  "last_seen": "2026-11-19T05:58:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80210,12 +80358,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 196,
-   "c2": 25
+   "scan": 198,
+   "c2": 26
   },
-  "events": 225,
+  "events": 228,
   "first_seen": "2026-11-11T11:31:28Z",
-  "last_seen": "2026-11-18T22:37:11Z",
+  "last_seen": "2026-11-19T05:31:44Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80312,11 +80460,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 45
+   "scan": 46
   },
-  "events": 46,
+  "events": 47,
   "first_seen": "2026-11-12T04:12:48Z",
-  "last_seen": "2026-11-19T03:50:38Z",
+  "last_seen": "2026-11-19T05:37:03Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80341,12 +80489,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 157,
+   "scan": 159,
    "c2": 24
   },
-  "events": 182,
+  "events": 184,
   "first_seen": "2026-11-11T11:40:27Z",
-  "last_seen": "2026-11-19T02:06:29Z",
+  "last_seen": "2026-11-19T05:40:38Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80524,13 +80672,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 5,
-   "c2": 4,
+   "scan": 6,
+   "c2": 5,
    "web": 4
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-13T09:27:09Z",
-  "last_seen": "2026-11-18T16:24:23Z",
+  "last_seen": "2026-11-19T06:06:16Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80849,12 +80997,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 5,
+   "scan": 6,
    "c2": 4
   },
-  "events": 10,
+  "events": 11,
   "first_seen": "2026-11-12T10:07:43Z",
-  "last_seen": "2026-11-19T03:05:54Z",
+  "last_seen": "2026-11-19T05:40:19Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -80948,6 +81096,21 @@
   "events": 11,
   "first_seen": "2026-11-12T20:16:22Z",
   "last_seen": "2026-11-18T06:30:26Z",
+  "reported": "not reported (permanent ban)"
+ },
+ {
+  "ip": "66.132.195.113",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 398324,
+  "asn_org": "Censys, Inc.",
+  "categories": {
+   "scan": 3,
+   "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-12T05:07:11Z",
+  "last_seen": "2026-11-19T06:09:04Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81182,12 +81345,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 99,
+   "scan": 100,
    "c2": 25
   },
-  "events": 126,
+  "events": 127,
   "first_seen": "2026-11-11T09:59:49Z",
-  "last_seen": "2026-11-19T03:15:48Z",
+  "last_seen": "2026-11-19T05:32:09Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81291,12 +81454,12 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 95,
+   "scan": 96,
    "c2": 15
   },
-  "events": 118,
+  "events": 119,
   "first_seen": "2026-11-12T04:13:35Z",
-  "last_seen": "2026-11-19T03:19:37Z",
+  "last_seen": "2026-11-19T06:16:50Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81306,13 +81469,13 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 1,
+   "scan": 2,
    "exploit": 1,
-   "c2": 2
+   "c2": 3
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-13T03:21:39Z",
-  "last_seen": "2026-11-15T22:37:58Z",
+  "last_seen": "2026-11-19T06:00:10Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81487,12 +81650,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 139,
-   "c2": 24
+   "scan": 140,
+   "c2": 25
   },
-  "events": 165,
+  "events": 167,
   "first_seen": "2026-11-11T09:46:05Z",
-  "last_seen": "2026-11-19T05:06:33Z",
+  "last_seen": "2026-11-19T05:44:56Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81547,12 +81710,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 107,
+   "scan": 108,
    "c2": 16
   },
-  "events": 125,
+  "events": 126,
   "first_seen": "2026-11-11T10:32:12Z",
-  "last_seen": "2026-11-19T02:26:29Z",
+  "last_seen": "2026-11-19T05:21:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81562,12 +81725,12 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-   "scan": 164,
+   "scan": 165,
    "c2": 27
   },
-  "events": 195,
+  "events": 196,
   "first_seen": "2026-11-11T09:49:25Z",
-  "last_seen": "2026-11-19T04:19:57Z",
+  "last_seen": "2026-11-19T06:09:02Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -81883,11 +82046,11 @@
   "asn": 403005,
   "asn_org": "Blatant Technologies, LLC",
   "categories": {
-   "scan": 18
+   "scan": 19
   },
-  "events": 19,
+  "events": 20,
   "first_seen": "2026-11-15T18:55:52Z",
-  "last_seen": "2026-11-19T02:48:58Z",
+  "last_seen": "2026-11-19T05:31:40Z",
   "reported": "not reported (permanent ban)"
  },
  {
@@ -82073,11 +82236,11 @@
   "asn": 38731,
   "asn_org": "Vietel - CHT Compamy Ltd",
   "categories": {
-   "scan": 139
+   "scan": 142
   },
-  "events": 163,
+  "events": 167,
   "first_seen": "2026-11-11T09:45:56Z",
-  "last_seen": "2026-11-18T22:16:23Z",
+  "last_seen": "2026-11-19T06:10:00Z",
   "reported": "not reported (permanent ban)"
  },
  {

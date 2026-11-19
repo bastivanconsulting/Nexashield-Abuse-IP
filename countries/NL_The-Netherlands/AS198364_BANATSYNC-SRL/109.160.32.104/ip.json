@@ -7,10 +7,10 @@
   "categories": {
     "spamhaus": 5,
     "ssh": 24,
-    "scan": 88
+    "scan": 112
   },
-  "events": 117,
+  "events": 141,
   "first_seen": "2026-11-18T22:46:12Z",
-  "last_seen": "2026-11-19T05:34:24Z",
+  "last_seen": "2026-11-19T05:58:30Z",
   "reported": "2026-11-19T04:25:46Z"
 }

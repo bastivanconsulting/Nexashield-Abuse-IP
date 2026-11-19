@@ -7,10 +7,10 @@
 | IP | `93.152.221.50` |
 | Country | Germany (DE) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | SSH brute force (36), Spamhaus DROP-listed network (11) |
-| Events | 47 |
+| Activity | SSH brute force (40), Spamhaus DROP-listed network (13) |
+| Events | 53 |
 | First seen (UTC) | 2026-11-18T10:26:56Z |
-| Last seen (UTC) | 2026-11-19T05:07:27Z |
+| Last seen (UTC) | 2026-11-19T06:01:47Z |
 | Reported to network owner (UTC) | 2026-11-18T16:25:43Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

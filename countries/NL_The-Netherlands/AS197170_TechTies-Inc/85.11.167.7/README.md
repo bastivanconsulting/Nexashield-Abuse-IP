@@ -7,10 +7,10 @@
 | IP | `85.11.167.7` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Spamhaus DROP-listed network (381), Port scanning (196) |
-| Events | 577 |
+| Activity | Spamhaus DROP-listed network (383), Port scanning (196) |
+| Events | 579 |
 | First seen (UTC) | 2026-11-11T09:43:19Z |
-| Last seen (UTC) | 2026-11-19T05:15:52Z |
+| Last seen (UTC) | 2026-11-19T05:56:24Z |
 | Reported to network owner (UTC) | 2026-11-11T16:34:40Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

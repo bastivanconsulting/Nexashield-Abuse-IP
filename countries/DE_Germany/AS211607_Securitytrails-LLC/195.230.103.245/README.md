@@ -7,10 +7,10 @@
 | IP | `195.230.103.245` |
 | Country | Germany (DE) |
 | ASN | AS211607 · Securitytrails, LLC |
-| Activity | Port scanning (34) |
-| Events | 51 |
+| Activity | Port scanning (36) |
+| Events | 54 |
 | First seen (UTC) | 2026-11-11T12:16:28Z |
-| Last seen (UTC) | 2026-11-18T19:48:32Z |
+| Last seen (UTC) | 2026-11-19T05:58:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

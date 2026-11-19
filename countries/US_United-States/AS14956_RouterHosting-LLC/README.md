@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.61.144.149`](45.61.144.149/) | Port scanning (22) | 25 | 2026-11-19T03:11:20Z |
+| [`45.61.144.149`](45.61.144.149/) | Port scanning (23) | 27 | 2026-11-19T05:40:22Z |
 | [`144.172.86.162`](144.172.86.162/) | Abusive HTTP requests (266), Web injection payload blocked by WAF (11) | 277 | 2026-11-15T19:02:43Z |
 | [`2602:fa59:10:14c::1`](2602_fa59_10_14c__1/) | Abusive HTTP requests (6) | 6 | 2026-11-11T07:01:03Z |
 

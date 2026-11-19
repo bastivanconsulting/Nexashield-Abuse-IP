@@ -1,0 +1,16 @@
+{
+  "ip": "203.252.10.4",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 3786,
+  "asn_org": "LG DACOM Corporation",
+  "categories": {
+    "ssh": 4,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 9,
+  "first_seen": "2026-11-13T22:39:15Z",
+  "last_seen": "2026-11-19T06:15:04Z",
+  "reported": "not reported (permanent ban)"
+}
