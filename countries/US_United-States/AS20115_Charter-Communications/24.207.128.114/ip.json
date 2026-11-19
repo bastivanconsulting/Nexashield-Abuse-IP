@@ -5,10 +5,10 @@
   "asn": 20115,
   "asn_org": "Charter Communications",
   "categories": {
-    "ssh": 21,
-    "scan": 6
+    "ssh": 17,
+    "scan": 5
   },
-  "events": 27,
+  "events": 22,
   "first_seen": "2026-11-16T14:25:21Z",
   "last_seen": "2026-11-18T17:58:02Z",
   "reported": "2026-11-17T20:26:12Z"

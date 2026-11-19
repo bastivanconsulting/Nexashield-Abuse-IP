@@ -12,8 +12,8 @@
 | [`34.125.49.40`](34.125.49.40/) | Port scanning (8) | 8 | 2026-11-14T13:40:58Z |
 | [`34.125.179.242`](34.125.179.242/) | Abusive HTTP requests (1028), Web injection payload blocked by WAF (40) | 1068 | 2026-11-11T03:35:57Z |
 | [`34.148.17.138`](34.148.17.138/) | Abusive HTTP requests (213), Web injection payload blocked by WAF (2) | 215 | 2026-11-16T19:52:00Z |
-| [`35.193.228.113`](35.193.228.113/) | Abusive HTTP requests (643), Web injection payload blocked by WAF (30) | 673 | 2026-11-18T14:11:40Z |
-| [`35.223.124.108`](35.223.124.108/) | Abusive HTTP requests (6) | 6 | 2026-11-18T03:20:55Z |
+| [`35.193.228.113`](35.193.228.113/) | Abusive HTTP requests (410), Web injection payload blocked by WAF (26) | 436 | 2026-11-18T14:11:40Z |
+| [`35.223.124.108`](35.223.124.108/) | Abusive HTTP requests (3) | 3 | 2026-11-18T03:20:55Z |
 | [`35.245.194.25`](35.245.194.25/) | Abusive HTTP requests (373), Web injection payload blocked by WAF (26) | 399 | 2026-11-17T07:50:33Z |
 | [`104.198.46.187`](104.198.46.187/) | Abusive HTTP requests (224), Port scanning (1) | 225 | 2026-11-15T01:04:29Z |
 | [`136.67.178.123`](136.67.178.123/) | Abusive HTTP requests (157), Web injection payload blocked by WAF (22) | 179 | 2026-11-17T16:35:25Z |
@@ -27,7 +27,7 @@
 | [`216.25.89.72`](216.25.89.72/) | Port scanning (35) | 50 | 2026-11-17T18:18:27Z |
 | [`216.25.89.74`](216.25.89.74/) | Port scanning (36), Known botnet / C2 infrastructure (9) | 47 | 2026-11-18T00:43:18Z |
 | [`216.25.89.75`](216.25.89.75/) | Port scanning (36) | 50 | 2026-11-17T18:08:16Z |
-| [`216.25.89.77`](216.25.89.77/) | Port scanning (37), Known botnet / C2 infrastructure (15) | 53 | 2026-11-18T06:22:55Z |
+| [`216.25.89.77`](216.25.89.77/) | Port scanning (38), Known botnet / C2 infrastructure (16) | 55 | 2026-11-19T00:04:04Z |
 | [`216.25.89.80`](216.25.89.80/) | Port scanning (30) | 36 | 2026-11-18T18:45:45Z |
 | [`216.25.89.83`](216.25.89.83/) | Port scanning (32), Known botnet / C2 infrastructure (8) | 41 | 2026-11-14T18:38:05Z |
 | [`216.25.89.86`](216.25.89.86/) | Port scanning (38) | 53 | 2026-11-18T19:42:56Z |

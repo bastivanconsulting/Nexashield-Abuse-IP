@@ -7,8 +7,8 @@
 | IP | `27.219.135.7` |
 | Country | China (CN) |
 | ASN | AS4837 · CHINA UNICOM China169 Backbone |
-| Activity | SSH brute force (10), Port scanning (4) |
-| Events | 14 |
+| Activity | SSH brute force (5), Port scanning (2) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-18T02:44:53Z |
 | Last seen (UTC) | 2026-11-18T02:45:29Z |
 | Reported to network owner (UTC) | 2026-11-18T04:25:50Z |

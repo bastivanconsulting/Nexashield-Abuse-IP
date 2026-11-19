@@ -15,7 +15,7 @@
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
 | [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (250), Known botnet / C2 infrastructure (24), Exploitation attempt (CVE / RCE / injection) (7) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 1 | Port scanning (3), Known botnet / C2 infrastructure (2) |
-| [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (284), Port scanning (4) |
+| [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8402](AS8402_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | Port scanning (12), Known botnet / C2 infrastructure (8) |
 
 ---

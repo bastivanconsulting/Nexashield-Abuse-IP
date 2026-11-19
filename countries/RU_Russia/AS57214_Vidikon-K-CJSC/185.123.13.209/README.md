@@ -7,8 +7,8 @@
 | IP | `185.123.13.209` |
 | Country | Russia (RU) |
 | ASN | AS57214 · Vidikon-K, CJSC |
-| Activity | SSH brute force (284), Port scanning (4) |
-| Events | 288 |
+| Activity | SSH brute force (142), Port scanning (2) |
+| Events | 144 |
 | First seen (UTC) | 2026-11-18T03:08:51Z |
 | Last seen (UTC) | 2026-11-18T03:09:21Z |
 | Reported to network owner (UTC) | 2026-11-18T04:25:45Z |

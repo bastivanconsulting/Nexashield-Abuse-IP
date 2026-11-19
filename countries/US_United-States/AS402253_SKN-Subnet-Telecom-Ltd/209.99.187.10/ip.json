@@ -5,11 +5,11 @@
   "asn": 402253,
   "asn_org": "SKN Subnet & Telecom Ltd",
   "categories": {
-    "spamhaus": 2,
+    "spamhaus": 1,
     "waf": 1,
     "exploit": 3
   },
-  "events": 6,
+  "events": 5,
   "first_seen": "2026-11-14T00:22:43Z",
   "last_seen": "2026-11-18T16:19:49Z",
   "reported": "2026-11-14T02:25:58Z"

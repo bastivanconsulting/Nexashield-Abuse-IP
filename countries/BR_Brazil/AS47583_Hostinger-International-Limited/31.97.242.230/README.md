@@ -7,8 +7,8 @@
 | IP | `31.97.242.230` |
 | Country | Brazil (BR) |
 | ASN | AS47583 · Hostinger International Limited |
-| Activity | SSH brute force (10), Port scanning (4) |
-| Events | 14 |
+| Activity | SSH brute force (5), Port scanning (2) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-18T10:24:01Z |
 | Last seen (UTC) | 2026-11-18T10:24:13Z |
 | Reported to network owner (UTC) | 2026-11-18T12:25:29Z |

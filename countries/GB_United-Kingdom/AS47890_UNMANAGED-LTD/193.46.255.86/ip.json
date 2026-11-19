@@ -5,11 +5,11 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-    "ssh": 574,
-    "spamhaus": 102
+    "ssh": 501,
+    "spamhaus": 99
   },
-  "events": 676,
+  "events": 600,
   "first_seen": "2026-11-09T18:41:28Z",
-  "last_seen": "2026-11-18T22:15:33Z",
+  "last_seen": "2026-11-18T23:37:57Z",
   "reported": "2026-11-11T17:05:43Z"
 }

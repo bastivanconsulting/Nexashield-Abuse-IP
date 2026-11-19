@@ -7,8 +7,8 @@
 | IP | `35.87.209.158` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Abusive HTTP requests (6) |
-| Events | 6 |
+| Activity | Abusive HTTP requests (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-18T05:22:29Z |
 | Last seen (UTC) | 2026-11-18T05:22:35Z |
 | Reported to network owner (UTC) | 2026-11-18T06:25:22Z |

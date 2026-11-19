@@ -7,8 +7,8 @@
 | IP | `35.223.124.108` |
 | Country | United States (US) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (6) |
-| Events | 6 |
+| Activity | Abusive HTTP requests (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-18T03:20:53Z |
 | Last seen (UTC) | 2026-11-18T03:20:55Z |
 | Reported to network owner (UTC) | 2026-11-18T04:25:59Z |

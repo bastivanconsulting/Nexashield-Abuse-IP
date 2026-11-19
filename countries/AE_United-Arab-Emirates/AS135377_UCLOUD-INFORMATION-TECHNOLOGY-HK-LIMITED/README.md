@@ -1,10 +1,11 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇦🇪 United Arab Emirates · **3** malicious IP(s)
+🇦🇪 United Arab Emirates · **4** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`152.32.180.86`](152.32.180.86/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-17T05:27:25Z |
+| [`152.32.180.98`](152.32.180.98/) | Port scanning (9), Known botnet / C2 infrastructure (2) | 16 | 2026-11-19T00:02:03Z |
 | [`152.32.181.108`](152.32.181.108/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 13 | 2026-11-16T19:07:47Z |
 | [`165.154.12.139`](165.154.12.139/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 14 | 2026-11-16T03:03:46Z |
 

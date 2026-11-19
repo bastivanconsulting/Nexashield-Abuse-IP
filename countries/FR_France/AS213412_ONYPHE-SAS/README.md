@@ -97,7 +97,7 @@
 | [`91.231.89.118`](91.231.89.118/) | Port scanning (14), Known botnet / C2 infrastructure (1) | 16 | 2026-11-14T21:56:54Z |
 | [`91.231.89.119`](91.231.89.119/) | Port scanning (22), Known botnet / C2 infrastructure (4) | 29 | 2026-11-16T06:52:13Z |
 | [`91.231.89.128`](91.231.89.128/) | Port scanning (66), Known botnet / C2 infrastructure (14) | 81 | 2026-11-18T02:46:45Z |
-| [`91.231.89.129`](91.231.89.129/) | Port scanning (92), Known botnet / C2 infrastructure (16) | 112 | 2026-11-18T22:41:19Z |
+| [`91.231.89.129`](91.231.89.129/) | Port scanning (93), Known botnet / C2 infrastructure (17) | 114 | 2026-11-19T00:01:31Z |
 | [`91.231.89.132`](91.231.89.132/) | Port scanning (31), Known botnet / C2 infrastructure (3) | 38 | 2026-11-13T02:16:03Z |
 | [`91.231.89.135`](91.231.89.135/) | Port scanning (77), Known botnet / C2 infrastructure (8) | 88 | 2026-11-18T03:31:19Z |
 | [`91.231.89.144`](91.231.89.144/) | Port scanning (30), Known botnet / C2 infrastructure (7) | 38 | 2026-11-13T02:22:01Z |
@@ -109,7 +109,7 @@
 | [`91.231.89.157`](91.231.89.157/) | Port scanning (27), Known botnet / C2 infrastructure (8) | 36 | 2026-11-16T05:36:41Z |
 | [`91.231.89.160`](91.231.89.160/) | Port scanning (19), Known botnet / C2 infrastructure (10) | 32 | 2026-11-18T17:03:59Z |
 | [`91.231.89.161`](91.231.89.161/) | Port scanning (19), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (2) | 36 | 2026-11-18T20:31:42Z |
-| [`91.231.89.162`](91.231.89.162/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-18T17:24:18Z |
+| [`91.231.89.162`](91.231.89.162/) | Port scanning (16), Known botnet / C2 infrastructure (12) | 29 | 2026-11-19T00:00:01Z |
 | [`91.231.89.163`](91.231.89.163/) | Port scanning (20), Known botnet / C2 infrastructure (9) | 33 | 2026-11-18T20:52:01Z |
 | [`91.231.89.165`](91.231.89.165/) | Port scanning (18), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (2) | 33 | 2026-11-18T16:26:55Z |
 | [`91.231.89.166`](91.231.89.166/) | Port scanning (22) | 35 | 2026-11-18T19:55:06Z |

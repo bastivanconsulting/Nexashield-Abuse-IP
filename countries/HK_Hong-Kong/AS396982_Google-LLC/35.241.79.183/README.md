@@ -7,8 +7,8 @@
 | IP | `35.241.79.183` |
 | Country | Hong Kong (HK) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (836), Web injection payload blocked by WAF (12) |
-| Events | 848 |
+| Activity | Abusive HTTP requests (418), Web injection payload blocked by WAF (6) |
+| Events | 424 |
 | First seen (UTC) | 2026-11-18T08:06:11Z |
 | Last seen (UTC) | 2026-11-18T12:04:26Z |
 | Reported to network owner (UTC) | 2026-11-18T08:26:15Z |
