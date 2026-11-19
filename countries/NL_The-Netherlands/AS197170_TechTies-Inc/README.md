@@ -1,22 +1,23 @@
 # AS197170 · TechTies Inc.
 
-🇳🇱 The Netherlands · **22** malicious IP(s)
+🇳🇱 The Netherlands · **23** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.153.34.32`](45.153.34.32/) | Port scanning (92) | 93 | 2026-11-18T22:36:11Z |
 | [`45.153.34.87`](45.153.34.87/) | Port scanning (88) | 89 | 2026-11-19T01:53:57Z |
-| [`45.153.34.230`](45.153.34.230/) | Abusive HTTP requests (8), Known botnet / C2 infrastructure (3), Port scanning (3) | 15 | 2026-11-19T02:27:51Z |
+| [`45.153.34.230`](45.153.34.230/) | Abusive HTTP requests (8), Known botnet / C2 infrastructure (4), Port scanning (4) | 17 | 2026-11-19T03:37:55Z |
 | [`45.156.87.10`](45.156.87.10/) | Port scanning (16) | 18 | 2026-11-14T21:56:40Z |
 | [`45.156.87.50`](45.156.87.50/) | SSH brute force (25) | 25 | 2026-11-12T03:52:57Z |
 | [`45.156.87.72`](45.156.87.72/) | SSH brute force (17) | 17 | 2026-11-12T01:10:46Z |
 | [`45.156.87.78`](45.156.87.78/) | SSH brute force (6) | 6 | 2026-11-14T08:14:22Z |
+| [`45.156.87.96`](45.156.87.96/) | Abusive HTTP requests (3), Known botnet / C2 infrastructure (2), Port scanning (2) | 7 | 2026-11-18T20:50:55Z |
 | [`45.156.87.119`](45.156.87.119/) | Port scanning (14) | 14 | 2026-11-19T01:29:10Z |
 | [`45.156.87.127`](45.156.87.127/) | Port scanning (98) | 99 | 2026-11-19T02:20:03Z |
 | [`45.156.87.153`](45.156.87.153/) | SSH brute force (14), Port scanning (1) | 15 | 2026-11-16T12:16:11Z |
 | [`45.156.87.168`](45.156.87.168/) | SSH brute force (27) | 27 | 2026-11-12T01:37:24Z |
 | [`45.156.87.189`](45.156.87.189/) | SSH brute force (10) | 10 | 2026-11-12T21:22:13Z |
-| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (371), Port scanning (196) | 567 | 2026-11-19T01:52:36Z |
+| [`85.11.167.7`](85.11.167.7/) | Spamhaus DROP-listed network (377), Port scanning (196) | 573 | 2026-11-19T04:15:39Z |
 | [`85.11.167.37`](85.11.167.37/) | Port scanning (19), Known botnet / C2 infrastructure (9) | 29 | 2026-11-17T01:22:41Z |
 | [`85.11.167.72`](85.11.167.72/) | SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (3) | 21 | 2026-11-17T11:45:51Z |
 | [`85.11.167.192`](85.11.167.192/) | Port scanning (102), Abusive HTTP requests (1) | 107 | 2026-11-18T20:27:41Z |

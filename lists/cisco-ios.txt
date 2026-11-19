@@ -577,6 +577,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.83.60.78
  host 20.83.60.145
  host 20.83.60.153
+ host 20.83.153.124
  host 20.84.74.141
  host 20.84.147.13
  host 20.84.147.59
@@ -622,6 +623,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.118.242.5
  host 20.118.242.91
  host 20.118.251.35
+ host 20.118.251.121
  host 20.118.251.182
  host 20.118.252.14
  host 20.127.156.77
@@ -1438,6 +1440,7 @@ object-group network NEXASHIELD-ABUSE
  host 35.210.253.236
  host 35.210.255.198
  host 35.214.143.252
+ host 35.214.166.202
  host 35.214.174.17
  host 35.214.184.14
  host 35.214.226.14
@@ -1558,6 +1561,7 @@ object-group network NEXASHIELD-ABUSE
  host 40.119.45.230
  host 40.119.45.234
  host 40.119.46.0
+ host 40.123.240.128
  host 40.124.81.12
  host 40.124.82.37
  host 40.124.82.123
@@ -1860,6 +1864,7 @@ object-group network NEXASHIELD-ABUSE
  host 45.156.87.50
  host 45.156.87.72
  host 45.156.87.78
+ host 45.156.87.96
  host 45.156.87.119
  host 45.156.87.127
  host 45.156.87.153
@@ -2127,6 +2132,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.251.190.194
  host 47.251.242.252
  host 47.251.244.32
+ host 47.251.246.67
  host 47.251.249.208
  host 47.253.224.181
  host 47.254.22.110
@@ -2733,6 +2739,7 @@ object-group network NEXASHIELD-ABUSE
  host 77.239.124.115
  host 77.239.124.121
  host 77.239.124.130
+ host 77.239.124.132
  host 77.239.124.135
  host 77.239.124.137
  host 77.239.124.139
@@ -3664,6 +3671,7 @@ object-group network NEXASHIELD-ABUSE
  host 109.160.32.37
  host 109.160.32.40
  host 109.160.32.47
+ host 109.160.32.104
  host 109.160.32.106
  host 109.160.32.108
  host 109.160.32.117
@@ -3750,6 +3758,7 @@ object-group network NEXASHIELD-ABUSE
  host 118.194.251.58
  host 118.194.251.145
  host 118.195.150.149
+ host 118.195.163.19
  host 119.28.155.249
  host 119.195.45.76
  host 119.237.102.129
@@ -4511,6 +4520,7 @@ object-group network NEXASHIELD-ABUSE
  host 172.212.107.121
  host 172.212.203.13
  host 172.212.203.49
+ host 172.212.203.66
  host 172.212.203.91
  host 172.212.203.107
  host 172.212.203.125

@@ -1,0 +1,16 @@
+{
+  "ip": "40.123.240.128",
+  "country_code": "ZA",
+  "country": "South Africa",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "c2": 2,
+    "waf": 1,
+    "web": 4
+  },
+  "events": 13,
+  "first_seen": "2026-11-17T04:07:25Z",
+  "last_seen": "2026-11-18T09:50:45Z",
+  "reported": "not reported (permanent ban)"
+}

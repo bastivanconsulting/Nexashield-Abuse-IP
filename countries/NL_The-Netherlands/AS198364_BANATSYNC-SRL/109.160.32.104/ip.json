@@ -1,0 +1,16 @@
+{
+  "ip": "109.160.32.104",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 198364,
+  "asn_org": "BANATSYNC SRL",
+  "categories": {
+    "spamhaus": 3,
+    "ssh": 24,
+    "scan": 28
+  },
+  "events": 55,
+  "first_seen": "2026-11-18T22:46:12Z",
+  "last_seen": "2026-11-19T04:34:11Z",
+  "reported": "2026-11-19T04:25:46Z"
+}

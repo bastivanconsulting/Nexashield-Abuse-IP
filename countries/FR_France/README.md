@@ -1,12 +1,12 @@
 # 🇫🇷 France
 
-**254** malicious IP(s) across **18** network(s).
+**255** malicious IP(s) across **18** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (6841), Known botnet / C2 infrastructure (1405), Exploitation attempt (CVE / RCE / injection) (12), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 50 | Port scanning (1636), SSH brute force (470), Known botnet / C2 infrastructure (144) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 28 | Port scanning (1045), Known botnet / C2 infrastructure (110), Exploitation attempt (CVE / RCE / injection) (13), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 137 | Port scanning (6870), Known botnet / C2 infrastructure (1419), Exploitation attempt (CVE / RCE / injection) (13), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 51 | Port scanning (1657), SSH brute force (470), Known botnet / C2 infrastructure (147) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 28 | Port scanning (1074), Known botnet / C2 infrastructure (117), Exploitation attempt (CVE / RCE / injection) (13), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 8 | Port scanning (310), Known botnet / C2 infrastructure (26), Abusive HTTP requests (4), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 8 | Abusive HTTP requests (348), Port scanning (144), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (18) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 5 | Port scanning (209), Web injection payload blocked by WAF (8), Known botnet / C2 infrastructure (3), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (3) |

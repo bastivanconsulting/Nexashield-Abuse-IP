@@ -6,11 +6,11 @@
   "asn_org": "UNMANAGED LTD",
   "categories": {
     "ssh": 86,
-    "c2": 7,
-    "scan": 11
+    "c2": 8,
+    "scan": 12
   },
-  "events": 111,
+  "events": 113,
   "first_seen": "2026-11-11T01:33:54Z",
-  "last_seen": "2026-11-19T01:26:58Z",
+  "last_seen": "2026-11-19T03:52:08Z",
   "reported": "not reported (permanent ban)"
 }
