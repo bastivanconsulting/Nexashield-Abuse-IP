@@ -7,10 +7,10 @@
 | IP | `141.98.83.48` |
 | Country | Romania (RO) |
 | ASN | AS209588 · Flyservers S.A. |
-| Activity | Port scanning (246), Known botnet / C2 infrastructure (17) |
-| Events | 328 |
+| Activity | Port scanning (247), Known botnet / C2 infrastructure (18) |
+| Events | 330 |
 | First seen (UTC) | 2026-11-11T09:46:40Z |
-| Last seen (UTC) | 2026-11-18T11:52:22Z |
+| Last seen (UTC) | 2026-11-19T00:21:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

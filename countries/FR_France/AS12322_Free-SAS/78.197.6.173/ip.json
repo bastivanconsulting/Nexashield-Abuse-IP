@@ -1,0 +1,15 @@
+{
+  "ip": "78.197.6.173",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 12322,
+  "asn_org": "Free SAS",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-13T10:17:28Z",
+  "last_seen": "2026-11-19T01:16:04Z",
+  "reported": "not reported (permanent ban)"
+}

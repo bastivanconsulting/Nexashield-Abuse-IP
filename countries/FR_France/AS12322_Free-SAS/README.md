@@ -1,9 +1,10 @@
 # AS12322 · Free SAS
 
-🇫🇷 France · **1** malicious IP(s)
+🇫🇷 France · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`78.197.6.173`](78.197.6.173/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-19T01:16:04Z |
 | [`82.65.80.197`](82.65.80.197/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-14T15:30:06Z |
 
 ---

@@ -5,11 +5,11 @@
   "asn": 201401,
   "asn_org": "NewVM B.V.",
   "categories": {
-    "scan": 18,
-    "c2": 3
+    "scan": 19,
+    "c2": 4
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-14T04:32:24Z",
-  "last_seen": "2026-11-18T20:19:28Z",
+  "last_seen": "2026-11-19T00:21:20Z",
   "reported": "not reported (permanent ban)"
 }
