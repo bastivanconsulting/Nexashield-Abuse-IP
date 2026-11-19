@@ -565,6 +565,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 20.80.87.93
  network-object host 20.80.87.101
  network-object host 20.80.92.87
+ network-object host 20.80.92.151
  network-object host 20.80.92.163
  network-object host 20.80.92.173
  network-object host 20.80.98.237
@@ -599,6 +600,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 20.83.60.153
  network-object host 20.83.153.124
  network-object host 20.84.74.141
+ network-object host 20.84.113.94
  network-object host 20.84.147.13
  network-object host 20.84.147.59
  network-object host 20.87.218.237
@@ -2107,17 +2109,23 @@ object-group network NEXASHIELD-ABUSE
  network-object host 46.247.61.8
  network-object host 46.247.61.22
  network-object host 46.247.61.26
+ network-object host 46.247.61.34
  network-object host 46.247.61.36
  network-object host 46.247.61.44
  network-object host 46.247.61.47
  network-object host 46.247.61.54
+ network-object host 46.247.61.62
  network-object host 46.247.61.63
  network-object host 46.247.61.67
  network-object host 46.247.61.74
  network-object host 46.247.61.90
+ network-object host 46.247.61.93
+ network-object host 46.247.61.132
+ network-object host 46.247.61.150
  network-object host 46.247.61.154
  network-object host 46.247.61.158
  network-object host 46.247.61.164
+ network-object host 46.247.61.168
  network-object host 46.247.61.175
  network-object host 46.247.61.188
  network-object host 46.247.61.192
@@ -2125,6 +2133,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 46.247.61.200
  network-object host 46.247.61.202
  network-object host 46.247.61.211
+ network-object host 46.247.61.218
  network-object host 46.247.61.221
  network-object host 46.247.61.222
  network-object host 46.247.61.224
@@ -2144,6 +2153,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 47.84.112.68
  network-object host 47.84.112.180
  network-object host 47.84.114.18
+ network-object host 47.84.134.137
  network-object host 47.84.137.6
  network-object host 47.84.137.56
  network-object host 47.84.137.71
@@ -2164,6 +2174,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 47.89.247.18
  network-object host 47.89.248.96
  network-object host 47.91.75.137
+ network-object host 47.91.76.73
  network-object host 47.94.163.124
  network-object host 47.120.4.180
  network-object host 47.120.30.67
@@ -3838,6 +3849,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 109.160.32.168
  network-object host 109.160.32.170
  network-object host 109.160.32.171
+ network-object host 109.160.32.172
  network-object host 109.160.32.173
  network-object host 109.160.32.175
  network-object host 109.160.32.177
@@ -4031,6 +4043,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 139.19.117.130
  network-object host 139.19.117.197
  network-object host 139.59.37.187
+ network-object host 139.59.42.255
  network-object host 139.59.58.140
  network-object host 139.59.61.127
  network-object host 139.59.112.161
@@ -4404,6 +4417,8 @@ object-group network NEXASHIELD-ABUSE
  network-object host 158.94.187.7
  network-object host 158.94.187.9
  network-object host 158.94.187.13
+ network-object host 158.94.187.21
+ network-object host 158.94.187.26
  network-object host 158.94.187.27
  network-object host 158.94.187.30
  network-object host 158.94.187.41
@@ -4420,6 +4435,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 158.94.187.105
  network-object host 158.94.187.115
  network-object host 158.94.187.121
+ network-object host 158.94.187.127
  network-object host 158.94.187.145
  network-object host 158.94.187.146
  network-object host 158.94.187.148
@@ -4427,6 +4443,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 158.94.187.163
  network-object host 158.94.187.177
  network-object host 158.94.187.178
+ network-object host 158.94.187.198
  network-object host 158.94.187.215
  network-object host 158.94.187.216
  network-object host 158.94.187.232
@@ -4783,6 +4800,7 @@ object-group network NEXASHIELD-ABUSE
  network-object host 176.65.151.21
  network-object host 176.123.5.126
  network-object host 177.10.160.46
+ network-object host 177.27.76.210
  network-object host 177.104.131.33
  network-object host 177.112.215.133
  network-object host 177.129.209.239

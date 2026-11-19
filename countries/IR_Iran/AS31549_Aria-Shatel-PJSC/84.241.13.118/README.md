@@ -7,11 +7,11 @@
 | IP | `84.241.13.118` |
 | Country | Iran (IR) |
 | ASN | AS31549 · Aria Shatel PJSC |
-| Activity | SSH brute force (33), Known botnet / C2 infrastructure (1), Port scanning (1) |
-| Events | 37 |
+| Activity | SSH brute force (60), Port scanning (2) |
+| Events | 62 |
 | First seen (UTC) | 2026-11-19T13:00:12Z |
-| Last seen (UTC) | 2026-11-19T13:01:05Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-19T13:00:32Z |
+| Reported to network owner (UTC) | 2026-11-19T14:25:57Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

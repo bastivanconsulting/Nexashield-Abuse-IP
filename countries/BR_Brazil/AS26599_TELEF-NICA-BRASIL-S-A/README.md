@@ -1,9 +1,10 @@
 # AS26599 · TELEFÔNICA BRASIL S.A
 
-🇧🇷 Brazil · **2** malicious IP(s)
+🇧🇷 Brazil · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`177.27.76.210`](177.27.76.210/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-19T14:08:04Z |
 | [`177.112.215.133`](177.112.215.133/) | Port scanning (268) | 298 | 2026-11-18T01:57:49Z |
 | [`191.210.72.37`](191.210.72.37/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-18T15:44:03Z |
 

@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS31549](AS31549_Aria-Shatel-PJSC/) | Aria Shatel PJSC | 1 | SSH brute force (33), Known botnet / C2 infrastructure (1), Port scanning (1) |
+| [AS31549](AS31549_Aria-Shatel-PJSC/) | Aria Shatel PJSC | 1 | SSH brute force (60), Port scanning (2) |
 | [AS48715](AS48715_Sefroyek-Pardaz-Engineering-PJSC/) | Sefroyek Pardaz Engineering PJSC | 1 | SSH brute force (47) |
 
 ---
