@@ -5,12 +5,12 @@
   "asn": 219502,
   "asn_org": "Storm Industries LLC",
   "categories": {
-    "scan": 157,
+    "scan": 158,
     "web": 1,
-    "c2": 2
+    "c2": 3
   },
-  "events": 182,
+  "events": 184,
   "first_seen": "2026-11-14T03:39:51Z",
-  "last_seen": "2026-11-19T13:55:29Z",
+  "last_seen": "2026-11-19T15:33:37Z",
   "reported": "not reported (permanent ban)"
 }

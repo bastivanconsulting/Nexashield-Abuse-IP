@@ -5,11 +5,12 @@
   "asn": 135523,
   "asn_org": "Multinet Broadband",
   "categories": {
-    "scan": 9,
-    "c2": 7
+    "scan": 10,
+    "c2": 8,
+    "web": 1
   },
-  "events": 17,
+  "events": 21,
   "first_seen": "2026-11-12T02:49:57Z",
-  "last_seen": "2026-11-17T07:30:04Z",
+  "last_seen": "2026-11-19T16:12:43Z",
   "reported": "not reported (permanent ban)"
 }

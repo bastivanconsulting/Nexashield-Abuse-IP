@@ -67,7 +67,7 @@
 | [`89.21.67.142`](89.21.67.142/) | Port scanning (23), Known botnet / C2 infrastructure (8) | 32 | 2026-11-19T06:06:46Z |
 | [`89.21.67.143`](89.21.67.143/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-19T03:10:58Z |
 | [`89.21.67.144`](89.21.67.144/) | Port scanning (20), Known botnet / C2 infrastructure (11) | 32 | 2026-11-19T02:12:34Z |
-| [`89.21.67.145`](89.21.67.145/) | Port scanning (37), Known botnet / C2 infrastructure (18) | 56 | 2026-11-19T11:00:23Z |
+| [`89.21.67.145`](89.21.67.145/) | Port scanning (38), Known botnet / C2 infrastructure (18) | 57 | 2026-11-19T16:15:45Z |
 | [`89.21.67.147`](89.21.67.147/) | Port scanning (40), Known botnet / C2 infrastructure (19) | 60 | 2026-11-19T14:43:20Z |
 | [`89.21.67.148`](89.21.67.148/) | Port scanning (46), Known botnet / C2 infrastructure (19) | 66 | 2026-11-19T12:14:02Z |
 | [`89.21.67.149`](89.21.67.149/) | Port scanning (16), Known botnet / C2 infrastructure (6) | 23 | 2026-11-14T02:53:42Z |
@@ -168,7 +168,7 @@
 | [`193.176.31.201`](193.176.31.201/) | Port scanning (43), Known botnet / C2 infrastructure (19) | 63 | 2026-11-19T04:53:07Z |
 | [`193.176.31.202`](193.176.31.202/) | Port scanning (20), Known botnet / C2 infrastructure (7) | 28 | 2026-11-19T14:47:24Z |
 | [`193.176.31.203`](193.176.31.203/) | Port scanning (47), Known botnet / C2 infrastructure (19) | 67 | 2026-11-19T14:35:12Z |
-| [`193.176.31.204`](193.176.31.204/) | Port scanning (44), Known botnet / C2 infrastructure (21) | 66 | 2026-11-19T14:47:54Z |
+| [`193.176.31.204`](193.176.31.204/) | Port scanning (45), Known botnet / C2 infrastructure (21) | 67 | 2026-11-19T16:09:16Z |
 | [`193.176.31.205`](193.176.31.205/) | Port scanning (40), Known botnet / C2 infrastructure (4) | 60 | 2026-11-19T14:58:04Z |
 | [`193.176.31.206`](193.176.31.206/) | Port scanning (41), Known botnet / C2 infrastructure (18) | 60 | 2026-11-18T15:14:19Z |
 | [`193.176.31.207`](193.176.31.207/) | Port scanning (31), Known botnet / C2 infrastructure (11) | 43 | 2026-11-19T03:51:30Z |
@@ -198,14 +198,14 @@
 | [`193.176.31.232`](193.176.31.232/) | Port scanning (47), Known botnet / C2 infrastructure (21) | 69 | 2026-11-19T11:54:14Z |
 | [`193.176.31.233`](193.176.31.233/) | Port scanning (39), Known botnet / C2 infrastructure (17) | 58 | 2026-11-19T03:13:42Z |
 | [`193.176.31.234`](193.176.31.234/) | Port scanning (12), Known botnet / C2 infrastructure (5) | 18 | 2026-11-19T12:16:34Z |
-| [`193.176.31.236`](193.176.31.236/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-17T10:45:15Z |
+| [`193.176.31.236`](193.176.31.236/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-19T16:13:45Z |
 | [`193.176.31.237`](193.176.31.237/) | Port scanning (24), Known botnet / C2 infrastructure (4) | 32 | 2026-11-14T01:37:54Z |
 | [`193.176.31.238`](193.176.31.238/) | Port scanning (45), Known botnet / C2 infrastructure (20) | 67 | 2026-11-19T07:09:00Z |
 | [`193.176.31.239`](193.176.31.239/) | Port scanning (30), Known botnet / C2 infrastructure (17) | 48 | 2026-11-19T02:41:30Z |
 | [`193.176.31.240`](193.176.31.240/) | Port scanning (23), Known botnet / C2 infrastructure (10) | 35 | 2026-11-18T20:49:29Z |
 | [`193.176.31.241`](193.176.31.241/) | Port scanning (50), Known botnet / C2 infrastructure (19) | 71 | 2026-11-19T05:42:24Z |
 | [`193.176.31.242`](193.176.31.242/) | Port scanning (17), Known botnet / C2 infrastructure (7) | 25 | 2026-11-19T11:31:21Z |
-| [`193.176.31.243`](193.176.31.243/) | Port scanning (45), Known botnet / C2 infrastructure (19) | 65 | 2026-11-19T07:18:23Z |
+| [`193.176.31.243`](193.176.31.243/) | Port scanning (46), Known botnet / C2 infrastructure (20) | 67 | 2026-11-19T16:04:36Z |
 | [`193.176.31.244`](193.176.31.244/) | Port scanning (12), Known botnet / C2 infrastructure (6) | 19 | 2026-11-19T11:00:53Z |
 | [`193.176.31.245`](193.176.31.245/) | Port scanning (33), Known botnet / C2 infrastructure (17) | 51 | 2026-11-18T01:42:19Z |
 | [`193.176.31.247`](193.176.31.247/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 8 | 2026-11-17T20:58:59Z |

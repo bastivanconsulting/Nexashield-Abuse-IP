@@ -7,10 +7,10 @@
 | IP | `202.141.230.214` |
 | Country | Pakistan (PK) |
 | ASN | AS135523 · Multinet Broadband |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (7) |
-| Events | 17 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (8), Abusive HTTP requests (1) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-12T02:49:57Z |
-| Last seen (UTC) | 2026-11-17T07:30:04Z |
+| Last seen (UTC) | 2026-11-19T16:12:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

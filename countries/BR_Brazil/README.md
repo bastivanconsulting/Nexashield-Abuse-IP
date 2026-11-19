@@ -1,13 +1,13 @@
 # 🇧🇷 Brazil
 
-**30** malicious IP(s) across **16** network(s).
+**31** malicious IP(s) across **16** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (855), Known botnet / C2 infrastructure (70), Exploitation attempt (CVE / RCE / injection) (44) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (856), Known botnet / C2 infrastructure (70), Exploitation attempt (CVE / RCE / injection) (44) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (63), Known botnet / C2 infrastructure (16) |
+| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | SSH brute force (11), Known botnet / C2 infrastructure (8) |
 | [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | Port scanning (269), SSH brute force (9), Known botnet / C2 infrastructure (6) |
-| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (429), Web injection payload blocked by WAF (21) |
 | [AS7738](AS7738_V-tal/) | V tal | 2 | SSH brute force (9), Known botnet / C2 infrastructure (6) |
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
