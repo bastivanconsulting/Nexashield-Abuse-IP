@@ -89,6 +89,7 @@ object-group network NEXASHIELD-ABUSE
  host 2.57.122.168
  host 2.57.122.207
  host 2.57.122.209
+ host 2.74.196.126
  host 3.15.230.87
  host 3.82.152.46
  host 3.83.220.42
@@ -509,6 +510,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.65.169.82
  host 20.65.169.105
  host 20.65.169.130
+ host 20.65.169.148
  host 20.65.169.169
  host 20.65.169.178
  host 20.65.169.190
@@ -942,6 +944,7 @@ object-group network NEXASHIELD-ABUSE
  host 34.131.67.82
  host 34.131.248.132
  host 34.140.69.197
+ host 34.140.146.112
  host 34.140.193.194
  host 34.140.194.215
  host 34.141.39.127
@@ -1519,6 +1522,7 @@ object-group network NEXASHIELD-ABUSE
  host 37.10.113.221
  host 37.49.228.162
  host 37.120.213.13
+ host 37.202.152.171
  host 38.107.95.228
  host 38.132.109.100
  host 38.240.57.51
@@ -2162,6 +2166,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.77.235.89
  host 47.84.101.225
  host 47.84.102.157
+ host 47.84.102.180
  host 47.84.109.69
  host 47.84.112.68
  host 47.84.112.180
@@ -2297,6 +2302,7 @@ object-group network NEXASHIELD-ABUSE
  host 52.180.140.29
  host 52.186.180.9
  host 52.186.183.216
+ host 52.188.81.205
  host 52.188.184.71
  host 52.201.233.15
  host 52.201.244.70
@@ -2481,6 +2487,7 @@ object-group network NEXASHIELD-ABUSE
  host 66.132.159.98
  host 66.132.159.99
  host 66.132.159.102
+ host 66.132.159.104
  host 66.132.159.107
  host 66.132.159.108
  host 66.132.159.109
@@ -3700,6 +3707,7 @@ object-group network NEXASHIELD-ABUSE
  host 101.36.127.85
  host 101.36.127.95
  host 101.53.235.246
+ host 101.200.242.201
  host 101.245.71.219
  host 102.210.148.41
  host 102.220.45.186
@@ -4731,6 +4739,7 @@ object-group network NEXASHIELD-ABUSE
  host 172.202.115.71
  host 172.203.251.162
  host 172.206.243.83
+ host 172.208.105.128
  host 172.210.9.220
  host 172.210.67.88
  host 172.212.106.27
@@ -5747,6 +5756,7 @@ object-group network NEXASHIELD-ABUSE
  host 217.146.80.124
  host 217.209.81.63
  host 218.245.1.252
+ host 220.78.179.108
  host 220.123.222.114
  host 220.181.1.163
  host 221.130.29.85

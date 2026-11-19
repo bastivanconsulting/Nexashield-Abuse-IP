@@ -9,8 +9,8 @@
 | [`45.140.222.173`](45.140.222.173/) | Port scanning (27), Known botnet / C2 infrastructure (4) | 39 | 2026-11-16T17:35:35Z |
 | [`45.140.222.174`](45.140.222.174/) | Port scanning (68), Known botnet / C2 infrastructure (5) | 77 | 2026-11-16T19:47:11Z |
 | [`45.140.222.175`](45.140.222.175/) | Port scanning (50) | 60 | 2026-11-16T19:51:03Z |
-| [`80.82.77.33`](80.82.77.33/) | Port scanning (84), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 100 | 2026-11-19T18:44:01Z |
-| [`80.82.77.139`](80.82.77.139/) | Known botnet / C2 infrastructure (14) | 93 | 2026-11-19T17:47:32Z |
+| [`80.82.77.33`](80.82.77.33/) | Port scanning (86), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 102 | 2026-11-19T20:09:55Z |
+| [`80.82.77.139`](80.82.77.139/) | Known botnet / C2 infrastructure (15) | 96 | 2026-11-19T20:04:00Z |
 | [`89.248.168.36`](89.248.168.36/) | Port scanning (24), Known botnet / C2 infrastructure (10) | 35 | 2026-11-19T10:21:47Z |
 | [`93.174.95.106`](93.174.95.106/) | Known botnet / C2 infrastructure (7) | 37 | 2026-11-13T22:19:20Z |
 | [`94.102.49.190`](94.102.49.190/) | Abusive HTTP requests (15), Known botnet / C2 infrastructure (5) | 21 | 2026-11-19T17:23:19Z |
@@ -32,7 +32,7 @@
 | [`185.242.226.97`](185.242.226.97/) | Port scanning (174) | 209 | 2026-11-19T16:07:12Z |
 | [`185.242.226.103`](185.242.226.103/) | Port scanning (71), Known botnet / C2 infrastructure (9) | 90 | 2026-11-15T22:36:03Z |
 | [`185.242.226.104`](185.242.226.104/) | Port scanning (36), Known botnet / C2 infrastructure (9) | 50 | 2026-11-18T22:44:30Z |
-| [`185.242.226.166`](185.242.226.166/) | Port scanning (134), Known botnet / C2 infrastructure (24) | 172 | 2026-11-19T16:37:47Z |
+| [`185.242.226.166`](185.242.226.166/) | Port scanning (135), Known botnet / C2 infrastructure (24) | 173 | 2026-11-19T20:00:12Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

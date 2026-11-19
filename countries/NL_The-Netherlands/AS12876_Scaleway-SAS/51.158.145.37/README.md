@@ -7,10 +7,10 @@
 | IP | `51.158.145.37` |
 | Country | The Netherlands (NL) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (25) |
-| Events | 33 |
+| Activity | Port scanning (26) |
+| Events | 35 |
 | First seen (UTC) | 2026-11-11T10:29:59Z |
-| Last seen (UTC) | 2026-11-19T05:42:55Z |
+| Last seen (UTC) | 2026-11-19T19:39:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

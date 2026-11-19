@@ -1,0 +1,14 @@
+{
+  "ip": "2.74.196.126",
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "asn": 29355,
+  "asn_org": "Kcell JSC",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-19T19:16:22Z",
+  "last_seen": "2026-11-19T19:16:22Z",
+  "reported": "2026-11-19T20:26:47Z"
+}

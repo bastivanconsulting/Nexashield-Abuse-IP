@@ -7,10 +7,10 @@
 | IP | `13.140.58.111` |
 | Country | France (FR) |
 | ASN | AS141995 · Contabo Asia Private Limited |
-| Activity | Port scanning (31) |
-| Events | 44 |
+| Activity | Port scanning (33) |
+| Events | 47 |
 | First seen (UTC) | 2026-11-14T08:05:07Z |
-| Last seen (UTC) | 2026-11-19T09:21:49Z |
+| Last seen (UTC) | 2026-11-19T19:47:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
