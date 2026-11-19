@@ -1,0 +1,15 @@
+{
+  "ip": "91.147.90.36",
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "asn": 200590,
+  "asn_org": "NLS Kazakhstan LLC",
+  "categories": {
+    "scan": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-12T11:37:23Z",
+  "last_seen": "2026-11-19T04:55:03Z",
+  "reported": "not reported (permanent ban)"
+}

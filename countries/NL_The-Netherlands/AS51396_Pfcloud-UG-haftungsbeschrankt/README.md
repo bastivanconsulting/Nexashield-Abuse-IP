@@ -1,13 +1,14 @@
 # AS51396 · Pfcloud UG (haftungsbeschrankt)
 
-🇳🇱 The Netherlands · **16** malicious IP(s)
+🇳🇱 The Netherlands · **17** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.144.212.158`](45.144.212.158/) | Port scanning (193), Known botnet / C2 infrastructure (13), Abusive HTTP requests (4), Web injection payload blocked by WAF (1) | 220 | 2026-11-18T21:29:33Z |
 | [`176.65.148.4`](176.65.148.4/) | Port scanning (28) | 29 | 2026-11-18T12:18:04Z |
-| [`176.65.148.51`](176.65.148.51/) | Port scanning (87), Known botnet / C2 infrastructure (21), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) | 111 | 2026-11-19T03:11:58Z |
+| [`176.65.148.51`](176.65.148.51/) | Port scanning (88), Known botnet / C2 infrastructure (21), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) | 112 | 2026-11-19T04:27:35Z |
 | [`176.65.148.78`](176.65.148.78/) | Port scanning (15), Known botnet / C2 infrastructure (1) | 16 | 2026-11-18T20:40:35Z |
+| [`176.65.148.114`](176.65.148.114/) | Port scanning (51) | 51 | 2026-11-19T04:20:22Z |
 | [`176.65.148.122`](176.65.148.122/) | Port scanning (6) | 7 | 2026-11-14T18:12:59Z |
 | [`176.65.148.207`](176.65.148.207/) | Port scanning (12), Known botnet / C2 infrastructure (3) | 16 | 2026-11-16T05:48:43Z |
 | [`176.65.148.216`](176.65.148.216/) | Port scanning (32) | 32 | 2026-11-19T04:13:38Z |

@@ -4,14 +4,14 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 72 | Port scanning (1302), Known botnet / C2 infrastructure (577), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 72 | Port scanning (1307), Known botnet / C2 infrastructure (579), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
 | [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (3252), Abusive HTTP requests (1062), Spamhaus DROP-listed network (140), Known botnet / C2 infrastructure (40), Web injection payload blocked by WAF (5) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (614), Known botnet / C2 infrastructure (52) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (616), Known botnet / C2 infrastructure (52) |
 | [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1087), Known botnet / C2 infrastructure (51), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 2 | SSH brute force (152), Port scanning (10), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS138995](AS138995_Antbox-Networks-Limited/) | Antbox Networks Limited | 1 | Port scanning (8), Known botnet / C2 infrastructure (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (571), Abusive HTTP requests (40) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (573), Abusive HTTP requests (40) |
 | [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (139), Known botnet / C2 infrastructure (8), Abusive HTTP requests (6) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (40) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (418), Web injection payload blocked by WAF (6) |

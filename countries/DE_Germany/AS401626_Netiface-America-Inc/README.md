@@ -1,6 +1,6 @@
 # AS401626 · Netiface America, Inc.
 
-🇩🇪 Germany · **18** malicious IP(s)
+🇩🇪 Germany · **19** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -18,10 +18,11 @@
 | [`64.89.163.153`](64.89.163.153/) | Port scanning (21) | 22 | 2026-11-17T02:33:14Z |
 | [`64.89.163.163`](64.89.163.163/) | Port scanning (18) | 24 | 2026-11-16T14:19:04Z |
 | [`64.89.163.165`](64.89.163.165/) | Port scanning (28) | 39 | 2026-11-18T23:12:41Z |
+| [`64.89.163.166`](64.89.163.166/) | Port scanning (31) | 39 | 2026-11-18T17:22:29Z |
 | [`64.89.163.168`](64.89.163.168/) | Port scanning (29) | 38 | 2026-11-18T18:23:21Z |
 | [`64.89.163.169`](64.89.163.169/) | Port scanning (22) | 31 | 2026-11-18T22:18:04Z |
 | [`64.89.163.170`](64.89.163.170/) | Port scanning (12) | 14 | 2026-11-17T12:21:37Z |
-| [`64.89.163.178`](64.89.163.178/) | Port scanning (23) | 29 | 2026-11-18T06:36:48Z |
+| [`64.89.163.178`](64.89.163.178/) | Port scanning (31) | 41 | 2026-11-19T04:42:59Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

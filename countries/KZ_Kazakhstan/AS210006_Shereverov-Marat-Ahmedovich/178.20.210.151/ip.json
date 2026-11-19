@@ -5,11 +5,11 @@
   "asn": 210006,
   "asn_org": "Shereverov Marat Ahmedovich",
   "categories": {
-    "scan": 365,
+    "scan": 366,
     "c2": 19
   },
-  "events": 402,
+  "events": 403,
   "first_seen": "2026-11-11T09:59:53Z",
-  "last_seen": "2026-11-19T04:14:30Z",
+  "last_seen": "2026-11-19T04:55:29Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `148.153.56.170` |
 | Country | United States (US) |
 | ASN | AS63199 · CDS Global Cloud Co., Ltd |
-| Activity | Port scanning (176), Known botnet / C2 infrastructure (24) |
-| Events | 228 |
+| Activity | Port scanning (177), Known botnet / C2 infrastructure (24) |
+| Events | 229 |
 | First seen (UTC) | 2026-11-11T10:14:50Z |
-| Last seen (UTC) | 2026-11-19T02:53:45Z |
+| Last seen (UTC) | 2026-11-19T04:45:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

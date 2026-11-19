@@ -5,12 +5,12 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-    "spamhaus": 19,
-    "scan": 603,
-    "ssh": 156
+    "spamhaus": 23,
+    "scan": 607,
+    "ssh": 168
   },
-  "events": 778,
+  "events": 798,
   "first_seen": "2026-11-11T21:29:43Z",
-  "last_seen": "2026-11-19T04:34:23Z",
+  "last_seen": "2026-11-19T05:04:25Z",
   "reported": "2026-11-15T04:24:56Z"
 }

@@ -15,7 +15,7 @@
 | [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (20) |
 | [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (18) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |
-| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (31) |
+| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (32) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
