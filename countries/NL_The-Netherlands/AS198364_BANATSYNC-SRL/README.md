@@ -16,7 +16,7 @@
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23) | 73 | 2026-11-14T13:58:42Z |
 | [`109.160.32.121`](109.160.32.121/) | Port scanning (87), SSH brute force (12) | 99 | 2026-11-17T10:11:44Z |
 | [`109.160.32.124`](109.160.32.124/) | Port scanning (64), SSH brute force (23) | 87 | 2026-11-14T10:31:09Z |
-| [`109.160.32.125`](109.160.32.125/) | Port scanning (53), SSH brute force (7), Spamhaus DROP-listed network (1) | 61 | 2026-11-17T10:57:24Z |
+| [`109.160.32.125`](109.160.32.125/) | Port scanning (53), SSH brute force (7), Spamhaus DROP-listed network (3) | 63 | 2026-11-19T09:58:11Z |
 | [`109.160.32.129`](109.160.32.129/) | Port scanning (38), SSH brute force (18), Spamhaus DROP-listed network (2) | 58 | 2026-11-12T19:08:04Z |
 | [`109.160.32.132`](109.160.32.132/) | Port scanning (63), SSH brute force (23) | 86 | 2026-11-14T07:14:52Z |
 | [`109.160.32.139`](109.160.32.139/) | SSH brute force (27), Port scanning (2), Spamhaus DROP-listed network (1) | 30 | 2026-11-12T22:34:33Z |

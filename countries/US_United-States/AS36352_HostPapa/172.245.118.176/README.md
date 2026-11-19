@@ -7,10 +7,10 @@
 | IP | `172.245.118.176` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (9), Abusive HTTP requests (1) |
-| Events | 31 |
+| Activity | Port scanning (20), Known botnet / C2 infrastructure (10), Abusive HTTP requests (1) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-12T16:31:40Z |
-| Last seen (UTC) | 2026-11-19T08:16:12Z |
+| Last seen (UTC) | 2026-11-19T09:55:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

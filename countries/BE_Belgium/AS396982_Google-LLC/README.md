@@ -1,11 +1,12 @@
 # AS396982 · Google LLC
 
-🇧🇪 Belgium · **37** malicious IP(s)
+🇧🇪 Belgium · **38** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`34.22.192.206`](34.22.192.206/) | Abusive HTTP requests (158) | 158 | 2026-11-18T01:36:50Z |
 | [`34.22.196.121`](34.22.196.121/) | Abusive HTTP requests (118) | 118 | 2026-11-14T01:11:42Z |
+| [`34.38.45.30`](34.38.45.30/) | Abusive HTTP requests (324) | 324 | 2026-11-19T09:31:09Z |
 | [`34.38.141.52`](34.38.141.52/) | Abusive HTTP requests (84) | 84 | 2026-11-10T09:25:28Z |
 | [`34.38.252.135`](34.38.252.135/) | Abusive HTTP requests (621) | 621 | 2026-11-14T07:22:18Z |
 | [`34.52.140.48`](34.52.140.48/) | Abusive HTTP requests (289) | 289 | 2026-11-17T07:21:58Z |
