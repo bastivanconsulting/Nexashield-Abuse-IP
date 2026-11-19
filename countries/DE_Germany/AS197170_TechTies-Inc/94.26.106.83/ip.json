@@ -1,0 +1,15 @@
+{
+  "ip": "94.26.106.83",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+    "scan": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-18T15:06:09Z",
+  "last_seen": "2026-11-19T08:47:04Z",
+  "reported": "not reported (permanent ban)"
+}

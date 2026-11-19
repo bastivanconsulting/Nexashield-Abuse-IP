@@ -1,6 +1,6 @@
 # AS208843 · Alpha Strike Labs GmbH
 
-🇩🇪 Germany · **53** malicious IP(s)
+🇩🇪 Germany · **54** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -57,6 +57,7 @@
 | [`194.187.176.244`](194.187.176.244/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T20:30:04Z |
 | [`194.187.176.247`](194.187.176.247/) | Port scanning (1) | 2 | 2026-11-19T02:18:04Z |
 | [`194.187.176.252`](194.187.176.252/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T09:56:04Z |
+| [`194.187.176.253`](194.187.176.253/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T08:59:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

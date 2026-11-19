@@ -5,10 +5,10 @@
   "asn": 1764,
   "asn_org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
   "categories": {
-    "scan": 1198
+    "scan": 1202
   },
-  "events": 1200,
+  "events": 1204,
   "first_seen": "2026-11-11T22:31:06Z",
-  "last_seen": "2026-11-19T08:15:43Z",
+  "last_seen": "2026-11-19T09:15:40Z",
   "reported": "not reported (permanent ban)"
 }

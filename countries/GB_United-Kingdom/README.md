@@ -1,18 +1,18 @@
 # 🇬🇧 United Kingdom
 
-**956** malicious IP(s) across **18** network(s).
+**959** malicious IP(s) across **18** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 686 | Port scanning (13181), Known botnet / C2 infrastructure (2652), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 688 | Port scanning (13217), Known botnet / C2 infrastructure (2666), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3796), Known botnet / C2 infrastructure (853) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 23 | Port scanning (311), Known botnet / C2 infrastructure (191) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 13 | Port scanning (326), Known botnet / C2 infrastructure (49), Abusive HTTP requests (30), Exploitation attempt (CVE / RCE / injection) (15) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (969), Abusive HTTP requests (93), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 24 | Port scanning (318), Known botnet / C2 infrastructure (193) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 13 | Port scanning (327), Known botnet / C2 infrastructure (50), Abusive HTTP requests (30), Exploitation attempt (CVE / RCE / injection) (15) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (971), Abusive HTTP requests (93), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2074), Spamhaus DROP-listed network (99) |
-| [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (30), Known botnet / C2 infrastructure (14) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (96), Known botnet / C2 infrastructure (35) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2098), Spamhaus DROP-listed network (99) |
+| [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (31), Known botnet / C2 infrastructure (14) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (97), Known botnet / C2 infrastructure (36) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (8), Known botnet / C2 infrastructure (2) |
 | [AS11878](AS11878_tzulo-inc/) | tzulo, inc. | 1 | Port scanning (11) |
 | [AS15830](AS15830_Equinix-EMEA-Acquisition-Enterprises-B-V/) | Equinix (EMEA) Acquisition Enterprises B.V. | 1 | Port scanning (15) |

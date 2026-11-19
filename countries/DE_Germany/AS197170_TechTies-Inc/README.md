@@ -1,6 +1,6 @@
 # AS197170 · TechTies Inc.
 
-🇩🇪 Germany · **8** malicious IP(s)
+🇩🇪 Germany · **9** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [`93.152.221.43`](93.152.221.43/) | SSH brute force (71), Spamhaus DROP-listed network (17) | 88 | 2026-11-19T04:34:47Z |
 | [`93.152.221.50`](93.152.221.50/) | SSH brute force (40), Spamhaus DROP-listed network (13) | 53 | 2026-11-19T06:01:47Z |
 | [`93.152.221.108`](93.152.221.108/) | SSH brute force (15), Spamhaus DROP-listed network (12), Port scanning (5) | 32 | 2026-11-19T07:26:44Z |
+| [`94.26.106.83`](94.26.106.83/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-19T08:47:04Z |
 | [`94.26.106.224`](94.26.106.224/) | Port scanning (4), Abusive HTTP requests (3), Known botnet / C2 infrastructure (1) | 9 | 2026-11-15T04:34:04Z |
 | [`94.26.106.252`](94.26.106.252/) | SSH brute force (49), Port scanning (1) | 50 | 2026-11-14T03:00:41Z |
 

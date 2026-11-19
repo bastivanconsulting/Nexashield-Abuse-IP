@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4134](AS4134_Chinanet/) | Chinanet | 12 | Port scanning (453), Known botnet / C2 infrastructure (39), SSH brute force (8), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 12 | Port scanning (457), Known botnet / C2 infrastructure (40), SSH brute force (8), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
 | [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 7 | Port scanning (68), Known botnet / C2 infrastructure (21), SSH brute force (7) |
 | [AS4837](AS4837_CHINA-UNICOM-China169-Backbone/) | CHINA UNICOM China169 Backbone | 7 | Port scanning (74), Known botnet / C2 infrastructure (8), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (3) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 6 | Port scanning (101), Known botnet / C2 infrastructure (68) |
