@@ -8,9 +8,9 @@
 | Country | China (CN) |
 | ASN | AS38365 · Beijing Baidu Netcom Science and Technology Co., Ltd. |
 | Activity | Port scanning (3), Known botnet / C2 infrastructure (3) |
-| Events | 6 |
+| Events | 7 |
 | First seen (UTC) | 2026-11-13T23:05:35Z |
-| Last seen (UTC) | 2026-11-19T12:17:35Z |
+| Last seen (UTC) | 2026-11-19T12:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

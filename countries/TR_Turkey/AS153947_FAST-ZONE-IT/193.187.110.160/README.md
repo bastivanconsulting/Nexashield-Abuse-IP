@@ -7,10 +7,10 @@
 | IP | `193.187.110.160` |
 | Country | Turkey (TR) |
 | ASN | AS153947 · FAST ZONE IT |
-| Activity | SSH brute force (92) |
-| Events | 92 |
+| Activity | SSH brute force (96) |
+| Events | 96 |
 | First seen (UTC) | 2026-11-10T23:36:18Z |
-| Last seen (UTC) | 2026-11-19T09:46:57Z |
+| Last seen (UTC) | 2026-11-19T13:03:52Z |
 | Reported to network owner (UTC) | 2026-11-14T04:24:59Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

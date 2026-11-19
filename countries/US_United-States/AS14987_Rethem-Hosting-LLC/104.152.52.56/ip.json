@@ -1,0 +1,14 @@
+{
+  "ip": "104.152.52.56",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14987,
+  "asn_org": "Rethem Hosting LLC",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-19T12:55:24Z",
+  "last_seen": "2026-11-19T12:55:24Z",
+  "reported": "not reported (permanent ban)"
+}

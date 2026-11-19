@@ -1,4 +1,5 @@
-Sur la période observée, le SOC NexaShield a recensé 299586 événements répartis sur 5694 adresses IP issues de 69 pays et 445 réseaux ASN, avec une dernière activité enregistrée le 2026-11-19. Les principales origines géographiques incluent les États-Unis avec 2284 adresses, le Royaume-Uni avec 965 et les Pays-Bas avec 529. Les activités détectées couvrent principalement le balayage de ports avec 5310 occurrences et l'infrastructure botnet ou C2 connue avec 4166 occurrences.
+Sur la période observée, le système a enregistré 300432 événements provenant de 5711 adresses IP réparties dans 69 pays et 449 réseaux ASN, avec une dernière activité constatée le 2026-11-19. Les deux principales natures d'événements relevées sont le balayage de ports avec 5325 occurrences et l'infrastructure botnet / C2 connue avec 4183 occurrences.
 
-- Les réseaux les plus représentés sont AS25369 (Hydra Communications Ltd) avec 967 adresses, AS8075 (Microsoft Corporation) avec 745 et AS396982 (Google LLC) avec 430
-- Parmi les nat
+- Les principaux pays d'origine sont les États-Unis (2296), le Royaume-Uni (965) et les Pays-Bas (529).
+- Les réseaux les plus représentés incluent AS25369 Hydra Communications Ltd (967), AS8075 Microsoft Corporation (747) et AS396982 Google LLC (430).
+- Parmi les autres natures observées figurent les requêtes HTTP abusives (352), l'exploitation (CVE, RCE, injection) (292) et la force brute SSH (216).

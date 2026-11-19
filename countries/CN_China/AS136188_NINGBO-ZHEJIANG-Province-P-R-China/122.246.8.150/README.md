@@ -7,10 +7,10 @@
 | IP | `122.246.8.150` |
 | Country | China (CN) |
 | ASN | AS136188 · NINGBO, ZHEJIANG Province, P.R.China. |
-| Activity | Port scanning (12) |
-| Events | 22 |
+| Activity | Port scanning (13) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-12T02:23:05Z |
-| Last seen (UTC) | 2026-11-15T23:12:29Z |
+| Last seen (UTC) | 2026-11-19T12:45:11Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

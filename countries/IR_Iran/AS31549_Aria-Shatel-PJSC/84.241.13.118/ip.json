@@ -1,0 +1,16 @@
+{
+  "ip": "84.241.13.118",
+  "country_code": "IR",
+  "country": "Iran",
+  "asn": 31549,
+  "asn_org": "Aria Shatel PJSC",
+  "categories": {
+    "ssh": 33,
+    "c2": 1,
+    "scan": 1
+  },
+  "events": 37,
+  "first_seen": "2026-11-19T13:00:12Z",
+  "last_seen": "2026-11-19T13:01:05Z",
+  "reported": "not reported (permanent ban)"
+}

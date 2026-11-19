@@ -1,0 +1,16 @@
+{
+  "ip": "152.89.170.215",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 212271,
+  "asn_org": "Cinzia Tocci trading as Lumanex Srl",
+  "categories": {
+    "web": 1,
+    "c2": 3,
+    "scan": 4
+  },
+  "events": 9,
+  "first_seen": "2026-11-12T00:21:01Z",
+  "last_seen": "2026-11-19T12:54:03Z",
+  "reported": "not reported (permanent ban)"
+}
