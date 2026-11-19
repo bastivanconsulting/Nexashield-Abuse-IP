@@ -1,0 +1,14 @@
+{
+  "ip": "24.144.109.113",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "ssh": 3
+  },
+  "events": 5,
+  "first_seen": "2026-11-19T19:00:54Z",
+  "last_seen": "2026-11-19T19:01:04Z",
+  "reported": "not reported (permanent ban)"
+}

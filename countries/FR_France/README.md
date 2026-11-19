@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 139 | Port scanning (7274), Known botnet / C2 infrastructure (1499), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 56 | Port scanning (1949), SSH brute force (489), Known botnet / C2 infrastructure (163) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 32 | Port scanning (1427), Known botnet / C2 infrastructure (144), Exploitation attempt (CVE / RCE / injection) (13), Abusive HTTP requests (3), SSH brute force (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 139 | Port scanning (7308), Known botnet / C2 infrastructure (1501), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 56 | Port scanning (1992), SSH brute force (489), Known botnet / C2 infrastructure (164) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 32 | Port scanning (1452), Known botnet / C2 infrastructure (145), Exploitation attempt (CVE / RCE / injection) (13), Abusive HTTP requests (3), SSH brute force (2) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 9 | Port scanning (329), Known botnet / C2 infrastructure (31), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 8 | Abusive HTTP requests (348), Port scanning (144), Web injection payload blocked by WAF (20), Known botnet / C2 infrastructure (18) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 5 | Port scanning (217), Web injection payload blocked by WAF (8), Known botnet / C2 infrastructure (3), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (3) |

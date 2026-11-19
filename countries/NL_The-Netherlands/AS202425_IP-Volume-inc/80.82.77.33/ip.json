@@ -5,12 +5,12 @@
   "asn": 202425,
   "asn_org": "IP Volume inc",
   "categories": {
-    "scan": 83,
+    "scan": 84,
     "c2": 14,
     "exploit": 1
   },
-  "events": 99,
+  "events": 100,
   "first_seen": "2026-11-11T13:36:21Z",
-  "last_seen": "2026-11-19T17:39:33Z",
+  "last_seen": "2026-11-19T18:44:01Z",
   "reported": "not reported (permanent ban)"
 }

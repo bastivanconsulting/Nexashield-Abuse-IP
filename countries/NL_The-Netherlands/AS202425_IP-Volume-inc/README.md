@@ -9,7 +9,7 @@
 | [`45.140.222.173`](45.140.222.173/) | Port scanning (27), Known botnet / C2 infrastructure (4) | 39 | 2026-11-16T17:35:35Z |
 | [`45.140.222.174`](45.140.222.174/) | Port scanning (68), Known botnet / C2 infrastructure (5) | 77 | 2026-11-16T19:47:11Z |
 | [`45.140.222.175`](45.140.222.175/) | Port scanning (50) | 60 | 2026-11-16T19:51:03Z |
-| [`80.82.77.33`](80.82.77.33/) | Port scanning (83), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 99 | 2026-11-19T17:39:33Z |
+| [`80.82.77.33`](80.82.77.33/) | Port scanning (84), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 100 | 2026-11-19T18:44:01Z |
 | [`80.82.77.139`](80.82.77.139/) | Known botnet / C2 infrastructure (14) | 93 | 2026-11-19T17:47:32Z |
 | [`89.248.168.36`](89.248.168.36/) | Port scanning (24), Known botnet / C2 infrastructure (10) | 35 | 2026-11-19T10:21:47Z |
 | [`93.174.95.106`](93.174.95.106/) | Known botnet / C2 infrastructure (7) | 37 | 2026-11-13T22:19:20Z |
@@ -28,7 +28,7 @@
 | [`185.242.226.74`](185.242.226.74/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 11 | 2026-11-13T23:25:35Z |
 | [`185.242.226.87`](185.242.226.87/) | Port scanning (67), Known botnet / C2 infrastructure (3) | 87 | 2026-11-18T12:12:41Z |
 | [`185.242.226.90`](185.242.226.90/) | Port scanning (33), Known botnet / C2 infrastructure (4) | 43 | 2026-11-18T06:39:32Z |
-| [`185.242.226.92`](185.242.226.92/) | Port scanning (27), Known botnet / C2 infrastructure (8) | 37 | 2026-11-19T17:36:01Z |
+| [`185.242.226.92`](185.242.226.92/) | Port scanning (28), Known botnet / C2 infrastructure (8) | 38 | 2026-11-19T18:27:18Z |
 | [`185.242.226.97`](185.242.226.97/) | Port scanning (174) | 209 | 2026-11-19T16:07:12Z |
 | [`185.242.226.103`](185.242.226.103/) | Port scanning (71), Known botnet / C2 infrastructure (9) | 90 | 2026-11-15T22:36:03Z |
 | [`185.242.226.104`](185.242.226.104/) | Port scanning (36), Known botnet / C2 infrastructure (9) | 50 | 2026-11-18T22:44:30Z |

@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS10439 · CariNet, Inc. |
 | Activity | Known botnet / C2 infrastructure (13), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 121 |
+| Events | 122 |
 | First seen (UTC) | 2026-11-11T10:02:12Z |
-| Last seen (UTC) | 2026-11-19T18:02:27Z |
+| Last seen (UTC) | 2026-11-19T18:46:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

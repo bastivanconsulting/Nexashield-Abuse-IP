@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (30) |
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (217), Known botnet / C2 infrastructure (49) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (219), Known botnet / C2 infrastructure (50) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | Port scanning (27) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (33) |
 | [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (14), Known botnet / C2 infrastructure (5), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |
