@@ -7,10 +7,10 @@
 | IP | `20.168.11.86` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (13), Known botnet / C2 infrastructure (10) |
-| Events | 24 |
+| Activity | Port scanning (14), Known botnet / C2 infrastructure (11) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-11T22:35:17Z |
-| Last seen (UTC) | 2026-11-18T19:47:30Z |
+| Last seen (UTC) | 2026-11-19T17:50:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

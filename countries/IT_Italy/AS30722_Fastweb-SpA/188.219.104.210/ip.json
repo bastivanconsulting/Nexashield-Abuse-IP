@@ -5,11 +5,12 @@
   "asn": 30722,
   "asn_org": "Fastweb SpA",
   "categories": {
-    "ssh": 4,
-    "c2": 2
+    "ssh": 7,
+    "c2": 3,
+    "scan": 1
   },
-  "events": 6,
+  "events": 12,
   "first_seen": "2026-11-17T19:23:31Z",
-  "last_seen": "2026-11-19T07:07:43Z",
+  "last_seen": "2026-11-19T17:28:41Z",
   "reported": "not reported (permanent ban)"
 }

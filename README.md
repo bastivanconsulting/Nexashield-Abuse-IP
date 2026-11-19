@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-5750-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-5757-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-70-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--19-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 5750 IP, 70 pays, 451 réseaux, 304099 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 5757 IP, 70 pays, 451 réseaux, 305191 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,11 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Sur la période observée, 304099 événements ont été recensés à partir de 5750 adresses IP réparties sur 70 pays et 451 réseaux ASN, avec une dernière activité enregistrée le 2026-11-19. Les deux principales natures d'événements correspondent au balayage de ports (5360) et à l'infrastructure botnet / C2 connue (4208).
+Sur la période observée, le dépôt recense 305191 événements répartis sur 5757 adresses IP provenant de 70 pays et 451 réseaux ASN, avec une dernière activité enregistrée le 2026-11-19. Les principales natures d'événements observées sont le balayage de ports (5369) et l'infrastructure botnet / C2 connue (4217), suivies des requêtes HTTP abusives (358) et de l'exploitation (CVE, RCE, injection) (295). Les origines géographiques les plus représentées sont les États-Unis (2312), le Royaume-Uni (965) et les Pays-Bas (535).
 
-- Les principaux pays d'origine incluent les États-Unis (2310), le Royaume-Uni (965), les Pays-Bas (534), l'Allemagne (426), la Belgique (342) et la France (266).
-- Les réseaux les plus représentés sont AS25369 Hydra Communications Ltd (967), AS8075 Microsoft Corporation (754), AS396982 Google LLC (430) et AS43515 Google Ireland Limited (311).
-- Parmi les autres natures observées figurent les requêtes HTTP abusives (356), l'exploitation (CVE, RCE, injection) (294), la force brute SSH (223) et la charge d'injection bloquée par le WAF (128).
+- Les réseaux les plus actifs incluent AS25369 (Hydra Communications Ltd) avec 967 événements, AS8075 (Microsoft Corporation) avec 755 et AS396982 (Google LLC) avec 430.
+- On relève également des activités de force brute SSH (224), de charge d'injection bloquée par le WAF (129) et des réseaux listés Spamhaus DROP (55).
+- La France apparaît avec 268 événements parmi les principaux pays recensés.
 
 <sub>Synthèse générée automatiquement le 2026-11-19 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
@@ -160,19 +160,19 @@ Sur la période observée, 304099 événements ont été recensés à partir de 
 
 | Pays | IP |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 2310 |
+| 🇺🇸 [United States](countries/US_United-States/) | 2312 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 965 |
-| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 534 |
+| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 535 |
 | 🇩🇪 [Germany](countries/DE_Germany/) | 426 |
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 342 |
-| 🇫🇷 [France](countries/FR_France/) | 266 |
+| 🇫🇷 [France](countries/FR_France/) | 268 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 162 |
 | 🇦🇩 [Andorra](countries/AD_Andorra/) | 76 |
 | 🇨🇳 [China](countries/CN_China/) | 64 |
 | 🇸🇬 [Singapore](countries/SG_Singapore/) | 56 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 46 |
+| 🇯🇵 [Japan](countries/JP_Japan/) | 40 |
 | 🇸🇪 [Sweden](countries/SE_Sweden/) | 40 |
-| 🇯🇵 [Japan](countries/JP_Japan/) | 39 |
 | 🇹🇭 [Thailand](countries/TH_Thailand/) | 34 |
 | 🇧🇷 [Brazil](countries/BR_Brazil/) | 31 |
 
@@ -185,12 +185,12 @@ Sur la période observée, 304099 événements ont été recensés à partir de 
 
 | Nature | IP |
 |---|---:|
-| Balayage de ports | 5360 |
-| Infrastructure botnet / C2 connue | 4208 |
-| Requêtes HTTP abusives | 356 |
-| Exploitation (CVE, RCE, injection) | 294 |
-| Force brute SSH | 223 |
-| Charge d'injection bloquée par le WAF | 128 |
+| Balayage de ports | 5369 |
+| Infrastructure botnet / C2 connue | 4217 |
+| Requêtes HTTP abusives | 358 |
+| Exploitation (CVE, RCE, injection) | 295 |
+| Force brute SSH | 224 |
+| Charge d'injection bloquée par le WAF | 129 |
 | Réseau listé Spamhaus DROP | 55 |
 | Force brute SMTP / IMAP | 1 |
 | Signature d'exploit UDP | 1 |
@@ -204,7 +204,7 @@ Sur la période observée, 304099 événements ont été recensés à partir de 
 | ASN | Opérateur | Pays (IP) | Total IP |
 |---|---|---|---:|
 | **AS25369** | Hydra Communications Ltd | [🇬🇧 694](countries/GB_United-Kingdom/AS25369_Hydra-Communications-Ltd/) [🇳🇱 210](countries/NL_The-Netherlands/AS25369_Hydra-Communications-Ltd/) [🇩🇪 63](countries/DE_Germany/AS25369_Hydra-Communications-Ltd/) | 967 |
-| **AS8075** | Microsoft Corporation | [🇺🇸 743](countries/US_United-States/AS8075_Microsoft-Corporation/) [🇦🇪 3](countries/AE_United-Arab-Emirates/AS8075_Microsoft-Corporation/) [🇳🇱 2](countries/NL_The-Netherlands/AS8075_Microsoft-Corporation/) [🇿🇦 2](countries/ZA_South-Africa/AS8075_Microsoft-Corporation/) [🇩🇰 1](countries/DK_Denmark/AS8075_Microsoft-Corporation/) [🇮🇪 1](countries/IE_Ireland/AS8075_Microsoft-Corporation/) [🇮🇱 1](countries/IL_Israel/AS8075_Microsoft-Corporation/) [🇮🇳 1](countries/IN_India/AS8075_Microsoft-Corporation/) | 754 |
+| **AS8075** | Microsoft Corporation | [🇺🇸 744](countries/US_United-States/AS8075_Microsoft-Corporation/) [🇦🇪 3](countries/AE_United-Arab-Emirates/AS8075_Microsoft-Corporation/) [🇳🇱 2](countries/NL_The-Netherlands/AS8075_Microsoft-Corporation/) [🇿🇦 2](countries/ZA_South-Africa/AS8075_Microsoft-Corporation/) [🇩🇰 1](countries/DK_Denmark/AS8075_Microsoft-Corporation/) [🇮🇪 1](countries/IE_Ireland/AS8075_Microsoft-Corporation/) [🇮🇱 1](countries/IL_Israel/AS8075_Microsoft-Corporation/) [🇮🇳 1](countries/IN_India/AS8075_Microsoft-Corporation/) | 755 |
 | **AS396982** | Google LLC | [🇬🇧 200](countries/GB_United-Kingdom/AS396982_Google-LLC/) [🇺🇸 158](countries/US_United-States/AS396982_Google-LLC/) [🇧🇪 39](countries/BE_Belgium/AS396982_Google-LLC/) [🇫🇷 8](countries/FR_France/AS396982_Google-LLC/) [🇩🇪 5](countries/DE_Germany/AS396982_Google-LLC/) [🇯🇵 3](countries/JP_Japan/AS396982_Google-LLC/) [🇰🇷 3](countries/KR_South-Korea/AS396982_Google-LLC/) [🇦🇺 2](countries/AU_Australia/AS396982_Google-LLC/) [🇧🇷 2](countries/BR_Brazil/AS396982_Google-LLC/) [🇨🇦 2](countries/CA_Canada/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇨🇱 1](countries/CL_Chile/AS396982_Google-LLC/) [🇭🇰 1](countries/HK_Hong-Kong/AS396982_Google-LLC/) [🇮🇩 1](countries/ID_Indonesia/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇸🇬 1](countries/SG_Singapore/AS396982_Google-LLC/) [🇹🇼 1](countries/TW_Taiwan/AS396982_Google-LLC/) | 430 |
 | **AS43515** | Google Ireland Limited | [🇧🇪 303](countries/BE_Belgium/AS43515_Google-Ireland-Limited/) [🇳🇱 8](countries/NL_The-Netherlands/AS43515_Google-Ireland-Limited/) | 311 |
 | **AS398324** | Censys, Inc. | [🇺🇸 305](countries/US_United-States/AS398324_Censys-Inc/) | 305 |
@@ -340,7 +340,7 @@ Dans les noms de dossier IPv6, les `:` sont remplacés par `_` (compatibilité W
 En plus des adresses signalées ci-dessus, NexaShield publie **toutes** les adresses qu'il a bannies définitivement sur l'infrastructure de Bastivan Consulting : récidive, petites attaques persistantes jugées par l'IA, campagnes confirmées. Mise à jour automatique toutes les heures.
 
 <!-- BANS:START -->
-**4709** adresses bannies définitivement (**4653** IP, **56** plages CIDR), mises à jour toutes les heures : [`bans/permaban.txt`](bans/permaban.txt) (commentée) · [`bans/plain/all.txt`](bans/plain/all.txt) (flux pare-feu) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
+**4715** adresses bannies définitivement (**4659** IP, **56** plages CIDR), mises à jour toutes les heures : [`bans/permaban.txt`](bans/permaban.txt) (commentée) · [`bans/plain/all.txt`](bans/plain/all.txt) (flux pare-feu) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
 <!-- BANS:END -->
 
 > Ces adresses n'ont pas toutes été signalées à leur hébergeur : pour un blocage strictement « signalé et prouvé », préférez [`lists/`](lists/).

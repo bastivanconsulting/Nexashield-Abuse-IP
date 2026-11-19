@@ -7,10 +7,10 @@
 | IP | `152.89.170.215` |
 | Country | Italy (IT) |
 | ASN | AS212271 · Cinzia Tocci trading as Lumanex Srl |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) |
-| Events | 12 |
+| Activity | Port scanning (8), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-12T00:21:01Z |
-| Last seen (UTC) | 2026-11-19T17:15:38Z |
+| Last seen (UTC) | 2026-11-19T17:39:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

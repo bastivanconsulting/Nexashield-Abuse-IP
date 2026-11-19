@@ -1,5 +1,5 @@
-Sur la période observée, 304099 événements ont été recensés à partir de 5750 adresses IP réparties sur 70 pays et 451 réseaux ASN, avec une dernière activité enregistrée le 2026-11-19. Les deux principales natures d'événements correspondent au balayage de ports (5360) et à l'infrastructure botnet / C2 connue (4208).
+Sur la période observée, le dépôt recense 305191 événements répartis sur 5757 adresses IP provenant de 70 pays et 451 réseaux ASN, avec une dernière activité enregistrée le 2026-11-19. Les principales natures d'événements observées sont le balayage de ports (5369) et l'infrastructure botnet / C2 connue (4217), suivies des requêtes HTTP abusives (358) et de l'exploitation (CVE, RCE, injection) (295). Les origines géographiques les plus représentées sont les États-Unis (2312), le Royaume-Uni (965) et les Pays-Bas (535).
 
-- Les principaux pays d'origine incluent les États-Unis (2310), le Royaume-Uni (965), les Pays-Bas (534), l'Allemagne (426), la Belgique (342) et la France (266).
-- Les réseaux les plus représentés sont AS25369 Hydra Communications Ltd (967), AS8075 Microsoft Corporation (754), AS396982 Google LLC (430) et AS43515 Google Ireland Limited (311).
-- Parmi les autres natures observées figurent les requêtes HTTP abusives (356), l'exploitation (CVE, RCE, injection) (294), la force brute SSH (223) et la charge d'injection bloquée par le WAF (128).
+- Les réseaux les plus actifs incluent AS25369 (Hydra Communications Ltd) avec 967 événements, AS8075 (Microsoft Corporation) avec 755 et AS396982 (Google LLC) avec 430.
+- On relève également des activités de force brute SSH (224), de charge d'injection bloquée par le WAF (129) et des réseaux listés Spamhaus DROP (55).
+- La France apparaît avec 268 événements parmi les principaux pays recensés.

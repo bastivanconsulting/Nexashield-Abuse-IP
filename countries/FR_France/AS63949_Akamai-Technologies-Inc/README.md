@@ -1,9 +1,10 @@
 # AS63949 · Akamai Technologies, Inc.
 
-🇫🇷 France · **2** malicious IP(s)
+🇫🇷 France · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`172.234.162.31`](172.234.162.31/) | Abusive HTTP requests (243), Port scanning (32), Known botnet / C2 infrastructure (3) | 313 | 2026-11-19T18:04:41Z |
 | [`172.234.162.56`](172.234.162.56/) | Port scanning (29), Known botnet / C2 infrastructure (3) | 34 | 2026-11-17T12:42:16Z |
 | [`172.239.4.138`](172.239.4.138/) | Port scanning (19) | 30 | 2026-11-17T06:11:53Z |
 

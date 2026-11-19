@@ -13,7 +13,7 @@
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 1 | Abusive HTTP requests (2), Web injection payload blocked by WAF (2) |
 | [AS150493](AS150493_PT-Gunung-Sedayu-Sentosa/) | PT Gunung Sedayu Sentosa | 1 | Web injection payload blocked by WAF (1) |
 | [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (21) |
-| [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (18) |
+| [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (19), Known botnet / C2 infrastructure (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |
 | [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (33) |
 

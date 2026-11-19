@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (857), Known botnet / C2 infrastructure (71), Exploitation attempt (CVE / RCE / injection) (45) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (859), Known botnet / C2 infrastructure (71), Exploitation attempt (CVE / RCE / injection) (48) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (63), Known botnet / C2 infrastructure (16) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | SSH brute force (13), Known botnet / C2 infrastructure (9) |
 | [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | Port scanning (269), SSH brute force (9), Known botnet / C2 infrastructure (6) |

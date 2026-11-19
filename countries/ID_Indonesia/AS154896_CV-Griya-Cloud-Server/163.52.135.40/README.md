@@ -7,10 +7,10 @@
 | IP | `163.52.135.40` |
 | Country | Indonesia (ID) |
 | ASN | AS154896 · CV Griya Cloud Server |
-| Activity | Port scanning (18) |
-| Events | 27 |
+| Activity | Port scanning (19), Known botnet / C2 infrastructure (1) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-11T18:29:30Z |
-| Last seen (UTC) | 2026-11-17T01:58:14Z |
+| Last seen (UTC) | 2026-11-19T17:38:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
