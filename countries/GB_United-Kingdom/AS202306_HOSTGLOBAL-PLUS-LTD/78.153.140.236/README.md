@@ -7,10 +7,10 @@
 | IP | `78.153.140.236` |
 | Country | United Kingdom (GB) |
 | ASN | AS202306 · HOSTGLOBAL.PLUS LTD |
-| Activity | Port scanning (312), Known botnet / C2 infrastructure (1) |
-| Events | 326 |
+| Activity | Port scanning (314), Known botnet / C2 infrastructure (1) |
+| Events | 328 |
 | First seen (UTC) | 2026-11-11T09:47:10Z |
-| Last seen (UTC) | 2026-11-19T06:50:37Z |
+| Last seen (UTC) | 2026-11-19T08:06:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

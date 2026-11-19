@@ -6,12 +6,12 @@
   "asn_org": "Netiface America, Inc.",
   "categories": {
     "web": 2,
-    "waf": 2,
+    "waf": 4,
     "scan": 13,
-    "c2": 5
+    "c2": 6
   },
-  "events": 23,
+  "events": 26,
   "first_seen": "2026-11-10T22:18:47Z",
-  "last_seen": "2026-11-19T01:27:54Z",
+  "last_seen": "2026-11-19T08:04:41Z",
   "reported": "not reported (permanent ban)"
 }

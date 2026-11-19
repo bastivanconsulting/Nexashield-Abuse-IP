@@ -1,0 +1,14 @@
+{
+  "ip": "46.247.61.8",
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "asn": 215778,
+  "asn_org": "Alpha Strike Labs GmbH",
+  "categories": {
+    "scan": 3
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T18:21:12Z",
+  "last_seen": "2026-11-18T19:51:04Z",
+  "reported": "not reported (permanent ban)"
+}

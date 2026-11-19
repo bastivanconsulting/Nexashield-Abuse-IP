@@ -7,10 +7,10 @@
 | IP | `66.240.205.34` |
 | Country | United States (US) |
 | ASN | AS10439 · CariNet, Inc. |
-| Activity | Port scanning (230), Known botnet / C2 infrastructure (27) |
-| Events | 273 |
+| Activity | Port scanning (232), Known botnet / C2 infrastructure (27) |
+| Events | 275 |
 | First seen (UTC) | 2026-11-11T10:17:53Z |
-| Last seen (UTC) | 2026-11-19T06:06:12Z |
+| Last seen (UTC) | 2026-11-19T08:13:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

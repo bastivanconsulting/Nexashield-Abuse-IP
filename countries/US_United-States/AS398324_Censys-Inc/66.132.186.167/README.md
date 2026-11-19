@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS398324 · Censys, Inc. |
 | Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Events | 5 |
 | First seen (UTC) | 2026-11-15T00:53:12Z |
-| Last seen (UTC) | 2026-11-19T03:57:13Z |
+| Last seen (UTC) | 2026-11-19T07:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

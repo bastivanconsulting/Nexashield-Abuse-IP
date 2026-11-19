@@ -11,7 +11,7 @@
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 1 | Port scanning (12) |
-| [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (5) |
+| [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 1 | Port scanning (7), Known botnet / C2 infrastructure (6) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | SSH brute force (21), Known botnet / C2 infrastructure (2) |
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 1 | Port scanning (25), Known botnet / C2 infrastructure (7) |

@@ -7,10 +7,10 @@
 | IP | `162.217.103.71` |
 | Country | United States (US) |
 | ASN | AS32475 · Internap Holding LLC |
-| Activity | Port scanning (182), Known botnet / C2 infrastructure (13) |
-| Events | 204 |
+| Activity | Port scanning (185), Known botnet / C2 infrastructure (13) |
+| Events | 207 |
 | First seen (UTC) | 2026-11-11T12:28:35Z |
-| Last seen (UTC) | 2026-11-19T06:51:02Z |
+| Last seen (UTC) | 2026-11-19T07:56:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

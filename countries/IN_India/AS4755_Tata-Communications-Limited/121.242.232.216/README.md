@@ -7,10 +7,10 @@
 | IP | `121.242.232.216` |
 | Country | India (IN) |
 | ASN | AS4755 · Tata Communications Limited |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (5) |
-| Events | 12 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (6) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-12T15:39:31Z |
-| Last seen (UTC) | 2026-11-16T04:32:03Z |
+| Last seen (UTC) | 2026-11-19T08:13:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -11,7 +11,7 @@
 | [🇦🇺 Australia](AU_Australia/) | 16 |
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 6 |
-| [🇧🇪 Belgium](BE_Belgium/) | 339 |
+| [🇧🇪 Belgium](BE_Belgium/) | 340 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 46 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
 | [🇧🇷 Brazil](BR_Brazil/) | 27 |
@@ -27,10 +27,10 @@
 | [🇪🇸 Spain](ES_Spain/) | 2 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 1 |
 | [🇫🇮 Finland](FI_Finland/) | 6 |
-| [🇫🇷 France](FR_France/) | 257 |
+| [🇫🇷 France](FR_France/) | 260 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 956 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
-| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 124 |
+| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 153 |
 | [🇭🇺 Hungary](HU_Hungary/) | 5 |
 | [🇮🇩 Indonesia](ID_Indonesia/) | 15 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
@@ -38,7 +38,7 @@
 | [🇮🇳 India](IN_India/) | 18 |
 | [🇮🇷 Iran](IR_Iran/) | 1 |
 | [🇮🇹 Italy](IT_Italy/) | 22 |
-| [🇯🇵 Japan](JP_Japan/) | 37 |
+| [🇯🇵 Japan](JP_Japan/) | 38 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 28 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 10 |
 | [🇱🇰 Sri Lanka](LK_Sri-Lanka/) | 1 |
@@ -48,7 +48,7 @@
 | [🇲🇽 Mexico](MX_Mexico/) | 3 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 14 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 11 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 520 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 521 |
 | [🇳🇴 Norway](NO_Norway/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 6 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 12 |
@@ -61,13 +61,13 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 8 |
 | [🇸🇪 Sweden](SE_Sweden/) | 40 |
-| [🇸🇬 Singapore](SG_Singapore/) | 53 |
+| [🇸🇬 Singapore](SG_Singapore/) | 54 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 15 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 34 |
 | [🇹🇷 Turkey](TR_Turkey/) | 4 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 11 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 2224 |
+| [🇺🇸 United States](US_United-States/) | 2259 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 11 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |

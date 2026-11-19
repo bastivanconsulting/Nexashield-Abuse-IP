@@ -7,10 +7,10 @@
 | IP | `18.207.246.22` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Port scanning (10), Known botnet / C2 infrastructure (1) |
-| Events | 16 |
+| Activity | Port scanning (11), Known botnet / C2 infrastructure (2) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-13T08:13:58Z |
-| Last seen (UTC) | 2026-11-17T10:05:04Z |
+| Last seen (UTC) | 2026-11-19T08:11:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
