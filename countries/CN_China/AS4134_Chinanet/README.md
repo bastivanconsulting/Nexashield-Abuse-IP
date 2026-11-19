@@ -1,6 +1,6 @@
 # AS4134 · Chinanet
 
-🇨🇳 China · **12** malicious IP(s)
+🇨🇳 China · **13** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,7 +13,8 @@
 | [`114.98.194.25`](114.98.194.25/) | Port scanning (15) | 24 | 2026-11-19T03:51:38Z |
 | [`118.113.15.190`](118.113.15.190/) | Port scanning (23) | 36 | 2026-11-19T08:22:24Z |
 | [`121.204.100.72`](121.204.100.72/) | Port scanning (108) | 109 | 2026-11-14T21:56:40Z |
-| [`182.105.123.10`](182.105.123.10/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-17T11:40:37Z |
+| [`139.202.229.204`](139.202.229.204/) | Port scanning (11), Known botnet / C2 infrastructure (3) | 19 | 2026-11-19T10:43:03Z |
+| [`182.105.123.10`](182.105.123.10/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-19T10:31:26Z |
 | [`222.186.13.130`](222.186.13.130/) | Port scanning (146), Known botnet / C2 infrastructure (22) | 189 | 2026-11-19T09:03:30Z |
 | [`222.222.210.183`](222.222.210.183/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 15 | 2026-11-15T19:44:34Z |
 

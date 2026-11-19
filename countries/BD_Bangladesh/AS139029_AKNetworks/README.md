@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`103.138.173.242`](103.138.173.242/) | Port scanning (31) | 47 | 2026-11-19T03:57:44Z |
+| [`103.138.173.242`](103.138.173.242/) | Port scanning (32) | 49 | 2026-11-19T11:09:31Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
