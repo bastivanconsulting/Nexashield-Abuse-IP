@@ -1,5 +1,4 @@
-Le dépôt recense 296906 événements générés par 5667 adresses IP réparties sur 69 pays et 444 réseaux ASN, avec une dernière activité observée le 2026-11-19. Les principales origines géographiques incluent les États-Unis avec 2275 adresses, le Royaume-Uni avec 963 et les Pays-Bas avec 524. Parmi les réseaux les plus représentés figurent AS25369 (Hydra Communications Ltd) avec 965 adresses, AS8075 (Microsoft Corporation) avec 743 et AS396982 (Google LLC) avec 429.
+Sur la période observée, le SOC NexaShield a recensé 299586 événements répartis sur 5694 adresses IP issues de 69 pays et 445 réseaux ASN, avec une dernière activité enregistrée le 2026-11-19. Les principales origines géographiques incluent les États-Unis avec 2284 adresses, le Royaume-Uni avec 965 et les Pays-Bas avec 529. Les activités détectées couvrent principalement le balayage de ports avec 5310 occurrences et l'infrastructure botnet ou C2 connue avec 4166 occurrences.
 
-- Les principales natures relevées sont le balayage de ports (5288), l'infrastructure botnet / C2 connue (4137), les requêtes HTTP abusives (349) et l'exploitation (CVE, RCE, injection) (292).
-- On compte également 209 cas de force brute SSH, 126 charges d'injection bloquées par le WAF et 52 réseaux listés Spamhaus DROP.
-- Enfin, le dépôt recense 1 force brute SMTP / IMAP et 1 signature d'exploit UDP.
+- Les réseaux les plus représentés sont AS25369 (Hydra Communications Ltd) avec 967 adresses, AS8075 (Microsoft Corporation) avec 745 et AS396982 (Google LLC) avec 430
+- Parmi les nat

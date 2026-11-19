@@ -1,0 +1,15 @@
+{
+  "ip": "106.13.122.186",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 38365,
+  "asn_org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 6,
+  "first_seen": "2026-11-13T23:05:35Z",
+  "last_seen": "2026-11-19T12:17:35Z",
+  "reported": "not reported (permanent ban)"
+}

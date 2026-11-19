@@ -1,17 +1,18 @@
 # AS396982 · Google LLC
 
-🇧🇪 Belgium · **38** malicious IP(s)
+🇧🇪 Belgium · **39** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`34.22.192.206`](34.22.192.206/) | Abusive HTTP requests (158) | 158 | 2026-11-18T01:36:50Z |
 | [`34.22.196.121`](34.22.196.121/) | Abusive HTTP requests (118) | 118 | 2026-11-14T01:11:42Z |
-| [`34.38.45.30`](34.38.45.30/) | Abusive HTTP requests (324) | 324 | 2026-11-19T09:31:09Z |
+| [`34.38.45.30`](34.38.45.30/) | Abusive HTTP requests (620) | 620 | 2026-11-19T12:07:35Z |
 | [`34.38.141.52`](34.38.141.52/) | Abusive HTTP requests (84) | 84 | 2026-11-10T09:25:28Z |
 | [`34.38.252.135`](34.38.252.135/) | Abusive HTTP requests (621) | 621 | 2026-11-14T07:22:18Z |
 | [`34.52.140.48`](34.52.140.48/) | Abusive HTTP requests (289) | 289 | 2026-11-17T07:21:58Z |
 | [`34.52.188.32`](34.52.188.32/) | Abusive HTTP requests (306) | 306 | 2026-11-19T00:08:09Z |
 | [`34.53.147.106`](34.53.147.106/) | Abusive HTTP requests (142) | 142 | 2026-11-16T02:32:06Z |
+| [`34.53.170.250`](34.53.170.250/) | Abusive HTTP requests (318) | 318 | 2026-11-19T12:09:53Z |
 | [`34.62.25.39`](34.62.25.39/) | Abusive HTTP requests (95) | 95 | 2026-11-14T11:37:08Z |
 | [`34.62.28.78`](34.62.28.78/) | Abusive HTTP requests (286) | 286 | 2026-11-19T06:05:40Z |
 | [`34.62.39.143`](34.62.39.143/) | Abusive HTTP requests (198), Web injection payload blocked by WAF (34) | 232 | 2026-11-15T17:14:59Z |
