@@ -7,10 +7,10 @@
 | IP | `179.43.171.130` |
 | Country | Switzerland (CH) |
 | ASN | AS51852 · Private Layer INC |
-| Activity | Web injection payload blocked by WAF (324), Port scanning (10), Known botnet / C2 infrastructure (3) |
-| Events | 341 |
+| Activity | Web injection payload blocked by WAF (324), Port scanning (12), Known botnet / C2 infrastructure (3) |
+| Events | 343 |
 | First seen (UTC) | 2026-11-17T19:48:42Z |
-| Last seen (UTC) | 2026-11-20T08:35:38Z |
+| Last seen (UTC) | 2026-11-20T10:07:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

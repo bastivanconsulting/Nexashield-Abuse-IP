@@ -1,0 +1,14 @@
+{
+  "ip": "34.15.133.101",
+  "country_code": "TH",
+  "country": "Thailand",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 282
+  },
+  "events": 285,
+  "first_seen": "2026-11-20T10:11:33Z",
+  "last_seen": "2026-11-20T10:13:04Z",
+  "reported": "not reported (permanent ban)"
+}

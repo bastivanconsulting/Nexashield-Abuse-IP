@@ -1,0 +1,14 @@
+{
+  "ip": "222.186.48.194",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 4134,
+  "asn_org": "Chinanet",
+  "categories": {
+    "scan": 26
+  },
+  "events": 30,
+  "first_seen": "2026-11-15T11:39:51Z",
+  "last_seen": "2026-11-19T19:33:38Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -5,11 +5,11 @@
   "asn": 37963,
   "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
   "categories": {
-    "scan": 4,
-    "c2": 3
+    "scan": 5,
+    "c2": 4
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-14T17:58:09Z",
-  "last_seen": "2026-11-16T11:28:04Z",
+  "last_seen": "2026-11-20T09:50:52Z",
   "reported": "not reported (permanent ban)"
 }

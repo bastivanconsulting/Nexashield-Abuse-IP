@@ -7,10 +7,10 @@
 | IP | `216.25.89.97` |
 | Country | United States (US) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (31) |
-| Events | 39 |
+| Activity | Port scanning (32) |
+| Events | 40 |
 | First seen (UTC) | 2026-11-11T10:02:34Z |
-| Last seen (UTC) | 2026-11-20T06:45:16Z |
+| Last seen (UTC) | 2026-11-20T09:46:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

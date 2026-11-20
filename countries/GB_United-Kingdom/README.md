@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 697 | Port scanning (13849), Known botnet / C2 infrastructure (3001), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 697 | Port scanning (13878), Known botnet / C2 infrastructure (3017), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3796), Known botnet / C2 infrastructure (853) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 24 | Port scanning (328), Known botnet / C2 infrastructure (203) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 16 | Port scanning (345), Abusive HTTP requests (68), Known botnet / C2 infrastructure (58), Exploitation attempt (CVE / RCE / injection) (15) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1052), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1053), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2338), Spamhaus DROP-listed network (107) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2362), Spamhaus DROP-listed network (109) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (46), Known botnet / C2 infrastructure (17) |
 | [AS215930](AS215930_CIPHER-OPERATIONS-DOO-BEOGRAD-NOVI-BEOGRAD/) | CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD | 2 | Port scanning (41), Known botnet / C2 infrastructure (3) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (98), Known botnet / C2 infrastructure (36) |
