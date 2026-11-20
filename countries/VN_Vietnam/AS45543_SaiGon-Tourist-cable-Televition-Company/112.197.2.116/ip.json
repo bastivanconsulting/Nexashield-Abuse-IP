@@ -5,12 +5,12 @@
   "asn": 45543,
   "asn_org": "SaiGon Tourist cable Televition Company",
   "categories": {
-    "scan": 21,
+    "scan": 23,
     "ssh": 1,
     "c2": 2
   },
-  "events": 27,
+  "events": 29,
   "first_seen": "2026-11-14T12:37:46Z",
-  "last_seen": "2026-11-19T22:37:34Z",
+  "last_seen": "2026-11-20T01:08:11Z",
   "reported": "not reported (permanent ban)"
 }

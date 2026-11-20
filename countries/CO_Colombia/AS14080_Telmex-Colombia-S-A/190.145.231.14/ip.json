@@ -1,0 +1,15 @@
+{
+  "ip": "190.145.231.14",
+  "country_code": "CO",
+  "country": "Colombia",
+  "asn": 14080,
+  "asn_org": "Telmex Colombia S.A.",
+  "categories": {
+    "scan": 6,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-13T15:13:49Z",
+  "last_seen": "2026-11-20T00:36:04Z",
+  "reported": "not reported (permanent ban)"
+}

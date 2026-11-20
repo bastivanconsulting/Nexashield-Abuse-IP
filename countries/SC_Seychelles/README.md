@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS207812](AS207812_DM-AUTO-EOOD/) | DM AUTO EOOD | 6 | Port scanning (613), Known botnet / C2 infrastructure (14) |
+| [AS207812](AS207812_DM-AUTO-EOOD/) | DM AUTO EOOD | 6 | Port scanning (615), Known botnet / C2 infrastructure (14) |
 | [AS209101](AS209101_IP-Vendetta-Inc/) | IP Vendetta Inc. | 1 | Port scanning (11) |
-| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 1 | Abusive HTTP requests (819), Known botnet / C2 infrastructure (7), Port scanning (5) |
+| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 1 | Abusive HTTP requests (819), Known botnet / C2 infrastructure (8), Port scanning (6) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

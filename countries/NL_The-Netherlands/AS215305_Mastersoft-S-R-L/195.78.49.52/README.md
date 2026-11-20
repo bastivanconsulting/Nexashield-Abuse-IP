@@ -7,10 +7,10 @@
 | IP | `195.78.49.52` |
 | Country | The Netherlands (NL) |
 | ASN | AS215305 · Mastersoft S.R.L. |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (6) |
-| Events | 28 |
+| Activity | Port scanning (20), Known botnet / C2 infrastructure (6) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-17T05:26:09Z |
-| Last seen (UTC) | 2026-11-19T22:02:16Z |
+| Last seen (UTC) | 2026-11-20T01:14:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

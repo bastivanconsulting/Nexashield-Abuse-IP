@@ -1,0 +1,15 @@
+{
+  "ip": "192.81.229.181",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 54102,
+  "asn_org": "Fabulous Fiber LLC",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-13T00:57:55Z",
+  "last_seen": "2026-11-18T22:29:03Z",
+  "reported": "not reported (permanent ban)"
+}

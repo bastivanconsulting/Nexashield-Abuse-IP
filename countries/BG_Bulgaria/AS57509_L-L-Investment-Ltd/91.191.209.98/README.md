@@ -7,10 +7,10 @@
 | IP | `91.191.209.98` |
 | Country | Bulgaria (BG) |
 | ASN | AS57509 · L&L Investment Ltd. |
-| Activity | Port scanning (468), Known botnet / C2 infrastructure (33) |
-| Events | 534 |
+| Activity | Port scanning (471), Known botnet / C2 infrastructure (33) |
+| Events | 537 |
 | First seen (UTC) | 2026-11-11T09:45:58Z |
-| Last seen (UTC) | 2026-11-19T23:10:32Z |
+| Last seen (UTC) | 2026-11-20T01:02:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

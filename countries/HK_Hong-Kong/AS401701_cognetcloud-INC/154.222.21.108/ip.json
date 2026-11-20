@@ -5,11 +5,11 @@
   "asn": 401701,
   "asn_org": "cognetcloud INC",
   "categories": {
-    "scan": 33,
-    "c2": 4
+    "scan": 34,
+    "c2": 5
   },
-  "events": 41,
+  "events": 43,
   "first_seen": "2026-11-11T21:46:53Z",
-  "last_seen": "2026-11-19T11:37:04Z",
+  "last_seen": "2026-11-20T00:22:02Z",
   "reported": "not reported (permanent ban)"
 }
