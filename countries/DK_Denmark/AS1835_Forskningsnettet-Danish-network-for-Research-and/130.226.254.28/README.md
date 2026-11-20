@@ -7,10 +7,10 @@
 | IP | `130.226.254.28` |
 | Country | Denmark (DK) |
 | ASN | AS1835 · Forskningsnettet - Danish network for Research and Education |
-| Activity | Known botnet / C2 infrastructure (3), Port scanning (2), Abusive HTTP requests (1) |
-| Events | 7 |
+| Activity | Known botnet / C2 infrastructure (4), Port scanning (3), Abusive HTTP requests (1) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-15T23:00:01Z |
-| Last seen (UTC) | 2026-11-18T20:33:04Z |
+| Last seen (UTC) | 2026-11-20T03:37:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

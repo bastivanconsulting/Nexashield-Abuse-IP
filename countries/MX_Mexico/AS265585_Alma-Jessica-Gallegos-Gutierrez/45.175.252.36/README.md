@@ -7,10 +7,10 @@
 | IP | `45.175.252.36` |
 | Country | Mexico (MX) |
 | ASN | AS265585 · Alma Jessica Gallegos Gutierrez |
-| Activity | Port scanning (26) |
-| Events | 31 |
+| Activity | Port scanning (28), Known botnet / C2 infrastructure (1) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-11T10:06:27Z |
-| Last seen (UTC) | 2026-11-11T15:23:32Z |
+| Last seen (UTC) | 2026-11-20T03:49:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

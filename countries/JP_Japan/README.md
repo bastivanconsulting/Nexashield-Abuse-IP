@@ -1,10 +1,10 @@
 # 🇯🇵 Japan
 
-**41** malicious IP(s) across **8** network(s).
+**43** malicious IP(s) across **8** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 17 | Port scanning (61), Known botnet / C2 infrastructure (57) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 19 | Port scanning (64), Known botnet / C2 infrastructure (60) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (387), Known botnet / C2 infrastructure (43) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (101), Known botnet / C2 infrastructure (22) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (1035), Web injection payload blocked by WAF (59) |

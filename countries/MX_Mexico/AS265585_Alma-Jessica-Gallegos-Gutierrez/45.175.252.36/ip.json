@@ -5,10 +5,11 @@
   "asn": 265585,
   "asn_org": "Alma Jessica Gallegos Gutierrez",
   "categories": {
-    "scan": 26
+    "scan": 28,
+    "c2": 1
   },
-  "events": 31,
+  "events": 34,
   "first_seen": "2026-11-11T10:06:27Z",
-  "last_seen": "2026-11-11T15:23:32Z",
+  "last_seen": "2026-11-20T03:49:54Z",
   "reported": "not reported (permanent ban)"
 }

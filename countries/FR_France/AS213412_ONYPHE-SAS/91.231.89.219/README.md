@@ -8,9 +8,9 @@
 | Country | France (FR) |
 | ASN | AS213412 · ONYPHE SAS |
 | Activity | Port scanning (2), Known botnet / C2 infrastructure (1) |
-| Events | 3 |
+| Events | 4 |
 | First seen (UTC) | 2026-11-19T21:59:57Z |
-| Last seen (UTC) | 2026-11-20T02:06:11Z |
+| Last seen (UTC) | 2026-11-20T03:18:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

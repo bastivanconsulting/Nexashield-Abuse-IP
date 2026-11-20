@@ -1,16 +1,17 @@
 # 🇧🇷 Brazil
 
-**35** malicious IP(s) across **18** network(s).
+**38** malicious IP(s) across **19** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (873), Known botnet / C2 infrastructure (74), Exploitation attempt (CVE / RCE / injection) (48) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (878), Known botnet / C2 infrastructure (74), Exploitation attempt (CVE / RCE / injection) (48) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (64), Known botnet / C2 infrastructure (16) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | SSH brute force (18), Known botnet / C2 infrastructure (12) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (300), SSH brute force (9), Known botnet / C2 infrastructure (6) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (304), SSH brute force (9), Known botnet / C2 infrastructure (7) |
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | SSH brute force (16), Known botnet / C2 infrastructure (9) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (429), Web injection payload blocked by WAF (21) |
 | [AS7738](AS7738_V-tal/) | V tal | 2 | SSH brute force (9), Known botnet / C2 infrastructure (6) |
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3) |
+| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (34) |
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (21) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (21), Known botnet / C2 infrastructure (5) |

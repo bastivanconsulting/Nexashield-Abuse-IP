@@ -5,10 +5,10 @@
   "asn": 9009,
   "asn_org": "M247 Europe SRL",
   "categories": {
-    "scan": 20
+    "scan": 22
   },
-  "events": 25,
+  "events": 28,
   "first_seen": "2026-11-13T14:14:18Z",
-  "last_seen": "2026-11-20T03:02:17Z",
+  "last_seen": "2026-11-20T03:22:20Z",
   "reported": "not reported (permanent ban)"
 }

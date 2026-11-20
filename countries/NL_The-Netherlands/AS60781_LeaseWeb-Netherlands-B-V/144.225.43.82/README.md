@@ -7,10 +7,10 @@
 | IP | `144.225.43.82` |
 | Country | The Netherlands (NL) |
 | ASN | AS60781 · LeaseWeb Netherlands B.V. |
-| Activity | Port scanning (13), Known botnet / C2 infrastructure (3) |
-| Events | 17 |
+| Activity | Port scanning (14), Known botnet / C2 infrastructure (3) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-11T10:18:04Z |
-| Last seen (UTC) | 2026-11-20T03:03:14Z |
+| Last seen (UTC) | 2026-11-20T03:59:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

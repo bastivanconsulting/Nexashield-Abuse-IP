@@ -8,9 +8,9 @@
 | Country | Hong Kong (HK) |
 | ASN | AS215778 · Alpha Strike Labs GmbH |
 | Activity | Port scanning (4) |
-| Events | 6 |
+| Events | 7 |
 | First seen (UTC) | 2026-11-11T16:25:54Z |
-| Last seen (UTC) | 2026-11-20T01:47:34Z |
+| Last seen (UTC) | 2026-11-20T03:18:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

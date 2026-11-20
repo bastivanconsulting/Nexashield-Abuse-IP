@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IP%20malveillantes-5880-dc2626?style=flat&labelColor=080f12" alt="IP">
+  <img src="https://img.shields.io/badge/IP%20malveillantes-5893-dc2626?style=flat&labelColor=080f12" alt="IP">
   <img src="https://img.shields.io/badge/pays-71-2563eb?style=flat&labelColor=080f12" alt="Pays">
   <img src="https://img.shields.io/badge/mise%20à%20jour-2026--11--20-1fa669?style=flat&labelColor=080f12" alt="Mise à jour">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-fr-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 5880 IP, 71 pays, 462 réseaux, 312992 événements">
+  <img width="100%" src="assets/stats-fr-light.svg" alt="Statistiques : 5893 IP, 71 pays, 463 réseaux, 314700 événements">
 </picture>
 
 > [!TIP]
@@ -140,11 +140,7 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx, mise à jour planifiée : **[gui
 
 ## 🤖 Analyse de la menace par l'IA NexaShield
 
-Sur la période observée, avec une dernière activité enregistrée le 2026-11-20, le dépôt recense 312992 événements répartis sur 5880 adresses IP issues de 71 pays et 462 réseaux ASN. Les principales origines géographiques incluent les États-Unis avec 2360 adresses, le Royaume-Uni avec 968 et les Pays-Bas avec 538. Les activités observées couvrent principalement le balayage de ports avec 5472 occurrences et l'infrastructure botnet / C2 connue avec 4316 occurrences.
-
-- Les réseaux les plus représentés sont AS25369 (Hydra Communications Ltd) avec 967 événements, AS8075 (Microsoft Corporation) avec 779 et AS396982 (Google LLC) avec 433
-- Parmi les autres natures d'événements figurent les requêtes HTTP abusives (374), l'exploitation (CVE, RCE, injection) (309) et la force brute SSH (239)
-- On relève également 131 charges d'injection bloquées par le WAF, 56 réseaux listés Spamhaus DROP, ainsi qu'une occurrence de force brute SMTP / IMAP et une signature d'exploit UDP
+Le dépôt recense 314700 événements générés par 5893 adresses IP réparties sur 71 pays et 463 réseaux ASN, avec une activité observée jusqu'au 2026-11-20. Les
 
 <sub>Synthèse générée automatiquement le 2026-11-20 par l'IA NexaShield (Mistral AI, modèle européen) à partir des seules statistiques de ce dépôt ; relue par aucun humain avant publication, à titre indicatif.</sub>
 
@@ -160,10 +156,10 @@ Sur la période observée, avec une dernière activité enregistrée le 2026-11-
 
 | Pays | IP |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 2360 |
+| 🇺🇸 [United States](countries/US_United-States/) | 2362 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 968 |
-| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 538 |
-| 🇩🇪 [Germany](countries/DE_Germany/) | 440 |
+| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 540 |
+| 🇩🇪 [Germany](countries/DE_Germany/) | 442 |
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 349 |
 | 🇫🇷 [France](countries/FR_France/) | 276 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 178 |
@@ -171,9 +167,9 @@ Sur la période observée, avec une dernière activité enregistrée le 2026-11-
 | 🇨🇳 [China](countries/CN_China/) | 67 |
 | 🇸🇬 [Singapore](countries/SG_Singapore/) | 61 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 46 |
-| 🇯🇵 [Japan](countries/JP_Japan/) | 41 |
+| 🇯🇵 [Japan](countries/JP_Japan/) | 43 |
 | 🇸🇪 [Sweden](countries/SE_Sweden/) | 40 |
-| 🇧🇷 [Brazil](countries/BR_Brazil/) | 35 |
+| 🇧🇷 [Brazil](countries/BR_Brazil/) | 38 |
 | 🇹🇭 [Thailand](countries/TH_Thailand/) | 34 |
 
 ➡️ [Tous les pays](countries/)
@@ -185,12 +181,12 @@ Sur la période observée, avec une dernière activité enregistrée le 2026-11-
 
 | Nature | IP |
 |---|---:|
-| Balayage de ports | 5472 |
-| Infrastructure botnet / C2 connue | 4316 |
-| Requêtes HTTP abusives | 374 |
+| Balayage de ports | 5480 |
+| Infrastructure botnet / C2 connue | 4327 |
+| Requêtes HTTP abusives | 375 |
 | Exploitation (CVE, RCE, injection) | 309 |
-| Force brute SSH | 239 |
-| Charge d'injection bloquée par le WAF | 131 |
+| Force brute SSH | 241 |
+| Charge d'injection bloquée par le WAF | 133 |
 | Réseau listé Spamhaus DROP | 56 |
 | Force brute SMTP / IMAP | 1 |
 | Signature d'exploit UDP | 1 |
@@ -205,14 +201,14 @@ Sur la période observée, avec une dernière activité enregistrée le 2026-11-
 |---|---|---|---:|
 | **AS25369** | Hydra Communications Ltd | [🇬🇧 694](countries/GB_United-Kingdom/AS25369_Hydra-Communications-Ltd/) [🇳🇱 210](countries/NL_The-Netherlands/AS25369_Hydra-Communications-Ltd/) [🇩🇪 63](countries/DE_Germany/AS25369_Hydra-Communications-Ltd/) | 967 |
 | **AS8075** | Microsoft Corporation | [🇺🇸 768](countries/US_United-States/AS8075_Microsoft-Corporation/) [🇦🇪 3](countries/AE_United-Arab-Emirates/AS8075_Microsoft-Corporation/) [🇳🇱 2](countries/NL_The-Netherlands/AS8075_Microsoft-Corporation/) [🇿🇦 2](countries/ZA_South-Africa/AS8075_Microsoft-Corporation/) [🇩🇰 1](countries/DK_Denmark/AS8075_Microsoft-Corporation/) [🇮🇪 1](countries/IE_Ireland/AS8075_Microsoft-Corporation/) [🇮🇱 1](countries/IL_Israel/AS8075_Microsoft-Corporation/) [🇮🇳 1](countries/IN_India/AS8075_Microsoft-Corporation/) | 779 |
-| **AS396982** | Google LLC | [🇬🇧 200](countries/GB_United-Kingdom/AS396982_Google-LLC/) [🇺🇸 158](countries/US_United-States/AS396982_Google-LLC/) [🇧🇪 42](countries/BE_Belgium/AS396982_Google-LLC/) [🇫🇷 8](countries/FR_France/AS396982_Google-LLC/) [🇩🇪 5](countries/DE_Germany/AS396982_Google-LLC/) [🇯🇵 3](countries/JP_Japan/AS396982_Google-LLC/) [🇰🇷 3](countries/KR_South-Korea/AS396982_Google-LLC/) [🇦🇺 2](countries/AU_Australia/AS396982_Google-LLC/) [🇧🇷 2](countries/BR_Brazil/AS396982_Google-LLC/) [🇨🇦 2](countries/CA_Canada/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇨🇱 1](countries/CL_Chile/AS396982_Google-LLC/) [🇭🇰 1](countries/HK_Hong-Kong/AS396982_Google-LLC/) [🇮🇩 1](countries/ID_Indonesia/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇸🇬 1](countries/SG_Singapore/AS396982_Google-LLC/) [🇹🇼 1](countries/TW_Taiwan/AS396982_Google-LLC/) | 433 |
-| **AS43515** | Google Ireland Limited | [🇧🇪 307](countries/BE_Belgium/AS43515_Google-Ireland-Limited/) [🇳🇱 9](countries/NL_The-Netherlands/AS43515_Google-Ireland-Limited/) | 316 |
+| **AS396982** | Google LLC | [🇬🇧 200](countries/GB_United-Kingdom/AS396982_Google-LLC/) [🇺🇸 158](countries/US_United-States/AS396982_Google-LLC/) [🇧🇪 42](countries/BE_Belgium/AS396982_Google-LLC/) [🇫🇷 8](countries/FR_France/AS396982_Google-LLC/) [🇩🇪 5](countries/DE_Germany/AS396982_Google-LLC/) [🇰🇷 4](countries/KR_South-Korea/AS396982_Google-LLC/) [🇯🇵 3](countries/JP_Japan/AS396982_Google-LLC/) [🇦🇺 2](countries/AU_Australia/AS396982_Google-LLC/) [🇧🇷 2](countries/BR_Brazil/AS396982_Google-LLC/) [🇨🇦 2](countries/CA_Canada/AS396982_Google-LLC/) [🇮🇳 2](countries/IN_India/AS396982_Google-LLC/) [🇨🇱 1](countries/CL_Chile/AS396982_Google-LLC/) [🇭🇰 1](countries/HK_Hong-Kong/AS396982_Google-LLC/) [🇮🇩 1](countries/ID_Indonesia/AS396982_Google-LLC/) [🇳🇱 1](countries/NL_The-Netherlands/AS396982_Google-LLC/) [🇸🇬 1](countries/SG_Singapore/AS396982_Google-LLC/) [🇹🇼 1](countries/TW_Taiwan/AS396982_Google-LLC/) | 434 |
+| **AS43515** | Google Ireland Limited | [🇧🇪 307](countries/BE_Belgium/AS43515_Google-Ireland-Limited/) [🇳🇱 10](countries/NL_The-Netherlands/AS43515_Google-Ireland-Limited/) | 317 |
 | **AS398324** | Censys, Inc. | [🇺🇸 311](countries/US_United-States/AS398324_Censys-Inc/) | 311 |
-| **AS14618** | Amazon.com, Inc. | [🇺🇸 266](countries/US_United-States/AS14618_Amazon-com-Inc/) | 266 |
+| **AS14618** | Amazon.com, Inc. | [🇺🇸 267](countries/US_United-States/AS14618_Amazon-com-Inc/) | 267 |
 | **AS135377** | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | [🇭🇰 73](countries/HK_Hong-Kong/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇺🇸 55](countries/US_United-States/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇭 30](countries/TH_Thailand/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇬🇧 24](countries/GB_United-Kingdom/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇩🇪 15](countries/DE_Germany/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇳🇬 10](countries/NG_Nigeria/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇯🇵 7](countries/JP_Japan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇰🇷 6](countries/KR_South-Korea/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇸🇬 6](countries/SG_Singapore/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇼 6](countries/TW_Taiwan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇻🇳 6](countries/VN_Vietnam/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇧🇷 5](countries/BR_Brazil/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇦🇪 4](countries/AE_United-Arab-Emirates/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇵🇭 4](countries/PH_Philippines/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇷🇺 3](countries/RU_Russia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇳 2](countries/IN_India/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇩 1](countries/ID_Indonesia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | 257 |
 | **AS213412** | ONYPHE SAS | [🇫🇷 146](countries/FR_France/AS213412_ONYPHE-SAS/) [🇺🇸 99](countries/US_United-States/AS213412_ONYPHE-SAS/) [🇨🇳 6](countries/CN_China/AS213412_ONYPHE-SAS/) | 251 |
 | **AS14061** | DigitalOcean, LLC | [🇺🇸 69](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 30](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇸🇬 17](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇬🇧 16](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇳🇱 13](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇦🇺 9](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇮🇳 6](countries/IN_India/AS14061_DigitalOcean-LLC/) [🇨🇦 5](countries/CA_Canada/AS14061_DigitalOcean-LLC/) | 165 |
-| **AS211680** | NSEC - Sistemas Informaticos, S.A. | [🇺🇸 81](countries/US_United-States/AS211680_NSEC-Sistemas-Informaticos-S-A/) [🇳🇱 63](countries/NL_The-Netherlands/AS211680_NSEC-Sistemas-Informaticos-S-A/) | 144 |
+| **AS211680** | NSEC - Sistemas Informaticos, S.A. | [🇺🇸 82](countries/US_United-States/AS211680_NSEC-Sistemas-Informaticos-S-A/) [🇳🇱 63](countries/NL_The-Netherlands/AS211680_NSEC-Sistemas-Informaticos-S-A/) | 145 |
 
 ---
 
@@ -340,7 +336,7 @@ Dans les noms de dossier IPv6, les `:` sont remplacés par `_` (compatibilité W
 En plus des adresses signalées ci-dessus, NexaShield publie **toutes** les adresses qu'il a bannies définitivement sur l'infrastructure de Bastivan Consulting : récidive, petites attaques persistantes jugées par l'IA, campagnes confirmées. Mise à jour automatique toutes les heures.
 
 <!-- BANS:START -->
-**4827** adresses bannies définitivement (**4771** IP, **56** plages CIDR), mises à jour toutes les heures : [`bans/permaban.txt`](bans/permaban.txt) (commentée) · [`bans/plain/all.txt`](bans/plain/all.txt) (flux pare-feu) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
+**4840** adresses bannies définitivement (**4784** IP, **56** plages CIDR), mises à jour toutes les heures : [`bans/permaban.txt`](bans/permaban.txt) (commentée) · [`bans/plain/all.txt`](bans/plain/all.txt) (flux pare-feu) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
 <!-- BANS:END -->
 
 > Ces adresses n'ont pas toutes été signalées à leur hébergeur : pour un blocage strictement « signalé et prouvé », préférez [`lists/`](lists/).
