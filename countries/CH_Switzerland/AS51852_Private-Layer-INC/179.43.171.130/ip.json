@@ -5,12 +5,12 @@
   "asn": 51852,
   "asn_org": "Private Layer INC",
   "categories": {
-    "scan": 8,
+    "scan": 9,
     "waf": 324,
     "c2": 2
   },
-  "events": 338,
+  "events": 339,
   "first_seen": "2026-11-17T19:48:42Z",
-  "last_seen": "2026-11-19T12:37:53Z",
+  "last_seen": "2026-11-20T02:00:38Z",
   "reported": "not reported (permanent ban)"
 }

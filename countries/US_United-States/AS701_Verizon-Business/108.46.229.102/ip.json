@@ -1,0 +1,15 @@
+{
+  "ip": "108.46.229.102",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 701,
+  "asn_org": "Verizon Business",
+  "categories": {
+    "ssh": 10,
+    "scan": 2
+  },
+  "events": 12,
+  "first_seen": "2026-11-20T01:56:26Z",
+  "last_seen": "2026-11-20T01:56:52Z",
+  "reported": "2026-11-20T02:26:24Z"
+}

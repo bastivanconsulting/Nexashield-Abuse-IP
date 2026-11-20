@@ -1,0 +1,15 @@
+{
+  "ip": "40.90.233.136",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "scan": 8,
+    "c2": 3
+  },
+  "events": 15,
+  "first_seen": "2026-11-11T17:23:17Z",
+  "last_seen": "2026-11-20T01:50:03Z",
+  "reported": "not reported (permanent ban)"
+}

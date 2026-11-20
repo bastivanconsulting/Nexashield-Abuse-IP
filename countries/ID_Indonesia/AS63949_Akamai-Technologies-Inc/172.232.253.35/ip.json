@@ -1,0 +1,14 @@
+{
+  "ip": "172.232.253.35",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "ssh": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-20T02:21:45Z",
+  "last_seen": "2026-11-20T02:21:45Z",
+  "reported": "not reported (permanent ban)"
+}

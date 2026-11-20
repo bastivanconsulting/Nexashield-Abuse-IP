@@ -7,10 +7,10 @@
 | IP | `134.33.67.109` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (13) |
-| Events | 24 |
+| Activity | Port scanning (14) |
+| Events | 25 |
 | First seen (UTC) | 2026-11-11T17:51:50Z |
-| Last seen (UTC) | 2026-11-19T15:24:31Z |
+| Last seen (UTC) | 2026-11-20T01:21:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

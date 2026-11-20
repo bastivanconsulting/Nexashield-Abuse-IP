@@ -10,7 +10,7 @@
 | [`65.49.20.70`](65.49.20.70/) | Port scanning (18), Known botnet / C2 infrastructure (8) | 27 | 2026-11-17T13:36:44Z |
 | [`65.49.20.72`](65.49.20.72/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-19T08:00:40Z |
 | [`65.49.20.75`](65.49.20.75/) | Port scanning (23), Known botnet / C2 infrastructure (13) | 37 | 2026-11-19T06:15:56Z |
-| [`65.49.20.78`](65.49.20.78/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-19T06:38:46Z |
+| [`65.49.20.78`](65.49.20.78/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-20T01:34:13Z |
 | [`65.49.20.80`](65.49.20.80/) | Port scanning (23), Known botnet / C2 infrastructure (10) | 34 | 2026-11-19T06:27:56Z |
 | [`65.49.20.81`](65.49.20.81/) | Port scanning (19), Known botnet / C2 infrastructure (11) | 31 | 2026-11-19T04:16:33Z |
 | [`65.49.20.82`](65.49.20.82/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-12T05:25:02Z |
@@ -32,7 +32,7 @@
 | [`65.49.20.118`](65.49.20.118/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-12T04:58:01Z |
 | [`65.49.20.119`](65.49.20.119/) | Port scanning (21), Known botnet / C2 infrastructure (11) | 33 | 2026-11-19T14:40:18Z |
 | [`65.49.20.120`](65.49.20.120/) | Port scanning (25), Known botnet / C2 infrastructure (12) | 38 | 2026-11-19T05:35:53Z |
-| [`65.49.20.124`](65.49.20.124/) | Port scanning (26), Known botnet / C2 infrastructure (10) | 37 | 2026-11-19T06:11:52Z |
+| [`65.49.20.124`](65.49.20.124/) | Port scanning (27), Known botnet / C2 infrastructure (11) | 39 | 2026-11-20T01:55:35Z |
 | [`65.49.20.125`](65.49.20.125/) | Port scanning (18), Known botnet / C2 infrastructure (12) | 31 | 2026-11-19T12:23:40Z |
 | [`74.82.47.2`](74.82.47.2/) | Abusive HTTP requests (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-16T07:18:04Z |
 | [`74.82.47.5`](74.82.47.5/) | Abusive HTTP requests (3), Known botnet / C2 infrastructure (2), SSH brute force (1) | 8 | 2026-11-19T02:45:27Z |

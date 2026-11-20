@@ -16,7 +16,7 @@
 | [`194.187.176.31`](194.187.176.31/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T03:27:57Z |
 | [`194.187.176.35`](194.187.176.35/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-18T10:26:13Z |
 | [`194.187.176.43`](194.187.176.43/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-18T04:02:31Z |
-| [`194.187.176.45`](194.187.176.45/) | Known botnet / C2 infrastructure (4), Port scanning (3) | 8 | 2026-11-18T22:31:05Z |
+| [`194.187.176.45`](194.187.176.45/) | Known botnet / C2 infrastructure (5), Port scanning (4) | 10 | 2026-11-20T02:00:09Z |
 | [`194.187.176.48`](194.187.176.48/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-19T22:14:58Z |
 | [`194.187.176.51`](194.187.176.51/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T11:13:02Z |
 | [`194.187.176.57`](194.187.176.57/) | Port scanning (1) | 2 | 2026-11-18T13:18:04Z |
@@ -58,7 +58,7 @@
 | [`194.187.176.233`](194.187.176.233/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-20T00:18:30Z |
 | [`194.187.176.238`](194.187.176.238/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T17:32:04Z |
 | [`194.187.176.244`](194.187.176.244/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-19T20:03:51Z |
-| [`194.187.176.245`](194.187.176.245/) | Port scanning (2), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-19T23:15:03Z |
+| [`194.187.176.245`](194.187.176.245/) | Port scanning (3), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) | 7 | 2026-11-20T02:07:35Z |
 | [`194.187.176.247`](194.187.176.247/) | Port scanning (1) | 2 | 2026-11-19T02:18:04Z |
 | [`194.187.176.252`](194.187.176.252/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-19T16:48:46Z |
 | [`194.187.176.253`](194.187.176.253/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T08:59:05Z |
