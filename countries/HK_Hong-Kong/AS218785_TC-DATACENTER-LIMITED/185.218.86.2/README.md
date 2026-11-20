@@ -7,10 +7,10 @@
 | IP | `185.218.86.2` |
 | Country | Hong Kong (HK) |
 | ASN | AS218785 · TC DATACENTER LIMITED |
-| Activity | Port scanning (350) |
-| Events | 400 |
+| Activity | Port scanning (351) |
+| Events | 401 |
 | First seen (UTC) | 2026-11-11T12:43:18Z |
-| Last seen (UTC) | 2026-11-20T14:22:07Z |
+| Last seen (UTC) | 2026-11-20T15:25:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

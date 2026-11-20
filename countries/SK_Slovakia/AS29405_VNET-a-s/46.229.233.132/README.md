@@ -7,10 +7,10 @@
 | IP | `46.229.233.132` |
 | Country | Slovakia (SK) |
 | ASN | AS29405 · VNET a.s. |
-| Activity | Port scanning (107), Known botnet / C2 infrastructure (19) |
-| Events | 130 |
+| Activity | Port scanning (108), Known botnet / C2 infrastructure (19) |
+| Events | 131 |
 | First seen (UTC) | 2026-11-11T09:57:22Z |
-| Last seen (UTC) | 2026-11-20T14:46:23Z |
+| Last seen (UTC) | 2026-11-20T15:58:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

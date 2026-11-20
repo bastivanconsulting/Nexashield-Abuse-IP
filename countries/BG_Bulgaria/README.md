@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS50360](AS50360_Tamatiya-EOOD/) | Tamatiya EOOD | 36 | Port scanning (7234), Known botnet / C2 infrastructure (400), Abusive HTTP requests (36), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS209160](AS209160_Miti-2000-EOOD/) | Miti 2000 EOOD | 3 | Port scanning (1439), Known botnet / C2 infrastructure (105) |
-| [AS208637](AS208637_4-Vendeta-Ltd/) | 4 Vendeta Ltd | 2 | Port scanning (578), Known botnet / C2 infrastructure (34), SSH brute force (28) |
+| [AS50360](AS50360_Tamatiya-EOOD/) | Tamatiya EOOD | 36 | Port scanning (7246), Known botnet / C2 infrastructure (406), Abusive HTTP requests (36), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS209160](AS209160_Miti-2000-EOOD/) | Miti 2000 EOOD | 3 | Port scanning (1445), Known botnet / C2 infrastructure (105) |
+| [AS208637](AS208637_4-Vendeta-Ltd/) | 4 Vendeta Ltd | 2 | Port scanning (581), Known botnet / C2 infrastructure (34), SSH brute force (28) |
 | [AS209425](AS209425_KOI-CLOUD-SERVICES-Pty-Ltd/) | KOI CLOUD SERVICES (Pty) Ltd | 2 | Port scanning (162), Known botnet / C2 infrastructure (26) |
 | [AS29580](AS29580_A1-Bulgaria-EAD/) | A1 Bulgaria EAD | 1 | SSH brute force (10), Port scanning (1) |
 | [AS44901](AS44901_Belcloud-LTD/) | Belcloud LTD | 1 | Web injection payload blocked by WAF (27), Abusive HTTP requests (3) |
-| [AS57509](AS57509_L-L-Investment-Ltd/) | L&L Investment Ltd. | 1 | Port scanning (496), Known botnet / C2 infrastructure (35) |
+| [AS57509](AS57509_L-L-Investment-Ltd/) | L&L Investment Ltd. | 1 | Port scanning (497), Known botnet / C2 infrastructure (35) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
