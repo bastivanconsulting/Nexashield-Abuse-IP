@@ -4,21 +4,21 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209630](AS209630_LLC-VASH-KREDIT-BANK/) | LLC VASH KREDIT BANK | 80 | Port scanning (6563), Known botnet / C2 infrastructure (1185), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (3) |
-| [AS208843](AS208843_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 63 | Port scanning (268), Known botnet / C2 infrastructure (226), Exploitation attempt (CVE / RCE / injection) (3) |
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 63 | Port scanning (3286), Known botnet / C2 infrastructure (982), Abusive HTTP requests (7) |
-| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 40 | Port scanning (1699), Known botnet / C2 infrastructure (287), Abusive HTTP requests (10), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS209630](AS209630_LLC-VASH-KREDIT-BANK/) | LLC VASH KREDIT BANK | 80 | Port scanning (6611), Known botnet / C2 infrastructure (1190), Exploitation attempt (CVE / RCE / injection) (45), Abusive HTTP requests (3) |
+| [AS208843](AS208843_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 63 | Port scanning (270), Known botnet / C2 infrastructure (228), Exploitation attempt (CVE / RCE / injection) (3) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 63 | Port scanning (3295), Known botnet / C2 infrastructure (987), Abusive HTTP requests (7) |
+| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 40 | Port scanning (1701), Known botnet / C2 infrastructure (289), Abusive HTTP requests (10), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 33 | Port scanning (171), Known botnet / C2 infrastructure (129) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 30 | Port scanning (168), Abusive HTTP requests (85), Known botnet / C2 infrastructure (70), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS401626](AS401626_Netiface-America-Inc/) | Netiface America, Inc. | 22 | Port scanning (496), Known botnet / C2 infrastructure (5) |
-| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 16 | Port scanning (5572), Known botnet / C2 infrastructure (303), Abusive HTTP requests (14) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 15 | Port scanning (179), Known botnet / C2 infrastructure (91) |
+| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 16 | Port scanning (5582), Known botnet / C2 infrastructure (305), Abusive HTTP requests (14) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 15 | Port scanning (180), Known botnet / C2 infrastructure (92) |
 | [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 9 | SSH brute force (244), Spamhaus DROP-listed network (70), Port scanning (18), Known botnet / C2 infrastructure (5), Abusive HTTP requests (3) |
-| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 8 | Port scanning (968), Abusive HTTP requests (51), Known botnet / C2 infrastructure (42) |
+| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 8 | Port scanning (969), Abusive HTTP requests (51), Known botnet / C2 infrastructure (42) |
 | [AS199457](AS199457_SolidCore-Hosting-LTD/) | SolidCore Hosting LTD | 7 | Port scanning (277), Abusive HTTP requests (118), Known botnet / C2 infrastructure (20) |
 | [AS211607](AS211607_Securitytrails-LLC/) | Securitytrails, LLC | 7 | Port scanning (208), Known botnet / C2 infrastructure (4) |
 | [AS51167](AS51167_Contabo-GmbH/) | Contabo GmbH | 7 | Abusive HTTP requests (156), Port scanning (52), Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (7) |
-| [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 5 | Port scanning (531), Abusive HTTP requests (213), Known botnet / C2 infrastructure (9) |
+| [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 5 | Port scanning (533), Abusive HTTP requests (213), Known botnet / C2 infrastructure (10) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 5 | Abusive HTTP requests (1101), Web injection payload blocked by WAF (259) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 5 | Port scanning (1432), Abusive HTTP requests (49), Known botnet / C2 infrastructure (9), Web injection payload blocked by WAF (2) |
 | [AS680](AS680_Verein-zur-Foerderung-eines-Deutschen-Forschungs/) | Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. | 5 | Port scanning (77), Known botnet / C2 infrastructure (26), SSH brute force (12) |

@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (30) |
+| [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (34) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (5), Web injection payload blocked by WAF (3) |
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (235), Known botnet / C2 infrastructure (55) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (236), Known botnet / C2 infrastructure (55) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | Port scanning (29) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (35) |
 | [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (14), Known botnet / C2 infrastructure (5), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |
@@ -16,7 +16,7 @@
 | [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (19), Known botnet / C2 infrastructure (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | SSH brute force (16), Port scanning (1) |
-| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (34) |
+| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (35) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

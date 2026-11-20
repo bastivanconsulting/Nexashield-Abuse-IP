@@ -1,10 +1,10 @@
 # 🇨🇦 Canada
 
-**45** malicious IP(s) across **8** network(s).
+**46** malicious IP(s) across **8** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 31 | Port scanning (458), Known botnet / C2 infrastructure (104) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 32 | Port scanning (502), Known botnet / C2 infrastructure (116) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 5 | Port scanning (146), Abusive HTTP requests (24), Known botnet / C2 infrastructure (12), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Abusive HTTP requests (16), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (1) |
 | [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 2 | Port scanning (50), Known botnet / C2 infrastructure (3), Abusive HTTP requests (2) |

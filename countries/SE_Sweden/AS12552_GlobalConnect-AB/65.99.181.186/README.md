@@ -7,10 +7,10 @@
 | IP | `65.99.181.186` |
 | Country | Sweden (SE) |
 | ASN | AS12552 · GlobalConnect AB |
-| Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (3) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-16T04:51:25Z |
-| Last seen (UTC) | 2026-11-19T21:29:12Z |
+| Last seen (UTC) | 2026-11-20T16:23:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

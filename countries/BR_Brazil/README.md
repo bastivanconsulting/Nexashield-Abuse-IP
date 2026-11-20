@@ -1,13 +1,13 @@
 # 🇧🇷 Brazil
 
-**39** malicious IP(s) across **19** network(s).
+**40** malicious IP(s) across **19** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 6 | Port scanning (920), Known botnet / C2 infrastructure (78), Exploitation attempt (CVE / RCE / injection) (48) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (927), Known botnet / C2 infrastructure (81), Exploitation attempt (CVE / RCE / injection) (48) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (66), Known botnet / C2 infrastructure (18) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | SSH brute force (18), Known botnet / C2 infrastructure (12) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (314), SSH brute force (9), Known botnet / C2 infrastructure (7) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (315), SSH brute force (9), Known botnet / C2 infrastructure (7) |
 | [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | SSH brute force (16), Known botnet / C2 infrastructure (9) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (945), Web injection payload blocked by WAF (73) |
 | [AS7738](AS7738_V-tal/) | V tal | 2 | SSH brute force (9), Known botnet / C2 infrastructure (6) |

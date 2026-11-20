@@ -7,10 +7,10 @@
 | IP | `154.18.197.29` |
 | Country | Philippines (PH) |
 | ASN | AS142271 · DoubleSquare Networks Inc. |
-| Activity | SSH brute force (1064), Port scanning (948) |
-| Events | 2012 |
+| Activity | SSH brute force (1064), Port scanning (988) |
+| Events | 2052 |
 | First seen (UTC) | 2026-11-09T20:03:14Z |
-| Last seen (UTC) | 2026-11-20T16:35:00Z |
+| Last seen (UTC) | 2026-11-20T17:20:48Z |
 | Reported to network owner (UTC) | 2026-11-11T16:34:54Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

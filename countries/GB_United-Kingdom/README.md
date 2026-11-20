@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 703 | Port scanning (14062), Known botnet / C2 infrastructure (3106), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 703 | Port scanning (14077), Known botnet / C2 infrastructure (3115), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3796), Known botnet / C2 infrastructure (853) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 24 | Port scanning (332), Known botnet / C2 infrastructure (205) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 16 | Port scanning (353), Abusive HTTP requests (68), Known botnet / C2 infrastructure (62), Exploitation attempt (CVE / RCE / injection) (15) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1073), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 24 | Port scanning (333), Known botnet / C2 infrastructure (206) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 16 | Port scanning (357), Abusive HTTP requests (68), Known botnet / C2 infrastructure (62), Exploitation attempt (CVE / RCE / injection) (15) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1074), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 3 | SSH brute force (2444), Spamhaus DROP-listed network (113) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (50), Known botnet / C2 infrastructure (18) |
