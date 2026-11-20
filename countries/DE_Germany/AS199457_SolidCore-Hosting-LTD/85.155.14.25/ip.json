@@ -1,0 +1,15 @@
+{
+  "ip": "85.155.14.25",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 199457,
+  "asn_org": "SolidCore Hosting LTD",
+  "categories": {
+    "scan": 7,
+    "c2": 3
+  },
+  "events": 14,
+  "first_seen": "2026-11-11T10:24:05Z",
+  "last_seen": "2026-11-20T08:50:04Z",
+  "reported": "not reported (permanent ban)"
+}

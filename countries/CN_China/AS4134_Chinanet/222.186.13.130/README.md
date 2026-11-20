@@ -7,10 +7,10 @@
 | IP | `222.186.13.130` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (156), Known botnet / C2 infrastructure (25) |
-| Events | 202 |
+| Activity | Port scanning (157), Known botnet / C2 infrastructure (25) |
+| Events | 203 |
 | First seen (UTC) | 2026-11-11T11:14:57Z |
-| Last seen (UTC) | 2026-11-20T03:49:52Z |
+| Last seen (UTC) | 2026-11-20T09:13:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

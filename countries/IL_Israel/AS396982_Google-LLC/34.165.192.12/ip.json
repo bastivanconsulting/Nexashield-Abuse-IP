@@ -1,0 +1,14 @@
+{
+  "ip": "34.165.192.12",
+  "country_code": "IL",
+  "country": "Israel",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 282
+  },
+  "events": 285,
+  "first_seen": "2026-11-20T08:50:12Z",
+  "last_seen": "2026-11-20T08:51:04Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -16,7 +16,7 @@
 | [`92.118.39.43`](92.118.39.43/) | Port scanning (4) | 5 | 2026-11-18T08:18:03Z |
 | [`92.118.39.49`](92.118.39.49/) | SSH brute force (64), Port scanning (23), Known botnet / C2 infrastructure (10) | 103 | 2026-11-20T06:14:49Z |
 | [`92.118.39.50`](92.118.39.50/) | SSH brute force (54), Port scanning (29), Known botnet / C2 infrastructure (13) | 101 | 2026-11-19T19:00:51Z |
-| [`92.118.39.56`](92.118.39.56/) | Known botnet / C2 infrastructure (8), Port scanning (8), SSH brute force (2) | 20 | 2026-11-19T11:59:09Z |
+| [`92.118.39.56`](92.118.39.56/) | Known botnet / C2 infrastructure (9), Port scanning (9), SSH brute force (2) | 22 | 2026-11-20T08:22:25Z |
 | [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 9 | 2026-11-20T04:45:03Z |
 | [`92.118.39.63`](92.118.39.63/) | SSH brute force (84), Port scanning (19), Known botnet / C2 infrastructure (10) | 118 | 2026-11-19T07:22:31Z |
 | [`92.118.39.64`](92.118.39.64/) | SSH brute force (22), Port scanning (16), Known botnet / C2 infrastructure (8) | 50 | 2026-11-20T00:50:30Z |
@@ -32,7 +32,7 @@
 | [`92.118.39.181`](92.118.39.181/) | Port scanning (218), Known botnet / C2 infrastructure (14) | 238 | 2026-11-20T07:27:19Z |
 | [`92.118.39.227`](92.118.39.227/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-18T08:18:10Z |
 | [`92.118.39.246`](92.118.39.246/) | Port scanning (11) | 12 | 2026-11-16T03:44:37Z |
-| [`193.32.162.15`](193.32.162.15/) | Port scanning (403), Known botnet / C2 infrastructure (29), SSH brute force (20) | 467 | 2026-11-20T05:52:57Z |
+| [`193.32.162.15`](193.32.162.15/) | Port scanning (406), Known botnet / C2 infrastructure (29), SSH brute force (20) | 470 | 2026-11-20T08:35:44Z |
 | [`193.32.162.73`](193.32.162.73/) | Web injection payload blocked by WAF (16), Port scanning (7), Known botnet / C2 infrastructure (1) | 25 | 2026-11-14T21:56:54Z |
 | [`193.32.162.76`](193.32.162.76/) | Web injection payload blocked by WAF (13), Port scanning (8), Known botnet / C2 infrastructure (1) | 23 | 2026-11-14T21:56:54Z |
 | [`193.32.162.84`](193.32.162.84/) | Known botnet / C2 infrastructure (6) | 25 | 2026-11-17T23:05:32Z |
