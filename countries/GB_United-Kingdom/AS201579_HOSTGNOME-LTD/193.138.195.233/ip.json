@@ -6,10 +6,10 @@
   "asn_org": "HOSTGNOME LTD",
   "categories": {
     "c2": 16,
-    "scan": 51
+    "scan": 52
   },
-  "events": 68,
+  "events": 69,
   "first_seen": "2026-11-14T06:33:08Z",
-  "last_seen": "2026-11-20T17:18:42Z",
+  "last_seen": "2026-11-20T18:58:47Z",
   "reported": "not reported (permanent ban)"
 }

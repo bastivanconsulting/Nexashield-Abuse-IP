@@ -1,0 +1,16 @@
+{
+  "ip": "154.12.2.130",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 64249,
+  "asn_org": "Charles River Operation",
+  "categories": {
+    "ssh": 4,
+    "scan": 3,
+    "c2": 2
+  },
+  "events": 14,
+  "first_seen": "2026-11-17T03:47:06Z",
+  "last_seen": "2026-11-19T20:03:51Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -43,7 +43,7 @@
 | [`167.94.146.75`](167.94.146.75/) | Port scanning (54), Known botnet / C2 infrastructure (18) | 77 | 2026-11-20T06:17:53Z |
 | [`167.94.146.77`](167.94.146.77/) | Port scanning (46), Known botnet / C2 infrastructure (17) | 66 | 2026-11-18T20:54:03Z |
 | [`167.94.146.78`](167.94.146.78/) | Port scanning (45), Known botnet / C2 infrastructure (13) | 62 | 2026-11-17T17:58:06Z |
-| [`167.94.146.79`](167.94.146.79/) | Port scanning (61), Known botnet / C2 infrastructure (17) | 84 | 2026-11-20T10:56:10Z |
+| [`167.94.146.79`](167.94.146.79/) | Port scanning (62), Known botnet / C2 infrastructure (18) | 86 | 2026-11-20T18:44:30Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -12,12 +12,12 @@
 | [`193.124.20.231`](193.124.20.231/) | Port scanning (29), Known botnet / C2 infrastructure (7) | 39 | 2026-11-20T05:43:10Z |
 | [`193.124.20.232`](193.124.20.232/) | Port scanning (56), Known botnet / C2 infrastructure (19) | 76 | 2026-11-20T07:40:58Z |
 | [`193.124.20.233`](193.124.20.233/) | Port scanning (50), Known botnet / C2 infrastructure (16) | 68 | 2026-11-18T22:48:21Z |
-| [`193.124.20.235`](193.124.20.235/) | Port scanning (78), Known botnet / C2 infrastructure (5) | 101 | 2026-11-20T13:04:42Z |
+| [`193.124.20.235`](193.124.20.235/) | Port scanning (79), Known botnet / C2 infrastructure (6) | 103 | 2026-11-20T19:05:51Z |
 | [`193.124.20.236`](193.124.20.236/) | Port scanning (23), Known botnet / C2 infrastructure (2) | 30 | 2026-11-18T20:47:23Z |
 | [`193.124.20.237`](193.124.20.237/) | Port scanning (82), Known botnet / C2 infrastructure (24) | 107 | 2026-11-20T17:29:22Z |
 | [`193.124.20.238`](193.124.20.238/) | Port scanning (30), Known botnet / C2 infrastructure (11) | 42 | 2026-11-20T06:05:31Z |
 | [`193.124.20.243`](193.124.20.243/) | Port scanning (18), Known botnet / C2 infrastructure (6) | 25 | 2026-11-13T01:27:05Z |
-| [`193.124.20.244`](193.124.20.244/) | Port scanning (65), Known botnet / C2 infrastructure (18) | 85 | 2026-11-18T19:33:16Z |
+| [`193.124.20.244`](193.124.20.244/) | Port scanning (66), Known botnet / C2 infrastructure (19) | 87 | 2026-11-20T19:05:51Z |
 | [`193.124.20.245`](193.124.20.245/) | Port scanning (53), Known botnet / C2 infrastructure (16) | 71 | 2026-11-20T10:02:58Z |
 | [`193.124.20.246`](193.124.20.246/) | Port scanning (81), Known botnet / C2 infrastructure (7) | 107 | 2026-11-20T10:36:01Z |
 | [`193.124.20.247`](193.124.20.247/) | Port scanning (71), Known botnet / C2 infrastructure (21) | 93 | 2026-11-20T09:54:00Z |
@@ -56,17 +56,17 @@
 | [`194.88.98.113`](194.88.98.113/) | Port scanning (28), Known botnet / C2 infrastructure (12) | 41 | 2026-11-20T16:54:29Z |
 | [`194.88.98.114`](194.88.98.114/) | Port scanning (81), Known botnet / C2 infrastructure (26) | 108 | 2026-11-20T12:46:17Z |
 | [`194.88.98.115`](194.88.98.115/) | Port scanning (19), Known botnet / C2 infrastructure (5) | 25 | 2026-11-20T10:59:58Z |
-| [`194.88.98.116`](194.88.98.116/) | Port scanning (62), Known botnet / C2 infrastructure (21) | 84 | 2026-11-20T04:05:42Z |
+| [`194.88.98.116`](194.88.98.116/) | Port scanning (63), Known botnet / C2 infrastructure (22) | 86 | 2026-11-20T18:51:37Z |
 | [`194.88.98.117`](194.88.98.117/) | Port scanning (71), Known botnet / C2 infrastructure (24) | 96 | 2026-11-20T09:15:10Z |
 | [`194.88.98.118`](194.88.98.118/) | Port scanning (80), Known botnet / C2 infrastructure (25) | 106 | 2026-11-20T18:06:24Z |
 | [`194.88.98.119`](194.88.98.119/) | Port scanning (30), Known botnet / C2 infrastructure (4) | 39 | 2026-11-20T12:51:49Z |
 | [`194.88.98.120`](194.88.98.120/) | Port scanning (32), Known botnet / C2 infrastructure (9) | 45 | 2026-11-20T02:57:24Z |
 | [`194.88.98.121`](194.88.98.121/) | Port scanning (83), Known botnet / C2 infrastructure (27) | 111 | 2026-11-20T13:43:45Z |
-| [`194.88.98.122`](194.88.98.122/) | Port scanning (65), Known botnet / C2 infrastructure (17) | 84 | 2026-11-20T17:43:25Z |
+| [`194.88.98.122`](194.88.98.122/) | Port scanning (66), Known botnet / C2 infrastructure (18) | 86 | 2026-11-20T18:33:21Z |
 | [`194.88.98.123`](194.88.98.123/) | Port scanning (16), Known botnet / C2 infrastructure (5) | 24 | 2026-11-19T08:07:08Z |
 | [`194.88.98.124`](194.88.98.124/) | Port scanning (49), Known botnet / C2 infrastructure (14) | 64 | 2026-11-16T22:16:46Z |
 | [`194.88.98.125`](194.88.98.125/) | Port scanning (31), Known botnet / C2 infrastructure (9) | 41 | 2026-11-18T00:22:14Z |
-| [`194.88.98.126`](194.88.98.126/) | Port scanning (34), Known botnet / C2 infrastructure (12) | 50 | 2026-11-20T13:04:05Z |
+| [`194.88.98.126`](194.88.98.126/) | Port scanning (35), Known botnet / C2 infrastructure (12) | 51 | 2026-11-20T18:27:34Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
