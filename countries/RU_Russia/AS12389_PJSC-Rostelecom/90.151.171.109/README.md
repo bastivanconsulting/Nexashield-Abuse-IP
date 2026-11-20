@@ -7,10 +7,10 @@
 | IP | `90.151.171.109` |
 | Country | Russia (RU) |
 | ASN | AS12389 · PJSC Rostelecom |
-| Activity | Port scanning (33), Known botnet / C2 infrastructure (7) |
-| Events | 55 |
+| Activity | Port scanning (34), Known botnet / C2 infrastructure (8) |
+| Events | 57 |
 | First seen (UTC) | 2026-11-13T08:13:20Z |
-| Last seen (UTC) | 2026-11-20T03:51:58Z |
+| Last seen (UTC) | 2026-11-20T12:33:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `176.65.148.51` |
 | Country | The Netherlands (NL) |
 | ASN | AS51396 · Pfcloud UG (haftungsbeschrankt) |
-| Activity | Port scanning (97), Known botnet / C2 infrastructure (24), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) |
-| Events | 124 |
+| Activity | Port scanning (98), Known botnet / C2 infrastructure (24), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) |
+| Events | 125 |
 | First seen (UTC) | 2026-11-10T07:07:21Z |
-| Last seen (UTC) | 2026-11-20T01:48:40Z |
+| Last seen (UTC) | 2026-11-20T13:16:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

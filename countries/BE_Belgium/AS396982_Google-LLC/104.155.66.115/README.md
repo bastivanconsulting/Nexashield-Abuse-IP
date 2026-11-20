@@ -8,9 +8,9 @@
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
 | Activity | Port scanning (15), Abusive HTTP requests (7), Known botnet / C2 infrastructure (2) |
-| Events | 29 |
+| Events | 30 |
 | First seen (UTC) | 2026-11-17T19:40:54Z |
-| Last seen (UTC) | 2026-11-20T12:11:53Z |
+| Last seen (UTC) | 2026-11-20T12:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

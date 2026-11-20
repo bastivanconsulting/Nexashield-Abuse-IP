@@ -7,10 +7,10 @@
 | IP | `91.92.42.178` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | SSH brute force (16), Spamhaus DROP-listed network (6) |
-| Events | 22 |
+| Activity | SSH brute force (24), Spamhaus DROP-listed network (8) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-20T09:01:47Z |
-| Last seen (UTC) | 2026-11-20T12:11:25Z |
+| Last seen (UTC) | 2026-11-20T13:31:13Z |
 | Reported to network owner (UTC) | 2026-11-20T12:26:30Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
