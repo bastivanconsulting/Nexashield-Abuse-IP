@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.153.34.32`](45.153.34.32/) | Port scanning (106) | 107 | 2026-11-20T07:19:23Z |
+| [`45.153.34.32`](45.153.34.32/) | Port scanning (108) | 109 | 2026-11-20T14:32:54Z |
 | [`45.153.34.87`](45.153.34.87/) | Port scanning (106) | 107 | 2026-11-20T10:47:31Z |
 | [`45.153.34.178`](45.153.34.178/) | Abusive HTTP requests (3), Spamhaus DROP-listed network (3), Port scanning (3) | 9 | 2026-11-19T18:24:02Z |
 | [`45.153.34.203`](45.153.34.203/) | Web injection payload blocked by WAF (10), Port scanning (3), Exploitation attempt (CVE / RCE / injection) (2), Spamhaus DROP-listed network (1) | 16 | 2026-11-19T08:28:43Z |

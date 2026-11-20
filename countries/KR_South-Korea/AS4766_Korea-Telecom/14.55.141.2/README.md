@@ -7,10 +7,10 @@
 | IP | `14.55.141.2` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | SSH brute force (5), Port scanning (2) |
-| Events | 7 |
+| Activity | SSH brute force (15), Port scanning (4) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-16T07:43:54Z |
-| Last seen (UTC) | 2026-11-16T07:44:08Z |
+| Last seen (UTC) | 2026-11-20T14:37:08Z |
 | Reported to network owner (UTC) | 2026-11-16T08:25:14Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

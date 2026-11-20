@@ -1,0 +1,15 @@
+{
+  "ip": "49.51.166.228",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 132203,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "web": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-11T14:36:36Z",
+  "last_seen": "2026-11-20T14:59:04Z",
+  "reported": "not reported (permanent ban)"
+}

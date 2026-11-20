@@ -1,6 +1,6 @@
 # AS51396 · Pfcloud UG (haftungsbeschrankt)
 
-🇳🇱 The Netherlands · **17** malicious IP(s)
+🇳🇱 The Netherlands · **18** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -20,6 +20,7 @@
 | [`176.65.149.232`](176.65.149.232/) | Port scanning (19) | 20 | 2026-11-20T10:56:48Z |
 | [`176.65.149.233`](176.65.149.233/) | Port scanning (20) | 21 | 2026-11-17T18:53:06Z |
 | [`176.65.149.236`](176.65.149.236/) | Port scanning (91), Known botnet / C2 infrastructure (23), Abusive HTTP requests (1) | 116 | 2026-11-20T14:14:04Z |
+| [`176.65.149.252`](176.65.149.252/) | Port scanning (34) | 34 | 2026-11-20T14:41:37Z |
 | [`176.65.151.21`](176.65.151.21/) | Abusive HTTP requests (5), Spamhaus DROP-listed network (1) | 6 | 2026-11-17T22:33:26Z |
 
 ---
