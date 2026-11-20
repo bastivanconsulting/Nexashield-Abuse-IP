@@ -7,10 +7,10 @@
 | IP | `154.222.21.108` |
 | Country | Hong Kong (HK) |
 | ASN | AS401701 · cognetcloud INC |
-| Activity | Port scanning (34), Known botnet / C2 infrastructure (5) |
-| Events | 43 |
+| Activity | Port scanning (35), Known botnet / C2 infrastructure (5) |
+| Events | 44 |
 | First seen (UTC) | 2026-11-11T21:46:53Z |
-| Last seen (UTC) | 2026-11-20T00:22:02Z |
+| Last seen (UTC) | 2026-11-20T05:11:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

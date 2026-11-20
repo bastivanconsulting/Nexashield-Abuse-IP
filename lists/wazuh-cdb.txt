@@ -89,6 +89,7 @@
 2.57.122.209:nexashield
 2.74.196.126:nexashield
 3.15.230.87:nexashield
+3.82.150.219:nexashield
 3.82.152.46:nexashield
 3.83.220.42:nexashield
 3.83.245.221:nexashield
@@ -104,6 +105,7 @@
 3.91.176.192:nexashield
 3.92.217.71:nexashield
 3.92.221.139:nexashield
+3.94.86.176:nexashield
 3.94.103.124:nexashield
 3.94.210.59:nexashield
 3.95.168.235:nexashield
@@ -635,6 +637,7 @@
 20.102.91.13:nexashield
 20.105.65.67:nexashield
 20.106.51.28:nexashield
+20.106.51.46:nexashield
 20.106.51.146:nexashield
 20.106.59.36:nexashield
 20.106.59.145:nexashield
@@ -648,6 +651,7 @@
 20.115.97.12:nexashield
 20.118.27.60:nexashield
 20.118.27.114:nexashield
+20.118.27.138:nexashield
 20.118.27.151:nexashield
 20.118.27.165:nexashield
 20.118.27.212:nexashield
@@ -2410,6 +2414,7 @@
 54.90.125.232:nexashield
 54.91.60.230:nexashield
 54.91.74.198:nexashield
+54.144.113.180:nexashield
 54.145.62.66:nexashield
 54.146.247.185:nexashield
 54.152.242.84:nexashield
@@ -2429,6 +2434,7 @@
 54.167.94.192:nexashield
 54.167.103.79:nexashield
 54.167.110.220:nexashield
+54.167.153.226:nexashield
 54.172.42.231:nexashield
 54.172.133.156:nexashield
 54.174.133.101:nexashield
@@ -2569,6 +2575,7 @@
 66.132.159.118:nexashield
 66.132.159.122:nexashield
 66.132.159.129:nexashield
+66.132.159.138:nexashield
 66.132.159.143:nexashield
 66.132.172.16:nexashield
 66.132.172.33:nexashield
@@ -2920,6 +2927,7 @@
 74.249.178.182:nexashield
 74.249.178.185:nexashield
 74.249.193.234:nexashield
+75.101.226.56:nexashield
 77.90.185.14:nexashield
 77.90.185.21:nexashield
 77.90.185.29:nexashield
@@ -4049,6 +4057,7 @@
 119.28.155.249:nexashield
 119.195.45.76:nexashield
 119.237.102.129:nexashield
+119.237.243.163:nexashield
 120.26.220.254:nexashield
 120.76.156.83:nexashield
 120.89.66.17:nexashield
@@ -4077,6 +4086,7 @@
 128.1.131.193:nexashield
 128.14.229.76:nexashield
 128.14.236.30:nexashield
+128.14.236.128:nexashield
 128.14.236.224:nexashield
 128.14.237.43:nexashield
 128.14.239.38:nexashield
@@ -5469,6 +5479,7 @@
 194.187.176.35:nexashield
 194.187.176.43:nexashield
 194.187.176.45:nexashield
+194.187.176.46:nexashield
 194.187.176.48:nexashield
 194.187.176.51:nexashield
 194.187.176.57:nexashield
@@ -5512,6 +5523,7 @@
 194.187.176.232:nexashield
 194.187.176.233:nexashield
 194.187.176.238:nexashield
+194.187.176.241:nexashield
 194.187.176.244:nexashield
 194.187.176.245:nexashield
 194.187.176.247:nexashield

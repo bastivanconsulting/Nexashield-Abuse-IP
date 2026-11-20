@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (46), Known botnet / C2 infrastructure (22) |
-| [AS142271](AS142271_DoubleSquare-Networks-Inc/) | DoubleSquare Networks Inc. | 1 | SSH brute force (1064), Port scanning (298) |
+| [AS142271](AS142271_DoubleSquare-Networks-Inc/) | DoubleSquare Networks Inc. | 1 | SSH brute force (1064), Port scanning (352) |
 | [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 1 | SSH brute force (5), Port scanning (4) |
 
 ---

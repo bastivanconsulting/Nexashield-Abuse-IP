@@ -5,10 +5,10 @@
   "asn": 47890,
   "asn_org": "UNMANAGED LTD",
   "categories": {
-    "ssh": 738
+    "ssh": 752
   },
-  "events": 738,
+  "events": 752,
   "first_seen": "2026-11-09T16:45:47Z",
-  "last_seen": "2026-11-20T03:30:47Z",
+  "last_seen": "2026-11-20T05:05:40Z",
   "reported": "2026-11-11T16:35:03Z"
 }

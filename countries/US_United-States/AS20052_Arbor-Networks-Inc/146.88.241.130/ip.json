@@ -5,11 +5,11 @@
   "asn": 20052,
   "asn_org": "Arbor Networks, Inc.",
   "categories": {
-    "scan": 71,
+    "scan": 73,
     "c2": 17
   },
-  "events": 102,
+  "events": 104,
   "first_seen": "2026-11-11T11:00:23Z",
-  "last_seen": "2026-11-20T01:19:29Z",
+  "last_seen": "2026-11-20T05:10:44Z",
   "reported": "not reported (permanent ban)"
 }

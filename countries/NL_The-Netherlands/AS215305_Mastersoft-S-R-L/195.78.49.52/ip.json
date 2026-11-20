@@ -5,11 +5,11 @@
   "asn": 215305,
   "asn_org": "Mastersoft S.R.L.",
   "categories": {
-    "scan": 23,
+    "scan": 24,
     "c2": 7
   },
-  "events": 33,
+  "events": 34,
   "first_seen": "2026-11-17T05:26:09Z",
-  "last_seen": "2026-11-20T04:15:22Z",
+  "last_seen": "2026-11-20T04:44:15Z",
   "reported": "not reported (permanent ban)"
 }

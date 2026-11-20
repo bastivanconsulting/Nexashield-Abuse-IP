@@ -7,10 +7,10 @@
 | IP | `176.123.5.126` |
 | Country | Moldova (MD) |
 | ASN | AS200019 · ALEXHOST S.R.L. |
-| Activity | Port scanning (31), Known botnet / C2 infrastructure (15) |
-| Events | 48 |
+| Activity | Port scanning (33), Known botnet / C2 infrastructure (16) |
+| Events | 51 |
 | First seen (UTC) | 2026-11-12T05:53:11Z |
-| Last seen (UTC) | 2026-11-19T00:14:45Z |
+| Last seen (UTC) | 2026-11-20T04:36:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
