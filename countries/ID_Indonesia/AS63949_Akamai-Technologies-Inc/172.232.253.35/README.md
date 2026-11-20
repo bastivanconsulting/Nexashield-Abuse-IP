@@ -7,10 +7,10 @@
 | IP | `172.232.253.35` |
 | Country | Indonesia (ID) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | SSH brute force (1) |
-| Events | 1 |
-| First seen (UTC) | 2026-11-20T02:21:45Z |
-| Last seen (UTC) | 2026-11-20T02:21:45Z |
+| Activity | SSH brute force (16), Port scanning (1) |
+| Events | 19 |
+| First seen (UTC) | 2026-11-20T02:21:02Z |
+| Last seen (UTC) | 2026-11-20T02:22:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

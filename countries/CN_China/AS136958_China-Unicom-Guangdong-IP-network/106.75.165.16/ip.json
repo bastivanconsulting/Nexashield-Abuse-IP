@@ -6,10 +6,10 @@
   "asn_org": "China Unicom Guangdong IP network",
   "categories": {
     "scan": 8,
-    "exploit": 1
+    "exploit": 2
   },
-  "events": 16,
+  "events": 18,
   "first_seen": "2026-11-11T22:47:58Z",
-  "last_seen": "2026-11-19T19:39:57Z",
+  "last_seen": "2026-11-20T03:05:43Z",
   "reported": "not reported (permanent ban)"
 }

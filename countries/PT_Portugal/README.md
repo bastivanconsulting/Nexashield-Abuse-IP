@@ -1,9 +1,10 @@
 # 🇵🇹 Portugal
 
-**1** malicious IP(s) across **1** network(s).
+**2** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS12353](AS12353_Vodafone-Portugal-Communicacoes-Pessoais-S-A/) | Vodafone Portugal - Communicacoes Pessoais S.A. | 1 | SSH brute force (11), Known botnet / C2 infrastructure (3) |
 | [AS215540](AS215540_GLOBAL-CONNECTIVITY-SOLUTIONS-LLP/) | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | Port scanning (19) |
 
 ---
