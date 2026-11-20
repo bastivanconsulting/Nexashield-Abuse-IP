@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇺🇸 United States · **52** malicious IP(s)
+🇺🇸 United States · **54** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -14,6 +14,7 @@
 | [`47.77.223.200`](47.77.223.200/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-16T20:08:04Z |
 | [`47.77.226.249`](47.77.226.249/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T09:16:03Z |
 | [`47.77.228.76`](47.77.228.76/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T07:49:04Z |
+| [`47.77.230.225`](47.77.230.225/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-20T06:37:03Z |
 | [`47.77.235.89`](47.77.235.89/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T18:21:03Z |
 | [`47.88.2.147`](47.88.2.147/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-19T13:06:20Z |
 | [`47.88.18.115`](47.88.18.115/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T10:47:04Z |
@@ -23,7 +24,7 @@
 | [`47.89.248.96`](47.89.248.96/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-19T05:18:02Z |
 | [`47.251.13.198`](47.251.13.198/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-19T15:08:44Z |
 | [`47.251.17.127`](47.251.17.127/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T10:13:03Z |
-| [`47.251.30.247`](47.251.30.247/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T05:26:09Z |
+| [`47.251.30.247`](47.251.30.247/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-20T06:29:03Z |
 | [`47.251.48.41`](47.251.48.41/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T16:23:53Z |
 | [`47.251.52.64`](47.251.52.64/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T04:25:04Z |
 | [`47.251.59.83`](47.251.59.83/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-18T13:23:04Z |
@@ -42,6 +43,7 @@
 | [`47.251.101.253`](47.251.101.253/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 12 | 2026-11-16T22:29:58Z |
 | [`47.251.124.51`](47.251.124.51/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T00:19:20Z |
 | [`47.251.171.255`](47.251.171.255/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T07:21:03Z |
+| [`47.251.174.68`](47.251.174.68/) | Port scanning (2), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) | 5 | 2026-11-19T14:32:10Z |
 | [`47.251.178.223`](47.251.178.223/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-19T21:20:04Z |
 | [`47.251.179.212`](47.251.179.212/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 15 | 2026-11-20T03:27:34Z |
 | [`47.251.181.69`](47.251.181.69/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T03:36:03Z |
@@ -55,7 +57,7 @@
 | [`47.254.22.110`](47.254.22.110/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-20T01:14:25Z |
 | [`47.254.44.103`](47.254.44.103/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-17T04:36:14Z |
 | [`47.254.90.34`](47.254.90.34/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T18:10:04Z |
-| [`198.11.177.252`](198.11.177.252/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-19T02:41:04Z |
+| [`198.11.177.252`](198.11.177.252/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-20T06:19:53Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

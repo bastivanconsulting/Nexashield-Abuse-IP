@@ -8,8 +8,8 @@
 | [`45.198.224.32`](45.198.224.32/) | Port scanning (51), Known botnet / C2 infrastructure (7) | 61 | 2026-11-17T08:23:57Z |
 | [`45.198.224.69`](45.198.224.69/) | Port scanning (19), Known botnet / C2 infrastructure (3) | 24 | 2026-11-12T23:15:01Z |
 | [`45.198.224.70`](45.198.224.70/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-17T05:18:25Z |
-| [`45.198.224.71`](45.198.224.71/) | Port scanning (123), Known botnet / C2 infrastructure (19) | 146 | 2026-11-20T06:00:11Z |
-| [`45.198.224.72`](45.198.224.72/) | Port scanning (105), Known botnet / C2 infrastructure (18) | 126 | 2026-11-20T05:05:45Z |
+| [`45.198.224.71`](45.198.224.71/) | Port scanning (124), Known botnet / C2 infrastructure (19) | 147 | 2026-11-20T06:48:03Z |
+| [`45.198.224.72`](45.198.224.72/) | Port scanning (110), Known botnet / C2 infrastructure (18) | 131 | 2026-11-20T07:09:16Z |
 | [`45.198.224.76`](45.198.224.76/) | Port scanning (20), Known botnet / C2 infrastructure (6) | 27 | 2026-11-20T05:18:34Z |
 | [`45.198.224.83`](45.198.224.83/) | Port scanning (6) | 7 | 2026-11-18T22:16:13Z |
 | [`45.198.224.84`](45.198.224.84/) | Port scanning (4) | 6 | 2026-11-18T06:18:14Z |
@@ -30,7 +30,7 @@
 | [`45.198.224.237`](45.198.224.237/) | Port scanning (28), Known botnet / C2 infrastructure (7) | 37 | 2026-11-19T11:52:12Z |
 | [`45.198.224.238`](45.198.224.238/) | Port scanning (35), Known botnet / C2 infrastructure (7) | 43 | 2026-11-19T10:12:37Z |
 | [`45.198.224.239`](45.198.224.239/) | Port scanning (31), Known botnet / C2 infrastructure (7) | 39 | 2026-11-19T11:25:45Z |
-| [`45.198.224.251`](45.198.224.251/) | Port scanning (411), Exploitation attempt (CVE / RCE / injection) (33), Known botnet / C2 infrastructure (28) | 589 | 2026-11-20T05:54:17Z |
+| [`45.198.224.251`](45.198.224.251/) | Port scanning (414), Exploitation attempt (CVE / RCE / injection) (33), Known botnet / C2 infrastructure (28) | 592 | 2026-11-20T06:50:38Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

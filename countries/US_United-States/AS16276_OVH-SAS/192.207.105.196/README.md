@@ -7,10 +7,10 @@
 | IP | `192.207.105.196` |
 | Country | United States (US) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (438), Known botnet / C2 infrastructure (28) |
-| Events | 506 |
+| Activity | Port scanning (441), Known botnet / C2 infrastructure (28) |
+| Events | 509 |
 | First seen (UTC) | 2026-11-11T09:50:22Z |
-| Last seen (UTC) | 2026-11-20T05:21:37Z |
+| Last seen (UTC) | 2026-11-20T06:51:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

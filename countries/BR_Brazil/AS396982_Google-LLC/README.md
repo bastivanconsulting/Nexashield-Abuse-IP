@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`34.95.139.249`](34.95.139.249/) | Web injection payload blocked by WAF (62) | 64 | 2026-11-20T06:17:04Z |
+| [`34.95.139.249`](34.95.139.249/) | Web injection payload blocked by WAF (282) | 285 | 2026-11-20T06:18:28Z |
 | [`34.95.221.104`](34.95.221.104/) | Abusive HTTP requests (172), Web injection payload blocked by WAF (11) | 183 | 2026-11-16T21:12:00Z |
 | [`35.199.96.92`](35.199.96.92/) | Abusive HTTP requests (257), Web injection payload blocked by WAF (10) | 267 | 2026-11-14T09:43:58Z |
 
