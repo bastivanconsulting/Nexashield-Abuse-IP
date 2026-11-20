@@ -4,11 +4,11 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.153.34.32`](45.153.34.32/) | Port scanning (102) | 103 | 2026-11-20T00:14:50Z |
+| [`45.153.34.32`](45.153.34.32/) | Port scanning (104) | 105 | 2026-11-20T05:56:05Z |
 | [`45.153.34.87`](45.153.34.87/) | Port scanning (98) | 99 | 2026-11-20T05:08:09Z |
 | [`45.153.34.178`](45.153.34.178/) | Abusive HTTP requests (3), Spamhaus DROP-listed network (3), Port scanning (3) | 9 | 2026-11-19T18:24:02Z |
 | [`45.153.34.203`](45.153.34.203/) | Web injection payload blocked by WAF (10), Port scanning (3), Exploitation attempt (CVE / RCE / injection) (2), Spamhaus DROP-listed network (1) | 16 | 2026-11-19T08:28:43Z |
-| [`45.153.34.230`](45.153.34.230/) | Abusive HTTP requests (8), Known botnet / C2 infrastructure (4), Port scanning (4) | 17 | 2026-11-19T03:37:55Z |
+| [`45.153.34.230`](45.153.34.230/) | Abusive HTTP requests (8), Known botnet / C2 infrastructure (5), Port scanning (5) | 19 | 2026-11-20T05:22:27Z |
 | [`45.156.87.10`](45.156.87.10/) | Port scanning (17) | 19 | 2026-11-20T03:42:39Z |
 | [`45.156.87.50`](45.156.87.50/) | SSH brute force (25) | 25 | 2026-11-12T03:52:57Z |
 | [`45.156.87.72`](45.156.87.72/) | SSH brute force (17) | 17 | 2026-11-12T01:10:46Z |

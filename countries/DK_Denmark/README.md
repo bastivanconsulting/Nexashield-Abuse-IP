@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS1835](AS1835_Forskningsnettet-Danish-network-for-Research-and/) | Forskningsnettet - Danish network for Research and Education | 1 | Known botnet / C2 infrastructure (4), Port scanning (3), Abusive HTTP requests (1) |
+| [AS1835](AS1835_Forskningsnettet-Danish-network-for-Research-and/) | Forskningsnettet - Danish network for Research and Education | 1 | Known botnet / C2 infrastructure (4), Port scanning (4), Abusive HTTP requests (1) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | Port scanning (1) |
 
 ---

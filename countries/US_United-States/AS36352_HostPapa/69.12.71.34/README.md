@@ -7,10 +7,10 @@
 | IP | `69.12.71.34` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Port scanning (38), Known botnet / C2 infrastructure (9) |
-| Events | 48 |
+| Activity | Port scanning (40), Known botnet / C2 infrastructure (9) |
+| Events | 50 |
 | First seen (UTC) | 2026-11-12T01:05:45Z |
-| Last seen (UTC) | 2026-11-20T05:02:49Z |
+| Last seen (UTC) | 2026-11-20T06:02:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
