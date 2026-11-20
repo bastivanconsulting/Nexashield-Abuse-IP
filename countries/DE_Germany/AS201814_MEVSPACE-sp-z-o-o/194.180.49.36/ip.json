@@ -1,0 +1,15 @@
+{
+  "ip": "194.180.49.36",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 201814,
+  "asn_org": "MEVSPACE sp. z o.o.",
+  "categories": {
+    "scan": 17,
+    "c2": 2
+  },
+  "events": 21,
+  "first_seen": "2026-11-11T17:41:47Z",
+  "last_seen": "2026-11-20T20:11:04Z",
+  "reported": "not reported (permanent ban)"
+}

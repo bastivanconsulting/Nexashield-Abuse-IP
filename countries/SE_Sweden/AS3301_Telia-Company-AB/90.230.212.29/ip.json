@@ -1,0 +1,14 @@
+{
+  "ip": "90.230.212.29",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 3301,
+  "asn_org": "Telia Company AB",
+  "categories": {
+    "ssh": 12
+  },
+  "events": 12,
+  "first_seen": "2026-11-19T15:16:09Z",
+  "last_seen": "2026-11-20T17:19:30Z",
+  "reported": "2026-11-20T20:30:18Z"
+}

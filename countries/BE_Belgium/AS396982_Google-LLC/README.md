@@ -47,7 +47,7 @@
 | [`130.211.87.56`](130.211.87.56/) | Abusive HTTP requests (133) | 133 | 2026-11-18T01:38:52Z |
 | [`207.175.61.160`](207.175.61.160/) | Abusive HTTP requests (350) | 350 | 2026-11-20T07:02:22Z |
 | [`207.175.97.104`](207.175.97.104/) | Abusive HTTP requests (152) | 152 | 2026-11-18T03:49:30Z |
-| [`207.175.103.117`](207.175.103.117/) | Port scanning (15), Known botnet / C2 infrastructure (3), Abusive HTTP requests (2) | 25 | 2026-11-20T15:55:34Z |
+| [`207.175.103.117`](207.175.103.117/) | Port scanning (16), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) | 27 | 2026-11-20T19:24:09Z |
 | [`207.175.162.235`](207.175.162.235/) | Abusive HTTP requests (845) | 845 | 2026-11-20T09:09:52Z |
 | [`207.175.165.55`](207.175.165.55/) | Abusive HTTP requests (75) | 75 | 2026-11-11T23:59:07Z |
 | [`207.175.202.245`](207.175.202.245/) | Abusive HTTP requests (135) | 135 | 2026-11-13T21:42:46Z |

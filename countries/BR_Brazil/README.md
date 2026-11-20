@@ -4,10 +4,10 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (932), Known botnet / C2 infrastructure (82), Exploitation attempt (CVE / RCE / injection) (48) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (934), Known botnet / C2 infrastructure (82), Exploitation attempt (CVE / RCE / injection) (48) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (66), Known botnet / C2 infrastructure (18) |
-| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | SSH brute force (18), Known botnet / C2 infrastructure (12) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (316), SSH brute force (9), Known botnet / C2 infrastructure (7) |
+| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | SSH brute force (18), Known botnet / C2 infrastructure (13), Port scanning (1) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (317), SSH brute force (9), Known botnet / C2 infrastructure (7) |
 | [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | SSH brute force (16), Known botnet / C2 infrastructure (9) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (945), Web injection payload blocked by WAF (73) |
 | [AS7738](AS7738_V-tal/) | V tal | 2 | SSH brute force (9), Known botnet / C2 infrastructure (6) |
@@ -15,7 +15,7 @@
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (21) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (21), Known botnet / C2 infrastructure (5) |
-| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (24), Known botnet / C2 infrastructure (6) |
+| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (25), Known botnet / C2 infrastructure (6) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |
 | [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (35), Known botnet / C2 infrastructure (17) |
 | [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 1 | Port scanning (10), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |

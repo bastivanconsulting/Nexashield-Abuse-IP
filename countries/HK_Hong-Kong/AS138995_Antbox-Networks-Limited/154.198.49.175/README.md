@@ -7,10 +7,10 @@
 | IP | `154.198.49.175` |
 | Country | Hong Kong (HK) |
 | ASN | AS138995 · Antbox Networks Limited |
-| Activity | Port scanning (8), Known botnet / C2 infrastructure (3) |
-| Events | 12 |
+| Activity | Port scanning (9), Known botnet / C2 infrastructure (3) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-16T12:08:14Z |
-| Last seen (UTC) | 2026-11-18T16:06:03Z |
+| Last seen (UTC) | 2026-11-20T19:42:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

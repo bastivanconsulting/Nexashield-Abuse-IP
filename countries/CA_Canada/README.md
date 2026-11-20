@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 32 | Port scanning (552), Known botnet / C2 infrastructure (120) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 32 | Port scanning (590), Known botnet / C2 infrastructure (121) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 5 | Port scanning (148), Abusive HTTP requests (24), Known botnet / C2 infrastructure (12), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Abusive HTTP requests (16), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (1) |
 | [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 2 | Port scanning (50), Known botnet / C2 infrastructure (3), Abusive HTTP requests (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (258), Web injection payload blocked by WAF (26), Port scanning (11) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Abusive HTTP requests (15), Known botnet / C2 infrastructure (11) |
-| [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
+| [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 | [AS7794](AS7794_Execulink-Telecom-Inc/) | Execulink Telecom Inc. | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
 
 ---
