@@ -1974,6 +1974,7 @@
 45.140.222.175:nexashield
 45.144.52.239:nexashield
 45.144.212.158:nexashield
+45.148.9.76:nexashield
 45.148.10.5:nexashield
 45.148.10.21:nexashield
 45.148.10.61:nexashield
@@ -2332,6 +2333,7 @@
 47.250.83.248:nexashield
 47.250.84.254:nexashield
 47.250.86.46:nexashield
+47.250.87.26:nexashield
 47.250.95.153:nexashield
 47.250.118.116:nexashield
 47.250.130.240:nexashield

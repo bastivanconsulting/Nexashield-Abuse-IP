@@ -5,11 +5,11 @@
   "asn": 215929,
   "asn_org": "Data Campus Limited",
   "categories": {
-    "scan": 12,
-    "c2": 4
+    "scan": 14,
+    "c2": 5
   },
-  "events": 17,
+  "events": 20,
   "first_seen": "2026-11-18T02:43:15Z",
-  "last_seen": "2026-11-20T16:58:06Z",
+  "last_seen": "2026-11-20T18:01:52Z",
   "reported": "not reported (permanent ban)"
 }

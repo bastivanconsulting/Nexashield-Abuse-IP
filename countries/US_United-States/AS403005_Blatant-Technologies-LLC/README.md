@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`36.255.97.7`](36.255.97.7/) | Port scanning (29) | 29 | 2026-11-20T15:09:50Z |
-| [`36.255.97.39`](36.255.97.39/) | Port scanning (32), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 48 | 2026-11-20T15:52:24Z |
+| [`36.255.97.39`](36.255.97.39/) | Port scanning (33), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 49 | 2026-11-20T18:11:49Z |
 | [`36.255.97.41`](36.255.97.41/) | Port scanning (9) | 10 | 2026-11-20T15:22:45Z |
 | [`36.255.97.125`](36.255.97.125/) | Port scanning (8) | 10 | 2026-11-18T15:50:48Z |
 | [`36.255.97.137`](36.255.97.137/) | Port scanning (37) | 48 | 2026-11-19T14:39:35Z |
@@ -22,11 +22,11 @@
 | [`43.228.157.49`](43.228.157.49/) | Port scanning (13), Known botnet / C2 infrastructure (7) | 21 | 2026-11-20T08:39:12Z |
 | [`43.228.157.90`](43.228.157.90/) | Port scanning (24) | 25 | 2026-11-18T20:57:03Z |
 | [`43.228.157.161`](43.228.157.161/) | Port scanning (11) | 12 | 2026-11-20T11:15:49Z |
-| [`43.228.157.180`](43.228.157.180/) | Port scanning (10) | 11 | 2026-11-20T17:14:43Z |
+| [`43.228.157.180`](43.228.157.180/) | Port scanning (11) | 12 | 2026-11-20T17:59:44Z |
 | [`43.228.157.200`](43.228.157.200/) | Port scanning (11) | 12 | 2026-11-20T14:18:37Z |
 | [`43.228.157.215`](43.228.157.215/) | Port scanning (32) | 37 | 2026-11-20T14:45:03Z |
 | [`43.228.157.222`](43.228.157.222/) | Port scanning (20) | 21 | 2026-11-14T21:56:40Z |
-| [`43.228.157.245`](43.228.157.245/) | Port scanning (16), Known botnet / C2 infrastructure (10) | 27 | 2026-11-19T01:26:22Z |
+| [`43.228.157.245`](43.228.157.245/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-20T17:34:26Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

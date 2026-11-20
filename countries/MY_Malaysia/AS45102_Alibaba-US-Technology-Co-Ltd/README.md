@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇲🇾 Malaysia · **17** malicious IP(s)
+🇲🇾 Malaysia · **18** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`47.250.83.248`](47.250.83.248/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-20T05:38:13Z |
 | [`47.250.84.254`](47.250.84.254/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T11:15:04Z |
 | [`47.250.86.46`](47.250.86.46/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-20T02:21:04Z |
+| [`47.250.87.26`](47.250.87.26/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-20T18:03:04Z |
 | [`47.250.95.153`](47.250.95.153/) | Port scanning (3), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 8 | 2026-11-16T04:01:04Z |
 | [`47.250.118.116`](47.250.118.116/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-17T08:13:47Z |
 | [`47.250.130.240`](47.250.130.240/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-16T04:52:11Z |

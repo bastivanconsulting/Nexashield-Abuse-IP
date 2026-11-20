@@ -5,12 +5,12 @@
   "asn": 44589,
   "asn_org": "DIGITAL NETWORK S.R.L.",
   "categories": {
-    "scan": 1701,
+    "scan": 1710,
     "c2": 18,
     "ssh": 322
   },
-  "events": 2105,
+  "events": 2114,
   "first_seen": "2026-11-11T21:33:16Z",
-  "last_seen": "2026-11-20T17:05:33Z",
+  "last_seen": "2026-11-20T18:08:34Z",
   "reported": "not reported (permanent ban)"
 }

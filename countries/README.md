@@ -29,7 +29,7 @@
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 3 |
 | [🇫🇮 Finland](FI_Finland/) | 7 |
 | [🇫🇷 France](FR_France/) | 287 |
-| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 979 |
+| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 980 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
 | [🇭🇰 Hong Kong](HK_Hong-Kong/) | 179 |
 | [🇭🇺 Hungary](HU_Hungary/) | 5 |
@@ -49,7 +49,7 @@
 | [🇱🇺 Luxembourg](LU_Luxembourg/) | 3 |
 | [🇲🇩 Moldova](MD_Moldova/) | 2 |
 | [🇲🇽 Mexico](MX_Mexico/) | 3 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 18 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 19 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 13 |
 | [🇳🇱 The Netherlands](NL_The-Netherlands/) | 568 |
 | [🇳🇴 Norway](NO_Norway/) | 1 |
