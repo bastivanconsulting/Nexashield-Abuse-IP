@@ -12,7 +12,7 @@
 | [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (14), Known botnet / C2 infrastructure (5), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |
 | [AS141983](AS141983_PT-Rajeg-Media-Telekomunikasi/) | PT Rajeg Media Telekomunikasi | 1 | Port scanning (10), Known botnet / C2 infrastructure (4), Abusive HTTP requests (1) |
 | [AS150493](AS150493_PT-Gunung-Sedayu-Sentosa/) | PT Gunung Sedayu Sentosa | 1 | Web injection payload blocked by WAF (1) |
-| [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (23) |
+| [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (24) |
 | [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (20), Known botnet / C2 infrastructure (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | SSH brute force (16), Port scanning (1) |

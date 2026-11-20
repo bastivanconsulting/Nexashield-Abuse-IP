@@ -1,6 +1,6 @@
 # 🇵🇰 Pakistan
 
-**12** malicious IP(s) across **6** network(s).
+**13** malicious IP(s) across **7** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [AS142647](AS142647_Nasstec-Airnet-Networks-Private-Limited/) | Nasstec Airnet Networks Private Limited | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 | [AS151330](AS151330_PLAY-BROADBAND-PRIVATE-LIMITED/) | PLAY BROADBAND (PRIVATE) LIMITED | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 | [AS17557](AS17557_Pakistan-Telecommuication-company-limited/) | Pakistan Telecommuication company limited | 1 | SSH brute force (12) |
+| [AS59257](AS59257_CMPak-Limited/) | CMPak Limited | 1 | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

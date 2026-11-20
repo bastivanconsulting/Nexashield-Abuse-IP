@@ -1,0 +1,16 @@
+{
+  "ip": "199.7.163.33",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 395336,
+  "asn_org": "MacStadium, Inc.",
+  "categories": {
+    "ssh": 6,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 12,
+  "first_seen": "2026-11-19T15:33:51Z",
+  "last_seen": "2026-11-20T21:39:05Z",
+  "reported": "not reported (permanent ban)"
+}

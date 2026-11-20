@@ -7,10 +7,10 @@
 | IP | `123.138.18.10` |
 | Country | China (CN) |
 | ASN | AS4837 · CHINA UNICOM China169 Backbone |
-| Activity | Port scanning (33), Known botnet / C2 infrastructure (5) |
-| Events | 42 |
+| Activity | Port scanning (34), Known botnet / C2 infrastructure (5) |
+| Events | 43 |
 | First seen (UTC) | 2026-11-13T16:22:55Z |
-| Last seen (UTC) | 2026-11-19T13:29:56Z |
+| Last seen (UTC) | 2026-11-20T21:57:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

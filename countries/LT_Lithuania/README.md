@@ -1,10 +1,11 @@
 # 🇱🇹 Lithuania
 
-**13** malicious IP(s) across **2** network(s).
+**14** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 12 | Port scanning (1424), Spamhaus DROP-listed network (709), Known botnet / C2 infrastructure (14) |
+| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 12 | Port scanning (1428), Spamhaus DROP-listed network (715), Known botnet / C2 infrastructure (14) |
+| [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
 | [AS48721](AS48721_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 
 ---

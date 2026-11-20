@@ -1,0 +1,15 @@
+{
+  "ip": "213.101.138.172",
+  "country_code": "LT",
+  "country": "Lithuania",
+  "asn": 1257,
+  "asn_org": "Tele2 Sverige AB",
+  "categories": {
+    "ssh": 6,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-18T01:01:02Z",
+  "last_seen": "2026-11-20T22:16:06Z",
+  "reported": "not reported (permanent ban)"
+}
