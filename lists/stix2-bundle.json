@@ -2195,7 +2195,7 @@
    "pattern": "[ipv4-addr:value = '2.57.121.25']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T17:20:00.000Z",
-   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (966)",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (852)",
    "labels": [
     "ssh"
    ],
@@ -2213,7 +2213,7 @@
    "id": "indicator--2d7cec94-e9f6-5c1c-b74e-65032ea83d2c",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-09T16:45:47.000Z",
-   "modified": "2026-11-19T21:41:46.000Z",
+   "modified": "2026-11-20T00:10:42.000Z",
    "name": "NexaShield abuse IP 2.57.121.112",
    "indicator_types": [
     "malicious-activity"
@@ -2221,7 +2221,7 @@
    "pattern": "[ipv4-addr:value = '2.57.121.112']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T16:45:47.000Z",
-   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (801)",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (710)",
    "labels": [
     "ssh"
    ],
@@ -2358,7 +2358,7 @@
    "pattern": "[ipv4-addr:value = '2.74.196.126']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T19:16:22.000Z",
-   "description": "Kazakhstan - AS29355 Kcell JSC - Exploitation attempt (CVE / RCE / injection) (2)",
+   "description": "Kazakhstan - AS29355 Kcell JSC - Exploitation attempt (CVE / RCE / injection) (1)",
    "labels": [
     "exploit"
    ],
@@ -3081,7 +3081,7 @@
    "pattern": "[ipv4-addr:value = '3.147.122.184']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T14:24:47.000Z",
-   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (28)",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (23)",
    "labels": [
     "scan"
    ],
@@ -4284,7 +4284,7 @@
    "id": "indicator--e2967d16-29f9-59f7-89fd-829511c3fe5c",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:40:03.000Z",
-   "modified": "2026-11-19T23:09:09.000Z",
+   "modified": "2026-11-20T00:06:55.000Z",
    "name": "NexaShield abuse IP 5.187.38.30",
    "indicator_types": [
     "malicious-activity"
@@ -4292,7 +4292,7 @@
    "pattern": "[ipv4-addr:value = '5.187.38.30']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:40:03.000Z",
-   "description": "Hong Kong - AS206264 Amarutu Technology Ltd - Port scanning (613), Abusive HTTP requests (46)",
+   "description": "Hong Kong - AS206264 Amarutu Technology Ltd - Port scanning (614), Abusive HTTP requests (46)",
    "labels": [
     "scan",
     "web"
@@ -4981,7 +4981,7 @@
    "id": "indicator--15dbc04f-ebd8-5a22-9a01-79075febee1b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T17:23:07.000Z",
-   "modified": "2026-11-19T07:43:48.000Z",
+   "modified": "2026-11-20T00:03:14.000Z",
    "name": "NexaShield abuse IP 5.226.140.31",
    "indicator_types": [
     "malicious-activity"
@@ -4989,7 +4989,7 @@
    "pattern": "[ipv4-addr:value = '5.226.140.31']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T17:23:07.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (31), Known botnet / C2 infrastructure (15)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (32), Known botnet / C2 infrastructure (16)",
    "labels": [
     "c2",
     "scan"
@@ -5518,7 +5518,7 @@
    "id": "indicator--6a6589f1-d8d3-5991-96d5-1936ca3f11ed",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T13:45:03.000Z",
-   "modified": "2026-11-19T21:53:03.000Z",
+   "modified": "2026-11-20T00:12:01.000Z",
    "name": "NexaShield abuse IP 5.226.140.65",
    "indicator_types": [
     "malicious-activity"
@@ -5526,7 +5526,7 @@
    "pattern": "[ipv4-addr:value = '5.226.140.65']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T13:45:03.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (47), Known botnet / C2 infrastructure (9)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (48), Known botnet / C2 infrastructure (9)",
    "labels": [
     "c2",
     "scan"
@@ -8779,7 +8779,7 @@
    "id": "indicator--24a3e4e6-9e81-570d-9af5-2cd903f54b98",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T18:28:54.000Z",
-   "modified": "2026-11-19T02:42:04.000Z",
+   "modified": "2026-11-20T00:01:42.000Z",
    "name": "NexaShield abuse IP 8.211.46.83",
    "indicator_types": [
     "malicious-activity"
@@ -8787,7 +8787,7 @@
    "pattern": "[ipv4-addr:value = '8.211.46.83']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T18:28:54.000Z",
-   "description": "Germany - AS45102 Alibaba (US) Technology Co., Ltd. - Port scanning (5), Known botnet / C2 infrastructure (2)",
+   "description": "Germany - AS45102 Alibaba (US) Technology Co., Ltd. - Port scanning (6), Known botnet / C2 infrastructure (3)",
    "labels": [
     "c2",
     "scan"
@@ -10110,7 +10110,7 @@
    "pattern": "[ipv4-addr:value = '18.190.15.50']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T20:17:25.000Z",
-   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (87)",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (83)",
    "labels": [
     "scan"
    ],
@@ -10162,7 +10162,7 @@
    "pattern": "[ipv4-addr:value = '18.191.201.27']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T10:20:56.000Z",
-   "description": "United States - AS16509 Amazon.com, Inc. - Abusive HTTP requests (310)",
+   "description": "United States - AS16509 Amazon.com, Inc. - Abusive HTTP requests (155)",
    "labels": [
     "web"
    ],
@@ -10376,7 +10376,7 @@
    "pattern": "[ipv4-addr:value = '18.217.208.51']",
    "pattern_type": "stix",
    "valid_from": "2026-11-15T01:57:36.000Z",
-   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (26)",
+   "description": "United States - AS16509 Amazon.com, Inc. - Port scanning (22)",
    "labels": [
     "scan"
    ],
@@ -16049,7 +16049,7 @@
    "id": "indicator--2a81ce96-b1d9-5d5c-93b0-45edaa0eee38",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T23:14:26.000Z",
-   "modified": "2026-11-18T07:54:18.000Z",
+   "modified": "2026-11-20T00:06:16.000Z",
    "name": "NexaShield abuse IP 20.83.51.126",
    "indicator_types": [
     "malicious-activity"
@@ -16057,7 +16057,7 @@
    "pattern": "[ipv4-addr:value = '20.83.51.126']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T23:14:26.000Z",
-   "description": "United States - AS8075 Microsoft Corporation - Port scanning (12), Known botnet / C2 infrastructure (5)",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (13), Known botnet / C2 infrastructure (6)",
    "labels": [
     "c2",
     "scan"
@@ -16966,6 +16966,33 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
+   "id": "indicator--a262e38b-2aaf-5b9e-affe-acbaa5853f51",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-11T14:53:05.000Z",
+   "modified": "2026-11-20T00:06:04.000Z",
+   "name": "NexaShield abuse IP 20.106.59.205",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '20.106.59.205']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-11T14:53:05.000Z",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (18), Known botnet / C2 infrastructure (3)",
+   "labels": [
+    "c2",
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
    "id": "indicator--3aaa9c2d-0dfc-5838-a9cf-586b3eb4df2c",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T03:59:17.000Z",
@@ -17481,7 +17508,7 @@
    "id": "indicator--12d56cbe-e3ce-5dd1-a099-2ffc63f3d66a",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T17:11:41.000Z",
-   "modified": "2026-11-19T22:54:07.000Z",
+   "modified": "2026-11-20T00:09:26.000Z",
    "name": "NexaShield abuse IP 20.118.219.95",
    "indicator_types": [
     "malicious-activity"
@@ -17489,7 +17516,7 @@
    "pattern": "[ipv4-addr:value = '20.118.219.95']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T17:11:41.000Z",
-   "description": "United States - AS8075 Microsoft Corporation - Port scanning (16), Known botnet / C2 infrastructure (2)",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (17), Known botnet / C2 infrastructure (2)",
    "labels": [
     "c2",
     "scan"
@@ -17887,7 +17914,7 @@
    "id": "indicator--31594905-dbdd-5afe-9af9-c1f7af533b60",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:09:43.000Z",
-   "modified": "2026-11-18T18:05:56.000Z",
+   "modified": "2026-11-20T00:01:12.000Z",
    "name": "NexaShield abuse IP 20.127.156.77",
    "indicator_types": [
     "malicious-activity"
@@ -17895,7 +17922,7 @@
    "pattern": "[ipv4-addr:value = '20.127.156.77']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:09:43.000Z",
-   "description": "United States - AS8075 Microsoft Corporation - Port scanning (16)",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (17)",
    "labels": [
     "scan"
    ],
@@ -20794,7 +20821,7 @@
    "id": "indicator--68b544f2-bfb3-5451-92e0-c903c6fb3886",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T00:15:32.000Z",
-   "modified": "2026-11-19T22:50:39.000Z",
+   "modified": "2026-11-20T00:08:27.000Z",
    "name": "NexaShield abuse IP 23.92.26.28",
    "indicator_types": [
     "malicious-activity"
@@ -20802,7 +20829,7 @@
    "pattern": "[ipv4-addr:value = '23.92.26.28']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T00:15:32.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (55)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (57)",
    "labels": [
     "scan"
    ],
@@ -20846,7 +20873,7 @@
    "id": "indicator--f8ff4a44-2872-5672-8516-8843617be075",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:24:04.000Z",
-   "modified": "2026-11-19T20:04:27.000Z",
+   "modified": "2026-11-20T00:08:32.000Z",
    "name": "NexaShield abuse IP 23.92.26.123",
    "indicator_types": [
     "malicious-activity"
@@ -20854,7 +20881,7 @@
    "pattern": "[ipv4-addr:value = '23.92.26.123']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:24:04.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (56)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (57)",
    "labels": [
     "scan"
    ],
@@ -20872,7 +20899,7 @@
    "id": "indicator--3461d5ef-9a99-57fc-b5e8-aeb14f72deff",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:54:52.000Z",
-   "modified": "2026-11-19T22:49:35.000Z",
+   "modified": "2026-11-20T00:13:55.000Z",
    "name": "NexaShield abuse IP 23.92.26.208",
    "indicator_types": [
     "malicious-activity"
@@ -20880,7 +20907,7 @@
    "pattern": "[ipv4-addr:value = '23.92.26.208']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:54:52.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (55)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (56)",
    "labels": [
     "scan"
    ],
@@ -24569,7 +24596,7 @@
    "pattern": "[ipv4-addr:value = '34.38.45.30']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T09:31:01.000Z",
-   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (952)",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (476)",
    "labels": [
     "web"
    ],
@@ -24700,7 +24727,7 @@
    "pattern": "[ipv4-addr:value = '34.52.188.32']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T00:08:02.000Z",
-   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (306)",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (153)",
    "labels": [
     "web"
    ],
@@ -24752,7 +24779,7 @@
    "pattern": "[ipv4-addr:value = '34.53.170.250']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T12:09:44.000Z",
-   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (318)",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (159)",
    "labels": [
     "web"
    ],
@@ -24804,7 +24831,7 @@
    "pattern": "[ipv4-addr:value = '34.62.28.78']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T06:05:35.000Z",
-   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (286)",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (143)",
    "labels": [
     "web"
    ],
@@ -25016,6 +25043,32 @@
    "pattern_type": "stix",
    "valid_from": "2026-11-12T23:26:57.000Z",
    "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (300)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--172851c9-8fab-5e09-8b0e-b775076a4436",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-20T00:02:32.000Z",
+   "modified": "2026-11-20T00:02:40.000Z",
+   "name": "NexaShield abuse IP 34.76.183.190",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '34.76.183.190']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-20T00:02:32.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (320)",
    "labels": [
     "web"
    ],
@@ -26077,7 +26130,7 @@
    "pattern": "[ipv4-addr:value = '34.228.104.231']",
    "pattern_type": "stix",
    "valid_from": "2026-11-15T05:53:39.000Z",
-   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (63)",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (60)",
    "labels": [
     "scan"
    ],
@@ -26264,7 +26317,7 @@
    "pattern": "[ipv4-addr:value = '35.169.206.177']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T19:30:50.000Z",
-   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (61)",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (57)",
    "labels": [
     "scan"
    ],
@@ -40158,7 +40211,7 @@
    "pattern": "[ipv4-addr:value = '35.214.166.202']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T03:06:23.000Z",
-   "description": "The Netherlands - AS43515 Google Ireland Limited - SSH brute force (14)",
+   "description": "The Netherlands - AS43515 Google Ireland Limited - SSH brute force (7)",
    "labels": [
     "ssh"
    ],
@@ -40305,6 +40358,32 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
+   "id": "indicator--b8fa36b3-6d79-5376-83b1-eed7fcb4963e",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-20T00:14:46.000Z",
+   "modified": "2026-11-20T00:14:51.000Z",
+   "name": "NexaShield abuse IP 35.233.37.230",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '35.233.37.230']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-20T00:14:46.000Z",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (268)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
    "id": "indicator--8cb2f700-e0d8-50c2-a507-36b4aa4a164e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-19T06:07:17.000Z",
@@ -40316,7 +40395,7 @@
    "pattern": "[ipv4-addr:value = '35.233.44.84']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T06:07:17.000Z",
-   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (324)",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (162)",
    "labels": [
     "web"
    ],
@@ -40625,7 +40704,7 @@
    "id": "indicator--34bbff0d-1cb3-5d80-9da1-a0727853653f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-14T05:05:13.000Z",
-   "modified": "2026-11-19T09:59:27.000Z",
+   "modified": "2026-11-20T00:00:12.000Z",
    "name": "NexaShield abuse IP 36.255.97.140",
    "indicator_types": [
     "malicious-activity"
@@ -40633,7 +40712,7 @@
    "pattern": "[ipv4-addr:value = '36.255.97.140']",
    "pattern_type": "stix",
    "valid_from": "2026-11-14T05:05:13.000Z",
-   "description": "United States - AS403005 Blatant Technologies, LLC - Port scanning (24)",
+   "description": "United States - AS403005 Blatant Technologies, LLC - Port scanning (26)",
    "labels": [
     "scan"
    ],
@@ -40946,7 +41025,7 @@
    "id": "indicator--0d049bc1-9b8e-54fc-85e2-e54a6cb7a228",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:36:53.000Z",
-   "modified": "2026-11-19T01:11:38.000Z",
+   "modified": "2026-11-20T00:15:57.000Z",
    "name": "NexaShield abuse IP 37.10.113.217",
    "indicator_types": [
     "malicious-activity"
@@ -40954,7 +41033,7 @@
    "pattern": "[ipv4-addr:value = '37.10.113.217']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:36:53.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (31), Known botnet / C2 infrastructure (13)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (32), Known botnet / C2 infrastructure (14)",
    "labels": [
     "c2",
     "scan"
@@ -41060,7 +41139,7 @@
    "pattern": "[ipv4-addr:value = '37.120.213.13']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T09:43:49.000Z",
-   "description": "Switzerland - AS9009 M247 Europe SRL - Web injection payload blocked by WAF (70), Exploitation attempt (CVE / RCE / injection) (26), SSH brute force (15)",
+   "description": "Switzerland - AS9009 M247 Europe SRL - Web injection payload blocked by WAF (35), SSH brute force (15), Exploitation attempt (CVE / RCE / injection) (13)",
    "labels": [
     "exploit",
     "ssh",
@@ -42458,7 +42537,7 @@
    "id": "indicator--8469fb53-3af8-5826-a6cd-a432578203a0",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T23:39:53.000Z",
-   "modified": "2026-11-19T13:59:44.000Z",
+   "modified": "2026-11-20T00:09:50.000Z",
    "name": "NexaShield abuse IP 40.90.227.203",
    "indicator_types": [
     "malicious-activity"
@@ -42466,7 +42545,7 @@
    "pattern": "[ipv4-addr:value = '40.90.227.203']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T23:39:53.000Z",
-   "description": "United States - AS8075 Microsoft Corporation - Port scanning (8), Known botnet / C2 infrastructure (5)",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (9), Known botnet / C2 infrastructure (6)",
    "labels": [
     "c2",
     "scan"
@@ -44405,7 +44484,7 @@
    "id": "indicator--e13ed0b9-c643-5379-9cce-57b34fabd2bb",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T16:52:52.000Z",
-   "modified": "2026-11-19T23:08:20.000Z",
+   "modified": "2026-11-20T00:06:28.000Z",
    "name": "NexaShield abuse IP 40.124.117.31",
    "indicator_types": [
     "malicious-activity"
@@ -44413,7 +44492,7 @@
    "pattern": "[ipv4-addr:value = '40.124.117.31']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T16:52:52.000Z",
-   "description": "United States - AS8075 Microsoft Corporation - Port scanning (20), Known botnet / C2 infrastructure (14)",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (21), Known botnet / C2 infrastructure (14)",
    "labels": [
     "c2",
     "scan"
@@ -47507,7 +47586,7 @@
    "id": "indicator--6e090a93-afb5-5326-8524-34c4b2677d33",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:46:32.000Z",
-   "modified": "2026-11-19T20:10:27.000Z",
+   "modified": "2026-11-20T00:00:04.000Z",
    "name": "NexaShield abuse IP 45.33.83.115",
    "indicator_types": [
     "malicious-activity"
@@ -47515,7 +47594,7 @@
    "pattern": "[ipv4-addr:value = '45.33.83.115']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:46:32.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (42)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (43)",
    "labels": [
     "scan"
    ],
@@ -47585,7 +47664,7 @@
    "id": "indicator--bcf4b361-392d-5643-b03e-a9f77e9ce0a7",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:50:30.000Z",
-   "modified": "2026-11-19T20:54:39.000Z",
+   "modified": "2026-11-20T00:13:14.000Z",
    "name": "NexaShield abuse IP 45.33.105.182",
    "indicator_types": [
     "malicious-activity"
@@ -47593,7 +47672,7 @@
    "pattern": "[ipv4-addr:value = '45.33.105.182']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:50:30.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (47)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (48)",
    "labels": [
     "scan"
    ],
@@ -47830,7 +47909,7 @@
    "pattern": "[ipv4-addr:value = '45.74.28.2']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:46:14.000Z",
-   "description": "The Netherlands - AS219326 SULAVI LTD - Spamhaus DROP-listed network (366)",
+   "description": "The Netherlands - AS219326 SULAVI LTD - Spamhaus DROP-listed network (338)",
    "labels": [
     "spamhaus"
    ],
@@ -47954,7 +48033,7 @@
    "id": "indicator--1dc705d6-1111-575e-b569-fc92c9727971",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T13:44:09.000Z",
-   "modified": "2026-11-19T22:14:17.000Z",
+   "modified": "2026-11-20T00:05:15.000Z",
    "name": "NexaShield abuse IP 45.79.109.4",
    "indicator_types": [
     "malicious-activity"
@@ -47962,7 +48041,7 @@
    "pattern": "[ipv4-addr:value = '45.79.109.4']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T13:44:09.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (52)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (53)",
    "labels": [
     "scan"
    ],
@@ -50425,7 +50504,7 @@
    "pattern": "[ipv4-addr:value = '45.138.12.10']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T23:44:26.000Z",
-   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (89)",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Abusive HTTP requests (61)",
    "labels": [
     "web"
    ],
@@ -51484,7 +51563,7 @@
    "id": "indicator--00c0d141-9ea4-55a2-8ae8-6f2ceb793a70",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:02:48.000Z",
-   "modified": "2026-11-19T23:03:07.000Z",
+   "modified": "2026-11-20T00:14:50.000Z",
    "name": "NexaShield abuse IP 45.148.10.230",
    "indicator_types": [
     "malicious-activity"
@@ -51492,7 +51571,7 @@
    "pattern": "[ipv4-addr:value = '45.148.10.230']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:02:48.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (927), Known botnet / C2 infrastructure (21)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (928), Known botnet / C2 infrastructure (21)",
    "labels": [
     "c2",
     "scan"
@@ -51595,7 +51674,7 @@
    "id": "indicator--ac05a060-22e0-51a4-9d72-2efe0edd82ac",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T13:02:07.000Z",
-   "modified": "2026-11-19T11:15:35.000Z",
+   "modified": "2026-11-20T00:14:50.000Z",
    "name": "NexaShield abuse IP 45.153.34.32",
    "indicator_types": [
     "malicious-activity"
@@ -51603,7 +51682,7 @@
    "pattern": "[ipv4-addr:value = '45.153.34.32']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T13:02:07.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Port scanning (100)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Port scanning (102)",
    "labels": [
     "scan"
    ],
@@ -51655,7 +51734,7 @@
    "pattern": "[ipv4-addr:value = '45.153.34.178']",
    "pattern_type": "stix",
    "valid_from": "2026-11-16T08:36:11.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (6), Abusive HTTP requests (5), Port scanning (3)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Abusive HTTP requests (3), Spamhaus DROP-listed network (3), Port scanning (3)",
    "labels": [
     "scan",
     "spamhaus",
@@ -51683,7 +51762,7 @@
    "pattern": "[ipv4-addr:value = '45.153.34.203']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T08:27:43.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Web injection payload blocked by WAF (20), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4), Spamhaus DROP-listed network (2)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Web injection payload blocked by WAF (10), Port scanning (3), Exploitation attempt (CVE / RCE / injection) (2), Spamhaus DROP-listed network (1)",
    "labels": [
     "exploit",
     "scan",
@@ -51740,7 +51819,7 @@
    "pattern": "[ipv4-addr:value = '45.153.102.83']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T18:42:53.000Z",
-   "description": "Ireland - AS203020 HostRoyale Technologies Pvt Ltd - Abusive HTTP requests (24)",
+   "description": "Ireland - AS203020 HostRoyale Technologies Pvt Ltd - Abusive HTTP requests (21)",
    "labels": [
     "web"
    ],
@@ -53020,6 +53099,33 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
+   "id": "indicator--831cfb1b-c3b2-5049-bea5-be2c99dcb717",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-13T04:58:50.000Z",
+   "modified": "2026-11-19T00:34:02.000Z",
+   "name": "NexaShield abuse IP 45.156.128.123",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '45.156.128.123']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T04:58:50.000Z",
+   "description": "The Netherlands - AS211680 NSEC - Sistemas Informaticos, S.A. - Port scanning (2), Known botnet / C2 infrastructure (2)",
+   "labels": [
+    "c2",
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
    "id": "indicator--5a599ae2-225c-536f-883d-2538697475c6",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T15:55:14.000Z",
@@ -53725,7 +53831,7 @@
    "id": "indicator--1d548107-5c11-5122-8fbb-c2d6465657da",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:41:57.000Z",
-   "modified": "2026-11-19T20:44:59.000Z",
+   "modified": "2026-11-20T00:10:35.000Z",
    "name": "NexaShield abuse IP 45.156.129.61",
    "indicator_types": [
     "malicious-activity"
@@ -53733,7 +53839,7 @@
    "pattern": "[ipv4-addr:value = '45.156.129.61']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T03:41:57.000Z",
-   "description": "United States - AS211680 NSEC - Sistemas Informaticos, S.A. - Port scanning (11), Known botnet / C2 infrastructure (7)",
+   "description": "United States - AS211680 NSEC - Sistemas Informaticos, S.A. - Port scanning (13), Known botnet / C2 infrastructure (7)",
    "labels": [
     "c2",
     "scan"
@@ -54022,7 +54128,7 @@
    "id": "indicator--cd5d88b6-dd90-5f9f-99d1-1a20f21e4db7",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:25:34.000Z",
-   "modified": "2026-11-19T09:02:31.000Z",
+   "modified": "2026-11-20T00:02:44.000Z",
    "name": "NexaShield abuse IP 45.156.129.77",
    "indicator_types": [
     "malicious-activity"
@@ -54030,7 +54136,7 @@
    "pattern": "[ipv4-addr:value = '45.156.129.77']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:25:34.000Z",
-   "description": "United States - AS211680 NSEC - Sistemas Informaticos, S.A. - Port scanning (12), Known botnet / C2 infrastructure (7)",
+   "description": "United States - AS211680 NSEC - Sistemas Informaticos, S.A. - Port scanning (14), Known botnet / C2 infrastructure (8)",
    "labels": [
     "c2",
     "scan"
@@ -61047,7 +61153,7 @@
    "id": "indicator--19ff0c16-7449-5f63-bf19-1fd2ebe995f4",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-14T13:28:58.000Z",
-   "modified": "2026-11-19T23:12:03.000Z",
+   "modified": "2026-11-20T00:11:23.000Z",
    "name": "NexaShield abuse IP 48.216.241.188",
    "indicator_types": [
     "malicious-activity"
@@ -61055,7 +61161,7 @@
    "pattern": "[ipv4-addr:value = '48.216.241.188']",
    "pattern_type": "stix",
    "valid_from": "2026-11-14T13:28:58.000Z",
-   "description": "United States - AS8075 Microsoft Corporation - Port scanning (11), Known botnet / C2 infrastructure (3)",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (12), Known botnet / C2 infrastructure (3)",
    "labels": [
     "c2",
     "scan"
@@ -61639,20 +61745,19 @@
    "spec_version": "2.1",
    "id": "indicator--595c9f5a-1180-5e6c-98e6-099b85acbacb",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
-   "created": "2026-11-12T08:58:13.000Z",
-   "modified": "2026-11-19T22:36:04.000Z",
+   "created": "2026-11-19T22:35:08.000Z",
+   "modified": "2026-11-19T22:35:16.000Z",
    "name": "NexaShield abuse IP 51.159.5.6",
    "indicator_types": [
     "malicious-activity"
    ],
    "pattern": "[ipv4-addr:value = '51.159.5.6']",
    "pattern_type": "stix",
-   "valid_from": "2026-11-12T08:58:13.000Z",
-   "description": "France - AS12876 Scaleway SAS - Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1)",
+   "valid_from": "2026-11-19T22:35:08.000Z",
+   "description": "France - AS12876 Scaleway SAS - Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2)",
    "labels": [
-    "c2",
     "exploit",
-    "scan"
+    "waf"
    ],
    "confidence": 80,
    "external_references": [
@@ -62160,6 +62265,33 @@
    "pattern_type": "stix",
    "valid_from": "2026-11-12T00:23:59.000Z",
    "description": "United States - AS8075 Microsoft Corporation - Port scanning (8), Known botnet / C2 infrastructure (7)",
+   "labels": [
+    "c2",
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3fd691d5-0f38-58f3-8ac8-82846704b9c3",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-17T07:14:31.000Z",
+   "modified": "2026-11-18T02:46:49.000Z",
+   "name": "NexaShield abuse IP 52.180.147.22",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '52.180.147.22']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-17T07:14:31.000Z",
+   "description": "United States - AS8075 Microsoft Corporation - Port scanning (2), Known botnet / C2 infrastructure (2)",
    "labels": [
     "c2",
     "scan"
@@ -66748,7 +66880,7 @@
    "id": "indicator--9485290e-6bc1-5134-9818-658ec12e516f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:59:53.000Z",
-   "modified": "2026-11-19T10:07:03.000Z",
+   "modified": "2026-11-20T00:02:12.000Z",
    "name": "NexaShield abuse IP 66.132.159.35",
    "indicator_types": [
     "malicious-activity"
@@ -66756,7 +66888,7 @@
    "pattern": "[ipv4-addr:value = '66.132.159.35']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:59:53.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (31), Known botnet / C2 infrastructure (11)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (32), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -66940,7 +67072,7 @@
    "id": "indicator--66e8be0a-1bc4-5aac-8344-8a8e79a0e390",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:09:43.000Z",
-   "modified": "2026-11-19T16:12:43.000Z",
+   "modified": "2026-11-20T00:07:48.000Z",
    "name": "NexaShield abuse IP 66.132.159.42",
    "indicator_types": [
     "malicious-activity"
@@ -66948,7 +67080,7 @@
    "pattern": "[ipv4-addr:value = '66.132.159.42']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:09:43.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (45), Known botnet / C2 infrastructure (11), Exploitation attempt (CVE / RCE / injection) (2)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (46), Known botnet / C2 infrastructure (12), Exploitation attempt (CVE / RCE / injection) (2)",
    "labels": [
     "c2",
     "exploit",
@@ -67023,7 +67155,7 @@
    "id": "indicator--670a552f-4bf2-5a15-b922-142ab2d35e37",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:09:59.000Z",
-   "modified": "2026-11-19T19:48:03.000Z",
+   "modified": "2026-11-20T00:05:16.000Z",
    "name": "NexaShield abuse IP 66.132.159.45",
    "indicator_types": [
     "malicious-activity"
@@ -67031,7 +67163,7 @@
    "pattern": "[ipv4-addr:value = '66.132.159.45']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:09:59.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (22), Known botnet / C2 infrastructure (8)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (23), Known botnet / C2 infrastructure (9)",
    "labels": [
     "c2",
     "scan"
@@ -67077,7 +67209,7 @@
    "id": "indicator--edd14028-3ae5-502f-8a72-f668204775f6",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:20:20.000Z",
-   "modified": "2026-11-19T20:58:01.000Z",
+   "modified": "2026-11-20T00:10:17.000Z",
    "name": "NexaShield abuse IP 66.132.159.47",
    "indicator_types": [
     "malicious-activity"
@@ -67085,7 +67217,7 @@
    "pattern": "[ipv4-addr:value = '66.132.159.47']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:20:20.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (40), Known botnet / C2 infrastructure (10)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (41), Known botnet / C2 infrastructure (10)",
    "labels": [
     "c2",
     "scan"
@@ -70256,7 +70388,7 @@
    "id": "indicator--644b80ca-6890-54da-8963-38ec67e2383b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T04:45:14.000Z",
-   "modified": "2026-11-19T21:07:47.000Z",
+   "modified": "2026-11-20T00:16:17.000Z",
    "name": "NexaShield abuse IP 66.132.186.127",
    "indicator_types": [
     "malicious-activity"
@@ -70264,7 +70396,7 @@
    "pattern": "[ipv4-addr:value = '66.132.186.127']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T04:45:14.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (40)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (41)",
    "labels": [
     "scan"
    ],
@@ -70389,7 +70521,7 @@
    "id": "indicator--b1f4eee2-52a3-52fc-84ff-c965ae59a845",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:59:44.000Z",
-   "modified": "2026-11-19T19:34:08.000Z",
+   "modified": "2026-11-20T00:06:48.000Z",
    "name": "NexaShield abuse IP 66.132.186.132",
    "indicator_types": [
     "malicious-activity"
@@ -70397,7 +70529,7 @@
    "pattern": "[ipv4-addr:value = '66.132.186.132']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:59:44.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (148), Known botnet / C2 infrastructure (26)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (150), Known botnet / C2 infrastructure (27)",
    "labels": [
     "c2",
     "scan"
@@ -71802,7 +71934,7 @@
    "id": "indicator--55075f0c-d7af-5a75-a835-5c32729fba26",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T06:56:09.000Z",
-   "modified": "2026-11-19T21:31:58.000Z",
+   "modified": "2026-11-20T00:01:50.000Z",
    "name": "NexaShield abuse IP 66.132.186.227",
    "indicator_types": [
     "malicious-activity"
@@ -71810,7 +71942,7 @@
    "pattern": "[ipv4-addr:value = '66.132.186.227']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T06:56:09.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (31)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (32)",
    "labels": [
     "scan"
    ],
@@ -72042,7 +72174,7 @@
    "id": "indicator--d4a598bf-d624-5dab-83cc-c22f00692acd",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:00:41.000Z",
-   "modified": "2026-11-19T19:41:41.000Z",
+   "modified": "2026-11-20T00:04:46.000Z",
    "name": "NexaShield abuse IP 66.132.186.236",
    "indicator_types": [
     "malicious-activity"
@@ -72050,7 +72182,7 @@
    "pattern": "[ipv4-addr:value = '66.132.186.236']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:00:41.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (99), Known botnet / C2 infrastructure (21)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (100), Known botnet / C2 infrastructure (22)",
    "labels": [
     "c2",
     "scan"
@@ -72453,7 +72585,7 @@
    "id": "indicator--4bb2a697-5aed-5781-b7c9-b26c55c1b242",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T23:19:45.000Z",
-   "modified": "2026-11-19T20:17:03.000Z",
+   "modified": "2026-11-20T00:00:42.000Z",
    "name": "NexaShield abuse IP 66.132.186.251",
    "indicator_types": [
     "malicious-activity"
@@ -72461,7 +72593,7 @@
    "pattern": "[ipv4-addr:value = '66.132.186.251']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T23:19:45.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (54), Known botnet / C2 infrastructure (12)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (55), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -72588,7 +72720,7 @@
    "id": "indicator--92421f62-1888-5b83-805a-daefd5c37564",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:47:38.000Z",
-   "modified": "2026-11-19T21:47:54.000Z",
+   "modified": "2026-11-20T00:10:02.000Z",
    "name": "NexaShield abuse IP 66.132.195.16",
    "indicator_types": [
     "malicious-activity"
@@ -72596,7 +72728,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.16']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T03:47:38.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (64)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (65)",
    "labels": [
     "scan"
    ],
@@ -72694,7 +72826,7 @@
    "id": "indicator--7d5cc289-fdf3-556e-be17-5a70833ac8e3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T05:17:14.000Z",
-   "modified": "2026-11-19T17:45:25.000Z",
+   "modified": "2026-11-20T00:03:56.000Z",
    "name": "NexaShield abuse IP 66.132.195.20",
    "indicator_types": [
     "malicious-activity"
@@ -72702,7 +72834,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.20']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T05:17:14.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (51)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (52)",
    "labels": [
     "scan"
    ],
@@ -72720,7 +72852,7 @@
    "id": "indicator--cdfd268d-e49c-50f0-9a24-ca84dec3795a",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:59:15.000Z",
-   "modified": "2026-11-19T22:38:54.000Z",
+   "modified": "2026-11-20T00:11:35.000Z",
    "name": "NexaShield abuse IP 66.132.195.21",
    "indicator_types": [
     "malicious-activity"
@@ -72728,7 +72860,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.21']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T03:59:15.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (61)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (62)",
    "labels": [
     "scan"
    ],
@@ -72853,7 +72985,7 @@
    "id": "indicator--43ec5505-762c-5e15-83bc-6397df902ca0",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T04:12:48.000Z",
-   "modified": "2026-11-19T21:01:36.000Z",
+   "modified": "2026-11-20T00:11:11.000Z",
    "name": "NexaShield abuse IP 66.132.195.26",
    "indicator_types": [
     "malicious-activity"
@@ -72861,7 +72993,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.26']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T04:12:48.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (55)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (56)",
    "labels": [
     "scan"
    ],
@@ -72879,7 +73011,7 @@
    "id": "indicator--46edc6a9-3f84-57ee-b897-052014616c3b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:52:25.000Z",
-   "modified": "2026-11-19T21:24:00.000Z",
+   "modified": "2026-11-20T00:01:12.000Z",
    "name": "NexaShield abuse IP 66.132.195.27",
    "indicator_types": [
     "malicious-activity"
@@ -72887,7 +73019,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.27']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:52:25.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (180), Known botnet / C2 infrastructure (29)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (182), Known botnet / C2 infrastructure (30)",
    "labels": [
     "c2",
     "scan"
@@ -72906,7 +73038,7 @@
    "id": "indicator--1b35a6ff-4466-5f65-8000-cd21fb437cf2",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:40:27.000Z",
-   "modified": "2026-11-19T22:29:07.000Z",
+   "modified": "2026-11-20T00:05:27.000Z",
    "name": "NexaShield abuse IP 66.132.195.28",
    "indicator_types": [
     "malicious-activity"
@@ -72914,7 +73046,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.28']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:40:27.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (166), Known botnet / C2 infrastructure (26)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (168), Known botnet / C2 infrastructure (26)",
    "labels": [
     "c2",
     "scan"
@@ -73233,7 +73365,7 @@
    "id": "indicator--373c9410-4d3f-5050-8265-333a0d6ceba5",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T09:27:09.000Z",
-   "modified": "2026-11-19T06:06:16.000Z",
+   "modified": "2026-11-20T00:09:50.000Z",
    "name": "NexaShield abuse IP 66.132.195.52",
    "indicator_types": [
     "malicious-activity"
@@ -73241,7 +73373,7 @@
    "pattern": "[ipv4-addr:value = '66.132.195.52']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T09:27:09.000Z",
-   "description": "United States - AS398324 Censys, Inc. - Port scanning (6), Known botnet / C2 infrastructure (5), Abusive HTTP requests (4)",
+   "description": "United States - AS398324 Censys, Inc. - Port scanning (7), Known botnet / C2 infrastructure (6), Abusive HTTP requests (4)",
    "labels": [
     "c2",
     "scan",
@@ -75439,7 +75571,7 @@
    "id": "indicator--98353308-f2d8-59df-9d2e-3239ee4f5d21",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:39:11.000Z",
-   "modified": "2026-11-19T23:15:58.000Z",
+   "modified": "2026-11-20T00:16:21.000Z",
    "name": "NexaShield abuse IP 71.6.135.131",
    "indicator_types": [
     "malicious-activity"
@@ -78066,7 +78198,7 @@
    "id": "indicator--eff9dd60-b907-573f-be79-8d2ea23c7840",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T04:18:09.000Z",
-   "modified": "2026-11-19T23:12:48.000Z",
+   "modified": "2026-11-20T00:04:54.000Z",
    "name": "NexaShield abuse IP 77.239.124.112",
    "indicator_types": [
     "malicious-activity"
@@ -78074,7 +78206,7 @@
    "pattern": "[ipv4-addr:value = '77.239.124.112']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T04:18:09.000Z",
-   "description": "France - AS198364 BANATSYNC SRL - Port scanning (67), Known botnet / C2 infrastructure (8)",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (68), Known botnet / C2 infrastructure (8)",
    "labels": [
     "c2",
     "scan"
@@ -78449,7 +78581,7 @@
    "pattern": "[ipv4-addr:value = '77.239.124.150']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T16:52:56.000Z",
-   "description": "France - AS198364 BANATSYNC SRL - Port scanning (132), SSH brute force (18)",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (66), SSH brute force (9)",
    "labels": [
     "scan",
     "ssh"
@@ -78817,7 +78949,7 @@
    "id": "indicator--91555493-8616-585e-8e4e-5be322dbd6bc",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T19:59:38.000Z",
-   "modified": "2026-11-19T22:59:18.000Z",
+   "modified": "2026-11-20T00:06:27.000Z",
    "name": "NexaShield abuse IP 77.239.124.252",
    "indicator_types": [
     "malicious-activity"
@@ -78825,7 +78957,7 @@
    "pattern": "[ipv4-addr:value = '77.239.124.252']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T19:59:38.000Z",
-   "description": "France - AS198364 BANATSYNC SRL - Port scanning (449), Known botnet / C2 infrastructure (12)",
+   "description": "France - AS198364 BANATSYNC SRL - Port scanning (451), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -78925,7 +79057,7 @@
    "id": "indicator--c9438e61-261c-5bf0-b390-d91e22e7f10d",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:53:03.000Z",
-   "modified": "2026-11-19T23:06:05.000Z",
+   "modified": "2026-11-20T00:14:56.000Z",
    "name": "NexaShield abuse IP 78.128.112.6",
    "indicator_types": [
     "malicious-activity"
@@ -78933,7 +79065,7 @@
    "pattern": "[ipv4-addr:value = '78.128.112.6']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:53:03.000Z",
-   "description": "Bulgaria - AS208637 4 Vendeta Ltd - Port scanning (472), Known botnet / C2 infrastructure (31)",
+   "description": "Bulgaria - AS208637 4 Vendeta Ltd - Port scanning (473), Known botnet / C2 infrastructure (32)",
    "labels": [
     "c2",
     "scan"
@@ -78960,7 +79092,7 @@
    "pattern": "[ipv4-addr:value = '78.128.112.74']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T16:18:15.000Z",
-   "description": "Bulgaria - AS208637 4 Vendeta Ltd - Port scanning (72), SSH brute force (28)",
+   "description": "Bulgaria - AS208637 4 Vendeta Ltd - Port scanning (67), SSH brute force (28)",
    "labels": [
     "scan",
     "ssh"
@@ -78979,7 +79111,7 @@
    "id": "indicator--e9f86059-3642-51a9-b05e-d5279f7fc3a1",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:54:08.000Z",
-   "modified": "2026-11-19T23:10:08.000Z",
+   "modified": "2026-11-20T00:10:22.000Z",
    "name": "NexaShield abuse IP 78.128.113.22",
    "indicator_types": [
     "malicious-activity"
@@ -78987,7 +79119,7 @@
    "pattern": "[ipv4-addr:value = '78.128.113.22']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:54:08.000Z",
-   "description": "Bulgaria - AS209160 Miti 2000 EOOD - Port scanning (448), Known botnet / C2 infrastructure (32)",
+   "description": "Bulgaria - AS209160 Miti 2000 EOOD - Port scanning (449), Known botnet / C2 infrastructure (33)",
    "labels": [
     "c2",
     "scan"
@@ -79086,7 +79218,7 @@
    "id": "indicator--e38e84c7-187a-5975-80b0-84ff9969cb6f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-19T04:55:37.000Z",
-   "modified": "2026-11-19T23:20:29.000Z",
+   "modified": "2026-11-20T00:10:32.000Z",
    "name": "NexaShield abuse IP 78.128.114.166",
    "indicator_types": [
     "malicious-activity"
@@ -79094,7 +79226,7 @@
    "pattern": "[ipv4-addr:value = '78.128.114.166']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T04:55:37.000Z",
-   "description": "Bulgaria - AS50360 Tamatiya EOOD - Known botnet / C2 infrastructure (54)",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Known botnet / C2 infrastructure (32)",
    "labels": [
     "c2"
    ],
@@ -79357,7 +79489,7 @@
    "id": "indicator--cc845022-bcf5-5956-a6dc-1d5a98631476",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:36:55.000Z",
-   "modified": "2026-11-19T21:46:32.000Z",
+   "modified": "2026-11-20T00:01:30.000Z",
    "name": "NexaShield abuse IP 78.153.140.235",
    "indicator_types": [
     "malicious-activity"
@@ -79365,7 +79497,7 @@
    "pattern": "[ipv4-addr:value = '78.153.140.235']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:36:55.000Z",
-   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (288)",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (289)",
    "labels": [
     "scan"
    ],
@@ -79383,7 +79515,7 @@
    "id": "indicator--50113c76-dea0-50e2-9dd4-ec388710791a",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:47:10.000Z",
-   "modified": "2026-11-19T23:09:44.000Z",
+   "modified": "2026-11-20T00:05:14.000Z",
    "name": "NexaShield abuse IP 78.153.140.236",
    "indicator_types": [
     "malicious-activity"
@@ -79391,7 +79523,7 @@
    "pattern": "[ipv4-addr:value = '78.153.140.236']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:47:10.000Z",
-   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (328), Known botnet / C2 infrastructure (1)",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (330), Known botnet / C2 infrastructure (1)",
    "labels": [
     "c2",
     "scan"
@@ -79410,7 +79542,7 @@
    "id": "indicator--b120b78e-12cc-5ab3-956b-a3035ed8ace3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:45:08.000Z",
-   "modified": "2026-11-19T22:58:15.000Z",
+   "modified": "2026-11-20T00:10:43.000Z",
    "name": "NexaShield abuse IP 78.153.140.237",
    "indicator_types": [
     "malicious-activity"
@@ -79418,7 +79550,7 @@
    "pattern": "[ipv4-addr:value = '78.153.140.237']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:45:08.000Z",
-   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (295)",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Port scanning (296)",
    "labels": [
     "scan"
    ],
@@ -79471,7 +79603,7 @@
    "pattern": "[ipv4-addr:value = '78.153.140.252']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T02:29:03.000Z",
-   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Abusive HTTP requests (10), Spamhaus DROP-listed network (9)",
+   "description": "United Kingdom - AS202306 HOSTGLOBAL.PLUS LTD - Abusive HTTP requests (9), Spamhaus DROP-listed network (9)",
    "labels": [
     "spamhaus",
     "web"
@@ -79997,7 +80129,7 @@
    "id": "indicator--df9bb5bc-8ea1-527c-aaa9-04d00157eadf",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:29:13.000Z",
-   "modified": "2026-11-19T22:26:07.000Z",
+   "modified": "2026-11-20T00:03:10.000Z",
    "name": "NexaShield abuse IP 79.124.58.74",
    "indicator_types": [
     "malicious-activity"
@@ -80005,7 +80137,7 @@
    "pattern": "[ipv4-addr:value = '79.124.58.74']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:29:13.000Z",
-   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (360)",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (361)",
    "labels": [
     "scan"
    ],
@@ -80101,7 +80233,7 @@
    "id": "indicator--c7630670-7e6e-5ea1-88ec-a3fbfe6a0aa5",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:30:02.000Z",
-   "modified": "2026-11-19T22:48:53.000Z",
+   "modified": "2026-11-20T00:06:49.000Z",
    "name": "NexaShield abuse IP 79.124.58.106",
    "indicator_types": [
     "malicious-activity"
@@ -80109,7 +80241,7 @@
    "pattern": "[ipv4-addr:value = '79.124.58.106']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:30:02.000Z",
-   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (347)",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (348)",
    "labels": [
     "scan"
    ],
@@ -80285,7 +80417,7 @@
    "id": "indicator--3eb44dea-b1b5-5e1e-8c65-78829208d685",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:49:58.000Z",
-   "modified": "2026-11-19T22:22:50.000Z",
+   "modified": "2026-11-20T00:16:25.000Z",
    "name": "NexaShield abuse IP 79.124.59.78",
    "indicator_types": [
     "malicious-activity"
@@ -80293,7 +80425,7 @@
    "pattern": "[ipv4-addr:value = '79.124.59.78']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:49:58.000Z",
-   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (561), Known botnet / C2 infrastructure (32)",
+   "description": "Bulgaria - AS50360 Tamatiya EOOD - Port scanning (562), Known botnet / C2 infrastructure (32)",
    "labels": [
     "c2",
     "scan"
@@ -80656,7 +80788,7 @@
    "id": "indicator--7d26f8aa-10fd-5aa4-9493-7e72b2275427",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:46:40.000Z",
-   "modified": "2026-11-19T23:07:38.000Z",
+   "modified": "2026-11-20T00:12:27.000Z",
    "name": "NexaShield abuse IP 80.82.77.139",
    "indicator_types": [
     "malicious-activity"
@@ -80848,7 +80980,7 @@
    "id": "indicator--bc00edcf-2737-590d-9e43-5dc6c54fd79e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:29:19.000Z",
-   "modified": "2026-11-19T23:29:54.000Z",
+   "modified": "2026-11-20T00:25:16.000Z",
    "name": "NexaShield abuse IP 80.94.95.115",
    "indicator_types": [
     "malicious-activity"
@@ -80856,7 +80988,7 @@
    "pattern": "[ipv4-addr:value = '80.94.95.115']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:29:19.000Z",
-   "description": "Hungary - AS204428 SS-Net - Port scanning (648), SSH brute force (316), Spamhaus DROP-listed network (81)",
+   "description": "Hungary - AS204428 SS-Net - Port scanning (606), SSH brute force (232), Spamhaus DROP-listed network (48)",
    "labels": [
     "scan",
     "spamhaus",
@@ -80876,7 +81008,7 @@
    "id": "indicator--e334d5b7-bdf7-5384-a060-2ba35529e66f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:29:43.000Z",
-   "modified": "2026-11-19T23:06:27.000Z",
+   "modified": "2026-11-20T00:31:27.000Z",
    "name": "NexaShield abuse IP 80.94.95.116",
    "indicator_types": [
     "malicious-activity"
@@ -80884,7 +81016,7 @@
    "pattern": "[ipv4-addr:value = '80.94.95.116']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:29:43.000Z",
-   "description": "Hungary - AS204428 SS-Net - Port scanning (691), SSH brute force (280), Spamhaus DROP-listed network (73)",
+   "description": "Hungary - AS204428 SS-Net - Port scanning (642), SSH brute force (214), Spamhaus DROP-listed network (44)",
    "labels": [
     "scan",
     "spamhaus",
@@ -80982,7 +81114,7 @@
    "id": "indicator--153c62ff-20b8-5726-9ac2-f91da34dfe85",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T22:31:06.000Z",
-   "modified": "2026-11-19T23:15:43.000Z",
+   "modified": "2026-11-20T00:15:44.000Z",
    "name": "NexaShield abuse IP 81.16.152.2",
    "indicator_types": [
     "malicious-activity"
@@ -80990,7 +81122,7 @@
    "pattern": "[ipv4-addr:value = '81.16.152.2']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T22:31:06.000Z",
-   "description": "Austria - AS1764 Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH - Port scanning (1256)",
+   "description": "Austria - AS1764 Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH - Port scanning (1257)",
    "labels": [
     "scan"
    ],
@@ -82142,7 +82274,7 @@
    "id": "indicator--e33c630e-d79b-58a0-aecc-c8af9acabc3f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T09:05:30.000Z",
-   "modified": "2026-11-19T15:13:06.000Z",
+   "modified": "2026-11-20T00:06:48.000Z",
    "name": "NexaShield abuse IP 81.19.216.115",
    "indicator_types": [
     "malicious-activity"
@@ -82150,7 +82282,7 @@
    "pattern": "[ipv4-addr:value = '81.19.216.115']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T09:05:30.000Z",
-   "description": "The Netherlands - AS25369 Hydra Communications Ltd - Port scanning (7), Known botnet / C2 infrastructure (2)",
+   "description": "The Netherlands - AS25369 Hydra Communications Ltd - Port scanning (8), Known botnet / C2 infrastructure (3)",
    "labels": [
     "c2",
     "scan"
@@ -83081,7 +83213,7 @@
    "id": "indicator--3a548dc6-5845-5c27-9820-695a0d9104e8",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:51:43.000Z",
-   "modified": "2026-11-19T18:59:18.000Z",
+   "modified": "2026-11-20T00:00:46.000Z",
    "name": "NexaShield abuse IP 81.19.219.235",
    "indicator_types": [
     "malicious-activity"
@@ -83089,7 +83221,7 @@
    "pattern": "[ipv4-addr:value = '81.19.219.235']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:51:43.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (42), Known botnet / C2 infrastructure (3)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (43), Known botnet / C2 infrastructure (3)",
    "labels": [
     "c2",
     "scan"
@@ -83243,7 +83375,7 @@
    "id": "indicator--019638a7-029b-5a1c-a402-9fadb4c677bc",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-19T04:21:17.000Z",
-   "modified": "2026-11-19T22:41:55.000Z",
+   "modified": "2026-11-20T00:10:49.000Z",
    "name": "NexaShield abuse IP 81.19.219.244",
    "indicator_types": [
     "malicious-activity"
@@ -83251,7 +83383,7 @@
    "pattern": "[ipv4-addr:value = '81.19.219.244']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T04:21:17.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (3), Known botnet / C2 infrastructure (2)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (4), Known botnet / C2 infrastructure (2)",
    "labels": [
     "c2",
     "scan"
@@ -83572,7 +83704,7 @@
    "pattern": "[ipv4-addr:value = '81.171.72.93']",
    "pattern_type": "stix",
    "valid_from": "2026-11-10T12:44:42.000Z",
-   "description": "The Netherlands - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (133)",
+   "description": "The Netherlands - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (79)",
    "labels": [
     "web"
    ],
@@ -83598,7 +83730,7 @@
    "pattern": "[ipv4-addr:value = '81.171.72.135']",
    "pattern_type": "stix",
    "valid_from": "2026-11-10T12:42:27.000Z",
-   "description": "The Netherlands - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (162)",
+   "description": "The Netherlands - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (108)",
    "labels": [
     "web"
    ],
@@ -83973,7 +84105,7 @@
    "pattern": "[ipv4-addr:value = '84.241.13.118']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T13:00:12.000Z",
-   "description": "Iran - AS31549 Aria Shatel PJSC - SSH brute force (60), Port scanning (2)",
+   "description": "Iran - AS31549 Aria Shatel PJSC - SSH brute force (30), Port scanning (1)",
    "labels": [
     "scan",
     "ssh"
@@ -83992,7 +84124,7 @@
    "id": "indicator--1b478ed1-6c61-5583-8c00-2c79a3f14c37",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:43:19.000Z",
-   "modified": "2026-11-19T23:31:14.000Z",
+   "modified": "2026-11-20T00:28:32.000Z",
    "name": "NexaShield abuse IP 85.11.167.7",
    "indicator_types": [
     "malicious-activity"
@@ -84000,7 +84132,7 @@
    "pattern": "[ipv4-addr:value = '85.11.167.7']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:43:19.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (445), Port scanning (232)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (409), Port scanning (214)",
    "labels": [
     "scan",
     "spamhaus"
@@ -84082,7 +84214,7 @@
    "pattern": "[ipv4-addr:value = '85.11.167.160']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T06:24:19.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Abusive HTTP requests (5)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Abusive HTTP requests (3)",
    "labels": [
     "web"
    ],
@@ -84135,7 +84267,7 @@
    "pattern": "[ipv4-addr:value = '85.11.167.204']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T20:24:33.000Z",
-   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (36), Abusive HTTP requests (11)",
+   "description": "The Netherlands - AS197170 TechTies Inc. - Spamhaus DROP-listed network (34), Abusive HTTP requests (11)",
    "labels": [
     "spamhaus",
     "web"
@@ -84188,7 +84320,7 @@
    "pattern": "[ipv4-addr:value = '85.12.251.50']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T05:11:13.000Z",
-   "description": "Russia - AS28890 INSYS LLC - Exploitation attempt (CVE / RCE / injection) (2)",
+   "description": "Russia - AS28890 INSYS LLC - Exploitation attempt (CVE / RCE / injection) (1)",
    "labels": [
     "exploit"
    ],
@@ -84312,7 +84444,7 @@
    "id": "indicator--1dbae095-5a32-51be-91d5-473d99e1c266",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T15:33:10.000Z",
-   "modified": "2026-11-19T18:14:47.000Z",
+   "modified": "2026-11-20T00:14:56.000Z",
    "name": "NexaShield abuse IP 85.155.15.10",
    "indicator_types": [
     "malicious-activity"
@@ -84320,7 +84452,7 @@
    "pattern": "[ipv4-addr:value = '85.155.15.10']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T15:33:10.000Z",
-   "description": "Germany - AS199457 SolidCore Hosting LTD - Port scanning (62)",
+   "description": "Germany - AS199457 SolidCore Hosting LTD - Port scanning (64)",
    "labels": [
     "scan"
    ],
@@ -84769,7 +84901,7 @@
    "id": "indicator--176f35ac-32ac-5991-a8bf-5bc61e3c565e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T19:48:13.000Z",
-   "modified": "2026-11-19T23:09:10.000Z",
+   "modified": "2026-11-20T00:09:55.000Z",
    "name": "NexaShield abuse IP 85.217.140.18",
    "indicator_types": [
     "malicious-activity"
@@ -84777,7 +84909,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.18']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T19:48:13.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (547), Known botnet / C2 infrastructure (24)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (548), Known botnet / C2 infrastructure (24)",
    "labels": [
     "c2",
     "scan"
@@ -84823,7 +84955,7 @@
    "id": "indicator--6d511441-a552-5603-b4e3-ab06dd23cd58",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T07:59:02.000Z",
-   "modified": "2026-11-19T22:50:00.000Z",
+   "modified": "2026-11-20T00:02:46.000Z",
    "name": "NexaShield abuse IP 85.217.140.20",
    "indicator_types": [
     "malicious-activity"
@@ -84831,7 +84963,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.20']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T07:59:02.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (58), Known botnet / C2 infrastructure (8)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (59), Known botnet / C2 infrastructure (8)",
    "labels": [
     "c2",
     "scan"
@@ -84850,7 +84982,7 @@
    "id": "indicator--50b8e6a3-5980-5b02-a2b0-4fa22407afe3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:52:45.000Z",
-   "modified": "2026-11-19T22:40:25.000Z",
+   "modified": "2026-11-20T00:09:15.000Z",
    "name": "NexaShield abuse IP 85.217.140.26",
    "indicator_types": [
     "malicious-activity"
@@ -84858,7 +84990,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.26']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:52:45.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (61), Known botnet / C2 infrastructure (9)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (63), Known botnet / C2 infrastructure (9)",
    "labels": [
     "c2",
     "scan"
@@ -84877,7 +85009,7 @@
    "id": "indicator--68de9e5e-2b1e-5a1d-9573-8b225a330421",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:50:06.000Z",
-   "modified": "2026-11-19T22:51:00.000Z",
+   "modified": "2026-11-20T00:00:44.000Z",
    "name": "NexaShield abuse IP 85.217.140.31",
    "indicator_types": [
     "malicious-activity"
@@ -84885,7 +85017,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.31']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:50:06.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (56), Known botnet / C2 infrastructure (8), SSH brute force (1)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (57), Known botnet / C2 infrastructure (8), SSH brute force (1)",
    "labels": [
     "c2",
     "scan",
@@ -84960,7 +85092,7 @@
    "id": "indicator--469e6e2c-4a2f-5e6e-9461-6ea41b499d86",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T10:19:49.000Z",
-   "modified": "2026-11-19T23:13:56.000Z",
+   "modified": "2026-11-20T00:15:38.000Z",
    "name": "NexaShield abuse IP 85.217.140.37",
    "indicator_types": [
     "malicious-activity"
@@ -84968,7 +85100,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.37']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T10:19:49.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (212), Known botnet / C2 infrastructure (13)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (214), Known botnet / C2 infrastructure (13)",
    "labels": [
     "c2",
     "scan"
@@ -85015,7 +85147,7 @@
    "id": "indicator--26c47e75-9b51-53f7-a2f3-1935e0dca934",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T22:59:08.000Z",
-   "modified": "2026-11-19T23:06:32.000Z",
+   "modified": "2026-11-20T00:11:51.000Z",
    "name": "NexaShield abuse IP 85.217.140.41",
    "indicator_types": [
     "malicious-activity"
@@ -85023,7 +85155,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.41']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T22:59:08.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (62), Known botnet / C2 infrastructure (8)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (64), Known botnet / C2 infrastructure (8)",
    "labels": [
     "c2",
     "scan"
@@ -85150,7 +85282,7 @@
    "id": "indicator--e2227820-b799-5a33-a208-37083a084be6",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T19:58:59.000Z",
-   "modified": "2026-11-19T23:14:45.000Z",
+   "modified": "2026-11-20T00:16:31.000Z",
    "name": "NexaShield abuse IP 85.217.140.46",
    "indicator_types": [
     "malicious-activity"
@@ -85158,7 +85290,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.46']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T19:58:59.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (64), Known botnet / C2 infrastructure (7)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (68), Known botnet / C2 infrastructure (7)",
    "labels": [
     "c2",
     "scan"
@@ -85260,7 +85392,7 @@
    "id": "indicator--de8b1649-c2c3-5e5c-ac12-bae26c011fd1",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-10T23:30:28.000Z",
-   "modified": "2026-11-19T23:06:30.000Z",
+   "modified": "2026-11-20T00:12:10.000Z",
    "name": "NexaShield abuse IP 85.217.140.51",
    "indicator_types": [
     "malicious-activity"
@@ -85268,7 +85400,7 @@
    "pattern": "[ipv4-addr:value = '85.217.140.51']",
    "pattern_type": "stix",
    "valid_from": "2026-11-10T23:30:28.000Z",
-   "description": "France - AS209334 Modat B.V. - Port scanning (69), Known botnet / C2 infrastructure (9), Abusive HTTP requests (2)",
+   "description": "France - AS209334 Modat B.V. - Port scanning (71), Known botnet / C2 infrastructure (9), Abusive HTTP requests (2)",
    "labels": [
     "c2",
     "scan",
@@ -85448,7 +85580,7 @@
    "id": "indicator--2b2c8ff8-4b5f-5068-b5ad-d0fb462b0550",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:42:35.000Z",
-   "modified": "2026-11-19T22:59:02.000Z",
+   "modified": "2026-11-20T00:13:22.000Z",
    "name": "NexaShield abuse IP 86.54.31.36",
    "indicator_types": [
     "malicious-activity"
@@ -85456,7 +85588,7 @@
    "pattern": "[ipv4-addr:value = '86.54.31.36']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:42:35.000Z",
-   "description": "The Netherlands - AS12989 Black HOST Ltd - Port scanning (406), Known botnet / C2 infrastructure (31)",
+   "description": "The Netherlands - AS12989 Black HOST Ltd - Port scanning (407), Known botnet / C2 infrastructure (31)",
    "labels": [
     "c2",
     "scan"
@@ -85502,7 +85634,7 @@
    "id": "indicator--8c439547-2642-5420-9635-50034e0dbf1f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:53:43.000Z",
-   "modified": "2026-11-19T22:51:35.000Z",
+   "modified": "2026-11-20T00:04:00.000Z",
    "name": "NexaShield abuse IP 86.54.31.44",
    "indicator_types": [
     "malicious-activity"
@@ -85510,7 +85642,7 @@
    "pattern": "[ipv4-addr:value = '86.54.31.44']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:53:43.000Z",
-   "description": "The Netherlands - AS12989 Black HOST Ltd - Port scanning (387), Known botnet / C2 infrastructure (32)",
+   "description": "The Netherlands - AS12989 Black HOST Ltd - Port scanning (388), Known botnet / C2 infrastructure (32)",
    "labels": [
     "c2",
     "scan"
@@ -87571,7 +87703,7 @@
    "id": "indicator--d46bc09e-967f-5e53-b405-e37ae7a51ed9",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:53:45.000Z",
-   "modified": "2026-11-19T21:30:10.000Z",
+   "modified": "2026-11-20T00:14:32.000Z",
    "name": "NexaShield abuse IP 89.248.172.9",
    "indicator_types": [
     "malicious-activity"
@@ -87579,7 +87711,7 @@
    "pattern": "[ipv4-addr:value = '89.248.172.9']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T03:53:45.000Z",
-   "description": "Poland - AS202425 IP Volume inc - Port scanning (189)",
+   "description": "Poland - AS202425 IP Volume inc - Port scanning (190)",
    "labels": [
     "scan"
    ],
@@ -87597,7 +87729,7 @@
    "id": "indicator--4da88ddc-5933-5c07-b912-39cfe06aaa26",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:46:08.000Z",
-   "modified": "2026-11-19T23:17:28.000Z",
+   "modified": "2026-11-20T00:12:55.000Z",
    "name": "NexaShield abuse IP 89.248.172.10",
    "indicator_types": [
     "malicious-activity"
@@ -87605,7 +87737,7 @@
    "pattern": "[ipv4-addr:value = '89.248.172.10']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T03:46:08.000Z",
-   "description": "Poland - AS202425 IP Volume inc - Port scanning (314), Known botnet / C2 infrastructure (6)",
+   "description": "Poland - AS202425 IP Volume inc - Port scanning (315), Known botnet / C2 infrastructure (6)",
    "labels": [
     "c2",
     "scan"
@@ -87928,7 +88060,7 @@
    "pattern": "[ipv4-addr:value = '91.148.245.81']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T17:06:25.000Z",
-   "description": "Albania - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (135)",
+   "description": "Albania - AS34343 Eweka Internet Services B.V. - Abusive HTTP requests (81)",
    "labels": [
     "web"
    ],
@@ -89188,7 +89320,7 @@
    "id": "indicator--42ba8b8c-dbdd-51f5-8a6a-219cc0fcc6c7",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:57:02.000Z",
-   "modified": "2026-11-19T22:49:17.000Z",
+   "modified": "2026-11-20T00:06:16.000Z",
    "name": "NexaShield abuse IP 91.196.152.220",
    "indicator_types": [
     "malicious-activity"
@@ -89196,7 +89328,7 @@
    "pattern": "[ipv4-addr:value = '91.196.152.220']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:57:02.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (124), Known botnet / C2 infrastructure (22)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (125), Known botnet / C2 infrastructure (23)",
    "labels": [
     "c2",
     "scan"
@@ -89485,7 +89617,7 @@
    "id": "indicator--00ef3c84-5f20-521d-9203-4bd1f5adee00",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:23:09.000Z",
-   "modified": "2026-11-19T23:18:19.000Z",
+   "modified": "2026-11-20T00:20:50.000Z",
    "name": "NexaShield abuse IP 91.224.92.45",
    "indicator_types": [
     "malicious-activity"
@@ -89493,7 +89625,7 @@
    "pattern": "[ipv4-addr:value = '91.224.92.45']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:23:09.000Z",
-   "description": "Lithuania - AS209605 UAB Host Baltic - Spamhaus DROP-listed network (649)",
+   "description": "Lithuania - AS209605 UAB Host Baltic - Spamhaus DROP-listed network (599)",
    "labels": [
     "spamhaus"
    ],
@@ -89511,7 +89643,7 @@
    "id": "indicator--c825c0eb-b023-5c7f-84b6-2f011405e9ba",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T20:58:50.000Z",
-   "modified": "2026-11-19T22:57:05.000Z",
+   "modified": "2026-11-20T00:12:49.000Z",
    "name": "NexaShield abuse IP 91.224.92.52",
    "indicator_types": [
     "malicious-activity"
@@ -89519,7 +89651,7 @@
    "pattern": "[ipv4-addr:value = '91.224.92.52']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T20:58:50.000Z",
-   "description": "Lithuania - AS209605 UAB Host Baltic - Port scanning (533)",
+   "description": "Lithuania - AS209605 UAB Host Baltic - Port scanning (534)",
    "labels": [
     "scan"
    ],
@@ -89537,7 +89669,7 @@
    "id": "indicator--f464dc0d-680f-5f8a-a1e8-073bc4bdb441",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-17T22:11:14.000Z",
-   "modified": "2026-11-19T23:08:36.000Z",
+   "modified": "2026-11-20T00:10:56.000Z",
    "name": "NexaShield abuse IP 91.224.92.97",
    "indicator_types": [
     "malicious-activity"
@@ -89545,7 +89677,7 @@
    "pattern": "[ipv4-addr:value = '91.224.92.97']",
    "pattern_type": "stix",
    "valid_from": "2026-11-17T22:11:14.000Z",
-   "description": "Lithuania - AS209605 UAB Host Baltic - Port scanning (99)",
+   "description": "Lithuania - AS209605 UAB Host Baltic - Port scanning (100)",
    "labels": [
     "scan"
    ],
@@ -89563,7 +89695,7 @@
    "id": "indicator--81a4b7bf-7d20-5e6a-a928-3607f50fccd1",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-17T22:15:54.000Z",
-   "modified": "2026-11-19T22:38:54.000Z",
+   "modified": "2026-11-20T00:06:14.000Z",
    "name": "NexaShield abuse IP 91.224.92.137",
    "indicator_types": [
     "malicious-activity"
@@ -89571,7 +89703,7 @@
    "pattern": "[ipv4-addr:value = '91.224.92.137']",
    "pattern_type": "stix",
    "valid_from": "2026-11-17T22:15:54.000Z",
-   "description": "Lithuania - AS209605 UAB Host Baltic - Port scanning (90)",
+   "description": "Lithuania - AS209605 UAB Host Baltic - Port scanning (93)",
    "labels": [
     "scan"
    ],
@@ -92287,7 +92419,7 @@
    "id": "indicator--08d2e1ec-26e8-5ee2-b0f4-3dff0f1fdf32",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:55:46.000Z",
-   "modified": "2026-11-19T22:53:21.000Z",
+   "modified": "2026-11-20T00:10:33.000Z",
    "name": "NexaShield abuse IP 91.231.89.5",
    "indicator_types": [
     "malicious-activity"
@@ -92295,7 +92427,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.5']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:55:46.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (172), Known botnet / C2 infrastructure (21)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (173), Known botnet / C2 infrastructure (21)",
    "labels": [
     "c2",
     "scan"
@@ -92368,7 +92500,7 @@
    "id": "indicator--16d56cef-fe56-52dc-9250-056fdb603690",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:00:27.000Z",
-   "modified": "2026-11-19T22:48:59.000Z",
+   "modified": "2026-11-20T00:08:18.000Z",
    "name": "NexaShield abuse IP 91.231.89.8",
    "indicator_types": [
     "malicious-activity"
@@ -92376,7 +92508,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.8']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:00:27.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (109), Known botnet / C2 infrastructure (19)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (110), Known botnet / C2 infrastructure (20)",
    "labels": [
     "c2",
     "scan"
@@ -92638,7 +92770,7 @@
    "id": "indicator--45e6fcee-34fa-58cd-afb2-672983596524",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:35:20.000Z",
-   "modified": "2026-11-19T22:57:03.000Z",
+   "modified": "2026-11-20T00:14:33.000Z",
    "name": "NexaShield abuse IP 91.231.89.77",
    "indicator_types": [
     "malicious-activity"
@@ -92646,7 +92778,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.77']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:35:20.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (80), Known botnet / C2 infrastructure (11)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (81), Known botnet / C2 infrastructure (11)",
    "labels": [
     "c2",
     "scan"
@@ -92746,7 +92878,7 @@
    "id": "indicator--3a45489a-91b7-5186-aab6-14ef1ba168b3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:17:09.000Z",
-   "modified": "2026-11-19T22:55:21.000Z",
+   "modified": "2026-11-20T00:12:27.000Z",
    "name": "NexaShield abuse IP 91.231.89.84",
    "indicator_types": [
     "malicious-activity"
@@ -92754,7 +92886,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.84']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:17:09.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (78), Known botnet / C2 infrastructure (11)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (79), Known botnet / C2 infrastructure (11)",
    "labels": [
     "c2",
     "scan"
@@ -92827,7 +92959,7 @@
    "id": "indicator--a8df440d-e277-5de6-a93a-df4d6df54100",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T15:45:17.000Z",
-   "modified": "2026-11-19T20:44:34.000Z",
+   "modified": "2026-11-20T00:16:58.000Z",
    "name": "NexaShield abuse IP 91.231.89.89",
    "indicator_types": [
     "malicious-activity"
@@ -92835,7 +92967,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.89']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T15:45:17.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (20), Known botnet / C2 infrastructure (6)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (21), Known botnet / C2 infrastructure (7)",
    "labels": [
     "c2",
     "scan"
@@ -93424,7 +93556,7 @@
    "id": "indicator--8cbbac2f-9074-557d-9cde-0abcfa40e6a0",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:45:43.000Z",
-   "modified": "2026-11-19T22:55:01.000Z",
+   "modified": "2026-11-20T00:14:26.000Z",
    "name": "NexaShield abuse IP 91.231.89.148",
    "indicator_types": [
     "malicious-activity"
@@ -93432,7 +93564,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.148']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:45:43.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (63), Known botnet / C2 infrastructure (14)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (64), Known botnet / C2 infrastructure (15)",
    "labels": [
     "c2",
     "scan"
@@ -93993,7 +94125,7 @@
    "id": "indicator--14213bfe-b021-5555-99de-8f709e44c892",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:58:40.000Z",
-   "modified": "2026-11-19T22:58:59.000Z",
+   "modified": "2026-11-20T00:16:08.000Z",
    "name": "NexaShield abuse IP 91.231.89.202",
    "indicator_types": [
     "malicious-activity"
@@ -94001,7 +94133,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.202']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:58:40.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (173), Known botnet / C2 infrastructure (20)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (174), Known botnet / C2 infrastructure (20)",
    "labels": [
     "c2",
     "scan"
@@ -94020,7 +94152,7 @@
    "id": "indicator--af78e654-e2c7-5638-8063-4af5497dc475",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:53:32.000Z",
-   "modified": "2026-11-19T22:53:53.000Z",
+   "modified": "2026-11-20T00:11:22.000Z",
    "name": "NexaShield abuse IP 91.231.89.203",
    "indicator_types": [
     "malicious-activity"
@@ -94028,7 +94160,7 @@
    "pattern": "[ipv4-addr:value = '91.231.89.203']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:53:32.000Z",
-   "description": "France - AS213412 ONYPHE SAS - Port scanning (106), Known botnet / C2 infrastructure (23)",
+   "description": "France - AS213412 ONYPHE SAS - Port scanning (107), Known botnet / C2 infrastructure (24)",
    "labels": [
     "c2",
     "scan"
@@ -94859,7 +94991,7 @@
    "id": "indicator--032c2f3b-dd2a-51b8-9192-15405e46c16f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-18T01:07:02.000Z",
-   "modified": "2026-11-18T17:32:37.000Z",
+   "modified": "2026-11-20T00:01:04.000Z",
    "name": "NexaShield abuse IP 92.118.39.72",
    "indicator_types": [
     "malicious-activity"
@@ -94867,7 +94999,7 @@
    "pattern": "[ipv4-addr:value = '92.118.39.72']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T01:07:02.000Z",
-   "description": "The Netherlands - AS47890 UNMANAGED LTD - Port scanning (11), SSH brute force (4), Known botnet / C2 infrastructure (2)",
+   "description": "The Netherlands - AS47890 UNMANAGED LTD - Port scanning (12), SSH brute force (4), Known botnet / C2 infrastructure (2)",
    "labels": [
     "c2",
     "scan",
@@ -94887,7 +95019,7 @@
    "id": "indicator--693f8517-c907-5633-b6e5-a6f929701dac",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:57:00.000Z",
-   "modified": "2026-11-19T23:01:44.000Z",
+   "modified": "2026-11-20T00:13:50.000Z",
    "name": "NexaShield abuse IP 92.118.39.75",
    "indicator_types": [
     "malicious-activity"
@@ -94895,7 +95027,7 @@
    "pattern": "[ipv4-addr:value = '92.118.39.75']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:57:00.000Z",
-   "description": "The Netherlands - AS47890 UNMANAGED LTD - SSH brute force (82), Port scanning (30), Known botnet / C2 infrastructure (14)",
+   "description": "The Netherlands - AS47890 UNMANAGED LTD - SSH brute force (86), Port scanning (31), Known botnet / C2 infrastructure (14)",
    "labels": [
     "c2",
     "scan",
@@ -95051,7 +95183,7 @@
    "id": "indicator--f6d49aa1-e85c-5f6c-807a-e78179fe306a",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T03:40:35.000Z",
-   "modified": "2026-11-19T22:39:34.000Z",
+   "modified": "2026-11-20T00:12:40.000Z",
    "name": "NexaShield abuse IP 92.118.39.181",
    "indicator_types": [
     "malicious-activity"
@@ -95059,7 +95191,7 @@
    "pattern": "[ipv4-addr:value = '92.118.39.181']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T03:40:35.000Z",
-   "description": "The Netherlands - AS47890 UNMANAGED LTD - Port scanning (210), Known botnet / C2 infrastructure (13)",
+   "description": "The Netherlands - AS47890 UNMANAGED LTD - Port scanning (212), Known botnet / C2 infrastructure (13)",
    "labels": [
     "c2",
     "scan"
@@ -95347,7 +95479,7 @@
    "id": "indicator--9e1353d1-6600-5b02-9ad7-c16ad4246f57",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:29:51.000Z",
-   "modified": "2026-11-19T22:43:46.000Z",
+   "modified": "2026-11-20T00:00:30.000Z",
    "name": "NexaShield abuse IP 93.123.109.9",
    "indicator_types": [
     "malicious-activity"
@@ -95355,7 +95487,7 @@
    "pattern": "[ipv4-addr:value = '93.123.109.9']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:29:51.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (349)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (350)",
    "labels": [
     "scan"
    ],
@@ -95692,7 +95824,7 @@
    "id": "indicator--2b14bfcd-c134-5d64-aeea-919ba52dc01b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:24:55.000Z",
-   "modified": "2026-11-19T22:37:06.000Z",
+   "modified": "2026-11-20T00:05:58.000Z",
    "name": "NexaShield abuse IP 93.123.109.214",
    "indicator_types": [
     "malicious-activity"
@@ -95700,7 +95832,7 @@
    "pattern": "[ipv4-addr:value = '93.123.109.214']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:24:55.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (330), Known botnet / C2 infrastructure (30)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (331), Known botnet / C2 infrastructure (30)",
    "labels": [
     "c2",
     "scan"
@@ -95838,7 +95970,7 @@
    "pattern": "[ipv4-addr:value = '93.152.221.43']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T04:32:01.000Z",
-   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (71), Spamhaus DROP-listed network (17)",
+   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (63), Spamhaus DROP-listed network (15)",
    "labels": [
     "spamhaus",
     "ssh"
@@ -95857,7 +95989,7 @@
    "id": "indicator--5ac4eeb4-b409-50bd-a9d2-5209633cb9a9",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-18T10:26:56.000Z",
-   "modified": "2026-11-19T17:31:45.000Z",
+   "modified": "2026-11-20T00:30:36.000Z",
    "name": "NexaShield abuse IP 93.152.221.50",
    "indicator_types": [
     "malicious-activity"
@@ -95865,7 +95997,7 @@
    "pattern": "[ipv4-addr:value = '93.152.221.50']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T10:26:56.000Z",
-   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (44), Spamhaus DROP-listed network (15)",
+   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (34), Spamhaus DROP-listed network (13)",
    "labels": [
     "spamhaus",
     "ssh"
@@ -95892,7 +96024,7 @@
    "pattern": "[ipv4-addr:value = '93.152.221.108']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T19:27:50.000Z",
-   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (15), Spamhaus DROP-listed network (12), Port scanning (5)",
+   "description": "Germany - AS197170 TechTies Inc. - SSH brute force (15), Spamhaus DROP-listed network (10), Port scanning (4)",
    "labels": [
     "scan",
     "spamhaus",
@@ -97740,7 +97872,7 @@
    "id": "indicator--53fcbf8a-c4a3-54fd-a0f2-736019baaabd",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-14T10:58:53.000Z",
-   "modified": "2026-11-17T17:14:14.000Z",
+   "modified": "2026-11-20T00:09:50.000Z",
    "name": "NexaShield abuse IP 100.29.192.40",
    "indicator_types": [
     "malicious-activity"
@@ -97748,7 +97880,7 @@
    "pattern": "[ipv4-addr:value = '100.29.192.40']",
    "pattern_type": "stix",
    "valid_from": "2026-11-14T10:58:53.000Z",
-   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (5), Known botnet / C2 infrastructure (3)",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (7), Known botnet / C2 infrastructure (4)",
    "labels": [
     "c2",
     "scan"
@@ -98712,7 +98844,7 @@
    "id": "indicator--87bd6ac1-1009-55bb-90b9-c65ef111591f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:55:59.000Z",
-   "modified": "2026-11-19T09:54:21.000Z",
+   "modified": "2026-11-20T00:09:50.000Z",
    "name": "NexaShield abuse IP 100.29.192.107",
    "indicator_types": [
     "malicious-activity"
@@ -98720,7 +98852,7 @@
    "pattern": "[ipv4-addr:value = '100.29.192.107']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:55:59.000Z",
-   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (5), Known botnet / C2 infrastructure (4)",
+   "description": "United States - AS14618 Amazon.com, Inc. - Port scanning (6), Known botnet / C2 infrastructure (5)",
    "labels": [
     "c2",
     "scan"
@@ -100934,7 +101066,7 @@
    "pattern": "[ipv4-addr:value = '103.87.68.151']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T02:23:22.000Z",
-   "description": "Indonesia - AS150249 PT Atharva Telematika Persada - Abusive HTTP requests (2), Web injection payload blocked by WAF (2)",
+   "description": "Indonesia - AS150249 PT Atharva Telematika Persada - Abusive HTTP requests (1), Web injection payload blocked by WAF (1)",
    "labels": [
     "waf",
     "web"
@@ -101677,7 +101809,7 @@
    "id": "indicator--f8dc888b-69de-55b8-a554-0e42bcf678d4",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-19T22:39:03.000Z",
-   "modified": "2026-11-19T23:01:03.000Z",
+   "modified": "2026-11-19T22:39:03.000Z",
    "name": "NexaShield abuse IP 104.194.138.249",
    "indicator_types": [
     "malicious-activity"
@@ -101685,9 +101817,10 @@
    "pattern": "[ipv4-addr:value = '104.194.138.249']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T22:39:03.000Z",
-   "description": "United States - AS14956 RouterHosting LLC - Web injection payload blocked by WAF (8)",
+   "description": "United States - AS14956 RouterHosting LLC - Web injection payload blocked by WAF (8), Abusive HTTP requests (3)",
    "labels": [
-    "waf"
+    "waf",
+    "web"
    ],
    "confidence": 80,
    "external_references": [
@@ -104206,7 +104339,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.32']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T18:36:33.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (120), SSH brute force (10), Spamhaus DROP-listed network (7)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (60), SSH brute force (5), Spamhaus DROP-listed network (4)",
    "labels": [
     "scan",
     "spamhaus",
@@ -104344,7 +104477,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.47']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T23:42:57.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (53), SSH brute force (16), Spamhaus DROP-listed network (6)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (53), SSH brute force (16), Spamhaus DROP-listed network (4)",
    "labels": [
     "scan",
     "spamhaus",
@@ -104372,7 +104505,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.104']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T22:46:12.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (112), SSH brute force (24), Spamhaus DROP-listed network (7)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (56), SSH brute force (12), Spamhaus DROP-listed network (4)",
    "labels": [
     "scan",
     "spamhaus",
@@ -104617,7 +104750,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.125']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:36:45.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (53), SSH brute force (7), Spamhaus DROP-listed network (3)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (53), SSH brute force (7), Spamhaus DROP-listed network (2)",
    "labels": [
     "scan",
     "spamhaus",
@@ -104781,7 +104914,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.145']",
    "pattern_type": "stix",
    "valid_from": "2026-11-16T07:23:08.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (57), SSH brute force (8), Spamhaus DROP-listed network (2)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (57), SSH brute force (8), Spamhaus DROP-listed network (1)",
    "labels": [
     "scan",
     "spamhaus",
@@ -104891,7 +105024,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.159']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T01:38:48.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (49), SSH brute force (7), Spamhaus DROP-listed network (3)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (49), SSH brute force (7), Spamhaus DROP-listed network (2)",
    "labels": [
     "scan",
     "spamhaus",
@@ -105055,7 +105188,7 @@
    "pattern": "[ipv4-addr:value = '109.160.32.172']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T14:05:34.000Z",
-   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (204), SSH brute force (46), Spamhaus DROP-listed network (8)",
+   "description": "The Netherlands - AS198364 BANATSYNC SRL - Port scanning (102), SSH brute force (23), Spamhaus DROP-listed network (4)",
    "labels": [
     "scan",
     "spamhaus",
@@ -105593,7 +105726,7 @@
    "pattern": "[ipv4-addr:value = '115.50.151.125']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T00:22:10.000Z",
-   "description": "China - AS4837 CHINA UNICOM China169 Backbone - Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2)",
+   "description": "China - AS4837 CHINA UNICOM China169 Backbone - Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1)",
    "labels": [
     "exploit",
     "web"
@@ -105907,7 +106040,7 @@
    "id": "indicator--7684b9ce-dc03-569d-8367-8809e8f0a3ef",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T05:46:27.000Z",
-   "modified": "2026-11-18T17:50:14.000Z",
+   "modified": "2026-11-20T00:10:52.000Z",
    "name": "NexaShield abuse IP 118.27.148.5",
    "indicator_types": [
     "malicious-activity"
@@ -105915,7 +106048,7 @@
    "pattern": "[ipv4-addr:value = '118.27.148.5']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T05:46:27.000Z",
-   "description": "Thailand - AS135161 GMO-Z.COM PTE. LTD. - Port scanning (15), Known botnet / C2 infrastructure (8)",
+   "description": "Thailand - AS135161 GMO-Z.COM PTE. LTD. - Port scanning (16), Known botnet / C2 infrastructure (9)",
    "labels": [
     "c2",
     "scan"
@@ -107235,7 +107368,7 @@
    "pattern": "[ipv4-addr:value = '122.97.137.110']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T20:43:56.000Z",
-   "description": "China - AS4837 CHINA UNICOM China169 Backbone - Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2)",
+   "description": "China - AS4837 CHINA UNICOM China169 Backbone - Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1)",
    "labels": [
     "exploit",
     "web"
@@ -108729,7 +108862,7 @@
    "id": "indicator--dcd810c3-6e6e-5e44-9865-4cc15f65c5ad",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T22:50:03.000Z",
-   "modified": "2026-11-19T08:07:40.000Z",
+   "modified": "2026-11-20T00:09:50.000Z",
    "name": "NexaShield abuse IP 134.122.106.248",
    "indicator_types": [
     "malicious-activity"
@@ -108737,7 +108870,7 @@
    "pattern": "[ipv4-addr:value = '134.122.106.248']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T22:50:03.000Z",
-   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Port scanning (19), Known botnet / C2 infrastructure (11)",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Port scanning (20), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -110201,7 +110334,7 @@
    "id": "indicator--b7ece293-4b1f-5ce5-b684-7368844a0eb6",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:38:13.000Z",
-   "modified": "2026-11-19T23:06:18.000Z",
+   "modified": "2026-11-20T00:09:50.000Z",
    "name": "NexaShield abuse IP 138.226.239.233",
    "indicator_types": [
     "malicious-activity"
@@ -110209,7 +110342,7 @@
    "pattern": "[ipv4-addr:value = '138.226.239.233']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:38:13.000Z",
-   "description": "The Netherlands - AS44589 DIGITAL NETWORK S.R.L. - Port scanning (1539), SSH brute force (216), Known botnet / C2 infrastructure (15)",
+   "description": "The Netherlands - AS44589 DIGITAL NETWORK S.R.L. - Port scanning (1542), SSH brute force (220), Known botnet / C2 infrastructure (16)",
    "labels": [
     "c2",
     "scan",
@@ -110229,7 +110362,7 @@
    "id": "indicator--66dae839-c5d6-5574-80a6-2fadd7da8fbd",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T21:33:16.000Z",
-   "modified": "2026-11-19T23:16:39.000Z",
+   "modified": "2026-11-20T00:14:56.000Z",
    "name": "NexaShield abuse IP 138.226.239.234",
    "indicator_types": [
     "malicious-activity"
@@ -110237,7 +110370,7 @@
    "pattern": "[ipv4-addr:value = '138.226.239.234']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T21:33:16.000Z",
-   "description": "The Netherlands - AS44589 DIGITAL NETWORK S.R.L. - Port scanning (1574), SSH brute force (266), Known botnet / C2 infrastructure (15)",
+   "description": "The Netherlands - AS44589 DIGITAL NETWORK S.R.L. - Port scanning (1577), SSH brute force (270), Known botnet / C2 infrastructure (16)",
    "labels": [
     "c2",
     "scan",
@@ -110496,7 +110629,7 @@
    "id": "indicator--cc770d81-e325-504c-aeb6-31fdcfe8b05f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T14:19:50.000Z",
-   "modified": "2026-11-11T14:20:15.000Z",
+   "modified": "2026-11-20T00:29:26.000Z",
    "name": "NexaShield abuse IP 139.59.132.8",
    "indicator_types": [
     "malicious-activity"
@@ -110504,7 +110637,7 @@
    "pattern": "[ipv4-addr:value = '139.59.132.8']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T14:19:50.000Z",
-   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6), Port scanning (1)",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (18), Port scanning (1)",
    "labels": [
     "scan",
     "web"
@@ -111210,7 +111343,7 @@
    "id": "indicator--62c01b61-3a5a-5954-99a3-ae92de4496e9",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:46:40.000Z",
-   "modified": "2026-11-19T09:39:22.000Z",
+   "modified": "2026-11-20T00:09:41.000Z",
    "name": "NexaShield abuse IP 141.98.83.48",
    "indicator_types": [
     "malicious-activity"
@@ -111218,7 +111351,7 @@
    "pattern": "[ipv4-addr:value = '141.98.83.48']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:46:40.000Z",
-   "description": "Romania - AS209588 Flyservers S.A. - Port scanning (264), Known botnet / C2 infrastructure (19)",
+   "description": "Romania - AS209588 Flyservers S.A. - Port scanning (266), Known botnet / C2 infrastructure (20)",
    "labels": [
     "c2",
     "scan"
@@ -111368,7 +111501,7 @@
    "id": "indicator--9514117d-4369-59f5-a340-884bfdfd368e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T02:00:29.000Z",
-   "modified": "2026-11-19T22:53:43.000Z",
+   "modified": "2026-11-20T00:09:48.000Z",
    "name": "NexaShield abuse IP 143.42.1.44",
    "indicator_types": [
     "malicious-activity"
@@ -111376,7 +111509,7 @@
    "pattern": "[ipv4-addr:value = '143.42.1.44']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T02:00:29.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (47)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (48)",
    "labels": [
     "scan"
    ],
@@ -111603,7 +111736,7 @@
    "id": "indicator--dd915479-c4aa-5fee-9031-af89256dc900",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-10T06:15:26.000Z",
-   "modified": "2026-11-10T06:15:46.000Z",
+   "modified": "2026-11-20T00:29:26.000Z",
    "name": "NexaShield abuse IP 143.110.217.244",
    "indicator_types": [
     "malicious-activity"
@@ -111611,7 +111744,7 @@
    "pattern": "[ipv4-addr:value = '143.110.217.244']",
    "pattern_type": "stix",
    "valid_from": "2026-11-10T06:15:26.000Z",
-   "description": "Canada - AS14061 DigitalOcean, LLC - Abusive HTTP requests (12)",
+   "description": "Canada - AS14061 DigitalOcean, LLC - Abusive HTTP requests (24)",
    "labels": [
     "web"
    ],
@@ -112275,6 +112408,32 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
+   "id": "indicator--3fdedc28-3107-5983-a8c4-d3568b03ddac",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-19T23:08:12.000Z",
+   "modified": "2026-11-20T00:29:30.000Z",
+   "name": "NexaShield abuse IP 146.190.63.248",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '146.190.63.248']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-19T23:08:12.000Z",
+   "description": "United States - AS14061 DigitalOcean, LLC - Abusive HTTP requests (30)",
+   "labels": [
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
    "id": "indicator--caabcf04-b9c6-5236-aaab-32b7ed019b7b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:57:39.000Z",
@@ -112733,7 +112892,7 @@
    "id": "indicator--105fad07-9e98-5a6a-95e3-913d15fbe0bf",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:33:14.000Z",
-   "modified": "2026-11-19T23:01:14.000Z",
+   "modified": "2026-11-20T00:09:41.000Z",
    "name": "NexaShield abuse IP 148.153.189.62",
    "indicator_types": [
     "malicious-activity"
@@ -112741,7 +112900,7 @@
    "pattern": "[ipv4-addr:value = '148.153.189.62']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:33:14.000Z",
-   "description": "United States - AS63199 CDS Global Cloud Co., Ltd - Port scanning (145), Known botnet / C2 infrastructure (26)",
+   "description": "United States - AS63199 CDS Global Cloud Co., Ltd - Port scanning (146), Known botnet / C2 infrastructure (26)",
    "labels": [
     "c2",
     "scan"
@@ -113515,7 +113674,7 @@
    "id": "indicator--21a24d79-01c0-59b3-8da8-7cfc70e94925",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T10:46:11.000Z",
-   "modified": "2026-11-19T22:46:10.000Z",
+   "modified": "2026-11-20T00:15:46.000Z",
    "name": "NexaShield abuse IP 151.243.11.40",
    "indicator_types": [
     "malicious-activity"
@@ -113523,7 +113682,7 @@
    "pattern": "[ipv4-addr:value = '151.243.11.40']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T10:46:11.000Z",
-   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (105), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1)",
+   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (107), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1)",
    "labels": [
     "c2",
     "exploit",
@@ -113788,7 +113947,7 @@
    "id": "indicator--1e9032f6-07fc-5276-96d0-c48dd5e60ce7",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T11:29:26.000Z",
-   "modified": "2026-11-19T22:29:07.000Z",
+   "modified": "2026-11-20T00:15:46.000Z",
    "name": "NexaShield abuse IP 151.243.11.104",
    "indicator_types": [
     "malicious-activity"
@@ -113796,7 +113955,7 @@
    "pattern": "[ipv4-addr:value = '151.243.11.104']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T11:29:26.000Z",
-   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (91), Known botnet / C2 infrastructure (14)",
+   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (93), Known botnet / C2 infrastructure (14)",
    "labels": [
     "c2",
     "scan"
@@ -113842,7 +114001,7 @@
    "id": "indicator--01de244d-c791-5d03-a182-d112c05289d8",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T10:37:16.000Z",
-   "modified": "2026-11-19T22:35:18.000Z",
+   "modified": "2026-11-20T00:13:41.000Z",
    "name": "NexaShield abuse IP 151.243.11.106",
    "indicator_types": [
     "malicious-activity"
@@ -113850,7 +114009,7 @@
    "pattern": "[ipv4-addr:value = '151.243.11.106']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T10:37:16.000Z",
-   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (81), Known botnet / C2 infrastructure (15)",
+   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (83), Known botnet / C2 infrastructure (15)",
    "labels": [
     "c2",
     "scan"
@@ -113869,7 +114028,7 @@
    "id": "indicator--05067656-03d6-5a7c-a7fc-2c15991190d3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T13:44:08.000Z",
-   "modified": "2026-11-19T21:29:42.000Z",
+   "modified": "2026-11-20T00:01:38.000Z",
    "name": "NexaShield abuse IP 151.243.11.107",
    "indicator_types": [
     "malicious-activity"
@@ -113877,7 +114036,7 @@
    "pattern": "[ipv4-addr:value = '151.243.11.107']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T13:44:08.000Z",
-   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (66), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (1)",
+   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (68), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (1)",
    "labels": [
     "c2",
     "exploit",
@@ -113924,7 +114083,7 @@
    "id": "indicator--78c43731-1c1f-5ccb-a923-f80461949184",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T11:07:08.000Z",
-   "modified": "2026-11-19T20:10:49.000Z",
+   "modified": "2026-11-20T00:13:55.000Z",
    "name": "NexaShield abuse IP 151.243.11.109",
    "indicator_types": [
     "malicious-activity"
@@ -113932,7 +114091,7 @@
    "pattern": "[ipv4-addr:value = '151.243.11.109']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T11:07:08.000Z",
-   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (71), Known botnet / C2 infrastructure (14)",
+   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (73), Known botnet / C2 infrastructure (15)",
    "labels": [
     "c2",
     "scan"
@@ -114222,7 +114381,7 @@
    "id": "indicator--ca33a92d-b51f-5d2d-b288-f11551edf41e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T10:29:31.000Z",
-   "modified": "2026-11-19T20:06:23.000Z",
+   "modified": "2026-11-20T00:06:01.000Z",
    "name": "NexaShield abuse IP 151.243.11.140",
    "indicator_types": [
     "malicious-activity"
@@ -114230,7 +114389,7 @@
    "pattern": "[ipv4-addr:value = '151.243.11.140']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T10:29:31.000Z",
-   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (63), Known botnet / C2 infrastructure (14)",
+   "description": "Germany - AS209630 LLC VASH KREDIT BANK - Port scanning (65), Known botnet / C2 infrastructure (14)",
    "labels": [
     "c2",
     "scan"
@@ -119361,7 +119520,7 @@
    "id": "indicator--ed749240-915d-5f63-8267-4a48ce84fe3b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-09T20:03:14.000Z",
-   "modified": "2026-11-19T23:33:36.000Z",
+   "modified": "2026-11-20T00:33:23.000Z",
    "name": "NexaShield abuse IP 154.18.197.29",
    "indicator_types": [
     "malicious-activity"
@@ -119369,7 +119528,7 @@
    "pattern": "[ipv4-addr:value = '154.18.197.29']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T20:03:14.000Z",
-   "description": "Philippines - AS142271 DoubleSquare Networks Inc. - SSH brute force (1064), Port scanning (112)",
+   "description": "Philippines - AS142271 DoubleSquare Networks Inc. - SSH brute force (1064), Port scanning (98)",
    "labels": [
     "scan",
     "ssh"
@@ -119549,7 +119708,7 @@
    "id": "indicator--8466ebad-c674-5cbc-905e-676b1ac6bceb",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:46:18.000Z",
-   "modified": "2026-11-19T23:14:26.000Z",
+   "modified": "2026-11-20T00:03:52.000Z",
    "name": "NexaShield abuse IP 154.80.128.231",
    "indicator_types": [
     "malicious-activity"
@@ -119557,7 +119716,7 @@
    "pattern": "[ipv4-addr:value = '154.80.128.231']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:46:18.000Z",
-   "description": "Brazil - AS215925 VPSVAULT.HOST LTD - Port scanning (702), Exploitation attempt (CVE / RCE / injection) (48), Known botnet / C2 infrastructure (33)",
+   "description": "Brazil - AS215925 VPSVAULT.HOST LTD - Port scanning (703), Exploitation attempt (CVE / RCE / injection) (48), Known botnet / C2 infrastructure (33)",
    "labels": [
     "c2",
     "exploit",
@@ -122931,7 +123090,7 @@
    "id": "indicator--152d2828-3161-568d-ad3d-ca085a0bc152",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-13T16:41:04.000Z",
-   "modified": "2026-11-17T07:25:47.000Z",
+   "modified": "2026-11-20T00:16:56.000Z",
    "name": "NexaShield abuse IP 165.154.36.107",
    "indicator_types": [
     "malicious-activity"
@@ -122939,7 +123098,7 @@
    "pattern": "[ipv4-addr:value = '165.154.36.107']",
    "pattern_type": "stix",
    "valid_from": "2026-11-13T16:41:04.000Z",
-   "description": "United States - AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED - Port scanning (7), Known botnet / C2 infrastructure (3)",
+   "description": "United States - AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED - Port scanning (9), Known botnet / C2 infrastructure (4)",
    "labels": [
     "c2",
     "scan"
@@ -124757,7 +124916,7 @@
    "id": "indicator--24e7f7db-85af-51b3-96fa-e406403c909b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T17:11:29.000Z",
-   "modified": "2026-11-19T20:34:11.000Z",
+   "modified": "2026-11-20T00:11:22.000Z",
    "name": "NexaShield abuse IP 167.71.133.68",
    "indicator_types": [
     "malicious-activity"
@@ -124765,7 +124924,7 @@
    "pattern": "[ipv4-addr:value = '167.71.133.68']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T17:11:29.000Z",
-   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Port scanning (23), Known botnet / C2 infrastructure (11)",
+   "description": "United Kingdom - AS14061 DigitalOcean, LLC - Port scanning (24), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -126342,7 +126501,7 @@
    "id": "indicator--b2078730-8d76-559d-aa95-b4e7809c4566",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:10:05.000Z",
-   "modified": "2026-11-19T21:45:58.000Z",
+   "modified": "2026-11-20T00:07:11.000Z",
    "name": "NexaShield abuse IP 167.94.146.79",
    "indicator_types": [
     "malicious-activity"
@@ -126350,7 +126509,7 @@
    "pattern": "[ipv4-addr:value = '167.94.146.79']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:10:05.000Z",
-   "description": "Germany - AS398705 Censys, Inc. - Port scanning (58), Known botnet / C2 infrastructure (16)",
+   "description": "Germany - AS398705 Censys, Inc. - Port scanning (59), Known botnet / C2 infrastructure (16)",
    "labels": [
     "c2",
     "scan"
@@ -127053,6 +127212,33 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
+   "id": "indicator--1a012fa0-d5a5-5d2b-92c4-108e724432b1",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-19T23:12:18.000Z",
+   "modified": "2026-11-19T23:12:20.000Z",
+   "name": "NexaShield abuse IP 172.86.112.198",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '172.86.112.198']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-19T23:12:18.000Z",
+   "description": "United States - AS14956 RouterHosting LLC - Web injection payload blocked by WAF (24), Abusive HTTP requests (9)",
+   "labels": [
+    "waf",
+    "web"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
    "id": "indicator--137b2eaa-a0e8-50b9-a5d3-27a8e093dc33",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T13:30:54.000Z",
@@ -127243,7 +127429,7 @@
    "id": "indicator--c3e0f853-f753-53bb-8b1a-883b85e0a13d",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T15:01:24.000Z",
-   "modified": "2026-11-19T21:58:00.000Z",
+   "modified": "2026-11-20T00:06:34.000Z",
    "name": "NexaShield abuse IP 172.110.223.110",
    "indicator_types": [
     "malicious-activity"
@@ -127251,7 +127437,7 @@
    "pattern": "[ipv4-addr:value = '172.110.223.110']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T15:01:24.000Z",
-   "description": "Hong Kong - AS47154 HUSAM A. H. HIJAZI - Port scanning (67), Known botnet / C2 infrastructure (8)",
+   "description": "Hong Kong - AS47154 HUSAM A. H. HIJAZI - Port scanning (70), Known botnet / C2 infrastructure (8)",
    "labels": [
     "c2",
     "scan"
@@ -128775,7 +128961,7 @@
    "id": "indicator--15c9622e-b31d-5944-b9fa-381889efad20",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:21:14.000Z",
-   "modified": "2026-11-19T22:36:26.000Z",
+   "modified": "2026-11-20T00:14:26.000Z",
    "name": "NexaShield abuse IP 172.234.218.87",
    "indicator_types": [
     "malicious-activity"
@@ -128783,7 +128969,7 @@
    "pattern": "[ipv4-addr:value = '172.234.218.87']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:21:14.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (44)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (46)",
    "labels": [
     "scan"
    ],
@@ -128801,7 +128987,7 @@
    "id": "indicator--e2e7e4e1-baaa-56ce-8386-452f36e384e1",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T13:29:28.000Z",
-   "modified": "2026-11-19T22:46:29.000Z",
+   "modified": "2026-11-20T00:12:36.000Z",
    "name": "NexaShield abuse IP 172.234.218.245",
    "indicator_types": [
     "malicious-activity"
@@ -128809,7 +128995,7 @@
    "pattern": "[ipv4-addr:value = '172.234.218.245']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T13:29:28.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (24), Known botnet / C2 infrastructure (12)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (25), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -128987,7 +129173,7 @@
    "id": "indicator--8d7a57b9-ac55-5a51-9712-2a48b9e9a22f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:49:48.000Z",
-   "modified": "2026-11-19T23:03:35.000Z",
+   "modified": "2026-11-20T00:03:54.000Z",
    "name": "NexaShield abuse IP 172.236.111.98",
    "indicator_types": [
     "malicious-activity"
@@ -128995,7 +129181,7 @@
    "pattern": "[ipv4-addr:value = '172.236.111.98']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:49:48.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (34)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (35)",
    "labels": [
     "scan"
    ],
@@ -129091,7 +129277,7 @@
    "id": "indicator--e7a3b69b-6246-5061-aa2f-7aecceacb1a2",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:51:01.000Z",
-   "modified": "2026-11-19T23:10:53.000Z",
+   "modified": "2026-11-20T00:01:34.000Z",
    "name": "NexaShield abuse IP 172.236.126.127",
    "indicator_types": [
     "malicious-activity"
@@ -129099,7 +129285,7 @@
    "pattern": "[ipv4-addr:value = '172.236.126.127']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:51:01.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (46)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (47)",
    "labels": [
     "scan"
    ],
@@ -129197,7 +129383,7 @@
    "id": "indicator--0f2a5b1a-426e-55dc-8751-9801bb242c33",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:54:48.000Z",
-   "modified": "2026-11-19T20:39:33.000Z",
+   "modified": "2026-11-20T00:09:20.000Z",
    "name": "NexaShield abuse IP 172.237.137.89",
    "indicator_types": [
     "malicious-activity"
@@ -129205,7 +129391,7 @@
    "pattern": "[ipv4-addr:value = '172.237.137.89']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:54:48.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (40)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (41)",
    "labels": [
     "scan"
    ],
@@ -129699,7 +129885,7 @@
    "id": "indicator--e52db460-4ef9-543e-ad9b-e97b9145660b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T15:58:10.000Z",
-   "modified": "2026-11-19T20:57:42.000Z",
+   "modified": "2026-11-20T00:03:02.000Z",
    "name": "NexaShield abuse IP 173.255.223.32",
    "indicator_types": [
     "malicious-activity"
@@ -129707,7 +129893,7 @@
    "pattern": "[ipv4-addr:value = '173.255.223.32']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T15:58:10.000Z",
-   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (58), Known botnet / C2 infrastructure (5)",
+   "description": "United States - AS63949 Akamai Technologies, Inc. - Port scanning (59), Known botnet / C2 infrastructure (5)",
    "labels": [
     "c2",
     "scan"
@@ -130816,7 +131002,7 @@
    "id": "indicator--f97a7332-36a7-52f9-8071-6eacc0679b0e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:00:46.000Z",
-   "modified": "2026-11-19T21:54:42.000Z",
+   "modified": "2026-11-20T00:09:34.000Z",
    "name": "NexaShield abuse IP 178.20.210.152",
    "indicator_types": [
     "malicious-activity"
@@ -130824,7 +131010,7 @@
    "pattern": "[ipv4-addr:value = '178.20.210.152']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:00:46.000Z",
-   "description": "Kazakhstan - AS210006 Shereverov Marat Ahmedovich - Port scanning (326)",
+   "description": "Kazakhstan - AS210006 Shereverov Marat Ahmedovich - Port scanning (328)",
    "labels": [
     "scan"
    ],
@@ -131493,7 +131679,7 @@
    "pattern": "[ipv4-addr:value = '182.253.123.8']",
    "pattern_type": "stix",
    "valid_from": "2026-11-18T11:11:32.000Z",
-   "description": "Indonesia - AS17451 BIZNET NETWORKS - Abusive HTTP requests (16)",
+   "description": "Indonesia - AS17451 BIZNET NETWORKS - Abusive HTTP requests (10)",
    "labels": [
     "web"
    ],
@@ -131545,7 +131731,7 @@
    "pattern": "[ipv4-addr:value = '182.253.123.49']",
    "pattern_type": "stix",
    "valid_from": "2026-11-15T15:52:29.000Z",
-   "description": "Indonesia - AS17451 BIZNET NETWORKS - Abusive HTTP requests (8)",
+   "description": "Indonesia - AS17451 BIZNET NETWORKS - Abusive HTTP requests (6)",
    "labels": [
     "web"
    ],
@@ -132967,7 +133153,7 @@
    "pattern": "[ipv4-addr:value = '185.203.118.142']",
    "pattern_type": "stix",
    "valid_from": "2026-11-19T00:54:36.000Z",
-   "description": "Bulgaria - AS44901 Belcloud LTD - Web injection payload blocked by WAF (18), Abusive HTTP requests (2)",
+   "description": "Bulgaria - AS44901 Belcloud LTD - Web injection payload blocked by WAF (9), Abusive HTTP requests (1)",
    "labels": [
     "waf",
     "web"
@@ -133386,7 +133572,7 @@
    "id": "indicator--dcfd06a6-97f6-5d93-97ba-c3018a66a2b5",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:44:47.000Z",
-   "modified": "2026-11-19T22:57:45.000Z",
+   "modified": "2026-11-20T00:07:10.000Z",
    "name": "NexaShield abuse IP 185.218.86.10",
    "indicator_types": [
     "malicious-activity"
@@ -133394,7 +133580,7 @@
    "pattern": "[ipv4-addr:value = '185.218.86.10']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:44:47.000Z",
-   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Port scanning (344)",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Port scanning (345)",
    "labels": [
     "scan"
    ],
@@ -133464,7 +133650,7 @@
    "id": "indicator--4ff9967a-7d10-5f7d-9105-793ca261b7b2",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:29:34.000Z",
-   "modified": "2026-11-19T22:53:33.000Z",
+   "modified": "2026-11-20T00:01:06.000Z",
    "name": "NexaShield abuse IP 185.218.86.17",
    "indicator_types": [
     "malicious-activity"
@@ -133472,7 +133658,7 @@
    "pattern": "[ipv4-addr:value = '185.218.86.17']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:29:34.000Z",
-   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Port scanning (336)",
+   "description": "Hong Kong - AS218785 TC DATACENTER LIMITED - Port scanning (337)",
    "labels": [
     "scan"
    ],
@@ -135512,7 +135698,7 @@
    "id": "indicator--1b29990b-e259-5852-9300-7554e93e49f1",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:19:19.000Z",
-   "modified": "2026-11-18T17:23:48.000Z",
+   "modified": "2026-11-20T00:10:52.000Z",
    "name": "NexaShield abuse IP 185.226.197.48",
    "indicator_types": [
     "malicious-activity"
@@ -135520,7 +135706,7 @@
    "pattern": "[ipv4-addr:value = '185.226.197.48']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:19:19.000Z",
-   "description": "The Netherlands - AS21859 Zenlayer Inc - Port scanning (10), Known botnet / C2 infrastructure (8)",
+   "description": "The Netherlands - AS21859 Zenlayer Inc - Port scanning (11), Known botnet / C2 infrastructure (9)",
    "labels": [
     "c2",
     "scan"
@@ -136425,7 +136611,7 @@
    "id": "indicator--67796b59-6670-51f7-8142-d0cf71f422d0",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T06:46:37.000Z",
-   "modified": "2026-11-19T22:14:28.000Z",
+   "modified": "2026-11-20T00:10:05.000Z",
    "name": "NexaShield abuse IP 185.242.226.166",
    "indicator_types": [
     "malicious-activity"
@@ -136433,7 +136619,7 @@
    "pattern": "[ipv4-addr:value = '185.242.226.166']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T06:46:37.000Z",
-   "description": "The Netherlands - AS202425 IP Volume inc - Port scanning (136), Known botnet / C2 infrastructure (25)",
+   "description": "The Netherlands - AS202425 IP Volume inc - Port scanning (137), Known botnet / C2 infrastructure (25)",
    "labels": [
     "c2",
     "scan"
@@ -137550,7 +137736,7 @@
    "id": "indicator--23f58203-c1be-5d31-8051-5baf3a5f960f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:01:39.000Z",
-   "modified": "2026-11-19T13:22:36.000Z",
+   "modified": "2026-11-20T00:07:18.000Z",
    "name": "NexaShield abuse IP 188.240.59.37",
    "indicator_types": [
     "malicious-activity"
@@ -137558,7 +137744,7 @@
    "pattern": "[ipv4-addr:value = '188.240.59.37']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:01:39.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (49), Known botnet / C2 infrastructure (19)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (50), Known botnet / C2 infrastructure (20)",
    "labels": [
     "c2",
     "scan"
@@ -139192,7 +139378,7 @@
    "pattern": "[ipv4-addr:value = '193.46.255.86']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T18:41:28.000Z",
-   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (615), Spamhaus DROP-listed network (99)",
+   "description": "United Kingdom - AS47890 UNMANAGED LTD - SSH brute force (558), Spamhaus DROP-listed network (99)",
    "labels": [
     "spamhaus",
     "ssh"
@@ -139428,7 +139614,7 @@
    "id": "indicator--564cf268-3ee4-5de1-8b72-5c54552f43f3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:31:46.000Z",
-   "modified": "2026-11-19T23:09:18.000Z",
+   "modified": "2026-11-20T00:05:00.000Z",
    "name": "NexaShield abuse IP 193.47.62.96",
    "indicator_types": [
     "malicious-activity"
@@ -139436,7 +139622,7 @@
    "pattern": "[ipv4-addr:value = '193.47.62.96']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:31:46.000Z",
-   "description": "Andorra - AS216014 BestDC Limited - Port scanning (585), Known botnet / C2 infrastructure (29)",
+   "description": "Andorra - AS216014 BestDC Limited - Port scanning (586), Known botnet / C2 infrastructure (29)",
    "labels": [
     "c2",
     "scan"
@@ -139455,7 +139641,7 @@
    "id": "indicator--03967439-b0d4-5eb3-b437-0455cc9c6c22",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:36:38.000Z",
-   "modified": "2026-11-19T23:02:22.000Z",
+   "modified": "2026-11-20T00:14:53.000Z",
    "name": "NexaShield abuse IP 193.47.62.97",
    "indicator_types": [
     "malicious-activity"
@@ -139463,7 +139649,7 @@
    "pattern": "[ipv4-addr:value = '193.47.62.97']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:36:38.000Z",
-   "description": "Andorra - AS216014 BestDC Limited - Port scanning (600), Known botnet / C2 infrastructure (17)",
+   "description": "Andorra - AS216014 BestDC Limited - Port scanning (601), Known botnet / C2 infrastructure (17)",
    "labels": [
     "c2",
     "scan"
@@ -139482,7 +139668,7 @@
    "id": "indicator--339a9a61-7361-50f5-b2f4-53246bb1cd86",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:38:06.000Z",
-   "modified": "2026-11-19T23:11:54.000Z",
+   "modified": "2026-11-20T00:03:12.000Z",
    "name": "NexaShield abuse IP 193.47.62.98",
    "indicator_types": [
     "malicious-activity"
@@ -139490,7 +139676,7 @@
    "pattern": "[ipv4-addr:value = '193.47.62.98']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:38:06.000Z",
-   "description": "Andorra - AS216014 BestDC Limited - Port scanning (548), Known botnet / C2 infrastructure (18)",
+   "description": "Andorra - AS216014 BestDC Limited - Port scanning (549), Known botnet / C2 infrastructure (18)",
    "labels": [
     "c2",
     "scan"
@@ -139536,7 +139722,7 @@
    "id": "indicator--7f6f529c-c251-53f5-8df2-958d199f5ce3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:30:48.000Z",
-   "modified": "2026-11-19T22:50:45.000Z",
+   "modified": "2026-11-20T00:06:17.000Z",
    "name": "NexaShield abuse IP 193.47.62.101",
    "indicator_types": [
     "malicious-activity"
@@ -139544,7 +139730,7 @@
    "pattern": "[ipv4-addr:value = '193.47.62.101']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:30:48.000Z",
-   "description": "Andorra - AS216014 BestDC Limited - Port scanning (493), Known botnet / C2 infrastructure (16)",
+   "description": "Andorra - AS216014 BestDC Limited - Port scanning (494), Known botnet / C2 infrastructure (16)",
    "labels": [
     "c2",
     "scan"
@@ -139806,7 +139992,7 @@
    "id": "indicator--b5adae0d-f3ba-55ce-9d37-c99da22d737e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:31:33.000Z",
-   "modified": "2026-11-19T15:49:52.000Z",
+   "modified": "2026-11-20T00:12:54.000Z",
    "name": "NexaShield abuse IP 193.124.20.230",
    "indicator_types": [
     "malicious-activity"
@@ -139814,7 +140000,7 @@
    "pattern": "[ipv4-addr:value = '193.124.20.230']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:31:33.000Z",
-   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (72), Known botnet / C2 infrastructure (20)",
+   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (73), Known botnet / C2 infrastructure (21)",
    "labels": [
     "c2",
     "scan"
@@ -140211,7 +140397,7 @@
    "id": "indicator--a6b2023c-55ee-579b-a401-1903d21b192e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:37:33.000Z",
-   "modified": "2026-11-19T22:34:58.000Z",
+   "modified": "2026-11-20T00:10:13.000Z",
    "name": "NexaShield abuse IP 193.124.20.250",
    "indicator_types": [
     "malicious-activity"
@@ -140219,7 +140405,7 @@
    "pattern": "[ipv4-addr:value = '193.124.20.250']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:37:33.000Z",
-   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (71), Known botnet / C2 infrastructure (18)",
+   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (72), Known botnet / C2 infrastructure (18)",
    "labels": [
     "c2",
     "scan"
@@ -141287,7 +141473,7 @@
    "id": "indicator--53c5ddbc-2b7e-5621-b6a9-e92a99e4e31f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:57:32.000Z",
-   "modified": "2026-11-19T16:22:49.000Z",
+   "modified": "2026-11-20T00:10:27.000Z",
    "name": "NexaShield abuse IP 193.176.31.203",
    "indicator_types": [
     "malicious-activity"
@@ -141295,7 +141481,7 @@
    "pattern": "[ipv4-addr:value = '193.176.31.203']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:57:32.000Z",
-   "description": "The Netherlands - AS25369 Hydra Communications Ltd - Port scanning (48), Known botnet / C2 infrastructure (19)",
+   "description": "The Netherlands - AS25369 Hydra Communications Ltd - Port scanning (49), Known botnet / C2 infrastructure (19)",
    "labels": [
     "c2",
     "scan"
@@ -142097,7 +142283,7 @@
    "id": "indicator--8f37db38-f123-5611-bde1-50935fe0a71f",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:47:20.000Z",
-   "modified": "2026-11-19T22:00:14.000Z",
+   "modified": "2026-11-20T00:10:25.000Z",
    "name": "NexaShield abuse IP 193.176.31.234",
    "indicator_types": [
     "malicious-activity"
@@ -142105,7 +142291,7 @@
    "pattern": "[ipv4-addr:value = '193.176.31.234']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:47:20.000Z",
-   "description": "The Netherlands - AS25369 Hydra Communications Ltd - Port scanning (13), Known botnet / C2 infrastructure (6)",
+   "description": "The Netherlands - AS25369 Hydra Communications Ltd - Port scanning (14), Known botnet / C2 infrastructure (6)",
    "labels": [
     "c2",
     "scan"
@@ -142564,7 +142750,7 @@
    "pattern": "[ipv4-addr:value = '193.187.110.160']",
    "pattern_type": "stix",
    "valid_from": "2026-11-10T23:36:18.000Z",
-   "description": "Turkey - AS153947 FAST ZONE IT - SSH brute force (108)",
+   "description": "Turkey - AS153947 FAST ZONE IT - SSH brute force (94)",
    "labels": [
     "ssh"
    ],
@@ -143771,7 +143957,7 @@
    "id": "indicator--01e26dee-30b2-5365-b6aa-65fa241455fa",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:41:39.000Z",
-   "modified": "2026-11-19T21:22:18.000Z",
+   "modified": "2026-11-20T00:13:21.000Z",
    "name": "NexaShield abuse IP 194.88.98.110",
    "indicator_types": [
     "malicious-activity"
@@ -143779,7 +143965,7 @@
    "pattern": "[ipv4-addr:value = '194.88.98.110']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:41:39.000Z",
-   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (84), Known botnet / C2 infrastructure (24)",
+   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (85), Known botnet / C2 infrastructure (24)",
    "labels": [
     "c2",
     "scan"
@@ -144176,7 +144362,7 @@
    "id": "indicator--61e53938-812a-5746-84f2-ab0b5c348774",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T07:44:00.000Z",
-   "modified": "2026-11-19T20:28:19.000Z",
+   "modified": "2026-11-20T00:14:46.000Z",
    "name": "NexaShield abuse IP 194.88.98.126",
    "indicator_types": [
     "malicious-activity"
@@ -144184,7 +144370,7 @@
    "pattern": "[ipv4-addr:value = '194.88.98.126']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T07:44:00.000Z",
-   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (30), Known botnet / C2 infrastructure (10)",
+   "description": "Germany - AS25369 Hydra Communications Ltd - Port scanning (31), Known botnet / C2 infrastructure (10)",
    "labels": [
     "c2",
     "scan"
@@ -144311,7 +144497,7 @@
    "id": "indicator--638448da-7c02-582d-99bb-c534ef2ad6b3",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-09T22:14:09.000Z",
-   "modified": "2026-11-19T17:06:04.000Z",
+   "modified": "2026-11-19T23:45:54.000Z",
    "name": "NexaShield abuse IP 194.180.49.41",
    "indicator_types": [
     "malicious-activity"
@@ -144319,7 +144505,7 @@
    "pattern": "[ipv4-addr:value = '194.180.49.41']",
    "pattern_type": "stix",
    "valid_from": "2026-11-09T22:14:09.000Z",
-   "description": "Germany - AS201814 MEVSPACE sp. z o.o. - Port scanning (55), Abusive HTTP requests (27)",
+   "description": "Germany - AS201814 MEVSPACE sp. z o.o. - Port scanning (48), Abusive HTTP requests (27)",
    "labels": [
     "scan",
     "web"
@@ -144419,7 +144605,7 @@
    "id": "indicator--434ac112-4477-5999-a4b9-62f99ccc1a37",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T15:30:59.000Z",
-   "modified": "2026-11-15T14:47:22.000Z",
+   "modified": "2026-11-20T00:12:24.000Z",
    "name": "NexaShield abuse IP 194.187.176.10",
    "indicator_types": [
     "malicious-activity"
@@ -144427,7 +144613,7 @@
    "pattern": "[ipv4-addr:value = '194.187.176.10']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T15:30:59.000Z",
-   "description": "Germany - AS208843 Alpha Strike Labs GmbH - Port scanning (5), Known botnet / C2 infrastructure (5)",
+   "description": "Germany - AS208843 Alpha Strike Labs GmbH - Port scanning (6), Known botnet / C2 infrastructure (6)",
    "labels": [
     "c2",
     "scan"
@@ -146091,7 +146277,7 @@
    "id": "indicator--d1e51cc6-5124-5a35-a0da-dc44612f99c0",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:04:02.000Z",
-   "modified": "2026-11-19T23:12:24.000Z",
+   "modified": "2026-11-20T00:17:07.000Z",
    "name": "NexaShield abuse IP 195.140.214.27",
    "indicator_types": [
     "malicious-activity"
@@ -146099,7 +146285,7 @@
    "pattern": "[ipv4-addr:value = '195.140.214.27']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:04:02.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (43), Known botnet / C2 infrastructure (3)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (44), Known botnet / C2 infrastructure (3)",
    "labels": [
     "c2",
     "scan"
@@ -146310,7 +146496,7 @@
    "id": "indicator--43ade778-33c8-520f-8e67-a9e33012be15",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:29:31.000Z",
-   "modified": "2026-11-19T23:11:18.000Z",
+   "modified": "2026-11-20T00:08:24.000Z",
    "name": "NexaShield abuse IP 195.178.110.134",
    "indicator_types": [
     "malicious-activity"
@@ -146318,7 +146504,7 @@
    "pattern": "[ipv4-addr:value = '195.178.110.134']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:29:31.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (449)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (450)",
    "labels": [
     "scan"
    ],
@@ -146389,7 +146575,7 @@
    "id": "indicator--34f932c7-4792-53f3-958a-a6946dd3ee5d",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:30:47.000Z",
-   "modified": "2026-11-19T22:32:43.000Z",
+   "modified": "2026-11-20T00:05:12.000Z",
    "name": "NexaShield abuse IP 195.178.110.147",
    "indicator_types": [
     "malicious-activity"
@@ -146397,7 +146583,7 @@
    "pattern": "[ipv4-addr:value = '195.178.110.147']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:30:47.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (461)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (462)",
    "labels": [
     "scan"
    ],
@@ -146467,7 +146653,7 @@
    "id": "indicator--27e4bf89-1234-5c3c-ba25-2e374d32f166",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:29:27.000Z",
-   "modified": "2026-11-19T22:20:22.000Z",
+   "modified": "2026-11-20T00:08:55.000Z",
    "name": "NexaShield abuse IP 195.178.110.150",
    "indicator_types": [
     "malicious-activity"
@@ -146475,7 +146661,7 @@
    "pattern": "[ipv4-addr:value = '195.178.110.150']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:29:27.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (408)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (410)",
    "labels": [
     "scan"
    ],
@@ -146545,7 +146731,7 @@
    "id": "indicator--c1d2a1cd-5b4f-5961-8385-5feba6a51f08",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:45:49.000Z",
-   "modified": "2026-11-19T22:44:54.000Z",
+   "modified": "2026-11-20T00:00:42.000Z",
    "name": "NexaShield abuse IP 195.178.110.153",
    "indicator_types": [
     "malicious-activity"
@@ -146553,7 +146739,7 @@
    "pattern": "[ipv4-addr:value = '195.178.110.153']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:45:49.000Z",
-   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (432)",
+   "description": "Andorra - AS48090 TECHOFF SRV LIMITED - Port scanning (433)",
    "labels": [
     "scan"
    ],
@@ -147433,7 +147619,7 @@
    "id": "indicator--8853fa7c-b514-532d-ac30-dcf340a5bd8e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:19:23.000Z",
-   "modified": "2026-11-19T17:09:38.000Z",
+   "modified": "2026-11-20T00:01:12.000Z",
    "name": "NexaShield abuse IP 195.230.103.247",
    "indicator_types": [
     "malicious-activity"
@@ -147441,7 +147627,7 @@
    "pattern": "[ipv4-addr:value = '195.230.103.247']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:19:23.000Z",
-   "description": "Germany - AS211607 Securitytrails, LLC - Port scanning (15), Known botnet / C2 infrastructure (2)",
+   "description": "Germany - AS211607 Securitytrails, LLC - Port scanning (16), Known botnet / C2 infrastructure (3)",
    "labels": [
     "c2",
     "scan"
@@ -148258,7 +148444,7 @@
    "id": "indicator--21882555-a123-563b-a631-77a40c4b88b2",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:18:20.000Z",
-   "modified": "2026-11-19T21:26:50.000Z",
+   "modified": "2026-11-20T00:16:35.000Z",
    "name": "NexaShield abuse IP 202.46.28.143",
    "indicator_types": [
     "malicious-activity"
@@ -148266,7 +148452,7 @@
    "pattern": "[ipv4-addr:value = '202.46.28.143']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:18:20.000Z",
-   "description": "Indonesia - AS63491 Universitas Katolik Widya Mandala - Port scanning (93), Known botnet / C2 infrastructure (24)",
+   "description": "Indonesia - AS63491 Universitas Katolik Widya Mandala - Port scanning (94), Known botnet / C2 infrastructure (24)",
    "labels": [
     "c2",
     "scan"
@@ -148557,7 +148743,7 @@
    "id": "indicator--4ed041d5-5540-5d3f-9091-28413de3430b",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:00:27.000Z",
-   "modified": "2026-11-19T23:02:30.000Z",
+   "modified": "2026-11-20T00:04:39.000Z",
    "name": "NexaShield abuse IP 204.76.203.38",
    "indicator_types": [
     "malicious-activity"
@@ -148565,7 +148751,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.38']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:00:27.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (476), Known botnet / C2 infrastructure (31), Abusive HTTP requests (1)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (477), Known botnet / C2 infrastructure (31), Abusive HTTP requests (1)",
    "labels": [
     "c2",
     "scan",
@@ -148585,7 +148771,7 @@
    "id": "indicator--e51438f5-6f9c-55fe-939b-ec5c23e11300",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:49:56.000Z",
-   "modified": "2026-11-19T22:33:24.000Z",
+   "modified": "2026-11-20T00:08:00.000Z",
    "name": "NexaShield abuse IP 204.76.203.40",
    "indicator_types": [
     "malicious-activity"
@@ -148593,7 +148779,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.40']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:49:56.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (491), Known botnet / C2 infrastructure (29)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (492), Known botnet / C2 infrastructure (29)",
    "labels": [
     "c2",
     "scan"
@@ -148612,7 +148798,7 @@
    "id": "indicator--46889fa0-fb74-5bd4-b976-1e221fd638ed",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:51:14.000Z",
-   "modified": "2026-11-19T22:52:09.000Z",
+   "modified": "2026-11-20T00:01:34.000Z",
    "name": "NexaShield abuse IP 204.76.203.43",
    "indicator_types": [
     "malicious-activity"
@@ -148620,7 +148806,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.43']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:51:14.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (468), Known botnet / C2 infrastructure (30), Abusive HTTP requests (1)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (469), Known botnet / C2 infrastructure (30), Abusive HTTP requests (1)",
    "labels": [
     "c2",
     "scan",
@@ -148640,7 +148826,7 @@
    "id": "indicator--26087d85-6b2a-5ee4-bef1-00fceb004be2",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:48:10.000Z",
-   "modified": "2026-11-19T23:01:20.000Z",
+   "modified": "2026-11-20T00:10:59.000Z",
    "name": "NexaShield abuse IP 204.76.203.44",
    "indicator_types": [
     "malicious-activity"
@@ -148648,7 +148834,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.44']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:48:10.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (498), Known botnet / C2 infrastructure (30), Abusive HTTP requests (1)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (499), Known botnet / C2 infrastructure (30), Abusive HTTP requests (1)",
    "labels": [
     "c2",
     "scan",
@@ -148668,7 +148854,7 @@
    "id": "indicator--bb308bc5-6fba-538e-b6e7-cf5067122f7c",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:51:32.000Z",
-   "modified": "2026-11-19T23:13:54.000Z",
+   "modified": "2026-11-20T00:00:14.000Z",
    "name": "NexaShield abuse IP 204.76.203.53",
    "indicator_types": [
     "malicious-activity"
@@ -148676,7 +148862,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.53']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:51:32.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (494), Known botnet / C2 infrastructure (29)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (495), Known botnet / C2 infrastructure (29)",
    "labels": [
     "c2",
     "scan"
@@ -148723,7 +148909,7 @@
    "id": "indicator--a3e24bae-21e3-5a87-a24f-5ec5f0cee394",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T17:52:57.000Z",
-   "modified": "2026-11-19T23:01:54.000Z",
+   "modified": "2026-11-20T00:14:42.000Z",
    "name": "NexaShield abuse IP 204.76.203.213",
    "indicator_types": [
     "malicious-activity"
@@ -148731,7 +148917,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.213']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T17:52:57.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (398), Known botnet / C2 infrastructure (19)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (400), Known botnet / C2 infrastructure (19)",
    "labels": [
     "c2",
     "scan"
@@ -148805,7 +148991,7 @@
    "id": "indicator--17f5fc85-5023-5c4c-99e1-16c95af6b226",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T09:33:43.000Z",
-   "modified": "2026-11-19T23:03:44.000Z",
+   "modified": "2026-11-20T00:05:08.000Z",
    "name": "NexaShield abuse IP 204.76.203.231",
    "indicator_types": [
     "malicious-activity"
@@ -148813,7 +148999,7 @@
    "pattern": "[ipv4-addr:value = '204.76.203.231']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T09:33:43.000Z",
-   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (450), Known botnet / C2 infrastructure (29)",
+   "description": "Germany - AS51396 Pfcloud UG (haftungsbeschrankt) - Port scanning (451), Known botnet / C2 infrastructure (29)",
    "labels": [
     "c2",
     "scan"
@@ -148939,7 +149125,7 @@
    "id": "indicator--81444bb0-349e-5602-9351-d3af9802cc6e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:11:19.000Z",
-   "modified": "2026-11-19T21:44:58.000Z",
+   "modified": "2026-11-20T00:08:26.000Z",
    "name": "NexaShield abuse IP 207.90.244.12",
    "indicator_types": [
     "malicious-activity"
@@ -148947,7 +149133,7 @@
    "pattern": "[ipv4-addr:value = '207.90.244.12']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:11:19.000Z",
-   "description": "United States - AS174 Cogent Communications - Port scanning (79), Known botnet / C2 infrastructure (12)",
+   "description": "United States - AS174 Cogent Communications - Port scanning (80), Known botnet / C2 infrastructure (12)",
    "labels": [
     "c2",
     "scan"
@@ -148993,7 +149179,7 @@
    "id": "indicator--21f2c873-11b3-58a0-856a-68c0631144ec",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T12:02:59.000Z",
-   "modified": "2026-11-19T22:44:58.000Z",
+   "modified": "2026-11-20T00:05:24.000Z",
    "name": "NexaShield abuse IP 207.90.244.17",
    "indicator_types": [
     "malicious-activity"
@@ -149001,7 +149187,7 @@
    "pattern": "[ipv4-addr:value = '207.90.244.17']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T12:02:59.000Z",
-   "description": "United States - AS174 Cogent Communications - Port scanning (23), Known botnet / C2 infrastructure (15)",
+   "description": "United States - AS174 Cogent Communications - Port scanning (24), Known botnet / C2 infrastructure (15)",
    "labels": [
     "c2",
     "scan"
@@ -149074,7 +149260,7 @@
    "id": "indicator--1b41561a-d978-5c44-98a8-8f3d4f4f4822",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T11:54:09.000Z",
-   "modified": "2026-11-19T22:23:06.000Z",
+   "modified": "2026-11-20T00:01:20.000Z",
    "name": "NexaShield abuse IP 207.90.244.28",
    "indicator_types": [
     "malicious-activity"
@@ -149082,7 +149268,7 @@
    "pattern": "[ipv4-addr:value = '207.90.244.28']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T11:54:09.000Z",
-   "description": "United States - AS174 Cogent Communications - Port scanning (59), Known botnet / C2 infrastructure (15)",
+   "description": "United States - AS174 Cogent Communications - Port scanning (60), Known botnet / C2 infrastructure (15)",
    "labels": [
     "c2",
     "scan"
@@ -149162,7 +149348,7 @@
    "pattern": "[ipv4-addr:value = '207.175.162.235']",
    "pattern_type": "stix",
    "valid_from": "2026-11-17T04:35:11.000Z",
-   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (792)",
+   "description": "Belgium - AS396982 Google LLC - Abusive HTTP requests (519)",
    "labels": [
     "web"
    ],
@@ -149400,6 +149586,32 @@
    "description": "Germany - AS14061 DigitalOcean, LLC - Port scanning (6)",
    "labels": [
     "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--851dbf40-5594-5082-a59a-8bf148815d81",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-19T23:08:12.000Z",
+   "modified": "2026-11-19T23:08:28.000Z",
+   "name": "NexaShield abuse IP 209.38.248.17",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '209.38.248.17']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-19T23:08:12.000Z",
+   "description": "Germany - AS14061 DigitalOcean, LLC - Abusive HTTP requests (6)",
+   "labels": [
+    "web"
    ],
    "confidence": 80,
    "external_references": [
@@ -151349,7 +151561,7 @@
    "id": "indicator--4b597487-6d06-5a32-b03c-4bc3a84ec39e",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-12T03:46:20.000Z",
-   "modified": "2026-11-19T20:28:13.000Z",
+   "modified": "2026-11-20T00:10:01.000Z",
    "name": "NexaShield abuse IP 216.25.89.128",
    "indicator_types": [
     "malicious-activity"
@@ -151357,7 +151569,7 @@
    "pattern": "[ipv4-addr:value = '216.25.89.128']",
    "pattern_type": "stix",
    "valid_from": "2026-11-12T03:46:20.000Z",
-   "description": "United States - AS396982 Google LLC - Port scanning (20), Known botnet / C2 infrastructure (7)",
+   "description": "United States - AS396982 Google LLC - Port scanning (21), Known botnet / C2 infrastructure (7)",
    "labels": [
     "c2",
     "scan"
@@ -154816,7 +155028,7 @@
    "pattern": "[ipv4-addr:value = '217.60.183.81']",
    "pattern_type": "stix",
    "valid_from": "2026-11-17T04:42:40.000Z",
-   "description": "Germany - AS197574 ExpressHost Ltd - Port scanning (9), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (4)",
+   "description": "Germany - AS197574 ExpressHost Ltd - Port scanning (9), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (2)",
    "labels": [
     "exploit",
     "scan",
@@ -155239,7 +155451,7 @@
    "id": "indicator--8c0f4b8c-8afb-5c91-810f-115051b0e4ca",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T10:26:45.000Z",
-   "modified": "2026-11-19T17:51:12.000Z",
+   "modified": "2026-11-20T00:01:42.000Z",
    "name": "NexaShield abuse IP 217.146.80.113",
    "indicator_types": [
     "malicious-activity"
@@ -155247,7 +155459,7 @@
    "pattern": "[ipv4-addr:value = '217.146.80.113']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T10:26:45.000Z",
-   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (47), Known botnet / C2 infrastructure (18)",
+   "description": "United Kingdom - AS25369 Hydra Communications Ltd - Port scanning (48), Known botnet / C2 infrastructure (19)",
    "labels": [
     "c2",
     "scan"
@@ -155696,7 +155908,7 @@
    "id": "indicator--3ea2d7ef-182c-5b7f-ae7a-aed0f21b1ea5",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
    "created": "2026-11-11T18:22:16.000Z",
-   "modified": "2026-11-19T23:33:50.000Z",
+   "modified": "2026-11-20T00:34:44.000Z",
    "name": "NexaShield abuse IP 222.210.35.197",
    "indicator_types": [
     "malicious-activity"
@@ -155704,7 +155916,7 @@
    "pattern": "[ipv4-addr:value = '222.210.35.197']",
    "pattern_type": "stix",
    "valid_from": "2026-11-11T18:22:16.000Z",
-   "description": "China - AS38283 CHINANET SiChuan Telecom Internet Data Center - SSH brute force (342), Port scanning (110)",
+   "description": "China - AS38283 CHINANET SiChuan Telecom Internet Data Center - SSH brute force (342), Port scanning (103)",
    "labels": [
     "scan",
     "ssh"
@@ -155854,15 +156066,15 @@
    "spec_version": "2.1",
    "id": "indicator--21b783cf-89ba-55be-b193-f09763fdc5aa",
    "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
-   "created": "2026-11-19T23:35:46.000Z",
-   "modified": "2026-11-19T23:35:46.000Z",
+   "created": "2026-11-20T00:35:44.000Z",
+   "modified": "2026-11-20T00:35:44.000Z",
    "name": "NexaShield abuse IP 2a06:4883:d000::da",
    "indicator_types": [
     "malicious-activity"
    ],
    "pattern": "[ipv6-addr:value = '2a06:4883:d000::da']",
    "pattern_type": "stix",
-   "valid_from": "2026-11-19T23:35:46.000Z",
+   "valid_from": "2026-11-20T00:35:44.000Z",
    "description": "United Kingdom - AS211298 Driftnet Ltd - Port scanning (1)",
    "labels": [
     "scan"

@@ -7,8 +7,8 @@
 | IP | `122.97.137.110` |
 | Country | China (CN) |
 | ASN | AS4837 · CHINA UNICOM China169 Backbone |
-| Activity | Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 4 |
+| Activity | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-19T20:43:56Z |
 | Last seen (UTC) | 2026-11-19T20:43:56Z |
 | Reported to network owner (UTC) | 2026-11-19T22:27:26Z |

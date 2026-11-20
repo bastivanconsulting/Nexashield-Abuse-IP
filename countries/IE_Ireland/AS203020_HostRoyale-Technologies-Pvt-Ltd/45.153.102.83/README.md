@@ -7,8 +7,8 @@
 | IP | `45.153.102.83` |
 | Country | Ireland (IE) |
 | ASN | AS203020 · HostRoyale Technologies Pvt Ltd |
-| Activity | Abusive HTTP requests (24) |
-| Events | 24 |
+| Activity | Abusive HTTP requests (21) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-09T18:42:53Z |
 | Last seen (UTC) | 2026-11-19T23:26:14Z |
 | Reported to network owner (UTC) | 2026-11-11T17:07:45Z |

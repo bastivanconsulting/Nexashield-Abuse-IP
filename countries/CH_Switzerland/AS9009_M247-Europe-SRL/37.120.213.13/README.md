@@ -7,8 +7,8 @@
 | IP | `37.120.213.13` |
 | Country | Switzerland (CH) |
 | ASN | AS9009 · M247 Europe SRL |
-| Activity | Web injection payload blocked by WAF (70), Exploitation attempt (CVE / RCE / injection) (26), SSH brute force (15) |
-| Events | 111 |
+| Activity | Web injection payload blocked by WAF (35), SSH brute force (15), Exploitation attempt (CVE / RCE / injection) (13) |
+| Events | 63 |
 | First seen (UTC) | 2026-11-12T09:43:49Z |
 | Last seen (UTC) | 2026-11-19T16:24:42Z |
 | Reported to network owner (UTC) | 2026-11-12T12:23:47Z |

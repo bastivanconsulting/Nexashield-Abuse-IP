@@ -7,10 +7,10 @@
 | IP | `139.59.132.8` |
 | Country | Germany (DE) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (6), Port scanning (1) |
-| Events | 7 |
+| Activity | Abusive HTTP requests (18), Port scanning (1) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-11T14:19:50Z |
-| Last seen (UTC) | 2026-11-11T14:20:15Z |
+| Last seen (UTC) | 2026-11-20T00:29:26Z |
 | Reported to network owner (UTC) | 2026-11-11T17:05:30Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

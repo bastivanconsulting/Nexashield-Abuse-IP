@@ -7,8 +7,8 @@
 | IP | `103.87.68.151` |
 | Country | Indonesia (ID) |
 | ASN | AS150249 · PT Atharva Telematika Persada |
-| Activity | Abusive HTTP requests (2), Web injection payload blocked by WAF (2) |
-| Events | 4 |
+| Activity | Abusive HTTP requests (1), Web injection payload blocked by WAF (1) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-19T02:23:22Z |
 | Last seen (UTC) | 2026-11-19T02:23:22Z |
 | Reported to network owner (UTC) | 2026-11-19T04:25:42Z |

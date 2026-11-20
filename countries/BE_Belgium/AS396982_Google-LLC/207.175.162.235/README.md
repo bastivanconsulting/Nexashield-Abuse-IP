@@ -7,8 +7,8 @@
 | IP | `207.175.162.235` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (792) |
-| Events | 792 |
+| Activity | Abusive HTTP requests (519) |
+| Events | 519 |
 | First seen (UTC) | 2026-11-17T04:35:11Z |
 | Last seen (UTC) | 2026-11-19T20:06:58Z |
 | Reported to network owner (UTC) | 2026-11-17T06:26:05Z |

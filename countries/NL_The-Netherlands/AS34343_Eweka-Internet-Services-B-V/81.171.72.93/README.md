@@ -7,8 +7,8 @@
 | IP | `81.171.72.93` |
 | Country | The Netherlands (NL) |
 | ASN | AS34343 · Eweka Internet Services B.V. |
-| Activity | Abusive HTTP requests (133) |
-| Events | 133 |
+| Activity | Abusive HTTP requests (79) |
+| Events | 79 |
 | First seen (UTC) | 2026-11-10T12:44:42Z |
 | Last seen (UTC) | 2026-11-19T19:15:23Z |
 | Reported to network owner (UTC) | 2026-11-11T17:07:08Z |

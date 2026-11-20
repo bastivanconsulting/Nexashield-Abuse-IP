@@ -5,9 +5,9 @@
   "asn": 28890,
   "asn_org": "INSYS LLC",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-19T05:11:13Z",
   "last_seen": "2026-11-19T05:11:13Z",
   "reported": "2026-11-19T06:25:54Z"

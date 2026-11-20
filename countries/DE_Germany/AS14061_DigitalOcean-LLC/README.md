@@ -1,6 +1,6 @@
 # AS14061 · DigitalOcean, LLC
 
-🇩🇪 Germany · **27** malicious IP(s)
+🇩🇪 Germany · **28** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -9,7 +9,7 @@
 | [`104.248.130.34`](104.248.130.34/) | Port scanning (18), Known botnet / C2 infrastructure (8) | 28 | 2026-11-19T19:24:42Z |
 | [`134.209.255.179`](134.209.255.179/) | Port scanning (2) | 3 | 2026-11-15T10:44:04Z |
 | [`138.68.67.231`](138.68.67.231/) | Abusive HTTP requests (3) | 3 | 2026-11-15T12:26:28Z |
-| [`139.59.132.8`](139.59.132.8/) | Abusive HTTP requests (6), Port scanning (1) | 7 | 2026-11-11T14:20:15Z |
+| [`139.59.132.8`](139.59.132.8/) | Abusive HTTP requests (18), Port scanning (1) | 19 | 2026-11-20T00:29:26Z |
 | [`139.59.136.184`](139.59.136.184/) | Abusive HTTP requests (6), Port scanning (1) | 7 | 2026-11-11T14:20:06Z |
 | [`157.230.123.210`](157.230.123.210/) | Abusive HTTP requests (10) | 10 | 2026-11-09T18:42:22Z |
 | [`159.65.113.136`](159.65.113.136/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T21:33:03Z |
@@ -31,6 +31,7 @@
 | [`209.38.194.7`](209.38.194.7/) | Port scanning (2) | 3 | 2026-11-15T15:36:03Z |
 | [`209.38.208.202`](209.38.208.202/) | Abusive HTTP requests (6), Port scanning (1) | 7 | 2026-11-11T20:08:59Z |
 | [`209.38.216.99`](209.38.216.99/) | Port scanning (6) | 7 | 2026-11-12T13:10:02Z |
+| [`209.38.248.17`](209.38.248.17/) | Abusive HTTP requests (6) | 6 | 2026-11-19T23:08:28Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

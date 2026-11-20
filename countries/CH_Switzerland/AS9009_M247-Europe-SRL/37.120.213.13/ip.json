@@ -5,11 +5,11 @@
   "asn": 9009,
   "asn_org": "M247 Europe SRL",
   "categories": {
-    "waf": 70,
-    "exploit": 26,
+    "waf": 35,
+    "exploit": 13,
     "ssh": 15
   },
-  "events": 111,
+  "events": 63,
   "first_seen": "2026-11-12T09:43:49Z",
   "last_seen": "2026-11-19T16:24:42Z",
   "reported": "2026-11-12T12:23:47Z"

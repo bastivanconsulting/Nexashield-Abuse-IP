@@ -5,9 +5,9 @@
   "asn": 29355,
   "asn_org": "Kcell JSC",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-19T19:16:22Z",
   "last_seen": "2026-11-19T19:16:22Z",
   "reported": "2026-11-19T20:26:47Z"

@@ -7,8 +7,8 @@
 | IP | `45.153.34.203` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Web injection payload blocked by WAF (20), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4), Spamhaus DROP-listed network (2) |
-| Events | 32 |
+| Activity | Web injection payload blocked by WAF (10), Port scanning (3), Exploitation attempt (CVE / RCE / injection) (2), Spamhaus DROP-listed network (1) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-19T08:27:43Z |
 | Last seen (UTC) | 2026-11-19T08:28:43Z |
 | Reported to network owner (UTC) | 2026-11-19T10:26:11Z |

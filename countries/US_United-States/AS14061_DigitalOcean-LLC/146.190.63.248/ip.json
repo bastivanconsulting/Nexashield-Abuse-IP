@@ -1,0 +1,14 @@
+{
+  "ip": "146.190.63.248",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "web": 30
+  },
+  "events": 30,
+  "first_seen": "2026-11-19T23:08:12Z",
+  "last_seen": "2026-11-20T00:29:30Z",
+  "reported": "2026-11-20T00:26:20Z"
+}

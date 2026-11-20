@@ -5,10 +5,10 @@
   "asn": 150249,
   "asn_org": "PT Atharva Telematika Persada",
   "categories": {
-    "web": 2,
-    "waf": 2
+    "web": 1,
+    "waf": 1
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-19T02:23:22Z",
   "last_seen": "2026-11-19T02:23:22Z",
   "reported": "2026-11-19T04:25:42Z"

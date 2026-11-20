@@ -7,8 +7,8 @@
 | IP | `2.74.196.126` |
 | Country | Kazakhstan (KZ) |
 | ASN | AS29355 · Kcell JSC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-19T19:16:22Z |
 | Last seen (UTC) | 2026-11-19T19:16:22Z |
 | Reported to network owner (UTC) | 2026-11-19T20:26:47Z |

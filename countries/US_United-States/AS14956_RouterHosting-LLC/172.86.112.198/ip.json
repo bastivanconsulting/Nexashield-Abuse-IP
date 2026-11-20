@@ -1,0 +1,15 @@
+{
+  "ip": "172.86.112.198",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14956,
+  "asn_org": "RouterHosting LLC",
+  "categories": {
+    "web": 9,
+    "waf": 24
+  },
+  "events": 33,
+  "first_seen": "2026-11-19T23:12:18Z",
+  "last_seen": "2026-11-19T23:12:20Z",
+  "reported": "2026-11-20T00:26:06Z"
+}

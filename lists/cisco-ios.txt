@@ -1,4 +1,4 @@
-! NexaShield abuse IP - Cisco IOS / IOS-XE (IPv4) - generated 2026-11-19
+! NexaShield abuse IP - Cisco IOS / IOS-XE (IPv4) - generated 2026-11-20
 object-group network NEXASHIELD-ABUSE
  host 2.27.32.182
  host 2.31.192.136
@@ -633,6 +633,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.106.51.146
  host 20.106.59.36
  host 20.106.59.145
+ host 20.106.59.205
  host 20.106.59.227
  host 20.106.60.71
  host 20.106.172.110
@@ -933,6 +934,7 @@ object-group network NEXASHIELD-ABUSE
  host 34.75.133.70
  host 34.76.27.30
  host 34.76.33.44
+ host 34.76.183.190
  host 34.76.228.132
  host 34.77.153.177
  host 34.78.174.47
@@ -1501,6 +1503,7 @@ object-group network NEXASHIELD-ABUSE
  host 35.214.226.14
  host 35.214.250.31
  host 35.223.124.108
+ host 35.233.37.230
  host 35.233.44.84
  host 35.234.34.186
  host 35.241.79.183
@@ -1975,6 +1978,7 @@ object-group network NEXASHIELD-ABUSE
  host 45.156.128.117
  host 45.156.128.118
  host 45.156.128.121
+ host 45.156.128.123
  host 45.156.128.124
  host 45.156.128.148
  host 45.156.128.149
@@ -2316,6 +2320,7 @@ object-group network NEXASHIELD-ABUSE
  host 52.165.89.155
  host 52.180.139.248
  host 52.180.140.29
+ host 52.180.147.22
  host 52.186.180.9
  host 52.186.183.216
  host 52.188.81.205
@@ -4177,6 +4182,7 @@ object-group network NEXASHIELD-ABUSE
  host 146.168.10.75
  host 146.190.48.172
  host 146.190.63.48
+ host 146.190.63.248
  host 146.190.66.18
  host 146.190.119.114
  host 146.190.119.189
@@ -4730,6 +4736,7 @@ object-group network NEXASHIELD-ABUSE
  host 170.187.165.218
  host 170.231.236.98
  host 171.76.27.184
+ host 172.86.112.198
  host 172.104.100.117
  host 172.104.233.215
  host 172.104.241.92
@@ -5563,6 +5570,7 @@ object-group network NEXASHIELD-ABUSE
  host 209.38.194.7
  host 209.38.208.202
  host 209.38.216.99
+ host 209.38.248.17
  host 209.97.129.94
  host 209.97.183.170
  host 209.99.187.10
