@@ -7,10 +7,10 @@
 | IP | `45.79.153.51` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (62) |
-| Events | 86 |
+| Activity | Port scanning (63) |
+| Events | 87 |
 | First seen (UTC) | 2026-11-11T13:32:13Z |
-| Last seen (UTC) | 2026-11-20T09:40:12Z |
+| Last seen (UTC) | 2026-11-20T11:56:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

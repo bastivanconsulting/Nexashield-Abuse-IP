@@ -7,10 +7,10 @@
 | IP | `185.36.81.23` |
 | Country | Lithuania (LT) |
 | ASN | AS209605 · UAB Host Baltic |
-| Activity | Port scanning (29), Known botnet / C2 infrastructure (5) |
-| Events | 36 |
+| Activity | Port scanning (32), Known botnet / C2 infrastructure (5) |
+| Events | 39 |
 | First seen (UTC) | 2026-11-11T15:00:37Z |
-| Last seen (UTC) | 2026-11-20T10:05:38Z |
+| Last seen (UTC) | 2026-11-20T12:08:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

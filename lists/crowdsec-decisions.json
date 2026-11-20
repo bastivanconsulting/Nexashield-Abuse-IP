@@ -18032,6 +18032,14 @@
   "origin": "lists"
  },
  {
+  "value": "47.74.13.126",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "47.77.198.243",
   "scope": "Ip",
   "type": "ban",
@@ -27632,6 +27640,14 @@
   "origin": "lists"
  },
  {
+  "value": "91.92.42.178",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "91.92.47.5",
   "scope": "Ip",
   "type": "ban",
@@ -31897,6 +31913,14 @@
  },
  {
   "value": "104.152.52.225",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "104.155.66.115",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -41056,6 +41080,14 @@
   "origin": "lists"
  },
  {
+  "value": "184.105.139.70",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "184.105.139.89",
   "scope": "Ip",
   "type": "ban",
@@ -42472,6 +42504,14 @@
   "origin": "lists"
  },
  {
+  "value": "185.242.226.81",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "185.242.226.87",
   "scope": "Ip",
   "type": "ban",
@@ -42521,6 +42561,22 @@
  },
  {
   "value": "185.242.226.104",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "185.242.226.108",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "185.242.226.110",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -42633,6 +42689,14 @@
  },
  {
   "value": "188.152.116.58",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "188.166.17.196",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",

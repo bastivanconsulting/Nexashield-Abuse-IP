@@ -5,11 +5,11 @@
   "asn": 211680,
   "asn_org": "NSEC - Sistemas Informaticos, S.A.",
   "categories": {
-    "scan": 4,
-    "c2": 3
+    "scan": 5,
+    "c2": 4
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-12T20:04:20Z",
-  "last_seen": "2026-11-15T05:17:04Z",
+  "last_seen": "2026-11-20T11:32:34Z",
   "reported": "not reported (permanent ban)"
 }
