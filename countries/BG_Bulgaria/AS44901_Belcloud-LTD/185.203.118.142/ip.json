@@ -5,11 +5,11 @@
   "asn": 44901,
   "asn_org": "Belcloud LTD",
   "categories": {
-    "waf": 9,
-    "web": 1
+    "waf": 27,
+    "web": 3
   },
-  "events": 10,
+  "events": 30,
   "first_seen": "2026-11-19T00:54:36Z",
-  "last_seen": "2026-11-19T00:54:36Z",
+  "last_seen": "2026-11-20T14:24:51Z",
   "reported": "2026-11-19T02:25:54Z"
 }

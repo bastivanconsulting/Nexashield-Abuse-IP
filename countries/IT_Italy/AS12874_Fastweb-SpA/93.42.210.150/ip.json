@@ -1,0 +1,15 @@
+{
+  "ip": "93.42.210.150",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 12874,
+  "asn_org": "Fastweb SpA",
+  "categories": {
+    "ssh": 5,
+    "c2": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-18T10:34:38Z",
+  "last_seen": "2026-11-19T22:04:18Z",
+  "reported": "not reported (permanent ban)"
+}

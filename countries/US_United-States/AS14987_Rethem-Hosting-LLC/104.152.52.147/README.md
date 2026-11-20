@@ -7,10 +7,10 @@
 | IP | `104.152.52.147` |
 | Country | United States (US) |
 | ASN | AS14987 · Rethem Hosting LLC |
-| Activity | Port scanning (1), Known botnet / C2 infrastructure (1) |
-| Events | 3 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (2) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-19T12:58:28Z |
-| Last seen (UTC) | 2026-11-19T13:18:04Z |
+| Last seen (UTC) | 2026-11-20T13:44:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

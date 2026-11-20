@@ -7,10 +7,10 @@
 | IP | `185.203.118.142` |
 | Country | Bulgaria (BG) |
 | ASN | AS44901 · Belcloud LTD |
-| Activity | Web injection payload blocked by WAF (9), Abusive HTTP requests (1) |
-| Events | 10 |
+| Activity | Web injection payload blocked by WAF (27), Abusive HTTP requests (3) |
+| Events | 30 |
 | First seen (UTC) | 2026-11-19T00:54:36Z |
-| Last seen (UTC) | 2026-11-19T00:54:36Z |
+| Last seen (UTC) | 2026-11-20T14:24:51Z |
 | Reported to network owner (UTC) | 2026-11-19T02:25:54Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

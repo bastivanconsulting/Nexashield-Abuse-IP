@@ -1,6 +1,5 @@
-Le dépôt recense 329055 événements générés par 6075 adresses IP réparties sur 72 pays et 471 réseaux ASN, avec une dernière activité observée le 2026-11-20. Les principales origines géographiques incluent United States avec 2444 adresses, United Kingdom avec 977 et The Netherlands avec 559. Parmi les réseaux les plus représentés figurent AS25369 (Hydra Communications Ltd) avec 974 adresses et AS8075 (Microsoft Corporation) avec 793.
+Sur la période observée, 330804 événements ont été recensés depuis 6094 adresses réparties sur 72 pays et 472 réseaux ASN, avec une dernière activité le 2026-11-20. Les principaux pays incluent les États-Unis (2447), le Royaume-Uni (977), les Pays-Bas (565), l'Allemagne (452), la Belgique (356) et la France (286). Les réseaux les plus représentés sont AS25369 Hydra Communications Ltd (977), AS8075 Microsoft Corporation (793), AS396982 Google LLC (444) et AS398324 Censys, Inc. (345).
 
-- Les natures d'événements les plus fréquentes sont Balayage de ports (5648), Infrastructure botnet / C2 connue (4505) et Requêtes HTTP abusives (401)
-- Les principaux pays sources sont United States (2444), United Kingdom (977), The Netherlands (559), Germany (450) et Belgium (354)
-- Les principaux réseaux ASN observés sont AS25369 Hydra Communications Ltd (974), AS8075 Microsoft Corporation (793), AS396982 Google LLC (442) et AS398324 Censys, Inc. (345)
-- D'autres natures incluent Exploitation (CVE, RCE, injection) avec 314 événements et Force brute SSH avec 251 événements
+- Les natures observées incluent le balayage de ports (5661), l'infrastructure botnet / C2 connue (4516), les requêtes HTTP abusives (404), l'exploitation CVE/RCE/injection (315) et la force brute SSH (255)
+- On note aussi des charges d'injection bloquées par le WAF (140), des réseaux Spamhaus DROP (60), de la force brute SMTP/IMAP (1) et une signature d'exploit UDP (1)
+- Les autres pays du top sont Hong Kong (179) et Andorre (76) ; les réseaux AS43515 Google Ireland Limited (317), AS14618 Amazon.com, Inc. (290), AS135377 UCLOUD INFORMATION TECHNOLOGY HK LIMITED (262) et AS213412 ONYPHE SAS (257) suivent
