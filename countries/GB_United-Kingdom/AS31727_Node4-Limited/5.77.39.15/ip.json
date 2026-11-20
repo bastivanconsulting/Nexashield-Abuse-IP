@@ -1,0 +1,14 @@
+{
+  "ip": "5.77.39.15",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 31727,
+  "asn_org": "Node4 Limited",
+  "categories": {
+    "scan": 19
+  },
+  "events": 23,
+  "first_seen": "2026-11-18T04:44:27Z",
+  "last_seen": "2026-11-20T08:03:59Z",
+  "reported": "not reported (permanent ban)"
+}

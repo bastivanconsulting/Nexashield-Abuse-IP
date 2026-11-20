@@ -7,10 +7,10 @@
 | IP | `51.255.209.196` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (221), Known botnet / C2 infrastructure (16) |
-| Events | 250 |
+| Activity | Port scanning (231), Known botnet / C2 infrastructure (17) |
+| Events | 261 |
 | First seen (UTC) | 2026-11-13T16:01:27Z |
-| Last seen (UTC) | 2026-11-19T21:35:38Z |
+| Last seen (UTC) | 2026-11-20T07:56:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

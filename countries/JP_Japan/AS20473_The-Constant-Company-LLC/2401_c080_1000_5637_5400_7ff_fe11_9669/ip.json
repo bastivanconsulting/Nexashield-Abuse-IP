@@ -1,0 +1,15 @@
+{
+  "ip": "2401:c080:1000:5637:5400:7ff:fe11:9669",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 20473,
+  "asn_org": "The Constant Company, LLC",
+  "categories": {
+    "waf": 16,
+    "web": 2
+  },
+  "events": 18,
+  "first_seen": "2026-11-20T06:50:03Z",
+  "last_seen": "2026-11-20T06:50:03Z",
+  "reported": "2026-11-20T08:26:45Z"
+}

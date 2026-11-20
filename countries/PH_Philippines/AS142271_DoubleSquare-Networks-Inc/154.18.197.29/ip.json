@@ -5,11 +5,11 @@
   "asn": 142271,
   "asn_org": "DoubleSquare Networks Inc.",
   "categories": {
-    "scan": 464,
+    "scan": 522,
     "ssh": 1064
   },
-  "events": 1528,
+  "events": 1586,
   "first_seen": "2026-11-09T20:03:14Z",
-  "last_seen": "2026-11-20T07:33:25Z",
+  "last_seen": "2026-11-20T08:32:40Z",
   "reported": "2026-11-11T16:34:54Z"
 }
