@@ -7,10 +7,10 @@
 | IP | `194.88.98.115` |
 | Country | Germany (DE) |
 | ASN | AS25369 · Hydra Communications Ltd |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (5) |
-| Events | 25 |
+| Activity | Port scanning (20), Known botnet / C2 infrastructure (6) |
+| Events | 27 |
 | First seen (UTC) | 2026-11-12T05:42:15Z |
-| Last seen (UTC) | 2026-11-20T10:59:58Z |
+| Last seen (UTC) | 2026-11-20T20:27:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
