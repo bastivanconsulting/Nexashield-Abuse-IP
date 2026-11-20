@@ -1,0 +1,15 @@
+{
+  "ip": "104.194.37.176",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 7794,
+  "asn_org": "Execulink Telecom Inc.",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-13T17:56:04Z",
+  "last_seen": "2026-11-20T10:46:04Z",
+  "reported": "not reported (permanent ban)"
+}

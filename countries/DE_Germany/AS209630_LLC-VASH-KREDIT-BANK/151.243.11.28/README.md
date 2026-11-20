@@ -8,9 +8,9 @@
 | Country | Germany (DE) |
 | ASN | AS209630 · LLC VASH KREDIT BANK |
 | Activity | Port scanning (132), Known botnet / C2 infrastructure (18) |
-| Events | 152 |
+| Events | 154 |
 | First seen (UTC) | 2026-11-12T11:05:24Z |
-| Last seen (UTC) | 2026-11-20T09:42:52Z |
+| Last seen (UTC) | 2026-11-20T10:27:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

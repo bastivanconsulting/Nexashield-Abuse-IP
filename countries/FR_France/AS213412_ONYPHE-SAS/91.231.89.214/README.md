@@ -7,10 +7,10 @@
 | IP | `91.231.89.214` |
 | Country | France (FR) |
 | ASN | AS213412 · ONYPHE SAS |
-| Activity | Port scanning (119), Known botnet / C2 infrastructure (21) |
-| Events | 143 |
+| Activity | Port scanning (120), Known botnet / C2 infrastructure (22) |
+| Events | 145 |
 | First seen (UTC) | 2026-11-11T10:28:21Z |
-| Last seen (UTC) | 2026-11-20T09:59:30Z |
+| Last seen (UTC) | 2026-11-20T11:17:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
