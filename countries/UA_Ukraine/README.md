@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS31520](AS31520_PRIVATE-JOINT-STOCK-COMPANY-DATAGROUP/) | PRIVATE JOINT STOCK COMPANY "DATAGROUP" | 1 | Port scanning (6) |
+| [AS31520](AS31520_PRIVATE-JOINT-STOCK-COMPANY-DATAGROUP/) | PRIVATE JOINT STOCK COMPANY "DATAGROUP" | 1 | Port scanning (7) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 1 | SSH brute force (12), Port scanning (2) |
 
 ---

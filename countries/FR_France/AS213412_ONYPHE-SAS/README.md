@@ -39,7 +39,7 @@
 | [`91.196.152.103`](91.196.152.103/) | Port scanning (25), Known botnet / C2 infrastructure (20) | 46 | 2026-11-21T15:10:37Z |
 | [`91.196.152.105`](91.196.152.105/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-21T09:18:22Z |
 | [`91.196.152.106`](91.196.152.106/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-21T02:42:48Z |
-| [`91.196.152.107`](91.196.152.107/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-21T11:58:26Z |
+| [`91.196.152.107`](91.196.152.107/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T18:11:57Z |
 | [`91.196.152.108`](91.196.152.108/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-21T00:14:14Z |
 | [`91.196.152.111`](91.196.152.111/) | Port scanning (48), Known botnet / C2 infrastructure (35) | 84 | 2026-11-21T12:14:44Z |
 | [`91.196.152.112`](91.196.152.112/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-21T09:55:07Z |
@@ -81,7 +81,7 @@
 | [`91.196.152.234`](91.196.152.234/) | Port scanning (30), Known botnet / C2 infrastructure (8) | 39 | 2026-11-21T02:08:21Z |
 | [`91.196.152.236`](91.196.152.236/) | Port scanning (27), Known botnet / C2 infrastructure (8) | 36 | 2026-11-21T03:14:29Z |
 | [`91.196.152.237`](91.196.152.237/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 7 | 2026-11-21T09:18:22Z |
-| [`91.196.152.238`](91.196.152.238/) | Port scanning (13), Known botnet / C2 infrastructure (4) | 18 | 2026-11-21T16:18:24Z |
+| [`91.196.152.238`](91.196.152.238/) | Port scanning (14), Known botnet / C2 infrastructure (4) | 19 | 2026-11-21T17:50:53Z |
 | [`91.196.152.243`](91.196.152.243/) | Port scanning (44), Known botnet / C2 infrastructure (8) | 53 | 2026-11-21T02:32:50Z |
 | [`91.196.152.244`](91.196.152.244/) | Port scanning (29), Known botnet / C2 infrastructure (8) | 38 | 2026-11-21T02:26:36Z |
 | [`91.196.152.245`](91.196.152.245/) | Port scanning (29), Known botnet / C2 infrastructure (8) | 38 | 2026-11-21T02:41:17Z |

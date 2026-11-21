@@ -6,10 +6,10 @@
   "asn_org": "IP Volume inc",
   "categories": {
     "c2": 13,
-    "exploit": 1
+    "exploit": 2
   },
-  "events": 120,
+  "events": 126,
   "first_seen": "2026-11-11T23:11:29Z",
-  "last_seen": "2026-11-21T17:00:07Z",
+  "last_seen": "2026-11-21T18:10:42Z",
   "reported": "not reported (permanent ban)"
 }

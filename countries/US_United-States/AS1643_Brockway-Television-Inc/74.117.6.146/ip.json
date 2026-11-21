@@ -5,10 +5,10 @@
   "asn": 1643,
   "asn_org": "Brockway Television Inc.",
   "categories": {
-    "exploit": 3
+    "exploit": 4
   },
-  "events": 52,
+  "events": 59,
   "first_seen": "2026-11-11T18:00:12Z",
-  "last_seen": "2026-11-21T12:07:28Z",
+  "last_seen": "2026-11-21T17:45:42Z",
   "reported": "not reported (permanent ban)"
 }

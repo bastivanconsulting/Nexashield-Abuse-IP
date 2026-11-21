@@ -4,16 +4,16 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (215) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 75 | Port scanning (1551), Known botnet / C2 infrastructure (666), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (3931), Abusive HTTP requests (1035), Spamhaus DROP-listed network (211), Known botnet / C2 infrastructure (48), Web injection payload blocked by WAF (5) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (757), Known botnet / C2 infrastructure (71) |
+| [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (216) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 75 | Port scanning (1555), Known botnet / C2 infrastructure (666), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (3947), Abusive HTTP requests (1035), Spamhaus DROP-listed network (215), Known botnet / C2 infrastructure (49), Web injection payload blocked by WAF (5) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (759), Known botnet / C2 infrastructure (72) |
 | [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1166), Known botnet / C2 infrastructure (68), Exploitation attempt (CVE / RCE / injection) (15) |
-| [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 4 | SSH brute force (160), Port scanning (11), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (3) |
+| [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 4 | SSH brute force (160), Port scanning (12), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS138995](AS138995_Antbox-Networks-Limited/) | Antbox Networks Limited | 1 | Port scanning (9), Known botnet / C2 infrastructure (3) |
 | [AS17924](AS17924_Smartone-Mobile-communications-Limited/) | Smartone Mobile communications Limited | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (737), Abusive HTTP requests (50), Known botnet / C2 infrastructure (6) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (743), Abusive HTTP requests (50), Known botnet / C2 infrastructure (6) |
 | [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (184), Known botnet / C2 infrastructure (12), Abusive HTTP requests (6) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (41), Known botnet / C2 infrastructure (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (418), Web injection payload blocked by WAF (6) |

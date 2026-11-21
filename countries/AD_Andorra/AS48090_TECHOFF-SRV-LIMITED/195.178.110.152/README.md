@@ -8,9 +8,9 @@
 | Country | Andorra (AD) |
 | ASN | AS48090 · TECHOFF SRV LIMITED |
 | Activity | Port scanning (469) |
-| Events | 495 |
+| Events | 496 |
 | First seen (UTC) | 2026-11-11T12:59:31Z |
-| Last seen (UTC) | 2026-11-21T17:17:18Z |
+| Last seen (UTC) | 2026-11-21T17:17:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

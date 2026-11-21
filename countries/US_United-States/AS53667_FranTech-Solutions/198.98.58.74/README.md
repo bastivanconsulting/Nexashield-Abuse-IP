@@ -7,10 +7,10 @@
 | IP | `198.98.58.74` |
 | Country | United States (US) |
 | ASN | AS53667 · FranTech Solutions |
-| Activity | Port scanning (53) |
-| Events | 57 |
+| Activity | Port scanning (55) |
+| Events | 59 |
 | First seen (UTC) | 2026-11-14T09:33:17Z |
-| Last seen (UTC) | 2026-11-21T03:35:56Z |
+| Last seen (UTC) | 2026-11-21T17:56:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

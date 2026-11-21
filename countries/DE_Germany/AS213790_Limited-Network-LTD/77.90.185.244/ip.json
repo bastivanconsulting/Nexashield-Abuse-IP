@@ -5,11 +5,11 @@
   "asn": 213790,
   "asn_org": "Limited Network LTD",
   "categories": {
-    "spamhaus": 14,
+    "spamhaus": 20,
     "web": 10
   },
-  "events": 24,
+  "events": 30,
   "first_seen": "2026-11-21T05:17:08Z",
-  "last_seen": "2026-11-21T10:45:16Z",
+  "last_seen": "2026-11-21T18:30:34Z",
   "reported": "2026-11-21T12:27:50Z"
 }

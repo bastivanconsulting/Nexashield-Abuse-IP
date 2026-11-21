@@ -1,0 +1,15 @@
+{
+  "ip": "74.196.184.15",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 19108,
+  "asn_org": "Suddenlink Communications",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-19T21:51:04Z",
+  "last_seen": "2026-11-21T18:02:04Z",
+  "reported": "not reported (permanent ban)"
+}

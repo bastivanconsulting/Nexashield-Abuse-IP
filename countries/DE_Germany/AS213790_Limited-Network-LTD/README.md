@@ -8,10 +8,10 @@
 | [`77.90.185.21`](77.90.185.21/) | Port scanning (152), Known botnet / C2 infrastructure (23) | 266 | 2026-11-21T16:33:40Z |
 | [`77.90.185.29`](77.90.185.29/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-16T03:50:50Z |
 | [`77.90.185.31`](77.90.185.31/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-20T08:55:58Z |
-| [`77.90.185.78`](77.90.185.78/) | Port scanning (552) | 568 | 2026-11-21T17:12:27Z |
+| [`77.90.185.78`](77.90.185.78/) | Port scanning (554) | 570 | 2026-11-21T17:58:00Z |
 | [`77.90.185.226`](77.90.185.226/) | Port scanning (195) | 197 | 2026-11-17T16:59:11Z |
 | [`77.90.185.230`](77.90.185.230/) | Abusive HTTP requests (51) | 51 | 2026-11-17T05:36:25Z |
-| [`77.90.185.244`](77.90.185.244/) | Spamhaus DROP-listed network (14), Abusive HTTP requests (10) | 24 | 2026-11-21T10:45:16Z |
+| [`77.90.185.244`](77.90.185.244/) | Spamhaus DROP-listed network (20), Abusive HTTP requests (10) | 30 | 2026-11-21T18:30:34Z |
 | [`77.90.185.253`](77.90.185.253/) | Port scanning (25) | 26 | 2026-11-21T13:36:09Z |
 
 ---

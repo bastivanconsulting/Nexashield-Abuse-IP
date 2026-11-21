@@ -7,10 +7,10 @@
 | IP | `223.197.153.135` |
 | Country | Hong Kong (HK) |
 | ASN | AS4760 · PCCW IMS Limited |
-| Activity | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (1) |
-| Events | 7 |
+| Activity | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-14T08:24:57Z |
-| Last seen (UTC) | 2026-11-21T14:11:05Z |
+| Last seen (UTC) | 2026-11-21T17:23:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

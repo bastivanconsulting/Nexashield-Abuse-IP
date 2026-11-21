@@ -7,10 +7,10 @@
 | IP | `157.254.222.237` |
 | Country | United Kingdom (GB) |
 | ASN | AS9515 · Compute Global Limited |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (7) |
-| Events | 29 |
+| Activity | Port scanning (22), Known botnet / C2 infrastructure (7) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-13T04:42:42Z |
-| Last seen (UTC) | 2026-11-21T16:40:32Z |
+| Last seen (UTC) | 2026-11-21T17:42:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

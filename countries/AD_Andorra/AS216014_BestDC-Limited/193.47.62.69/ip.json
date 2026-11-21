@@ -6,11 +6,11 @@
   "asn_org": "BestDC Limited",
   "categories": {
     "ssh": 175,
-    "scan": 32,
+    "scan": 33,
     "c2": 12
   },
-  "events": 279,
+  "events": 280,
   "first_seen": "2026-11-09T19:21:57Z",
-  "last_seen": "2026-11-21T14:20:41Z",
+  "last_seen": "2026-11-21T18:07:52Z",
   "reported": "not reported (permanent ban)"
 }

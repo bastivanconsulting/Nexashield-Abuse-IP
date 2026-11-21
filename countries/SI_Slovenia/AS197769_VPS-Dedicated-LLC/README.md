@@ -5,10 +5,10 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`31.57.37.64`](31.57.37.64/) | Port scanning (102), Known botnet / C2 infrastructure (5) | 123 | 2026-11-21T15:29:16Z |
-| [`31.57.37.175`](31.57.37.175/) | Port scanning (36), Known botnet / C2 infrastructure (5) | 42 | 2026-11-21T16:18:06Z |
-| [`31.57.37.176`](31.57.37.176/) | Port scanning (105) | 112 | 2026-11-21T17:02:16Z |
-| [`31.57.37.177`](31.57.37.177/) | Port scanning (38) | 40 | 2026-11-21T16:00:52Z |
-| [`31.57.37.178`](31.57.37.178/) | Port scanning (98) | 107 | 2026-11-21T17:15:57Z |
+| [`31.57.37.175`](31.57.37.175/) | Port scanning (38), Known botnet / C2 infrastructure (6) | 45 | 2026-11-21T18:14:21Z |
+| [`31.57.37.176`](31.57.37.176/) | Port scanning (109) | 116 | 2026-11-21T18:00:31Z |
+| [`31.57.37.177`](31.57.37.177/) | Port scanning (39) | 41 | 2026-11-21T17:40:41Z |
+| [`31.57.37.178`](31.57.37.178/) | Port scanning (101) | 111 | 2026-11-21T18:11:11Z |
 | [`102.220.161.61`](102.220.161.61/) | Port scanning (45), Known botnet / C2 infrastructure (11) | 57 | 2026-11-14T05:37:42Z |
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 24 | 2026-11-15T16:19:53Z |
 | [`102.220.161.84`](102.220.161.84/) | SSH brute force (10), Port scanning (9), Known botnet / C2 infrastructure (8) | 28 | 2026-11-20T10:48:27Z |
@@ -22,7 +22,7 @@
 | [`102.220.161.248`](102.220.161.248/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-17T07:07:03Z |
 | [`102.220.162.164`](102.220.162.164/) | Port scanning (13), Known botnet / C2 infrastructure (4) | 18 | 2026-11-20T15:10:37Z |
 | [`102.220.163.13`](102.220.163.13/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 19 | 2026-11-21T10:44:10Z |
-| [`102.220.163.241`](102.220.163.241/) | Port scanning (31), Abusive HTTP requests (9), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (6) | 55 | 2026-11-21T17:14:27Z |
+| [`102.220.163.241`](102.220.163.241/) | Port scanning (32), Abusive HTTP requests (9), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (6) | 57 | 2026-11-21T17:20:02Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
