@@ -1,0 +1,15 @@
+{
+  "ip": "91.236.116.50",
+  "country_code": "UA",
+  "country": "Ukraine",
+  "asn": 42237,
+  "asn_org": "w1n ltd",
+  "categories": {
+    "ssh": 12,
+    "scan": 2
+  },
+  "events": 14,
+  "first_seen": "2026-11-21T11:20:33Z",
+  "last_seen": "2026-11-21T11:20:45Z",
+  "reported": "2026-11-21T12:27:42Z"
+}

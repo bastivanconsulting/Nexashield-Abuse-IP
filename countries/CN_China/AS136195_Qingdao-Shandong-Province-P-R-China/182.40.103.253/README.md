@@ -7,10 +7,10 @@
 | IP | `182.40.103.253` |
 | Country | China (CN) |
 | ASN | AS136195 · Qingdao, Shandong Province, P.R.China. |
-| Activity | Port scanning (10), Known botnet / C2 infrastructure (3) |
-| Events | 17 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (4) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-11T13:41:31Z |
-| Last seen (UTC) | 2026-11-20T13:32:03Z |
+| Last seen (UTC) | 2026-11-21T11:38:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

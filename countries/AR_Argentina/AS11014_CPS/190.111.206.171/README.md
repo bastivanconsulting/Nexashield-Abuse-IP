@@ -7,10 +7,10 @@
 | IP | `190.111.206.171` |
 | Country | Argentina (AR) |
 | ASN | AS11014 · CPS |
-| Activity | Port scanning (13), Known botnet / C2 infrastructure (10) |
-| Events | 24 |
+| Activity | Port scanning (14), Known botnet / C2 infrastructure (11) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-12T17:28:12Z |
-| Last seen (UTC) | 2026-11-21T10:19:33Z |
+| Last seen (UTC) | 2026-11-21T12:11:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

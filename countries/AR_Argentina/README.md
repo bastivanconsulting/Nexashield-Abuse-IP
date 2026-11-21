@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS11014](AS11014_CPS/) | CPS | 1 | Port scanning (13), Known botnet / C2 infrastructure (10) |
+| [AS11014](AS11014_CPS/) | CPS | 1 | Port scanning (14), Known botnet / C2 infrastructure (11) |
 | [AS11664](AS11664_Techtel-LMDS-Comunicaciones-Interactivas-S-A/) | Techtel LMDS Comunicaciones Interactivas S.A. | 1 | Port scanning (18) |
 
 ---

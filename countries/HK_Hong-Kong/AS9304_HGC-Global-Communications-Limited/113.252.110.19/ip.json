@@ -5,11 +5,11 @@
   "asn": 9304,
   "asn_org": "HGC Global Communications Limited",
   "categories": {
-    "exploit": 2,
-    "c2": 1
+    "c2": 2,
+    "exploit": 2
   },
   "events": 4,
   "first_seen": "2026-11-21T10:08:33Z",
-  "last_seen": "2026-11-21T10:09:04Z",
-  "reported": "not reported (permanent ban)"
+  "last_seen": "2026-11-21T10:08:33Z",
+  "reported": "2026-11-21T12:27:32Z"
 }

@@ -1,0 +1,15 @@
+{
+  "ip": "213.177.179.109",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 208137,
+  "asn_org": "Feo Prest SRL",
+  "categories": {
+    "scan": 10,
+    "c2": 2
+  },
+  "events": 13,
+  "first_seen": "2026-11-21T00:31:13Z",
+  "last_seen": "2026-11-21T12:13:04Z",
+  "reported": "not reported (permanent ban)"
+}

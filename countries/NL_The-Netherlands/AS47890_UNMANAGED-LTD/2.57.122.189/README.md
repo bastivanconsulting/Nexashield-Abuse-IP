@@ -7,10 +7,10 @@
 | IP | `2.57.122.189` |
 | Country | The Netherlands (NL) |
 | ASN | AS47890 · UNMANAGED LTD |
-| Activity | Web injection payload blocked by WAF (18), Port scanning (4), Known botnet / C2 infrastructure (3) |
-| Events | 29 |
+| Activity | Web injection payload blocked by WAF (18), Port scanning (5), Known botnet / C2 infrastructure (4) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-20T09:29:15Z |
-| Last seen (UTC) | 2026-11-21T09:53:21Z |
+| Last seen (UTC) | 2026-11-21T11:25:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

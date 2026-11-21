@@ -1,0 +1,15 @@
+{
+  "ip": "45.198.224.94",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 215925,
+  "asn_org": "VPSVAULT.HOST LTD",
+  "categories": {
+    "scan": 1,
+    "c2": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-21T08:00:42Z",
+  "last_seen": "2026-11-21T08:00:51Z",
+  "reported": "not reported (permanent ban)"
+}

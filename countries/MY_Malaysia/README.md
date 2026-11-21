@@ -1,10 +1,10 @@
 # 🇲🇾 Malaysia
 
-**28** malicious IP(s) across **3** network(s).
+**29** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 26 | Port scanning (120), Known botnet / C2 infrastructure (91), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 27 | Port scanning (123), Known botnet / C2 infrastructure (94), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 | [AS136727](AS136727_Jimat-Technology-Solution/) | Jimat Technology Solution | 1 | Port scanning (7) |
 
