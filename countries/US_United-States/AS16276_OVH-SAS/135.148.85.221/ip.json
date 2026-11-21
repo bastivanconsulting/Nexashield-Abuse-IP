@@ -5,11 +5,11 @@
   "asn": 16276,
   "asn_org": "OVH SAS",
   "categories": {
-    "scan": 234,
+    "scan": 255,
     "c2": 11
   },
-  "events": 251,
+  "events": 273,
   "first_seen": "2026-11-16T19:22:21Z",
-  "last_seen": "2026-11-21T15:40:11Z",
+  "last_seen": "2026-11-21T16:50:27Z",
   "reported": "not reported (permanent ban)"
 }

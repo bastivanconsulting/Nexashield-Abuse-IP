@@ -7,11 +7,11 @@
 | [`45.138.12.6`](45.138.12.6/) | Abusive HTTP requests (224), Spamhaus DROP-listed network (11) | 235 | 2026-11-21T07:46:08Z |
 | [`45.138.12.10`](45.138.12.10/) | Abusive HTTP requests (61) | 61 | 2026-11-19T00:36:22Z |
 | [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (27) | 102 | 2026-11-15T22:43:09Z |
-| [`45.138.12.19`](45.138.12.19/) | Spamhaus DROP-listed network (113), Abusive HTTP requests (22) | 135 | 2026-11-21T15:54:33Z |
+| [`45.138.12.19`](45.138.12.19/) | Spamhaus DROP-listed network (117), Abusive HTTP requests (22) | 139 | 2026-11-21T17:27:18Z |
 | [`45.138.12.37`](45.138.12.37/) | Abusive HTTP requests (102), Spamhaus DROP-listed network (2) | 104 | 2026-11-15T23:28:49Z |
 | [`45.138.12.40`](45.138.12.40/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-21T15:18:16Z |
 | [`45.138.12.41`](45.138.12.41/) | Spamhaus DROP-listed network (22), Abusive HTTP requests (3) | 25 | 2026-11-21T14:30:26Z |
-| [`45.138.12.42`](45.138.12.42/) | Port scanning (20), Known botnet / C2 infrastructure (9), Abusive HTTP requests (4) | 35 | 2026-11-21T10:42:40Z |
+| [`45.138.12.42`](45.138.12.42/) | Port scanning (21), Known botnet / C2 infrastructure (10), Abusive HTTP requests (4) | 37 | 2026-11-21T17:03:12Z |
 | [`45.138.12.43`](45.138.12.43/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-14T19:00:18Z |
 | [`45.138.12.44`](45.138.12.44/) | Port scanning (4), Abusive HTTP requests (3), Known botnet / C2 infrastructure (3) | 11 | 2026-11-15T04:19:04Z |
 | [`45.138.12.45`](45.138.12.45/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-16T00:28:06Z |
@@ -21,16 +21,16 @@
 | [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (17), Abusive HTTP requests (6) | 23 | 2026-11-21T13:20:02Z |
 | [`45.138.12.216`](45.138.12.216/) | Port scanning (12), Web injection payload blocked by WAF (3), Abusive HTTP requests (1) | 16 | 2026-11-18T00:54:46Z |
 | [`45.138.12.217`](45.138.12.217/) | Port scanning (16), Known botnet / C2 infrastructure (5), Abusive HTTP requests (4), Web injection payload blocked by WAF (2) | 28 | 2026-11-21T13:21:03Z |
-| [`185.218.86.2`](185.218.86.2/) | Port scanning (398) | 452 | 2026-11-21T16:04:48Z |
-| [`185.218.86.4`](185.218.86.4/) | Port scanning (408) | 475 | 2026-11-21T16:06:52Z |
-| [`185.218.86.10`](185.218.86.10/) | Port scanning (393) | 453 | 2026-11-21T16:03:55Z |
-| [`185.218.86.12`](185.218.86.12/) | Port scanning (382) | 443 | 2026-11-21T15:18:46Z |
-| [`185.218.86.13`](185.218.86.13/) | Port scanning (373) | 433 | 2026-11-21T15:52:31Z |
-| [`185.218.86.17`](185.218.86.17/) | Port scanning (382) | 436 | 2026-11-21T15:53:11Z |
-| [`185.218.86.20`](185.218.86.20/) | Port scanning (378) | 443 | 2026-11-21T16:17:25Z |
+| [`185.218.86.2`](185.218.86.2/) | Port scanning (400) | 454 | 2026-11-21T16:40:06Z |
+| [`185.218.86.4`](185.218.86.4/) | Port scanning (413) | 480 | 2026-11-21T17:13:44Z |
+| [`185.218.86.10`](185.218.86.10/) | Port scanning (395) | 455 | 2026-11-21T17:07:32Z |
+| [`185.218.86.12`](185.218.86.12/) | Port scanning (386) | 448 | 2026-11-21T16:42:52Z |
+| [`185.218.86.13`](185.218.86.13/) | Port scanning (377) | 437 | 2026-11-21T17:11:25Z |
+| [`185.218.86.17`](185.218.86.17/) | Port scanning (385) | 439 | 2026-11-21T17:14:46Z |
+| [`185.218.86.20`](185.218.86.20/) | Port scanning (380) | 445 | 2026-11-21T17:02:09Z |
 | [`185.218.86.23`](185.218.86.23/) | Port scanning (362) | 416 | 2026-11-21T16:02:36Z |
-| [`185.218.86.31`](185.218.86.31/) | Port scanning (388) | 447 | 2026-11-21T16:12:15Z |
-| [`185.218.86.33`](185.218.86.33/) | Port scanning (343) | 398 | 2026-11-21T14:06:08Z |
+| [`185.218.86.31`](185.218.86.31/) | Port scanning (390) | 449 | 2026-11-21T17:14:26Z |
+| [`185.218.86.33`](185.218.86.33/) | Port scanning (344) | 399 | 2026-11-21T16:45:43Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

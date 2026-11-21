@@ -7,10 +7,10 @@
 | IP | `102.220.163.241` |
 | Country | Slovenia (SI) |
 | ASN | AS197769 · VPS Dedicated LLC |
-| Activity | Port scanning (28), Abusive HTTP requests (9), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (6) |
-| Events | 52 |
+| Activity | Port scanning (31), Abusive HTTP requests (9), Web injection payload blocked by WAF (6), Known botnet / C2 infrastructure (6) |
+| Events | 55 |
 | First seen (UTC) | 2026-11-12T16:30:54Z |
-| Last seen (UTC) | 2026-11-21T15:55:32Z |
+| Last seen (UTC) | 2026-11-21T17:14:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

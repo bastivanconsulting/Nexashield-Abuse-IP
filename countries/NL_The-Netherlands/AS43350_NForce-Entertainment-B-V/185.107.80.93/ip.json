@@ -5,11 +5,11 @@
   "asn": 43350,
   "asn_org": "NForce Entertainment B.V.",
   "categories": {
-    "scan": 37,
+    "scan": 42,
     "c2": 3
   },
-  "events": 48,
+  "events": 53,
   "first_seen": "2026-11-11T09:42:25Z",
-  "last_seen": "2026-11-21T16:16:39Z",
+  "last_seen": "2026-11-21T16:52:25Z",
   "reported": "not reported (permanent ban)"
 }

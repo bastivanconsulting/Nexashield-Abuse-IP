@@ -6,10 +6,10 @@
   "asn_org": "Vodafone Portugal - Communicacoes Pessoais S.A.",
   "categories": {
     "ssh": 11,
-    "c2": 3
+    "c2": 4
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-18T11:31:24Z",
-  "last_seen": "2026-11-20T03:01:03Z",
+  "last_seen": "2026-11-21T16:50:58Z",
   "reported": "not reported (permanent ban)"
 }

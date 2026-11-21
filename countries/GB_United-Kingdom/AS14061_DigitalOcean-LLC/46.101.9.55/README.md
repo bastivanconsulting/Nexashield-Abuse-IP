@@ -7,10 +7,10 @@
 | IP | `46.101.9.55` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (2), Port scanning (1) |
-| Events | 6 |
+| Activity | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (2) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-20T17:37:28Z |
-| Last seen (UTC) | 2026-11-21T00:27:27Z |
+| Last seen (UTC) | 2026-11-21T16:30:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

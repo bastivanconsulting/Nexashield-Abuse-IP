@@ -6,11 +6,11 @@
   "asn_org": "Zenlayer Inc",
   "categories": {
     "web": 1,
-    "scan": 3,
-    "c2": 1
+    "scan": 4,
+    "c2": 2
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-10T15:57:56Z",
-  "last_seen": "2026-11-18T06:18:14Z",
+  "last_seen": "2026-11-21T17:00:08Z",
   "reported": "not reported (permanent ban)"
 }
