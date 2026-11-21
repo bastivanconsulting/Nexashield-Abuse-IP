@@ -6582,3 +6582,4 @@ ip,country_code,country,asn,asn_org,categories,events,first_seen,last_seen,repor
 103.47.192.51,VN,Vietnam,140832,"Vietnam F Tech., JSC",c2:16;scan:33,50,2026-11-11T09:47:12Z,2026-11-18T19:15:30Z,not reported (permanent ban)
 20.87.218.237,ZA,South Africa,8075,Microsoft Corporation,c2:4;waf:1;web:8,23,2026-11-16T16:47:31Z,2026-11-18T11:01:48Z,not reported (permanent ban)
 40.123.240.128,ZA,South Africa,8075,Microsoft Corporation,c2:3;waf:1;web:4,18,2026-11-17T04:07:25Z,2026-11-19T04:19:03Z,not reported (permanent ban)
+82.231.232.76,FR,France,12322,Free SAS,scan:110,110,2026-11-20T10:24:00Z,2026-11-21T02:50:00Z,not reported (permanent ban)
