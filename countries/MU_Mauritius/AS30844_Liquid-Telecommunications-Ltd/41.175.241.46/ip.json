@@ -1,0 +1,14 @@
+{
+  "ip": "41.175.241.46",
+  "country_code": "MU",
+  "country": "Mauritius",
+  "asn": 30844,
+  "asn_org": "Liquid Telecommunications Ltd",
+  "categories": {
+    "scan": 20
+  },
+  "events": 27,
+  "first_seen": "2026-11-20T02:11:00Z",
+  "last_seen": "2026-11-21T21:01:55Z",
+  "reported": "not reported (permanent ban)"
+}

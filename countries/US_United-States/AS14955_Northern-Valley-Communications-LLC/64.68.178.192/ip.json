@@ -1,0 +1,14 @@
+{
+  "ip": "64.68.178.192",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14955,
+  "asn_org": "Northern Valley Communications LLC",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-12T08:33:19Z",
+  "last_seen": "2026-11-21T20:49:05Z",
+  "reported": "not reported (permanent ban)"
+}

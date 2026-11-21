@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 13 | Port scanning (1623), Spamhaus DROP-listed network (843), Known botnet / C2 infrastructure (15) |
+| [AS209605](AS209605_UAB-Host-Baltic/) | UAB Host Baltic | 13 | Port scanning (1635), Spamhaus DROP-listed network (849), Known botnet / C2 infrastructure (15) |
 | [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
 | [AS48721](AS48721_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 

@@ -7,10 +7,10 @@
 | IP | `194.164.107.5` |
 | Country | Singapore (SG) |
 | ASN | AS50219 · LNK SYSTEMS MUNTENIA SRL |
-| Activity | Port scanning (58), Known botnet / C2 infrastructure (21) |
-| Events | 80 |
+| Activity | Port scanning (59), Known botnet / C2 infrastructure (21) |
+| Events | 81 |
 | First seen (UTC) | 2026-11-11T10:17:07Z |
-| Last seen (UTC) | 2026-11-21T19:51:31Z |
+| Last seen (UTC) | 2026-11-21T20:59:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

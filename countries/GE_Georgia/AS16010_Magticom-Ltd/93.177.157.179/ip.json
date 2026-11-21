@@ -1,0 +1,15 @@
+{
+  "ip": "93.177.157.179",
+  "country_code": "GE",
+  "country": "Georgia",
+  "asn": 16010,
+  "asn_org": "Magticom Ltd.",
+  "categories": {
+    "ssh": 7,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-18T11:12:24Z",
+  "last_seen": "2026-11-21T20:41:05Z",
+  "reported": "not reported (permanent ban)"
+}

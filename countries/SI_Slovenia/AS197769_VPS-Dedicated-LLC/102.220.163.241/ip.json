@@ -6,12 +6,12 @@
   "asn_org": "VPS Dedicated LLC",
   "categories": {
     "web": 9,
-    "scan": 37,
+    "scan": 38,
     "waf": 6,
-    "c2": 6
+    "c2": 7
   },
-  "events": 63,
+  "events": 65,
   "first_seen": "2026-11-12T16:30:54Z",
-  "last_seen": "2026-11-21T19:59:43Z",
+  "last_seen": "2026-11-21T20:30:59Z",
   "reported": "not reported (permanent ban)"
 }

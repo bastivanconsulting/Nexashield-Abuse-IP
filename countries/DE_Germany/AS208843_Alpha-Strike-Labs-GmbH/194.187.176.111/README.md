@@ -7,10 +7,10 @@
 | IP | `194.187.176.111` |
 | Country | Germany (DE) |
 | ASN | AS208843 · Alpha Strike Labs GmbH |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (1) |
-| Events | 7 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (2) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-11T23:23:59Z |
-| Last seen (UTC) | 2026-11-18T13:18:04Z |
+| Last seen (UTC) | 2026-11-21T20:47:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

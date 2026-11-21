@@ -7,10 +7,10 @@
 | IP | `213.177.179.109` |
 | Country | The Netherlands (NL) |
 | ASN | AS208137 · Feo Prest SRL |
-| Activity | Port scanning (14), Known botnet / C2 infrastructure (3) |
-| Events | 18 |
+| Activity | Port scanning (15), Known botnet / C2 infrastructure (3) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-21T00:31:13Z |
-| Last seen (UTC) | 2026-11-21T19:58:13Z |
+| Last seen (UTC) | 2026-11-21T21:01:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
