@@ -1,13 +1,14 @@
 # AS197769 · VPS Dedicated LLC
 
-🇸🇮 Slovenia · **18** malicious IP(s)
+🇸🇮 Slovenia · **19** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`31.57.37.64`](31.57.37.64/) | Port scanning (84), Known botnet / C2 infrastructure (4) | 104 | 2026-11-21T03:58:29Z |
-| [`31.57.37.175`](31.57.37.175/) | Port scanning (18), Known botnet / C2 infrastructure (4) | 23 | 2026-11-21T04:09:19Z |
-| [`31.57.37.176`](31.57.37.176/) | Port scanning (55) | 58 | 2026-11-21T04:04:07Z |
-| [`31.57.37.178`](31.57.37.178/) | Port scanning (51) | 55 | 2026-11-21T04:12:04Z |
+| [`31.57.37.64`](31.57.37.64/) | Port scanning (86), Known botnet / C2 infrastructure (4) | 106 | 2026-11-21T05:09:04Z |
+| [`31.57.37.175`](31.57.37.175/) | Port scanning (20), Known botnet / C2 infrastructure (4) | 25 | 2026-11-21T05:07:05Z |
+| [`31.57.37.176`](31.57.37.176/) | Port scanning (59) | 62 | 2026-11-21T05:05:23Z |
+| [`31.57.37.177`](31.57.37.177/) | Port scanning (21) | 21 | 2026-11-21T04:58:49Z |
+| [`31.57.37.178`](31.57.37.178/) | Port scanning (54) | 58 | 2026-11-21T05:00:21Z |
 | [`102.220.161.61`](102.220.161.61/) | Port scanning (45), Known botnet / C2 infrastructure (11) | 57 | 2026-11-14T05:37:42Z |
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 24 | 2026-11-15T16:19:53Z |
 | [`102.220.161.84`](102.220.161.84/) | SSH brute force (10), Port scanning (9), Known botnet / C2 infrastructure (8) | 28 | 2026-11-20T10:48:27Z |

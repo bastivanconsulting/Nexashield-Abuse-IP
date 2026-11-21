@@ -5,10 +5,10 @@
   "asn": 209413,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-    "scan": 77
+    "scan": 79
   },
-  "events": 80,
+  "events": 82,
   "first_seen": "2026-11-11T12:43:07Z",
-  "last_seen": "2026-11-20T09:24:05Z",
+  "last_seen": "2026-11-21T05:15:35Z",
   "reported": "not reported (permanent ban)"
 }

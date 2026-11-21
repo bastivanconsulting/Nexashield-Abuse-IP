@@ -6,11 +6,11 @@
   "asn_org": "Contabo GmbH",
   "categories": {
     "exploit": 1,
-    "scan": 1,
+    "scan": 2,
     "c2": 1
   },
-  "events": 5,
+  "events": 6,
   "first_seen": "2026-11-18T18:07:55Z",
-  "last_seen": "2026-11-21T04:08:04Z",
+  "last_seen": "2026-11-21T05:09:27Z",
   "reported": "not reported (permanent ban)"
 }

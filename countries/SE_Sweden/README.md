@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 27 | Port scanning (2085), Known botnet / C2 infrastructure (263), Exploitation attempt (CVE / RCE / injection) (33), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 27 | Port scanning (2104), Known botnet / C2 infrastructure (266), Exploitation attempt (CVE / RCE / injection) (40), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 5 | SSH brute force (21), Exploitation attempt (CVE / RCE / injection) (4), Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 2 | SSH brute force (11), Known botnet / C2 infrastructure (6) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 2 | Port scanning (21), Known botnet / C2 infrastructure (3) |

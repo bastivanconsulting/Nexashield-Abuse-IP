@@ -7,10 +7,10 @@
 | IP | `158.94.187.26` |
 | Country | United States (US) |
 | ASN | AS42969 · Alpha Strike Labs GmbH |
-| Activity | Port scanning (5) |
-| Events | 11 |
+| Activity | Port scanning (6) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-12T01:39:29Z |
-| Last seen (UTC) | 2026-11-19T14:18:04Z |
+| Last seen (UTC) | 2026-11-21T04:23:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

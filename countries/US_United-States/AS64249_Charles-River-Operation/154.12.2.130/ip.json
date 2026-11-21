@@ -6,11 +6,11 @@
   "asn_org": "Charles River Operation",
   "categories": {
     "ssh": 4,
-    "scan": 5,
+    "scan": 6,
     "c2": 4
   },
-  "events": 19,
+  "events": 20,
   "first_seen": "2026-11-17T03:47:06Z",
-  "last_seen": "2026-11-21T02:46:19Z",
+  "last_seen": "2026-11-21T05:12:07Z",
   "reported": "not reported (permanent ban)"
 }

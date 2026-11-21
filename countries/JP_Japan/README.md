@@ -4,10 +4,10 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 27 | Port scanning (104), Known botnet / C2 infrastructure (95) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (409), Known botnet / C2 infrastructure (51) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 27 | Port scanning (105), Known botnet / C2 infrastructure (96) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (414), Known botnet / C2 infrastructure (52) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (109), Known botnet / C2 infrastructure (23) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1035), Web injection payload blocked by WAF (59), Port scanning (19), Known botnet / C2 infrastructure (4) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1035), Web injection payload blocked by WAF (59), Port scanning (21), Known botnet / C2 infrastructure (4) |
 | [AS149440](AS149440_Evoxt-Sdn-Bhd/) | Evoxt Sdn. Bhd. | 2 | Abusive HTTP requests (12) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (105), Known botnet / C2 infrastructure (33) |
 | [AS10010](AS10010_TOKAI-Communications-Corporation/) | TOKAI Communications Corporation | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |

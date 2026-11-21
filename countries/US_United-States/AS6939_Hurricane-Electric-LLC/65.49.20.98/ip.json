@@ -5,11 +5,11 @@
   "asn": 6939,
   "asn_org": "Hurricane Electric LLC",
   "categories": {
-    "scan": 16,
+    "scan": 17,
     "c2": 8
   },
-  "events": 25,
+  "events": 26,
   "first_seen": "2026-11-12T10:19:26Z",
-  "last_seen": "2026-11-21T03:51:41Z",
+  "last_seen": "2026-11-21T04:21:00Z",
   "reported": "not reported (permanent ban)"
 }

@@ -5,11 +5,11 @@
   "asn": 11014,
   "asn_org": "CPS",
   "categories": {
-    "scan": 11,
-    "c2": 9
+    "scan": 12,
+    "c2": 10
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-12T17:28:12Z",
-  "last_seen": "2026-11-20T21:53:01Z",
+  "last_seen": "2026-11-21T05:03:52Z",
   "reported": "not reported (permanent ban)"
 }

@@ -8,10 +8,10 @@
     "waf": 2,
     "web": 2,
     "c2": 6,
-    "scan": 7
+    "scan": 8
   },
-  "events": 18,
+  "events": 19,
   "first_seen": "2026-11-11T23:45:44Z",
-  "last_seen": "2026-11-21T00:55:54Z",
+  "last_seen": "2026-11-21T04:38:57Z",
   "reported": "not reported (permanent ban)"
 }
