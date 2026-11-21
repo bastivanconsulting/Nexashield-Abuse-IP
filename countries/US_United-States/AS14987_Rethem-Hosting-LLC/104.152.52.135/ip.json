@@ -5,11 +5,11 @@
   "asn": 14987,
   "asn_org": "Rethem Hosting LLC",
   "categories": {
-    "scan": 1,
-    "c2": 1
+    "scan": 2,
+    "c2": 2
   },
-  "events": 3,
+  "events": 5,
   "first_seen": "2026-11-19T12:58:28Z",
-  "last_seen": "2026-11-19T13:18:04Z",
+  "last_seen": "2026-11-21T03:32:08Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,15 @@
+{
+  "ip": "194.187.176.105",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 208843,
+  "asn_org": "Alpha Strike Labs GmbH",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-12T23:32:55Z",
+  "last_seen": "2026-11-21T04:11:04Z",
+  "reported": "not reported (permanent ban)"
+}

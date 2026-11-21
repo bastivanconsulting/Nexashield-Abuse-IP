@@ -1,0 +1,14 @@
+{
+  "ip": "31.57.37.178",
+  "country_code": "SI",
+  "country": "Slovenia",
+  "asn": 197769,
+  "asn_org": "VPS Dedicated LLC",
+  "categories": {
+    "scan": 51
+  },
+  "events": 55,
+  "first_seen": "2026-11-20T03:29:41Z",
+  "last_seen": "2026-11-21T04:12:04Z",
+  "reported": "not reported (permanent ban)"
+}

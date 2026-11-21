@@ -1,14 +1,14 @@
 # 🇬🇧 United Kingdom
 
-**984** malicious IP(s) across **20** network(s).
+**985** malicious IP(s) across **20** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 704 | Port scanning (14423), Known botnet / C2 infrastructure (3295), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 705 | Port scanning (14480), Known botnet / C2 infrastructure (3319), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 200 | Port scanning (3796), Known botnet / C2 infrastructure (853) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 25 | Port scanning (348), Known botnet / C2 infrastructure (216) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 25 | Port scanning (350), Known botnet / C2 infrastructure (218) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 17 | Port scanning (370), Known botnet / C2 infrastructure (65), Abusive HTTP requests (62), Exploitation attempt (CVE / RCE / injection) (17) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1109), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1114), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 4 | SSH brute force (2275), Spamhaus DROP-listed network (109), Port scanning (14), Known botnet / C2 infrastructure (1) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (56), Known botnet / C2 infrastructure (19) |
@@ -21,7 +21,7 @@
 | [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 1 | Port scanning (50), Exploitation attempt (CVE / RCE / injection) (17), Known botnet / C2 infrastructure (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 1 | Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
 | [AS215089](AS215089_Fast-Panda-Limited/) | Fast Panda Limited | 1 | Port scanning (1) |
-| [AS31727](AS31727_Node4-Limited/) | Node4 Limited | 1 | Port scanning (27) |
+| [AS31727](AS31727_Node4-Limited/) | Node4 Limited | 1 | Port scanning (29) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 1 | Abusive HTTP requests (27) |
 | [AS9515](AS9515_Compute-Global-Limited/) | Compute Global Limited | 1 | Port scanning (16), Known botnet / C2 infrastructure (6) |
 

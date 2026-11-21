@@ -7,10 +7,10 @@
 | IP | `93.174.95.106` |
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
-| Activity | Known botnet / C2 infrastructure (11) |
-| Events | 72 |
+| Activity | Known botnet / C2 infrastructure (11), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 78 |
 | First seen (UTC) | 2026-11-11T23:11:29Z |
-| Last seen (UTC) | 2026-11-21T02:55:51Z |
+| Last seen (UTC) | 2026-11-21T04:07:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
