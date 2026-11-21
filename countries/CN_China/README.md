@@ -5,10 +5,10 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 18 | Port scanning (114), Known botnet / C2 infrastructure (31), SSH brute force (7) |
-| [AS4134](AS4134_Chinanet/) | Chinanet | 16 | Port scanning (562), Known botnet / C2 infrastructure (64), SSH brute force (43), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 10 | Port scanning (148), Known botnet / C2 infrastructure (100) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 16 | Port scanning (567), Known botnet / C2 infrastructure (64), SSH brute force (43), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 10 | Port scanning (150), Known botnet / C2 infrastructure (101) |
 | [AS4837](AS4837_CHINA-UNICOM-China169-Backbone/) | CHINA UNICOM China169 Backbone | 10 | Port scanning (104), Known botnet / C2 infrastructure (20), SSH brute force (7), Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (3) |
-| [AS136958](AS136958_China-Unicom-Guangdong-IP-network/) | China Unicom Guangdong IP network | 7 | Port scanning (103), Known botnet / C2 infrastructure (4), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS136958](AS136958_China-Unicom-Guangdong-IP-network/) | China Unicom Guangdong IP network | 7 | Port scanning (105), Known botnet / C2 infrastructure (4), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS45090](AS45090_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 7 | Port scanning (42), Known botnet / C2 infrastructure (13), SSH brute force (5), Web injection payload blocked by WAF (1) |
 | [AS38365](AS38365_Beijing-Baidu-Netcom-Science-and-Technology-Co-L/) | Beijing Baidu Netcom Science and Technology Co., Ltd. | 3 | SSH brute force (183), Port scanning (13), Known botnet / C2 infrastructure (3) |
 | [AS136180](AS136180_Beijing-Tiantexin-Tech-Co-Ltd/) | Beijing Tiantexin Tech. Co., Ltd. | 2 | Port scanning (172) |

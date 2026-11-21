@@ -1,0 +1,15 @@
+{
+  "ip": "47.84.141.101",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 45102,
+  "asn_org": "Alibaba (US) Technology Co., Ltd.",
+  "categories": {
+    "scan": 8,
+    "c2": 3
+  },
+  "events": 17,
+  "first_seen": "2026-11-13T15:47:42Z",
+  "last_seen": "2026-11-21T12:57:05Z",
+  "reported": "not reported (permanent ban)"
+}

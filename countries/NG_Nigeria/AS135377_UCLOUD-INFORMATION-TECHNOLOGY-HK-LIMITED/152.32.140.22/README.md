@@ -7,10 +7,10 @@
 | IP | `152.32.140.22` |
 | Country | Nigeria (NG) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (25), Known botnet / C2 infrastructure (14) |
-| Events | 40 |
+| Activity | Port scanning (26), Known botnet / C2 infrastructure (15) |
+| Events | 42 |
 | First seen (UTC) | 2026-11-12T08:03:51Z |
-| Last seen (UTC) | 2026-11-21T06:14:47Z |
+| Last seen (UTC) | 2026-11-21T12:51:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

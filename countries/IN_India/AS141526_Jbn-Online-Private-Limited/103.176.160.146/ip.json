@@ -1,0 +1,15 @@
+{
+  "ip": "103.176.160.146",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 141526,
+  "asn_org": "Jbn Online Private Limited",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-17T15:57:58Z",
+  "last_seen": "2026-11-20T13:00:01Z",
+  "reported": "not reported (permanent ban)"
+}

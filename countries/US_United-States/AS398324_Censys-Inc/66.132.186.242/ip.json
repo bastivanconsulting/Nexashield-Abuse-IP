@@ -5,11 +5,11 @@
   "asn": 398324,
   "asn_org": "Censys, Inc.",
   "categories": {
-    "scan": 72,
+    "scan": 73,
     "c2": 17
   },
-  "events": 92,
+  "events": 93,
   "first_seen": "2026-11-12T04:29:21Z",
-  "last_seen": "2026-11-21T12:05:03Z",
+  "last_seen": "2026-11-21T12:41:47Z",
   "reported": "not reported (permanent ban)"
 }

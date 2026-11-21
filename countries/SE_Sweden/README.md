@@ -1,13 +1,13 @@
 # 🇸🇪 Sweden
 
-**48** malicious IP(s) across **13** network(s).
+**49** malicious IP(s) across **13** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2243), Known botnet / C2 infrastructure (282), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2258), Known botnet / C2 infrastructure (283), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 5 | SSH brute force (21), Exploitation attempt (CVE / RCE / injection) (4), Port scanning (4), Known botnet / C2 infrastructure (3) |
+| [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 3 | SSH brute force (14), Known botnet / C2 infrastructure (8) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 2 | SSH brute force (7), Known botnet / C2 infrastructure (6), Port scanning (3) |
-| [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 2 | SSH brute force (11), Known botnet / C2 infrastructure (6) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 2 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 | [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3) |
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26) |

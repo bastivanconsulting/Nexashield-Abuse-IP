@@ -1,0 +1,14 @@
+{
+  "ip": "158.94.187.126",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 42969,
+  "asn_org": "Alpha Strike Labs GmbH",
+  "categories": {
+    "scan": 3
+  },
+  "events": 5,
+  "first_seen": "2026-11-12T18:24:25Z",
+  "last_seen": "2026-11-21T04:00:49Z",
+  "reported": "not reported (permanent ban)"
+}

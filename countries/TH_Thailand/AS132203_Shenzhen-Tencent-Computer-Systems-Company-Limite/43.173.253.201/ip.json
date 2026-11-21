@@ -1,0 +1,14 @@
+{
+  "ip": "43.173.253.201",
+  "country_code": "TH",
+  "country": "Thailand",
+  "asn": 132203,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "waf": 165
+  },
+  "events": 167,
+  "first_seen": "2026-11-21T12:53:42Z",
+  "last_seen": "2026-11-21T13:01:05Z",
+  "reported": "not reported (permanent ban)"
+}
