@@ -1,0 +1,15 @@
+{
+  "ip": "91.238.181.92",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 49434,
+  "asn_org": "FBW NETWORKS SAS",
+  "categories": {
+    "scan": 31,
+    "c2": 3
+  },
+  "events": 36,
+  "first_seen": "2026-11-11T10:55:00Z",
+  "last_seen": "2026-11-21T00:11:04Z",
+  "reported": "not reported (permanent ban)"
+}

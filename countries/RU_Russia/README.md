@@ -16,7 +16,7 @@
 | [AS28890](AS28890_INSYS-LLC/) | INSYS LLC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
-| [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (22), SSH brute force (12) |
+| [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
 | [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (296), Known botnet / C2 infrastructure (31), Exploitation attempt (CVE / RCE / injection) (8) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 1 | Port scanning (3), Known botnet / C2 infrastructure (2) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |

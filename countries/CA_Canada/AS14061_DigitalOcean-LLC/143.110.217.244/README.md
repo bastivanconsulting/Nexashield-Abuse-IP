@@ -7,8 +7,8 @@
 | IP | `143.110.217.244` |
 | Country | Canada (CA) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (24) |
-| Events | 24 |
+| Activity | Abusive HTTP requests (18) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-10T06:15:26Z |
 | Last seen (UTC) | 2026-11-20T00:29:26Z |
 | Reported to network owner (UTC) | 2026-11-11T17:05:30Z |

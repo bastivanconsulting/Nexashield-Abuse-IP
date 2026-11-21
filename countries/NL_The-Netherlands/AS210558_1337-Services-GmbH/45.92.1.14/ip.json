@@ -1,0 +1,14 @@
+{
+  "ip": "45.92.1.14",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 210558,
+  "asn_org": "1337 Services GmbH",
+  "categories": {
+    "c2": 2
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T06:44:13Z",
+  "last_seen": "2026-11-20T09:04:06Z",
+  "reported": "not reported (permanent ban)"
+}

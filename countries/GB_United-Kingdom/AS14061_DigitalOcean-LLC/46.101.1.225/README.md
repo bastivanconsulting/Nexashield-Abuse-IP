@@ -7,8 +7,8 @@
 | IP | `46.101.1.225` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (24) |
-| Events | 24 |
+| Activity | Abusive HTTP requests (12) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-20T00:29:10Z |
 | Last seen (UTC) | 2026-11-20T00:29:26Z |
 | Reported to network owner (UTC) | 2026-11-20T02:26:28Z |

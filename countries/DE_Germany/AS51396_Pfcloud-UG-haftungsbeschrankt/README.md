@@ -9,12 +9,12 @@
 | [`45.135.194.31`](45.135.194.31/) | Port scanning (92) | 93 | 2026-11-18T03:36:05Z |
 | [`94.183.174.99`](94.183.174.99/) | Port scanning (18), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) | 25 | 2026-11-20T18:57:41Z |
 | [`176.65.134.73`](176.65.134.73/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 13 | 2026-11-17T01:39:03Z |
-| [`204.76.203.4`](204.76.203.4/) | Port scanning (775), Known botnet / C2 infrastructure (25) | 907 | 2026-11-20T23:16:57Z |
+| [`204.76.203.4`](204.76.203.4/) | Port scanning (776), Known botnet / C2 infrastructure (25) | 908 | 2026-11-21T00:09:31Z |
 | [`204.76.203.38`](204.76.203.38/) | Port scanning (523), Known botnet / C2 infrastructure (35), Abusive HTTP requests (1) | 591 | 2026-11-20T23:01:40Z |
-| [`204.76.203.40`](204.76.203.40/) | Port scanning (543), Known botnet / C2 infrastructure (33) | 612 | 2026-11-20T23:13:13Z |
+| [`204.76.203.40`](204.76.203.40/) | Port scanning (544), Known botnet / C2 infrastructure (33) | 613 | 2026-11-21T00:17:00Z |
 | [`204.76.203.43`](204.76.203.43/) | Port scanning (503), Known botnet / C2 infrastructure (33), Abusive HTTP requests (1) | 580 | 2026-11-20T22:28:45Z |
-| [`204.76.203.44`](204.76.203.44/) | Port scanning (540), Known botnet / C2 infrastructure (34), Abusive HTTP requests (1) | 615 | 2026-11-20T23:00:38Z |
-| [`204.76.203.53`](204.76.203.53/) | Port scanning (546), Known botnet / C2 infrastructure (33) | 615 | 2026-11-20T23:14:24Z |
+| [`204.76.203.44`](204.76.203.44/) | Port scanning (541), Known botnet / C2 infrastructure (34), Abusive HTTP requests (1) | 616 | 2026-11-21T00:17:00Z |
+| [`204.76.203.53`](204.76.203.53/) | Port scanning (547), Known botnet / C2 infrastructure (33) | 616 | 2026-11-21T00:09:23Z |
 | [`204.76.203.212`](204.76.203.212/) | Port scanning (405), Known botnet / C2 infrastructure (20), Abusive HTTP requests (3) | 472 | 2026-11-20T00:54:09Z |
 | [`204.76.203.213`](204.76.203.213/) | Port scanning (401), Known botnet / C2 infrastructure (19) | 475 | 2026-11-20T00:46:56Z |
 | [`204.76.203.214`](204.76.203.214/) | Port scanning (397), Known botnet / C2 infrastructure (19) | 467 | 2026-11-20T00:23:20Z |

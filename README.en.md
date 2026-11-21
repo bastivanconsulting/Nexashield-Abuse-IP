@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/malicious%20IPs-6174-dc2626?style=flat&labelColor=080f12" alt="IPs">
+  <img src="https://img.shields.io/badge/malicious%20IPs-6186-dc2626?style=flat&labelColor=080f12" alt="IPs">
   <img src="https://img.shields.io/badge/countries-73-2563eb?style=flat&labelColor=080f12" alt="Countries">
-  <img src="https://img.shields.io/badge/updated-2026--11--20-1fa669?style=flat&labelColor=080f12" alt="Updated">
+  <img src="https://img.shields.io/badge/updated-2026--11--21-1fa669?style=flat&labelColor=080f12" alt="Updated">
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml"><img src="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/bastivanconsulting/Nexashield-Abuse-IP/stargazers"><img src="https://img.shields.io/github/stars/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=eab308&logo=github" alt="Stars"></a>
   <img src="https://img.shields.io/github/last-commit/bastivanconsulting/Nexashield-Abuse-IP?style=flat&labelColor=080f12&color=64748b" alt="Last commit">
@@ -46,7 +46,7 @@
 
 <picture>
   <source width="100%" srcset="assets/stats-en-dark.svg" media="(prefers-color-scheme: dark)">
-  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 6174 IPs, 73 countries, 484 networks, 339256 events">
+  <img width="100%" src="assets/stats-en-light.svg" alt="Stats: 6186 IPs, 73 countries, 485 networks, 334873 events">
 </picture>
 
 > [!TIP]
@@ -147,18 +147,18 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Country | IPs |
 |---|---:|
-| 🇺🇸 [United States](countries/US_United-States/) | 2480 |
+| 🇺🇸 [United States](countries/US_United-States/) | 2482 |
 | 🇬🇧 [United Kingdom](countries/GB_United-Kingdom/) | 981 |
-| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 571 |
+| 🇳🇱 [The Netherlands](countries/NL_The-Netherlands/) | 572 |
 | 🇩🇪 [Germany](countries/DE_Germany/) | 460 |
 | 🇧🇪 [Belgium](countries/BE_Belgium/) | 356 |
-| 🇫🇷 [France](countries/FR_France/) | 287 |
+| 🇫🇷 [France](countries/FR_France/) | 288 |
 | 🇭🇰 [Hong Kong](countries/HK_Hong-Kong/) | 180 |
 | 🇦🇩 [Andorra](countries/AD_Andorra/) | 76 |
-| 🇨🇳 [China](countries/CN_China/) | 73 |
+| 🇨🇳 [China](countries/CN_China/) | 75 |
 | 🇸🇬 [Singapore](countries/SG_Singapore/) | 64 |
-| 🇯🇵 [Japan](countries/JP_Japan/) | 48 |
-| 🇨🇦 [Canada](countries/CA_Canada/) | 47 |
+| 🇯🇵 [Japan](countries/JP_Japan/) | 49 |
+| 🇨🇦 [Canada](countries/CA_Canada/) | 48 |
 | 🇧🇬 [Bulgaria](countries/BG_Bulgaria/) | 46 |
 | 🇸🇪 [Sweden](countries/SE_Sweden/) | 44 |
 | 🇧🇷 [Brazil](countries/BR_Brazil/) | 40 |
@@ -172,13 +172,13 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 
 | Type | IPs |
 |---|---:|
-| Port scanning | 5733 |
-| Known botnet / C2 infrastructure | 4589 |
+| Port scanning | 5742 |
+| Known botnet / C2 infrastructure | 4597 |
 | Abusive HTTP requests | 410 |
-| Exploitation attempt (CVE / RCE / injection) | 319 |
-| SSH brute force | 264 |
+| Exploitation attempt (CVE / RCE / injection) | 320 |
+| SSH brute force | 265 |
 | Web injection payload blocked by WAF | 140 |
-| Spamhaus DROP-listed network | 61 |
+| Spamhaus DROP-listed network | 62 |
 | SMTP / IMAP credential guessing | 1 |
 | UDP exploit signature | 1 |
 
@@ -196,10 +196,10 @@ Cisco, pfSense, OPNsense, nftables, UFW, nginx: **[full guide (FR) →](docs/INT
 | **AS398324** | Censys, Inc. | [🇺🇸 348](countries/US_United-States/AS398324_Censys-Inc/) | 348 |
 | **AS43515** | Google Ireland Limited | [🇧🇪 307](countries/BE_Belgium/AS43515_Google-Ireland-Limited/) [🇳🇱 10](countries/NL_The-Netherlands/AS43515_Google-Ireland-Limited/) | 317 |
 | **AS14618** | Amazon.com, Inc. | [🇺🇸 296](countries/US_United-States/AS14618_Amazon-com-Inc/) | 296 |
-| **AS135377** | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | [🇭🇰 73](countries/HK_Hong-Kong/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇺🇸 56](countries/US_United-States/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇭 30](countries/TH_Thailand/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇬🇧 25](countries/GB_United-Kingdom/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇩🇪 15](countries/DE_Germany/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇳🇬 12](countries/NG_Nigeria/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇯🇵 7](countries/JP_Japan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇰🇷 7](countries/KR_South-Korea/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇼 7](countries/TW_Taiwan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇵🇭 6](countries/PH_Philippines/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇸🇬 6](countries/SG_Singapore/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇻🇳 6](countries/VN_Vietnam/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇧🇷 5](countries/BR_Brazil/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇦🇪 4](countries/AE_United-Arab-Emirates/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇷🇺 3](countries/RU_Russia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇳 2](countries/IN_India/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇩 1](countries/ID_Indonesia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | 265 |
+| **AS135377** | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | [🇭🇰 73](countries/HK_Hong-Kong/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇺🇸 56](countries/US_United-States/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇭 30](countries/TH_Thailand/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇬🇧 25](countries/GB_United-Kingdom/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇩🇪 15](countries/DE_Germany/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇳🇬 12](countries/NG_Nigeria/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇯🇵 7](countries/JP_Japan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇰🇷 7](countries/KR_South-Korea/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇵🇭 7](countries/PH_Philippines/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇹🇼 7](countries/TW_Taiwan/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇸🇬 6](countries/SG_Singapore/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇻🇳 6](countries/VN_Vietnam/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇧🇷 5](countries/BR_Brazil/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇦🇪 4](countries/AE_United-Arab-Emirates/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇷🇺 3](countries/RU_Russia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇳 2](countries/IN_India/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) [🇮🇩 1](countries/ID_Indonesia/AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | 266 |
 | **AS213412** | ONYPHE SAS | [🇫🇷 152](countries/FR_France/AS213412_ONYPHE-SAS/) [🇺🇸 99](countries/US_United-States/AS213412_ONYPHE-SAS/) [🇨🇳 6](countries/CN_China/AS213412_ONYPHE-SAS/) | 257 |
 | **AS14061** | DigitalOcean, LLC | [🇺🇸 71](countries/US_United-States/AS14061_DigitalOcean-LLC/) [🇩🇪 30](countries/DE_Germany/AS14061_DigitalOcean-LLC/) [🇸🇬 18](countries/SG_Singapore/AS14061_DigitalOcean-LLC/) [🇬🇧 16](countries/GB_United-Kingdom/AS14061_DigitalOcean-LLC/) [🇳🇱 14](countries/NL_The-Netherlands/AS14061_DigitalOcean-LLC/) [🇦🇺 9](countries/AU_Australia/AS14061_DigitalOcean-LLC/) [🇮🇳 6](countries/IN_India/AS14061_DigitalOcean-LLC/) [🇨🇦 5](countries/CA_Canada/AS14061_DigitalOcean-LLC/) | 169 |
-| **AS45102** | Alibaba (US) Technology Co., Ltd. | [🇺🇸 59](countries/US_United-States/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇩🇪 34](countries/DE_Germany/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇸🇬 28](countries/SG_Singapore/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇯🇵 21](countries/JP_Japan/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇲🇾 20](countries/MY_Malaysia/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇵🇭 1](countries/PH_Philippines/AS45102_Alibaba-US-Technology-Co-Ltd/) | 163 |
+| **AS45102** | Alibaba (US) Technology Co., Ltd. | [🇺🇸 59](countries/US_United-States/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇩🇪 34](countries/DE_Germany/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇸🇬 28](countries/SG_Singapore/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇯🇵 22](countries/JP_Japan/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇲🇾 20](countries/MY_Malaysia/AS45102_Alibaba-US-Technology-Co-Ltd/) [🇵🇭 1](countries/PH_Philippines/AS45102_Alibaba-US-Technology-Co-Ltd/) | 164 |
 
 ---
 
@@ -284,7 +284,7 @@ Addresses **permanently banned** by NexaShield without an abuse report (repeat o
 On top of the reported addresses above, NexaShield publishes **every** address it has permanently banned on Bastivan Consulting infrastructure: repeat offenders, persistent low-level attacks judged by the AI, confirmed campaigns. Updated automatically every hour.
 
 <!-- BANS:START -->
-**5109** permanently banned addresses (**5051** IPs, **58** CIDR ranges), updated every hour: [`bans/permaban.txt`](bans/permaban.txt) (commented) · [`bans/plain/all.txt`](bans/plain/all.txt) (firewall feed) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
+**5121** permanently banned addresses (**5063** IPs, **58** CIDR ranges), updated every hour: [`bans/permaban.txt`](bans/permaban.txt) (commented) · [`bans/plain/all.txt`](bans/plain/all.txt) (firewall feed) · [`ipv4`](bans/plain/ipv4.txt) / [`ipv6`](bans/plain/ipv6.txt).
 <!-- BANS:END -->
 
 > Not all of these addresses were reported to their hosting provider: for a strictly "reported and evidenced" blocklist, prefer [`lists/`](lists/).

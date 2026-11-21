@@ -7,8 +7,8 @@
 | IP | `56.126.19.71` |
 | Country | Brazil (BR) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Abusive HTTP requests (34) |
-| Events | 34 |
+| Activity | Abusive HTTP requests (17) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-20T03:24:56Z |
 | Last seen (UTC) | 2026-11-20T03:24:56Z |
 | Reported to network owner (UTC) | 2026-11-20T04:25:58Z |

@@ -7,8 +7,8 @@
 | IP | `2401:c080:1000:5637:5400:7ff:fe11:9669` |
 | Country | Japan (JP) |
 | ASN | AS20473 · The Constant Company, LLC |
-| Activity | Web injection payload blocked by WAF (16), Abusive HTTP requests (2) |
-| Events | 18 |
+| Activity | Web injection payload blocked by WAF (8), Abusive HTTP requests (1) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-20T06:50:03Z |
 | Last seen (UTC) | 2026-11-20T06:50:03Z |
 | Reported to network owner (UTC) | 2026-11-20T08:26:45Z |

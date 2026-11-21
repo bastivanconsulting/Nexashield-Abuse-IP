@@ -7,8 +7,8 @@
 | IP | `108.46.229.102` |
 | Country | United States (US) |
 | ASN | AS701 · Verizon Business |
-| Activity | SSH brute force (10), Port scanning (2) |
-| Events | 12 |
+| Activity | SSH brute force (5), Port scanning (1) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-20T01:56:26Z |
 | Last seen (UTC) | 2026-11-20T01:56:52Z |
 | Reported to network owner (UTC) | 2026-11-20T02:26:24Z |

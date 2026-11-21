@@ -7,8 +7,8 @@
 | IP | `90.230.212.29` |
 | Country | Sweden (SE) |
 | ASN | AS3301 · Telia Company AB |
-| Activity | SSH brute force (14) |
-| Events | 14 |
+| Activity | SSH brute force (9) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-19T15:16:09Z |
 | Last seen (UTC) | 2026-11-20T20:42:28Z |
 | Reported to network owner (UTC) | 2026-11-20T20:30:18Z |

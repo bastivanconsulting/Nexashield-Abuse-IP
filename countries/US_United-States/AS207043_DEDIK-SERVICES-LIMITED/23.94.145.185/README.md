@@ -7,8 +7,8 @@
 | IP | `23.94.145.185` |
 | Country | United States (US) |
 | ASN | AS207043 · DEDIK SERVICES LIMITED |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-20T07:06:34Z |
 | Last seen (UTC) | 2026-11-20T07:06:34Z |
 | Reported to network owner (UTC) | 2026-11-20T08:26:50Z |

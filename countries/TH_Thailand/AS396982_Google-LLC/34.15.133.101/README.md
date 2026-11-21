@@ -7,8 +7,8 @@
 | IP | `34.15.133.101` |
 | Country | Thailand (TH) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (516), Web injection payload blocked by WAF (52) |
-| Events | 568 |
+| Activity | Abusive HTTP requests (258), Web injection payload blocked by WAF (26) |
+| Events | 284 |
 | First seen (UTC) | 2026-11-20T10:11:33Z |
 | Last seen (UTC) | 2026-11-20T10:12:29Z |
 | Reported to network owner (UTC) | 2026-11-20T12:26:26Z |

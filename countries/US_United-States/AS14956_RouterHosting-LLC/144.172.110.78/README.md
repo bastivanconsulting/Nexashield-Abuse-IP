@@ -7,8 +7,8 @@
 | IP | `144.172.110.78` |
 | Country | United States (US) |
 | ASN | AS14956 · RouterHosting LLC |
-| Activity | SSH brute force (10), Port scanning (4) |
-| Events | 14 |
+| Activity | SSH brute force (5), Port scanning (2) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-20T17:15:34Z |
 | Last seen (UTC) | 2026-11-20T17:15:44Z |
 | Reported to network owner (UTC) | 2026-11-20T20:30:14Z |

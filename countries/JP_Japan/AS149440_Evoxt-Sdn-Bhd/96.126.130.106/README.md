@@ -7,8 +7,8 @@
 | IP | `96.126.130.106` |
 | Country | Japan (JP) |
 | ASN | AS149440 · Evoxt Sdn. Bhd. |
-| Activity | Abusive HTTP requests (8) |
-| Events | 8 |
+| Activity | Abusive HTTP requests (6) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-10T19:28:29Z |
 | Last seen (UTC) | 2026-11-20T16:09:46Z |
 | Reported to network owner (UTC) | 2026-11-20T16:27:09Z |

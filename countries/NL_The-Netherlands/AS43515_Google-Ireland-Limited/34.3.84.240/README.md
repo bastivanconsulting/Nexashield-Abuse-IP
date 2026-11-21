@@ -7,8 +7,8 @@
 | IP | `34.3.84.240` |
 | Country | The Netherlands (NL) |
 | ASN | AS43515 · Google Ireland Limited |
-| Activity | SSH brute force (10) |
-| Events | 10 |
+| Activity | SSH brute force (5) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-20T03:33:25Z |
 | Last seen (UTC) | 2026-11-20T03:33:25Z |
 | Reported to network owner (UTC) | 2026-11-20T04:25:53Z |

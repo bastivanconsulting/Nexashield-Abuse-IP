@@ -7,8 +7,8 @@
 | IP | `2.57.121.112` |
 | Country | United Kingdom (GB) |
 | ASN | AS47890 · UNMANAGED LTD |
-| Activity | SSH brute force (822) |
-| Events | 822 |
+| Activity | SSH brute force (759) |
+| Events | 759 |
 | First seen (UTC) | 2026-11-09T16:45:47Z |
 | Last seen (UTC) | 2026-11-20T12:41:46Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:03Z |

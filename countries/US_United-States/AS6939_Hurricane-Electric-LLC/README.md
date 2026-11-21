@@ -1,6 +1,6 @@
 # AS6939 · Hurricane Electric LLC
 
-🇺🇸 United States · **50** malicious IP(s)
+🇺🇸 United States · **51** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -51,6 +51,7 @@
 | [`184.105.139.120`](184.105.139.120/) | Exploitation attempt (CVE / RCE / injection) (3) | 4 | 2026-11-13T02:28:17Z |
 | [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (2), SSH brute force (1) | 7 | 2026-11-19T01:38:34Z |
 | [`184.105.247.240`](184.105.247.240/) | Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-15T08:30:03Z |
+| [`184.105.247.254`](184.105.247.254/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 1 | 2026-11-21T00:29:46Z |
 | [`216.218.206.67`](216.218.206.67/) | Known botnet / C2 infrastructure (2), SSH brute force (1), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-20T06:27:31Z |
 | [`216.218.206.69`](216.218.206.69/) | SSH brute force (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-18T01:36:03Z |
 | [`216.218.206.95`](216.218.206.95/) | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (1) | 7 | 2026-11-20T07:10:03Z |

@@ -7,8 +7,8 @@
 | IP | `45.138.12.19` |
 | Country | Hong Kong (HK) |
 | ASN | AS218785 · TC DATACENTER LIMITED |
-| Activity | Spamhaus DROP-listed network (96), Abusive HTTP requests (22) |
-| Events | 118 |
+| Activity | Spamhaus DROP-listed network (83), Abusive HTTP requests (22) |
+| Events | 105 |
 | First seen (UTC) | 2026-11-14T20:38:26Z |
 | Last seen (UTC) | 2026-11-20T23:17:31Z |
 | Reported to network owner (UTC) | 2026-11-14T22:28:52Z |

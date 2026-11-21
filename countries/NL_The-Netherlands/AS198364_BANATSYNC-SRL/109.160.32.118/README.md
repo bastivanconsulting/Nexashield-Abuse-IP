@@ -7,8 +7,8 @@
 | IP | `109.160.32.118` |
 | Country | The Netherlands (NL) |
 | ASN | AS198364 · BANATSYNC SRL |
-| Activity | Port scanning (50), SSH brute force (23), Spamhaus DROP-listed network (2) |
-| Events | 75 |
+| Activity | Port scanning (50), SSH brute force (23), Spamhaus DROP-listed network (1) |
+| Events | 74 |
 | First seen (UTC) | 2026-11-09T23:32:54Z |
 | Last seen (UTC) | 2026-11-20T06:17:35Z |
 | Reported to network owner (UTC) | 2026-11-11T17:06:12Z |

@@ -5,10 +5,10 @@
   "asn": 201814,
   "asn_org": "MEVSPACE sp. z o.o.",
   "categories": {
-    "scan": 54,
+    "scan": 51,
     "web": 27
   },
-  "events": 81,
+  "events": 78,
   "first_seen": "2026-11-09T22:14:09Z",
   "last_seen": "2026-11-20T08:38:33Z",
   "reported": "2026-11-13T10:24:34Z"

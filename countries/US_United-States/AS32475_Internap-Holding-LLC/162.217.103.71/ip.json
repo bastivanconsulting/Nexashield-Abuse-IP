@@ -5,11 +5,11 @@
   "asn": 32475,
   "asn_org": "Internap Holding LLC",
   "categories": {
-    "scan": 220,
+    "scan": 223,
     "c2": 15
   },
-  "events": 244,
+  "events": 247,
   "first_seen": "2026-11-11T12:28:35Z",
-  "last_seen": "2026-11-20T20:34:11Z",
+  "last_seen": "2026-11-21T00:15:42Z",
   "reported": "not reported (permanent ban)"
 }

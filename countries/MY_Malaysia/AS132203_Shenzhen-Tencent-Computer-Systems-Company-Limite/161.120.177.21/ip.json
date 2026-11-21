@@ -1,0 +1,15 @@
+{
+  "ip": "161.120.177.21",
+  "country_code": "MY",
+  "country": "Malaysia",
+  "asn": 132203,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-13T13:02:46Z",
+  "last_seen": "2026-11-21T00:05:05Z",
+  "reported": "not reported (permanent ban)"
+}

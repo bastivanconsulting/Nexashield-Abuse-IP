@@ -5,9 +5,9 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-    "web": 48
+    "web": 24
   },
-  "events": 48,
+  "events": 24,
   "first_seen": "2026-11-20T07:58:26Z",
   "last_seen": "2026-11-20T08:02:36Z",
   "reported": "2026-11-20T08:26:54Z"

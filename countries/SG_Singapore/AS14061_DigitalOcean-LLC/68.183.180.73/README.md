@@ -7,8 +7,8 @@
 | IP | `68.183.180.73` |
 | Country | Singapore (SG) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (12) |
-| Events | 12 |
+| Activity | Abusive HTTP requests (6) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-20T00:29:14Z |
 | Last seen (UTC) | 2026-11-20T00:29:30Z |
 | Reported to network owner (UTC) | 2026-11-20T02:26:28Z |
