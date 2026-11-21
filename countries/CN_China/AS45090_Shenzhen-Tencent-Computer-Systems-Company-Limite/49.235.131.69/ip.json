@@ -5,11 +5,11 @@
   "asn": 45090,
   "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
   "categories": {
-    "scan": 3,
-    "c2": 3
+    "scan": 4,
+    "c2": 4
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-12T14:33:10Z",
-  "last_seen": "2026-11-20T00:36:04Z",
+  "last_seen": "2026-11-21T06:48:57Z",
   "reported": "not reported (permanent ban)"
 }

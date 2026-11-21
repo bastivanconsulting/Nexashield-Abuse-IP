@@ -7,10 +7,10 @@
 | IP | `31.57.37.175` |
 | Country | Slovenia (SI) |
 | ASN | AS197769 · VPS Dedicated LLC |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (4) |
-| Events | 27 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (4) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-20T04:24:27Z |
-| Last seen (UTC) | 2026-11-21T05:40:15Z |
+| Last seen (UTC) | 2026-11-21T06:30:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

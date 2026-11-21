@@ -1,0 +1,15 @@
+{
+  "ip": "177.19.145.25",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 18881,
+  "asn_org": "TELEF\u00d4NICA BRASIL S.A",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-16T21:55:55Z",
+  "last_seen": "2026-11-21T07:06:04Z",
+  "reported": "not reported (permanent ban)"
+}

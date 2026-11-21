@@ -7,10 +7,10 @@
 | IP | `101.36.107.243` |
 | Country | Hong Kong (HK) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (31) |
-| Events | 31 |
+| Activity | Port scanning (32) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-13T19:19:51Z |
-| Last seen (UTC) | 2026-11-20T12:58:09Z |
+| Last seen (UTC) | 2026-11-21T06:32:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

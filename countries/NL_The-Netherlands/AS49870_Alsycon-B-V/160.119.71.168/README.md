@@ -7,10 +7,10 @@
 | IP | `160.119.71.168` |
 | Country | The Netherlands (NL) |
 | ASN | AS49870 · Alsycon B.V. |
-| Activity | Port scanning (96), Known botnet / C2 infrastructure (9) |
-| Events | 121 |
+| Activity | Port scanning (97), Known botnet / C2 infrastructure (10) |
+| Events | 123 |
 | First seen (UTC) | 2026-11-11T09:50:20Z |
-| Last seen (UTC) | 2026-11-21T05:00:31Z |
+| Last seen (UTC) | 2026-11-21T06:49:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

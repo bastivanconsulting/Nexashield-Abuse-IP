@@ -1,0 +1,15 @@
+{
+  "ip": "101.36.97.80",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 6,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-12T22:08:19Z",
+  "last_seen": "2026-11-21T07:01:05Z",
+  "reported": "not reported (permanent ban)"
+}

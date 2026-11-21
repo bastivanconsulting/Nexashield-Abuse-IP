@@ -6,10 +6,10 @@
   "asn_org": "NSEC - Sistemas Informaticos, S.A.",
   "categories": {
     "scan": 1,
-    "c2": 1
+    "c2": 2
   },
-  "events": 2,
+  "events": 4,
   "first_seen": "2026-11-20T06:25:07Z",
-  "last_seen": "2026-11-20T06:25:29Z",
+  "last_seen": "2026-11-21T06:18:21Z",
   "reported": "not reported (permanent ban)"
 }
