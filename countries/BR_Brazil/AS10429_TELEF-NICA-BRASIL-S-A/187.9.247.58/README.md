@@ -7,10 +7,10 @@
 | IP | `187.9.247.58` |
 | Country | Brazil (BR) |
 | ASN | AS10429 · TELEFÔNICA BRASIL S.A |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-18T09:21:41Z |
-| Last seen (UTC) | 2026-11-20T03:38:04Z |
+| Last seen (UTC) | 2026-11-21T06:10:42Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,11 +5,11 @@
   "asn": 28209,
   "asn_org": "Under Servicos de Internet Ltda",
   "categories": {
-    "scan": 36,
-    "c2": 18
+    "scan": 37,
+    "c2": 19
   },
-  "events": 55,
+  "events": 57,
   "first_seen": "2026-11-11T10:10:45Z",
-  "last_seen": "2026-11-20T22:26:32Z",
+  "last_seen": "2026-11-21T05:54:53Z",
   "reported": "not reported (permanent ban)"
 }

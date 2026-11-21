@@ -5,10 +5,10 @@
   "asn": 31727,
   "asn_org": "Node4 Limited",
   "categories": {
-    "scan": 32
+    "scan": 35
   },
-  "events": 39,
+  "events": 43,
   "first_seen": "2026-11-18T04:44:27Z",
-  "last_seen": "2026-11-21T05:02:08Z",
+  "last_seen": "2026-11-21T06:13:34Z",
   "reported": "not reported (permanent ban)"
 }

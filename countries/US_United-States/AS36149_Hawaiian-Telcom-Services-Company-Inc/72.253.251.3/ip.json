@@ -1,0 +1,15 @@
+{
+  "ip": "72.253.251.3",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 36149,
+  "asn_org": "Hawaiian Telcom Services Company, Inc.",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-13T10:12:23Z",
+  "last_seen": "2026-11-21T06:08:03Z",
+  "reported": "not reported (permanent ban)"
+}
