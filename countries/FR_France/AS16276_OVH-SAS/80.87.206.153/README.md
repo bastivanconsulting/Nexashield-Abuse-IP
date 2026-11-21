@@ -7,10 +7,10 @@
 | IP | `80.87.206.153` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (5), Web injection payload blocked by WAF (2), Abusive HTTP requests (2) |
-| Events | 16 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (2), Abusive HTTP requests (2) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-11T23:45:44Z |
-| Last seen (UTC) | 2026-11-20T20:25:10Z |
+| Last seen (UTC) | 2026-11-21T00:55:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

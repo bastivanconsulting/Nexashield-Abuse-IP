@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS207812](AS207812_DM-AUTO-EOOD/) | DM AUTO EOOD | 6 | Port scanning (653), Known botnet / C2 infrastructure (15) |
-| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 3 | Abusive HTTP requests (825), Known botnet / C2 infrastructure (13), Port scanning (12) |
+| [AS207812](AS207812_DM-AUTO-EOOD/) | DM AUTO EOOD | 6 | Port scanning (655), Known botnet / C2 infrastructure (15) |
+| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 3 | Abusive HTTP requests (825), Port scanning (15), Known botnet / C2 infrastructure (14) |
 | [AS209101](AS209101_IP-Vendetta-Inc/) | IP Vendetta Inc. | 1 | Port scanning (11) |
 
 ---

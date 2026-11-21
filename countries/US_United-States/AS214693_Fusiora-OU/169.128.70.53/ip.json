@@ -1,0 +1,14 @@
+{
+  "ip": "169.128.70.53",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 214693,
+  "asn_org": "Fusiora OU",
+  "categories": {
+    "c2": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-21T00:35:38Z",
+  "last_seen": "2026-11-21T00:37:04Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "8.216.4.82",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 45102,
+  "asn_org": "Alibaba (US) Technology Co., Ltd.",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-16T14:12:33Z",
+  "last_seen": "2026-11-21T01:16:04Z",
+  "reported": "not reported (permanent ban)"
+}

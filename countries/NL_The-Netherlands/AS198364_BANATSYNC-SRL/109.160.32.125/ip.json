@@ -6,11 +6,11 @@
   "asn_org": "BANATSYNC SRL",
   "categories": {
     "spamhaus": 4,
-    "scan": 69,
+    "scan": 103,
     "ssh": 7
   },
-  "events": 80,
+  "events": 114,
   "first_seen": "2026-11-11T11:36:45Z",
-  "last_seen": "2026-11-21T00:33:58Z",
+  "last_seen": "2026-11-21T01:08:02Z",
   "reported": "2026-11-17T10:25:46Z"
 }

@@ -12,12 +12,12 @@
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
 | [AS212913](AS212913_TIME-HOST-LTD/) | TIME-HOST LTD | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
 | [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| [AS25513](AS25513_PJSC-Moscow-city-telephone-network/) | PJSC Moscow city telephone network | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| [AS25513](AS25513_PJSC-Moscow-city-telephone-network/) | PJSC Moscow city telephone network | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
 | [AS28890](AS28890_INSYS-LLC/) | INSYS LLC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (296), Known botnet / C2 infrastructure (31), Exploitation attempt (CVE / RCE / injection) (8) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (300), Known botnet / C2 infrastructure (31), Exploitation attempt (CVE / RCE / injection) (8) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 1 | Port scanning (3), Known botnet / C2 infrastructure (2) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8402](AS8402_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | Port scanning (14), Known botnet / C2 infrastructure (9) |

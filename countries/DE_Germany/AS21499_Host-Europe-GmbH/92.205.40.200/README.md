@@ -7,10 +7,10 @@
 | IP | `92.205.40.200` |
 | Country | Germany (DE) |
 | ASN | AS21499 · Host Europe GmbH |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (6) |
-| Events | 17 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (7) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-14T17:19:36Z |
-| Last seen (UTC) | 2026-11-20T11:50:21Z |
+| Last seen (UTC) | 2026-11-21T01:05:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

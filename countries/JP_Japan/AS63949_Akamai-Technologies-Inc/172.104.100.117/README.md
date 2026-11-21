@@ -7,10 +7,10 @@
 | IP | `172.104.100.117` |
 | Country | Japan (JP) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (28) |
-| Events | 31 |
+| Activity | Port scanning (29) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-11T13:30:54Z |
-| Last seen (UTC) | 2026-11-20T06:49:51Z |
+| Last seen (UTC) | 2026-11-21T00:49:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
