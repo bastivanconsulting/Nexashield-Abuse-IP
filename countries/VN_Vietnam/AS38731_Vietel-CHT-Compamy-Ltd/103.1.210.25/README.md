@@ -7,10 +7,10 @@
 | IP | `103.1.210.25` |
 | Country | Vietnam (VN) |
 | ASN | AS38731 · Vietel - CHT Compamy Ltd |
-| Activity | Port scanning (173) |
-| Events | 205 |
+| Activity | Port scanning (174) |
+| Events | 206 |
 | First seen (UTC) | 2026-11-11T09:45:56Z |
-| Last seen (UTC) | 2026-11-21T06:20:13Z |
+| Last seen (UTC) | 2026-11-21T09:13:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

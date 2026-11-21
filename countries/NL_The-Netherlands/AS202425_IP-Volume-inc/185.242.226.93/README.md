@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
 | Activity | Port scanning (9) |
-| Events | 10 |
+| Events | 11 |
 | First seen (UTC) | 2026-11-13T20:12:17Z |
-| Last seen (UTC) | 2026-11-21T04:53:01Z |
+| Last seen (UTC) | 2026-11-21T08:18:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

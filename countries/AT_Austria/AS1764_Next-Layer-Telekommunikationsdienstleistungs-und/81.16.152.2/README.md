@@ -7,10 +7,10 @@
 | IP | `81.16.152.2` |
 | Country | Austria (AT) |
 | ASN | AS1764 · Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH |
-| Activity | Port scanning (1412) |
-| Events | 1414 |
+| Activity | Port scanning (1421) |
+| Events | 1423 |
 | First seen (UTC) | 2026-11-11T22:31:06Z |
-| Last seen (UTC) | 2026-11-21T08:15:41Z |
+| Last seen (UTC) | 2026-11-21T09:15:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

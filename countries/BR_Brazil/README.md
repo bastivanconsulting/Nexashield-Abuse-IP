@@ -4,10 +4,10 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (996), Known botnet / C2 infrastructure (89), Exploitation attempt (CVE / RCE / injection) (48) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1001), Known botnet / C2 infrastructure (89), Exploitation attempt (CVE / RCE / injection) (48) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (66), Known botnet / C2 infrastructure (18) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | SSH brute force (23), Known botnet / C2 infrastructure (17), Port scanning (2) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (338), SSH brute force (9), Known botnet / C2 infrastructure (9) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 4 | Port scanning (342), SSH brute force (9), Known botnet / C2 infrastructure (9) |
 | [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 3 | SSH brute force (16), Known botnet / C2 infrastructure (11), Port scanning (3) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS7738](AS7738_V-tal/) | V tal | 2 | SSH brute force (9), Known botnet / C2 infrastructure (6) |

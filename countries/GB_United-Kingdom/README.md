@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 706 | Port scanning (14709), Known botnet / C2 infrastructure (3406), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 706 | Port scanning (14774), Known botnet / C2 infrastructure (3427), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 202 | Port scanning (3796), Abusive HTTP requests (1206), Known botnet / C2 infrastructure (853), Web injection payload blocked by WAF (40) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 26 | Port scanning (357), Known botnet / C2 infrastructure (221) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (378), Abusive HTTP requests (82), Known botnet / C2 infrastructure (65), Exploitation attempt (CVE / RCE / injection) (17) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1188), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1211), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 4 | SSH brute force (2275), Spamhaus DROP-listed network (109), Port scanning (14), Known botnet / C2 infrastructure (1) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (59), Known botnet / C2 infrastructure (20) |

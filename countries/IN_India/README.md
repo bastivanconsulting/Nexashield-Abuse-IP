@@ -1,15 +1,16 @@
 # 🇮🇳 India
 
-**22** malicious IP(s) across **12** network(s).
+**23** malicious IP(s) across **13** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (138), Known botnet / C2 infrastructure (49) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (140), Known botnet / C2 infrastructure (51) |
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 3 | Port scanning (29), Known botnet / C2 infrastructure (11), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (2) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | Port scanning (16), Known botnet / C2 infrastructure (10) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
+| [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 1 | Port scanning (12) |

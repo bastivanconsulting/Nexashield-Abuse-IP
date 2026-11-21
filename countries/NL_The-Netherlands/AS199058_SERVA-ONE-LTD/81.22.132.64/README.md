@@ -7,10 +7,10 @@
 | IP | `81.22.132.64` |
 | Country | The Netherlands (NL) |
 | ASN | AS199058 · SERVA ONE LTD |
-| Activity | Port scanning (18), Known botnet / C2 infrastructure (3) |
-| Events | 26 |
+| Activity | Port scanning (31), Known botnet / C2 infrastructure (4) |
+| Events | 41 |
 | First seen (UTC) | 2026-11-11T11:02:52Z |
-| Last seen (UTC) | 2026-11-16T12:20:55Z |
+| Last seen (UTC) | 2026-11-21T09:17:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

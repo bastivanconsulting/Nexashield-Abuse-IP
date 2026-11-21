@@ -7,10 +7,10 @@
 | IP | `97.107.141.150` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (55) |
-| Events | 77 |
+| Activity | Port scanning (56) |
+| Events | 79 |
 | First seen (UTC) | 2026-11-12T03:01:49Z |
-| Last seen (UTC) | 2026-11-21T02:06:11Z |
+| Last seen (UTC) | 2026-11-21T08:33:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
