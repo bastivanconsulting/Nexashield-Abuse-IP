@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`51.15.51.245`](51.15.51.245/) | Web injection payload blocked by WAF (16), Abusive HTTP requests (6) | 22 | 2026-11-11T14:13:13Z |
 | [`51.158.145.37`](51.158.145.37/) | Port scanning (26) | 35 | 2026-11-19T19:39:26Z |
-| [`51.158.205.203`](51.158.205.203/) | Port scanning (211), Known botnet / C2 infrastructure (33) | 246 | 2026-11-21T07:01:41Z |
+| [`51.158.205.203`](51.158.205.203/) | Port scanning (212), Known botnet / C2 infrastructure (33) | 247 | 2026-11-21T08:13:46Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

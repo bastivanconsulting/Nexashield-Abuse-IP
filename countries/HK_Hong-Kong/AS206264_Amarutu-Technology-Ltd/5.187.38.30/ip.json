@@ -5,12 +5,12 @@
   "asn": 206264,
   "asn_org": "Amarutu Technology Ltd",
   "categories": {
-    "scan": 700,
+    "scan": 703,
     "web": 50,
     "c2": 5
   },
-  "events": 859,
+  "events": 862,
   "first_seen": "2026-11-11T09:40:03Z",
-  "last_seen": "2026-11-21T07:09:12Z",
+  "last_seen": "2026-11-21T08:13:16Z",
   "reported": "not reported (permanent ban)"
 }

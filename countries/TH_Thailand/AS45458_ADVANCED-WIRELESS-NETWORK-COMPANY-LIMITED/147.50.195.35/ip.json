@@ -5,11 +5,11 @@
   "asn": 45458,
   "asn_org": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
   "categories": {
-    "scan": 12,
-    "c2": 4
+    "scan": 13,
+    "c2": 5
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-12T11:58:46Z",
-  "last_seen": "2026-11-21T01:52:53Z",
+  "last_seen": "2026-11-21T08:10:33Z",
   "reported": "not reported (permanent ban)"
 }

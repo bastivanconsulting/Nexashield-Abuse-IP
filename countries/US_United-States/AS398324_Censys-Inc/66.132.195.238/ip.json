@@ -1,0 +1,15 @@
+{
+  "ip": "66.132.195.238",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 398324,
+  "asn_org": "Censys, Inc.",
+  "categories": {
+    "web": 1,
+    "c2": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-21T00:15:59Z",
+  "last_seen": "2026-11-21T00:16:16Z",
+  "reported": "not reported (permanent ban)"
+}

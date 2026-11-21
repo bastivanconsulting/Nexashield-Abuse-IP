@@ -1,0 +1,16 @@
+{
+  "ip": "212.129.34.236",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 12876,
+  "asn_org": "Scaleway SAS",
+  "categories": {
+    "web": 1,
+    "scan": 4,
+    "c2": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-19T14:00:07Z",
+  "last_seen": "2026-11-21T00:22:53Z",
+  "reported": "not reported (permanent ban)"
+}

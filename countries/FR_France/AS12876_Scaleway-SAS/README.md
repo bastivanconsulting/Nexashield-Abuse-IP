@@ -1,6 +1,6 @@
 # AS12876 · Scaleway SAS
 
-🇫🇷 France · **7** malicious IP(s)
+🇫🇷 France · **8** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [`62.210.217.157`](62.210.217.157/) | Port scanning (26) | 38 | 2026-11-15T01:27:59Z |
 | [`78.232.4.86`](78.232.4.86/) | Web injection payload blocked by WAF (8), Abusive HTTP requests (3) | 11 | 2026-11-12T06:42:55Z |
 | [`163.172.53.219`](163.172.53.219/) | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (4) | 13 | 2026-11-20T01:22:01Z |
+| [`212.129.34.236`](212.129.34.236/) | Port scanning (4), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) | 9 | 2026-11-21T00:22:53Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

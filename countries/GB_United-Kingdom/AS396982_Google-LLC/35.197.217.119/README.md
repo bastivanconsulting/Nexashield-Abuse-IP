@@ -7,11 +7,11 @@
 | IP | `35.197.217.119` |
 | Country | United Kingdom (GB) |
 | ASN | AS396982 · Google LLC |
-| Activity | Web injection payload blocked by WAF (487) |
-| Events | 490 |
+| Activity | Abusive HTTP requests (938), Web injection payload blocked by WAF (40) |
+| Events | 978 |
 | First seen (UTC) | 2026-11-21T07:12:35Z |
-| Last seen (UTC) | 2026-11-21T07:14:04Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-21T07:13:21Z |
+| Reported to network owner (UTC) | 2026-11-21T08:27:06Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

@@ -1,0 +1,14 @@
+{
+  "ip": "104.238.110.208",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 398101,
+  "asn_org": "GoDaddy.com, LLC",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-21T07:42:26Z",
+  "last_seen": "2026-11-21T07:42:26Z",
+  "reported": "2026-11-21T08:27:11Z"
+}

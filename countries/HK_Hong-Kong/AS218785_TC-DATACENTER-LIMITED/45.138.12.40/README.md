@@ -7,10 +7,10 @@
 | IP | `45.138.12.40` |
 | Country | Hong Kong (HK) |
 | ASN | AS218785 · TC DATACENTER LIMITED |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (6) |
-| Events | 16 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (7) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-12T12:38:13Z |
-| Last seen (UTC) | 2026-11-15T06:29:44Z |
+| Last seen (UTC) | 2026-11-21T07:53:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
