@@ -51,6 +51,7 @@
 
 > [!TIP]
 > **Une seule URL pour tous vos pare-feu**, rafraîchie automatiquement :
+> **Toutes les PR / MR de mise à jour des listes sont ouvertes automatiquement par NexaShield (SOC) — aucune contribution manuelle sur `lists/`, `bans/`, `countries/`, `analysis/`.**
 > `https://raw.githubusercontent.com/bastivanconsulting/Nexashield-Abuse-IP/main/lists/plain/all.txt`
 
 ## 💡 Pourquoi nous la publions
