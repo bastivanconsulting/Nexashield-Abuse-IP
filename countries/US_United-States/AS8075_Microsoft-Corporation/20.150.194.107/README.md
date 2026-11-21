@@ -7,10 +7,10 @@
 | IP | `20.150.194.107` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (11) |
-| Events | 20 |
+| Activity | Port scanning (12) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-12T07:53:30Z |
-| Last seen (UTC) | 2026-11-20T05:23:29Z |
+| Last seen (UTC) | 2026-11-21T02:33:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -34,9 +34,9 @@
 | [`77.239.124.112`](77.239.124.112/) | Port scanning (73), Known botnet / C2 infrastructure (11) | 87 | 2026-11-20T19:32:17Z |
 | [`77.239.124.115`](77.239.124.115/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-12T14:09:20Z |
 | [`77.239.124.121`](77.239.124.121/) | Port scanning (130), Known botnet / C2 infrastructure (20) | 152 | 2026-11-20T19:02:19Z |
-| [`77.239.124.130`](77.239.124.130/) | Port scanning (367), Known botnet / C2 infrastructure (33) | 424 | 2026-11-21T01:55:13Z |
+| [`77.239.124.130`](77.239.124.130/) | Port scanning (371), Known botnet / C2 infrastructure (33) | 429 | 2026-11-21T02:36:14Z |
 | [`77.239.124.132`](77.239.124.132/) | Port scanning (52), Known botnet / C2 infrastructure (8) | 62 | 2026-11-20T19:38:56Z |
-| [`77.239.124.135`](77.239.124.135/) | Port scanning (203), Known botnet / C2 infrastructure (28) | 235 | 2026-11-21T01:18:38Z |
+| [`77.239.124.135`](77.239.124.135/) | Port scanning (204), Known botnet / C2 infrastructure (29) | 237 | 2026-11-21T02:58:31Z |
 | [`77.239.124.136`](77.239.124.136/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 5 | 2026-11-20T08:34:58Z |
 | [`77.239.124.137`](77.239.124.137/) | Port scanning (63) | 71 | 2026-11-13T09:37:26Z |
 | [`77.239.124.138`](77.239.124.138/) | Port scanning (5) | 7 | 2026-11-19T12:36:49Z |
@@ -61,7 +61,7 @@
 | [`77.239.124.175`](77.239.124.175/) | Port scanning (49), Known botnet / C2 infrastructure (3) | 55 | 2026-11-14T21:56:54Z |
 | [`77.239.124.177`](77.239.124.177/) | Port scanning (122), Known botnet / C2 infrastructure (15) | 138 | 2026-11-17T13:14:07Z |
 | [`77.239.124.178`](77.239.124.178/) | Port scanning (12), Known botnet / C2 infrastructure (3) | 15 | 2026-11-15T22:24:26Z |
-| [`77.239.124.252`](77.239.124.252/) | Port scanning (671), Known botnet / C2 infrastructure (16) | 746 | 2026-11-21T02:10:56Z |
+| [`77.239.124.252`](77.239.124.252/) | Port scanning (688), Known botnet / C2 infrastructure (16) | 764 | 2026-11-21T03:16:20Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

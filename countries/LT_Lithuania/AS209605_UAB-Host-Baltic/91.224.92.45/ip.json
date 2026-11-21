@@ -5,10 +5,10 @@
   "asn": 209605,
   "asn_org": "UAB Host Baltic",
   "categories": {
-    "spamhaus": 679
+    "spamhaus": 687
   },
-  "events": 679,
+  "events": 687,
   "first_seen": "2026-11-11T10:23:09Z",
-  "last_seen": "2026-11-21T02:28:49Z",
+  "last_seen": "2026-11-21T03:33:09Z",
   "reported": "2026-11-11T16:35:12Z"
 }

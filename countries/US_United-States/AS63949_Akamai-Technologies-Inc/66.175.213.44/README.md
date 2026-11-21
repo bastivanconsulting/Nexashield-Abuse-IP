@@ -7,10 +7,10 @@
 | IP | `66.175.213.44` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Web injection payload blocked by WAF (18), Port scanning (1), Known botnet / C2 infrastructure (1) |
-| Events | 21 |
+| Activity | Web injection payload blocked by WAF (18), Port scanning (2), Known botnet / C2 infrastructure (2) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-16T11:49:46Z |
-| Last seen (UTC) | 2026-11-19T22:53:36Z |
+| Last seen (UTC) | 2026-11-21T03:05:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
