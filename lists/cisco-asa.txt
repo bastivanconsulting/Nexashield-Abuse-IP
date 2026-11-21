@@ -3555,7 +3555,6 @@ object-group network NEXASHIELD-ABUSE
  network-object host 82.147.85.101
  network-object host 82.147.85.103
  network-object host 82.157.7.182
- network-object host 82.231.232.76
  network-object host 83.209.248.110
  network-object host 83.226.6.231
  network-object host 83.255.208.30

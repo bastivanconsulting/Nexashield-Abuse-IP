@@ -97869,19 +97869,5 @@
   "first_seen": "2026-11-17T04:07:25Z",
   "last_seen": "2026-11-19T04:19:03Z",
   "reported": "not reported (permanent ban)"
- },
- {
-  "ip": "82.231.232.76",
-  "country_code": "FR",
-  "country": "France",
-  "asn": 12322,
-  "asn_org": "Free SAS",
-  "categories": {
-   "scan": 110
-  },
-  "events": 110,
-  "first_seen": "2026-11-20T10:24:00Z",
-  "last_seen": "2026-11-21T02:50:00Z",
-  "reported": "not reported (permanent ban)"
  }
 ]

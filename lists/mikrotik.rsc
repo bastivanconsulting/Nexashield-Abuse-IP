@@ -3555,7 +3555,6 @@
 /ip firewall address-list add list=nexashield-abuse address=82.147.85.101 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=82.147.85.103 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=82.157.7.182 comment="NexaShield"
-/ip firewall address-list add list=nexashield-abuse address=82.231.232.76 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=83.209.248.110 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=83.226.6.231 comment="NexaShield"
 /ip firewall address-list add list=nexashield-abuse address=83.255.208.30 comment="NexaShield"
