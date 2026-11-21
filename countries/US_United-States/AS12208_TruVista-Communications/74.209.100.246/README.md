@@ -1,0 +1,19 @@
+# `74.209.100.246`
+
+🇺🇸 **United States** · AS12208 TruVista Communications
+
+| Field | Value |
+|---|---|
+| IP | `74.209.100.246` |
+| Country | United States (US) |
+| ASN | AS12208 · TruVista Communications |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (2) |
+| Events | 9 |
+| First seen (UTC) | 2026-11-20T09:13:28Z |
+| Last seen (UTC) | 2026-11-21T10:58:04Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `95.182.81.180` |
 | Country | France (FR) |
 | ASN | AS211273 · Cloud Software - FZCO |
-| Activity | Port scanning (16), Known botnet / C2 infrastructure (1) |
-| Events | 20 |
+| Activity | Port scanning (26), Known botnet / C2 infrastructure (1) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-11T10:13:54Z |
-| Last seen (UTC) | 2026-11-21T09:33:20Z |
+| Last seen (UTC) | 2026-11-21T11:00:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

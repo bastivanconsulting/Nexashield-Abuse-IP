@@ -1,0 +1,16 @@
+{
+  "ip": "74.209.100.246",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 12208,
+  "asn_org": "TruVista Communications",
+  "categories": {
+    "scan": 3,
+    "ssh": 2,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-20T09:13:28Z",
+  "last_seen": "2026-11-21T10:58:04Z",
+  "reported": "not reported (permanent ban)"
+}

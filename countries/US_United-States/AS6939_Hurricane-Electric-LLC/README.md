@@ -10,7 +10,7 @@
 | [`65.49.20.70`](65.49.20.70/) | Port scanning (19), Known botnet / C2 infrastructure (9) | 29 | 2026-11-20T07:38:11Z |
 | [`65.49.20.72`](65.49.20.72/) | Port scanning (20), Known botnet / C2 infrastructure (12) | 33 | 2026-11-21T09:03:44Z |
 | [`65.49.20.75`](65.49.20.75/) | Port scanning (30), Known botnet / C2 infrastructure (17) | 48 | 2026-11-21T07:50:09Z |
-| [`65.49.20.78`](65.49.20.78/) | Port scanning (21), Known botnet / C2 infrastructure (13) | 35 | 2026-11-21T01:44:14Z |
+| [`65.49.20.78`](65.49.20.78/) | Port scanning (22), Known botnet / C2 infrastructure (14) | 37 | 2026-11-21T10:24:08Z |
 | [`65.49.20.80`](65.49.20.80/) | Port scanning (27), Known botnet / C2 infrastructure (13) | 41 | 2026-11-21T06:57:07Z |
 | [`65.49.20.81`](65.49.20.81/) | Port scanning (22), Known botnet / C2 infrastructure (13) | 36 | 2026-11-21T07:03:12Z |
 | [`65.49.20.82`](65.49.20.82/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-12T05:25:02Z |
@@ -19,7 +19,7 @@
 | [`65.49.20.89`](65.49.20.89/) | Port scanning (20), Known botnet / C2 infrastructure (13) | 34 | 2026-11-20T03:26:04Z |
 | [`65.49.20.93`](65.49.20.93/) | Port scanning (7), Known botnet / C2 infrastructure (1) | 9 | 2026-11-17T08:18:04Z |
 | [`65.49.20.98`](65.49.20.98/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-21T04:21:00Z |
-| [`65.49.20.99`](65.49.20.99/) | Port scanning (25), Known botnet / C2 infrastructure (15) | 41 | 2026-11-21T04:34:50Z |
+| [`65.49.20.99`](65.49.20.99/) | Port scanning (26), Known botnet / C2 infrastructure (16) | 43 | 2026-11-21T10:26:10Z |
 | [`65.49.20.102`](65.49.20.102/) | Known botnet / C2 infrastructure (2), Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-14T02:18:54Z |
 | [`65.49.20.103`](65.49.20.103/) | Port scanning (19), Known botnet / C2 infrastructure (12) | 32 | 2026-11-21T09:39:46Z |
 | [`65.49.20.106`](65.49.20.106/) | Known botnet / C2 infrastructure (2), Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-17T01:32:20Z |

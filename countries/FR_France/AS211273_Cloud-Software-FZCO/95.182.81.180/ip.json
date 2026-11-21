@@ -5,11 +5,11 @@
   "asn": 211273,
   "asn_org": "Cloud Software - FZCO",
   "categories": {
-    "scan": 16,
+    "scan": 26,
     "c2": 1
   },
-  "events": 20,
+  "events": 31,
   "first_seen": "2026-11-11T10:13:54Z",
-  "last_seen": "2026-11-21T09:33:20Z",
+  "last_seen": "2026-11-21T11:00:45Z",
   "reported": "not reported (permanent ban)"
 }

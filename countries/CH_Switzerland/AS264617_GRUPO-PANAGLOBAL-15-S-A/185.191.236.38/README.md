@@ -7,10 +7,10 @@
 | IP | `185.191.236.38` |
 | Country | Switzerland (CH) |
 | ASN | AS264617 · GRUPO PANAGLOBAL 15 S.A |
-| Activity | Known botnet / C2 infrastructure (6), Port scanning (5), Abusive HTTP requests (4) |
-| Events | 16 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (6), Abusive HTTP requests (4) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-11T00:07:04Z |
-| Last seen (UTC) | 2026-11-20T19:55:08Z |
+| Last seen (UTC) | 2026-11-21T11:11:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

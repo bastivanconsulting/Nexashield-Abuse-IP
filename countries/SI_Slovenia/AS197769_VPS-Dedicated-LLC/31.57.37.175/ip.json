@@ -5,11 +5,11 @@
   "asn": 197769,
   "asn_org": "VPS Dedicated LLC",
   "categories": {
-    "scan": 28,
-    "c2": 4
+    "scan": 29,
+    "c2": 5
   },
-  "events": 33,
+  "events": 35,
   "first_seen": "2026-11-20T04:24:27Z",
-  "last_seen": "2026-11-21T09:41:07Z",
+  "last_seen": "2026-11-21T10:41:58Z",
   "reported": "not reported (permanent ban)"
 }

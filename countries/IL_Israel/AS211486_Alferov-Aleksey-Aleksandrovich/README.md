@@ -4,12 +4,12 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`77.91.71.11`](77.91.71.11/) | Port scanning (116) | 131 | 2026-11-15T13:47:04Z |
+| [`77.91.71.11`](77.91.71.11/) | Port scanning (117) | 132 | 2026-11-21T10:44:40Z |
 | [`77.91.71.23`](77.91.71.23/) | Port scanning (24), Known botnet / C2 infrastructure (4) | 28 | 2026-11-16T22:21:50Z |
 | [`77.91.71.24`](77.91.71.24/) | Port scanning (30), Known botnet / C2 infrastructure (4) | 38 | 2026-11-15T00:52:20Z |
 | [`77.91.71.25`](77.91.71.25/) | Port scanning (36), Known botnet / C2 infrastructure (3) | 43 | 2026-11-14T14:07:46Z |
 | [`77.91.71.27`](77.91.71.27/) | Port scanning (231) | 267 | 2026-11-15T00:02:55Z |
-| [`77.91.71.57`](77.91.71.57/) | Port scanning (49), Known botnet / C2 infrastructure (4) | 61 | 2026-11-21T09:07:14Z |
+| [`77.91.71.57`](77.91.71.57/) | Port scanning (50), Known botnet / C2 infrastructure (4) | 62 | 2026-11-21T10:53:49Z |
 | [`77.91.71.90`](77.91.71.90/) | Port scanning (28), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (2) | 35 | 2026-11-14T22:41:37Z |
 | [`77.91.71.91`](77.91.71.91/) | Port scanning (41), Known botnet / C2 infrastructure (4) | 47 | 2026-11-15T00:52:37Z |
 

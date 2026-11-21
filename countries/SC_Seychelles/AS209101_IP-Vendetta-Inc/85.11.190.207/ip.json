@@ -5,11 +5,11 @@
   "asn": 209101,
   "asn_org": "IP Vendetta Inc.",
   "categories": {
-    "scan": 14,
+    "scan": 21,
     "c2": 1
   },
-  "events": 18,
+  "events": 26,
   "first_seen": "2026-11-11T10:07:35Z",
-  "last_seen": "2026-11-21T10:16:41Z",
+  "last_seen": "2026-11-21T10:31:50Z",
   "reported": "not reported (permanent ban)"
 }

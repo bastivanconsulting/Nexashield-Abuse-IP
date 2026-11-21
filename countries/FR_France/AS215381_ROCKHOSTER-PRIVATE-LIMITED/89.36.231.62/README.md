@@ -7,10 +7,10 @@
 | IP | `89.36.231.62` |
 | Country | France (FR) |
 | ASN | AS215381 · ROCKHOSTER PRIVATE LIMITED |
-| Activity | Port scanning (32), Known botnet / C2 infrastructure (3) |
-| Events | 41 |
+| Activity | Port scanning (36), Known botnet / C2 infrastructure (3) |
+| Events | 46 |
 | First seen (UTC) | 2026-11-11T10:15:36Z |
-| Last seen (UTC) | 2026-11-21T10:04:13Z |
+| Last seen (UTC) | 2026-11-21T10:22:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

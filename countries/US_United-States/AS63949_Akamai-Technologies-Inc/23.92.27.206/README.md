@@ -7,10 +7,10 @@
 | IP | `23.92.27.206` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (54) |
-| Events | 80 |
+| Activity | Port scanning (55) |
+| Events | 81 |
 | First seen (UTC) | 2026-11-11T12:05:37Z |
-| Last seen (UTC) | 2026-11-21T09:34:40Z |
+| Last seen (UTC) | 2026-11-21T10:59:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `193.47.62.108` |
 | Country | Andorra (AD) |
 | ASN | AS216014 · BestDC Limited |
-| Activity | Web injection payload blocked by WAF (8), Port scanning (4), Known botnet / C2 infrastructure (3) |
-| Events | 16 |
+| Activity | Web injection payload blocked by WAF (8), Port scanning (5), Known botnet / C2 infrastructure (3) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-20T15:24:48Z |
-| Last seen (UTC) | 2026-11-21T09:35:10Z |
+| Last seen (UTC) | 2026-11-21T10:42:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

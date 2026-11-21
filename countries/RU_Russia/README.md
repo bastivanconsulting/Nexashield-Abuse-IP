@@ -7,8 +7,8 @@
 | [AS211860](AS211860_Nerushenko-Vyacheslav-Nikolaevich/) | Nerushenko Vyacheslav Nikolaevich | 5 | Port scanning (165), Known botnet / C2 infrastructure (28) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (23), Known botnet / C2 infrastructure (19) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (47), Known botnet / C2 infrastructure (9) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (436), Known botnet / C2 infrastructure (30), Abusive HTTP requests (2) |
-| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (55), Known botnet / C2 infrastructure (33) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (438), Known botnet / C2 infrastructure (30), Abusive HTTP requests (2) |
+| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (56), Known botnet / C2 infrastructure (34) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
 | [AS212913](AS212913_TIME-HOST-LTD/) | TIME-HOST LTD | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
 | [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
@@ -18,7 +18,7 @@
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (313), Known botnet / C2 infrastructure (33), Exploitation attempt (CVE / RCE / injection) (8) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (315), Known botnet / C2 infrastructure (33), Exploitation attempt (CVE / RCE / injection) (8) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 1 | Port scanning (3), Known botnet / C2 infrastructure (2) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8402](AS8402_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | Port scanning (14), Known botnet / C2 infrastructure (9) |

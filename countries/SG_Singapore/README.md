@@ -6,9 +6,9 @@
 |---|---|---:|---|
 | [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 34 | Port scanning (140), Known botnet / C2 infrastructure (129), Abusive HTTP requests (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Abusive HTTP requests (270), Port scanning (256), Known botnet / C2 infrastructure (65), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (310), Known botnet / C2 infrastructure (39) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (314), Known botnet / C2 infrastructure (39) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 4 | Port scanning (99) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (62), Known botnet / C2 infrastructure (21), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (64), Known botnet / C2 infrastructure (22), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Port scanning (15), Known botnet / C2 infrastructure (11) |
 | [AS154402](AS154402_Shenzhen-FredCloud-Computing-Technology-Co-Ltd/) | Shenzhen FredCloud Computing Technology Co., Ltd. | 1 | Port scanning (47) |
 | [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (163) |

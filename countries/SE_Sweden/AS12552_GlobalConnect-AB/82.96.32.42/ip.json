@@ -1,0 +1,15 @@
+{
+  "ip": "82.96.32.42",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 12552,
+  "asn_org": "GlobalConnect AB",
+  "categories": {
+    "ssh": 7,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-19T23:03:33Z",
+  "last_seen": "2026-11-21T10:50:04Z",
+  "reported": "not reported (permanent ban)"
+}

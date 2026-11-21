@@ -7,7 +7,7 @@
 | [`109.105.209.4`](109.105.209.4/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-15T06:59:42Z |
 | [`109.105.209.5`](109.105.209.5/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-17T00:10:51Z |
 | [`109.105.209.7`](109.105.209.7/) | Port scanning (15), Known botnet / C2 infrastructure (10) | 26 | 2026-11-21T05:17:38Z |
-| [`109.105.209.9`](109.105.209.9/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-21T08:50:50Z |
+| [`109.105.209.9`](109.105.209.9/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-21T10:27:25Z |
 | [`109.105.209.10`](109.105.209.10/) | Port scanning (14), Known botnet / C2 infrastructure (12) | 27 | 2026-11-21T02:19:51Z |
 | [`109.105.209.12`](109.105.209.12/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-21T08:02:23Z |
 | [`109.105.209.13`](109.105.209.13/) | Port scanning (17), Known botnet / C2 infrastructure (10) | 28 | 2026-11-19T22:21:35Z |
@@ -73,7 +73,7 @@
 | [`185.180.141.3`](185.180.141.3/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-21T06:30:04Z |
 | [`185.180.141.4`](185.180.141.4/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-21T07:50:09Z |
 | [`185.180.141.9`](185.180.141.9/) | Port scanning (16), Known botnet / C2 infrastructure (10) | 27 | 2026-11-21T09:56:05Z |
-| [`185.180.141.10`](185.180.141.10/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-16T04:19:50Z |
+| [`185.180.141.10`](185.180.141.10/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-21T11:17:07Z |
 | [`185.180.141.13`](185.180.141.13/) | Port scanning (22), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 40 | 2026-11-21T02:37:03Z |
 | [`185.180.141.33`](185.180.141.33/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 35 | 2026-11-21T08:17:10Z |
 | [`185.180.141.37`](185.180.141.37/) | Port scanning (11), Known botnet / C2 infrastructure (11) | 23 | 2026-11-21T09:22:56Z |
