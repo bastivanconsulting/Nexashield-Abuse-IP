@@ -10,7 +10,7 @@
 | [`45.138.12.19`](45.138.12.19/) | Spamhaus DROP-listed network (127), Abusive HTTP requests (22) | 149 | 2026-11-21T20:11:34Z |
 | [`45.138.12.37`](45.138.12.37/) | Abusive HTTP requests (102), Spamhaus DROP-listed network (2) | 104 | 2026-11-15T23:28:49Z |
 | [`45.138.12.40`](45.138.12.40/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-21T15:18:16Z |
-| [`45.138.12.41`](45.138.12.41/) | Spamhaus DROP-listed network (22), Abusive HTTP requests (3) | 25 | 2026-11-21T14:30:26Z |
+| [`45.138.12.41`](45.138.12.41/) | Spamhaus DROP-listed network (24), Abusive HTTP requests (3) | 27 | 2026-11-21T23:20:29Z |
 | [`45.138.12.42`](45.138.12.42/) | Port scanning (24), Known botnet / C2 infrastructure (10), Abusive HTTP requests (4) | 41 | 2026-11-21T18:24:05Z |
 | [`45.138.12.43`](45.138.12.43/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-14T19:00:18Z |
 | [`45.138.12.44`](45.138.12.44/) | Port scanning (4), Abusive HTTP requests (3), Known botnet / C2 infrastructure (3) | 11 | 2026-11-15T04:19:04Z |
@@ -21,11 +21,11 @@
 | [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (21), Abusive HTTP requests (6) | 27 | 2026-11-21T19:52:53Z |
 | [`45.138.12.216`](45.138.12.216/) | Port scanning (14), Web injection payload blocked by WAF (3), Abusive HTTP requests (1), Known botnet / C2 infrastructure (1) | 19 | 2026-11-21T19:51:19Z |
 | [`45.138.12.217`](45.138.12.217/) | Port scanning (17), Known botnet / C2 infrastructure (5), Abusive HTTP requests (4), Web injection payload blocked by WAF (2) | 29 | 2026-11-21T18:08:49Z |
-| [`185.218.86.2`](185.218.86.2/) | Port scanning (416) | 473 | 2026-11-21T22:13:19Z |
+| [`185.218.86.2`](185.218.86.2/) | Port scanning (418) | 475 | 2026-11-21T22:33:00Z |
 | [`185.218.86.4`](185.218.86.4/) | Port scanning (429) | 499 | 2026-11-21T22:00:29Z |
 | [`185.218.86.10`](185.218.86.10/) | Port scanning (411) | 474 | 2026-11-21T22:15:40Z |
 | [`185.218.86.12`](185.218.86.12/) | Port scanning (403) | 467 | 2026-11-21T22:11:00Z |
-| [`185.218.86.13`](185.218.86.13/) | Port scanning (390) | 452 | 2026-11-21T21:55:15Z |
+| [`185.218.86.13`](185.218.86.13/) | Port scanning (393) | 456 | 2026-11-21T22:27:02Z |
 | [`185.218.86.17`](185.218.86.17/) | Port scanning (398) | 455 | 2026-11-21T21:22:48Z |
 | [`185.218.86.20`](185.218.86.20/) | Port scanning (395) | 461 | 2026-11-21T22:02:07Z |
 | [`185.218.86.23`](185.218.86.23/) | Port scanning (364) | 418 | 2026-11-21T18:38:37Z |

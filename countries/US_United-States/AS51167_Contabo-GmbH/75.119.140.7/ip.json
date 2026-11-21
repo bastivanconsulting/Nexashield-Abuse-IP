@@ -1,0 +1,14 @@
+{
+  "ip": "75.119.140.7",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 51167,
+  "asn_org": "Contabo GmbH",
+  "categories": {
+    "scan": 6
+  },
+  "events": 7,
+  "first_seen": "2026-11-21T08:13:05Z",
+  "last_seen": "2026-11-21T23:07:04Z",
+  "reported": "not reported (permanent ban)"
+}

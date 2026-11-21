@@ -7,10 +7,10 @@
 | IP | `50.188.204.213` |
 | Country | United States (US) |
 | ASN | AS7922 · Comcast Cable Communications, LLC |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (1) |
-| Events | 10 |
+| Activity | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (2) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-14T20:20:20Z |
-| Last seen (UTC) | 2026-11-19T13:29:42Z |
+| Last seen (UTC) | 2026-11-21T22:47:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

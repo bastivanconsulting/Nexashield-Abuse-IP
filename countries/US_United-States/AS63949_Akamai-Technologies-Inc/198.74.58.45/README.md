@@ -7,10 +7,10 @@
 | IP | `198.74.58.45` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (50) |
-| Events | 69 |
+| Activity | Port scanning (52) |
+| Events | 71 |
 | First seen (UTC) | 2026-11-12T01:38:41Z |
-| Last seen (UTC) | 2026-11-21T18:08:35Z |
+| Last seen (UTC) | 2026-11-21T22:36:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

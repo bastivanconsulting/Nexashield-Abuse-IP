@@ -7,10 +7,10 @@
 | IP | `41.175.241.46` |
 | Country | Mauritius (MU) |
 | ASN | AS30844 · Liquid Telecommunications Ltd |
-| Activity | Port scanning (21) |
-| Events | 29 |
+| Activity | Port scanning (23) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-20T02:11:00Z |
-| Last seen (UTC) | 2026-11-21T21:33:12Z |
+| Last seen (UTC) | 2026-11-21T22:55:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,10 +5,10 @@
   "asn": 402253,
   "asn_org": "SKN Subnet & Telecom Ltd",
   "categories": {
-    "scan": 41
+    "scan": 42
   },
-  "events": 42,
+  "events": 43,
   "first_seen": "2026-11-11T10:11:47Z",
-  "last_seen": "2026-11-21T21:34:47Z",
+  "last_seen": "2026-11-21T22:18:24Z",
   "reported": "not reported (permanent ban)"
 }

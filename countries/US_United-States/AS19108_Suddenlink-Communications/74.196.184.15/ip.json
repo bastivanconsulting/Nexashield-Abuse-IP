@@ -6,10 +6,11 @@
   "asn_org": "Suddenlink Communications",
   "categories": {
     "ssh": 3,
-    "c2": 2
+    "c2": 2,
+    "scan": 2
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-19T21:51:04Z",
-  "last_seen": "2026-11-21T18:02:04Z",
+  "last_seen": "2026-11-21T22:41:14Z",
   "reported": "not reported (permanent ban)"
 }

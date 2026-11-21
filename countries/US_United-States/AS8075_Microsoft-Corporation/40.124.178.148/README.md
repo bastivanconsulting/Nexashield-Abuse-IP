@@ -7,10 +7,10 @@
 | IP | `40.124.178.148` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (1) |
-| Events | 14 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (7), Web injection payload blocked by WAF (1) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-11T14:04:51Z |
-| Last seen (UTC) | 2026-11-20T10:22:56Z |
+| Last seen (UTC) | 2026-11-21T22:58:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
