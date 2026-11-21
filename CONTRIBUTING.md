@@ -8,7 +8,7 @@ Merci de vouloir améliorer NexaShield Abuse IP ! Chaque contribution aide des a
 
 ### ⚠️ Les données sont générées automatiquement
 
-Les dossiers `countries/`, `lists/`, `analysis/` et les fichiers `README*.md` sont **régénérés par le SOC NexaShield à chaque publication**. Une pull request qui les modifie sera écrasée. Pour faire **ajouter** une IP, elle doit avoir attaqué une infrastructure protégée par NexaShield : nous ne publions pas d'IP signalées par des tiers. Pour en faire **retirer** une, voir plus bas.
+Les dossiers `countries/`, `lists/`, `analysis/`, `bans/` et les fichiers `README*.md` sont **régénérés par le SOC NexaShield à chaque publication**. **Ce sont les seules PR / MR ouvertes sur ces chemins : elles sont créées automatiquement par NexaShield (compte SOC), jamais à la main.** Une pull request manuelle qui les modifie sera écrasée (et fermée). Pour faire **ajouter** une IP, elle doit avoir attaqué une infrastructure protégée par NexaShield : nous ne publions pas d'IP signalées par des tiers. Pour en faire **retirer** une, voir plus bas.
 
 ### ✅ Contributions bienvenues
 
@@ -41,7 +41,7 @@ Formulaire **[Demande de retrait](https://github.com/bastivanconsulting/Nexashie
 
 ## 🇬🇧 English
 
-- **Data is generated automatically**: `countries/`, `lists/`, `analysis/` and `README*.md` are rebuilt by the NexaShield SOC on every publication; pull requests touching them will be overwritten. We only publish IPs that attacked infrastructure protected by NexaShield, never third-party reports.
+- **Data is generated automatically**: `countries/`, `lists/`, `analysis/`, `bans/` and `README*.md` are rebuilt by the NexaShield SOC on every publication. **The only PRs / MRs opened on these paths are the ones created automatically by NexaShield (SOC account), never by hand.** A manual pull request touching them will be overwritten (and closed). We only publish IPs that attacked infrastructure protected by NexaShield, never third-party reports.
 - **Welcome**: integration guides for new devices (`docs/INTEGRATION.md`), installer improvements (`tools/`), documentation fixes and translations. Open an issue first for new list formats.
 - **Removal request**: use the [removal form](https://github.com/bastivanconsulting/Nexashield-Abuse-IP/issues/new?template=removal-request.yml) or email [contact@bastivan.com](mailto:contact@bastivan.com).
 - **Workflow**: fork, branch, short clear commits (EN or FR), test scripts on a non-production machine, open a pull request using the template.

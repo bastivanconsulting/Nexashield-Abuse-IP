@@ -1,6 +1,6 @@
 # 🇫🇷 France
 
-**320** malicious IP(s) across **18** network(s).
+**319** malicious IP(s) across **18** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -13,7 +13,7 @@
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (56), Abusive HTTP requests (19), Known botnet / C2 infrastructure (9) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 3 | Abusive HTTP requests (243), Port scanning (83), Known botnet / C2 infrastructure (7) |
-| [AS12322](AS12322_Free-SAS/) | Free SAS | 3 | Known botnet / C2 infrastructure (7), SSH brute force (5), Port scanning (115) |
+| [AS12322](AS12322_Free-SAS/) | Free SAS | 2 | Known botnet / C2 infrastructure (7), SSH brute force (5), Port scanning (5) |
 | [AS49434](AS49434_FBW-NETWORKS-SAS/) | FBW NETWORKS SAS | 2 | Port scanning (50), Known botnet / C2 infrastructure (3) |
 | [AS141995](AS141995_Contabo-Asia-Private-Limited/) | Contabo Asia Private Limited | 1 | Port scanning (38) |
 | [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (56), Known botnet / C2 infrastructure (1) |

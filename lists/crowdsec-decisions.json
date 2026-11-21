@@ -52662,13 +52662,5 @@
   "duration": "72h",
   "reason": "nexashield-abuse-ip",
   "origin": "lists"
- },
- {
-  "value": "82.231.232.76",
-  "scope": "Ip",
-  "type": "ban",
-  "duration": "72h",
-  "reason": "nexashield-abuse-ip",
-  "origin": "lists"
  }
 ]

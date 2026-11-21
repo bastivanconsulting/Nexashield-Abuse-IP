@@ -3553,7 +3553,6 @@
 82.147.85.101:nexashield
 82.147.85.103:nexashield
 82.157.7.182:nexashield
-82.231.232.76:nexashield
 83.209.248.110:nexashield
 83.226.6.231:nexashield
 83.255.208.30:nexashield
