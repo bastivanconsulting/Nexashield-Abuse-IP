@@ -9,7 +9,7 @@
 | [AS135918](AS135918_VIET-DIGITAL-TECHNOLOGY-LIABILITY-COMPANY/) | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 1 | Port scanning (188) |
 | [AS140791](AS140791_BKHOST-TECHNOLOGY-VIETNAM-JOINT-STOCK-COMPANY/) | BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY | 1 | Port scanning (27), Known botnet / C2 infrastructure (17) |
 | [AS140832](AS140832_Vietnam-F-Tech-JSC/) | Vietnam F Tech., JSC | 1 | Port scanning (33), Known botnet / C2 infrastructure (16) |
-| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (185) |
+| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 1 | Port scanning (186) |
 | [AS45543](AS45543_SaiGon-Tourist-cable-Televition-Company/) | SaiGon Tourist cable Televition Company | 1 | Port scanning (24), Known botnet / C2 infrastructure (2), SSH brute force (1) |
 
 ---

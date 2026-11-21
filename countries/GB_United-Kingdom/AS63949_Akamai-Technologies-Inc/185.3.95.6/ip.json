@@ -1,0 +1,15 @@
+{
+  "ip": "185.3.95.6",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-19T20:11:09Z",
+  "last_seen": "2026-11-21T19:10:05Z",
+  "reported": "not reported (permanent ban)"
+}

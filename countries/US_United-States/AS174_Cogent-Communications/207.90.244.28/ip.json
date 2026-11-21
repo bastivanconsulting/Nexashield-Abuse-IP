@@ -5,11 +5,11 @@
   "asn": 174,
   "asn_org": "Cogent Communications",
   "categories": {
-    "scan": 79,
-    "c2": 20
+    "scan": 80,
+    "c2": 21
   },
-  "events": 100,
+  "events": 102,
   "first_seen": "2026-11-11T11:54:09Z",
-  "last_seen": "2026-11-21T15:14:27Z",
+  "last_seen": "2026-11-21T18:24:10Z",
   "reported": "not reported (permanent ban)"
 }

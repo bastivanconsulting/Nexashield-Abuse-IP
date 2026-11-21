@@ -7,10 +7,10 @@
 | IP | `147.125.241.19` |
 | Country | United States (US) |
 | ASN | AS26666 · Interserver, Inc |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (3) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-21T04:16:47Z |
-| Last seen (UTC) | 2026-11-21T17:40:04Z |
+| Last seen (UTC) | 2026-11-21T18:24:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
