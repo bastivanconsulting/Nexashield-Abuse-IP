@@ -7,10 +7,10 @@
 | IP | `94.255.245.175` |
 | Country | Sweden (SE) |
 | ASN | AS29518 · Bredband2 AB |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (2) |
-| Events | 7 |
+| Activity | SSH brute force (8), Known botnet / C2 infrastructure (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-20T18:53:27Z |
-| Last seen (UTC) | 2026-11-21T04:56:13Z |
+| Last seen (UTC) | 2026-11-21T14:35:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,15 @@
+{
+  "ip": "45.137.226.175",
+  "country_code": "PL",
+  "country": "Poland",
+  "asn": 50606,
+  "asn_org": "Horyzont Technologie Internetowe sp.z.o.o.",
+  "categories": {
+    "exploit": 2,
+    "scan": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-16T22:57:26Z",
+  "last_seen": "2026-11-21T15:14:11Z",
+  "reported": "not reported (permanent ban)"
+}

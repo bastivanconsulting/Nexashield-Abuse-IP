@@ -1,0 +1,15 @@
+{
+  "ip": "200.89.159.59",
+  "country_code": "AR",
+  "country": "Argentina",
+  "asn": 7303,
+  "asn_org": "Telecom Argentina S.A.",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-16T04:48:45Z",
+  "last_seen": "2026-11-19T14:38:15Z",
+  "reported": "not reported (permanent ban)"
+}

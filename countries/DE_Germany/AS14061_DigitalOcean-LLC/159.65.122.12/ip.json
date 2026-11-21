@@ -1,0 +1,14 @@
+{
+  "ip": "159.65.122.12",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-21T15:30:24Z",
+  "last_seen": "2026-11-21T15:30:24Z",
+  "reported": "not reported (permanent ban)"
+}

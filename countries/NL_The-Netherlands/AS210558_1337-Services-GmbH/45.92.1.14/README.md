@@ -7,10 +7,10 @@
 | IP | `45.92.1.14` |
 | Country | The Netherlands (NL) |
 | ASN | AS210558 · 1337 Services GmbH |
-| Activity | Known botnet / C2 infrastructure (3), Port scanning (2) |
-| Events | 14 |
+| Activity | Known botnet / C2 infrastructure (3), Port scanning (3) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-11T06:44:13Z |
-| Last seen (UTC) | 2026-11-21T12:15:15Z |
+| Last seen (UTC) | 2026-11-21T15:00:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

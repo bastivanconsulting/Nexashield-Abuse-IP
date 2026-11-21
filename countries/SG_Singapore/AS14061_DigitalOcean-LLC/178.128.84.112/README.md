@@ -7,10 +7,10 @@
 | IP | `178.128.84.112` |
 | Country | Singapore (SG) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (33), Known botnet / C2 infrastructure (16) |
-| Events | 50 |
+| Activity | Port scanning (34), Known botnet / C2 infrastructure (17) |
+| Events | 52 |
 | First seen (UTC) | 2026-11-11T09:59:31Z |
-| Last seen (UTC) | 2026-11-21T03:33:01Z |
+| Last seen (UTC) | 2026-11-21T14:53:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

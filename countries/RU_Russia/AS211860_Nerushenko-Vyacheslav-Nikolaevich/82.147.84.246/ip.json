@@ -5,11 +5,11 @@
   "asn": 211860,
   "asn_org": "Nerushenko Vyacheslav Nikolaevich",
   "categories": {
-    "scan": 15,
-    "c2": 2
+    "scan": 19,
+    "c2": 3
   },
-  "events": 20,
+  "events": 26,
   "first_seen": "2026-11-11T19:52:56Z",
-  "last_seen": "2026-11-14T04:25:03Z",
+  "last_seen": "2026-11-21T14:31:01Z",
   "reported": "not reported (permanent ban)"
 }

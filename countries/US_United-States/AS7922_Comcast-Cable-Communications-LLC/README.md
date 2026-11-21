@@ -16,7 +16,7 @@
 | [`96.79.12.198`](96.79.12.198/) | Exploitation attempt (CVE / RCE / injection) (5), Port scanning (5) | 16 | 2026-11-17T01:44:01Z |
 | [`173.8.229.146`](173.8.229.146/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-12T06:19:02Z |
 | [`173.12.42.182`](173.12.42.182/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T20:13:02Z |
-| [`174.49.225.71`](174.49.225.71/) | Exploitation attempt (CVE / RCE / injection) (5), Port scanning (5) | 15 | 2026-11-21T08:13:05Z |
+| [`174.49.225.71`](174.49.225.71/) | Exploitation attempt (CVE / RCE / injection) (6), Port scanning (6) | 18 | 2026-11-21T14:25:16Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

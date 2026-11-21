@@ -1,6 +1,6 @@
 # AS4837 · CHINA UNICOM China169 Backbone
 
-🇨🇳 China · **10** malicious IP(s)
+🇨🇳 China · **11** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,8 +12,9 @@
 | [`115.50.151.125`](115.50.151.125/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-19T00:22:12Z |
 | [`122.97.137.110`](122.97.137.110/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-19T20:43:56Z |
 | [`122.191.115.237`](122.191.115.237/) | Port scanning (42), Known botnet / C2 infrastructure (3) | 62 | 2026-11-21T01:32:00Z |
-| [`123.138.18.10`](123.138.18.10/) | Port scanning (42), Known botnet / C2 infrastructure (6) | 53 | 2026-11-21T04:22:42Z |
+| [`123.138.18.10`](123.138.18.10/) | Port scanning (43), Known botnet / C2 infrastructure (6) | 54 | 2026-11-21T14:33:38Z |
 | [`125.47.62.216`](125.47.62.216/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-18T10:47:18Z |
+| [`218.27.205.159`](218.27.205.159/) | SSH brute force (4), Port scanning (3), Known botnet / C2 infrastructure (2) | 9 | 2026-11-21T15:17:16Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

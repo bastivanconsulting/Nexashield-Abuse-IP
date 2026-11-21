@@ -5,11 +5,11 @@
   "asn": 29518,
   "asn_org": "Bredband2 AB",
   "categories": {
-    "ssh": 5,
-    "c2": 2
+    "ssh": 8,
+    "c2": 3
   },
-  "events": 7,
+  "events": 12,
   "first_seen": "2026-11-20T18:53:27Z",
-  "last_seen": "2026-11-21T04:56:13Z",
+  "last_seen": "2026-11-21T14:35:04Z",
   "reported": "not reported (permanent ban)"
 }
