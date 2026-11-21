@@ -7,7 +7,7 @@
 | [`2.57.122.103`](2.57.122.103/) | Port scanning (10), Known botnet / C2 infrastructure (3) | 15 | 2026-11-21T01:08:44Z |
 | [`2.57.122.150`](2.57.122.150/) | SSH brute force (534), Port scanning (39), Known botnet / C2 infrastructure (15) | 610 | 2026-11-21T07:37:15Z |
 | [`2.57.122.168`](2.57.122.168/) | SSH brute force (200), Port scanning (33), Known botnet / C2 infrastructure (12) | 249 | 2026-11-21T02:44:02Z |
-| [`2.57.122.189`](2.57.122.189/) | Web injection payload blocked by WAF (18), Known botnet / C2 infrastructure (3), Port scanning (3) | 28 | 2026-11-21T05:00:48Z |
+| [`2.57.122.189`](2.57.122.189/) | Web injection payload blocked by WAF (18), Port scanning (4), Known botnet / C2 infrastructure (3) | 29 | 2026-11-21T09:53:21Z |
 | [`2.57.122.207`](2.57.122.207/) | Known botnet / C2 infrastructure (14), Port scanning (9) | 26 | 2026-11-18T22:55:11Z |
 | [`2.57.122.209`](2.57.122.209/) | SSH brute force (85), Port scanning (32), Known botnet / C2 infrastructure (13) | 135 | 2026-11-21T01:26:33Z |
 | [`80.94.92.55`](80.94.92.55/) | SSH brute force (80), Port scanning (54), Known botnet / C2 infrastructure (19) | 163 | 2026-11-20T14:18:17Z |
@@ -18,11 +18,11 @@
 | [`92.118.39.43`](92.118.39.43/) | Port scanning (4) | 5 | 2026-11-18T08:18:03Z |
 | [`92.118.39.49`](92.118.39.49/) | SSH brute force (64), Port scanning (26), Known botnet / C2 infrastructure (12) | 108 | 2026-11-21T05:10:30Z |
 | [`92.118.39.50`](92.118.39.50/) | SSH brute force (54), Port scanning (29), Known botnet / C2 infrastructure (13) | 101 | 2026-11-19T19:00:51Z |
-| [`92.118.39.56`](92.118.39.56/) | Known botnet / C2 infrastructure (11), Port scanning (11), SSH brute force (2) | 26 | 2026-11-21T06:19:53Z |
+| [`92.118.39.56`](92.118.39.56/) | Port scanning (12), Known botnet / C2 infrastructure (11), SSH brute force (2) | 27 | 2026-11-21T10:01:37Z |
 | [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 9 | 2026-11-20T04:45:03Z |
-| [`92.118.39.63`](92.118.39.63/) | SSH brute force (84), Port scanning (19), Known botnet / C2 infrastructure (10) | 118 | 2026-11-19T07:22:31Z |
+| [`92.118.39.63`](92.118.39.63/) | SSH brute force (84), Port scanning (23), Known botnet / C2 infrastructure (11) | 124 | 2026-11-21T09:28:06Z |
 | [`92.118.39.64`](92.118.39.64/) | SSH brute force (22), Port scanning (20), Known botnet / C2 infrastructure (10) | 56 | 2026-11-21T02:10:22Z |
-| [`92.118.39.65`](92.118.39.65/) | Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T12:14:03Z |
+| [`92.118.39.65`](92.118.39.65/) | Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T09:38:14Z |
 | [`92.118.39.71`](92.118.39.71/) | SSH brute force (505), Port scanning (22), Known botnet / C2 infrastructure (9) | 538 | 2026-11-20T03:48:59Z |
 | [`92.118.39.72`](92.118.39.72/) | Port scanning (15), SSH brute force (4), Known botnet / C2 infrastructure (3) | 23 | 2026-11-20T21:47:14Z |
 | [`92.118.39.75`](92.118.39.75/) | SSH brute force (104), Port scanning (32), Known botnet / C2 infrastructure (15) | 155 | 2026-11-20T07:52:25Z |
@@ -31,7 +31,7 @@
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (86), Port scanning (15), Known botnet / C2 infrastructure (10) | 118 | 2026-11-21T02:39:41Z |
 | [`92.118.39.92`](92.118.39.92/) | Port scanning (74), Known botnet / C2 infrastructure (23) | 98 | 2026-11-21T09:11:44Z |
 | [`92.118.39.93`](92.118.39.93/) | Web injection payload blocked by WAF (3) | 4 | 2026-11-18T08:18:03Z |
-| [`92.118.39.181`](92.118.39.181/) | Port scanning (250), Known botnet / C2 infrastructure (17) | 274 | 2026-11-21T09:11:57Z |
+| [`92.118.39.181`](92.118.39.181/) | Port scanning (252), Known botnet / C2 infrastructure (17) | 276 | 2026-11-21T09:58:50Z |
 | [`92.118.39.227`](92.118.39.227/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-18T08:18:10Z |
 | [`92.118.39.246`](92.118.39.246/) | Port scanning (14), Known botnet / C2 infrastructure (1) | 16 | 2026-11-21T07:27:22Z |
 | [`193.32.162.15`](193.32.162.15/) | Port scanning (418), Known botnet / C2 infrastructure (32), SSH brute force (20) | 485 | 2026-11-21T05:51:19Z |

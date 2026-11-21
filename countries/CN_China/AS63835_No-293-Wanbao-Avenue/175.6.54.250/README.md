@@ -7,10 +7,10 @@
 | IP | `175.6.54.250` |
 | Country | China (CN) |
 | ASN | AS63835 · No.293,Wanbao Avenue |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (4) |
-| Events | 22 |
+| Activity | Port scanning (16), Known botnet / C2 infrastructure (4) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-14T04:54:53Z |
-| Last seen (UTC) | 2026-11-21T09:09:25Z |
+| Last seen (UTC) | 2026-11-21T09:57:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

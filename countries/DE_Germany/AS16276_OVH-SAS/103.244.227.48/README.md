@@ -7,10 +7,10 @@
 | IP | `103.244.227.48` |
 | Country | Germany (DE) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (17), Known botnet / C2 infrastructure (1) |
-| Events | 19 |
+| Activity | Port scanning (19), Known botnet / C2 infrastructure (2) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-11T10:58:38Z |
-| Last seen (UTC) | 2026-11-14T21:56:54Z |
+| Last seen (UTC) | 2026-11-21T09:51:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

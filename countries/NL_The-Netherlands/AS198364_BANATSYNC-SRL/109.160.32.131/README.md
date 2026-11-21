@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS198364 · BANATSYNC SRL |
 | Activity | Known botnet / C2 infrastructure (2) |
-| Events | 1 |
+| Events | 3 |
 | First seen (UTC) | 2026-11-21T09:30:29Z |
-| Last seen (UTC) | 2026-11-21T09:30:29Z |
+| Last seen (UTC) | 2026-11-21T09:31:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

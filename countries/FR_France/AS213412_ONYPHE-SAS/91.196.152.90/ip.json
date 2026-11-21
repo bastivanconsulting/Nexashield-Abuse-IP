@@ -6,10 +6,10 @@
   "asn_org": "ONYPHE SAS",
   "categories": {
     "scan": 1,
-    "c2": 1
+    "c2": 2
   },
-  "events": 2,
+  "events": 4,
   "first_seen": "2026-11-21T02:51:37Z",
-  "last_seen": "2026-11-21T02:51:55Z",
+  "last_seen": "2026-11-21T09:18:22Z",
   "reported": "not reported (permanent ban)"
 }

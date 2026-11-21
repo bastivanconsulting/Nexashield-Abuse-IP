@@ -1,6 +1,6 @@
 # AS208843 · Alpha Strike Labs GmbH
 
-🇩🇪 Germany · **69** malicious IP(s)
+🇩🇪 Germany · **70** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -24,6 +24,7 @@
 | [`194.187.176.57`](194.187.176.57/) | Port scanning (1) | 2 | 2026-11-18T13:18:04Z |
 | [`194.187.176.58`](194.187.176.58/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T21:45:03Z |
 | [`194.187.176.62`](194.187.176.62/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T19:27:03Z |
+| [`194.187.176.72`](194.187.176.72/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-13T13:24:08Z |
 | [`194.187.176.79`](194.187.176.79/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-20T03:07:03Z |
 | [`194.187.176.83`](194.187.176.83/) | Port scanning (5), Known botnet / C2 infrastructure (4), Exploitation attempt (CVE / RCE / injection) (1) | 11 | 2026-11-19T22:28:42Z |
 | [`194.187.176.88`](194.187.176.88/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-19T02:18:10Z |
