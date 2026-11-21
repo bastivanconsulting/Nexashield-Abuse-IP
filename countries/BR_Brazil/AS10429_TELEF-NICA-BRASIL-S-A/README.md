@@ -1,6 +1,6 @@
 # AS10429 · TELEFÔNICA BRASIL S.A
 
-🇧🇷 Brazil · **4** malicious IP(s)
+🇧🇷 Brazil · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`187.93.51.46`](187.93.51.46/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) | 11 | 2026-11-21T02:11:15Z |
 | [`189.56.195.78`](189.56.195.78/) | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) | 12 | 2026-11-21T18:59:19Z |
 | [`201.28.234.10`](201.28.234.10/) | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (1) | 11 | 2026-11-21T15:48:46Z |
+| [`201.63.138.70`](201.63.138.70/) | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (1) | 8 | 2026-11-21T19:42:04Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

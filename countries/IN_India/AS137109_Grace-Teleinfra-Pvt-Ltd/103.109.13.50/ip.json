@@ -1,0 +1,16 @@
+{
+  "ip": "103.109.13.50",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 137109,
+  "asn_org": "Grace Teleinfra Pvt Ltd",
+  "categories": {
+    "ssh": 2,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 8,
+  "first_seen": "2026-11-15T01:50:13Z",
+  "last_seen": "2026-11-21T20:08:05Z",
+  "reported": "not reported (permanent ban)"
+}

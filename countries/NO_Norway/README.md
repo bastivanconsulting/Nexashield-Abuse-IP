@@ -1,10 +1,11 @@
 # 🇳🇴 Norway
 
-**2** malicious IP(s) across **2** network(s).
+**3** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (35) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (37) |
+| [AS2119](AS2119_Telenor-Norge-AS/) | Telenor Norge AS | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS50304](AS50304_Blix-Solutions-AS/) | Blix Solutions AS | 1 | Port scanning (161), Known botnet / C2 infrastructure (19), Abusive HTTP requests (2) |
 
 ---

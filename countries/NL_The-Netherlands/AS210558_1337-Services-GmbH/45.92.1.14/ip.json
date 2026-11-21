@@ -5,11 +5,11 @@
   "asn": 210558,
   "asn_org": "1337 Services GmbH",
   "categories": {
-    "c2": 3,
-    "scan": 4
+    "c2": 4,
+    "scan": 5
   },
-  "events": 16,
+  "events": 18,
   "first_seen": "2026-11-11T06:44:13Z",
-  "last_seen": "2026-11-21T18:04:02Z",
+  "last_seen": "2026-11-21T19:31:24Z",
   "reported": "not reported (permanent ban)"
 }

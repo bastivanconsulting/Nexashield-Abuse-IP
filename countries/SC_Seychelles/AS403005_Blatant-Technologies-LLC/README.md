@@ -1,11 +1,12 @@
 # AS403005 · Blatant Technologies, LLC
 
-🇸🇨 Seychelles · **3** malicious IP(s)
+🇸🇨 Seychelles · **4** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`64.89.160.19`](64.89.160.19/) | Abusive HTTP requests (6) | 6 | 2026-11-20T00:32:58Z |
 | [`64.89.160.73`](64.89.160.73/) | Abusive HTTP requests (819), Known botnet / C2 infrastructure (13), Port scanning (13) | 861 | 2026-11-21T15:36:37Z |
+| [`64.89.160.111`](64.89.160.111/) | Port scanning (20) | 20 | 2026-11-21T19:18:58Z |
 | [`64.89.161.51`](64.89.161.51/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 12 | 2026-11-21T01:35:27Z |
 
 ---

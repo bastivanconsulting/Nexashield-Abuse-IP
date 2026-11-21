@@ -7,10 +7,10 @@
 | IP | `64.235.41.97` |
 | Country | Singapore (SG) |
 | ASN | AS26277 · Las Vegas NV Datacenter |
-| Activity | Port scanning (173) |
-| Events | 210 |
+| Activity | Port scanning (174) |
+| Events | 211 |
 | First seen (UTC) | 2026-11-11T09:48:21Z |
-| Last seen (UTC) | 2026-11-21T18:01:46Z |
+| Last seen (UTC) | 2026-11-21T19:41:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

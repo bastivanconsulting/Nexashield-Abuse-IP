@@ -7,10 +7,10 @@
 | IP | `194.180.48.47` |
 | Country | Germany (DE) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | Port scanning (24), Known botnet / C2 infrastructure (6) |
-| Events | 31 |
+| Activity | Port scanning (25), Known botnet / C2 infrastructure (6) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-20T07:06:35Z |
-| Last seen (UTC) | 2026-11-21T18:47:36Z |
+| Last seen (UTC) | 2026-11-21T19:46:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

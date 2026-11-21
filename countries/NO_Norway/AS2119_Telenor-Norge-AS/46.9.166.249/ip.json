@@ -1,0 +1,14 @@
+{
+  "ip": "46.9.166.249",
+  "country_code": "NO",
+  "country": "Norway",
+  "asn": 2119,
+  "asn_org": "Telenor Norge AS",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-21T18:51:29Z",
+  "last_seen": "2026-11-21T18:51:29Z",
+  "reported": "2026-11-21T20:27:28Z"
+}

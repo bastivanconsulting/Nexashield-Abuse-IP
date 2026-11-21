@@ -1,0 +1,15 @@
+{
+  "ip": "104.28.193.185",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 13335,
+  "asn_org": "Cloudflare, Inc.",
+  "categories": {
+    "waf": 11,
+    "c2": 2
+  },
+  "events": 14,
+  "first_seen": "2026-11-13T23:09:48Z",
+  "last_seen": "2026-11-18T13:44:22Z",
+  "reported": "not reported (permanent ban)"
+}
