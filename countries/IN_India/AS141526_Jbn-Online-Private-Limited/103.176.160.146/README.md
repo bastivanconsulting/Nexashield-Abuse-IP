@@ -7,10 +7,10 @@
 | IP | `103.176.160.146` |
 | Country | India (IN) |
 | ASN | AS141526 · Jbn Online Private Limited |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-17T15:57:58Z |
-| Last seen (UTC) | 2026-11-20T13:00:01Z |
+| Last seen (UTC) | 2026-11-21T13:22:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

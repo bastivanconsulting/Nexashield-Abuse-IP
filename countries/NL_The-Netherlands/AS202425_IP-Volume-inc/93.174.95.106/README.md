@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
 | Activity | Known botnet / C2 infrastructure (13), Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 110 |
+| Events | 112 |
 | First seen (UTC) | 2026-11-11T23:11:29Z |
-| Last seen (UTC) | 2026-11-21T12:51:21Z |
+| Last seen (UTC) | 2026-11-21T14:10:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

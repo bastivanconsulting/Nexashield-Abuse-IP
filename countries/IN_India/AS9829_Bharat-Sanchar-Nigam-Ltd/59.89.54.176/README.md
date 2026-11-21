@@ -1,0 +1,19 @@
+# `59.89.54.176`
+
+🇮🇳 **India** · AS9829 Bharat Sanchar Nigam Ltd
+
+| Field | Value |
+|---|---|
+| IP | `59.89.54.176` |
+| Country | India (IN) |
+| ASN | AS9829 · Bharat Sanchar Nigam Ltd |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) |
+| Events | 6 |
+| First seen (UTC) | 2026-11-21T13:00:44Z |
+| Last seen (UTC) | 2026-11-21T13:00:44Z |
+| Reported to network owner (UTC) | 2026-11-21T14:27:27Z |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

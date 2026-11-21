@@ -1,0 +1,15 @@
+{
+  "ip": "62.146.170.86",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 40021,
+  "asn_org": "Contabo Inc.",
+  "categories": {
+    "scan": 21,
+    "c2": 1
+  },
+  "events": 25,
+  "first_seen": "2026-11-18T18:36:39Z",
+  "last_seen": "2026-11-21T13:16:34Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "221.120.0.166",
+  "country_code": "TW",
+  "country": "Taiwan",
+  "asn": 17421,
+  "asn_org": "Mobile Business Group",
+  "categories": {
+    "ssh": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T00:39:25Z",
+  "last_seen": "2026-11-21T13:38:05Z",
+  "reported": "not reported (permanent ban)"
+}

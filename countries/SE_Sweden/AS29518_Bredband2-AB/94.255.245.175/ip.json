@@ -1,0 +1,15 @@
+{
+  "ip": "94.255.245.175",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 29518,
+  "asn_org": "Bredband2 AB",
+  "categories": {
+    "ssh": 5,
+    "c2": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-20T18:53:27Z",
+  "last_seen": "2026-11-21T04:56:13Z",
+  "reported": "not reported (permanent ban)"
+}

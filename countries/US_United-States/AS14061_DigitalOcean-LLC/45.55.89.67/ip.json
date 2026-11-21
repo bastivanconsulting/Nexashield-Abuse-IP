@@ -1,0 +1,15 @@
+{
+  "ip": "45.55.89.67",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "waf": 18,
+    "exploit": 4
+  },
+  "events": 22,
+  "first_seen": "2026-11-21T12:25:48Z",
+  "last_seen": "2026-11-21T13:07:56Z",
+  "reported": "2026-11-21T14:27:18Z"
+}

@@ -7,10 +7,10 @@
 | IP | `104.236.229.227` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (51) |
-| Events | 73 |
+| Activity | Port scanning (52) |
+| Events | 74 |
 | First seen (UTC) | 2026-11-11T12:34:54Z |
-| Last seen (UTC) | 2026-11-21T11:29:52Z |
+| Last seen (UTC) | 2026-11-21T14:10:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

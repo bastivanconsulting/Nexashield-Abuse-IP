@@ -1,0 +1,15 @@
+{
+  "ip": "160.187.22.20",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 214441,
+  "asn_org": "LHY TECHNOLOGIES PRIVATE LIMITED",
+  "categories": {
+    "exploit": 8,
+    "web": 2
+  },
+  "events": 10,
+  "first_seen": "2026-11-21T13:48:07Z",
+  "last_seen": "2026-11-21T14:17:43Z",
+  "reported": "2026-11-21T14:27:22Z"
+}

@@ -5,10 +5,10 @@
   "asn": 211720,
   "asn_org": "Datashield, Inc.",
   "categories": {
-    "scan": 15
+    "scan": 19
   },
-  "events": 20,
+  "events": 26,
   "first_seen": "2026-11-19T08:06:48Z",
-  "last_seen": "2026-11-21T12:32:47Z",
+  "last_seen": "2026-11-21T13:38:51Z",
   "reported": "not reported (permanent ban)"
 }

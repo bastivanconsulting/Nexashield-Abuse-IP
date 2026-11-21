@@ -16,7 +16,7 @@
 | [`80.94.92.234`](80.94.92.234/) | SSH brute force (79), Port scanning (45), Known botnet / C2 infrastructure (19) | 150 | 2026-11-21T02:16:31Z |
 | [`92.118.39.14`](92.118.39.14/) | SSH brute force (189), Port scanning (31), Known botnet / C2 infrastructure (13) | 237 | 2026-11-21T07:31:24Z |
 | [`92.118.39.43`](92.118.39.43/) | Port scanning (4) | 5 | 2026-11-18T08:18:03Z |
-| [`92.118.39.49`](92.118.39.49/) | SSH brute force (64), Port scanning (26), Known botnet / C2 infrastructure (12) | 108 | 2026-11-21T05:10:30Z |
+| [`92.118.39.49`](92.118.39.49/) | SSH brute force (64), Port scanning (30), Known botnet / C2 infrastructure (13) | 114 | 2026-11-21T14:06:54Z |
 | [`92.118.39.50`](92.118.39.50/) | SSH brute force (54), Port scanning (31), Known botnet / C2 infrastructure (14) | 104 | 2026-11-21T12:58:11Z |
 | [`92.118.39.56`](92.118.39.56/) | Port scanning (16), Known botnet / C2 infrastructure (12), SSH brute force (2) | 33 | 2026-11-21T13:02:42Z |
 | [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 9 | 2026-11-20T04:45:03Z |
@@ -29,9 +29,9 @@
 | [`92.118.39.76`](92.118.39.76/) | Port scanning (12), Known botnet / C2 infrastructure (4) | 17 | 2026-11-21T07:10:03Z |
 | [`92.118.39.77`](92.118.39.77/) | SSH brute force (417), Port scanning (18), Known botnet / C2 infrastructure (9) | 446 | 2026-11-20T03:48:41Z |
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (86), Port scanning (15), Known botnet / C2 infrastructure (10) | 118 | 2026-11-21T02:39:41Z |
-| [`92.118.39.92`](92.118.39.92/) | Port scanning (76), Known botnet / C2 infrastructure (23) | 100 | 2026-11-21T12:55:01Z |
+| [`92.118.39.92`](92.118.39.92/) | Port scanning (77), Known botnet / C2 infrastructure (23) | 101 | 2026-11-21T13:59:42Z |
 | [`92.118.39.93`](92.118.39.93/) | Web injection payload blocked by WAF (3) | 4 | 2026-11-18T08:18:03Z |
-| [`92.118.39.181`](92.118.39.181/) | Port scanning (259), Known botnet / C2 infrastructure (18) | 284 | 2026-11-21T13:05:07Z |
+| [`92.118.39.181`](92.118.39.181/) | Port scanning (260), Known botnet / C2 infrastructure (18) | 285 | 2026-11-21T14:11:57Z |
 | [`92.118.39.227`](92.118.39.227/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-18T08:18:10Z |
 | [`92.118.39.246`](92.118.39.246/) | Port scanning (14), Known botnet / C2 infrastructure (1) | 16 | 2026-11-21T07:27:22Z |
 | [`193.32.162.15`](193.32.162.15/) | Port scanning (420), Known botnet / C2 infrastructure (32), SSH brute force (20) | 487 | 2026-11-21T11:39:33Z |

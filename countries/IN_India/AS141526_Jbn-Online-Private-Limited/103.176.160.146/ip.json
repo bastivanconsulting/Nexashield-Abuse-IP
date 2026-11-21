@@ -5,11 +5,11 @@
   "asn": 141526,
   "asn_org": "Jbn Online Private Limited",
   "categories": {
-    "ssh": 3,
-    "c2": 2
+    "ssh": 5,
+    "c2": 3
   },
-  "events": 5,
+  "events": 9,
   "first_seen": "2026-11-17T15:57:58Z",
-  "last_seen": "2026-11-20T13:00:01Z",
+  "last_seen": "2026-11-21T13:22:05Z",
   "reported": "not reported (permanent ban)"
 }

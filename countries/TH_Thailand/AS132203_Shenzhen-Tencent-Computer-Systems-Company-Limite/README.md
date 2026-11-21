@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`43.133.121.245`](43.133.121.245/) | Abusive HTTP requests (157), Web injection payload blocked by WAF (26) | 183 | 2026-11-12T00:10:07Z |
-| [`43.173.253.201`](43.173.253.201/) | Web injection payload blocked by WAF (165) | 167 | 2026-11-21T13:01:05Z |
+| [`43.173.253.201`](43.173.253.201/) | Abusive HTTP requests (312), Web injection payload blocked by WAF (20) | 332 | 2026-11-21T12:54:22Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

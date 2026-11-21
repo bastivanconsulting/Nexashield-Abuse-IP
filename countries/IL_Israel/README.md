@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS211486](AS211486_Alferov-Aleksey-Aleksandrovich/) | Alferov Aleksey Aleksandrovich | 8 | Port scanning (561), Known botnet / C2 infrastructure (22), Web injection payload blocked by WAF (2) |
+| [AS211486](AS211486_Alferov-Aleksey-Aleksandrovich/) | Alferov Aleksey Aleksandrovich | 8 | Port scanning (562), Known botnet / C2 infrastructure (23), Web injection payload blocked by WAF (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (258), Web injection payload blocked by WAF (26) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | Abusive HTTP requests (5) |
 

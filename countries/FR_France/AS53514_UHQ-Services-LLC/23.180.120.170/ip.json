@@ -1,0 +1,14 @@
+{
+  "ip": "23.180.120.170",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 53514,
+  "asn_org": "UHQ Services LLC",
+  "categories": {
+    "waf": 115
+  },
+  "events": 139,
+  "first_seen": "2026-11-21T14:13:36Z",
+  "last_seen": "2026-11-21T14:14:05Z",
+  "reported": "not reported (permanent ban)"
+}

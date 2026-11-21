@@ -7,11 +7,11 @@
 | IP | `43.173.253.201` |
 | Country | Thailand (TH) |
 | ASN | AS132203 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Web injection payload blocked by WAF (165) |
-| Events | 167 |
+| Activity | Abusive HTTP requests (312), Web injection payload blocked by WAF (20) |
+| Events | 332 |
 | First seen (UTC) | 2026-11-21T12:53:42Z |
-| Last seen (UTC) | 2026-11-21T13:01:05Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-21T12:54:22Z |
+| Reported to network owner (UTC) | 2026-11-21T14:27:13Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

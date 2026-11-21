@@ -1,0 +1,14 @@
+{
+  "ip": "34.178.34.82",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "web": 302
+  },
+  "events": 302,
+  "first_seen": "2026-11-21T12:02:36Z",
+  "last_seen": "2026-11-21T12:02:50Z",
+  "reported": "2026-11-21T14:27:36Z"
+}

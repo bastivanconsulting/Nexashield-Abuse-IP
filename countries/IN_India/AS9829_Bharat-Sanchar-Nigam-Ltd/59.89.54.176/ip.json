@@ -1,0 +1,15 @@
+{
+  "ip": "59.89.54.176",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 9829,
+  "asn_org": "Bharat Sanchar Nigam Ltd",
+  "categories": {
+    "exploit": 4,
+    "web": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-21T13:00:44Z",
+  "last_seen": "2026-11-21T13:00:44Z",
+  "reported": "2026-11-21T14:27:27Z"
+}

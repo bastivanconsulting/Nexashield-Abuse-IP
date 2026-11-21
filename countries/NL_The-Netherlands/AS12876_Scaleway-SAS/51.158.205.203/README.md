@@ -7,10 +7,10 @@
 | IP | `51.158.205.203` |
 | Country | The Netherlands (NL) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (217), Known botnet / C2 infrastructure (34) |
-| Events | 253 |
+| Activity | Port scanning (219), Known botnet / C2 infrastructure (34) |
+| Events | 255 |
 | First seen (UTC) | 2026-11-11T10:42:15Z |
-| Last seen (UTC) | 2026-11-21T11:40:39Z |
+| Last seen (UTC) | 2026-11-21T14:03:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

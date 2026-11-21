@@ -1,0 +1,14 @@
+{
+  "ip": "87.120.104.79",
+  "country_code": "NO",
+  "country": "Norway",
+  "asn": 211443,
+  "asn_org": "SINO WORLDWIDE TRADING LIMITED",
+  "categories": {
+    "scan": 18
+  },
+  "events": 20,
+  "first_seen": "2026-11-14T17:22:08Z",
+  "last_seen": "2026-11-21T13:28:41Z",
+  "reported": "not reported (permanent ban)"
+}

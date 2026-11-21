@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS42969 · Alpha Strike Labs GmbH |
 | Activity | Port scanning (3) |
-| Events | 6 |
+| Events | 8 |
 | First seen (UTC) | 2026-11-11T23:30:18Z |
-| Last seen (UTC) | 2026-11-21T01:10:10Z |
+| Last seen (UTC) | 2026-11-21T13:18:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
