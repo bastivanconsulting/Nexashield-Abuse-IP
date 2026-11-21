@@ -18,7 +18,7 @@
 | [`109.160.32.106`](109.160.32.106/) | Port scanning (54), SSH brute force (7), Spamhaus DROP-listed network (1) | 62 | 2026-11-18T13:53:20Z |
 | [`109.160.32.108`](109.160.32.108/) | Port scanning (54), SSH brute force (20) | 74 | 2026-11-15T20:00:40Z |
 | [`109.160.32.109`](109.160.32.109/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-20T07:18:21Z |
-| [`109.160.32.110`](109.160.32.110/) | SSH brute force (14), Port scanning (10), Spamhaus DROP-listed network (4) | 28 | 2026-11-21T21:26:23Z |
+| [`109.160.32.110`](109.160.32.110/) | SSH brute force (14), Port scanning (10), Spamhaus DROP-listed network (6) | 30 | 2026-11-21T22:28:41Z |
 | [`109.160.32.112`](109.160.32.112/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T18:57:05Z |
 | [`109.160.32.115`](109.160.32.115/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-21T14:57:37Z |
 | [`109.160.32.116`](109.160.32.116/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T17:29:10Z |
@@ -58,7 +58,7 @@
 | [`109.160.32.172`](109.160.32.172/) | Port scanning (102), SSH brute force (23), Spamhaus DROP-listed network (4) | 129 | 2026-11-19T17:30:11Z |
 | [`109.160.32.173`](109.160.32.173/) | Port scanning (77), SSH brute force (5), Spamhaus DROP-listed network (2) | 84 | 2026-11-18T10:15:04Z |
 | [`109.160.32.175`](109.160.32.175/) | Port scanning (80), SSH brute force (22) | 102 | 2026-11-15T12:46:56Z |
-| [`109.160.32.177`](109.160.32.177/) | Port scanning (54), Known botnet / C2 infrastructure (2) | 57 | 2026-11-16T05:18:21Z |
+| [`109.160.32.177`](109.160.32.177/) | Port scanning (55), Known botnet / C2 infrastructure (3) | 59 | 2026-11-21T21:27:30Z |
 | [`109.160.32.178`](109.160.32.178/) | Port scanning (39), SSH brute force (5) | 44 | 2026-11-17T06:26:27Z |
 | [`109.160.32.179`](109.160.32.179/) | Port scanning (50), SSH brute force (24) | 74 | 2026-11-16T03:43:52Z |
 | [`109.160.32.180`](109.160.32.180/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 12 | 2026-11-19T17:08:04Z |

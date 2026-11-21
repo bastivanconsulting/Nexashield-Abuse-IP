@@ -5,11 +5,11 @@
   "asn": 135161,
   "asn_org": "GMO-Z.COM PTE. LTD.",
   "categories": {
-    "scan": 18,
-    "c2": 11
+    "scan": 21,
+    "c2": 12
   },
-  "events": 33,
+  "events": 38,
   "first_seen": "2026-11-12T05:46:27Z",
-  "last_seen": "2026-11-21T08:54:24Z",
+  "last_seen": "2026-11-21T21:33:05Z",
   "reported": "not reported (permanent ban)"
 }

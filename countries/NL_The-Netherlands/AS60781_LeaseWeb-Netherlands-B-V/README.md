@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`82.192.72.6`](82.192.72.6/) | Web injection payload blocked by WAF (21) | 22 | 2026-11-21T20:42:05Z |
+| [`82.192.72.6`](82.192.72.6/) | Web injection payload blocked by WAF (40), Abusive HTTP requests (2) | 42 | 2026-11-21T20:41:10Z |
 | [`144.225.43.82`](144.225.43.82/) | Port scanning (24), Known botnet / C2 infrastructure (6) | 31 | 2026-11-21T11:57:45Z |
 
 ---

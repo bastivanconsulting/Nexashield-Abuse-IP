@@ -19,17 +19,17 @@
 | [🇨🇦 Canada](CA_Canada/) | 61 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 10 |
 | [🇨🇱 Chile](CL_Chile/) | 1 |
-| [🇨🇳 China](CN_China/) | 92 |
+| [🇨🇳 China](CN_China/) | 93 |
 | [🇨🇴 Colombia](CO_Colombia/) | 1 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 492 |
+| [🇩🇪 Germany](DE_Germany/) | 493 |
 | [🇩🇰 Denmark](DK_Denmark/) | 2 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 2 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 4 |
 | [🇫🇮 Finland](FI_Finland/) | 8 |
-| [🇫🇷 France](FR_France/) | 328 |
+| [🇫🇷 France](FR_France/) | 329 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1000 |
 | [🇬🇪 Georgia](GE_Georgia/) | 1 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
@@ -38,16 +38,16 @@
 | [🇮🇩 Indonesia](ID_Indonesia/) | 17 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
 | [🇮🇱 Israel](IL_Israel/) | 10 |
-| [🇮🇳 India](IN_India/) | 33 |
-| [🇮🇶 Iraq](IQ_Iraq/) | 1 |
+| [🇮🇳 India](IN_India/) | 34 |
+| [🇮🇶 Iraq](IQ_Iraq/) | 3 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 26 |
 | [🇯🇵 Japan](JP_Japan/) | 59 |
 | [🇰🇪 Kenya](KE_Kenya/) | 1 |
-| [🇰🇷 South Korea](KR_South-Korea/) | 35 |
+| [🇰🇷 South Korea](KR_South-Korea/) | 36 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 11 |
 | [🇱🇰 Sri Lanka](LK_Sri-Lanka/) | 1 |
-| [🇱🇹 Lithuania](LT_Lithuania/) | 15 |
+| [🇱🇹 Lithuania](LT_Lithuania/) | 16 |
 | [🇱🇺 Luxembourg](LU_Luxembourg/) | 3 |
 | [🇲🇩 Moldova](MD_Moldova/) | 2 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 1 |
@@ -67,13 +67,13 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 12 |
 | [🇸🇪 Sweden](SE_Sweden/) | 52 |
-| [🇸🇬 Singapore](SG_Singapore/) | 76 |
-| [🇸🇮 Slovenia](SI_Slovenia/) | 19 |
+| [🇸🇬 Singapore](SG_Singapore/) | 77 |
+| [🇸🇮 Slovenia](SI_Slovenia/) | 20 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 37 |
 | [🇹🇷 Turkey](TR_Turkey/) | 4 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 13 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 2 |
-| [🇺🇸 United States](US_United-States/) | 2746 |
+| [🇺🇸 United States](US_United-States/) | 2754 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 12 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |

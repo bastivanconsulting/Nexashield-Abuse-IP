@@ -5,12 +5,12 @@
   "asn": 135863,
   "asn_org": "Catla IT and Engg.Co.Pvt.Ltd.",
   "categories": {
-    "scan": 2,
+    "scan": 3,
     "c2": 4,
     "ssh": 4
   },
-  "events": 11,
+  "events": 12,
   "first_seen": "2026-11-11T12:24:55Z",
-  "last_seen": "2026-11-21T20:12:11Z",
+  "last_seen": "2026-11-21T21:59:50Z",
   "reported": "not reported (permanent ban)"
 }

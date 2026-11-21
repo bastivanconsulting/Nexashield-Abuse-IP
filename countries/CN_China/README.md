@@ -1,6 +1,6 @@
 # 🇨🇳 China
 
-**92** malicious IP(s) across **25** network(s).
+**93** malicious IP(s) across **26** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -23,10 +23,11 @@
 | [AS24404](AS24404_CNISP-Union-Technology-Beijing-Co-Ltd/) | CNISP-Union Technology (Beijing) Co., Ltd | 1 | Port scanning (68), Known botnet / C2 infrastructure (5) |
 | [AS38019](AS38019_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 1 | SSH brute force (11) |
 | [AS38283](AS38283_CHINANET-SiChuan-Telecom-Internet-Data-Center/) | CHINANET SiChuan Telecom Internet Data Center | 1 | SSH brute force (342), Port scanning (169) |
-| [AS4538](AS4538_China-Education-and-Research-Network-Center/) | China Education and Research Network Center | 1 | Port scanning (52), Known botnet / C2 infrastructure (12) |
+| [AS4538](AS4538_China-Education-and-Research-Network-Center/) | China Education and Research Network Center | 1 | Port scanning (54), Known botnet / C2 infrastructure (12) |
 | [AS4812](AS4812_China-Telecom-Group/) | China Telecom (Group) | 1 | Port scanning (24), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) |
 | [AS55990](AS55990_Huawei-Cloud-Service-data-center/) | Huawei Cloud Service data center | 1 | Port scanning (7), Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS56041](AS56041_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Port scanning (20) |
+| [AS56045](AS56045_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Known botnet / C2 infrastructure (3) |
 | [AS56046](AS56046_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Port scanning (8), Known botnet / C2 infrastructure (5) |
 | [AS63835](AS63835_No-293-Wanbao-Avenue/) | No.293,Wanbao Avenue | 1 | Port scanning (18), Known botnet / C2 infrastructure (5) |
 

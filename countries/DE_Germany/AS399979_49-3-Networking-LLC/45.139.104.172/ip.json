@@ -1,0 +1,14 @@
+{
+  "ip": "45.139.104.172",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 399979,
+  "asn_org": "49.3 Networking LLC",
+  "categories": {
+    "web": 5
+  },
+  "events": 5,
+  "first_seen": "2026-11-16T16:11:28Z",
+  "last_seen": "2026-11-17T00:45:42Z",
+  "reported": "2026-11-21T22:28:03Z"
+}

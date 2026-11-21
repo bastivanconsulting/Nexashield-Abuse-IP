@@ -5,10 +5,10 @@
   "asn": 219326,
   "asn_org": "SULAVI LTD",
   "categories": {
-    "spamhaus": 462
+    "spamhaus": 464
   },
-  "events": 462,
+  "events": 464,
   "first_seen": "2026-11-11T10:46:14Z",
-  "last_seen": "2026-11-21T21:32:37Z",
+  "last_seen": "2026-11-21T21:36:26Z",
   "reported": "2026-11-11T16:35:21Z"
 }

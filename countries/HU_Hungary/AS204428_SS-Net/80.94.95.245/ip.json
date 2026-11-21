@@ -5,10 +5,10 @@
   "asn": 204428,
   "asn_org": "SS-Net",
   "categories": {
-    "scan": 63
+    "scan": 66
   },
-  "events": 74,
+  "events": 78,
   "first_seen": "2026-11-14T16:08:42Z",
-  "last_seen": "2026-11-21T21:17:45Z",
+  "last_seen": "2026-11-21T21:51:58Z",
   "reported": "not reported (permanent ban)"
 }
