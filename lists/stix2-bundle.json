@@ -176878,6 +176878,32 @@
      "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
     }
    ]
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c0f3079d-efde-54c2-872a-420a8d641151",
+   "created_by_ref": "identity--23a34805-f18e-53c3-a6f6-1e6fa542a45e",
+   "created": "2026-11-20T10:24:00.000Z",
+   "modified": "2026-11-21T02:50:00.000Z",
+   "name": "NexaShield abuse IP 82.231.232.76",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "pattern": "[ipv4-addr:value = '82.231.232.76']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-20T10:24:00.000Z",
+   "description": "France - AS12322 Free SAS - Port scanning (110)",
+   "labels": [
+    "scan"
+   ],
+   "confidence": 80,
+   "external_references": [
+    {
+     "source_name": "NexaShield Abuse IP",
+     "url": "https://github.com/bastivanconsulting/Nexashield-Abuse-IP"
+    }
+   ]
   }
  ]
 }
