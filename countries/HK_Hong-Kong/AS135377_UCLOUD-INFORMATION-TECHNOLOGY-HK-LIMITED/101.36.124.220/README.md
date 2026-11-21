@@ -7,10 +7,10 @@
 | IP | `101.36.124.220` |
 | Country | Hong Kong (HK) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (32), Known botnet / C2 infrastructure (9) |
-| Events | 41 |
+| Activity | Port scanning (33), Known botnet / C2 infrastructure (10) |
+| Events | 43 |
 | First seen (UTC) | 2026-11-12T10:17:13Z |
-| Last seen (UTC) | 2026-11-20T17:47:12Z |
+| Last seen (UTC) | 2026-11-21T01:21:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

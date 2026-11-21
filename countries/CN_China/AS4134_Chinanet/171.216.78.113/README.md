@@ -7,11 +7,11 @@
 | IP | `171.216.78.113` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (26), Port scanning (1) |
-| Events | 43 |
-| First seen (UTC) | 2026-11-21T00:00:57Z |
-| Last seen (UTC) | 2026-11-21T00:24:03Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Activity | SSH brute force (29), Port scanning (2) |
+| Events | 31 |
+| First seen (UTC) | 2026-11-20T23:54:50Z |
+| Last seen (UTC) | 2026-11-21T00:23:32Z |
+| Reported to network owner (UTC) | 2026-11-21T02:27:01Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

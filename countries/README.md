@@ -12,7 +12,7 @@
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇦 Bosnia and Herzegovina](BA_Bosnia-and-Herzegovina/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 6 |
-| [🇧🇪 Belgium](BE_Belgium/) | 356 |
+| [🇧🇪 Belgium](BE_Belgium/) | 360 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 46 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
 | [🇧🇷 Brazil](BR_Brazil/) | 41 |
@@ -22,26 +22,26 @@
 | [🇨🇳 China](CN_China/) | 76 |
 | [🇨🇴 Colombia](CO_Colombia/) | 1 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 462 |
+| [🇩🇪 Germany](DE_Germany/) | 464 |
 | [🇩🇰 Denmark](DK_Denmark/) | 2 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 2 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 3 |
 | [🇫🇮 Finland](FI_Finland/) | 8 |
-| [🇫🇷 France](FR_France/) | 288 |
-| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 982 |
+| [🇫🇷 France](FR_France/) | 289 |
+| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 983 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
 | [🇭🇰 Hong Kong](HK_Hong-Kong/) | 180 |
 | [🇭🇺 Hungary](HU_Hungary/) | 5 |
 | [🇮🇩 Indonesia](ID_Indonesia/) | 17 |
 | [🇮🇪 Ireland](IE_Ireland/) | 3 |
 | [🇮🇱 Israel](IL_Israel/) | 10 |
-| [🇮🇳 India](IN_India/) | 20 |
+| [🇮🇳 India](IN_India/) | 21 |
 | [🇮🇶 Iraq](IQ_Iraq/) | 1 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 25 |
-| [🇯🇵 Japan](JP_Japan/) | 51 |
+| [🇯🇵 Japan](JP_Japan/) | 52 |
 | [🇰🇪 Kenya](KE_Kenya/) | 1 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 33 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 11 |
@@ -65,13 +65,13 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 10 |
 | [🇸🇪 Sweden](SE_Sweden/) | 45 |
-| [🇸🇬 Singapore](SG_Singapore/) | 65 |
+| [🇸🇬 Singapore](SG_Singapore/) | 66 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 17 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 35 |
 | [🇹🇷 Turkey](TR_Turkey/) | 4 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 12 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 2490 |
+| [🇺🇸 United States](US_United-States/) | 2499 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 12 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |

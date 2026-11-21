@@ -1,6 +1,6 @@
 # AS14061 · DigitalOcean, LLC
 
-🇺🇸 United States · **71** malicious IP(s)
+🇺🇸 United States · **72** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,7 +13,7 @@
 | [`64.227.95.171`](64.227.95.171/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T10:36:16Z |
 | [`68.183.139.205`](68.183.139.205/) | Port scanning (3159), Known botnet / C2 infrastructure (12) | 3172 | 2026-11-16T06:59:19Z |
 | [`68.183.174.225`](68.183.174.225/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T18:26:48Z |
-| [`104.236.229.227`](104.236.229.227/) | Port scanning (47) | 67 | 2026-11-20T10:54:26Z |
+| [`104.236.229.227`](104.236.229.227/) | Port scanning (48) | 69 | 2026-11-21T02:00:01Z |
 | [`104.248.113.192`](104.248.113.192/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-20T20:46:03Z |
 | [`104.248.210.24`](104.248.210.24/) | Port scanning (41), Known botnet / C2 infrastructure (5) | 53 | 2026-11-21T00:29:57Z |
 | [`104.248.229.49`](104.248.229.49/) | Port scanning (29), Known botnet / C2 infrastructure (15) | 45 | 2026-11-20T19:33:47Z |
@@ -22,11 +22,11 @@
 | [`134.122.119.203`](134.122.119.203/) | Port scanning (3) | 5 | 2026-11-15T04:49:04Z |
 | [`134.122.125.153`](134.122.125.153/) | Port scanning (18), Known botnet / C2 infrastructure (3) | 31 | 2026-11-20T17:15:04Z |
 | [`134.199.209.2`](134.199.209.2/) | Port scanning (28), Known botnet / C2 infrastructure (7) | 45 | 2026-11-21T00:07:38Z |
-| [`134.199.230.0`](134.199.230.0/) | Port scanning (54) | 67 | 2026-11-21T01:14:14Z |
+| [`134.199.230.0`](134.199.230.0/) | Port scanning (55) | 68 | 2026-11-21T01:28:22Z |
 | [`134.209.62.105`](134.209.62.105/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-16T04:40:30Z |
 | [`137.184.31.185`](137.184.31.185/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-20T00:23:02Z |
 | [`137.184.85.24`](137.184.85.24/) | Port scanning (25), Known botnet / C2 infrastructure (10), Web injection payload blocked by WAF (2) | 40 | 2026-11-20T22:27:04Z |
-| [`137.184.105.192`](137.184.105.192/) | Port scanning (24), Known botnet / C2 infrastructure (12) | 38 | 2026-11-20T20:31:18Z |
+| [`137.184.105.192`](137.184.105.192/) | Port scanning (25), Known botnet / C2 infrastructure (13) | 40 | 2026-11-21T01:56:57Z |
 | [`137.184.226.250`](137.184.226.250/) | Port scanning (24), Known botnet / C2 infrastructure (11) | 36 | 2026-11-19T23:11:30Z |
 | [`138.68.16.163`](138.68.16.163/) | Port scanning (48), Known botnet / C2 infrastructure (12) | 61 | 2026-11-20T05:34:13Z |
 | [`138.197.15.182`](138.197.15.182/) | Port scanning (40), Known botnet / C2 infrastructure (16) | 60 | 2026-11-20T22:27:09Z |
@@ -54,6 +54,7 @@
 | [`157.245.166.229`](157.245.166.229/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-15T17:00:21Z |
 | [`157.245.173.174`](157.245.173.174/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T19:05:36Z |
 | [`157.245.190.211`](157.245.190.211/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T04:40:54Z |
+| [`159.65.65.73`](159.65.65.73/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-21T01:41:04Z |
 | [`159.65.67.214`](159.65.67.214/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T08:35:13Z |
 | [`159.65.165.205`](159.65.165.205/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T05:00:59Z |
 | [`159.65.224.182`](159.65.224.182/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-20T06:20:24Z |

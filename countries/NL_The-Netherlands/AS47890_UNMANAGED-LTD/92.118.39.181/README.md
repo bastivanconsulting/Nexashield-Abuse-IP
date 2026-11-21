@@ -7,10 +7,10 @@
 | IP | `92.118.39.181` |
 | Country | The Netherlands (NL) |
 | ASN | AS47890 · UNMANAGED LTD |
-| Activity | Port scanning (234), Known botnet / C2 infrastructure (16) |
-| Events | 256 |
+| Activity | Port scanning (237), Known botnet / C2 infrastructure (16) |
+| Events | 259 |
 | First seen (UTC) | 2026-11-13T03:40:35Z |
-| Last seen (UTC) | 2026-11-21T01:08:24Z |
+| Last seen (UTC) | 2026-11-21T01:57:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

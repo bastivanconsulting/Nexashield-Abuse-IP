@@ -1,6 +1,6 @@
 # 🇮🇳 India
 
-**20** malicious IP(s) across **12** network(s).
+**21** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | Port scanning (16), Known botnet / C2 infrastructure (10) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 2 | Port scanning (28), Known botnet / C2 infrastructure (10), Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
@@ -15,7 +16,6 @@
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 1 | Port scanning (8), Known botnet / C2 infrastructure (7) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | SSH brute force (21), Known botnet / C2 infrastructure (2) |
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 1 | Port scanning (28), Known botnet / C2 infrastructure (10) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

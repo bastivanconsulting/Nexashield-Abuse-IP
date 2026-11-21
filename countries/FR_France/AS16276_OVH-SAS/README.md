@@ -1,6 +1,6 @@
 # AS16276 · OVH SAS
 
-🇫🇷 France · **9** malicious IP(s)
+🇫🇷 France · **10** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [`51.255.209.196`](51.255.209.196/) | Port scanning (248), Known botnet / C2 infrastructure (18) | 279 | 2026-11-20T19:10:23Z |
 | [`80.87.206.25`](80.87.206.25/) | Port scanning (2) | 3 | 2026-11-12T16:18:02Z |
 | [`80.87.206.153`](80.87.206.153/) | Port scanning (7), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (2), Abusive HTTP requests (2) | 18 | 2026-11-21T00:55:54Z |
+| [`80.87.206.234`](80.87.206.234/) | Known botnet / C2 infrastructure (2) | 2 | 2026-11-21T02:18:29Z |
 | [`151.80.46.72`](151.80.46.72/) | Port scanning (1) | 2 | 2026-11-15T04:52:04Z |
 | [`213.32.122.81`](213.32.122.81/) | Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-18T17:51:04Z |
 
