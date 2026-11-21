@@ -7,10 +7,10 @@
 | IP | `62.146.170.86` |
 | Country | France (FR) |
 | ASN | AS40021 · Contabo Inc. |
-| Activity | Port scanning (25), Known botnet / C2 infrastructure (2) |
-| Events | 32 |
+| Activity | Port scanning (29), Known botnet / C2 infrastructure (2) |
+| Events | 37 |
 | First seen (UTC) | 2026-11-18T18:36:39Z |
-| Last seen (UTC) | 2026-11-21T14:43:42Z |
+| Last seen (UTC) | 2026-11-21T16:14:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

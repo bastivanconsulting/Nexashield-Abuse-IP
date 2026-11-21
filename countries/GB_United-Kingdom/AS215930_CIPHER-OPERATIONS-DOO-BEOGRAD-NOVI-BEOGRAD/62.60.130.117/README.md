@@ -7,10 +7,10 @@
 | IP | `62.60.130.117` |
 | Country | United Kingdom (GB) |
 | ASN | AS215930 · CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD |
-| Activity | Known botnet / C2 infrastructure (2) |
-| Events | 8 |
+| Activity | Known botnet / C2 infrastructure (3), Port scanning (1) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-18T01:50:38Z |
-| Last seen (UTC) | 2026-11-18T07:58:52Z |
+| Last seen (UTC) | 2026-11-21T15:23:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

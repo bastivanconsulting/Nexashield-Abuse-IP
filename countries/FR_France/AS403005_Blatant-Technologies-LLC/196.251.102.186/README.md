@@ -8,9 +8,9 @@
 | Country | France (FR) |
 | ASN | AS403005 · Blatant Technologies, LLC |
 | Activity | Port scanning (17) |
-| Events | 17 |
+| Events | 18 |
 | First seen (UTC) | 2026-11-12T10:26:49Z |
-| Last seen (UTC) | 2026-11-21T15:00:42Z |
+| Last seen (UTC) | 2026-11-21T15:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

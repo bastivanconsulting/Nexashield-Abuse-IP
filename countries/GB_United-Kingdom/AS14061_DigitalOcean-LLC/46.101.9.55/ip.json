@@ -1,0 +1,16 @@
+{
+  "ip": "46.101.9.55",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 14061,
+  "asn_org": "DigitalOcean, LLC",
+  "categories": {
+    "ssh": 3,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-20T17:37:28Z",
+  "last_seen": "2026-11-21T00:27:27Z",
+  "reported": "not reported (permanent ban)"
+}

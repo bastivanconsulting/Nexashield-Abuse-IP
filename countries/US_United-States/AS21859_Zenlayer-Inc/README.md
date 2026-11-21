@@ -1,6 +1,6 @@
 # AS21859 · Zenlayer Inc
 
-🇺🇸 United States · **93** malicious IP(s)
+🇺🇸 United States · **94** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -28,7 +28,7 @@
 | [`109.105.209.57`](109.105.209.57/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 7 | 2026-11-20T14:18:17Z |
 | [`109.105.209.59`](109.105.209.59/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-19T16:52:20Z |
 | [`109.105.209.62`](109.105.209.62/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-15T15:41:47Z |
-| [`109.105.209.83`](109.105.209.83/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T17:47:24Z |
+| [`109.105.209.83`](109.105.209.83/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-21T16:09:14Z |
 | [`109.105.209.87`](109.105.209.87/) | Port scanning (2), Abusive HTTP requests (1) | 5 | 2026-11-15T16:06:13Z |
 | [`109.105.209.88`](109.105.209.88/) | Abusive HTTP requests (1) | 1 | 2026-11-15T16:05:48Z |
 | [`109.105.209.106`](109.105.209.106/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T17:18:55Z |
@@ -41,9 +41,10 @@
 | [`109.105.210.18`](109.105.210.18/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-15T17:45:22Z |
 | [`109.105.210.20`](109.105.210.20/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 6 | 2026-11-15T16:04:11Z |
 | [`109.105.210.22`](109.105.210.22/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-15T17:05:57Z |
-| [`109.105.210.25`](109.105.210.25/) | Port scanning (3) | 6 | 2026-11-15T16:04:41Z |
-| [`109.105.210.35`](109.105.210.35/) | Port scanning (1) | 2 | 2026-11-15T17:01:07Z |
+| [`109.105.210.25`](109.105.210.25/) | Port scanning (4), Known botnet / C2 infrastructure (1) | 8 | 2026-11-21T15:38:39Z |
+| [`109.105.210.35`](109.105.210.35/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-21T15:38:08Z |
 | [`109.105.210.40`](109.105.210.40/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T16:11:49Z |
+| [`109.105.210.42`](109.105.210.42/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T15:56:05Z |
 | [`109.105.210.43`](109.105.210.43/) | Port scanning (6) | 12 | 2026-11-19T15:42:15Z |
 | [`109.105.210.45`](109.105.210.45/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-17T17:34:14Z |
 | [`109.105.210.49`](109.105.210.49/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-15T17:37:14Z |
@@ -62,7 +63,7 @@
 | [`109.105.210.72`](109.105.210.72/) | Port scanning (17), Known botnet / C2 infrastructure (10) | 28 | 2026-11-21T09:47:26Z |
 | [`109.105.210.73`](109.105.210.73/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-18T07:55:19Z |
 | [`109.105.210.78`](109.105.210.78/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T01:14:01Z |
-| [`109.105.210.82`](109.105.210.82/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-16T02:16:14Z |
+| [`109.105.210.82`](109.105.210.82/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-21T15:30:30Z |
 | [`109.105.210.83`](109.105.210.83/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-21T15:07:35Z |
 | [`109.105.210.84`](109.105.210.84/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-21T09:57:38Z |
 | [`109.105.210.85`](109.105.210.85/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-21T04:53:10Z |

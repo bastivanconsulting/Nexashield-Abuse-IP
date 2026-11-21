@@ -7,10 +7,10 @@
 | IP | `31.14.32.8` |
 | Country | The Netherlands (NL) |
 | ASN | AS201401 · NewVM B.V. |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (5), Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 30 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (5), Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-13T18:21:48Z |
-| Last seen (UTC) | 2026-11-21T15:11:39Z |
+| Last seen (UTC) | 2026-11-21T16:14:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

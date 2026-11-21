@@ -8,9 +8,9 @@
 | Country | Russia (RU) |
 | ASN | AS198953 · Proton66 OOO |
 | Activity | Port scanning (16), Abusive HTTP requests (4) |
-| Events | 22 |
+| Events | 23 |
 | First seen (UTC) | 2026-11-15T10:19:23Z |
-| Last seen (UTC) | 2026-11-21T15:01:59Z |
+| Last seen (UTC) | 2026-11-21T15:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

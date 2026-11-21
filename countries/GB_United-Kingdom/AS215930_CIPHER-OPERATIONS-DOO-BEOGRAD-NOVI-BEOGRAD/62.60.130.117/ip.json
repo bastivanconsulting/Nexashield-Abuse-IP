@@ -5,10 +5,11 @@
   "asn": 215930,
   "asn_org": "CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD",
   "categories": {
-    "c2": 2
+    "c2": 3,
+    "scan": 1
   },
-  "events": 8,
+  "events": 11,
   "first_seen": "2026-11-18T01:50:38Z",
-  "last_seen": "2026-11-18T07:58:52Z",
+  "last_seen": "2026-11-21T15:23:05Z",
   "reported": "not reported (permanent ban)"
 }

@@ -6,11 +6,11 @@
   "asn_org": "Blatant Technologies, LLC",
   "categories": {
     "web": 819,
-    "c2": 12,
-    "scan": 12
+    "c2": 13,
+    "scan": 13
   },
-  "events": 859,
+  "events": 861,
   "first_seen": "2026-11-09T16:42:04Z",
-  "last_seen": "2026-11-21T07:54:01Z",
+  "last_seen": "2026-11-21T15:36:37Z",
   "reported": "not reported (permanent ban)"
 }
