@@ -1,0 +1,15 @@
+{
+  "ip": "194.103.82.72",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 3399,
+  "asn_org": "Obenetwork AB",
+  "categories": {
+    "ssh": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-17T02:50:22Z",
+  "last_seen": "2026-11-22T12:54:05Z",
+  "reported": "not reported (permanent ban)"
+}

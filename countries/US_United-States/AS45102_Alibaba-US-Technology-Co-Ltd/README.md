@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇺🇸 United States · **100** malicious IP(s)
+🇺🇸 United States · **101** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -24,6 +24,7 @@
 | [`47.88.2.147`](47.88.2.147/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-20T10:08:12Z |
 | [`47.88.9.192`](47.88.9.192/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-20T20:53:05Z |
 | [`47.88.18.115`](47.88.18.115/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T02:53:57Z |
+| [`47.88.53.172`](47.88.53.172/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-21T22:59:05Z |
 | [`47.88.58.42`](47.88.58.42/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T04:31:04Z |
 | [`47.88.66.103`](47.88.66.103/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-21T15:02:28Z |
 | [`47.88.84.106`](47.88.84.106/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T14:01:05Z |
@@ -78,7 +79,7 @@
 | [`47.251.186.35`](47.251.186.35/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-21T18:39:27Z |
 | [`47.251.187.66`](47.251.187.66/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-21T13:48:04Z |
 | [`47.251.187.242`](47.251.187.242/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T13:10:05Z |
-| [`47.251.189.52`](47.251.189.52/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T04:35:06Z |
+| [`47.251.189.52`](47.251.189.52/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T13:15:17Z |
 | [`47.251.190.194`](47.251.190.194/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T20:54:29Z |
 | [`47.251.190.201`](47.251.190.201/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T01:31:04Z |
 | [`47.251.242.252`](47.251.242.252/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T04:53:46Z |
@@ -87,7 +88,7 @@
 | [`47.251.247.182`](47.251.247.182/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T07:23:05Z |
 | [`47.251.249.156`](47.251.249.156/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-22T04:01:51Z |
 | [`47.251.249.208`](47.251.249.208/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-21T19:16:38Z |
-| [`47.251.250.61`](47.251.250.61/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T16:38:04Z |
+| [`47.251.250.61`](47.251.250.61/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-22T12:32:30Z |
 | [`47.251.250.101`](47.251.250.101/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-21T15:46:48Z |
 | [`47.251.251.225`](47.251.251.225/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T08:32:05Z |
 | [`47.251.252.193`](47.251.252.193/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 16 | 2026-11-21T19:43:03Z |
@@ -97,7 +98,7 @@
 | [`47.254.36.99`](47.254.36.99/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T03:22:05Z |
 | [`47.254.37.145`](47.254.37.145/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-22T10:29:04Z |
 | [`47.254.44.103`](47.254.44.103/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-17T04:36:14Z |
-| [`47.254.53.137`](47.254.53.137/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T02:08:42Z |
+| [`47.254.53.137`](47.254.53.137/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T12:28:26Z |
 | [`47.254.69.213`](47.254.69.213/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-21T12:38:13Z |
 | [`47.254.70.175`](47.254.70.175/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T20:37:05Z |
 | [`47.254.84.155`](47.254.84.155/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T05:01:06Z |

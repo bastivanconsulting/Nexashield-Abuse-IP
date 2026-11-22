@@ -5,11 +5,11 @@
   "asn": 218785,
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
-    "spamhaus": 23,
+    "spamhaus": 25,
     "web": 3
   },
-  "events": 26,
+  "events": 28,
   "first_seen": "2026-11-11T12:13:56Z",
-  "last_seen": "2026-11-22T10:46:01Z",
+  "last_seen": "2026-11-22T12:46:41Z",
   "reported": "2026-11-11T17:06:53Z"
 }

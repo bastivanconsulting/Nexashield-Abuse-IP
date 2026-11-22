@@ -5,11 +5,11 @@
   "asn": 402226,
   "asn_org": "OnlyScans LLC",
   "categories": {
-    "scan": 7,
-    "c2": 7
+    "scan": 8,
+    "c2": 8
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-11T19:01:54Z",
-  "last_seen": "2026-11-22T04:05:23Z",
+  "last_seen": "2026-11-22T13:08:09Z",
   "reported": "not reported (permanent ban)"
 }

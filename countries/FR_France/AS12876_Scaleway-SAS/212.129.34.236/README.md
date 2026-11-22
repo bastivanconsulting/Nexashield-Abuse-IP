@@ -7,10 +7,10 @@
 | IP | `212.129.34.236` |
 | Country | France (FR) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (14), Known botnet / C2 infrastructure (6), Abusive HTTP requests (1) |
-| Events | 24 |
+| Activity | Port scanning (15), Known botnet / C2 infrastructure (6), Abusive HTTP requests (1) |
+| Events | 25 |
 | First seen (UTC) | 2026-11-19T14:00:07Z |
-| Last seen (UTC) | 2026-11-22T09:47:36Z |
+| Last seen (UTC) | 2026-11-22T13:02:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

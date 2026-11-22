@@ -7,10 +7,10 @@
 | IP | `195.3.223.177` |
 | Country | Poland (PL) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | Port scanning (20) |
-| Events | 30 |
+| Activity | Port scanning (21) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-17T10:31:03Z |
-| Last seen (UTC) | 2026-11-22T12:16:42Z |
+| Last seen (UTC) | 2026-11-22T12:42:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,5 +1,5 @@
-Sur la période observée, le dépôt recense 406104 événements générés par 7132 adresses IP réparties dans 78 pays et 570 réseaux ASN, avec une dernière activité enregistrée le 2026-11-22. Les États-Unis constituent la principale source géographique avec 2899 IP, suivis du Royaume-Uni (1007) et des Pays-Bas (615). Les activités observées se concentrent majoritairement sur le balayage de ports et les infrastructures botnet ou C2 connues.
+Sur la période observée, le dépôt a recensé 408123 événements issus de 7163 adresses réparties sur 78 pays et 572 réseaux ASN, avec une dernière activité enregistrée le 2026-11-22. Les origines géographiques les plus représentées sont les États-Unis (2909), le Royaume-Uni (1008) et les Pays-Bas (620). Les natures d'événements dominantes sont le balayage de ports (6640) et l'infrastructure botnet / C2 connue (5393).
 
-- Les natures d'événements les plus fréquentes sont le balayage de ports (6610) et l'infrastructure botnet / C2 connue (5364), suivis des requêtes HTTP abusives (472).
-- Les principaux réseaux ASN impliqués sont AS8075 Microsoft Corporation (993), AS25369 Hydra Communications Ltd (991) et AS396982 Google LLC (465).
-- On relève également des tentatives d'exploitation (CVE, RCE, injection) au nombre de 382 et de force brute SSH (362).
+- Les principaux réseaux ASN identifiés sont AS8075 (Microsoft Corporation) avec 999 événements, AS25369 (Hydra Communications Ltd) avec 991 et AS396982 (Google LLC) avec 465.
+- On relève également 472 requêtes HTTP abusives, 385 cas d'exploitation (CVE, RCE, injection) et 368 tentatives de force brute SSH.
+- Les autres activités incluent 164 charges d'injection bloquées par le WAF, 70 réseaux listés Spamhaus DROP, ainsi qu'une occurrence de force brute SMTP / IMAP et une signature d'exploit UDP.

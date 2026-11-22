@@ -7,10 +7,10 @@
 | IP | `216.226.78.20` |
 | Country | Japan (JP) |
 | ASN | AS50219 · LNK SYSTEMS MUNTENIA SRL |
-| Activity | Port scanning (86), Known botnet / C2 infrastructure (21) |
-| Events | 110 |
+| Activity | Port scanning (87), Known botnet / C2 infrastructure (22) |
+| Events | 112 |
 | First seen (UTC) | 2026-11-11T11:24:48Z |
-| Last seen (UTC) | 2026-11-22T11:47:37Z |
+| Last seen (UTC) | 2026-11-22T13:06:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

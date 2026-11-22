@@ -7,10 +7,10 @@
 | IP | `78.107.31.154` |
 | Country | Russia (RU) |
 | ASN | AS8402 · PJSC "Vimpelcom" |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (10) |
-| Events | 26 |
+| Activity | Port scanning (16), Known botnet / C2 infrastructure (10) |
+| Events | 27 |
 | First seen (UTC) | 2026-11-11T20:58:31Z |
-| Last seen (UTC) | 2026-11-22T11:33:28Z |
+| Last seen (UTC) | 2026-11-22T13:16:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

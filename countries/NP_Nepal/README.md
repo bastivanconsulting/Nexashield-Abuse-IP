@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4007](AS4007_Subisu-Cablenet/) | Subisu Cablenet | 1 | SSH brute force (39) |
+| [AS4007](AS4007_Subisu-Cablenet/) | Subisu Cablenet | 1 | SSH brute force (41) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

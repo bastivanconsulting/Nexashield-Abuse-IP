@@ -11,7 +11,7 @@
 | [`118.193.56.184`](118.193.56.184/) | Port scanning (17), Known botnet / C2 infrastructure (9) | 27 | 2026-11-21T00:58:46Z |
 | [`118.193.56.246`](118.193.56.246/) | Port scanning (20), Known botnet / C2 infrastructure (15) | 36 | 2026-11-21T13:47:00Z |
 | [`118.193.57.59`](118.193.57.59/) | Port scanning (24), Known botnet / C2 infrastructure (16) | 41 | 2026-11-21T23:00:36Z |
-| [`118.193.57.185`](118.193.57.185/) | Port scanning (20), Known botnet / C2 infrastructure (15) | 36 | 2026-11-22T03:48:05Z |
+| [`118.193.57.185`](118.193.57.185/) | Port scanning (21), Known botnet / C2 infrastructure (16) | 38 | 2026-11-22T13:02:03Z |
 | [`118.194.250.22`](118.194.250.22/) | Port scanning (27), Known botnet / C2 infrastructure (14) | 42 | 2026-11-22T06:10:34Z |
 | [`118.194.250.31`](118.194.250.31/) | Port scanning (12), Known botnet / C2 infrastructure (1) | 21 | 2026-11-22T04:23:04Z |
 | [`118.194.250.60`](118.194.250.60/) | Port scanning (30), Known botnet / C2 infrastructure (13) | 44 | 2026-11-22T11:13:14Z |
@@ -30,7 +30,7 @@
 | [`152.32.245.196`](152.32.245.196/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-17T13:58:19Z |
 | [`165.154.51.27`](165.154.51.27/) | Port scanning (23), Known botnet / C2 infrastructure (15) | 39 | 2026-11-22T07:23:24Z |
 | [`165.154.51.193`](165.154.51.193/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 36 | 2026-11-21T06:58:39Z |
-| [`165.154.118.215`](165.154.118.215/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-22T04:49:40Z |
+| [`165.154.118.215`](165.154.118.215/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-22T13:06:11Z |
 | [`165.154.119.20`](165.154.119.20/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-22T07:40:45Z |
 | [`165.154.120.30`](165.154.120.30/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-21T11:41:36Z |
 | [`165.154.120.89`](165.154.120.89/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-21T22:43:49Z |

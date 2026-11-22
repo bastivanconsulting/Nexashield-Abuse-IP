@@ -1,10 +1,10 @@
 # 🇸🇪 Sweden
 
-**58** malicious IP(s) across **13** network(s).
+**59** malicious IP(s) across **14** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 31 | Port scanning (2562), Known botnet / C2 infrastructure (312), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 31 | Port scanning (2577), Known botnet / C2 infrastructure (314), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 6 | SSH brute force (37), Known botnet / C2 infrastructure (21), Port scanning (3) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 6 | SSH brute force (25), Known botnet / C2 infrastructure (7), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 3 | SSH brute force (13), Known botnet / C2 infrastructure (11), Port scanning (6) |
@@ -16,6 +16,7 @@
 | [AS212238](AS212238_Datacamp-Limited/) | Datacamp Limited | 1 | Known botnet / C2 infrastructure (3) |
 | [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (35) |
 | [AS33885](AS33885_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
+| [AS3399](AS3399_Obenetwork-AB/) | Obenetwork AB | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3) |
 | [AS8434](AS8434_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 
 ---
