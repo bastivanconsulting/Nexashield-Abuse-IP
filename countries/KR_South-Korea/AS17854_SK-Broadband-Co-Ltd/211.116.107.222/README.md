@@ -7,10 +7,10 @@
 | IP | `211.116.107.222` |
 | Country | South Korea (KR) |
 | ASN | AS17854 · SK Broadband Co Ltd |
-| Activity | SSH brute force (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-12T14:24:42Z |
-| Last seen (UTC) | 2026-11-17T11:05:02Z |
+| Last seen (UTC) | 2026-11-22T09:31:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

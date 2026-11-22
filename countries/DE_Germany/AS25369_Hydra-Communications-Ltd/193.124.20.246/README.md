@@ -7,10 +7,10 @@
 | IP | `193.124.20.246` |
 | Country | Germany (DE) |
 | ASN | AS25369 · Hydra Communications Ltd |
-| Activity | Port scanning (101), Known botnet / C2 infrastructure (13) |
-| Events | 135 |
+| Activity | Port scanning (102), Known botnet / C2 infrastructure (13) |
+| Events | 136 |
 | First seen (UTC) | 2026-11-11T10:01:11Z |
-| Last seen (UTC) | 2026-11-22T07:57:03Z |
+| Last seen (UTC) | 2026-11-22T09:52:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

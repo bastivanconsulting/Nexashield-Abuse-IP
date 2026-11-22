@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`96.126.130.106`](96.126.130.106/) | Abusive HTTP requests (6) | 6 | 2026-11-20T16:09:46Z |
+| [`96.126.130.106`](96.126.130.106/) | Abusive HTTP requests (14) | 14 | 2026-11-22T09:52:42Z |
 | [`2400:8d60:8::96b0:ddfd`](2400_8d60_8__96b0_ddfd/) | Abusive HTTP requests (6) | 6 | 2026-11-12T08:09:33Z |
 
 ---

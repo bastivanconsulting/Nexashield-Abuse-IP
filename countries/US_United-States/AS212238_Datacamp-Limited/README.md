@@ -1,9 +1,10 @@
 # AS212238 · Datacamp Limited
 
-🇺🇸 United States · **1** malicious IP(s)
+🇺🇸 United States · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`84.233.212.3`](84.233.212.3/) | Abusive HTTP requests (84) | 84 | 2026-11-22T09:45:10Z |
 | [`154.47.26.225`](154.47.26.225/) | Port scanning (2) | 3 | 2026-11-22T07:49:05Z |
 
 ---
