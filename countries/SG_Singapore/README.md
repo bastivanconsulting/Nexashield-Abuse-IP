@@ -1,14 +1,14 @@
 # 🇸🇬 Singapore
 
-**77** malicious IP(s) across **11** network(s).
+**78** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 40 | Port scanning (174), Known botnet / C2 infrastructure (155), Abusive HTTP requests (1) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (273), Abusive HTTP requests (270), Known botnet / C2 infrastructure (71), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (325), Known botnet / C2 infrastructure (41) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 41 | Port scanning (177), Known botnet / C2 infrastructure (158), Abusive HTTP requests (1) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (274), Abusive HTTP requests (270), Known botnet / C2 infrastructure (71), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (326), Known botnet / C2 infrastructure (41) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 4 | Port scanning (99) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (198), SSH brute force (22), Web injection payload blocked by WAF (22), Port scanning (3) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (198), Web injection payload blocked by WAF (22), SSH brute force (11), Port scanning (2) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (70), Known botnet / C2 infrastructure (23), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Port scanning (15), Known botnet / C2 infrastructure (11) |
 | [AS154402](AS154402_Shenzhen-FredCloud-Computing-Technology-Co-Ltd/) | Shenzhen FredCloud Computing Technology Co., Ltd. | 1 | Port scanning (47) |

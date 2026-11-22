@@ -7,8 +7,8 @@
 | IP | `34.52.181.201` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (324) |
-| Events | 324 |
+| Activity | Abusive HTTP requests (162) |
+| Events | 162 |
 | First seen (UTC) | 2026-11-21T12:11:06Z |
 | Last seen (UTC) | 2026-11-21T12:11:14Z |
 | Reported to network owner (UTC) | 2026-11-21T12:27:46Z |

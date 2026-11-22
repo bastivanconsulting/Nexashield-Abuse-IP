@@ -7,8 +7,8 @@
 | IP | `158.51.96.38` |
 | Country | United States (US) |
 | ASN | AS397270 · NetInformatik Inc. |
-| Activity | SSH brute force (24), Port scanning (2) |
-| Events | 26 |
+| Activity | SSH brute force (12), Port scanning (1) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-21T15:55:01Z |
 | Last seen (UTC) | 2026-11-21T15:55:19Z |
 | Reported to network owner (UTC) | 2026-11-21T16:28:21Z |

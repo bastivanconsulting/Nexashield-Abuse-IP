@@ -7,8 +7,8 @@
 | IP | `117.215.78.109` |
 | Country | India (IN) |
 | ASN | AS9829 · Bharat Sanchar Nigam Ltd |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-21T17:45:04Z |
 | Last seen (UTC) | 2026-11-21T17:45:04Z |
 | Reported to network owner (UTC) | 2026-11-21T18:28:00Z |

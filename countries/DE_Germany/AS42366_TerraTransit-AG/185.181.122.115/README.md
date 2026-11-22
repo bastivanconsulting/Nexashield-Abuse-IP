@@ -7,8 +7,8 @@
 | IP | `185.181.122.115` |
 | Country | Germany (DE) |
 | ASN | AS42366 · TerraTransit AG |
-| Activity | Known botnet / C2 infrastructure (2) |
-| Events | 2 |
+| Activity | Known botnet / C2 infrastructure (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-21T06:01:16Z |
 | Last seen (UTC) | 2026-11-21T06:01:16Z |
 | Reported to network owner (UTC) | 2026-11-21T06:26:19Z |

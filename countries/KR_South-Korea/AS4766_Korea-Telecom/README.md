@@ -1,11 +1,12 @@
 # AS4766 · Korea Telecom
 
-🇰🇷 South Korea · **18** malicious IP(s)
+🇰🇷 South Korea · **19** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`14.55.141.2`](14.55.141.2/) | SSH brute force (10), Port scanning (3) | 13 | 2026-11-20T14:37:08Z |
 | [`61.74.103.25`](61.74.103.25/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 7 | 2026-11-12T04:41:01Z |
+| [`112.161.27.117`](112.161.27.117/) | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (2) | 9 | 2026-11-22T00:17:04Z |
 | [`118.36.222.243`](118.36.222.243/) | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (1) | 8 | 2026-11-21T22:31:05Z |
 | [`119.195.45.76`](119.195.45.76/) | SSH brute force (9), Port scanning (1) | 10 | 2026-11-11T11:12:40Z |
 | [`119.198.191.180`](119.198.191.180/) | SSH brute force (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T23:17:24Z |

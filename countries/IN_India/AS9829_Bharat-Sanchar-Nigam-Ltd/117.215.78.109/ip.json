@@ -5,9 +5,9 @@
   "asn": 9829,
   "asn_org": "Bharat Sanchar Nigam Ltd",
   "categories": {
-    "exploit": 4
+    "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-21T17:45:04Z",
   "last_seen": "2026-11-21T17:45:04Z",
   "reported": "2026-11-21T18:28:00Z"

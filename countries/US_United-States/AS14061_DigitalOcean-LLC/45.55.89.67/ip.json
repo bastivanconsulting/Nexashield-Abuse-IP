@@ -5,10 +5,10 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-    "waf": 18,
-    "exploit": 4
+    "waf": 9,
+    "exploit": 2
   },
-  "events": 22,
+  "events": 11,
   "first_seen": "2026-11-21T12:25:48Z",
   "last_seen": "2026-11-21T13:07:56Z",
   "reported": "2026-11-21T14:27:18Z"

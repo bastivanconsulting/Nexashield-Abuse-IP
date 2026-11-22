@@ -7,8 +7,8 @@
 | IP | `34.153.162.107` |
 | Country | United Kingdom (GB) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (394) |
-| Events | 394 |
+| Activity | Abusive HTTP requests (197) |
+| Events | 197 |
 | First seen (UTC) | 2026-11-21T03:30:22Z |
 | Last seen (UTC) | 2026-11-21T09:35:43Z |
 | Reported to network owner (UTC) | 2026-11-21T06:26:24Z |

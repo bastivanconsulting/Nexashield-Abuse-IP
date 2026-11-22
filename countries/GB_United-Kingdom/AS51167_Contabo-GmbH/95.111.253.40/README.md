@@ -7,8 +7,8 @@
 | IP | `95.111.253.40` |
 | Country | United Kingdom (GB) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Abusive HTTP requests (38) |
-| Events | 38 |
+| Activity | Abusive HTTP requests (19) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-21T05:53:31Z |
 | Last seen (UTC) | 2026-11-21T05:53:39Z |
 | Reported to network owner (UTC) | 2026-11-21T06:26:19Z |

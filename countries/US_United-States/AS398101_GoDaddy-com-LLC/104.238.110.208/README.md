@@ -10,7 +10,7 @@
 | Activity | Exploitation attempt (CVE / RCE / injection) (2) |
 | Events | 2 |
 | First seen (UTC) | 2026-11-21T07:42:26Z |
-| Last seen (UTC) | 2026-11-21T07:42:26Z |
+| Last seen (UTC) | 2026-11-21T23:59:42Z |
 | Reported to network owner (UTC) | 2026-11-21T08:27:11Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

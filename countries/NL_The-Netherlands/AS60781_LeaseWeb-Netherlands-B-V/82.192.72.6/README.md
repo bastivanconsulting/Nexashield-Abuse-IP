@@ -7,8 +7,8 @@
 | IP | `82.192.72.6` |
 | Country | The Netherlands (NL) |
 | ASN | AS60781 · LeaseWeb Netherlands B.V. |
-| Activity | Web injection payload blocked by WAF (40), Abusive HTTP requests (2) |
-| Events | 42 |
+| Activity | Web injection payload blocked by WAF (20), Abusive HTTP requests (1) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-21T20:41:10Z |
 | Last seen (UTC) | 2026-11-21T20:41:10Z |
 | Reported to network owner (UTC) | 2026-11-21T22:27:54Z |

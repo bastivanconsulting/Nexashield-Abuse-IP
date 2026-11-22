@@ -7,8 +7,8 @@
 | IP | `113.252.110.19` |
 | Country | Hong Kong (HK) |
 | ASN | AS9304 · HGC Global Communications Limited |
-| Activity | Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 4 |
+| Activity | Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-21T10:08:33Z |
 | Last seen (UTC) | 2026-11-21T10:08:33Z |
 | Reported to network owner (UTC) | 2026-11-21T12:27:32Z |

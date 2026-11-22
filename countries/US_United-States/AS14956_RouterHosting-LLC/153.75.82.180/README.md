@@ -7,8 +7,8 @@
 | IP | `153.75.82.180` |
 | Country | United States (US) |
 | ASN | AS14956 · RouterHosting LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (8) |
-| Events | 8 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-21T19:02:44Z |
 | Last seen (UTC) | 2026-11-21T20:13:54Z |
 | Reported to network owner (UTC) | 2026-11-21T20:27:19Z |

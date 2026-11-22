@@ -7,8 +7,8 @@
 | IP | `77.90.185.244` |
 | Country | Germany (DE) |
 | ASN | AS213790 · Limited Network LTD |
-| Activity | Spamhaus DROP-listed network (20), Abusive HTTP requests (10) |
-| Events | 30 |
+| Activity | Spamhaus DROP-listed network (10), Abusive HTTP requests (5) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-21T05:17:08Z |
 | Last seen (UTC) | 2026-11-21T18:30:34Z |
 | Reported to network owner (UTC) | 2026-11-21T12:27:50Z |

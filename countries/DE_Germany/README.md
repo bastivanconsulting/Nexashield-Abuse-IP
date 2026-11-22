@@ -4,22 +4,22 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209630](AS209630_LLC-VASH-KREDIT-BANK/) | LLC VASH KREDIT BANK | 80 | Port scanning (8902), Known botnet / C2 infrastructure (1451), Exploitation attempt (CVE / RCE / injection) (66), Abusive HTTP requests (3) |
+| [AS209630](AS209630_LLC-VASH-KREDIT-BANK/) | LLC VASH KREDIT BANK | 80 | Port scanning (8936), Known botnet / C2 infrastructure (1454), Exploitation attempt (CVE / RCE / injection) (66), Abusive HTTP requests (3) |
 | [AS208843](AS208843_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 75 | Port scanning (346), Known botnet / C2 infrastructure (289), Exploitation attempt (CVE / RCE / injection) (3) |
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 63 | Port scanning (3694), Known botnet / C2 infrastructure (1114), Abusive HTTP requests (7) |
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 43 | Port scanning (248), Known botnet / C2 infrastructure (188) |
-| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 40 | Port scanning (1969), Known botnet / C2 infrastructure (339), Abusive HTTP requests (10), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 35 | Port scanning (193), Abusive HTTP requests (103), Known botnet / C2 infrastructure (78), Exploitation attempt (CVE / RCE / injection) (8) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 63 | Port scanning (3696), Known botnet / C2 infrastructure (1114), Abusive HTTP requests (7) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 43 | Port scanning (249), Known botnet / C2 infrastructure (188) |
+| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 40 | Port scanning (1971), Known botnet / C2 infrastructure (339), Abusive HTTP requests (10), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 35 | Port scanning (192), Abusive HTTP requests (85), Known botnet / C2 infrastructure (78), Exploitation attempt (CVE / RCE / injection) (7) |
 | [AS401626](AS401626_Netiface-America-Inc/) | Netiface America, Inc. | 22 | Port scanning (525), Known botnet / C2 infrastructure (5) |
-| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 16 | Port scanning (6404), Known botnet / C2 infrastructure (338), Abusive HTTP requests (14) |
+| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 16 | Port scanning (6418), Known botnet / C2 infrastructure (340), Abusive HTTP requests (14) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 15 | Port scanning (199), Known botnet / C2 infrastructure (103) |
-| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 10 | SSH brute force (234), Spamhaus DROP-listed network (71), Port scanning (35), Known botnet / C2 infrastructure (11), Abusive HTTP requests (3) |
-| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 9 | Port scanning (1053), Abusive HTTP requests (61), Known botnet / C2 infrastructure (44), Spamhaus DROP-listed network (20) |
+| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 10 | SSH brute force (234), Spamhaus DROP-listed network (70), Port scanning (32), Known botnet / C2 infrastructure (11), Abusive HTTP requests (3) |
+| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 9 | Port scanning (1054), Abusive HTTP requests (56), Known botnet / C2 infrastructure (44), Spamhaus DROP-listed network (10) |
 | [AS51167](AS51167_Contabo-GmbH/) | Contabo GmbH | 8 | Abusive HTTP requests (156), Port scanning (58), Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (8), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS199457](AS199457_SolidCore-Hosting-LTD/) | SolidCore Hosting LTD | 7 | Port scanning (301), Abusive HTTP requests (118), Known botnet / C2 infrastructure (24) |
-| [AS211607](AS211607_Securitytrails-LLC/) | Securitytrails, LLC | 7 | Port scanning (221), Known botnet / C2 infrastructure (13) |
+| [AS199457](AS199457_SolidCore-Hosting-LTD/) | SolidCore Hosting LTD | 7 | Port scanning (302), Abusive HTTP requests (118), Known botnet / C2 infrastructure (24) |
+| [AS211607](AS211607_Securitytrails-LLC/) | Securitytrails, LLC | 7 | Port scanning (222), Known botnet / C2 infrastructure (13) |
 | [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 6 | Port scanning (117), Exploitation attempt (CVE / RCE / injection) (32), Abusive HTTP requests (27), Known botnet / C2 infrastructure (12) |
-| [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 6 | Port scanning (702), Abusive HTTP requests (215), Known botnet / C2 infrastructure (18), Spamhaus DROP-listed network (2) |
+| [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 6 | Port scanning (703), Abusive HTTP requests (215), Known botnet / C2 infrastructure (19), Spamhaus DROP-listed network (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 5 | Abusive HTTP requests (1101), Web injection payload blocked by WAF (259) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 5 | Port scanning (1432), Abusive HTTP requests (49), Known botnet / C2 infrastructure (9), Web injection payload blocked by WAF (2) |
 | [AS680](AS680_Verein-zur-Foerderung-eines-Deutschen-Forschungs/) | Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. | 5 | Port scanning (79), Known botnet / C2 infrastructure (28), SSH brute force (12) |
@@ -30,7 +30,7 @@
 | [AS197769](AS197769_VPS-Dedicated-LLC/) | VPS Dedicated LLC | 3 | Port scanning (45), Known botnet / C2 infrastructure (8) |
 | [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 2 | Port scanning (576), Abusive HTTP requests (79), Known botnet / C2 infrastructure (38) |
 | [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 2 | Port scanning (44), Known botnet / C2 infrastructure (2) |
-| [AS42366](AS42366_TerraTransit-AG/) | TerraTransit AG | 2 | Abusive HTTP requests (51), Known botnet / C2 infrastructure (2) |
+| [AS42366](AS42366_TerraTransit-AG/) | TerraTransit AG | 2 | Abusive HTTP requests (51), Known botnet / C2 infrastructure (1) |
 | [AS153810](AS153810_MDN-TECHNOLOGY-LTD/) | MDN TECHNOLOGY LTD | 1 | SSH brute force (10) |
 | [AS197540](AS197540_netcup-GmbH/) | netcup GmbH | 1 | Port scanning (7) |
 | [AS197574](AS197574_ExpressHost-Ltd/) | ExpressHost Ltd | 1 | Port scanning (9), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (2) |

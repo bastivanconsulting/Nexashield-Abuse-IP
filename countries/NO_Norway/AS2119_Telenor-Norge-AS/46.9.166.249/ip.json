@@ -5,9 +5,9 @@
   "asn": 2119,
   "asn_org": "Telenor Norge AS",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-21T18:51:29Z",
   "last_seen": "2026-11-21T18:51:29Z",
   "reported": "2026-11-21T20:27:28Z"

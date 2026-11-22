@@ -5,9 +5,9 @@
   "asn": 42366,
   "asn_org": "TerraTransit AG",
   "categories": {
-    "c2": 2
+    "c2": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-21T06:01:16Z",
   "last_seen": "2026-11-21T06:01:16Z",
   "reported": "2026-11-21T06:26:19Z"

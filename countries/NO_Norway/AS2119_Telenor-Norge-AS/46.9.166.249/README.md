@@ -7,8 +7,8 @@
 | IP | `46.9.166.249` |
 | Country | Norway (NO) |
 | ASN | AS2119 · Telenor Norge AS |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-21T18:51:29Z |
 | Last seen (UTC) | 2026-11-21T18:51:29Z |
 | Reported to network owner (UTC) | 2026-11-21T20:27:28Z |

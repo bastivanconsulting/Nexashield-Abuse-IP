@@ -7,8 +7,8 @@
 | IP | `34.234.77.203` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-21T15:18:16Z |
 | Last seen (UTC) | 2026-11-21T15:18:16Z |
 | Reported to network owner (UTC) | 2026-11-21T16:28:16Z |

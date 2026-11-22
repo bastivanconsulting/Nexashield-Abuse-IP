@@ -1,0 +1,15 @@
+{
+  "ip": "197.156.97.198",
+  "country_code": "ET",
+  "country": "Ethiopia",
+  "asn": 24757,
+  "asn_org": "EthioNet",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-16T13:44:51Z",
+  "last_seen": "2026-11-21T16:10:46Z",
+  "reported": "not reported (permanent ban)"
+}

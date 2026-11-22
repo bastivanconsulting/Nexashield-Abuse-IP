@@ -7,8 +7,8 @@
 | IP | `94.177.136.37` |
 | Country | Romania (RO) |
 | ASN | AS52189 · OMEGA NET SRL |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-21T20:05:11Z |
 | Last seen (UTC) | 2026-11-21T20:05:11Z |
 | Reported to network owner (UTC) | 2026-11-21T20:27:23Z |

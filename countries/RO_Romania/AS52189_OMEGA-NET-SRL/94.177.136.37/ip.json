@@ -5,9 +5,9 @@
   "asn": 52189,
   "asn_org": "OMEGA NET SRL",
   "categories": {
-    "exploit": 4
+    "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-21T20:05:11Z",
   "last_seen": "2026-11-21T20:05:11Z",
   "reported": "2026-11-21T20:27:23Z"

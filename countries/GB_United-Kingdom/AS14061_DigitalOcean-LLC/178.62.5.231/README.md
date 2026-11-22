@@ -7,8 +7,8 @@
 | IP | `178.62.5.231` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (20), Port scanning (8) |
-| Events | 28 |
+| Activity | Abusive HTTP requests (10), Port scanning (4) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-21T04:43:21Z |
 | Last seen (UTC) | 2026-11-21T04:43:21Z |
 | Reported to network owner (UTC) | 2026-11-21T06:26:29Z |

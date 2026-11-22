@@ -5,10 +5,10 @@
   "asn": 53514,
   "asn_org": "UHQ Services LLC",
   "categories": {
-    "web": 180,
-    "waf": 96
+    "web": 90,
+    "waf": 48
   },
-  "events": 276,
+  "events": 138,
   "first_seen": "2026-11-21T14:13:36Z",
   "last_seen": "2026-11-21T14:13:43Z",
   "reported": "2026-11-21T16:28:12Z"

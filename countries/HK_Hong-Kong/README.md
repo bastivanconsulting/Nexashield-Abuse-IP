@@ -5,8 +5,8 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (220) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 76 | Port scanning (1607), Known botnet / C2 infrastructure (681), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (4068), Abusive HTTP requests (1035), Spamhaus DROP-listed network (227), Known botnet / C2 infrastructure (49), Web injection payload blocked by WAF (5) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 76 | Port scanning (1610), Known botnet / C2 infrastructure (684), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (4073), Abusive HTTP requests (1035), Spamhaus DROP-listed network (194), Known botnet / C2 infrastructure (49), Web injection payload blocked by WAF (5) |
 | [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (762), Known botnet / C2 infrastructure (72) |
 | [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1166), Known botnet / C2 infrastructure (68), Exploitation attempt (CVE / RCE / injection) (15) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 4 | SSH brute force (160), Port scanning (13), Known botnet / C2 infrastructure (7), Exploitation attempt (CVE / RCE / injection) (3) |
@@ -21,7 +21,7 @@
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (40), Known botnet / C2 infrastructure (6) |
 | [AS4515](AS4515_PCCW-IMS-Ltd-PCCW-Business-Internet-Access/) | PCCW IMS Ltd (PCCW Business Internet Access) | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
 | [AS64079](AS64079_China-Telecom-Global-Limited/) | China Telecom Global Limited | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
-| [AS9304](AS9304_HGC-Global-Communications-Limited/) | HGC Global Communications Limited | 1 | Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS9304](AS9304_HGC-Global-Communications-Limited/) | HGC Global Communications Limited | 1 | Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

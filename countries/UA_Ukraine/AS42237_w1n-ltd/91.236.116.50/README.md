@@ -7,8 +7,8 @@
 | IP | `91.236.116.50` |
 | Country | Ukraine (UA) |
 | ASN | AS42237 · w1n ltd |
-| Activity | SSH brute force (12), Port scanning (2) |
-| Events | 14 |
+| Activity | SSH brute force (6), Port scanning (1) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-21T11:20:33Z |
 | Last seen (UTC) | 2026-11-21T11:20:45Z |
 | Reported to network owner (UTC) | 2026-11-21T12:27:42Z |

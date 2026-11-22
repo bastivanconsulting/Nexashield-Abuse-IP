@@ -7,8 +7,8 @@
 | IP | `45.55.89.67` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Web injection payload blocked by WAF (18), Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 22 |
+| Activity | Web injection payload blocked by WAF (9), Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-21T12:25:48Z |
 | Last seen (UTC) | 2026-11-21T13:07:56Z |
 | Reported to network owner (UTC) | 2026-11-21T14:27:18Z |

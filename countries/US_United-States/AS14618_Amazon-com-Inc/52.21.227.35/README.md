@@ -7,8 +7,8 @@
 | IP | `52.21.227.35` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Port scanning (23) |
-| Events | 23 |
+| Activity | Port scanning (22) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-11T19:19:30Z |
 | Last seen (UTC) | 2026-11-21T00:44:47Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:25Z |

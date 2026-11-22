@@ -1,0 +1,15 @@
+{
+  "ip": "179.254.92.3",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14315,
+  "asn_org": "1GSERVERS, LLC",
+  "categories": {
+    "scan": 4,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-21T07:15:18Z",
+  "last_seen": "2026-11-21T13:16:59Z",
+  "reported": "not reported (permanent ban)"
+}
