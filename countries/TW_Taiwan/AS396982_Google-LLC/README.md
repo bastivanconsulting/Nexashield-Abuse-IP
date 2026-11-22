@@ -1,9 +1,10 @@
 # AS396982 · Google LLC
 
-🇹🇼 Taiwan · **1** malicious IP(s)
+🇹🇼 Taiwan · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`34.80.137.3`](34.80.137.3/) | Abusive HTTP requests (6) | 6 | 2026-11-22T02:43:13Z |
 | [`35.234.34.186`](35.234.34.186/) | Abusive HTTP requests (4) | 4 | 2026-11-14T14:11:25Z |
 
 ---

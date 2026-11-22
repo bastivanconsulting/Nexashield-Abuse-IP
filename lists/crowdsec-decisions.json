@@ -3000,6 +3000,14 @@
   "origin": "lists"
  },
  {
+  "value": "8.216.8.90",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "8.216.8.196",
   "scope": "Ip",
   "type": "ban",
@@ -3081,6 +3089,14 @@
  },
  {
   "value": "8.216.17.181",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "8.219.68.3",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -4520,6 +4536,14 @@
   "origin": "lists"
  },
  {
+  "value": "20.64.98.130",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "20.64.98.131",
   "scope": "Ip",
   "type": "ban",
@@ -5392,6 +5416,14 @@
   "origin": "lists"
  },
  {
+  "value": "20.81.42.64",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "20.81.44.250",
   "scope": "Ip",
   "type": "ban",
@@ -5657,6 +5689,14 @@
  },
  {
   "value": "20.84.65.225",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "20.84.66.115",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -6384,6 +6424,14 @@
   "origin": "lists"
  },
  {
+  "value": "20.121.138.59",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "20.121.139.235",
   "scope": "Ip",
   "type": "ban",
@@ -6489,6 +6537,14 @@
  },
  {
   "value": "20.127.220.213",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "20.127.234.151",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -8953,6 +9009,14 @@
  },
  {
   "value": "34.79.189.227",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "34.80.137.3",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -11808,6 +11872,14 @@
   "origin": "lists"
  },
  {
+  "value": "35.210.6.222",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "35.210.7.122",
   "scope": "Ip",
   "type": "ban",
@@ -12665,6 +12737,14 @@
  },
  {
   "value": "35.210.112.87",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "35.210.113.154",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -17696,6 +17776,14 @@
   "origin": "lists"
  },
  {
+  "value": "45.153.34.81",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "45.153.34.87",
   "scope": "Ip",
   "type": "ban",
@@ -21552,6 +21640,14 @@
   "origin": "lists"
  },
  {
+  "value": "47.251.189.52",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "47.251.190.194",
   "scope": "Ip",
   "type": "ban",
@@ -22321,6 +22417,14 @@
  },
  {
   "value": "52.180.147.22",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "52.186.169.96",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -23353,6 +23457,14 @@
  },
  {
   "value": "62.220.236.203",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "63.254.168.37",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -27537,6 +27649,14 @@
  },
  {
   "value": "74.235.141.66",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "74.235.188.17",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -35144,6 +35264,14 @@
   "origin": "lists"
  },
  {
+  "value": "100.29.192.53",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "100.29.192.54",
   "scope": "Ip",
   "type": "ban",
@@ -37680,6 +37808,14 @@
   "origin": "lists"
  },
  {
+  "value": "109.160.32.161",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "109.160.32.164",
   "scope": "Ip",
   "type": "ban",
@@ -38329,6 +38465,14 @@
  },
  {
   "value": "118.194.250.22",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "118.194.250.31",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -40161,6 +40305,14 @@
  },
  {
   "value": "143.246.197.73",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "144.31.165.61",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -42793,6 +42945,14 @@
  },
  {
   "value": "157.230.39.55",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "157.230.121.145",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -45584,6 +45744,14 @@
   "origin": "lists"
  },
  {
+  "value": "172.174.233.194",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "172.174.234.181",
   "scope": "Ip",
   "type": "ban",
@@ -46784,6 +46952,14 @@
   "origin": "lists"
  },
  {
+  "value": "178.216.165.187",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "178.239.46.43",
   "scope": "Ip",
   "type": "ban",
@@ -46857,6 +47033,14 @@
  },
  {
   "value": "180.76.183.185",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "180.191.16.24",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -48768,6 +48952,14 @@
   "origin": "lists"
  },
  {
+  "value": "187.8.120.90",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "187.9.247.58",
   "scope": "Ip",
   "type": "ban",
@@ -50657,6 +50849,14 @@
  },
  {
   "value": "193.176.31.253",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "193.187.110.158",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -52665,6 +52865,14 @@
  },
  {
   "value": "202.47.1.13",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "202.63.241.45",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -55129,6 +55337,14 @@
  },
  {
   "value": "222.210.35.197",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "222.222.124.164",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",

@@ -1,11 +1,11 @@
 # AS14061 · DigitalOcean, LLC
 
-🇩🇪 Germany · **35** malicious IP(s)
+🇩🇪 Germany · **36** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`46.101.126.116`](46.101.126.116/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 19 | 2026-11-21T07:26:11Z |
-| [`46.101.182.236`](46.101.182.236/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-22T00:19:28Z |
+| [`46.101.182.236`](46.101.182.236/) | Port scanning (13), Known botnet / C2 infrastructure (10) | 24 | 2026-11-22T03:24:01Z |
 | [`64.226.125.134`](64.226.125.134/) | Port scanning (2) | 3 | 2026-11-21T11:21:04Z |
 | [`104.248.130.34`](104.248.130.34/) | Port scanning (28), Known botnet / C2 infrastructure (11) | 41 | 2026-11-21T18:00:48Z |
 | [`134.209.255.179`](134.209.255.179/) | Port scanning (2) | 3 | 2026-11-15T10:44:04Z |
@@ -14,6 +14,7 @@
 | [`138.197.191.87`](138.197.191.87/) | Abusive HTTP requests (6), Port scanning (1), Exploitation attempt (CVE / RCE / injection) (1) | 8 | 2026-11-21T02:19:48Z |
 | [`139.59.132.8`](139.59.132.8/) | Abusive HTTP requests (12), Port scanning (1) | 13 | 2026-11-20T00:29:26Z |
 | [`139.59.136.184`](139.59.136.184/) | Abusive HTTP requests (6), Port scanning (1) | 7 | 2026-11-11T14:20:06Z |
+| [`157.230.121.145`](157.230.121.145/) | Port scanning (1) | 1 | 2026-11-22T04:23:40Z |
 | [`157.230.123.210`](157.230.123.210/) | Abusive HTTP requests (10) | 10 | 2026-11-09T18:42:22Z |
 | [`159.65.113.136`](159.65.113.136/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-21T20:07:05Z |
 | [`159.65.122.12`](159.65.122.12/) | Port scanning (2) | 3 | 2026-11-21T15:31:05Z |

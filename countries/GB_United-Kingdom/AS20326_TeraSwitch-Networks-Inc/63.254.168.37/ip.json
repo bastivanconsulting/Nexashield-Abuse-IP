@@ -1,0 +1,14 @@
+{
+  "ip": "63.254.168.37",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 20326,
+  "asn_org": "TeraSwitch Networks Inc.",
+  "categories": {
+    "scan": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-22T04:14:48Z",
+  "last_seen": "2026-11-22T04:15:05Z",
+  "reported": "not reported (permanent ban)"
+}

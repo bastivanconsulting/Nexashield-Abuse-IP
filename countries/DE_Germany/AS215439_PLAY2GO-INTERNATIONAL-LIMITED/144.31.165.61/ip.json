@@ -1,0 +1,15 @@
+{
+  "ip": "144.31.165.61",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 215439,
+  "asn_org": "PLAY2GO INTERNATIONAL LIMITED",
+  "categories": {
+    "scan": 10,
+    "c2": 3
+  },
+  "events": 17,
+  "first_seen": "2026-11-13T15:27:17Z",
+  "last_seen": "2026-11-22T03:42:05Z",
+  "reported": "not reported (permanent ban)"
+}

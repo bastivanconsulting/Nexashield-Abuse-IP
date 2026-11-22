@@ -7,10 +7,10 @@
 | IP | `120.209.67.122` |
 | Country | China (CN) |
 | ASN | AS9808 · China Mobile Communications Group Co., Ltd |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3) |
-| Events | 12 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-18T14:04:52Z |
-| Last seen (UTC) | 2026-11-21T05:20:04Z |
+| Last seen (UTC) | 2026-11-22T04:00:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
