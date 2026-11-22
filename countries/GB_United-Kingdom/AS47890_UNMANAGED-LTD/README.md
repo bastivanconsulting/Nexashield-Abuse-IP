@@ -8,7 +8,7 @@
 | [`2.57.121.112`](2.57.121.112/) | SSH brute force (759) | 759 | 2026-11-20T12:41:46Z |
 | [`45.148.9.76`](45.148.9.76/) | Port scanning (14), Known botnet / C2 infrastructure (1) | 20 | 2026-11-20T18:45:47Z |
 | [`193.46.255.86`](193.46.255.86/) | SSH brute force (603), Spamhaus DROP-listed network (116) | 719 | 2026-11-21T22:37:31Z |
-| [`193.46.255.157`](193.46.255.157/) | Port scanning (21), Known botnet / C2 infrastructure (3) | 26 | 2026-11-22T03:46:41Z |
+| [`193.46.255.157`](193.46.255.157/) | Port scanning (22), Known botnet / C2 infrastructure (3) | 27 | 2026-11-22T04:47:44Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

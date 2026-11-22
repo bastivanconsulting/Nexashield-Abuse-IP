@@ -7,10 +7,10 @@
 | IP | `130.12.182.110` |
 | Country | Germany (DE) |
 | ASN | AS197769 · VPS Dedicated LLC |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (4) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-14T09:03:27Z |
-| Last seen (UTC) | 2026-11-21T14:52:04Z |
+| Last seen (UTC) | 2026-11-22T04:34:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

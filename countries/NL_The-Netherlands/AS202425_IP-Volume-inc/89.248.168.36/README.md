@@ -7,10 +7,10 @@
 | IP | `89.248.168.36` |
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
-| Activity | Port scanning (34), Known botnet / C2 infrastructure (15) |
-| Events | 50 |
+| Activity | Port scanning (36), Known botnet / C2 infrastructure (15) |
+| Events | 52 |
 | First seen (UTC) | 2026-11-12T04:02:09Z |
-| Last seen (UTC) | 2026-11-22T03:25:46Z |
+| Last seen (UTC) | 2026-11-22T04:42:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

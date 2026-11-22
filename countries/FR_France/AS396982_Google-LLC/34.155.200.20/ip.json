@@ -1,0 +1,14 @@
+{
+  "ip": "34.155.200.20",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 430
+  },
+  "events": 433,
+  "first_seen": "2026-11-22T05:08:03Z",
+  "last_seen": "2026-11-22T05:09:05Z",
+  "reported": "not reported (permanent ban)"
+}

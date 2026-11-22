@@ -65,7 +65,7 @@
 | [`109.105.210.68`](109.105.210.68/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-22T04:09:29Z |
 | [`109.105.210.70`](109.105.210.70/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-22T02:14:50Z |
 | [`109.105.210.72`](109.105.210.72/) | Port scanning (17), Known botnet / C2 infrastructure (10) | 28 | 2026-11-21T09:47:26Z |
-| [`109.105.210.73`](109.105.210.73/) | Port scanning (13), Known botnet / C2 infrastructure (11) | 25 | 2026-11-22T03:50:37Z |
+| [`109.105.210.73`](109.105.210.73/) | Port scanning (14), Known botnet / C2 infrastructure (11) | 26 | 2026-11-22T05:08:21Z |
 | [`109.105.210.78`](109.105.210.78/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T01:14:01Z |
 | [`109.105.210.82`](109.105.210.82/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-22T01:03:42Z |
 | [`109.105.210.83`](109.105.210.83/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-21T19:27:26Z |
@@ -79,7 +79,7 @@
 | [`109.105.210.100`](109.105.210.100/) | Port scanning (6), Known botnet / C2 infrastructure (2) | 8 | 2026-11-21T16:19:17Z |
 | [`185.180.141.3`](185.180.141.3/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-21T06:30:04Z |
 | [`185.180.141.4`](185.180.141.4/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-21T11:44:00Z |
-| [`185.180.141.9`](185.180.141.9/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-22T02:49:02Z |
+| [`185.180.141.9`](185.180.141.9/) | Port scanning (19), Known botnet / C2 infrastructure (11) | 31 | 2026-11-22T04:50:45Z |
 | [`185.180.141.10`](185.180.141.10/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-21T11:17:07Z |
 | [`185.180.141.13`](185.180.141.13/) | Port scanning (23), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (1) | 42 | 2026-11-21T11:49:46Z |
 | [`185.180.141.33`](185.180.141.33/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 35 | 2026-11-21T08:17:10Z |

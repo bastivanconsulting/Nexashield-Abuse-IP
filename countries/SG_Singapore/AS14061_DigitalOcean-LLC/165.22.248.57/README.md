@@ -7,10 +7,10 @@
 | IP | `165.22.248.57` |
 | Country | Singapore (SG) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (34), Known botnet / C2 infrastructure (2) |
-| Events | 43 |
+| Activity | Port scanning (36), Known botnet / C2 infrastructure (3) |
+| Events | 46 |
 | First seen (UTC) | 2026-11-14T14:02:57Z |
-| Last seen (UTC) | 2026-11-22T03:50:15Z |
+| Last seen (UTC) | 2026-11-22T05:06:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

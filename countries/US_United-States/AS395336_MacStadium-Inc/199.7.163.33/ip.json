@@ -6,11 +6,11 @@
   "asn_org": "MacStadium, Inc.",
   "categories": {
     "ssh": 6,
-    "c2": 5,
-    "scan": 6
+    "c2": 6,
+    "scan": 9
   },
-  "events": 18,
+  "events": 22,
   "first_seen": "2026-11-19T15:33:51Z",
-  "last_seen": "2026-11-21T21:03:34Z",
+  "last_seen": "2026-11-22T04:20:43Z",
   "reported": "not reported (permanent ban)"
 }

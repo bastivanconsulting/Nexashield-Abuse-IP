@@ -1,10 +1,11 @@
 # AS7738 · V tal
 
-🇧🇷 Brazil · **2** malicious IP(s)
+🇧🇷 Brazil · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`200.199.32.174`](200.199.32.174/) | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) | 12 | 2026-11-21T22:22:44Z |
+| [`200.223.25.122`](200.223.25.122/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) | 8 | 2026-11-22T04:47:04Z |
 | [`200.223.196.90`](200.223.196.90/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (1) | 10 | 2026-11-21T10:10:22Z |
 
 ---

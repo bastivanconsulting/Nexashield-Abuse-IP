@@ -5,10 +5,10 @@
   "asn": 6079,
   "asn_org": "RCN",
   "categories": {
-    "exploit": 2
+    "exploit": 3
   },
-  "events": 51,
+  "events": 58,
   "first_seen": "2026-11-12T06:02:21Z",
-  "last_seen": "2026-11-21T21:46:03Z",
+  "last_seen": "2026-11-22T04:49:53Z",
   "reported": "not reported (permanent ban)"
 }

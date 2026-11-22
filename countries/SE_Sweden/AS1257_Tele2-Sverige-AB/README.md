@@ -1,9 +1,10 @@
 # AS1257 · Tele2 Sverige AB
 
-🇸🇪 Sweden · **1** malicious IP(s)
+🇸🇪 Sweden · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`83.254.172.36`](83.254.172.36/) | SSH brute force (4), Known botnet / C2 infrastructure (2) | 6 | 2026-11-21T12:41:17Z |
 | [`83.255.208.30`](83.255.208.30/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (1) | 10 | 2026-11-21T13:40:25Z |
 
 ---

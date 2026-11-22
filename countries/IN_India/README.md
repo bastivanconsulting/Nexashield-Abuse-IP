@@ -5,12 +5,12 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 8 | Port scanning (31), Exploitation attempt (CVE / RCE / injection) (14), Known botnet / C2 infrastructure (12), Abusive HTTP requests (3) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (182), Known botnet / C2 infrastructure (60) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (183), Known botnet / C2 infrastructure (61) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (29), Known botnet / C2 infrastructure (11) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 2 | SSH brute force (10), Known botnet / C2 infrastructure (9), Port scanning (7) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 2 | SSH brute force (10), Known botnet / C2 infrastructure (9), Port scanning (9) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (4) |
 | [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (1) |

@@ -21,7 +21,7 @@
 | [`109.160.32.110`](109.160.32.110/) | SSH brute force (7), Spamhaus DROP-listed network (5), Port scanning (5) | 17 | 2026-11-22T04:31:53Z |
 | [`109.160.32.112`](109.160.32.112/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T18:57:05Z |
 | [`109.160.32.115`](109.160.32.115/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-21T14:57:37Z |
-| [`109.160.32.116`](109.160.32.116/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T02:14:57Z |
+| [`109.160.32.116`](109.160.32.116/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-22T04:44:46Z |
 | [`109.160.32.117`](109.160.32.117/) | Port scanning (50), SSH brute force (5), Spamhaus DROP-listed network (3) | 58 | 2026-11-22T00:47:55Z |
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23), Spamhaus DROP-listed network (1) | 74 | 2026-11-20T06:17:35Z |
 | [`109.160.32.120`](109.160.32.120/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 7 | 2026-11-21T20:49:26Z |
@@ -48,7 +48,7 @@
 | [`109.160.32.156`](109.160.32.156/) | Port scanning (56), Known botnet / C2 infrastructure (2) | 59 | 2026-11-22T02:13:26Z |
 | [`109.160.32.157`](109.160.32.157/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-22T02:52:36Z |
 | [`109.160.32.159`](109.160.32.159/) | Port scanning (49), SSH brute force (7), Spamhaus DROP-listed network (2) | 58 | 2026-11-19T01:48:40Z |
-| [`109.160.32.161`](109.160.32.161/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-12T11:21:22Z |
+| [`109.160.32.161`](109.160.32.161/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-22T04:27:04Z |
 | [`109.160.32.164`](109.160.32.164/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T16:18:24Z |
 | [`109.160.32.165`](109.160.32.165/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-21T06:53:02Z |
 | [`109.160.32.166`](109.160.32.166/) | Port scanning (53), Known botnet / C2 infrastructure (2) | 56 | 2026-11-16T05:18:05Z |

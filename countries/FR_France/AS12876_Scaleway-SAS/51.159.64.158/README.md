@@ -7,10 +7,10 @@
 | IP | `51.159.64.158` |
 | Country | France (FR) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (35), Known botnet / C2 infrastructure (6) |
-| Events | 51 |
+| Activity | Port scanning (36), Known botnet / C2 infrastructure (6) |
+| Events | 52 |
 | First seen (UTC) | 2026-11-13T02:04:37Z |
-| Last seen (UTC) | 2026-11-22T03:47:27Z |
+| Last seen (UTC) | 2026-11-22T04:20:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
