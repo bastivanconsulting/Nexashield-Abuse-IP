@@ -7,10 +7,10 @@
 | IP | `104.251.181.194` |
 | Country | Switzerland (CH) |
 | ASN | AS402253 · SKN Subnet & Telecom Ltd |
-| Activity | Port scanning (33) |
-| Events | 33 |
+| Activity | Port scanning (34) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-18T21:02:41Z |
-| Last seen (UTC) | 2026-11-22T02:44:51Z |
+| Last seen (UTC) | 2026-11-22T13:34:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

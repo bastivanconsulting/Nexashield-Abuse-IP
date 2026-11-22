@@ -7,10 +7,10 @@
 | IP | `144.31.165.61` |
 | Country | Germany (DE) |
 | ASN | AS215439 · PLAY2GO INTERNATIONAL LIMITED |
-| Activity | Port scanning (10), Known botnet / C2 infrastructure (3) |
-| Events | 17 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (4) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-13T15:27:17Z |
-| Last seen (UTC) | 2026-11-22T03:42:05Z |
+| Last seen (UTC) | 2026-11-22T14:02:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

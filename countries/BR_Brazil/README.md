@@ -1,22 +1,22 @@
 # 🇧🇷 Brazil
 
-**60** malicious IP(s) across **23** network(s).
+**62** malicious IP(s) across **23** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 10 | SSH brute force (39), Known botnet / C2 infrastructure (38), Port scanning (25) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 10 | SSH brute force (46), Known botnet / C2 infrastructure (36), Port scanning (18) |
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 9 | Known botnet / C2 infrastructure (36), SSH brute force (36), Port scanning (24) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1109), Known botnet / C2 infrastructure (100), Exploitation attempt (CVE / RCE / injection) (48) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (68), Known botnet / C2 infrastructure (19) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | Port scanning (415), Known botnet / C2 infrastructure (19), SSH brute force (11) |
-| [AS7738](AS7738_V-tal/) | V tal | 4 | SSH brute force (15), Known botnet / C2 infrastructure (15), Port scanning (10) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1112), Known botnet / C2 infrastructure (100), Exploitation attempt (CVE / RCE / injection) (48) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (69), Known botnet / C2 infrastructure (20) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | Port scanning (417), Known botnet / C2 infrastructure (19), SSH brute force (11) |
+| [AS7738](AS7738_V-tal/) | V tal | 5 | Known botnet / C2 infrastructure (19), SSH brute force (18), Port scanning (12) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (17) |
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (21) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (21), Known botnet / C2 infrastructure (5) |
-| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (70), Known botnet / C2 infrastructure (12) |
+| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (72), Known botnet / C2 infrastructure (12) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |
 | [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (44), Known botnet / C2 infrastructure (21) |
 | [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 1 | Port scanning (10), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |

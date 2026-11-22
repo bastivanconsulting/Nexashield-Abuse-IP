@@ -1,15 +1,15 @@
 # 🇮🇳 India
 
-**42** malicious IP(s) across **20** network(s).
+**44** malicious IP(s) across **20** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 9 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (18), Known botnet / C2 infrastructure (13), Abusive HTTP requests (5) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (187), Known botnet / C2 infrastructure (64) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 10 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (22), Known botnet / C2 infrastructure (13), Abusive HTTP requests (7) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (188), Known botnet / C2 infrastructure (65) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (31), Known botnet / C2 infrastructure (12) |
+| [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 3 | Port scanning (14), SSH brute force (6), Known botnet / C2 infrastructure (5) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 3 | Known botnet / C2 infrastructure (12), SSH brute force (11), Port scanning (11) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
-| [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (3), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 2 | SSH brute force (9), Known botnet / C2 infrastructure (7), Port scanning (5) |
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 2 | Port scanning (12), Known botnet / C2 infrastructure (10), SSH brute force (2) |

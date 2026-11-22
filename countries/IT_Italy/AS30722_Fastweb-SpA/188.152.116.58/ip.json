@@ -5,11 +5,11 @@
   "asn": 30722,
   "asn_org": "Fastweb SpA",
   "categories": {
-    "exploit": 8,
-    "scan": 8
+    "exploit": 9,
+    "scan": 9
   },
-  "events": 23,
+  "events": 26,
   "first_seen": "2026-11-11T15:10:13Z",
-  "last_seen": "2026-11-18T02:04:41Z",
+  "last_seen": "2026-11-22T13:59:04Z",
   "reported": "not reported (permanent ban)"
 }

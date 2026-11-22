@@ -8,7 +8,7 @@
 | [`91.196.152.2`](91.196.152.2/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-22T10:16:50Z |
 | [`91.196.152.3`](91.196.152.3/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T18:37:24Z |
 | [`91.196.152.4`](91.196.152.4/) | Port scanning (10), Known botnet / C2 infrastructure (4) | 15 | 2026-11-21T00:38:37Z |
-| [`91.196.152.7`](91.196.152.7/) | Port scanning (54), Known botnet / C2 infrastructure (38) | 93 | 2026-11-22T07:20:54Z |
+| [`91.196.152.7`](91.196.152.7/) | Port scanning (55), Known botnet / C2 infrastructure (39) | 95 | 2026-11-22T13:35:09Z |
 | [`91.196.152.8`](91.196.152.8/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-20T21:30:09Z |
 | [`91.196.152.14`](91.196.152.14/) | Port scanning (11), Known botnet / C2 infrastructure (7) | 19 | 2026-11-21T03:25:44Z |
 | [`91.196.152.15`](91.196.152.15/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T18:58:49Z |
@@ -46,7 +46,7 @@
 | [`91.196.152.111`](91.196.152.111/) | Port scanning (51), Known botnet / C2 infrastructure (38) | 90 | 2026-11-22T13:08:09Z |
 | [`91.196.152.112`](91.196.152.112/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-21T09:55:07Z |
 | [`91.196.152.118`](91.196.152.118/) | Port scanning (27), Known botnet / C2 infrastructure (14) | 45 | 2026-11-22T04:35:56Z |
-| [`91.196.152.119`](91.196.152.119/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 15 | 2026-11-21T12:38:13Z |
+| [`91.196.152.119`](91.196.152.119/) | Port scanning (10), Known botnet / C2 infrastructure (4) | 17 | 2026-11-22T13:37:41Z |
 | [`91.196.152.120`](91.196.152.120/) | Port scanning (145), Known botnet / C2 infrastructure (17) | 165 | 2026-11-21T16:37:14Z |
 | [`91.196.152.121`](91.196.152.121/) | Port scanning (145), Known botnet / C2 infrastructure (31) | 177 | 2026-11-21T03:26:32Z |
 | [`91.196.152.122`](91.196.152.122/) | Port scanning (130), Known botnet / C2 infrastructure (26) | 157 | 2026-11-21T02:19:51Z |

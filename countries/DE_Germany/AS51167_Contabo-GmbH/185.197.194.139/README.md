@@ -7,10 +7,10 @@
 | IP | `185.197.194.139` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Port scanning (24) |
-| Events | 33 |
+| Activity | Port scanning (25) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-14T03:54:05Z |
-| Last seen (UTC) | 2026-11-22T10:11:11Z |
+| Last seen (UTC) | 2026-11-22T14:05:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

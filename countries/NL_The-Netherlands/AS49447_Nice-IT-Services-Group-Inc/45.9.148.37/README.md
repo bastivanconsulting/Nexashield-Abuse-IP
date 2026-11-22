@@ -7,10 +7,10 @@
 | IP | `45.9.148.37` |
 | Country | The Netherlands (NL) |
 | ASN | AS49447 · Nice IT Services Group Inc. |
-| Activity | Port scanning (11), Known botnet / C2 infrastructure (1) |
-| Events | 15 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (2) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-21T06:46:48Z |
-| Last seen (UTC) | 2026-11-22T09:41:10Z |
+| Last seen (UTC) | 2026-11-22T14:16:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

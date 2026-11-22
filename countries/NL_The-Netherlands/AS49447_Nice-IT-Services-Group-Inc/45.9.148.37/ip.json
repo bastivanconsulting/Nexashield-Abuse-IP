@@ -5,11 +5,11 @@
   "asn": 49447,
   "asn_org": "Nice IT Services Group Inc.",
   "categories": {
-    "scan": 11,
-    "c2": 1
+    "scan": 12,
+    "c2": 2
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-21T06:46:48Z",
-  "last_seen": "2026-11-22T09:41:10Z",
+  "last_seen": "2026-11-22T14:16:22Z",
   "reported": "not reported (permanent ban)"
 }

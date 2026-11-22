@@ -6,11 +6,11 @@
   "asn_org": "Taiwan Mobile Co., Ltd.",
   "categories": {
     "ssh": 2,
-    "c2": 2,
-    "scan": 1
+    "c2": 3,
+    "scan": 2
   },
-  "events": 6,
+  "events": 8,
   "first_seen": "2026-11-20T05:09:51Z",
-  "last_seen": "2026-11-22T06:32:04Z",
+  "last_seen": "2026-11-22T13:51:56Z",
   "reported": "not reported (permanent ban)"
 }

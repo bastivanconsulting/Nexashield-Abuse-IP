@@ -7,10 +7,10 @@
 | IP | `139.144.160.162` |
 | Country | Germany (DE) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (1365), Known botnet / C2 infrastructure (2) |
-| Events | 1369 |
+| Activity | Port scanning (1368), Known botnet / C2 infrastructure (3) |
+| Events | 1374 |
 | First seen (UTC) | 2026-11-11T23:03:13Z |
-| Last seen (UTC) | 2026-11-14T21:39:50Z |
+| Last seen (UTC) | 2026-11-22T14:08:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

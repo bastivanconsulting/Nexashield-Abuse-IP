@@ -15,14 +15,14 @@
 | [🇧🇪 Belgium](BE_Belgium/) | 417 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 49 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
-| [🇧🇷 Brazil](BR_Brazil/) | 60 |
-| [🇨🇦 Canada](CA_Canada/) | 63 |
+| [🇧🇷 Brazil](BR_Brazil/) | 62 |
+| [🇨🇦 Canada](CA_Canada/) | 64 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 11 |
 | [🇨🇱 Chile](CL_Chile/) | 1 |
-| [🇨🇳 China](CN_China/) | 114 |
+| [🇨🇳 China](CN_China/) | 117 |
 | [🇨🇴 Colombia](CO_Colombia/) | 1 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 516 |
+| [🇩🇪 Germany](DE_Germany/) | 519 |
 | [🇩🇰 Denmark](DK_Denmark/) | 2 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
@@ -38,11 +38,11 @@
 | [🇮🇩 Indonesia](ID_Indonesia/) | 18 |
 | [🇮🇪 Ireland](IE_Ireland/) | 4 |
 | [🇮🇱 Israel](IL_Israel/) | 10 |
-| [🇮🇳 India](IN_India/) | 42 |
+| [🇮🇳 India](IN_India/) | 44 |
 | [🇮🇶 Iraq](IQ_Iraq/) | 3 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 26 |
-| [🇯🇵 Japan](JP_Japan/) | 73 |
+| [🇯🇵 Japan](JP_Japan/) | 74 |
 | [🇰🇪 Kenya](KE_Kenya/) | 1 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 40 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 11 |
@@ -53,7 +53,7 @@
 | [🇲🇩 Moldova](MD_Moldova/) | 2 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 1 |
 | [🇲🇽 Mexico](MX_Mexico/) | 4 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 50 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 51 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 15 |
 | [🇳🇱 The Netherlands](NL_The-Netherlands/) | 620 |
 | [🇳🇴 Norway](NO_Norway/) | 3 |
@@ -69,7 +69,7 @@
 | [🇷🇺 Russia](RU_Russia/) | 40 |
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 12 |
-| [🇸🇪 Sweden](SE_Sweden/) | 59 |
+| [🇸🇪 Sweden](SE_Sweden/) | 60 |
 | [🇸🇬 Singapore](SG_Singapore/) | 87 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 20 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
@@ -77,6 +77,6 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 6 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 17 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 3 |
-| [🇺🇸 United States](US_United-States/) | 2909 |
+| [🇺🇸 United States](US_United-States/) | 2916 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 13 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |
