@@ -25,7 +25,7 @@
 | [`109.160.32.114`](109.160.32.114/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-22T13:18:21Z |
 | [`109.160.32.115`](109.160.32.115/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-22T13:54:59Z |
 | [`109.160.32.116`](109.160.32.116/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-22T19:45:04Z |
-| [`109.160.32.117`](109.160.32.117/) | Port scanning (50), Spamhaus DROP-listed network (9), SSH brute force (5) | 64 | 2026-11-22T21:13:02Z |
+| [`109.160.32.117`](109.160.32.117/) | Port scanning (50), Spamhaus DROP-listed network (11), SSH brute force (5) | 66 | 2026-11-22T21:38:32Z |
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23), Spamhaus DROP-listed network (1) | 74 | 2026-11-20T06:17:35Z |
 | [`109.160.32.119`](109.160.32.119/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T20:22:43Z |
 | [`109.160.32.120`](109.160.32.120/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T21:00:18Z |
@@ -48,7 +48,7 @@
 | [`109.160.32.146`](109.160.32.146/) | Known botnet / C2 infrastructure (2) | 2 | 2026-11-21T11:25:46Z |
 | [`109.160.32.147`](109.160.32.147/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-19T11:18:09Z |
 | [`109.160.32.151`](109.160.32.151/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-22T17:51:14Z |
-| [`109.160.32.153`](109.160.32.153/) | Port scanning (40), SSH brute force (21), Spamhaus DROP-listed network (4) | 65 | 2026-11-22T00:21:10Z |
+| [`109.160.32.153`](109.160.32.153/) | Port scanning (40), SSH brute force (21), Spamhaus DROP-listed network (6) | 67 | 2026-11-22T21:36:25Z |
 | [`109.160.32.154`](109.160.32.154/) | Port scanning (57), SSH brute force (21), Spamhaus DROP-listed network (2) | 80 | 2026-11-21T13:18:17Z |
 | [`109.160.32.156`](109.160.32.156/) | Port scanning (57), Known botnet / C2 infrastructure (3) | 61 | 2026-11-22T15:57:09Z |
 | [`109.160.32.157`](109.160.32.157/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-22T02:52:36Z |

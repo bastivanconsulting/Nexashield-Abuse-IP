@@ -5,11 +5,11 @@
   "asn": 200651,
   "asn_org": "FlokiNET ehf",
   "categories": {
-    "scan": 206,
+    "scan": 208,
     "c2": 13
   },
-  "events": 224,
+  "events": 226,
   "first_seen": "2026-11-12T03:50:25Z",
-  "last_seen": "2026-11-22T21:11:56Z",
+  "last_seen": "2026-11-22T21:48:29Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,6 +1,6 @@
 # AS7922 · Comcast Cable Communications, LLC
 
-🇺🇸 United States · **14** malicious IP(s)
+🇺🇸 United States · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [`50.193.139.226`](50.193.139.226/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T20:40:02Z |
 | [`71.25.8.98`](71.25.8.98/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T17:16:02Z |
 | [`73.2.159.206`](73.2.159.206/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 9 | 2026-11-12T04:07:25Z |
+| [`73.183.115.109`](73.183.115.109/) | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (2) | 9 | 2026-11-22T21:51:04Z |
 | [`96.76.90.234`](96.76.90.234/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 9 | 2026-11-12T05:01:23Z |
 | [`96.77.166.30`](96.77.166.30/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 8 | 2026-11-12T02:14:37Z |
 | [`96.78.175.36`](96.78.175.36/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T17:34:04Z |

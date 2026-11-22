@@ -7,10 +7,10 @@
 | IP | `138.91.106.67` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (14) |
-| Events | 23 |
+| Activity | Port scanning (15), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 25 |
 | First seen (UTC) | 2026-11-14T07:31:03Z |
-| Last seen (UTC) | 2026-11-21T21:18:04Z |
+| Last seen (UTC) | 2026-11-22T22:10:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,14 @@
+{
+  "ip": "117.34.118.47",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 4835,
+  "asn_org": "China Telecom (Group)",
+  "categories": {
+    "scan": 20
+  },
+  "events": 20,
+  "first_seen": "2026-11-21T06:17:53Z",
+  "last_seen": "2026-11-22T21:54:19Z",
+  "reported": "not reported (permanent ban)"
+}

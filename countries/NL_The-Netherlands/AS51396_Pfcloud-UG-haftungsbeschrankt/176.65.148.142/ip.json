@@ -1,0 +1,16 @@
+{
+  "ip": "176.65.148.142",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 51396,
+  "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+  "categories": {
+    "spamhaus": 14,
+    "scan": 6,
+    "web": 28
+  },
+  "events": 48,
+  "first_seen": "2026-11-22T18:22:20Z",
+  "last_seen": "2026-11-22T22:06:38Z",
+  "reported": "2026-11-22T22:27:46Z"
+}

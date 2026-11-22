@@ -1,0 +1,16 @@
+{
+  "ip": "2.55.122.202",
+  "country_code": "IL",
+  "country": "Israel",
+  "asn": 12400,
+  "asn_org": "Partner Communications Ltd.",
+  "categories": {
+    "ssh": 4,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 9,
+  "first_seen": "2026-11-19T04:21:43Z",
+  "last_seen": "2026-11-22T22:05:05Z",
+  "reported": "not reported (permanent ban)"
+}

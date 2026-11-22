@@ -1,0 +1,16 @@
+{
+  "ip": "73.183.115.109",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 7922,
+  "asn_org": "Comcast Cable Communications, LLC",
+  "categories": {
+    "scan": 2,
+    "c2": 3,
+    "ssh": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-22T07:11:38Z",
+  "last_seen": "2026-11-22T21:51:04Z",
+  "reported": "not reported (permanent ban)"
+}

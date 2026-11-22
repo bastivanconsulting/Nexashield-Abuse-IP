@@ -1,10 +1,11 @@
 # AS396982 · Google LLC
 
-🇧🇪 Belgium · **58** malicious IP(s)
+🇧🇪 Belgium · **59** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`23.251.141.4`](23.251.141.4/) | Abusive HTTP requests (168) | 168 | 2026-11-20T13:16:05Z |
+| [`34.14.51.228`](34.14.51.228/) | Abusive HTTP requests (137) | 137 | 2026-11-17T17:13:54Z |
 | [`34.22.192.206`](34.22.192.206/) | Abusive HTTP requests (158) | 158 | 2026-11-18T01:36:50Z |
 | [`34.22.196.121`](34.22.196.121/) | Abusive HTTP requests (118) | 118 | 2026-11-14T01:11:42Z |
 | [`34.38.45.30`](34.38.45.30/) | Abusive HTTP requests (796) | 796 | 2026-11-20T22:58:46Z |
@@ -50,13 +51,13 @@
 | [`35.205.11.131`](35.205.11.131/) | Abusive HTTP requests (143), Web injection payload blocked by WAF (22) | 165 | 2026-11-18T12:44:28Z |
 | [`35.233.37.230`](35.233.37.230/) | Abusive HTTP requests (134) | 134 | 2026-11-20T00:14:51Z |
 | [`35.233.44.84`](35.233.44.84/) | Abusive HTTP requests (162) | 162 | 2026-11-19T06:07:25Z |
-| [`104.155.66.115`](104.155.66.115/) | Port scanning (45), Known botnet / C2 infrastructure (10), Abusive HTTP requests (7) | 68 | 2026-11-22T20:19:39Z |
+| [`104.155.66.115`](104.155.66.115/) | Port scanning (47), Known botnet / C2 infrastructure (10), Abusive HTTP requests (7) | 70 | 2026-11-22T21:35:07Z |
 | [`104.199.26.126`](104.199.26.126/) | Port scanning (6), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 14 | 2026-11-22T04:46:08Z |
 | [`130.211.87.56`](130.211.87.56/) | Abusive HTTP requests (133) | 133 | 2026-11-18T01:38:52Z |
 | [`207.175.61.160`](207.175.61.160/) | Abusive HTTP requests (175) | 175 | 2026-11-20T07:02:22Z |
 | [`207.175.76.22`](207.175.76.22/) | Abusive HTTP requests (164) | 164 | 2026-11-21T03:48:43Z |
 | [`207.175.97.104`](207.175.97.104/) | Abusive HTTP requests (152) | 152 | 2026-11-18T03:49:30Z |
-| [`207.175.103.117`](207.175.103.117/) | Port scanning (38), Known botnet / C2 infrastructure (9), Abusive HTTP requests (2) | 54 | 2026-11-22T18:25:41Z |
+| [`207.175.103.117`](207.175.103.117/) | Port scanning (39), Known botnet / C2 infrastructure (10), Abusive HTTP requests (2) | 56 | 2026-11-22T21:53:13Z |
 | [`207.175.162.235`](207.175.162.235/) | Abusive HTTP requests (844) | 844 | 2026-11-20T23:03:05Z |
 | [`207.175.165.55`](207.175.165.55/) | Abusive HTTP requests (75) | 75 | 2026-11-11T23:59:07Z |
 | [`207.175.202.245`](207.175.202.245/) | Abusive HTTP requests (135) | 135 | 2026-11-13T21:42:46Z |

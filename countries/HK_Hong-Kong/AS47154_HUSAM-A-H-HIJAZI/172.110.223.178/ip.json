@@ -5,11 +5,11 @@
   "asn": 47154,
   "asn_org": "HUSAM A. H. HIJAZI",
   "categories": {
-    "scan": 373,
+    "scan": 388,
     "c2": 26
   },
-  "events": 414,
+  "events": 430,
   "first_seen": "2026-11-11T11:46:29Z",
-  "last_seen": "2026-11-22T20:53:47Z",
+  "last_seen": "2026-11-22T21:44:13Z",
   "reported": "not reported (permanent ban)"
 }
