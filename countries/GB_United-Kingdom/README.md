@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 711 | Port scanning (15747), Known botnet / C2 infrastructure (3781), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 711 | Port scanning (15820), Known botnet / C2 infrastructure (3811), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 202 | Port scanning (3796), Known botnet / C2 infrastructure (853), Abusive HTTP requests (666), Web injection payload blocked by WAF (20) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 27 | Port scanning (381), Known botnet / C2 infrastructure (239) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 19 | Port scanning (418), Known botnet / C2 infrastructure (79), Abusive HTTP requests (66), Exploitation attempt (CVE / RCE / injection) (16), SSH brute force (3) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1300), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 27 | Port scanning (382), Known botnet / C2 infrastructure (239) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 19 | Port scanning (419), Known botnet / C2 infrastructure (80), Abusive HTTP requests (66), Exploitation attempt (CVE / RCE / injection) (16), SSH brute force (3) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1306), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 4 | SSH brute force (2275), Spamhaus DROP-listed network (116), Port scanning (14), Known botnet / C2 infrastructure (1) |
 | [AS215930](AS215930_CIPHER-OPERATIONS-DOO-BEOGRAD-NOVI-BEOGRAD/) | CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD | 3 | Port scanning (42), Known botnet / C2 infrastructure (6) |

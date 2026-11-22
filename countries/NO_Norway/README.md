@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (57) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (60) |
 | [AS2119](AS2119_Telenor-Norge-AS/) | Telenor Norge AS | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS50304](AS50304_Blix-Solutions-AS/) | Blix Solutions AS | 1 | Port scanning (161), Known botnet / C2 infrastructure (19), Abusive HTTP requests (2) |
 

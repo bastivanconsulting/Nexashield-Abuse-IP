@@ -7,10 +7,10 @@
 | IP | `103.140.18.186` |
 | Country | India (IN) |
 | ASN | AS138755 · City Online Ap Private Ltd |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-16T12:19:29Z |
-| Last seen (UTC) | 2026-11-21T14:18:08Z |
+| Last seen (UTC) | 2026-11-22T01:32:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

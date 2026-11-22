@@ -1,0 +1,15 @@
+{
+  "ip": "108.178.17.26",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 32475,
+  "asn_org": "Internap Holding LLC",
+  "categories": {
+    "scan": 8,
+    "c2": 2
+  },
+  "events": 11,
+  "first_seen": "2026-11-20T17:05:11Z",
+  "last_seen": "2026-11-21T22:09:11Z",
+  "reported": "not reported (permanent ban)"
+}

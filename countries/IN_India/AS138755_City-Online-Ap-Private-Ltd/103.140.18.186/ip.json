@@ -5,11 +5,11 @@
   "asn": 138755,
   "asn_org": "City Online Ap Private Ltd",
   "categories": {
-    "ssh": 3,
-    "c2": 2
+    "ssh": 5,
+    "c2": 3
   },
-  "events": 5,
+  "events": 10,
   "first_seen": "2026-11-16T12:19:29Z",
-  "last_seen": "2026-11-21T14:18:08Z",
+  "last_seen": "2026-11-22T01:32:04Z",
   "reported": "not reported (permanent ban)"
 }

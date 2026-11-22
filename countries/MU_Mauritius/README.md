@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS30844](AS30844_Liquid-Telecommunications-Ltd/) | Liquid Telecommunications Ltd | 1 | Port scanning (23) |
+| [AS30844](AS30844_Liquid-Telecommunications-Ltd/) | Liquid Telecommunications Ltd | 1 | Port scanning (24) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

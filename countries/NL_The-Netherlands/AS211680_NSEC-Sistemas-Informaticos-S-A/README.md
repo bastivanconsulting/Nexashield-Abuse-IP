@@ -1,6 +1,6 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇳🇱 The Netherlands · **68** malicious IP(s)
+🇳🇱 The Netherlands · **69** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -15,14 +15,14 @@
 | [`45.156.128.62`](45.156.128.62/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 23 | 2026-11-19T00:42:10Z |
 | [`45.156.128.63`](45.156.128.63/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-18T02:16:21Z |
 | [`45.156.128.64`](45.156.128.64/) | Port scanning (21), Known botnet / C2 infrastructure (10), Exploitation attempt (CVE / RCE / injection) (1) | 34 | 2026-11-21T19:23:16Z |
-| [`45.156.128.66`](45.156.128.66/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-21T21:12:44Z |
+| [`45.156.128.66`](45.156.128.66/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-22T01:35:34Z |
 | [`45.156.128.67`](45.156.128.67/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-18T04:52:20Z |
 | [`45.156.128.68`](45.156.128.68/) | Port scanning (14), Known botnet / C2 infrastructure (9) | 24 | 2026-11-21T22:43:09Z |
 | [`45.156.128.69`](45.156.128.69/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-21T22:40:45Z |
 | [`45.156.128.71`](45.156.128.71/) | Port scanning (23), Known botnet / C2 infrastructure (13), Abusive HTTP requests (2) | 39 | 2026-11-21T19:23:46Z |
 | [`45.156.128.72`](45.156.128.72/) | Port scanning (16), Known botnet / C2 infrastructure (10), Abusive HTTP requests (1) | 30 | 2026-11-21T07:01:42Z |
 | [`45.156.128.73`](45.156.128.73/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 18 | 2026-11-20T03:16:53Z |
-| [`45.156.128.74`](45.156.128.74/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-21T10:44:14Z |
+| [`45.156.128.74`](45.156.128.74/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-22T01:46:59Z |
 | [`45.156.128.76`](45.156.128.76/) | Port scanning (18), Known botnet / C2 infrastructure (15) | 34 | 2026-11-21T13:17:29Z |
 | [`45.156.128.78`](45.156.128.78/) | Port scanning (17), Known botnet / C2 infrastructure (13) | 31 | 2026-11-21T20:16:15Z |
 | [`45.156.128.79`](45.156.128.79/) | Port scanning (16), Known botnet / C2 infrastructure (11), Exploitation attempt (CVE / RCE / injection) (1) | 29 | 2026-11-21T18:17:33Z |
@@ -70,6 +70,7 @@
 | [`45.156.128.175`](45.156.128.175/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-21T11:02:51Z |
 | [`45.156.128.176`](45.156.128.176/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-21T01:55:57Z |
 | [`45.156.128.177`](45.156.128.177/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-21T00:35:35Z |
+| [`45.156.128.178`](45.156.128.178/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T01:50:05Z |
 | [`45.156.128.179`](45.156.128.179/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-18T05:43:40Z |
 | [`45.156.128.197`](45.156.128.197/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T16:53:03Z |
 

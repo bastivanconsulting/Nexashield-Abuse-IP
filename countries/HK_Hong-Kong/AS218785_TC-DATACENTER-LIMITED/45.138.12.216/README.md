@@ -7,10 +7,10 @@
 | IP | `45.138.12.216` |
 | Country | Hong Kong (HK) |
 | ASN | AS218785 · TC DATACENTER LIMITED |
-| Activity | Port scanning (16), Web injection payload blocked by WAF (3), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) |
-| Events | 22 |
+| Activity | Port scanning (17), Web injection payload blocked by WAF (3), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-12T02:19:13Z |
-| Last seen (UTC) | 2026-11-22T01:04:45Z |
+| Last seen (UTC) | 2026-11-22T02:00:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

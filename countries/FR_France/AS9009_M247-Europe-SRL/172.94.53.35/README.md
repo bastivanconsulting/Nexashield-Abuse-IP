@@ -7,10 +7,10 @@
 | IP | `172.94.53.35` |
 | Country | France (FR) |
 | ASN | AS9009 · M247 Europe SRL |
-| Activity | Port scanning (1) |
-| Events | 1 |
+| Activity | Port scanning (2) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-22T01:25:40Z |
-| Last seen (UTC) | 2026-11-22T01:25:40Z |
+| Last seen (UTC) | 2026-11-22T01:26:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

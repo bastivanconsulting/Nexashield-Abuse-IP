@@ -7,10 +7,10 @@
 | IP | `216.226.77.30` |
 | Country | Australia (AU) |
 | ASN | AS50219 · LNK SYSTEMS MUNTENIA SRL |
-| Activity | Port scanning (72), Known botnet / C2 infrastructure (26) |
-| Events | 99 |
+| Activity | Port scanning (73), Known botnet / C2 infrastructure (26) |
+| Events | 100 |
 | First seen (UTC) | 2026-11-11T10:42:01Z |
-| Last seen (UTC) | 2026-11-22T00:50:05Z |
+| Last seen (UTC) | 2026-11-22T01:35:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

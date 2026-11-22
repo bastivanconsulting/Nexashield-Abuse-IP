@@ -1,0 +1,16 @@
+{
+  "ip": "117.2.123.19",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 7552,
+  "asn_org": "Viettel Group",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 5,
+  "first_seen": "2026-11-19T19:24:24Z",
+  "last_seen": "2026-11-21T15:46:48Z",
+  "reported": "not reported (permanent ban)"
+}
