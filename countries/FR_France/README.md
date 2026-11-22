@@ -1,20 +1,20 @@
 # 🇫🇷 France
 
-**343** malicious IP(s) across **23** network(s).
+**347** malicious IP(s) across **23** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 177 | Port scanning (9056), Known botnet / C2 infrastructure (1974), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 63 | Port scanning (3415), SSH brute force (504), Known botnet / C2 infrastructure (255), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 44 | Port scanning (5099), Known botnet / C2 infrastructure (293), Exploitation attempt (CVE / RCE / injection) (17), Abusive HTTP requests (4), SSH brute force (2) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 14 | Port scanning (584), Known botnet / C2 infrastructure (61), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 67 | Port scanning (3470), SSH brute force (506), Known botnet / C2 infrastructure (257), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 44 | Port scanning (5162), Known botnet / C2 infrastructure (297), Exploitation attempt (CVE / RCE / injection) (18), Abusive HTTP requests (4), SSH brute force (2) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 14 | Port scanning (589), Known botnet / C2 infrastructure (62), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 12 | Abusive HTTP requests (1172), Port scanning (195), Web injection payload blocked by WAF (60), Known botnet / C2 infrastructure (29) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 8 | Port scanning (366), Known botnet / C2 infrastructure (18), Web injection payload blocked by WAF (10), Exploitation attempt (CVE / RCE / injection) (9), Abusive HTTP requests (4) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (58), Abusive HTTP requests (19), Known botnet / C2 infrastructure (10) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 3 | Abusive HTTP requests (243), Port scanning (83), Known botnet / C2 infrastructure (7) |
 | [AS12322](AS12322_Free-SAS/) | Free SAS | 2 | Known botnet / C2 infrastructure (7), SSH brute force (5), Port scanning (5) |
-| [AS49434](AS49434_FBW-NETWORKS-SAS/) | FBW NETWORKS SAS | 2 | Port scanning (50), Known botnet / C2 infrastructure (3) |
+| [AS49434](AS49434_FBW-NETWORKS-SAS/) | FBW NETWORKS SAS | 2 | Port scanning (51), Known botnet / C2 infrastructure (4) |
 | [AS141995](AS141995_Contabo-Asia-Private-Limited/) | Contabo Asia Private Limited | 1 | Port scanning (38) |
 | [AS198545](AS198545_FLEX-NETWORK-SARL/) | FLEX NETWORK SARL | 1 | Port scanning (56), Known botnet / C2 infrastructure (1) |
 | [AS211273](AS211273_Cloud-Software-FZCO/) | Cloud Software - FZCO | 1 | Port scanning (26), Known botnet / C2 infrastructure (1) |

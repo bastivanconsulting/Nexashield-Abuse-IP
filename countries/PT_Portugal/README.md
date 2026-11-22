@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS12353](AS12353_Vodafone-Portugal-Communicacoes-Pessoais-S-A/) | Vodafone Portugal - Communicacoes Pessoais S.A. | 1 | SSH brute force (11), Known botnet / C2 infrastructure (6) |
+| [AS12353](AS12353_Vodafone-Portugal-Communicacoes-Pessoais-S-A/) | Vodafone Portugal - Communicacoes Pessoais S.A. | 1 | SSH brute force (11), Known botnet / C2 infrastructure (7) |
 | [AS215540](AS215540_GLOBAL-CONNECTIVITY-SOLUTIONS-LLP/) | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | Port scanning (19) |
 
 ---

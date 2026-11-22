@@ -1,0 +1,14 @@
+{
+  "ip": "45.138.16.238",
+  "country_code": "PL",
+  "country": "Poland",
+  "asn": 210558,
+  "asn_org": "1337 Services GmbH",
+  "categories": {
+    "scan": 32
+  },
+  "events": 32,
+  "first_seen": "2026-11-14T19:43:47Z",
+  "last_seen": "2026-11-22T19:05:39Z",
+  "reported": "not reported (permanent ban)"
+}

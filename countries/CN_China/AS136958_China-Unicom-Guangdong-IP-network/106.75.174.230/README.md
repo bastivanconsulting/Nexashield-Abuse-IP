@@ -8,9 +8,9 @@
 | Country | China (CN) |
 | ASN | AS136958 · China Unicom Guangdong IP network |
 | Activity | Port scanning (17) |
-| Events | 29 |
+| Events | 30 |
 | First seen (UTC) | 2026-11-11T13:01:58Z |
-| Last seen (UTC) | 2026-11-22T19:15:02Z |
+| Last seen (UTC) | 2026-11-22T19:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

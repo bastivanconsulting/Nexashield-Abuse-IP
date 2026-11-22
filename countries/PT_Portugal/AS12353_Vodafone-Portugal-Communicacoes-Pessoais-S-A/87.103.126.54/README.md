@@ -7,10 +7,10 @@
 | IP | `87.103.126.54` |
 | Country | Portugal (PT) |
 | ASN | AS12353 · Vodafone Portugal - Communicacoes Pessoais S.A. |
-| Activity | SSH brute force (11), Known botnet / C2 infrastructure (6) |
-| Events | 21 |
+| Activity | SSH brute force (11), Known botnet / C2 infrastructure (7) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-18T11:31:24Z |
-| Last seen (UTC) | 2026-11-22T11:10:33Z |
+| Last seen (UTC) | 2026-11-22T19:43:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

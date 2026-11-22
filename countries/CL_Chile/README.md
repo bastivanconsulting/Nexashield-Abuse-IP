@@ -1,9 +1,10 @@
 # 🇨🇱 Chile
 
-**1** malicious IP(s) across **1** network(s).
+**2** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS15311](AS15311_Telefonica-Empresas/) | Telefonica Empresas | 1 | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (358), Web injection payload blocked by WAF (33) |
 
 ---

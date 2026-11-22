@@ -1,0 +1,16 @@
+{
+  "ip": "186.179.80.12",
+  "country_code": "CL",
+  "country": "Chile",
+  "asn": 15311,
+  "asn_org": "Telefonica Empresas",
+  "categories": {
+    "ssh": 2,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-19T12:06:09Z",
+  "last_seen": "2026-11-22T20:03:05Z",
+  "reported": "not reported (permanent ban)"
+}

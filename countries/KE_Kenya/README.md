@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS328847](AS328847_THE-KONZA-TECHNOPOLIS-DEVELOPMENT-AUTHORITY/) | THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY | 1 | Known botnet / C2 infrastructure (9), Port scanning (7), SSH brute force (4) |
+| [AS328847](AS328847_THE-KONZA-TECHNOPOLIS-DEVELOPMENT-AUTHORITY/) | THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY | 1 | Known botnet / C2 infrastructure (10), Port scanning (8), SSH brute force (4) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

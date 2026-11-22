@@ -7,10 +7,10 @@
 | IP | `5.135.108.244` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (56), Known botnet / C2 infrastructure (6) |
-| Events | 69 |
+| Activity | Port scanning (58), Known botnet / C2 infrastructure (7) |
+| Events | 72 |
 | First seen (UTC) | 2026-11-15T12:01:12Z |
-| Last seen (UTC) | 2026-11-22T14:11:43Z |
+| Last seen (UTC) | 2026-11-22T20:01:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
