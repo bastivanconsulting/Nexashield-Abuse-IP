@@ -5,11 +5,11 @@
   "asn": 57509,
   "asn_org": "L&L Investment Ltd.",
   "categories": {
-    "scan": 657,
+    "scan": 661,
     "c2": 44
   },
-  "events": 758,
+  "events": 762,
   "first_seen": "2026-11-11T09:45:58Z",
-  "last_seen": "2026-11-22T20:02:28Z",
+  "last_seen": "2026-11-22T20:54:55Z",
   "reported": "not reported (permanent ban)"
 }

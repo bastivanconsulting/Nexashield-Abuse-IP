@@ -1,0 +1,15 @@
+{
+  "ip": "128.185.208.42",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 9498,
+  "asn_org": "Bharti Airtel Limited",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-20T12:01:54Z",
+  "last_seen": "2026-11-22T21:15:05Z",
+  "reported": "not reported (permanent ban)"
+}

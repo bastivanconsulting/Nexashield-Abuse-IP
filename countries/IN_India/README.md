@@ -1,12 +1,12 @@
 # 🇮🇳 India
 
-**47** malicious IP(s) across **20** network(s).
+**49** malicious IP(s) across **21** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 10 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (22), Known botnet / C2 infrastructure (13), Abusive HTTP requests (7) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (199), Known botnet / C2 infrastructure (69) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 5 | Known botnet / C2 infrastructure (20), SSH brute force (19), Port scanning (17) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (204), Known botnet / C2 infrastructure (69) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 6 | SSH brute force (24), Known botnet / C2 infrastructure (23), Port scanning (17) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 4 | Port scanning (15), SSH brute force (12), Known botnet / C2 infrastructure (9) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (32), Known botnet / C2 infrastructure (13) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
@@ -23,6 +23,7 @@
 | [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2), Port scanning (1) |
+| [AS55836](AS55836_Reliance-Jio-Infocomm-Limited/) | Reliance Jio Infocomm Limited | 1 | SSH brute force (3), Known botnet / C2 infrastructure (2) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | SSH brute force (21), Known botnet / C2 infrastructure (2) |
 
 ---

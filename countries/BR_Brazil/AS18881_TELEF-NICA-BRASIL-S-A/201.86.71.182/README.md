@@ -7,10 +7,10 @@
 | IP | `201.86.71.182` |
 | Country | Brazil (BR) |
 | ASN | AS18881 · TELEFÔNICA BRASIL S.A |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
-| Events | 11 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (2) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-16T03:06:13Z |
-| Last seen (UTC) | 2026-11-21T21:53:26Z |
+| Last seen (UTC) | 2026-11-22T20:43:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

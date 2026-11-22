@@ -27,7 +27,7 @@
 | [`92.118.39.72`](92.118.39.72/) | Port scanning (15), SSH brute force (4), Known botnet / C2 infrastructure (3) | 23 | 2026-11-20T21:47:14Z |
 | [`92.118.39.75`](92.118.39.75/) | SSH brute force (104), Port scanning (38), Known botnet / C2 infrastructure (17) | 164 | 2026-11-22T10:11:32Z |
 | [`92.118.39.76`](92.118.39.76/) | Port scanning (13), Known botnet / C2 infrastructure (5) | 19 | 2026-11-22T17:50:06Z |
-| [`92.118.39.77`](92.118.39.77/) | SSH brute force (417), Port scanning (26), Known botnet / C2 infrastructure (10) | 457 | 2026-11-21T21:22:55Z |
+| [`92.118.39.77`](92.118.39.77/) | SSH brute force (417), Port scanning (30), Known botnet / C2 infrastructure (11) | 463 | 2026-11-22T21:11:36Z |
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (86), Port scanning (19), Known botnet / C2 infrastructure (11) | 124 | 2026-11-22T07:36:43Z |
 | [`92.118.39.92`](92.118.39.92/) | Port scanning (91), Known botnet / C2 infrastructure (26) | 118 | 2026-11-22T11:36:05Z |
 | [`92.118.39.93`](92.118.39.93/) | Web injection payload blocked by WAF (3) | 4 | 2026-11-18T08:18:03Z |
@@ -37,7 +37,7 @@
 | [`193.32.162.15`](193.32.162.15/) | Port scanning (434), Known botnet / C2 infrastructure (36), SSH brute force (20) | 505 | 2026-11-22T16:50:34Z |
 | [`193.32.162.73`](193.32.162.73/) | Web injection payload blocked by WAF (16), Port scanning (7), Known botnet / C2 infrastructure (1) | 25 | 2026-11-14T21:56:54Z |
 | [`193.32.162.76`](193.32.162.76/) | Web injection payload blocked by WAF (13), Port scanning (8), Known botnet / C2 infrastructure (1) | 23 | 2026-11-14T21:56:54Z |
-| [`193.32.162.84`](193.32.162.84/) | SSH brute force (184), Known botnet / C2 infrastructure (9) | 286 | 2026-11-22T03:53:41Z |
+| [`193.32.162.84`](193.32.162.84/) | SSH brute force (184), Known botnet / C2 infrastructure (10) | 292 | 2026-11-22T21:12:03Z |
 | [`193.32.162.148`](193.32.162.148/) | Web injection payload blocked by WAF (178), Port scanning (3), Known botnet / C2 infrastructure (2) | 184 | 2026-11-14T21:56:54Z |
 | [`193.32.162.214`](193.32.162.214/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-20T09:43:02Z |
 

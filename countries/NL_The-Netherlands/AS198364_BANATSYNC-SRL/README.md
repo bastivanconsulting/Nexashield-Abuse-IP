@@ -25,10 +25,10 @@
 | [`109.160.32.114`](109.160.32.114/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-22T13:18:21Z |
 | [`109.160.32.115`](109.160.32.115/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-22T13:54:59Z |
 | [`109.160.32.116`](109.160.32.116/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 17 | 2026-11-22T19:45:04Z |
-| [`109.160.32.117`](109.160.32.117/) | Port scanning (50), Spamhaus DROP-listed network (7), SSH brute force (5) | 62 | 2026-11-22T20:22:27Z |
+| [`109.160.32.117`](109.160.32.117/) | Port scanning (50), Spamhaus DROP-listed network (9), SSH brute force (5) | 64 | 2026-11-22T21:13:02Z |
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23), Spamhaus DROP-listed network (1) | 74 | 2026-11-20T06:17:35Z |
-| [`109.160.32.119`](109.160.32.119/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-22T13:18:21Z |
-| [`109.160.32.120`](109.160.32.120/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T17:08:54Z |
+| [`109.160.32.119`](109.160.32.119/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T20:22:43Z |
+| [`109.160.32.120`](109.160.32.120/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T21:00:18Z |
 | [`109.160.32.121`](109.160.32.121/) | Port scanning (87), SSH brute force (12) | 99 | 2026-11-17T10:11:44Z |
 | [`109.160.32.122`](109.160.32.122/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-20T07:18:03Z |
 | [`109.160.32.123`](109.160.32.123/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-21T16:18:24Z |

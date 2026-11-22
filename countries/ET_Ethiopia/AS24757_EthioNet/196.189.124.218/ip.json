@@ -1,0 +1,15 @@
+{
+  "ip": "196.189.124.218",
+  "country_code": "ET",
+  "country": "Ethiopia",
+  "asn": 24757,
+  "asn_org": "EthioNet",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-22T09:23:55Z",
+  "last_seen": "2026-11-22T20:42:05Z",
+  "reported": "not reported (permanent ban)"
+}

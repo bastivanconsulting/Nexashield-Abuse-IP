@@ -5,10 +5,10 @@
   "asn": 12876,
   "asn_org": "Scaleway SAS",
   "categories": {
-    "scan": 268
+    "scan": 270
   },
-  "events": 309,
+  "events": 312,
   "first_seen": "2026-11-11T09:57:55Z",
-  "last_seen": "2026-11-22T18:58:10Z",
+  "last_seen": "2026-11-22T20:52:49Z",
   "reported": "not reported (permanent ban)"
 }

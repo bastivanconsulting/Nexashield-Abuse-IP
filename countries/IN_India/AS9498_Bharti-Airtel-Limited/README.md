@@ -1,10 +1,11 @@
 # AS9498 · Bharti Airtel Limited
 
-🇮🇳 India · **5** malicious IP(s)
+🇮🇳 India · **6** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`122.185.44.206`](122.185.44.206/) | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (3) | 15 | 2026-11-22T04:22:45Z |
+| [`128.185.208.42`](128.185.208.42/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T21:15:05Z |
 | [`182.66.211.2`](182.66.211.2/) | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (1) | 9 | 2026-11-22T16:02:45Z |
 | [`182.73.164.228`](182.73.164.228/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-22T20:16:05Z |
 | [`182.75.197.174`](182.75.197.174/) | Port scanning (8), Known botnet / C2 infrastructure (5), SSH brute force (4) | 19 | 2026-11-22T20:00:50Z |

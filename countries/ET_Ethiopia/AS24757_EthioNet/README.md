@@ -1,11 +1,12 @@
 # AS24757 · EthioNet
 
-🇪🇹 Ethiopia · **6** malicious IP(s)
+🇪🇹 Ethiopia · **7** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`196.188.93.169`](196.188.93.169/) | Port scanning (11), Known botnet / C2 infrastructure (8), SSH brute force (6) | 29 | 2026-11-22T18:40:28Z |
 | [`196.189.59.226`](196.189.59.226/) | Known botnet / C2 infrastructure (7), Port scanning (5), SSH brute force (4) | 17 | 2026-11-22T17:35:20Z |
+| [`196.189.124.218`](196.189.124.218/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-22T20:42:05Z |
 | [`196.189.126.10`](196.189.126.10/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 11 | 2026-11-21T20:08:05Z |
 | [`196.189.236.67`](196.189.236.67/) | Port scanning (35), Known botnet / C2 infrastructure (10), Web injection payload blocked by WAF (2) | 48 | 2026-11-18T05:39:38Z |
 | [`196.191.142.67`](196.191.142.67/) | SSH brute force (6), Known botnet / C2 infrastructure (3), Port scanning (2) | 12 | 2026-11-22T17:17:04Z |

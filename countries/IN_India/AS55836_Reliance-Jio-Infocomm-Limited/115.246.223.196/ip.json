@@ -1,0 +1,15 @@
+{
+  "ip": "115.246.223.196",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 55836,
+  "asn_org": "Reliance Jio Infocomm Limited",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-19T02:11:17Z",
+  "last_seen": "2026-11-21T22:03:36Z",
+  "reported": "not reported (permanent ban)"
+}

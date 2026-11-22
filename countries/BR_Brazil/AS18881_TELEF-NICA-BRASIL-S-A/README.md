@@ -11,9 +11,9 @@
 | [`186.215.107.189`](186.215.107.189/) | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (3) | 13 | 2026-11-22T19:24:42Z |
 | [`187.58.66.231`](187.58.66.231/) | SSH brute force (4), Port scanning (3), Known botnet / C2 infrastructure (3) | 11 | 2026-11-22T11:40:04Z |
 | [`187.58.241.90`](187.58.241.90/) | SSH brute force (8), Known botnet / C2 infrastructure (4), Port scanning (1) | 14 | 2026-11-22T20:08:29Z |
-| [`191.33.76.49`](191.33.76.49/) | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) | 13 | 2026-11-22T09:00:51Z |
+| [`191.33.76.49`](191.33.76.49/) | Known botnet / C2 infrastructure (6), SSH brute force (4), Port scanning (4) | 15 | 2026-11-22T21:14:05Z |
 | [`200.139.93.67`](200.139.93.67/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (1) | 10 | 2026-11-20T23:09:42Z |
-| [`201.86.71.182`](201.86.71.182/) | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) | 11 | 2026-11-21T21:53:26Z |
+| [`201.86.71.182`](201.86.71.182/) | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (2) | 13 | 2026-11-22T20:43:35Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

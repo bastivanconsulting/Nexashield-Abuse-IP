@@ -8,9 +8,9 @@
 | [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 5 | SSH brute force (24), Known botnet / C2 infrastructure (16), Port scanning (7) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (25), Known botnet / C2 infrastructure (21) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (47), Known botnet / C2 infrastructure (9) |
-| [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 2 | Port scanning (45), Abusive HTTP requests (4) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (531), Known botnet / C2 infrastructure (35), Abusive HTTP requests (2) |
-| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (66), Known botnet / C2 infrastructure (38) |
+| [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 2 | Port scanning (48), Abusive HTTP requests (4) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (534), Known botnet / C2 infrastructure (35), Abusive HTTP requests (2) |
+| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (67), Known botnet / C2 infrastructure (39) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (9), Known botnet / C2 infrastructure (6) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
 | [AS212913](AS212913_TIME-HOST-LTD/) | TIME-HOST LTD | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
@@ -19,7 +19,7 @@
 | [AS29069](AS29069_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (3) |
 | [AS31363](AS31363_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (4) |
 | [AS31483](AS31483_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (1) |
-| [AS35816](AS35816_Lancom-Ltd/) | Lancom Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3) |
+| [AS35816](AS35816_Lancom-Ltd/) | Lancom Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39264](AS39264_Region-Svyaz-Konsalt-LLC/) | "Region Svyaz Konsalt" LLC | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (2) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |

@@ -7,10 +7,10 @@
 | IP | `185.100.87.136` |
 | Country | Romania (RO) |
 | ASN | AS200651 · FlokiNET ehf |
-| Activity | Port scanning (198), Known botnet / C2 infrastructure (13) |
-| Events | 216 |
+| Activity | Port scanning (206), Known botnet / C2 infrastructure (13) |
+| Events | 224 |
 | First seen (UTC) | 2026-11-12T03:50:25Z |
-| Last seen (UTC) | 2026-11-22T20:16:17Z |
+| Last seen (UTC) | 2026-11-22T21:11:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
