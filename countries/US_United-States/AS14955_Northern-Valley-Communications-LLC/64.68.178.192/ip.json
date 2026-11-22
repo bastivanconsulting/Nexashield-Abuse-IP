@@ -5,10 +5,10 @@
   "asn": 14955,
   "asn_org": "Northern Valley Communications LLC",
   "categories": {
-    "exploit": 2
+    "exploit": 3
   },
-  "events": 3,
+  "events": 4,
   "first_seen": "2026-11-12T08:33:19Z",
-  "last_seen": "2026-11-21T20:49:05Z",
+  "last_seen": "2026-11-22T00:22:09Z",
   "reported": "not reported (permanent ban)"
 }

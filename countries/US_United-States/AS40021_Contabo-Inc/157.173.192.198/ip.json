@@ -1,0 +1,15 @@
+{
+  "ip": "157.173.192.198",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 40021,
+  "asn_org": "Contabo Inc.",
+  "categories": {
+    "scan": 13,
+    "c2": 3
+  },
+  "events": 18,
+  "first_seen": "2026-11-18T18:24:19Z",
+  "last_seen": "2026-11-22T01:17:04Z",
+  "reported": "not reported (permanent ban)"
+}

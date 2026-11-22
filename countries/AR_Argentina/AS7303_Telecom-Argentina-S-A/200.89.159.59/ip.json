@@ -6,11 +6,11 @@
   "asn_org": "Telecom Argentina S.A.",
   "categories": {
     "ssh": 3,
-    "c2": 3,
-    "scan": 1
+    "c2": 4,
+    "scan": 2
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-16T04:48:45Z",
-  "last_seen": "2026-11-21T15:22:05Z",
+  "last_seen": "2026-11-22T01:14:24Z",
   "reported": "not reported (permanent ban)"
 }

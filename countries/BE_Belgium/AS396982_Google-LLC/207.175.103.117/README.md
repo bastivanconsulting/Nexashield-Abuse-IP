@@ -7,10 +7,10 @@
 | IP | `207.175.103.117` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (27), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |
-| Events | 41 |
+| Activity | Port scanning (28), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |
+| Events | 42 |
 | First seen (UTC) | 2026-11-17T02:12:26Z |
-| Last seen (UTC) | 2026-11-21T23:08:41Z |
+| Last seen (UTC) | 2026-11-22T00:26:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

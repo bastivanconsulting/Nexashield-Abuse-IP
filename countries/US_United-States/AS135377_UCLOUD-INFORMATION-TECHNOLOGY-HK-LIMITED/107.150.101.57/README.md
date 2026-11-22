@@ -7,10 +7,10 @@
 | IP | `107.150.101.57` |
 | Country | United States (US) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (39) |
-| Events | 57 |
+| Activity | Port scanning (40) |
+| Events | 59 |
 | First seen (UTC) | 2026-11-13T14:59:13Z |
-| Last seen (UTC) | 2026-11-21T17:22:34Z |
+| Last seen (UTC) | 2026-11-22T00:53:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

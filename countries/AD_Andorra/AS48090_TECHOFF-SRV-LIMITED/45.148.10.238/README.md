@@ -7,10 +7,10 @@
 | IP | `45.148.10.238` |
 | Country | Andorra (AD) |
 | ASN | AS48090 · TECHOFF SRV LIMITED |
-| Activity | Web injection payload blocked by WAF (560), Exploitation attempt (CVE / RCE / injection) (7), Port scanning (1), Known botnet / C2 infrastructure (1) |
-| Events | 719 |
+| Activity | Web injection payload blocked by WAF (560), Exploitation attempt (CVE / RCE / injection) (7), Port scanning (4), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) |
+| Events | 724 |
 | First seen (UTC) | 2026-11-11T10:19:05Z |
-| Last seen (UTC) | 2026-11-11T10:22:10Z |
+| Last seen (UTC) | 2026-11-22T01:12:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

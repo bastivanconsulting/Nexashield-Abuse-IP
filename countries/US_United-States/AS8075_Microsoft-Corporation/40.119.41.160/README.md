@@ -7,10 +7,10 @@
 | IP | `40.119.41.160` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (21), Known botnet / C2 infrastructure (15), Web injection payload blocked by WAF (1) |
-| Events | 38 |
+| Activity | Port scanning (22), Known botnet / C2 infrastructure (16), Web injection payload blocked by WAF (1) |
+| Events | 40 |
 | First seen (UTC) | 2026-11-12T16:19:08Z |
-| Last seen (UTC) | 2026-11-21T09:37:14Z |
+| Last seen (UTC) | 2026-11-22T01:00:40Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
