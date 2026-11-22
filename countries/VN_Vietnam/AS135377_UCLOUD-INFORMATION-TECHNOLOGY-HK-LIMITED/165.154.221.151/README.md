@@ -7,10 +7,10 @@
 | IP | `165.154.221.151` |
 | Country | Vietnam (VN) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (11), Known botnet / C2 infrastructure (7) |
-| Events | 19 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (8) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-11T18:50:09Z |
-| Last seen (UTC) | 2026-11-22T13:32:35Z |
+| Last seen (UTC) | 2026-11-22T22:20:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

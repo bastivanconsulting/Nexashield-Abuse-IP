@@ -1,0 +1,16 @@
+{
+  "ip": "180.188.253.150",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 133661,
+  "asn_org": "Netplus Broadband Services Private Limited",
+  "categories": {
+    "ssh": 4,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 9,
+  "first_seen": "2026-11-18T22:26:50Z",
+  "last_seen": "2026-11-22T23:00:04Z",
+  "reported": "not reported (permanent ban)"
+}

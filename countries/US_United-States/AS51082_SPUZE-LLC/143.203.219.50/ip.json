@@ -1,0 +1,15 @@
+{
+  "ip": "143.203.219.50",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 51082,
+  "asn_org": "SPUZE LLC",
+  "categories": {
+    "exploit": 1,
+    "scan": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-22T23:15:15Z",
+  "last_seen": "2026-11-22T23:16:04Z",
+  "reported": "not reported (permanent ban)"
+}

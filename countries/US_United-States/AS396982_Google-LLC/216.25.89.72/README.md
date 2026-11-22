@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS396982 · Google LLC |
 | Activity | Port scanning (63) |
-| Events | 87 |
+| Events | 88 |
 | First seen (UTC) | 2026-11-12T10:00:10Z |
-| Last seen (UTC) | 2026-11-22T22:17:12Z |
+| Last seen (UTC) | 2026-11-22T22:17:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

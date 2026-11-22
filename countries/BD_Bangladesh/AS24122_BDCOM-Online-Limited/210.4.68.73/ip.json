@@ -1,0 +1,16 @@
+{
+  "ip": "210.4.68.73",
+  "country_code": "BD",
+  "country": "Bangladesh",
+  "asn": 24122,
+  "asn_org": "BDCOM Online Limited",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-20T03:18:50Z",
+  "last_seen": "2026-11-22T22:48:05Z",
+  "reported": "not reported (permanent ban)"
+}
