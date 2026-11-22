@@ -1,9 +1,10 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇮🇩 Indonesia · **1** malicious IP(s)
+🇮🇩 Indonesia · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`152.32.153.228`](152.32.153.228/) | Port scanning (16), Known botnet / C2 infrastructure (3) | 27 | 2026-11-22T12:09:06Z |
 | [`165.154.48.160`](165.154.48.160/) | Port scanning (35) | 53 | 2026-11-22T05:57:04Z |
 
 ---

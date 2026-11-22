@@ -1,9 +1,10 @@
 # AS57128 · JSC "Ufanet"
 
-🇷🇺 Russia · **1** malicious IP(s)
+🇷🇺 Russia · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`95.105.3.221`](95.105.3.221/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 6 | 2026-11-19T09:40:37Z |
 | [`95.105.71.239`](95.105.71.239/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-22T06:08:07Z |
 
 ---

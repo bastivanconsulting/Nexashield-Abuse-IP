@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS204428](AS204428_SS-Net/) | SS-Net | 4 | Port scanning (1462), SSH brute force (572), Spamhaus DROP-listed network (155), Abusive HTTP requests (10) |
+| [AS204428](AS204428_SS-Net/) | SS-Net | 4 | Port scanning (1466), SSH brute force (572), Spamhaus DROP-listed network (155), Abusive HTTP requests (10) |
 | [AS211619](AS211619_MAXKO-d-o-o/) | MAXKO d.o.o. | 1 | Port scanning (74), Known botnet / C2 infrastructure (8) |
 
 ---

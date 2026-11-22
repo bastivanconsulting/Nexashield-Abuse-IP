@@ -1,0 +1,16 @@
+{
+  "ip": "178.178.222.59",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 25159,
+  "asn_org": "PJSC MegaFon",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 5,
+  "first_seen": "2026-11-18T14:42:19Z",
+  "last_seen": "2026-11-21T14:26:48Z",
+  "reported": "not reported (permanent ban)"
+}
