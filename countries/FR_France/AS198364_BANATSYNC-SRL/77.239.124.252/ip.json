@@ -5,11 +5,11 @@
   "asn": 198364,
   "asn_org": "BANATSYNC SRL",
   "categories": {
-    "scan": 988,
+    "scan": 1012,
     "c2": 20
   },
-  "events": 1082,
+  "events": 1107,
   "first_seen": "2026-11-13T19:59:38Z",
-  "last_seen": "2026-11-22T14:03:55Z",
+  "last_seen": "2026-11-22T15:15:24Z",
   "reported": "not reported (permanent ban)"
 }

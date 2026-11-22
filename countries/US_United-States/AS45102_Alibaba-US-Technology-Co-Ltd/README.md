@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇺🇸 United States · **101** malicious IP(s)
+🇺🇸 United States · **102** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -21,7 +21,7 @@
 | [`47.77.230.225`](47.77.230.225/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 14 | 2026-11-22T10:04:52Z |
 | [`47.77.235.14`](47.77.235.14/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-22T11:31:56Z |
 | [`47.77.235.89`](47.77.235.89/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T18:21:03Z |
-| [`47.88.2.147`](47.88.2.147/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-20T10:08:12Z |
+| [`47.88.2.147`](47.88.2.147/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-22T14:32:39Z |
 | [`47.88.9.192`](47.88.9.192/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-20T20:53:05Z |
 | [`47.88.18.115`](47.88.18.115/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T02:53:57Z |
 | [`47.88.53.172`](47.88.53.172/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T13:30:05Z |
@@ -30,7 +30,7 @@
 | [`47.88.84.106`](47.88.84.106/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T14:01:05Z |
 | [`47.88.94.31`](47.88.94.31/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T20:04:51Z |
 | [`47.89.240.24`](47.89.240.24/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T13:13:05Z |
-| [`47.89.241.203`](47.89.241.203/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-18T20:13:54Z |
+| [`47.89.241.203`](47.89.241.203/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-22T14:43:51Z |
 | [`47.89.243.214`](47.89.243.214/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 12 | 2026-11-22T11:39:06Z |
 | [`47.89.247.18`](47.89.247.18/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 13 | 2026-11-22T07:50:27Z |
 | [`47.89.248.96`](47.89.248.96/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-19T05:18:02Z |
@@ -41,7 +41,7 @@
 | [`47.251.30.247`](47.251.30.247/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-20T08:58:16Z |
 | [`47.251.48.41`](47.251.48.41/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-22T03:26:11Z |
 | [`47.251.52.64`](47.251.52.64/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-22T06:24:55Z |
-| [`47.251.59.83`](47.251.59.83/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-22T02:16:29Z |
+| [`47.251.59.83`](47.251.59.83/) | Port scanning (10), Known botnet / C2 infrastructure (9) | 20 | 2026-11-22T14:34:41Z |
 | [`47.251.68.32`](47.251.68.32/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-18T02:37:09Z |
 | [`47.251.68.242`](47.251.68.242/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T11:45:06Z |
 | [`47.251.70.209`](47.251.70.209/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-22T09:13:25Z |
@@ -58,6 +58,7 @@
 | [`47.251.101.89`](47.251.101.89/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-22T10:37:57Z |
 | [`47.251.101.198`](47.251.101.198/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-21T18:21:07Z |
 | [`47.251.101.253`](47.251.101.253/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 12 | 2026-11-16T22:29:58Z |
+| [`47.251.115.66`](47.251.115.66/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-22T05:14:26Z |
 | [`47.251.117.40`](47.251.117.40/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T21:04:05Z |
 | [`47.251.122.165`](47.251.122.165/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T10:54:45Z |
 | [`47.251.122.183`](47.251.122.183/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T19:38:50Z |

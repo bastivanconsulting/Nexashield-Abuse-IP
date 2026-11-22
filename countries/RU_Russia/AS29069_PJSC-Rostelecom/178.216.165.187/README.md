@@ -7,10 +7,10 @@
 | IP | `178.216.165.187` |
 | Country | Russia (RU) |
 | ASN | AS29069 · PJSC Rostelecom |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| Events | 10 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-18T09:59:03Z |
-| Last seen (UTC) | 2026-11-22T05:12:37Z |
+| Last seen (UTC) | 2026-11-22T14:56:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

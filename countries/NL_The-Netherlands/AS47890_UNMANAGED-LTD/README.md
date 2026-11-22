@@ -9,7 +9,7 @@
 | [`2.57.122.168`](2.57.122.168/) | SSH brute force (200), Port scanning (35), Known botnet / C2 infrastructure (14) | 253 | 2026-11-22T13:19:21Z |
 | [`2.57.122.189`](2.57.122.189/) | Web injection payload blocked by WAF (18), Port scanning (5), Known botnet / C2 infrastructure (4) | 31 | 2026-11-21T11:25:18Z |
 | [`2.57.122.207`](2.57.122.207/) | Known botnet / C2 infrastructure (14), Port scanning (9) | 26 | 2026-11-18T22:55:11Z |
-| [`2.57.122.209`](2.57.122.209/) | SSH brute force (85), Port scanning (37), Known botnet / C2 infrastructure (14) | 142 | 2026-11-22T02:01:44Z |
+| [`2.57.122.209`](2.57.122.209/) | SSH brute force (85), Port scanning (40), Known botnet / C2 infrastructure (15) | 147 | 2026-11-22T14:42:50Z |
 | [`80.94.92.55`](80.94.92.55/) | SSH brute force (80), Port scanning (54), Known botnet / C2 infrastructure (19) | 163 | 2026-11-20T14:18:17Z |
 | [`80.94.92.130`](80.94.92.130/) | Port scanning (163), Known botnet / C2 infrastructure (13) | 188 | 2026-11-16T20:03:02Z |
 | [`80.94.92.179`](80.94.92.179/) | SSH brute force (608), Port scanning (26), Known botnet / C2 infrastructure (15) | 652 | 2026-11-22T13:05:07Z |
@@ -19,7 +19,7 @@
 | [`92.118.39.49`](92.118.39.49/) | SSH brute force (64), Port scanning (35), Known botnet / C2 infrastructure (14) | 121 | 2026-11-22T07:37:11Z |
 | [`92.118.39.50`](92.118.39.50/) | SSH brute force (54), Port scanning (32), Known botnet / C2 infrastructure (15) | 106 | 2026-11-21T22:37:12Z |
 | [`92.118.39.56`](92.118.39.56/) | Port scanning (26), SSH brute force (18), Known botnet / C2 infrastructure (13) | 74 | 2026-11-22T10:26:51Z |
-| [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 9 | 2026-11-20T04:45:03Z |
+| [`92.118.39.57`](92.118.39.57/) | Port scanning (1) | 10 | 2026-11-22T14:41:18Z |
 | [`92.118.39.63`](92.118.39.63/) | SSH brute force (100), Port scanning (36), Known botnet / C2 infrastructure (13) | 171 | 2026-11-22T12:21:02Z |
 | [`92.118.39.64`](92.118.39.64/) | Port scanning (28), SSH brute force (22), Known botnet / C2 infrastructure (12) | 68 | 2026-11-22T08:47:55Z |
 | [`92.118.39.65`](92.118.39.65/) | Known botnet / C2 infrastructure (6) | 13 | 2026-11-22T10:27:46Z |

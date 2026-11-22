@@ -7,10 +7,10 @@
 | IP | `34.84.90.44` |
 | Country | Japan (JP) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (47), Known botnet / C2 infrastructure (6) |
-| Events | 57 |
+| Activity | Port scanning (48), Known botnet / C2 infrastructure (7) |
+| Events | 59 |
 | First seen (UTC) | 2026-11-19T11:47:58Z |
-| Last seen (UTC) | 2026-11-21T14:59:01Z |
+| Last seen (UTC) | 2026-11-22T14:55:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

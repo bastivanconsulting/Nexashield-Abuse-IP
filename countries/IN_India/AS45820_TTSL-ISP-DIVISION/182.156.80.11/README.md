@@ -7,10 +7,10 @@
 | IP | `182.156.80.11` |
 | Country | India (IN) |
 | ASN | AS45820 · TTSL-ISP DIVISION |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 9 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-20T04:54:11Z |
-| Last seen (UTC) | 2026-11-22T08:19:05Z |
+| Last seen (UTC) | 2026-11-22T15:02:40Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`146.88.241.20`](146.88.241.20/) | Port scanning (87), Known botnet / C2 infrastructure (20) | 111 | 2026-11-21T09:07:08Z |
 | [`146.88.241.30`](146.88.241.30/) | Port scanning (15), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (4) | 26 | 2026-11-19T15:35:18Z |
-| [`146.88.241.40`](146.88.241.40/) | Port scanning (65), Known botnet / C2 infrastructure (16), Exploitation attempt (CVE / RCE / injection) (1) | 88 | 2026-11-22T07:27:00Z |
+| [`146.88.241.40`](146.88.241.40/) | Port scanning (68), Known botnet / C2 infrastructure (17), Exploitation attempt (CVE / RCE / injection) (1) | 97 | 2026-11-22T15:14:56Z |
 | [`146.88.241.50`](146.88.241.50/) | Port scanning (65), Known botnet / C2 infrastructure (13) | 85 | 2026-11-21T12:44:08Z |
 | [`146.88.241.60`](146.88.241.60/) | Port scanning (35), Known botnet / C2 infrastructure (9), Exploitation attempt (CVE / RCE / injection) (1) | 59 | 2026-11-20T15:06:04Z |
 | [`146.88.241.70`](146.88.241.70/) | Port scanning (95), Known botnet / C2 infrastructure (21) | 128 | 2026-11-22T12:19:57Z |
@@ -17,7 +17,7 @@
 | [`146.88.241.120`](146.88.241.120/) | Port scanning (62), Known botnet / C2 infrastructure (7) | 84 | 2026-11-21T01:23:22Z |
 | [`146.88.241.130`](146.88.241.130/) | Port scanning (100), Known botnet / C2 infrastructure (22) | 136 | 2026-11-22T09:57:26Z |
 | [`146.88.241.140`](146.88.241.140/) | Port scanning (67), Known botnet / C2 infrastructure (15) | 88 | 2026-11-22T10:48:09Z |
-| [`146.88.241.150`](146.88.241.150/) | Port scanning (81), Known botnet / C2 infrastructure (19) | 101 | 2026-11-22T12:57:31Z |
+| [`146.88.241.150`](146.88.241.150/) | Port scanning (84), Known botnet / C2 infrastructure (19) | 105 | 2026-11-22T15:05:31Z |
 | [`146.88.241.160`](146.88.241.160/) | Port scanning (56), Known botnet / C2 infrastructure (12) | 71 | 2026-11-22T11:05:52Z |
 | [`146.88.241.170`](146.88.241.170/) | Port scanning (116), Known botnet / C2 infrastructure (21) | 149 | 2026-11-22T12:32:54Z |
 

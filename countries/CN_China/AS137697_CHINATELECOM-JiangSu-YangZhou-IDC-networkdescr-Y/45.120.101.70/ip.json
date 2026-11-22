@@ -1,0 +1,15 @@
+{
+  "ip": "45.120.101.70",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 137697,
+  "asn_org": "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-18T23:06:23Z",
+  "last_seen": "2026-11-22T14:44:04Z",
+  "reported": "not reported (permanent ban)"
+}

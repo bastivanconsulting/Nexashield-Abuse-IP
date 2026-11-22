@@ -1,0 +1,16 @@
+{
+  "ip": "111.171.125.94",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 38109,
+  "asn_org": "SK Broadband Co Ltd",
+  "categories": {
+    "ssh": 3,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 8,
+  "first_seen": "2026-11-18T05:12:58Z",
+  "last_seen": "2026-11-22T14:50:04Z",
+  "reported": "not reported (permanent ban)"
+}

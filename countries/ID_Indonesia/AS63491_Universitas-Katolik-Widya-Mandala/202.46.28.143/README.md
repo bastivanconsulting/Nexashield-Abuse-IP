@@ -7,10 +7,10 @@
 | IP | `202.46.28.143` |
 | Country | Indonesia (ID) |
 | ASN | AS63491 · Universitas Katolik Widya Mandala |
-| Activity | Port scanning (134), Known botnet / C2 infrastructure (33) |
-| Events | 168 |
+| Activity | Port scanning (135), Known botnet / C2 infrastructure (33) |
+| Events | 169 |
 | First seen (UTC) | 2026-11-11T10:18:20Z |
-| Last seen (UTC) | 2026-11-22T12:59:23Z |
+| Last seen (UTC) | 2026-11-22T14:29:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

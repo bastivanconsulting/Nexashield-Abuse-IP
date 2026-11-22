@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS200651](AS200651_FlokiNET-ehf/) | FlokiNET ehf | 2 | Port scanning (191), Known botnet / C2 infrastructure (12), SSH brute force (1) |
-| [AS209588](AS209588_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (377), Known botnet / C2 infrastructure (26) |
+| [AS209588](AS209588_Flyservers-S-A/) | Flyservers S.A. | 1 | Port scanning (378), Known botnet / C2 infrastructure (26) |
 | [AS39383](AS39383_Annarsy-SRL/) | Annarsy SRL | 1 | SSH brute force (10), Port scanning (1) |
 | [AS44418](AS44418_Bitdefender-SRL/) | Bitdefender SRL | 1 | Port scanning (1) |
 | [AS52189](AS52189_OMEGA-NET-SRL/) | OMEGA NET SRL | 1 | Exploitation attempt (CVE / RCE / injection) (2) |

@@ -7,10 +7,10 @@
 | IP | `104.248.210.24` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (106), Known botnet / C2 infrastructure (11) |
-| Events | 125 |
+| Activity | Port scanning (107), Known botnet / C2 infrastructure (11) |
+| Events | 126 |
 | First seen (UTC) | 2026-11-15T16:41:46Z |
-| Last seen (UTC) | 2026-11-22T13:39:43Z |
+| Last seen (UTC) | 2026-11-22T14:20:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

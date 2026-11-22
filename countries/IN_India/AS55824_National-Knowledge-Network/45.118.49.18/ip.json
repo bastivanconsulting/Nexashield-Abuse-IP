@@ -6,10 +6,11 @@
   "asn_org": "National Knowledge Network",
   "categories": {
     "ssh": 4,
-    "c2": 2
+    "c2": 2,
+    "scan": 1
   },
-  "events": 7,
+  "events": 8,
   "first_seen": "2026-11-21T04:54:15Z",
-  "last_seen": "2026-11-22T11:03:04Z",
+  "last_seen": "2026-11-22T14:25:01Z",
   "reported": "not reported (permanent ban)"
 }

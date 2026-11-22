@@ -7,10 +7,10 @@
 | IP | `5.77.39.15` |
 | Country | United Kingdom (GB) |
 | ASN | AS31727 · Node4 Limited |
-| Activity | Port scanning (42) |
-| Events | 52 |
+| Activity | Port scanning (46) |
+| Events | 57 |
 | First seen (UTC) | 2026-11-18T04:44:27Z |
-| Last seen (UTC) | 2026-11-22T13:37:27Z |
+| Last seen (UTC) | 2026-11-22T15:06:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

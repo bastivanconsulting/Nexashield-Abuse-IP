@@ -5,11 +5,11 @@
   "asn": 216014,
   "asn_org": "BestDC Limited",
   "categories": {
-    "scan": 718,
+    "scan": 721,
     "c2": 36
   },
-  "events": 783,
+  "events": 787,
   "first_seen": "2026-11-11T12:38:16Z",
-  "last_seen": "2026-11-22T14:13:27Z",
+  "last_seen": "2026-11-22T14:50:02Z",
   "reported": "not reported (permanent ban)"
 }

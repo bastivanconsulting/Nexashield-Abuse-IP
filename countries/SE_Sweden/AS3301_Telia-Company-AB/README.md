@@ -1,10 +1,11 @@
 # AS3301 · Telia Company AB
 
-🇸🇪 Sweden · **7** malicious IP(s)
+🇸🇪 Sweden · **8** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`78.67.19.250`](78.67.19.250/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 5 | 2026-11-12T01:35:02Z |
+| [`90.230.115.5`](90.230.115.5/) | SSH brute force (4), Known botnet / C2 infrastructure (2) | 7 | 2026-11-22T02:07:50Z |
 | [`90.230.212.29`](90.230.212.29/) | SSH brute force (9) | 9 | 2026-11-20T20:42:28Z |
 | [`90.230.226.175`](90.230.226.175/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-21T15:09:05Z |
 | [`213.64.163.27`](213.64.163.27/) | SSH brute force (7), Known botnet / C2 infrastructure (3), Port scanning (1) | 12 | 2026-11-22T13:40:05Z |
