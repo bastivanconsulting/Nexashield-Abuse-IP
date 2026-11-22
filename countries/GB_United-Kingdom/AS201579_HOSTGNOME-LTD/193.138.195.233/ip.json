@@ -5,11 +5,11 @@
   "asn": 201579,
   "asn_org": "HOSTGNOME LTD",
   "categories": {
-    "c2": 19,
-    "scan": 70
+    "c2": 20,
+    "scan": 71
   },
-  "events": 90,
+  "events": 92,
   "first_seen": "2026-11-14T06:33:08Z",
-  "last_seen": "2026-11-22T00:46:29Z",
+  "last_seen": "2026-11-22T02:24:37Z",
   "reported": "not reported (permanent ban)"
 }

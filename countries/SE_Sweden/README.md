@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2403), Known botnet / C2 infrastructure (292), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2410), Known botnet / C2 infrastructure (293), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 6 | SSH brute force (25), Known botnet / C2 infrastructure (7), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 5 | SSH brute force (30), Known botnet / C2 infrastructure (17), Port scanning (2) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 2 | SSH brute force (7), Known botnet / C2 infrastructure (6), Port scanning (3) |
@@ -16,7 +16,7 @@
 | [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (35) |
 | [AS33885](AS33885_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS8434](AS8434_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
-| [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 1 | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

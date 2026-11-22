@@ -7,10 +7,10 @@
 | IP | `45.198.224.71` |
 | Country | Sweden (SE) |
 | ASN | AS215925 · VPSVAULT.HOST LTD |
-| Activity | Port scanning (201), Known botnet / C2 infrastructure (25) |
-| Events | 230 |
+| Activity | Port scanning (203), Known botnet / C2 infrastructure (25) |
+| Events | 232 |
 | First seen (UTC) | 2026-11-13T15:32:08Z |
-| Last seen (UTC) | 2026-11-22T01:15:09Z |
+| Last seen (UTC) | 2026-11-22T03:08:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

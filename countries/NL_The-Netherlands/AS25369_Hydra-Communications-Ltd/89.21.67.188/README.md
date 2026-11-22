@@ -7,10 +7,10 @@
 | IP | `89.21.67.188` |
 | Country | The Netherlands (NL) |
 | ASN | AS25369 · Hydra Communications Ltd |
-| Activity | Port scanning (58), Known botnet / C2 infrastructure (23) |
-| Events | 83 |
+| Activity | Port scanning (59), Known botnet / C2 infrastructure (23) |
+| Events | 84 |
 | First seen (UTC) | 2026-11-11T14:52:39Z |
-| Last seen (UTC) | 2026-11-21T18:52:08Z |
+| Last seen (UTC) | 2026-11-22T02:28:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

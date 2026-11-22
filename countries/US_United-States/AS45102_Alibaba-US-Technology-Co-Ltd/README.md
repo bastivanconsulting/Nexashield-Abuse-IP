@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇺🇸 United States · **87** malicious IP(s)
+🇺🇸 United States · **88** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -18,6 +18,7 @@
 | [`47.77.228.76`](47.77.228.76/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T16:17:24Z |
 | [`47.77.230.66`](47.77.230.66/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T21:15:04Z |
 | [`47.77.230.225`](47.77.230.225/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 12 | 2026-11-21T13:03:29Z |
+| [`47.77.235.14`](47.77.235.14/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-21T14:02:51Z |
 | [`47.77.235.89`](47.77.235.89/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-19T18:21:03Z |
 | [`47.88.2.147`](47.88.2.147/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-20T10:08:12Z |
 | [`47.88.9.192`](47.88.9.192/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-20T20:53:05Z |
@@ -58,7 +59,7 @@
 | [`47.251.122.183`](47.251.122.183/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T19:38:50Z |
 | [`47.251.124.51`](47.251.124.51/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T00:27:27Z |
 | [`47.251.124.111`](47.251.124.111/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T17:35:48Z |
-| [`47.251.125.8`](47.251.125.8/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T09:14:04Z |
+| [`47.251.125.8`](47.251.125.8/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T02:47:31Z |
 | [`47.251.140.69`](47.251.140.69/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-22T00:14:04Z |
 | [`47.251.166.182`](47.251.166.182/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-20T09:11:04Z |
 | [`47.251.171.255`](47.251.171.255/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-20T10:00:02Z |
