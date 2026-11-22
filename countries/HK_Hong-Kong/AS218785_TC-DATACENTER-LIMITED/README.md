@@ -18,18 +18,18 @@
 | [`45.138.12.46`](45.138.12.46/) | Port scanning (17), Known botnet / C2 infrastructure (10) | 28 | 2026-11-22T05:43:32Z |
 | [`45.138.12.48`](45.138.12.48/) | Port scanning (7), Known botnet / C2 infrastructure (5), Abusive HTTP requests (2) | 15 | 2026-11-15T22:18:40Z |
 | [`45.138.12.51`](45.138.12.51/) | Abusive HTTP requests (528), Spamhaus DROP-listed network (15), Port scanning (1) | 544 | 2026-11-15T08:53:10Z |
-| [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (31), Abusive HTTP requests (6) | 37 | 2026-11-22T06:13:34Z |
-| [`45.138.12.216`](45.138.12.216/) | Port scanning (19), Web injection payload blocked by WAF (3), Known botnet / C2 infrastructure (2), Abusive HTTP requests (1) | 25 | 2026-11-22T06:14:36Z |
-| [`45.138.12.217`](45.138.12.217/) | Port scanning (23), Known botnet / C2 infrastructure (6), Abusive HTTP requests (4), Web injection payload blocked by WAF (2) | 36 | 2026-11-22T06:14:13Z |
-| [`185.218.86.2`](185.218.86.2/) | Port scanning (431) | 489 | 2026-11-22T04:03:21Z |
-| [`185.218.86.4`](185.218.86.4/) | Port scanning (441) | 513 | 2026-11-22T03:32:43Z |
-| [`185.218.86.10`](185.218.86.10/) | Port scanning (428) | 495 | 2026-11-22T03:45:01Z |
-| [`185.218.86.12`](185.218.86.12/) | Port scanning (416) | 483 | 2026-11-22T03:50:07Z |
-| [`185.218.86.13`](185.218.86.13/) | Port scanning (409) | 474 | 2026-11-22T03:51:44Z |
-| [`185.218.86.17`](185.218.86.17/) | Port scanning (409) | 468 | 2026-11-22T03:35:25Z |
-| [`185.218.86.20`](185.218.86.20/) | Port scanning (405) | 473 | 2026-11-22T03:33:19Z |
+| [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (33), Abusive HTTP requests (6) | 39 | 2026-11-22T07:01:34Z |
+| [`45.138.12.216`](45.138.12.216/) | Port scanning (20), Web injection payload blocked by WAF (3), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 27 | 2026-11-22T07:01:34Z |
+| [`45.138.12.217`](45.138.12.217/) | Port scanning (24), Known botnet / C2 infrastructure (6), Abusive HTTP requests (4), Web injection payload blocked by WAF (2) | 37 | 2026-11-22T07:01:04Z |
+| [`185.218.86.2`](185.218.86.2/) | Port scanning (435) | 494 | 2026-11-22T07:02:07Z |
+| [`185.218.86.4`](185.218.86.4/) | Port scanning (442) | 514 | 2026-11-22T06:54:56Z |
+| [`185.218.86.10`](185.218.86.10/) | Port scanning (429) | 496 | 2026-11-22T07:10:36Z |
+| [`185.218.86.12`](185.218.86.12/) | Port scanning (419) | 487 | 2026-11-22T06:51:11Z |
+| [`185.218.86.13`](185.218.86.13/) | Port scanning (411) | 476 | 2026-11-22T06:48:43Z |
+| [`185.218.86.17`](185.218.86.17/) | Port scanning (412) | 472 | 2026-11-22T07:01:36Z |
+| [`185.218.86.20`](185.218.86.20/) | Port scanning (406) | 474 | 2026-11-22T06:44:01Z |
 | [`185.218.86.23`](185.218.86.23/) | Port scanning (364) | 418 | 2026-11-21T18:38:37Z |
-| [`185.218.86.31`](185.218.86.31/) | Port scanning (416) | 479 | 2026-11-22T03:49:37Z |
+| [`185.218.86.31`](185.218.86.31/) | Port scanning (419) | 483 | 2026-11-22T06:57:26Z |
 | [`185.218.86.33`](185.218.86.33/) | Port scanning (345) | 401 | 2026-11-21T19:33:27Z |
 
 ---

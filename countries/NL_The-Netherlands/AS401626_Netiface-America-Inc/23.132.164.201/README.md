@@ -7,10 +7,10 @@
 | IP | `23.132.164.201` |
 | Country | The Netherlands (NL) |
 | ASN | AS401626 · Netiface America, Inc. |
-| Activity | Port scanning (17), Known botnet / C2 infrastructure (9), Web injection payload blocked by WAF (6), Abusive HTTP requests (4) |
-| Events | 37 |
+| Activity | Port scanning (19), Known botnet / C2 infrastructure (10), Web injection payload blocked by WAF (6), Abusive HTTP requests (4) |
+| Events | 40 |
 | First seen (UTC) | 2026-11-10T22:18:47Z |
-| Last seen (UTC) | 2026-11-22T00:43:52Z |
+| Last seen (UTC) | 2026-11-22T07:09:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

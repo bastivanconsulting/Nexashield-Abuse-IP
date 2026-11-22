@@ -1,0 +1,15 @@
+{
+  "ip": "41.207.248.138",
+  "country_code": "NG",
+  "country": "Nigeria",
+  "asn": 37540,
+  "asn_org": "Winrock Nigeria Limited",
+  "categories": {
+    "ssh": 5,
+    "c2": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-20T19:12:11Z",
+  "last_seen": "2026-11-21T11:44:08Z",
+  "reported": "not reported (permanent ban)"
+}

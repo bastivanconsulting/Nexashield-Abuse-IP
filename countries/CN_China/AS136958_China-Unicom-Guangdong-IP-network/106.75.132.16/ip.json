@@ -1,0 +1,14 @@
+{
+  "ip": "106.75.132.16",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 136958,
+  "asn_org": "China Unicom Guangdong IP network",
+  "categories": {
+    "scan": 22
+  },
+  "events": 34,
+  "first_seen": "2026-11-12T03:16:01Z",
+  "last_seen": "2026-11-22T05:29:06Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -6,11 +6,11 @@
   "asn_org": "Charter Communications Inc",
   "categories": {
     "ssh": 5,
-    "c2": 4,
-    "scan": 1
+    "c2": 5,
+    "scan": 2
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-15T10:36:41Z",
-  "last_seen": "2026-11-20T12:56:27Z",
+  "last_seen": "2026-11-22T06:33:34Z",
   "reported": "not reported (permanent ban)"
 }

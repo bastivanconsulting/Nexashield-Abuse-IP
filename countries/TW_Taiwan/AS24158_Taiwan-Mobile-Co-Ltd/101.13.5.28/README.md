@@ -7,10 +7,10 @@
 | IP | `101.13.5.28` |
 | Country | Taiwan (TW) |
 | ASN | AS24158 · Taiwan Mobile Co., Ltd. |
-| Activity | SSH brute force (2), Known botnet / C2 infrastructure (1) |
-| Events | 3 |
+| Activity | SSH brute force (2), Known botnet / C2 infrastructure (2), Port scanning (1) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-20T05:09:51Z |
-| Last seen (UTC) | 2026-11-20T05:10:15Z |
+| Last seen (UTC) | 2026-11-22T06:32:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

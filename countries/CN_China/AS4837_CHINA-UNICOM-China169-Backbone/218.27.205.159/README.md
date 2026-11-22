@@ -7,10 +7,10 @@
 | IP | `218.27.205.159` |
 | Country | China (CN) |
 | ASN | AS4837 · CHINA UNICOM China169 Backbone |
-| Activity | SSH brute force (4), Port scanning (3), Known botnet / C2 infrastructure (3) |
-| Events | 11 |
+| Activity | Port scanning (6), SSH brute force (4), Known botnet / C2 infrastructure (4) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-20T06:44:26Z |
-| Last seen (UTC) | 2026-11-21T15:18:04Z |
+| Last seen (UTC) | 2026-11-22T06:46:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

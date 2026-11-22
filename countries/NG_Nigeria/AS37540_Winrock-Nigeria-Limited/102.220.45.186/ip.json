@@ -5,12 +5,12 @@
   "asn": 37540,
   "asn_org": "Winrock Nigeria Limited",
   "categories": {
-    "scan": 26,
+    "scan": 27,
     "ssh": 3,
-    "c2": 11
+    "c2": 12
   },
-  "events": 41,
+  "events": 43,
   "first_seen": "2026-11-11T10:07:43Z",
-  "last_seen": "2026-11-21T22:28:06Z",
+  "last_seen": "2026-11-22T07:05:38Z",
   "reported": "not reported (permanent ban)"
 }

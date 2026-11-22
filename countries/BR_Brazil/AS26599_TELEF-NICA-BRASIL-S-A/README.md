@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`177.27.76.210`](177.27.76.210/) | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (3) | 15 | 2026-11-22T00:19:58Z |
 | [`177.112.215.133`](177.112.215.133/) | Port scanning (268) | 298 | 2026-11-18T01:57:49Z |
-| [`177.172.66.244`](177.172.66.244/) | Port scanning (116), Known botnet / C2 infrastructure (2) | 133 | 2026-11-22T06:09:37Z |
+| [`177.172.66.244`](177.172.66.244/) | Port scanning (118), Known botnet / C2 infrastructure (2) | 135 | 2026-11-22T07:16:59Z |
 | [`177.174.0.3`](177.174.0.3/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (1) | 7 | 2026-11-22T05:14:04Z |
 | [`191.210.72.37`](191.210.72.37/) | Port scanning (7), Known botnet / C2 infrastructure (6), SSH brute force (4) | 18 | 2026-11-21T09:33:40Z |
 
