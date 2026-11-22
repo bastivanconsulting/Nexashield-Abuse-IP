@@ -7,10 +7,10 @@
 | IP | `46.77.69.201` |
 | Country | Poland (PL) |
 | ASN | AS8374 · Polkomtel Sp. z o.o. |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (2) |
-| Events | 9 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (3), SSH brute force (2) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-21T14:14:03Z |
-| Last seen (UTC) | 2026-11-22T12:58:05Z |
+| Last seen (UTC) | 2026-11-22T17:16:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

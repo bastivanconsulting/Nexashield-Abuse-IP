@@ -1,0 +1,14 @@
+{
+  "ip": "37.77.150.71",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 198953,
+  "asn_org": "Proton66 OOO",
+  "categories": {
+    "scan": 15
+  },
+  "events": 19,
+  "first_seen": "2026-11-15T10:51:10Z",
+  "last_seen": "2026-11-22T17:01:24Z",
+  "reported": "not reported (permanent ban)"
+}

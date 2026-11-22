@@ -4,8 +4,8 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`185.226.197.7`](185.226.197.7/) | Port scanning (14), Known botnet / C2 infrastructure (11) | 26 | 2026-11-22T01:01:40Z |
-| [`185.226.197.8`](185.226.197.8/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-22T14:33:40Z |
+| [`185.226.197.7`](185.226.197.7/) | Port scanning (15), Known botnet / C2 infrastructure (12) | 28 | 2026-11-22T17:09:24Z |
+| [`185.226.197.8`](185.226.197.8/) | Port scanning (15), Known botnet / C2 infrastructure (10) | 26 | 2026-11-22T16:59:08Z |
 | [`185.226.197.9`](185.226.197.9/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-22T10:26:14Z |
 | [`185.226.197.12`](185.226.197.12/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 26 | 2026-11-22T07:45:51Z |
 | [`185.226.197.14`](185.226.197.14/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-20T00:19:30Z |
@@ -18,7 +18,7 @@
 | [`185.226.197.40`](185.226.197.40/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-22T15:39:11Z |
 | [`185.226.197.42`](185.226.197.42/) | Port scanning (17), Known botnet / C2 infrastructure (13) | 31 | 2026-11-22T10:36:26Z |
 | [`185.226.197.48`](185.226.197.48/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 29 | 2026-11-22T02:46:52Z |
-| [`185.226.197.49`](185.226.197.49/) | Port scanning (22), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (1) | 38 | 2026-11-22T02:44:31Z |
+| [`185.226.197.49`](185.226.197.49/) | Port scanning (23), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (1) | 40 | 2026-11-22T16:56:42Z |
 | [`185.226.197.52`](185.226.197.52/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T17:03:11Z |
 | [`185.226.197.57`](185.226.197.57/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-21T22:29:00Z |
 | [`185.226.197.60`](185.226.197.60/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-22T11:17:10Z |

@@ -5,11 +5,11 @@
   "asn": 60781,
   "asn_org": "LeaseWeb Netherlands B.V.",
   "categories": {
-    "scan": 26,
+    "scan": 30,
     "c2": 7
   },
-  "events": 34,
+  "events": 39,
   "first_seen": "2026-11-11T10:18:04Z",
-  "last_seen": "2026-11-22T14:35:50Z",
+  "last_seen": "2026-11-22T16:32:09Z",
   "reported": "not reported (permanent ban)"
 }

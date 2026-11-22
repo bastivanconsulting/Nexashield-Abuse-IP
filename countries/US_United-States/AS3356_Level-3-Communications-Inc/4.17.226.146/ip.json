@@ -1,0 +1,16 @@
+{
+  "ip": "4.17.226.146",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 3356,
+  "asn_org": "Level 3 Communications, Inc.",
+  "categories": {
+    "ssh": 16,
+    "scan": 1,
+    "c2": 1
+  },
+  "events": 20,
+  "first_seen": "2026-11-22T17:13:58Z",
+  "last_seen": "2026-11-22T17:15:04Z",
+  "reported": "not reported (permanent ban)"
+}
