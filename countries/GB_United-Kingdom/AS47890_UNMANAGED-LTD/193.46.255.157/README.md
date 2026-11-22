@@ -7,10 +7,10 @@
 | IP | `193.46.255.157` |
 | Country | United Kingdom (GB) |
 | ASN | AS47890 · UNMANAGED LTD |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (3) |
-| Events | 27 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (3) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-21T14:38:07Z |
-| Last seen (UTC) | 2026-11-22T04:47:44Z |
+| Last seen (UTC) | 2026-11-22T05:49:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `46.247.61.203` |
 | Country | Hong Kong (HK) |
 | ASN | AS215778 · Alpha Strike Labs GmbH |
-| Activity | Port scanning (2) |
-| Events | 6 |
+| Activity | Port scanning (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-14T12:05:08Z |
-| Last seen (UTC) | 2026-11-21T13:18:29Z |
+| Last seen (UTC) | 2026-11-22T05:34:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

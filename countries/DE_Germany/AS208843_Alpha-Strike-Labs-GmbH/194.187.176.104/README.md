@@ -8,9 +8,9 @@
 | Country | Germany (DE) |
 | ASN | AS208843 · Alpha Strike Labs GmbH |
 | Activity | Port scanning (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Events | 6 |
 | First seen (UTC) | 2026-11-19T13:13:05Z |
-| Last seen (UTC) | 2026-11-22T02:51:04Z |
+| Last seen (UTC) | 2026-11-22T05:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

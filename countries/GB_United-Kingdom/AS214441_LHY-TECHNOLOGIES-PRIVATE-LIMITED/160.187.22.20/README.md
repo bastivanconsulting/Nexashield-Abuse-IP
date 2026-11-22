@@ -7,10 +7,10 @@
 | IP | `160.187.22.20` |
 | Country | United Kingdom (GB) |
 | ASN | AS214441 · LHY TECHNOLOGIES PRIVATE LIMITED |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (1) |
-| Events | 5 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (10), Abusive HTTP requests (3) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-21T13:48:07Z |
-| Last seen (UTC) | 2026-11-21T14:17:43Z |
+| Last seen (UTC) | 2026-11-22T06:16:42Z |
 | Reported to network owner (UTC) | 2026-11-21T14:27:22Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

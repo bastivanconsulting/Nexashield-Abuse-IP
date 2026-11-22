@@ -1,0 +1,14 @@
+{
+  "ip": "104.251.181.194",
+  "country_code": "CH",
+  "country": "Switzerland",
+  "asn": 402253,
+  "asn_org": "SKN Subnet & Telecom Ltd",
+  "categories": {
+    "scan": 33
+  },
+  "events": 33,
+  "first_seen": "2026-11-18T21:02:41Z",
+  "last_seen": "2026-11-22T02:44:51Z",
+  "reported": "not reported (permanent ban)"
+}

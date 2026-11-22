@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 45 | Port scanning (205), Known botnet / C2 infrastructure (175), Abusive HTTP requests (1) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (286), Abusive HTTP requests (270), Known botnet / C2 infrastructure (72), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (342), Known botnet / C2 infrastructure (42) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 45 | Port scanning (207), Known botnet / C2 infrastructure (177), Abusive HTTP requests (1) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (289), Abusive HTTP requests (270), Known botnet / C2 infrastructure (73), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (343), Known botnet / C2 infrastructure (42) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 4 | Port scanning (99) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (198), Web injection payload blocked by WAF (22), SSH brute force (11), Port scanning (2) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (74), Known botnet / C2 infrastructure (24), Exploitation attempt (CVE / RCE / injection) (1) |

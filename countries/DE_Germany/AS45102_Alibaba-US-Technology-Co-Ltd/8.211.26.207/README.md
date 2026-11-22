@@ -7,10 +7,10 @@
 | IP | `8.211.26.207` |
 | Country | Germany (DE) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
-| Events | 11 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (4) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-11T13:30:21Z |
-| Last seen (UTC) | 2026-11-21T03:34:04Z |
+| Last seen (UTC) | 2026-11-22T05:40:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

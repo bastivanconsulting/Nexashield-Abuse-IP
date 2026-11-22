@@ -7,10 +7,10 @@
 | IP | `103.129.127.73` |
 | Country | Vietnam (VN) |
 | ASN | AS135918 · VIET DIGITAL TECHNOLOGY LIABILITY COMPANY |
-| Activity | Port scanning (188) |
-| Events | 190 |
+| Activity | Port scanning (191) |
+| Events | 195 |
 | First seen (UTC) | 2026-11-11T15:52:56Z |
-| Last seen (UTC) | 2026-11-16T23:11:16Z |
+| Last seen (UTC) | 2026-11-22T05:53:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

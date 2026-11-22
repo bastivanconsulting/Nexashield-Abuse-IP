@@ -1,0 +1,16 @@
+{
+  "ip": "121.242.112.205",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 4755,
+  "asn_org": "Tata Communications Limited",
+  "categories": {
+    "scan": 4,
+    "ssh": 2,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-19T11:48:02Z",
+  "last_seen": "2026-11-22T05:37:05Z",
+  "reported": "not reported (permanent ban)"
+}

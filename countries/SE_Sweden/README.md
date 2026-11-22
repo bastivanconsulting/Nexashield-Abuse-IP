@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2431), Known botnet / C2 infrastructure (293), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2441), Known botnet / C2 infrastructure (295), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 6 | SSH brute force (37), Known botnet / C2 infrastructure (21), Port scanning (3) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 6 | SSH brute force (25), Known botnet / C2 infrastructure (7), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 2 | SSH brute force (7), Known botnet / C2 infrastructure (6), Port scanning (3) |
-| [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (1) |
+| [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 2 | SSH brute force (8), Known botnet / C2 infrastructure (7), Port scanning (2) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 2 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26) |
 | [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Abusive HTTP requests (3) |

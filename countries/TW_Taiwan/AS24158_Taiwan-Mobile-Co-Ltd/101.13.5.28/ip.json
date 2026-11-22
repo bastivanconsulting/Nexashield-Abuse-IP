@@ -1,0 +1,15 @@
+{
+  "ip": "101.13.5.28",
+  "country_code": "TW",
+  "country": "Taiwan",
+  "asn": 24158,
+  "asn_org": "Taiwan Mobile Co., Ltd.",
+  "categories": {
+    "ssh": 2,
+    "c2": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-20T05:09:51Z",
+  "last_seen": "2026-11-20T05:10:15Z",
+  "reported": "not reported (permanent ban)"
+}

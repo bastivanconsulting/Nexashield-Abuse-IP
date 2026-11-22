@@ -4,19 +4,19 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 214 | Port scanning (7458), Known botnet / C2 infrastructure (2932) |
-| [AS211680](AS211680_NSEC-Sistemas-Informaticos-S-A/) | NSEC - Sistemas Informaticos, S.A. | 69 | Port scanning (562), Known botnet / C2 infrastructure (436), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 59 | Port scanning (2099), SSH brute force (472), Known botnet / C2 infrastructure (70), Spamhaus DROP-listed network (60) |
-| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 46 | Port scanning (1957), Known botnet / C2 infrastructure (316), Abusive HTTP requests (17), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 214 | Port scanning (7500), Known botnet / C2 infrastructure (2947) |
+| [AS211680](AS211680_NSEC-Sistemas-Informaticos-S-A/) | NSEC - Sistemas Informaticos, S.A. | 69 | Port scanning (566), Known botnet / C2 infrastructure (440), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 59 | Port scanning (2100), SSH brute force (472), Known botnet / C2 infrastructure (71), Spamhaus DROP-listed network (60) |
+| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 46 | Port scanning (1976), Known botnet / C2 infrastructure (318), Abusive HTTP requests (17), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 36 | SSH brute force (3425), Port scanning (1600), Known botnet / C2 infrastructure (367), Web injection payload blocked by WAF (228) |
-| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 30 | Port scanning (1215), Spamhaus DROP-listed network (735), Known botnet / C2 infrastructure (550), SSH brute force (151), Abusive HTTP requests (42), Exploitation attempt (CVE / RCE / injection) (27), Web injection payload blocked by WAF (10) |
+| [AS197170](AS197170_TechTies-Inc/) | TechTies Inc. | 30 | Port scanning (1223), Spamhaus DROP-listed network (741), Known botnet / C2 infrastructure (550), SSH brute force (151), Abusive HTTP requests (42), Exploitation attempt (CVE / RCE / injection) (27), Web injection payload blocked by WAF (10) |
 | [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 28 | Port scanning (273), Known botnet / C2 infrastructure (197), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 19 | Port scanning (961), Known botnet / C2 infrastructure (84), Abusive HTTP requests (28), Web injection payload blocked by WAF (2), Spamhaus DROP-listed network (1) |
-| [AS49870](AS49870_Alsycon-B-V/) | Alsycon B.V. | 15 | Port scanning (828), Known botnet / C2 infrastructure (74), Exploitation attempt (CVE / RCE / injection) (7) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 14 | Port scanning (92), Abusive HTTP requests (54), Known botnet / C2 infrastructure (46), Exploitation attempt (CVE / RCE / injection) (9) |
-| [AS44589](AS44589_DIGITAL-NETWORK-S-R-L/) | DIGITAL NETWORK S.R.L. | 13 | Port scanning (4899), SSH brute force (598), Known botnet / C2 infrastructure (91), Abusive HTTP requests (1) |
+| [AS51396](AS51396_Pfcloud-UG-haftungsbeschrankt/) | Pfcloud UG (haftungsbeschrankt) | 19 | Port scanning (966), Known botnet / C2 infrastructure (84), Abusive HTTP requests (28), Web injection payload blocked by WAF (2), Spamhaus DROP-listed network (1) |
+| [AS49870](AS49870_Alsycon-B-V/) | Alsycon B.V. | 15 | Port scanning (844), Known botnet / C2 infrastructure (75), Exploitation attempt (CVE / RCE / injection) (7) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 14 | Port scanning (93), Abusive HTTP requests (54), Known botnet / C2 infrastructure (47), Exploitation attempt (CVE / RCE / injection) (9) |
+| [AS44589](AS44589_DIGITAL-NETWORK-S-R-L/) | DIGITAL NETWORK S.R.L. | 13 | Port scanning (4901), SSH brute force (598), Known botnet / C2 infrastructure (91), Abusive HTTP requests (1) |
 | [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 10 | Port scanning (88), SSH brute force (17), Known botnet / C2 infrastructure (4), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS12989](AS12989_Black-HOST-Ltd/) | Black HOST Ltd | 5 | Port scanning (1253), Known botnet / C2 infrastructure (126), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS12989](AS12989_Black-HOST-Ltd/) | Black HOST Ltd | 5 | Port scanning (1260), Known botnet / C2 infrastructure (128), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS401626](AS401626_Netiface-America-Inc/) | Netiface America, Inc. | 5 | Port scanning (130), Known botnet / C2 infrastructure (53), Web injection payload blocked by WAF (6), Abusive HTTP requests (4), SSH brute force (2) |
 | [AS210558](AS210558_1337-Services-GmbH/) | 1337 Services GmbH | 4 | Port scanning (17), Abusive HTTP requests (16), Web injection payload blocked by WAF (10), Known botnet / C2 infrastructure (9), Exploitation attempt (CVE / RCE / injection) (2), Spamhaus DROP-listed network (1) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (263), Known botnet / C2 infrastructure (35), Web injection payload blocked by WAF (16), Abusive HTTP requests (6) |
@@ -24,9 +24,9 @@
 | [AS214677](AS214677_Matteo-Martelloni-trading-as-DELUXHOST/) | Matteo Martelloni trading as DELUXHOST | 3 | Port scanning (192) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 3 | Abusive HTTP requests (268) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (583), Web injection payload blocked by WAF (22) |
-| [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 2 | Port scanning (40), Known botnet / C2 infrastructure (4) |
-| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 2 | Port scanning (497), Known botnet / C2 infrastructure (4) |
-| [AS219502](AS219502_Storm-Industries-LLC/) | Storm Industries LLC | 2 | Port scanning (414), Known botnet / C2 infrastructure (26), Abusive HTTP requests (1) |
+| [AS208137](AS208137_Feo-Prest-SRL/) | Feo Prest SRL | 2 | Port scanning (41), Known botnet / C2 infrastructure (4) |
+| [AS213790](AS213790_Limited-Network-LTD/) | Limited Network LTD | 2 | Port scanning (498), Known botnet / C2 infrastructure (4) |
+| [AS219502](AS219502_Storm-Industries-LLC/) | Storm Industries LLC | 2 | Port scanning (416), Known botnet / C2 infrastructure (26), Abusive HTTP requests (1) |
 | [AS32475](AS32475_Internap-Holding-LLC/) | Internap Holding LLC | 2 | Port scanning (129), Known botnet / C2 infrastructure (37) |
 | [AS41887](AS41887_Prolocation-B-V/) | Prolocation B.V. | 2 | Port scanning (2) |
 | [AS52000](AS52000_MIRhosting-B-V/) | MIRhosting B.V. | 2 | Port scanning (241) |
@@ -34,11 +34,11 @@
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 2 | Port scanning (63), Known botnet / C2 infrastructure (7) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 2 | SSH brute force (9), Abusive HTTP requests (8), Port scanning (2) |
 | [AS199058](AS199058_SERVA-ONE-LTD/) | SERVA ONE LTD | 1 | Port scanning (36), Known botnet / C2 infrastructure (4) |
-| [AS199457](AS199457_SolidCore-Hosting-LTD/) | SolidCore Hosting LTD | 1 | Port scanning (103) |
+| [AS199457](AS199457_SolidCore-Hosting-LTD/) | SolidCore Hosting LTD | 1 | Port scanning (104) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 1 | Port scanning (40) |
 | [AS207994](AS207994_Blockchain-Creek-B-V/) | Blockchain Creek B.V. | 1 | Web injection payload blocked by WAF (32), Exploitation attempt (CVE / RCE / injection) (12) |
 | [AS215305](AS215305_Mastersoft-S-R-L/) | Mastersoft S.R.L. | 1 | Port scanning (36), Known botnet / C2 infrastructure (9) |
-| [AS219326](AS219326_SULAVI-LTD/) | SULAVI LTD | 1 | Spamhaus DROP-listed network (445) |
+| [AS219326](AS219326_SULAVI-LTD/) | SULAVI LTD | 1 | Spamhaus DROP-listed network (449) |
 | [AS33915](AS33915_Vodafone-Libertel-B-V/) | Vodafone Libertel B.V. | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS43350](AS43350_NForce-Entertainment-B-V/) | NForce Entertainment B.V. | 1 | Port scanning (45), Known botnet / C2 infrastructure (3) |
 | [AS61254](AS61254_ESTOXY-OU/) | ESTOXY OU | 1 | Port scanning (3) |

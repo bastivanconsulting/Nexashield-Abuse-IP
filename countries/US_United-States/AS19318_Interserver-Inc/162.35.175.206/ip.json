@@ -5,11 +5,11 @@
   "asn": 19318,
   "asn_org": "Interserver, Inc",
   "categories": {
-    "scan": 20,
-    "c2": 5
+    "scan": 21,
+    "c2": 6
   },
-  "events": 34,
+  "events": 36,
   "first_seen": "2026-11-12T05:04:07Z",
-  "last_seen": "2026-11-21T20:32:25Z",
+  "last_seen": "2026-11-22T06:06:05Z",
   "reported": "not reported (permanent ban)"
 }

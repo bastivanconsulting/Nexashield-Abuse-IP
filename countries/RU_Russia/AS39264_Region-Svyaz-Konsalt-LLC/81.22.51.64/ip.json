@@ -1,0 +1,15 @@
+{
+  "ip": "81.22.51.64",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 39264,
+  "asn_org": "\"Region Svyaz Konsalt\" LLC",
+  "categories": {
+    "ssh": 5,
+    "c2": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-20T12:20:16Z",
+  "last_seen": "2026-11-21T07:24:08Z",
+  "reported": "not reported (permanent ban)"
+}

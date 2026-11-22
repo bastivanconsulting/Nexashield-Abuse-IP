@@ -5,10 +5,10 @@
   "asn": 30844,
   "asn_org": "Liquid Telecommunications Ltd",
   "categories": {
-    "scan": 24
+    "scan": 25
   },
-  "events": 32,
+  "events": 34,
   "first_seen": "2026-11-20T02:11:00Z",
-  "last_seen": "2026-11-22T01:22:03Z",
+  "last_seen": "2026-11-22T05:42:38Z",
   "reported": "not reported (permanent ban)"
 }
