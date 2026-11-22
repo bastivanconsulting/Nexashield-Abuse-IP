@@ -7,11 +7,11 @@
 | IP | `4.17.226.146` |
 | Country | United States (US) |
 | ASN | AS3356 · Level 3 Communications, Inc. |
-| Activity | SSH brute force (16), Port scanning (1), Known botnet / C2 infrastructure (1) |
+| Activity | SSH brute force (18), Port scanning (2) |
 | Events | 20 |
-| First seen (UTC) | 2026-11-22T17:13:58Z |
-| Last seen (UTC) | 2026-11-22T17:15:04Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| First seen (UTC) | 2026-11-22T17:14:00Z |
+| Last seen (UTC) | 2026-11-22T17:14:30Z |
+| Reported to network owner (UTC) | 2026-11-22T18:27:10Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

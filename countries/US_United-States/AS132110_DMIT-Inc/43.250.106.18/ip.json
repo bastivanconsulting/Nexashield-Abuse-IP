@@ -1,0 +1,16 @@
+{
+  "ip": "43.250.106.18",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 132110,
+  "asn_org": "DMIT Inc.",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-18T15:43:47Z",
+  "last_seen": "2026-11-21T18:58:28Z",
+  "reported": "not reported (permanent ban)"
+}

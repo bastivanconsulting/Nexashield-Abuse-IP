@@ -1,0 +1,16 @@
+{
+  "ip": "69.126.144.30",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 6128,
+  "asn_org": "Cablevision Systems Corp.",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 5,
+  "first_seen": "2026-11-19T13:59:30Z",
+  "last_seen": "2026-11-22T07:38:12Z",
+  "reported": "not reported (permanent ban)"
+}

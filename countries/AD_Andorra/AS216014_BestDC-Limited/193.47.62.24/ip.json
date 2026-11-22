@@ -1,0 +1,14 @@
+{
+  "ip": "193.47.62.24",
+  "country_code": "AD",
+  "country": "Andorra",
+  "asn": 216014,
+  "asn_org": "BestDC Limited",
+  "categories": {
+    "scan": 15
+  },
+  "events": 19,
+  "first_seen": "2026-11-21T12:40:15Z",
+  "last_seen": "2026-11-22T18:05:52Z",
+  "reported": "not reported (permanent ban)"
+}

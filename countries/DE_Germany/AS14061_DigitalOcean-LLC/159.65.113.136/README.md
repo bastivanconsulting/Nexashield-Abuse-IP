@@ -7,10 +7,10 @@
 | IP | `159.65.113.136` |
 | Country | Germany (DE) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (5) |
-| Events | 11 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (6) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-14T18:49:39Z |
-| Last seen (UTC) | 2026-11-21T20:07:05Z |
+| Last seen (UTC) | 2026-11-22T17:49:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
