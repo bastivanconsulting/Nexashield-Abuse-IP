@@ -7,10 +7,10 @@
 | IP | `103.174.80.40` |
 | Country | India (IN) |
 | ASN | AS150008 · Pioneer Elabs Ltd. |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
-| Events | 11 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-17T04:56:35Z |
-| Last seen (UTC) | 2026-11-22T05:49:16Z |
+| Last seen (UTC) | 2026-11-22T09:00:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

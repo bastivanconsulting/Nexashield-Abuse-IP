@@ -5,11 +5,11 @@
   "asn": 23969,
   "asn_org": "TOT Public Company Limited",
   "categories": {
-    "scan": 6,
-    "c2": 5
+    "scan": 7,
+    "c2": 6
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-14T04:26:35Z",
-  "last_seen": "2026-11-20T01:26:37Z",
+  "last_seen": "2026-11-22T08:54:05Z",
   "reported": "not reported (permanent ban)"
 }

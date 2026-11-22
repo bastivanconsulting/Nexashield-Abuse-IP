@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS20052 · Arbor Networks, Inc. |
 | Activity | Port scanning (40), Known botnet / C2 infrastructure (12) |
-| Events | 56 |
+| Events | 57 |
 | First seen (UTC) | 2026-11-12T12:32:03Z |
-| Last seen (UTC) | 2026-11-21T09:50:30Z |
+| Last seen (UTC) | 2026-11-22T08:25:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

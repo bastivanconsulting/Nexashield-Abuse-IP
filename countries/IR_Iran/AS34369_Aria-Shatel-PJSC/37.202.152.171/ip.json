@@ -5,11 +5,11 @@
   "asn": 34369,
   "asn_org": "Aria Shatel PJSC",
   "categories": {
-    "exploit": 3,
-    "scan": 3
+    "exploit": 4,
+    "scan": 4
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-19T08:50:28Z",
-  "last_seen": "2026-11-20T20:21:03Z",
+  "last_seen": "2026-11-22T09:16:44Z",
   "reported": "not reported (permanent ban)"
 }

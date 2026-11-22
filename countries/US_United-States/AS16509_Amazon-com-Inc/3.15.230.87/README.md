@@ -7,10 +7,10 @@
 | IP | `3.15.230.87` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Port scanning (263) |
-| Events | 324 |
+| Activity | Port scanning (269) |
+| Events | 332 |
 | First seen (UTC) | 2026-11-19T04:15:58Z |
-| Last seen (UTC) | 2026-11-22T07:53:09Z |
+| Last seen (UTC) | 2026-11-22T09:02:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,14 @@
+{
+  "ip": "94.228.129.141",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 41887,
+  "asn_org": "Prolocation B.V.",
+  "categories": {
+    "scan": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-22T09:02:46Z",
+  "last_seen": "2026-11-22T09:03:05Z",
+  "reported": "not reported (permanent ban)"
+}

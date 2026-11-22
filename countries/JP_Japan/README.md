@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 38 | Port scanning (168), Known botnet / C2 infrastructure (139) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (458), Known botnet / C2 infrastructure (63) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 38 | Port scanning (170), Known botnet / C2 infrastructure (141) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (460), Known botnet / C2 infrastructure (63) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (144), Known botnet / C2 infrastructure (25) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1035), Web injection payload blocked by WAF (59), Port scanning (47), Known botnet / C2 infrastructure (6) |
 | [AS149440](AS149440_Evoxt-Sdn-Bhd/) | Evoxt Sdn. Bhd. | 2 | Abusive HTTP requests (12) |

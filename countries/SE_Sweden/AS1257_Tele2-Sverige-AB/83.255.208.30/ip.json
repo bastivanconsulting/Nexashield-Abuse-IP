@@ -6,11 +6,11 @@
   "asn_org": "Tele2 Sverige AB",
   "categories": {
     "ssh": 4,
-    "c2": 4,
-    "scan": 1
+    "c2": 5,
+    "scan": 2
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-12T21:01:21Z",
-  "last_seen": "2026-11-21T13:40:25Z",
+  "last_seen": "2026-11-22T08:32:11Z",
   "reported": "not reported (permanent ban)"
 }

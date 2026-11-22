@@ -4,12 +4,12 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 177 | Port scanning (9043), Known botnet / C2 infrastructure (1963), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 63 | Port scanning (2975), SSH brute force (491), Known botnet / C2 infrastructure (238), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 44 | Port scanning (4407), Known botnet / C2 infrastructure (271), Exploitation attempt (CVE / RCE / injection) (17), Abusive HTTP requests (4), SSH brute force (2) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 14 | Port scanning (518), Known botnet / C2 infrastructure (52), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 177 | Port scanning (9043), Known botnet / C2 infrastructure (1964), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 63 | Port scanning (3011), SSH brute force (501), Known botnet / C2 infrastructure (238), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 44 | Port scanning (4463), Known botnet / C2 infrastructure (273), Exploitation attempt (CVE / RCE / injection) (17), Abusive HTTP requests (4), SSH brute force (2) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 14 | Port scanning (522), Known botnet / C2 infrastructure (55), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 12 | Abusive HTTP requests (1172), Port scanning (195), Web injection payload blocked by WAF (60), Known botnet / C2 infrastructure (29) |
-| [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 8 | Port scanning (341), Known botnet / C2 infrastructure (15), Web injection payload blocked by WAF (10), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (4) |
+| [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 8 | Port scanning (344), Known botnet / C2 infrastructure (16), Web injection payload blocked by WAF (10), Exploitation attempt (CVE / RCE / injection) (8), Abusive HTTP requests (4) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (58), Abusive HTTP requests (19), Known botnet / C2 infrastructure (10) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 3 | Abusive HTTP requests (243), Port scanning (83), Known botnet / C2 infrastructure (7) |

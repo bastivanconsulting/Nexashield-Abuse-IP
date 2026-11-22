@@ -5,11 +5,11 @@
   "asn": 38365,
   "asn_org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
   "categories": {
-    "scan": 4,
+    "scan": 5,
     "c2": 4
   },
-  "events": 9,
+  "events": 10,
   "first_seen": "2026-11-13T23:05:35Z",
-  "last_seen": "2026-11-22T07:48:55Z",
+  "last_seen": "2026-11-22T08:58:41Z",
   "reported": "not reported (permanent ban)"
 }

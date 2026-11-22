@@ -12,10 +12,10 @@
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇦 Bosnia and Herzegovina](BA_Bosnia-and-Herzegovina/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 7 |
-| [🇧🇪 Belgium](BE_Belgium/) | 409 |
+| [🇧🇪 Belgium](BE_Belgium/) | 412 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 49 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
-| [🇧🇷 Brazil](BR_Brazil/) | 56 |
+| [🇧🇷 Brazil](BR_Brazil/) | 57 |
 | [🇨🇦 Canada](CA_Canada/) | 62 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 11 |
 | [🇨🇱 Chile](CL_Chile/) | 1 |
@@ -44,19 +44,21 @@
 | [🇮🇹 Italy](IT_Italy/) | 26 |
 | [🇯🇵 Japan](JP_Japan/) | 67 |
 | [🇰🇪 Kenya](KE_Kenya/) | 1 |
-| [🇰🇷 South Korea](KR_South-Korea/) | 38 |
+| [🇰🇷 South Korea](KR_South-Korea/) | 40 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 11 |
 | [🇱🇰 Sri Lanka](LK_Sri-Lanka/) | 1 |
 | [🇱🇹 Lithuania](LT_Lithuania/) | 16 |
 | [🇱🇺 Luxembourg](LU_Luxembourg/) | 3 |
+| [🇱🇾 Libya](LY_Libya/) | 1 |
 | [🇲🇩 Moldova](MD_Moldova/) | 2 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 1 |
-| [🇲🇽 Mexico](MX_Mexico/) | 3 |
+| [🇲🇽 Mexico](MX_Mexico/) | 4 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 47 |
-| [🇳🇬 Nigeria](NG_Nigeria/) | 14 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 612 |
+| [🇳🇬 Nigeria](NG_Nigeria/) | 15 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 613 |
 | [🇳🇴 Norway](NO_Norway/) | 3 |
 | [🇳🇵 Nepal](NP_Nepal/) | 1 |
+| [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 11 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 13 |
 | [🇵🇱 Poland](PL_Poland/) | 17 |
@@ -64,7 +66,7 @@
 | [🇵🇹 Portugal](PT_Portugal/) | 2 |
 | [🇷🇴 Romania](RO_Romania/) | 6 |
 | [🇷🇸 Serbia](RS_Serbia/) | 1 |
-| [🇷🇺 Russia](RU_Russia/) | 34 |
+| [🇷🇺 Russia](RU_Russia/) | 35 |
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 12 |
 | [🇸🇪 Sweden](SE_Sweden/) | 56 |
@@ -75,6 +77,6 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 5 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 17 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 2 |
-| [🇺🇸 United States](US_United-States/) | 2857 |
+| [🇺🇸 United States](US_United-States/) | 2863 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 13 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |

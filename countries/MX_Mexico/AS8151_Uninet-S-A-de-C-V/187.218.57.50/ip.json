@@ -1,0 +1,16 @@
+{
+  "ip": "187.218.57.50",
+  "country_code": "MX",
+  "country": "Mexico",
+  "asn": 8151,
+  "asn_org": "Uninet S.A. de C.V.",
+  "categories": {
+    "ssh": 2,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-20T20:40:12Z",
+  "last_seen": "2026-11-22T09:11:05Z",
+  "reported": "not reported (permanent ban)"
+}

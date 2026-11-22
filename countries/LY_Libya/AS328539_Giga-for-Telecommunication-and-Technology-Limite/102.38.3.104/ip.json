@@ -1,0 +1,15 @@
+{
+  "ip": "102.38.3.104",
+  "country_code": "LY",
+  "country": "Libya",
+  "asn": 328539,
+  "asn_org": "Giga for Telecommunication and Technology Limited",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-13T12:53:40Z",
+  "last_seen": "2026-11-22T08:56:05Z",
+  "reported": "not reported (permanent ban)"
+}
