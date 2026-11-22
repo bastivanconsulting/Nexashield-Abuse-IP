@@ -1,0 +1,15 @@
+{
+  "ip": "60.204.241.23",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 55990,
+  "asn_org": "Huawei Cloud Service data center",
+  "categories": {
+    "scan": 1,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-19T14:58:37Z",
+  "last_seen": "2026-11-22T11:02:05Z",
+  "reported": "not reported (permanent ban)"
+}

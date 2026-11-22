@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS1759](AS1759_Telia-Finland-Oyj/) | Telia Finland Oyj | 2 | SSH brute force (12), Known botnet / C2 infrastructure (7), Port scanning (1) |
+| [AS1759](AS1759_Telia-Finland-Oyj/) | Telia Finland Oyj | 2 | SSH brute force (12), Known botnet / C2 infrastructure (8), Port scanning (2) |
 | [AS24940](AS24940_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 2 | Abusive HTTP requests (30), Web injection payload blocked by WAF (16) |
 | [AS215590](AS215590_DpkgSoft-International-Limited/) | DpkgSoft International Limited | 1 | SSH brute force (9), Port scanning (1) |
 | [AS215730](AS215730_H2NEXUS-CLOUD-SERVICES-FZCO/) | H2NEXUS CLOUD SERVICES - FZCO | 1 | Port scanning (13), Known botnet / C2 infrastructure (4) |

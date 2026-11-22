@@ -7,10 +7,10 @@
 | IP | `87.120.104.79` |
 | Country | Norway (NO) |
 | ASN | AS211443 · SINO WORLDWIDE TRADING LIMITED |
-| Activity | Port scanning (82) |
-| Events | 91 |
+| Activity | Port scanning (88) |
+| Events | 98 |
 | First seen (UTC) | 2026-11-14T17:22:08Z |
-| Last seen (UTC) | 2026-11-22T09:42:10Z |
+| Last seen (UTC) | 2026-11-22T10:47:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

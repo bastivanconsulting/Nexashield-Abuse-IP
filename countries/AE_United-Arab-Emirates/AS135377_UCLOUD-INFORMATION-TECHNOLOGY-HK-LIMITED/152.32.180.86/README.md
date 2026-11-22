@@ -7,10 +7,10 @@
 | IP | `152.32.180.86` |
 | Country | United Arab Emirates (AE) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (6) |
-| Events | 14 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (6) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-13T00:50:11Z |
-| Last seen (UTC) | 2026-11-22T08:00:07Z |
+| Last seen (UTC) | 2026-11-22T11:10:01Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

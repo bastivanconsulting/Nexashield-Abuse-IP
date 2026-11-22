@@ -1,9 +1,10 @@
 # AS55990 · Huawei Cloud Service data center
 
-🇨🇳 China · **1** malicious IP(s)
+🇨🇳 China · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`60.204.241.23`](60.204.241.23/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 6 | 2026-11-22T11:02:05Z |
 | [`101.245.71.219`](101.245.71.219/) | Port scanning (7), Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) | 10 | 2026-11-12T14:49:59Z |
 
 ---
