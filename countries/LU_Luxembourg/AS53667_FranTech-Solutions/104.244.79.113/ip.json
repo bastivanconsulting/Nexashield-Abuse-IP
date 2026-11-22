@@ -5,11 +5,11 @@
   "asn": 53667,
   "asn_org": "FranTech Solutions",
   "categories": {
-    "scan": 23,
-    "c2": 13
+    "scan": 24,
+    "c2": 14
   },
-  "events": 37,
+  "events": 39,
   "first_seen": "2026-11-11T21:08:57Z",
-  "last_seen": "2026-11-22T11:48:15Z",
+  "last_seen": "2026-11-22T15:32:43Z",
   "reported": "not reported (permanent ban)"
 }

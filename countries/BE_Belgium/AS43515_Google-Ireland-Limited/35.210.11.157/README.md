@@ -7,10 +7,10 @@
 | IP | `35.210.11.157` |
 | Country | Belgium (BE) |
 | ASN | AS43515 · Google Ireland Limited |
-| Activity | Port scanning (28), Known botnet / C2 infrastructure (5) |
-| Events | 34 |
+| Activity | Port scanning (30), Known botnet / C2 infrastructure (5) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-11T09:56:50Z |
-| Last seen (UTC) | 2026-11-22T14:10:57Z |
+| Last seen (UTC) | 2026-11-22T15:29:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

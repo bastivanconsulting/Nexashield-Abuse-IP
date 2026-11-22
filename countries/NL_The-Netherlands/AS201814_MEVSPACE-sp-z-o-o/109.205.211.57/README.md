@@ -7,10 +7,10 @@
 | IP | `109.205.211.57` |
 | Country | The Netherlands (NL) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | Port scanning (38) |
-| Events | 42 |
+| Activity | Port scanning (42) |
+| Events | 46 |
 | First seen (UTC) | 2026-11-20T20:31:33Z |
-| Last seen (UTC) | 2026-11-22T14:48:04Z |
+| Last seen (UTC) | 2026-11-22T16:07:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`176.120.22.147`](176.120.22.147/) | Port scanning (16), Abusive HTTP requests (4) | 23 | 2026-11-21T15:18:04Z |
+| [`176.120.22.147`](176.120.22.147/) | Port scanning (21), Abusive HTTP requests (4) | 29 | 2026-11-22T15:49:31Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

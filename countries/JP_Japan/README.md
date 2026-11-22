@@ -1,13 +1,13 @@
 # 🇯🇵 Japan
 
-**75** malicious IP(s) across **10** network(s).
+**77** malicious IP(s) across **10** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 46 | Port scanning (219), Known botnet / C2 infrastructure (172) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (469), Known botnet / C2 infrastructure (66) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (149), Known botnet / C2 infrastructure (26) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1035), Web injection payload blocked by WAF (59), Port scanning (48), Known botnet / C2 infrastructure (7) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 48 | Port scanning (230), Known botnet / C2 infrastructure (179) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 9 | Port scanning (475), Known botnet / C2 infrastructure (68) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (150), Known botnet / C2 infrastructure (26) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1035), Web injection payload blocked by WAF (59), Port scanning (51), Known botnet / C2 infrastructure (7) |
 | [AS149440](AS149440_Evoxt-Sdn-Bhd/) | Evoxt Sdn. Bhd. | 2 | Abusive HTTP requests (28) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (165), Known botnet / C2 infrastructure (42) |
 | [AS10010](AS10010_TOKAI-Communications-Corporation/) | TOKAI Communications Corporation | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |

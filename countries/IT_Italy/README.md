@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS3269](AS3269_Telecom-Italia-S-p-A/) | Telecom Italia S.p.A. | 6 | Exploitation attempt (CVE / RCE / injection) (14), Port scanning (7), SSH brute force (5) |
+| [AS3269](AS3269_Telecom-Italia-S-p-A/) | Telecom Italia S.p.A. | 6 | Exploitation attempt (CVE / RCE / injection) (16), Port scanning (8), SSH brute force (5) |
 | [AS30722](AS30722_Fastweb-SpA/) | Fastweb SpA | 5 | Port scanning (24), Exploitation attempt (CVE / RCE / injection) (22), SSH brute force (7), Known botnet / C2 infrastructure (4) |
 | [AS1267](AS1267_WIND-TRE-S-P-A/) | WIND TRE S.P.A. | 4 | Exploitation attempt (CVE / RCE / injection) (10), Port scanning (8) |
 | [AS12874](AS12874_Fastweb-SpA/) | Fastweb SpA | 4 | SSH brute force (7), Exploitation attempt (CVE / RCE / injection) (6), Port scanning (4), Known botnet / C2 infrastructure (3) |

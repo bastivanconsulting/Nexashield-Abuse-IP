@@ -1,10 +1,11 @@
 # 🇹🇷 Turkey
 
-**6** malicious IP(s) across **5** network(s).
+**8** malicious IP(s) across **6** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 2 | SSH brute force (123), Port scanning (1) |
+| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 3 | SSH brute force (123), Port scanning (7), Abusive HTTP requests (4), Known botnet / C2 infrastructure (2) |
+| [AS153622](AS153622_Madina-IT/) | Madina IT | 1 | Port scanning (8) |
 | [AS204457](AS204457_Atlantis-Telekomunikasyon-Bilisim-Hizmetleri-San/) | Atlantis Telekomunikasyon Bilisim Hizmetleri San. ve Tic. Ltd. Sti. | 1 | Web injection payload blocked by WAF (4) |
 | [AS204876](AS204876_BGZ-BILISIM-TEKNOLOJILERI-LIMITED-SIRKETI/) | BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI | 1 | Port scanning (30) |
 | [AS205196](AS205196_BIG-CORE-LLC/) | BIG CORE LLC | 1 | Port scanning (81), Known botnet / C2 infrastructure (20), Abusive HTTP requests (1) |

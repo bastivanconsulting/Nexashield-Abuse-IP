@@ -5,11 +5,11 @@
   "asn": 198953,
   "asn_org": "Proton66 OOO",
   "categories": {
-    "scan": 16,
+    "scan": 21,
     "web": 4
   },
-  "events": 23,
+  "events": 29,
   "first_seen": "2026-11-15T10:19:23Z",
-  "last_seen": "2026-11-21T15:18:04Z",
+  "last_seen": "2026-11-22T15:49:31Z",
   "reported": "not reported (permanent ban)"
 }

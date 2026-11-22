@@ -5,11 +5,11 @@
   "asn": 8075,
   "asn_org": "Microsoft Corporation",
   "categories": {
-    "scan": 21,
-    "c2": 11
+    "scan": 22,
+    "c2": 12
   },
-  "events": 33,
+  "events": 35,
   "first_seen": "2026-11-12T13:14:48Z",
-  "last_seen": "2026-11-21T09:19:46Z",
+  "last_seen": "2026-11-22T16:09:51Z",
   "reported": "not reported (permanent ban)"
 }
