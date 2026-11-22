@@ -1,10 +1,10 @@
 # 🇸🇪 Sweden
 
-**54** malicious IP(s) across **13** network(s).
+**56** malicious IP(s) across **13** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 29 | Port scanning (2450), Known botnet / C2 infrastructure (296), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 31 | Port scanning (2479), Known botnet / C2 infrastructure (305), Exploitation attempt (CVE / RCE / injection) (42), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 6 | SSH brute force (37), Known botnet / C2 infrastructure (21), Port scanning (3) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 6 | SSH brute force (25), Known botnet / C2 infrastructure (7), Port scanning (6), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 2 | SSH brute force (7), Known botnet / C2 infrastructure (6), Port scanning (3) |

@@ -6,11 +6,11 @@
   "asn_org": "Forskningsnettet - Danish network for Research and Education",
   "categories": {
     "web": 1,
-    "c2": 5,
-    "scan": 7
+    "c2": 6,
+    "scan": 8
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-15T23:00:01Z",
-  "last_seen": "2026-11-21T08:13:48Z",
+  "last_seen": "2026-11-22T08:04:11Z",
   "reported": "not reported (permanent ban)"
 }

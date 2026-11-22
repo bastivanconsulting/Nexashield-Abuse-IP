@@ -1,0 +1,15 @@
+{
+  "ip": "85.217.140.40",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 209334,
+  "asn_org": "Modat B.V.",
+  "categories": {
+    "scan": 5,
+    "c2": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-14T01:02:05Z",
+  "last_seen": "2026-11-21T20:39:26Z",
+  "reported": "not reported (permanent ban)"
+}

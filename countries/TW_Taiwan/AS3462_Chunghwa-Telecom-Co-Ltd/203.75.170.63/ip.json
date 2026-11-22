@@ -6,11 +6,11 @@
   "asn_org": "Chunghwa Telecom Co., Ltd.",
   "categories": {
     "ssh": 8,
-    "c2": 3,
-    "scan": 1
+    "c2": 4,
+    "scan": 2
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-19T12:49:49Z",
-  "last_seen": "2026-11-22T00:06:04Z",
+  "last_seen": "2026-11-22T07:26:30Z",
   "reported": "not reported (permanent ban)"
 }

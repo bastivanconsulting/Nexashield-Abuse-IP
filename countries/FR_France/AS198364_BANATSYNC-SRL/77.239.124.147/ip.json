@@ -1,0 +1,16 @@
+{
+  "ip": "77.239.124.147",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 198364,
+  "asn_org": "BANATSYNC SRL",
+  "categories": {
+    "scan": 27,
+    "c2": 2,
+    "ssh": 11
+  },
+  "events": 43,
+  "first_seen": "2026-11-20T14:24:48Z",
+  "last_seen": "2026-11-22T08:16:45Z",
+  "reported": "not reported (permanent ban)"
+}

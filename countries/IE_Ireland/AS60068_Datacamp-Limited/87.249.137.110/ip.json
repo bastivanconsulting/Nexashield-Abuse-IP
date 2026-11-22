@@ -1,0 +1,14 @@
+{
+  "ip": "87.249.137.110",
+  "country_code": "IE",
+  "country": "Ireland",
+  "asn": 60068,
+  "asn_org": "Datacamp Limited",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-22T08:24:54Z",
+  "last_seen": "2026-11-22T08:24:54Z",
+  "reported": "not reported (permanent ban)"
+}

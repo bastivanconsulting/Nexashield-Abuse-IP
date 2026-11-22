@@ -1,6 +1,6 @@
 # AS396982 · Google LLC
 
-🇧🇪 Belgium · **57** malicious IP(s)
+🇧🇪 Belgium · **58** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -16,6 +16,7 @@
 | [`34.52.188.32`](34.52.188.32/) | Abusive HTTP requests (153) | 153 | 2026-11-19T00:08:09Z |
 | [`34.53.147.106`](34.53.147.106/) | Abusive HTTP requests (142) | 142 | 2026-11-16T02:32:06Z |
 | [`34.53.170.250`](34.53.170.250/) | Abusive HTTP requests (159) | 159 | 2026-11-19T12:09:53Z |
+| [`34.53.208.88`](34.53.208.88/) | Abusive HTTP requests (372), Web injection payload blocked by WAF (8) | 380 | 2026-11-22T06:06:07Z |
 | [`34.62.25.39`](34.62.25.39/) | Abusive HTTP requests (95) | 95 | 2026-11-14T11:37:08Z |
 | [`34.62.28.78`](34.62.28.78/) | Abusive HTTP requests (143) | 143 | 2026-11-19T06:05:40Z |
 | [`34.62.39.143`](34.62.39.143/) | Abusive HTTP requests (198), Web injection payload blocked by WAF (34) | 232 | 2026-11-15T17:14:59Z |
@@ -49,7 +50,7 @@
 | [`35.205.11.131`](35.205.11.131/) | Abusive HTTP requests (143), Web injection payload blocked by WAF (22) | 165 | 2026-11-18T12:44:28Z |
 | [`35.233.37.230`](35.233.37.230/) | Abusive HTTP requests (134) | 134 | 2026-11-20T00:14:51Z |
 | [`35.233.44.84`](35.233.44.84/) | Abusive HTTP requests (162) | 162 | 2026-11-19T06:07:25Z |
-| [`104.155.66.115`](104.155.66.115/) | Port scanning (35), Abusive HTTP requests (7), Known botnet / C2 infrastructure (7) | 55 | 2026-11-22T04:25:10Z |
+| [`104.155.66.115`](104.155.66.115/) | Port scanning (37), Known botnet / C2 infrastructure (8), Abusive HTTP requests (7) | 58 | 2026-11-22T07:38:07Z |
 | [`104.199.26.126`](104.199.26.126/) | Port scanning (6), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 14 | 2026-11-22T04:46:08Z |
 | [`130.211.87.56`](130.211.87.56/) | Abusive HTTP requests (133) | 133 | 2026-11-18T01:38:52Z |
 | [`207.175.61.160`](207.175.61.160/) | Abusive HTTP requests (175) | 175 | 2026-11-20T07:02:22Z |

@@ -1,0 +1,14 @@
+{
+  "ip": "154.47.26.225",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 212238,
+  "asn_org": "Datacamp Limited",
+  "categories": {
+    "scan": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-22T02:12:56Z",
+  "last_seen": "2026-11-22T07:49:05Z",
+  "reported": "not reported (permanent ban)"
+}
