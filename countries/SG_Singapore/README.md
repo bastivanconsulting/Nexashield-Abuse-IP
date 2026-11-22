@@ -1,15 +1,15 @@
 # 🇸🇬 Singapore
 
-**95** malicious IP(s) across **11** network(s).
+**96** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 58 | Port scanning (278), Known botnet / C2 infrastructure (231), Abusive HTTP requests (1) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 59 | Port scanning (283), Known botnet / C2 infrastructure (236), Abusive HTTP requests (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (296), Abusive HTTP requests (270), Known botnet / C2 infrastructure (76), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (362), Known botnet / C2 infrastructure (44) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (363), Known botnet / C2 infrastructure (44) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 4 | Port scanning (99) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (198), Web injection payload blocked by WAF (22), SSH brute force (11), Port scanning (2) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (80), Known botnet / C2 infrastructure (26), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (81), Known botnet / C2 infrastructure (26), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Port scanning (15), Known botnet / C2 infrastructure (11) |
 | [AS154402](AS154402_Shenzhen-FredCloud-Computing-Technology-Co-Ltd/) | Shenzhen FredCloud Computing Technology Co., Ltd. | 1 | Port scanning (47) |
 | [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (195) |

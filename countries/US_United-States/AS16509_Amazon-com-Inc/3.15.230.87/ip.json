@@ -5,10 +5,10 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-    "scan": 316
+    "scan": 322
   },
-  "events": 388,
+  "events": 395,
   "first_seen": "2026-11-19T04:15:58Z",
-  "last_seen": "2026-11-22T18:08:11Z",
+  "last_seen": "2026-11-22T19:16:38Z",
   "reported": "not reported (permanent ban)"
 }

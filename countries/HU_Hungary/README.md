@@ -1,10 +1,10 @@
 # 🇭🇺 Hungary
 
-**5** malicious IP(s) across **2** network(s).
+**6** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS204428](AS204428_SS-Net/) | SS-Net | 4 | Port scanning (1490), SSH brute force (572), Spamhaus DROP-listed network (155), Abusive HTTP requests (10) |
+| [AS204428](AS204428_SS-Net/) | SS-Net | 5 | Port scanning (1557), SSH brute force (572), Spamhaus DROP-listed network (155), Abusive HTTP requests (10) |
 | [AS211619](AS211619_MAXKO-d-o-o/) | MAXKO d.o.o. | 1 | Port scanning (74), Known botnet / C2 infrastructure (8) |
 
 ---

@@ -17,7 +17,7 @@
 | [`109.160.32.104`](109.160.32.104/) | Port scanning (56), SSH brute force (12), Spamhaus DROP-listed network (5) | 73 | 2026-11-20T07:46:19Z |
 | [`109.160.32.105`](109.160.32.105/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-20T06:09:04Z |
 | [`109.160.32.106`](109.160.32.106/) | Port scanning (54), SSH brute force (7), Spamhaus DROP-listed network (1) | 62 | 2026-11-18T13:53:20Z |
-| [`109.160.32.107`](109.160.32.107/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-22T13:18:21Z |
+| [`109.160.32.107`](109.160.32.107/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T18:28:36Z |
 | [`109.160.32.108`](109.160.32.108/) | Port scanning (54), SSH brute force (20), Spamhaus DROP-listed network (2) | 76 | 2026-11-22T09:56:02Z |
 | [`109.160.32.109`](109.160.32.109/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-20T07:18:21Z |
 | [`109.160.32.110`](109.160.32.110/) | SSH brute force (7), Spamhaus DROP-listed network (5), Port scanning (5) | 17 | 2026-11-22T04:31:53Z |
@@ -59,7 +59,7 @@
 | [`109.160.32.165`](109.160.32.165/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-21T06:53:02Z |
 | [`109.160.32.166`](109.160.32.166/) | Port scanning (53), Known botnet / C2 infrastructure (2) | 56 | 2026-11-16T05:18:05Z |
 | [`109.160.32.167`](109.160.32.167/) | Port scanning (54), SSH brute force (24), Spamhaus DROP-listed network (2) | 80 | 2026-11-22T03:49:04Z |
-| [`109.160.32.168`](109.160.32.168/) | Port scanning (101), Known botnet / C2 infrastructure (2) | 104 | 2026-11-15T13:19:25Z |
+| [`109.160.32.168`](109.160.32.168/) | Port scanning (102), Known botnet / C2 infrastructure (3) | 106 | 2026-11-22T19:16:04Z |
 | [`109.160.32.170`](109.160.32.170/) | Port scanning (70), SSH brute force (14), Spamhaus DROP-listed network (1) | 85 | 2026-11-15T04:07:00Z |
 | [`109.160.32.171`](109.160.32.171/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-19T11:18:09Z |
 | [`109.160.32.172`](109.160.32.172/) | Port scanning (102), SSH brute force (23), Spamhaus DROP-listed network (4) | 129 | 2026-11-19T17:30:11Z |

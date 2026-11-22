@@ -5,12 +5,12 @@
   "asn": 132110,
   "asn_org": "DMIT Inc.",
   "categories": {
-    "ssh": 2,
-    "c2": 2,
+    "ssh": 3,
+    "c2": 3,
     "scan": 2
   },
-  "events": 6,
+  "events": 10,
   "first_seen": "2026-11-18T15:43:47Z",
-  "last_seen": "2026-11-21T18:58:28Z",
+  "last_seen": "2026-11-22T18:31:05Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,15 @@
+{
+  "ip": "85.19.195.12",
+  "country_code": "NO",
+  "country": "Norway",
+  "asn": 25400,
+  "asn_org": "Telia Norge AS",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-14T03:14:43Z",
+  "last_seen": "2026-11-21T12:21:52Z",
+  "reported": "not reported (permanent ban)"
+}
