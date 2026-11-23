@@ -7,10 +7,10 @@
 | IP | `190.57.233.133` |
 | Country | Argentina (AR) |
 | ASN | AS20207 · Gigared S.A. |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (3), SSH brute force (2) |
-| Events | 11 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (4), SSH brute force (2) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-21T16:14:43Z |
-| Last seen (UTC) | 2026-11-22T19:07:31Z |
+| Last seen (UTC) | 2026-11-23T03:20:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

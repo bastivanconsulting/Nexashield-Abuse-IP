@@ -5,10 +5,12 @@
   "asn": 211590,
   "asn_org": "Bucklog SARL",
   "categories": {
-    "waf": 1
+    "waf": 220,
+    "scan": 1,
+    "c2": 1
   },
-  "events": 1,
-  "first_seen": "2026-11-23T03:29:45Z",
-  "last_seen": "2026-11-23T03:29:45Z",
+  "events": 466,
+  "first_seen": "2026-11-23T03:29:38Z",
+  "last_seen": "2026-11-23T03:30:07Z",
   "reported": "not reported (permanent ban)"
 }

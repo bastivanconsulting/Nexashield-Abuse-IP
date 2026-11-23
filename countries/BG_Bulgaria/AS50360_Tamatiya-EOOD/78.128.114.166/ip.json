@@ -5,10 +5,10 @@
   "asn": 50360,
   "asn_org": "Tamatiya EOOD",
   "categories": {
-    "c2": 221
+    "c2": 225
   },
-  "events": 221,
+  "events": 225,
   "first_seen": "2026-11-19T04:55:37Z",
-  "last_seen": "2026-11-22T14:14:57Z",
+  "last_seen": "2026-11-23T03:59:21Z",
   "reported": "2026-11-19T06:25:49Z"
 }

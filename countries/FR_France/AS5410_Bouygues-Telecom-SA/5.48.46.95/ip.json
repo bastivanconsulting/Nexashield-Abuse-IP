@@ -1,0 +1,15 @@
+{
+  "ip": "5.48.46.95",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 5410,
+  "asn_org": "Bouygues Telecom SA",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-22T08:05:06Z",
+  "last_seen": "2026-11-23T03:46:05Z",
+  "reported": "not reported (permanent ban)"
+}

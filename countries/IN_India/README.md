@@ -1,11 +1,11 @@
 # 🇮🇳 India
 
-**54** malicious IP(s) across **23** network(s).
+**55** malicious IP(s) across **23** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 11 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (22), Known botnet / C2 infrastructure (13), Abusive HTTP requests (7) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 7 | SSH brute force (27), Known botnet / C2 infrastructure (26), Port scanning (19) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 8 | SSH brute force (30), Known botnet / C2 infrastructure (29), Port scanning (21) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (208), Known botnet / C2 infrastructure (71) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 5 | SSH brute force (17), Port scanning (15), Known botnet / C2 infrastructure (12) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (32), Known botnet / C2 infrastructure (13) |
@@ -18,7 +18,7 @@
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (5), Known botnet / C2 infrastructure (5), SSH brute force (4) |
 | [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) |
 | [AS138755](AS138755_City-Online-Ap-Private-Ltd/) | City Online Ap Private Ltd | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
-| [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
 | [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
