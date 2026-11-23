@@ -1,0 +1,14 @@
+{
+  "ip": "149.28.72.72",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 20473,
+  "asn_org": "The Constant Company, LLC",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-23T17:20:59Z",
+  "last_seen": "2026-11-23T17:20:59Z",
+  "reported": "not reported (permanent ban)"
+}

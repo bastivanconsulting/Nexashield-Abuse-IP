@@ -5,12 +5,12 @@
   "asn": 51396,
   "asn_org": "Pfcloud UG (haftungsbeschrankt)",
   "categories": {
-    "scan": 811,
+    "scan": 812,
     "c2": 45,
     "web": 1
   },
-  "events": 932,
+  "events": 933,
   "first_seen": "2026-11-11T10:00:27Z",
-  "last_seen": "2026-11-23T15:22:11Z",
+  "last_seen": "2026-11-23T16:24:14Z",
   "reported": "not reported (permanent ban)"
 }

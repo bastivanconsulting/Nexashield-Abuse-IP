@@ -1,6 +1,6 @@
 # AS43515 · Google Ireland Limited
 
-🇳🇱 The Netherlands · **11** malicious IP(s)
+🇳🇱 The Netherlands · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -14,6 +14,7 @@
 | [`35.214.199.138`](35.214.199.138/) | Port scanning (32), Known botnet / C2 infrastructure (4) | 37 | 2026-11-20T14:54:24Z |
 | [`35.214.204.44`](35.214.204.44/) | Port scanning (15), Known botnet / C2 infrastructure (3) | 19 | 2026-11-23T15:33:45Z |
 | [`35.214.226.14`](35.214.226.14/) | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) | 4 | 2026-11-15T14:29:04Z |
+| [`35.214.246.169`](35.214.246.169/) | Port scanning (11) | 13 | 2026-11-23T16:38:46Z |
 | [`35.214.250.31`](35.214.250.31/) | Port scanning (11) | 16 | 2026-11-15T23:17:03Z |
 
 ---

@@ -1,0 +1,14 @@
+{
+  "ip": "34.176.149.191",
+  "country_code": "CL",
+  "country": "Chile",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 179
+  },
+  "events": 181,
+  "first_seen": "2026-11-23T16:52:24Z",
+  "last_seen": "2026-11-23T16:53:42Z",
+  "reported": "not reported (permanent ban)"
+}

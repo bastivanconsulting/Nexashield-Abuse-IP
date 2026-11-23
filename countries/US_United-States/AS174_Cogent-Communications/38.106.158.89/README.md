@@ -7,10 +7,10 @@
 | IP | `38.106.158.89` |
 | Country | United States (US) |
 | ASN | AS174 · Cogent Communications |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-21T00:03:37Z |
-| Last seen (UTC) | 2026-11-22T13:11:05Z |
+| Last seen (UTC) | 2026-11-23T16:44:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,14 @@
+{
+  "ip": "176.65.148.183",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 51396,
+  "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+  "categories": {
+    "scan": 20
+  },
+  "events": 20,
+  "first_seen": "2026-11-14T09:33:52Z",
+  "last_seen": "2026-11-23T15:06:29Z",
+  "reported": "not reported (permanent ban)"
+}

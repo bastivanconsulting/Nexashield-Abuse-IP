@@ -5,11 +5,11 @@
   "asn": 11232,
   "asn_org": "Midcontinent Communications",
   "categories": {
-    "scan": 4,
+    "scan": 5,
     "c2": 3
   },
-  "events": 8,
+  "events": 9,
   "first_seen": "2026-11-21T16:13:44Z",
-  "last_seen": "2026-11-23T15:45:06Z",
+  "last_seen": "2026-11-23T16:44:35Z",
   "reported": "not reported (permanent ban)"
 }

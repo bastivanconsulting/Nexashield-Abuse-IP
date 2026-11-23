@@ -7,10 +7,10 @@
 | IP | `187.91.166.143` |
 | Country | Brazil (BR) |
 | ASN | AS26599 · TELEFÔNICA BRASIL S.A |
-| Activity | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (2) |
-| Events | 8 |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (2) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-22T17:56:36Z |
-| Last seen (UTC) | 2026-11-23T13:07:06Z |
+| Last seen (UTC) | 2026-11-23T16:36:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

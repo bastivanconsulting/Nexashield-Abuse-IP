@@ -5,11 +5,11 @@
   "asn": 400619,
   "asn_org": "AROSSCLOUD INC.",
   "categories": {
-    "scan": 7,
+    "scan": 8,
     "c2": 6
   },
-  "events": 15,
+  "events": 16,
   "first_seen": "2026-11-18T04:30:30Z",
-  "last_seen": "2026-11-23T13:45:14Z",
+  "last_seen": "2026-11-23T17:07:01Z",
   "reported": "not reported (permanent ban)"
 }

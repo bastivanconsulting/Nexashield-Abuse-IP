@@ -5,11 +5,11 @@
   "asn": 208843,
   "asn_org": "Alpha Strike Labs GmbH",
   "categories": {
-    "scan": 4,
+    "scan": 5,
     "c2": 3
   },
-  "events": 10,
+  "events": 11,
   "first_seen": "2026-11-14T14:23:10Z",
-  "last_seen": "2026-11-23T14:48:05Z",
+  "last_seen": "2026-11-23T16:25:38Z",
   "reported": "not reported (permanent ban)"
 }
