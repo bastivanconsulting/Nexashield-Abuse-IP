@@ -7,10 +7,10 @@
 | IP | `179.43.153.234` |
 | Country | Switzerland (CH) |
 | ASN | AS51852 · Private Layer INC |
-| Activity | Port scanning (18), Known botnet / C2 infrastructure (7) |
-| Events | 28 |
+| Activity | Port scanning (22), Known botnet / C2 infrastructure (7) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-11T23:33:47Z |
-| Last seen (UTC) | 2026-11-22T04:39:30Z |
+| Last seen (UTC) | 2026-11-23T02:30:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

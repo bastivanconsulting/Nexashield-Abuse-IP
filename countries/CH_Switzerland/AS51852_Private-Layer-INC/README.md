@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`179.43.153.10`](179.43.153.10/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-14T22:06:28Z |
 | [`179.43.153.170`](179.43.153.170/) | Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-12T18:57:02Z |
-| [`179.43.153.234`](179.43.153.234/) | Port scanning (18), Known botnet / C2 infrastructure (7) | 28 | 2026-11-22T04:39:30Z |
+| [`179.43.153.234`](179.43.153.234/) | Port scanning (22), Known botnet / C2 infrastructure (7) | 33 | 2026-11-23T02:30:26Z |
 | [`179.43.171.130`](179.43.171.130/) | Web injection payload blocked by WAF (324), Port scanning (28), Known botnet / C2 infrastructure (9) | 365 | 2026-11-22T18:19:12Z |
 
 ---

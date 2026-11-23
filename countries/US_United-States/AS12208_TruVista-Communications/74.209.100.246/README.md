@@ -7,10 +7,10 @@
 | IP | `74.209.100.246` |
 | Country | United States (US) |
 | ASN | AS12208 · TruVista Communications |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (2) |
-| Events | 12 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-20T09:13:28Z |
-| Last seen (UTC) | 2026-11-22T16:33:48Z |
+| Last seen (UTC) | 2026-11-23T02:48:13Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

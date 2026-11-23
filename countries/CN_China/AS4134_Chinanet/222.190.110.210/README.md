@@ -7,10 +7,10 @@
 | IP | `222.190.110.210` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (3), SSH brute force (2) |
-| Events | 10 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (2) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-19T15:14:51Z |
-| Last seen (UTC) | 2026-11-22T21:49:48Z |
+| Last seen (UTC) | 2026-11-23T03:07:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

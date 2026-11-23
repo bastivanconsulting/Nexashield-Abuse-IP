@@ -28,7 +28,7 @@
 | [`109.160.32.117`](109.160.32.117/) | Port scanning (50), Spamhaus DROP-listed network (6), SSH brute force (5) | 61 | 2026-11-22T21:38:32Z |
 | [`109.160.32.118`](109.160.32.118/) | Port scanning (50), SSH brute force (23), Spamhaus DROP-listed network (1) | 74 | 2026-11-20T06:17:35Z |
 | [`109.160.32.119`](109.160.32.119/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T20:22:43Z |
-| [`109.160.32.120`](109.160.32.120/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 13 | 2026-11-23T00:07:32Z |
+| [`109.160.32.120`](109.160.32.120/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 14 | 2026-11-23T02:25:23Z |
 | [`109.160.32.121`](109.160.32.121/) | Port scanning (87), SSH brute force (12) | 99 | 2026-11-17T10:11:44Z |
 | [`109.160.32.122`](109.160.32.122/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-20T07:18:03Z |
 | [`109.160.32.123`](109.160.32.123/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-21T16:18:24Z |
@@ -53,7 +53,7 @@
 | [`109.160.32.156`](109.160.32.156/) | Port scanning (57), Known botnet / C2 infrastructure (3) | 61 | 2026-11-22T15:57:09Z |
 | [`109.160.32.157`](109.160.32.157/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-22T02:52:36Z |
 | [`109.160.32.158`](109.160.32.158/) | Port scanning (104), Known botnet / C2 infrastructure (2) | 107 | 2026-11-22T13:18:21Z |
-| [`109.160.32.159`](109.160.32.159/) | Port scanning (49), SSH brute force (7), Spamhaus DROP-listed network (2) | 58 | 2026-11-19T01:48:40Z |
+| [`109.160.32.159`](109.160.32.159/) | Port scanning (49), SSH brute force (7), Spamhaus DROP-listed network (4) | 60 | 2026-11-23T03:05:24Z |
 | [`109.160.32.161`](109.160.32.161/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-22T04:27:04Z |
 | [`109.160.32.164`](109.160.32.164/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T13:21:55Z |
 | [`109.160.32.165`](109.160.32.165/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-21T06:53:02Z |

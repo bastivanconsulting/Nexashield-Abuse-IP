@@ -1,0 +1,14 @@
+{
+  "ip": "157.148.122.208",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 136958,
+  "asn_org": "China Unicom Guangdong IP network",
+  "categories": {
+    "scan": 12
+  },
+  "events": 20,
+  "first_seen": "2026-11-14T23:10:27Z",
+  "last_seen": "2026-11-23T03:07:04Z",
+  "reported": "not reported (permanent ban)"
+}

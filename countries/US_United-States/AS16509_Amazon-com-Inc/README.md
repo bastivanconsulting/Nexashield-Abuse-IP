@@ -1,15 +1,16 @@
 # AS16509 · Amazon.com, Inc.
 
-🇺🇸 United States · **23** malicious IP(s)
+🇺🇸 United States · **24** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`3.15.230.87`](3.15.230.87/) | Port scanning (355) | 433 | 2026-11-23T02:13:05Z |
+| [`3.15.230.87`](3.15.230.87/) | Port scanning (359) | 438 | 2026-11-23T03:16:56Z |
 | [`3.129.187.38`](3.129.187.38/) | Known botnet / C2 infrastructure (6), Port scanning (6), SSH brute force (1) | 28 | 2026-11-20T13:43:47Z |
 | [`3.131.24.55`](3.131.24.55/) | Port scanning (25) | 25 | 2026-11-22T01:08:50Z |
 | [`3.134.100.58`](3.134.100.58/) | Port scanning (2) | 3 | 2026-11-11T21:39:01Z |
 | [`3.144.77.222`](3.144.77.222/) | Port scanning (5) | 7 | 2026-11-15T00:59:03Z |
 | [`3.144.198.231`](3.144.198.231/) | Web injection payload blocked by WAF (11), Abusive HTTP requests (4) | 15 | 2026-11-16T10:24:24Z |
+| [`3.145.34.61`](3.145.34.61/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T03:00:05Z |
 | [`3.147.122.184`](3.147.122.184/) | Port scanning (94) | 94 | 2026-11-22T05:39:44Z |
 | [`18.116.98.24`](18.116.98.24/) | Abusive HTTP requests (148), Web injection payload blocked by WAF (10) | 158 | 2026-11-22T15:03:06Z |
 | [`18.116.101.220`](18.116.101.220/) | Port scanning (10), Known botnet / C2 infrastructure (6), SSH brute force (3) | 32 | 2026-11-18T17:10:47Z |

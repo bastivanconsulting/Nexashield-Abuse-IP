@@ -7,10 +7,10 @@
 | IP | `47.91.89.133` |
 | Country | Germany (DE) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (3) |
-| Events | 7 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (4) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-15T16:13:21Z |
-| Last seen (UTC) | 2026-11-22T19:13:04Z |
+| Last seen (UTC) | 2026-11-23T02:47:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

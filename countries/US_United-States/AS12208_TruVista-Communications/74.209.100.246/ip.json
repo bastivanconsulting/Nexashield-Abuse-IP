@@ -5,12 +5,12 @@
   "asn": 12208,
   "asn_org": "TruVista Communications",
   "categories": {
-    "scan": 5,
+    "scan": 6,
     "ssh": 2,
-    "c2": 4
+    "c2": 5
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-20T09:13:28Z",
-  "last_seen": "2026-11-22T16:33:48Z",
+  "last_seen": "2026-11-23T02:48:13Z",
   "reported": "not reported (permanent ban)"
 }
