@@ -1,0 +1,15 @@
+{
+  "ip": "46.44.36.143",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 51369,
+  "asn_org": "LLC \"TRC FIORD\"",
+  "categories": {
+    "ssh": 8,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-20T17:58:36Z",
+  "last_seen": "2026-11-23T19:52:06Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "161.18.250.157",
+  "country_code": "CO",
+  "country": "Colombia",
+  "asn": 3816,
+  "asn_org": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+  "categories": {
+    "scan": 10,
+    "c2": 3
+  },
+  "events": 15,
+  "first_seen": "2026-11-12T02:08:22Z",
+  "last_seen": "2026-11-23T20:09:06Z",
+  "reported": "not reported (permanent ban)"
+}

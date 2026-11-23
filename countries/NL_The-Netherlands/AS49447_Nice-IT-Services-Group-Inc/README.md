@@ -1,10 +1,11 @@
 # AS49447 · Nice IT Services Group Inc.
 
-🇳🇱 The Netherlands · **1** malicious IP(s)
+🇳🇱 The Netherlands · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.9.148.37`](45.9.148.37/) | Port scanning (21), Known botnet / C2 infrastructure (3) | 27 | 2026-11-23T15:55:06Z |
+| [`45.9.148.37`](45.9.148.37/) | Port scanning (24), Known botnet / C2 infrastructure (3) | 30 | 2026-11-23T19:40:05Z |
+| [`45.9.148.86`](45.9.148.86/) | Known botnet / C2 infrastructure (4) | 4 | 2026-11-23T20:15:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

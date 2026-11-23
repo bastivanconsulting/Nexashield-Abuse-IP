@@ -7,10 +7,10 @@
 | IP | `172.110.223.178` |
 | Country | Hong Kong (HK) |
 | ASN | AS47154 · HUSAM A. H. HIJAZI |
-| Activity | Port scanning (414), Known botnet / C2 infrastructure (28) |
-| Events | 459 |
+| Activity | Port scanning (423), Known botnet / C2 infrastructure (29) |
+| Events | 470 |
 | First seen (UTC) | 2026-11-11T11:46:29Z |
-| Last seen (UTC) | 2026-11-23T14:45:30Z |
+| Last seen (UTC) | 2026-11-23T20:11:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

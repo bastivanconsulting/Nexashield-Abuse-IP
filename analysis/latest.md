@@ -1,6 +1,5 @@
-À la date du 2026-11-23, le dépôt recense 460241 événements générés par 7849 adresses IP réparties sur 83 pays et 628 réseaux ASN. Les États-Unis (3196), le Royaume-Uni (1011) et les Pays-Bas (662) figurent parmi les pays les plus représentés. Les activités observées couvrent principalement le balayage de ports (7285) et des infrastructures botnet / C2 connues (5918).
+Sur la période observée, le dépôt recense 462762 événements répartis sur 7869 adresses IP provenant de 84 pays et 632 réseaux ASN, avec une dernière activité enregistrée le 2026-11-23. Les principales natures d'événements observées sont le balayage de ports avec 7303 occurrences et l'infrastructure botnet / C2 connue avec 5931 occurrences. Les pays les plus représentés sont les États-Unis avec 3199 adresses, le Royaume-Uni avec 1011 et les Pays-Bas avec 665.
 
-- Les autres natures incluent les requêtes HTTP abusives (505), la force brute SSH (480) et l'exploitation (CVE, RCE, injection) (435)
-- La France apparaît avec 364 adresses IP dans le classement des pays
-- Parmi les réseaux les plus représentés figurent Microsoft Corporation (1090), Hydra Communications Ltd (994) et Google LLC (473)
-- Des événements marginaux concernent la force brute SMTP / IMAP (1) et les signatures d'exploit UDP (1)
+- Les réseaux les plus sollicités incluent AS8075 (Microsoft Corporation) avec 1091 événements, AS25369 (Hydra Communications Ltd) avec 994 et AS396982 (Google LLC) avec 474.
+- Parmi les autres natures recensées figurent les requêtes HTTP abusives (507), la force brute SSH (484) et l'exploitation (CVE, RCE, injection) avec 436 cas.
+- On note également 187 charges d'injection bloquées par le WAF, 73 réseaux listés Spamhaus DROP, ainsi qu'une occurrence de force brute SMTP / IMAP et une signature d'exploit UDP.

@@ -1,6 +1,6 @@
 # AS9808 · China Mobile Communications Group Co., Ltd
 
-🇨🇳 China · **5** malicious IP(s)
+🇨🇳 China · **6** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -9,6 +9,7 @@
 | [`120.209.67.122`](120.209.67.122/) | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (2) | 16 | 2026-11-23T05:31:35Z |
 | [`183.223.156.154`](183.223.156.154/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T12:02:13Z |
 | [`223.75.156.89`](223.75.156.89/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-22T01:13:04Z |
+| [`223.223.194.187`](223.223.194.187/) | Known botnet / C2 infrastructure (3), SSH brute force (3), Port scanning (1) | 9 | 2026-11-23T20:02:06Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `47.95.192.52` |
 | Country | China (CN) |
 | ASN | AS37963 · Hangzhou Alibaba Advertising Co.,Ltd. |
-| Activity | Port scanning (1), Known botnet / C2 infrastructure (1) |
-| Events | 1 |
+| Activity | Port scanning (2), Known botnet / C2 infrastructure (1) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-23T19:18:59Z |
-| Last seen (UTC) | 2026-11-23T19:18:59Z |
+| Last seen (UTC) | 2026-11-23T19:20:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

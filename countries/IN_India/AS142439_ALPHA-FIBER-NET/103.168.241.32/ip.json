@@ -5,12 +5,12 @@
   "asn": 142439,
   "asn_org": "ALPHA FIBER NET",
   "categories": {
-    "ssh": 3,
-    "c2": 2,
+    "ssh": 5,
+    "c2": 3,
     "scan": 1
   },
-  "events": 6,
+  "events": 10,
   "first_seen": "2026-11-14T05:15:23Z",
-  "last_seen": "2026-11-22T18:05:52Z",
+  "last_seen": "2026-11-23T19:24:05Z",
   "reported": "not reported (permanent ban)"
 }

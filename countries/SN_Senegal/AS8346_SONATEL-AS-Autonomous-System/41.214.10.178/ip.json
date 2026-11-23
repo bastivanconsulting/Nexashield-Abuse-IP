@@ -1,0 +1,16 @@
+{
+  "ip": "41.214.10.178",
+  "country_code": "SN",
+  "country": "Senegal",
+  "asn": 8346,
+  "asn_org": "SONATEL-AS Autonomous System",
+  "categories": {
+    "ssh": 6,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 11,
+  "first_seen": "2026-11-20T01:08:25Z",
+  "last_seen": "2026-11-23T20:10:06Z",
+  "reported": "not reported (permanent ban)"
+}
