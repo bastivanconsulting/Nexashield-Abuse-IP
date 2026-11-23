@@ -6,14 +6,14 @@
 |---|---|---:|---|
 | [`50.77.182.73`](50.77.182.73/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T21:23:01Z |
 | [`50.79.0.190`](50.79.0.190/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-12T04:32:01Z |
-| [`50.188.204.213`](50.188.204.213/) | Known botnet / C2 infrastructure (8), Port scanning (5), SSH brute force (4) | 18 | 2026-11-23T19:21:23Z |
+| [`50.188.204.213`](50.188.204.213/) | Known botnet / C2 infrastructure (8), Port scanning (6), SSH brute force (4) | 19 | 2026-11-23T20:18:28Z |
 | [`50.189.47.46`](50.189.47.46/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T17:08:01Z |
 | [`50.193.139.226`](50.193.139.226/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T20:40:02Z |
 | [`70.89.116.5`](70.89.116.5/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (3) | 12 | 2026-11-23T18:36:33Z |
 | [`71.25.8.98`](71.25.8.98/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T17:16:02Z |
 | [`71.229.1.186`](71.229.1.186/) | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) | 7 | 2026-11-23T09:02:04Z |
 | [`73.2.159.206`](73.2.159.206/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 9 | 2026-11-12T04:07:25Z |
-| [`73.183.115.109`](73.183.115.109/) | Port scanning (5), Known botnet / C2 infrastructure (5), SSH brute force (2) | 14 | 2026-11-23T17:21:11Z |
+| [`73.183.115.109`](73.183.115.109/) | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) | 15 | 2026-11-23T20:56:38Z |
 | [`96.76.90.234`](96.76.90.234/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 9 | 2026-11-12T05:01:23Z |
 | [`96.77.166.30`](96.77.166.30/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 8 | 2026-11-12T02:14:37Z |
 | [`96.78.175.36`](96.78.175.36/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T17:34:04Z |

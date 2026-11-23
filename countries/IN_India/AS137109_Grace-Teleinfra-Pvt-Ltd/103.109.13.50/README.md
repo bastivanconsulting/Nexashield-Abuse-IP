@@ -7,10 +7,10 @@
 | IP | `103.109.13.50` |
 | Country | India (IN) |
 | ASN | AS137109 · Grace Teleinfra Pvt Ltd |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (6), SSH brute force (2) |
-| Events | 17 |
+| Activity | Port scanning (8), Known botnet / C2 infrastructure (6), SSH brute force (2) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-15T01:50:13Z |
-| Last seen (UTC) | 2026-11-23T15:56:38Z |
+| Last seen (UTC) | 2026-11-23T21:05:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

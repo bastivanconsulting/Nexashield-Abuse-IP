@@ -1,6 +1,6 @@
 # AS213412 · ONYPHE SAS
 
-🇨🇳 China · **13** malicious IP(s)
+🇨🇳 China · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,9 +10,11 @@
 | [`94.231.206.4`](94.231.206.4/) | Port scanning (4) | 4 | 2026-11-20T16:14:14Z |
 | [`94.231.206.6`](94.231.206.6/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-21T01:27:56Z |
 | [`94.231.206.10`](94.231.206.10/) | Port scanning (5), Known botnet / C2 infrastructure (1) | 6 | 2026-11-22T02:38:14Z |
+| [`94.231.206.11`](94.231.206.11/) | Port scanning (2) | 2 | 2026-11-23T14:02:33Z |
+| [`94.231.206.12`](94.231.206.12/) | Port scanning (4) | 4 | 2026-11-23T21:05:04Z |
 | [`94.231.206.13`](94.231.206.13/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-21T01:27:56Z |
 | [`94.231.206.128`](94.231.206.128/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-23T10:18:05Z |
-| [`94.231.206.130`](94.231.206.130/) | Port scanning (51), Known botnet / C2 infrastructure (25) | 82 | 2026-11-23T17:29:30Z |
+| [`94.231.206.130`](94.231.206.130/) | Port scanning (52), Known botnet / C2 infrastructure (26) | 84 | 2026-11-23T20:42:22Z |
 | [`94.231.206.132`](94.231.206.132/) | Port scanning (49), Known botnet / C2 infrastructure (40) | 90 | 2026-11-23T14:59:05Z |
 | [`94.231.206.135`](94.231.206.135/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 5 | 2026-11-23T10:18:12Z |
 | [`94.231.206.248`](94.231.206.248/) | Port scanning (3) | 4 | 2026-11-23T10:18:05Z |

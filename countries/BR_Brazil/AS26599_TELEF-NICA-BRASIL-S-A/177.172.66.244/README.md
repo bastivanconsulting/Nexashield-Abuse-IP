@@ -7,10 +7,10 @@
 | IP | `177.172.66.244` |
 | Country | Brazil (BR) |
 | ASN | AS26599 · TELEFÔNICA BRASIL S.A |
-| Activity | Port scanning (208), Known botnet / C2 infrastructure (8) |
-| Events | 237 |
+| Activity | Port scanning (210), Known botnet / C2 infrastructure (8) |
+| Events | 239 |
 | First seen (UTC) | 2026-11-19T05:58:34Z |
-| Last seen (UTC) | 2026-11-23T20:10:46Z |
+| Last seen (UTC) | 2026-11-23T20:44:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,12 +5,12 @@
   "asn": 11351,
   "asn_org": "Charter Communications Inc",
   "categories": {
-    "scan": 3,
-    "c2": 3,
+    "scan": 4,
+    "c2": 4,
     "ssh": 2
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-22T00:02:33Z",
-  "last_seen": "2026-11-23T16:16:13Z",
+  "last_seen": "2026-11-23T21:04:46Z",
   "reported": "not reported (permanent ban)"
 }

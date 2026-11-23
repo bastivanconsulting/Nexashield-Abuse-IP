@@ -7,10 +7,10 @@
 | IP | `109.160.32.37` |
 | Country | The Netherlands (NL) |
 | ASN | AS198364 · BANATSYNC SRL |
-| Activity | Port scanning (43), Known botnet / C2 infrastructure (3) |
-| Events | 47 |
+| Activity | Port scanning (44), Known botnet / C2 infrastructure (4) |
+| Events | 49 |
 | First seen (UTC) | 2026-11-11T23:04:02Z |
-| Last seen (UTC) | 2026-11-23T07:33:54Z |
+| Last seen (UTC) | 2026-11-23T21:07:50Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

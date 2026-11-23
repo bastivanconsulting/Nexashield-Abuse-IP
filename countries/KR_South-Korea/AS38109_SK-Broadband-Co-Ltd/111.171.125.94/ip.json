@@ -6,11 +6,11 @@
   "asn_org": "SK Broadband Co Ltd",
   "categories": {
     "ssh": 3,
-    "c2": 4,
-    "scan": 2
+    "c2": 5,
+    "scan": 3
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-18T05:12:58Z",
-  "last_seen": "2026-11-23T02:24:49Z",
+  "last_seen": "2026-11-23T20:28:06Z",
   "reported": "not reported (permanent ban)"
 }

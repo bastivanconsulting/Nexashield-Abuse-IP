@@ -5,10 +5,10 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`77.90.185.14`](77.90.185.14/) | Port scanning (98), Known botnet / C2 infrastructure (10) | 113 | 2026-11-18T04:55:14Z |
-| [`77.90.185.21`](77.90.185.21/) | Port scanning (165), Known botnet / C2 infrastructure (27) | 283 | 2026-11-23T12:23:39Z |
+| [`77.90.185.21`](77.90.185.21/) | Port scanning (168), Known botnet / C2 infrastructure (28) | 287 | 2026-11-23T21:10:22Z |
 | [`77.90.185.29`](77.90.185.29/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 15 | 2026-11-16T03:50:50Z |
 | [`77.90.185.31`](77.90.185.31/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-23T20:00:38Z |
-| [`77.90.185.78`](77.90.185.78/) | Port scanning (695) | 713 | 2026-11-23T20:09:46Z |
+| [`77.90.185.78`](77.90.185.78/) | Port scanning (696) | 714 | 2026-11-23T20:47:53Z |
 | [`77.90.185.226`](77.90.185.226/) | Port scanning (195) | 197 | 2026-11-17T16:59:11Z |
 | [`77.90.185.230`](77.90.185.230/) | Abusive HTTP requests (51) | 51 | 2026-11-17T05:36:25Z |
 | [`77.90.185.244`](77.90.185.244/) | Spamhaus DROP-listed network (10), Abusive HTTP requests (5) | 15 | 2026-11-21T18:30:34Z |
