@@ -7,10 +7,10 @@
 | IP | `220.178.246.43` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-18T19:07:42Z |
-| Last seen (UTC) | 2026-11-20T05:13:19Z |
+| Last seen (UTC) | 2026-11-23T01:24:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

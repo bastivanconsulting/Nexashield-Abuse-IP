@@ -1,0 +1,14 @@
+{
+  "ip": "185.177.72.70",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 211590,
+  "asn_org": "Bucklog SARL",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-23T02:20:33Z",
+  "last_seen": "2026-11-23T02:20:33Z",
+  "reported": "not reported (permanent ban)"
+}

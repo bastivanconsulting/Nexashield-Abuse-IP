@@ -1,0 +1,15 @@
+{
+  "ip": "47.184.143.67",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 5650,
+  "asn_org": "Verizon Business",
+  "categories": {
+    "scan": 7,
+    "c2": 2
+  },
+  "events": 13,
+  "first_seen": "2026-11-13T20:28:16Z",
+  "last_seen": "2026-11-22T13:12:45Z",
+  "reported": "not reported (permanent ban)"
+}

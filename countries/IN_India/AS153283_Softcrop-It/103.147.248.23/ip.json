@@ -1,0 +1,16 @@
+{
+  "ip": "103.147.248.23",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 153283,
+  "asn_org": "Softcrop It",
+  "categories": {
+    "ssh": 1,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-14T17:11:26Z",
+  "last_seen": "2026-11-23T02:02:04Z",
+  "reported": "not reported (permanent ban)"
+}

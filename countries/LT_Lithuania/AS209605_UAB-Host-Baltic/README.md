@@ -4,9 +4,9 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`91.224.92.45`](91.224.92.45/) | Spamhaus DROP-listed network (889) | 889 | 2026-11-23T01:33:03Z |
-| [`91.224.92.52`](91.224.92.52/) | Port scanning (795) | 875 | 2026-11-23T01:13:11Z |
-| [`91.224.92.97`](91.224.92.97/) | Port scanning (358) | 384 | 2026-11-23T01:08:37Z |
+| [`91.224.92.45`](91.224.92.45/) | Spamhaus DROP-listed network (893) | 893 | 2026-11-23T01:50:20Z |
+| [`91.224.92.52`](91.224.92.52/) | Port scanning (798) | 878 | 2026-11-23T02:06:30Z |
+| [`91.224.92.97`](91.224.92.97/) | Port scanning (361) | 387 | 2026-11-23T01:42:20Z |
 | [`91.224.92.132`](91.224.92.132/) | Port scanning (11) | 15 | 2026-11-21T17:11:56Z |
 | [`91.224.92.137`](91.224.92.137/) | Port scanning (132) | 140 | 2026-11-21T21:19:45Z |
 | [`141.98.9.26`](141.98.9.26/) | Known botnet / C2 infrastructure (3) | 4 | 2026-11-12T21:24:03Z |
@@ -17,7 +17,7 @@
 | [`141.98.11.129`](141.98.11.129/) | Port scanning (173), Known botnet / C2 infrastructure (1) | 179 | 2026-11-19T03:31:43Z |
 | [`141.98.11.157`](141.98.11.157/) | Port scanning (37) | 41 | 2026-11-19T03:12:01Z |
 | [`141.98.11.215`](141.98.11.215/) | Port scanning (24), Known botnet / C2 infrastructure (5) | 30 | 2026-11-18T05:59:17Z |
-| [`185.36.81.23`](185.36.81.23/) | Port scanning (42), Known botnet / C2 infrastructure (8) | 53 | 2026-11-23T00:21:46Z |
+| [`185.36.81.23`](185.36.81.23/) | Port scanning (44), Known botnet / C2 infrastructure (8) | 55 | 2026-11-23T02:15:56Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

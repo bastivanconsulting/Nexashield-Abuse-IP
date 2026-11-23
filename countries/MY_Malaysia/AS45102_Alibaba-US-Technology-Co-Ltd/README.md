@@ -24,7 +24,7 @@
 | [`47.250.87.26`](47.250.87.26/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-20T18:03:04Z |
 | [`47.250.89.132`](47.250.89.132/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-22T13:59:35Z |
 | [`47.250.89.137`](47.250.89.137/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 18 | 2026-11-22T12:01:26Z |
-| [`47.250.91.153`](47.250.91.153/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-22T08:08:15Z |
+| [`47.250.91.153`](47.250.91.153/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-23T01:18:43Z |
 | [`47.250.91.187`](47.250.91.187/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-22T18:20:14Z |
 | [`47.250.92.199`](47.250.92.199/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T23:10:05Z |
 | [`47.250.94.154`](47.250.94.154/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-21T16:11:06Z |
@@ -32,7 +32,7 @@
 | [`47.250.95.153`](47.250.95.153/) | Port scanning (6), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) | 13 | 2026-11-22T04:33:20Z |
 | [`47.250.112.190`](47.250.112.190/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-22T04:59:52Z |
 | [`47.250.118.116`](47.250.118.116/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-17T08:13:47Z |
-| [`47.250.119.197`](47.250.119.197/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T11:50:04Z |
+| [`47.250.119.197`](47.250.119.197/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T01:56:51Z |
 | [`47.250.127.36`](47.250.127.36/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-21T20:55:05Z |
 | [`47.250.128.13`](47.250.128.13/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-22T09:55:12Z |
 | [`47.250.130.240`](47.250.130.240/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-16T04:52:11Z |

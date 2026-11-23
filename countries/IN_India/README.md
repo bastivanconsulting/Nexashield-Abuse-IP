@@ -1,13 +1,13 @@
 # 🇮🇳 India
 
-**51** malicious IP(s) across **22** network(s).
+**53** malicious IP(s) across **23** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 10 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (18), Known botnet / C2 infrastructure (13), Abusive HTTP requests (5) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 11 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (22), Known botnet / C2 infrastructure (13), Abusive HTTP requests (7) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (207), Known botnet / C2 infrastructure (70) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 6 | SSH brute force (24), Known botnet / C2 infrastructure (24), Port scanning (19) |
-| [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 5 | SSH brute force (15), Port scanning (15), Known botnet / C2 infrastructure (11) |
+| [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 5 | SSH brute force (17), Port scanning (15), Known botnet / C2 infrastructure (12) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (32), Known botnet / C2 infrastructure (13) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
@@ -21,6 +21,7 @@
 | [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
+| [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
 | [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2), Port scanning (1) |

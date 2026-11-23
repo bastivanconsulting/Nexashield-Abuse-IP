@@ -7,10 +7,10 @@
 | IP | `69.124.69.20` |
 | Country | United States (US) |
 | ASN | AS6128 · Cablevision Systems Corp. |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-19T21:32:50Z |
-| Last seen (UTC) | 2026-11-22T18:06:04Z |
+| Last seen (UTC) | 2026-11-23T01:43:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

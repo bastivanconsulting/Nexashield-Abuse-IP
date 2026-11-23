@@ -1,12 +1,12 @@
 # 🇸🇬 Singapore
 
-**104** malicious IP(s) across **11** network(s).
+**105** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 67 | Port scanning (328), Known botnet / C2 infrastructure (265), Abusive HTTP requests (1) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 68 | Port scanning (332), Known botnet / C2 infrastructure (268), Abusive HTTP requests (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 18 | Port scanning (303), Abusive HTTP requests (270), Known botnet / C2 infrastructure (78), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (373), Known botnet / C2 infrastructure (44) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (376), Known botnet / C2 infrastructure (45) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 4 | Port scanning (99) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (198), Web injection payload blocked by WAF (22), SSH brute force (11), Port scanning (2) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (85), Known botnet / C2 infrastructure (27), Exploitation attempt (CVE / RCE / injection) (1) |

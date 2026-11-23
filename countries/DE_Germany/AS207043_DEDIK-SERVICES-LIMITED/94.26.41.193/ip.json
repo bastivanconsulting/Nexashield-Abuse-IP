@@ -1,0 +1,14 @@
+{
+  "ip": "94.26.41.193",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 207043,
+  "asn_org": "DEDIK SERVICES LIMITED",
+  "categories": {
+    "web": 15
+  },
+  "events": 15,
+  "first_seen": "2026-11-22T21:35:16Z",
+  "last_seen": "2026-11-23T00:45:45Z",
+  "reported": "2026-11-23T02:27:20Z"
+}

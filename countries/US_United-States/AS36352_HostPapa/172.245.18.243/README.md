@@ -7,10 +7,10 @@
 | IP | `172.245.18.243` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Port scanning (53) |
-| Events | 65 |
+| Activity | Port scanning (54) |
+| Events | 66 |
 | First seen (UTC) | 2026-11-19T22:46:41Z |
-| Last seen (UTC) | 2026-11-23T00:24:28Z |
+| Last seen (UTC) | 2026-11-23T02:05:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
