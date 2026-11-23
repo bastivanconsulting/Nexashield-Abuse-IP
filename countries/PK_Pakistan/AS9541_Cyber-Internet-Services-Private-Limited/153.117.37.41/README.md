@@ -1,0 +1,19 @@
+# `153.117.37.41`
+
+🇵🇰 **Pakistan** · AS9541 Cyber Internet Services (Private) Limited
+
+| Field | Value |
+|---|---|
+| IP | `153.117.37.41` |
+| Country | Pakistan (PK) |
+| ASN | AS9541 · Cyber Internet Services (Private) Limited |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
+| First seen (UTC) | 2026-11-23T21:53:53Z |
+| Last seen (UTC) | 2026-11-23T21:53:53Z |
+| Reported to network owner (UTC) | 2026-11-23T22:28:04Z |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,6 +1,6 @@
 # AS198364 · BANATSYNC SRL
 
-🇳🇱 The Netherlands · **74** malicious IP(s)
+🇳🇱 The Netherlands · **75** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -44,6 +44,7 @@
 | [`109.160.32.129`](109.160.32.129/) | Port scanning (38), SSH brute force (18), Spamhaus DROP-listed network (5) | 61 | 2026-11-23T05:46:44Z |
 | [`109.160.32.131`](109.160.32.131/) | Known botnet / C2 infrastructure (1) | 1 | 2026-11-21T09:30:29Z |
 | [`109.160.32.132`](109.160.32.132/) | Port scanning (63), SSH brute force (23), Spamhaus DROP-listed network (2) | 88 | 2026-11-21T17:17:46Z |
+| [`109.160.32.133`](109.160.32.133/) | Port scanning (23), Known botnet / C2 infrastructure (2) | 25 | 2026-11-23T22:16:47Z |
 | [`109.160.32.134`](109.160.32.134/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T16:18:24Z |
 | [`109.160.32.136`](109.160.32.136/) | Known botnet / C2 infrastructure (126) | 126 | 2026-11-23T10:50:54Z |
 | [`109.160.32.139`](109.160.32.139/) | SSH brute force (27), Port scanning (2), Spamhaus DROP-listed network (1) | 30 | 2026-11-12T22:34:33Z |

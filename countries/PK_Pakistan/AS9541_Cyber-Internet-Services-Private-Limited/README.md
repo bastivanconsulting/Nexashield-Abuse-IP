@@ -1,6 +1,6 @@
 # AS9541 · Cyber Internet Services (Private) Limited
 
-🇵🇰 Pakistan · **9** malicious IP(s)
+🇵🇰 Pakistan · **10** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [`124.29.224.203`](124.29.224.203/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 3 | 2026-11-22T11:48:04Z |
 | [`144.48.135.163`](144.48.135.163/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-22T18:23:08Z |
 | [`153.117.33.154`](153.117.33.154/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-13T06:11:52Z |
+| [`153.117.37.41`](153.117.37.41/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-23T21:53:53Z |
 | [`153.117.56.82`](153.117.56.82/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-14T15:41:03Z |
 | [`153.117.56.102`](153.117.56.102/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 3 | 2026-11-13T01:22:54Z |
 | [`203.101.186.247`](203.101.186.247/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 3 | 2026-11-17T22:14:04Z |

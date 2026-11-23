@@ -7,10 +7,10 @@
 | IP | `116.237.181.57` |
 | Country | China (CN) |
 | ASN | AS4812 · China Telecom (Group) |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 11 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-19T02:48:21Z |
-| Last seen (UTC) | 2026-11-22T21:35:43Z |
+| Last seen (UTC) | 2026-11-23T22:02:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

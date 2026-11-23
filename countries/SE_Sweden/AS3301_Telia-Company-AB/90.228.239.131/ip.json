@@ -1,0 +1,15 @@
+{
+  "ip": "90.228.239.131",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 3301,
+  "asn_org": "Telia Company AB",
+  "categories": {
+    "web": 2,
+    "exploit": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-23T22:05:21Z",
+  "last_seen": "2026-11-23T22:05:22Z",
+  "reported": "2026-11-23T22:27:59Z"
+}

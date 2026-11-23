@@ -7,10 +7,10 @@
 | IP | `209.38.231.72` |
 | Country | Germany (DE) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (1) |
-| Events | 1 |
+| Activity | Port scanning (5) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-23T21:32:59Z |
-| Last seen (UTC) | 2026-11-23T21:32:59Z |
+| Last seen (UTC) | 2026-11-23T21:33:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

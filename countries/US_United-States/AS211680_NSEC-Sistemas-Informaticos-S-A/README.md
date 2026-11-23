@@ -1,9 +1,10 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇺🇸 United States · **94** malicious IP(s)
+🇺🇸 United States · **95** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`45.156.129.52`](45.156.129.52/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 7 | 2026-11-22T00:04:12Z |
 | [`45.156.129.56`](45.156.129.56/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 6 | 2026-11-21T06:18:21Z |
 | [`45.156.129.60`](45.156.129.60/) | Port scanning (26), Known botnet / C2 infrastructure (13) | 40 | 2026-11-23T12:17:33Z |
 | [`45.156.129.61`](45.156.129.61/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-22T14:37:44Z |
@@ -24,7 +25,7 @@
 | [`45.156.129.80`](45.156.129.80/) | Port scanning (18), Known botnet / C2 infrastructure (8) | 27 | 2026-11-23T03:08:41Z |
 | [`45.156.129.85`](45.156.129.85/) | Port scanning (23), Known botnet / C2 infrastructure (12) | 38 | 2026-11-23T11:30:37Z |
 | [`45.156.129.86`](45.156.129.86/) | Port scanning (18), Known botnet / C2 infrastructure (12) | 31 | 2026-11-23T05:34:07Z |
-| [`45.156.129.87`](45.156.129.87/) | Port scanning (10), Known botnet / C2 infrastructure (9) | 20 | 2026-11-23T05:10:42Z |
+| [`45.156.129.87`](45.156.129.87/) | Port scanning (11), Known botnet / C2 infrastructure (10) | 22 | 2026-11-23T21:59:46Z |
 | [`45.156.129.88`](45.156.129.88/) | Port scanning (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) | 8 | 2026-11-20T04:03:05Z |
 | [`45.156.129.90`](45.156.129.90/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-23T05:19:21Z |
 | [`45.156.129.91`](45.156.129.91/) | Port scanning (23), Known botnet / C2 infrastructure (11) | 36 | 2026-11-23T00:18:12Z |

@@ -7,10 +7,10 @@
 | IP | `47.91.1.241` |
 | Country | Japan (JP) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (4) |
-| Events | 11 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (4) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-13T12:28:13Z |
-| Last seen (UTC) | 2026-11-23T18:39:40Z |
+| Last seen (UTC) | 2026-11-23T21:31:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,14 @@
+{
+  "ip": "200.90.0.4",
+  "country_code": "VE",
+  "country": "Venezuela",
+  "asn": 8048,
+  "asn_org": "CANTV Servicios, Venezuela",
+  "categories": {
+    "scan": 20
+  },
+  "events": 32,
+  "first_seen": "2026-11-18T08:51:33Z",
+  "last_seen": "2026-11-23T21:23:37Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "45.156.128.126",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 211680,
+  "asn_org": "NSEC - Sistemas Informaticos, S.A.",
+  "categories": {
+    "scan": 8,
+    "c2": 1
+  },
+  "events": 12,
+  "first_seen": "2026-11-21T04:11:10Z",
+  "last_seen": "2026-11-23T20:54:04Z",
+  "reported": "not reported (permanent ban)"
+}

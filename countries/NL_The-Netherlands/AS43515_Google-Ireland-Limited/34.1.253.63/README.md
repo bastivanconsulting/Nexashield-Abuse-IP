@@ -7,10 +7,10 @@
 | IP | `34.1.253.63` |
 | Country | The Netherlands (NL) |
 | ASN | AS43515 · Google Ireland Limited |
-| Activity | Port scanning (13) |
-| Events | 18 |
+| Activity | Port scanning (14) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-23T11:46:44Z |
-| Last seen (UTC) | 2026-11-23T20:45:41Z |
+| Last seen (UTC) | 2026-11-23T21:33:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
