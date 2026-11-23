@@ -5,12 +5,12 @@
   "asn": 215925,
   "asn_org": "VPSVAULT.HOST LTD",
   "categories": {
-    "scan": 925,
+    "scan": 928,
     "c2": 45,
     "exploit": 58
   },
-  "events": 1184,
+  "events": 1187,
   "first_seen": "2026-11-11T09:46:18Z",
-  "last_seen": "2026-11-23T04:14:13Z",
+  "last_seen": "2026-11-23T05:10:40Z",
   "reported": "not reported (permanent ban)"
 }

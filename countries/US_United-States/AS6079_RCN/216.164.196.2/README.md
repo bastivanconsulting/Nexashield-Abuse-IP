@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS6079 · RCN |
 | Activity | Exploitation attempt (CVE / RCE / injection) (3) |
-| Events | 58 |
+| Events | 76 |
 | First seen (UTC) | 2026-11-12T06:02:21Z |
-| Last seen (UTC) | 2026-11-22T04:49:53Z |
+| Last seen (UTC) | 2026-11-23T05:08:11Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

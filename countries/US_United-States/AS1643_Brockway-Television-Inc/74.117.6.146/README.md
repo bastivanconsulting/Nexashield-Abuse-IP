@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS1643 · Brockway Television Inc. |
 | Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 77 |
+| Events | 95 |
 | First seen (UTC) | 2026-11-11T18:00:12Z |
-| Last seen (UTC) | 2026-11-22T13:10:44Z |
+| Last seen (UTC) | 2026-11-23T05:16:42Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

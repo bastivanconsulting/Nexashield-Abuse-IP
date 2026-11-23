@@ -1,0 +1,14 @@
+{
+  "ip": "94.103.88.177",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 48282,
+  "asn_org": "Hosting technology LTD",
+  "categories": {
+    "scan": 6
+  },
+  "events": 7,
+  "first_seen": "2026-11-21T12:33:33Z",
+  "last_seen": "2026-11-23T05:11:05Z",
+  "reported": "not reported (permanent ban)"
+}

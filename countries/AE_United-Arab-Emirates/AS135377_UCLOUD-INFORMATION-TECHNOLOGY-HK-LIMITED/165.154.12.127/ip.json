@@ -1,0 +1,15 @@
+{
+  "ip": "165.154.12.127",
+  "country_code": "AE",
+  "country": "United Arab Emirates",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 5,
+    "c2": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-14T00:34:37Z",
+  "last_seen": "2026-11-22T18:22:40Z",
+  "reported": "not reported (permanent ban)"
+}

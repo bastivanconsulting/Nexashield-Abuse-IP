@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇲🇾 Malaysia · **59** malicious IP(s)
+🇲🇾 Malaysia · **61** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -28,6 +28,7 @@
 | [`47.250.91.187`](47.250.91.187/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-22T18:20:14Z |
 | [`47.250.92.199`](47.250.92.199/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T23:10:05Z |
 | [`47.250.94.154`](47.250.94.154/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-21T16:11:06Z |
+| [`47.250.94.249`](47.250.94.249/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-22T05:24:19Z |
 | [`47.250.95.137`](47.250.95.137/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-22T18:26:13Z |
 | [`47.250.95.153`](47.250.95.153/) | Port scanning (6), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) | 13 | 2026-11-22T04:33:20Z |
 | [`47.250.112.190`](47.250.112.190/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-22T04:59:52Z |
@@ -42,6 +43,7 @@
 | [`47.250.138.108`](47.250.138.108/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T04:28:04Z |
 | [`47.250.141.141`](47.250.141.141/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T08:02:09Z |
 | [`47.250.142.113`](47.250.142.113/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-18T15:49:21Z |
+| [`47.250.145.152`](47.250.145.152/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T05:07:05Z |
 | [`47.250.150.221`](47.250.150.221/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T13:38:05Z |
 | [`47.250.150.236`](47.250.150.236/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 12 | 2026-11-22T09:14:27Z |
 | [`47.250.155.115`](47.250.155.115/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T02:59:55Z |

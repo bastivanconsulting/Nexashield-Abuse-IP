@@ -1,0 +1,16 @@
+{
+  "ip": "213.66.197.199",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 3301,
+  "asn_org": "Telia Company AB",
+  "categories": {
+    "ssh": 3,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-20T13:52:57Z",
+  "last_seen": "2026-11-23T05:17:05Z",
+  "reported": "not reported (permanent ban)"
+}

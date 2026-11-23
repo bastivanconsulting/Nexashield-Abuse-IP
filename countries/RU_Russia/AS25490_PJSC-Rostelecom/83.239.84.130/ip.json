@@ -1,0 +1,16 @@
+{
+  "ip": "83.239.84.130",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 25490,
+  "asn_org": "PJSC Rostelecom",
+  "categories": {
+    "scan": 3,
+    "c2": 3,
+    "ssh": 2
+  },
+  "events": 10,
+  "first_seen": "2026-11-21T20:49:47Z",
+  "last_seen": "2026-11-23T04:51:05Z",
+  "reported": "not reported (permanent ban)"
+}

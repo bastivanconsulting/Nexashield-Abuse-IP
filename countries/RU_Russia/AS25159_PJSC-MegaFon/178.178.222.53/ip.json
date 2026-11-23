@@ -5,11 +5,11 @@
   "asn": 25159,
   "asn_org": "PJSC MegaFon",
   "categories": {
-    "ssh": 5,
-    "c2": 2
+    "ssh": 8,
+    "c2": 3
   },
-  "events": 7,
+  "events": 12,
   "first_seen": "2026-11-18T22:46:38Z",
-  "last_seen": "2026-11-19T10:52:15Z",
+  "last_seen": "2026-11-23T04:30:05Z",
   "reported": "not reported (permanent ban)"
 }

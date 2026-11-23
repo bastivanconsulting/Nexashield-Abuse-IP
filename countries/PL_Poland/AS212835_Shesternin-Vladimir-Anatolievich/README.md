@@ -1,9 +1,10 @@
 # AS212835 · Shesternin Vladimir Anatolievich
 
-🇵🇱 Poland · **1** malicious IP(s)
+🇵🇱 Poland · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`87.251.64.41`](87.251.64.41/) | Port scanning (72) | 91 | 2026-11-23T05:14:22Z |
 | [`87.251.64.82`](87.251.64.82/) | Port scanning (34), Abusive HTTP requests (2) | 45 | 2026-11-14T21:56:54Z |
 
 ---
