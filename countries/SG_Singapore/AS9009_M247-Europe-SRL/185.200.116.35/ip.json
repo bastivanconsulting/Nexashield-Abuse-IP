@@ -1,0 +1,14 @@
+{
+  "ip": "185.200.116.35",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 9009,
+  "asn_org": "M247 Europe SRL",
+  "categories": {
+    "scan": 16
+  },
+  "events": 22,
+  "first_seen": "2026-11-19T14:13:30Z",
+  "last_seen": "2026-11-23T07:06:05Z",
+  "reported": "not reported (permanent ban)"
+}

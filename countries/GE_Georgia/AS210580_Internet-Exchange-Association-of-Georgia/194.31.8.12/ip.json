@@ -1,0 +1,16 @@
+{
+  "ip": "194.31.8.12",
+  "country_code": "GE",
+  "country": "Georgia",
+  "asn": 210580,
+  "asn_org": "Internet Exchange Association of Georgia",
+  "categories": {
+    "ssh": 5,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 10,
+  "first_seen": "2026-11-18T15:01:21Z",
+  "last_seen": "2026-11-23T07:02:05Z",
+  "reported": "not reported (permanent ban)"
+}

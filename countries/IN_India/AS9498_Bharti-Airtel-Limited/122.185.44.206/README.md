@@ -7,10 +7,10 @@
 | IP | `122.185.44.206` |
 | Country | India (IN) |
 | ASN | AS9498 · Bharti Airtel Limited |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (3) |
-| Events | 15 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (4) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-19T17:52:55Z |
-| Last seen (UTC) | 2026-11-22T04:22:45Z |
+| Last seen (UTC) | 2026-11-23T07:03:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `172.234.162.31` |
 | Country | France (FR) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Abusive HTTP requests (243), Port scanning (35), Known botnet / C2 infrastructure (4) |
-| Events | 318 |
+| Activity | Abusive HTTP requests (243), Port scanning (45), Known botnet / C2 infrastructure (5) |
+| Events | 329 |
 | First seen (UTC) | 2026-11-17T17:14:27Z |
-| Last seen (UTC) | 2026-11-21T06:42:33Z |
+| Last seen (UTC) | 2026-11-23T06:34:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

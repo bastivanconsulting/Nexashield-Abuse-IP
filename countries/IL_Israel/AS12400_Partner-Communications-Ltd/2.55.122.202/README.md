@@ -7,10 +7,10 @@
 | IP | `2.55.122.202` |
 | Country | Israel (IL) |
 | ASN | AS12400 · Partner Communications Ltd. |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 9 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-19T04:21:43Z |
-| Last seen (UTC) | 2026-11-22T22:05:05Z |
+| Last seen (UTC) | 2026-11-23T06:30:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

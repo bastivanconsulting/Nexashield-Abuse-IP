@@ -1,15 +1,15 @@
 # 🇨🇳 China
 
-**134** malicious IP(s) across **30** network(s).
+**137** malicious IP(s) across **31** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 31 | Port scanning (176), Known botnet / C2 infrastructure (49), SSH brute force (7) |
-| [AS4134](AS4134_Chinanet/) | Chinanet | 27 | Port scanning (678), Known botnet / C2 infrastructure (115), SSH brute force (50), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
+| [AS37963](AS37963_Hangzhou-Alibaba-Advertising-Co-Ltd/) | Hangzhou Alibaba Advertising Co.,Ltd. | 32 | Port scanning (178), Known botnet / C2 infrastructure (50), SSH brute force (7) |
+| [AS4134](AS4134_Chinanet/) | Chinanet | 28 | Port scanning (683), Known botnet / C2 infrastructure (118), SSH brute force (55), Exploitation attempt (CVE / RCE / injection) (4), Web injection payload blocked by WAF (2) |
 | [AS4837](AS4837_CHINA-UNICOM-China169-Backbone/) | CHINA UNICOM China169 Backbone | 13 | Port scanning (143), Known botnet / C2 infrastructure (30), SSH brute force (11), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (3) |
 | [AS136958](AS136958_China-Unicom-Guangdong-IP-network/) | China Unicom Guangdong IP network | 12 | Port scanning (223), Known botnet / C2 infrastructure (7), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 10 | Port scanning (188), Known botnet / C2 infrastructure (130) |
-| [AS45090](AS45090_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 7 | Port scanning (47), Known botnet / C2 infrastructure (15), SSH brute force (5), Web injection payload blocked by WAF (1) |
+| [AS45090](AS45090_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 7 | Port scanning (48), Known botnet / C2 infrastructure (16), SSH brute force (5), Web injection payload blocked by WAF (1) |
 | [AS9808](AS9808_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 4 | SSH brute force (21), Known botnet / C2 infrastructure (14), Port scanning (2) |
 | [AS38365](AS38365_Beijing-Baidu-Netcom-Science-and-Technology-Co-L/) | Beijing Baidu Netcom Science and Technology Co., Ltd. | 3 | SSH brute force (183), Port scanning (15), Known botnet / C2 infrastructure (4) |
 | [AS136180](AS136180_Beijing-Tiantexin-Tech-Co-Ltd/) | Beijing Tiantexin Tech. Co., Ltd. | 2 | Port scanning (178) |
@@ -27,9 +27,10 @@
 | [AS24151](AS24151_China-Internet-Network-Infomation-Center/) | China Internet Network Infomation Center | 1 | Port scanning (7), Known botnet / C2 infrastructure (3) |
 | [AS24400](AS24400_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 1 | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS24404](AS24404_CNISP-Union-Technology-Beijing-Co-Ltd/) | CNISP-Union Technology (Beijing) Co., Ltd | 1 | Port scanning (68), Known botnet / C2 infrastructure (5) |
+| [AS24445](AS24445_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS38019](AS38019_China-Mobile-Communications-Group-Co-Ltd/) | China Mobile Communications Group Co., Ltd | 1 | SSH brute force (11) |
 | [AS38283](AS38283_CHINANET-SiChuan-Telecom-Internet-Data-Center/) | CHINANET SiChuan Telecom Internet Data Center | 1 | SSH brute force (342), Port scanning (169) |
-| [AS4538](AS4538_China-Education-and-Research-Network-Center/) | China Education and Research Network Center | 1 | Port scanning (73), Known botnet / C2 infrastructure (15) |
+| [AS4538](AS4538_China-Education-and-Research-Network-Center/) | China Education and Research Network Center | 1 | Port scanning (75), Known botnet / C2 infrastructure (15) |
 | [AS4835](AS4835_China-Telecom-Group/) | China Telecom (Group) | 1 | Port scanning (20) |
 | [AS56041](AS56041_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Port scanning (20) |
 | [AS56045](AS56045_China-Mobile-Communications-Corporation/) | China Mobile Communications Corporation | 1 | Known botnet / C2 infrastructure (3) |
