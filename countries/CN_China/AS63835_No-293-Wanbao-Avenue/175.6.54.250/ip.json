@@ -5,11 +5,11 @@
   "asn": 63835,
   "asn_org": "No.293,Wanbao Avenue",
   "categories": {
-    "scan": 18,
-    "c2": 5
+    "scan": 19,
+    "c2": 6
   },
-  "events": 26,
+  "events": 28,
   "first_seen": "2026-11-14T04:54:53Z",
-  "last_seen": "2026-11-21T12:07:36Z",
+  "last_seen": "2026-11-23T11:48:59Z",
   "reported": "not reported (permanent ban)"
 }

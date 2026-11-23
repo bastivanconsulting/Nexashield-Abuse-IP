@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 27 | Port scanning (379), SSH brute force (240), Known botnet / C2 infrastructure (102), Exploitation attempt (CVE / RCE / injection) (6) |
+| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 27 | Port scanning (381), SSH brute force (240), Known botnet / C2 infrastructure (102), Exploitation attempt (CVE / RCE / injection) (6) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (62), Known botnet / C2 infrastructure (42) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1598), Web injection payload blocked by WAF (94) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 2 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26), Known botnet / C2 infrastructure (3) |
@@ -14,7 +14,7 @@
 | [AS17858](AS17858_LG-POWERCOMM/) | LG POWERCOMM | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS38109](AS38109_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 1 | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) |
 | [AS45996](AS45996_DAOU-TECHNOLOGY/) | DAOU TECHNOLOGY | 1 | SSH brute force (68) |
-| [AS9318](AS9318_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (3) |
+| [AS9318](AS9318_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 1 | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (4) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

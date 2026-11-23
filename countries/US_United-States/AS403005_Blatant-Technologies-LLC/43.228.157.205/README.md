@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS403005 · Blatant Technologies, LLC |
 | Activity | Port scanning (3) |
-| Events | 3 |
+| Events | 4 |
 | First seen (UTC) | 2026-11-23T03:18:59Z |
-| Last seen (UTC) | 2026-11-23T06:41:57Z |
+| Last seen (UTC) | 2026-11-23T11:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

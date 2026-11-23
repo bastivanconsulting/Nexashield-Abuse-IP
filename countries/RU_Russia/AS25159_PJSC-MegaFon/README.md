@@ -1,9 +1,10 @@
 # AS25159 · PJSC MegaFon
 
-🇷🇺 Russia · **6** malicious IP(s)
+🇷🇺 Russia · **7** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`31.173.2.182`](31.173.2.182/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-23T11:43:05Z |
 | [`31.173.7.233`](31.173.7.233/) | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) | 12 | 2026-11-22T11:19:12Z |
 | [`31.173.21.229`](31.173.21.229/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T10:07:04Z |
 | [`37.28.177.141`](37.28.177.141/) | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (2) | 10 | 2026-11-23T05:44:49Z |

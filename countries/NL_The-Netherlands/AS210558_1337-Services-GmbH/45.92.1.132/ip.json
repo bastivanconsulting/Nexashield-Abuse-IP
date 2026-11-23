@@ -1,0 +1,15 @@
+{
+  "ip": "45.92.1.132",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 210558,
+  "asn_org": "1337 Services GmbH",
+  "categories": {
+    "web": 12,
+    "spamhaus": 2
+  },
+  "events": 14,
+  "first_seen": "2026-11-23T09:38:20Z",
+  "last_seen": "2026-11-23T09:38:21Z",
+  "reported": "2026-11-23T12:26:55Z"
+}

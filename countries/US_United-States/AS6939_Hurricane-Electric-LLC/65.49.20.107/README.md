@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS6939 · Hurricane Electric LLC |
 | Activity | Port scanning (6), Known botnet / C2 infrastructure (1) |
-| Events | 8 |
+| Events | 9 |
 | First seen (UTC) | 2026-11-23T06:50:44Z |
-| Last seen (UTC) | 2026-11-23T06:51:53Z |
+| Last seen (UTC) | 2026-11-23T11:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

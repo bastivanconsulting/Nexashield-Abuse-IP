@@ -7,10 +7,10 @@
 | IP | `169.58.22.244` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Port scanning (21) |
-| Events | 25 |
+| Activity | Port scanning (22) |
+| Events | 27 |
 | First seen (UTC) | 2026-11-21T07:26:46Z |
-| Last seen (UTC) | 2026-11-23T05:44:24Z |
+| Last seen (UTC) | 2026-11-23T11:37:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

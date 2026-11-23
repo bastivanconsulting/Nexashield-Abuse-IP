@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS51852](AS51852_Private-Layer-INC/) | Private Layer INC | 4 | Web injection payload blocked by WAF (324), Port scanning (63), Known botnet / C2 infrastructure (22), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS51852](AS51852_Private-Layer-INC/) | Private Layer INC | 4 | Web injection payload blocked by WAF (324), Port scanning (64), Known botnet / C2 infrastructure (22), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS209413](AS209413_DEDIK-SERVICES-LIMITED/) | DEDIK SERVICES LIMITED | 2 | Port scanning (131) |
 | [AS402253](AS402253_SKN-Subnet-Telecom-Ltd/) | SKN Subnet & Telecom Ltd | 2 | Port scanning (61), Known botnet / C2 infrastructure (3) |
 | [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Port scanning (12) |

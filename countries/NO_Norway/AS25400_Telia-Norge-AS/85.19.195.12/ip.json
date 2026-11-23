@@ -6,11 +6,11 @@
   "asn_org": "Telia Norge AS",
   "categories": {
     "ssh": 3,
-    "c2": 3,
-    "scan": 2
+    "c2": 4,
+    "scan": 3
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-14T03:14:43Z",
-  "last_seen": "2026-11-22T20:57:55Z",
+  "last_seen": "2026-11-23T11:40:49Z",
   "reported": "not reported (permanent ban)"
 }
