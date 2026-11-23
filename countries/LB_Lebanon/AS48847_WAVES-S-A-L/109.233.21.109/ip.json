@@ -1,0 +1,16 @@
+{
+  "ip": "109.233.21.109",
+  "country_code": "LB",
+  "country": "Lebanon",
+  "asn": 48847,
+  "asn_org": "WAVES S.A.L",
+  "categories": {
+    "ssh": 5,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 11,
+  "first_seen": "2026-11-19T13:22:44Z",
+  "last_seen": "2026-11-23T23:03:05Z",
+  "reported": "not reported (permanent ban)"
+}

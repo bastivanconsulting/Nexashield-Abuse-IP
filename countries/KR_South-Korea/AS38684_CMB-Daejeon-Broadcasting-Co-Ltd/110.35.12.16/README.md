@@ -7,10 +7,10 @@
 | IP | `110.35.12.16` |
 | Country | South Korea (KR) |
 | ASN | AS38684 · CMB Daejeon Broadcasting Co,.Ltd |
-| Activity | Port scanning (34) |
-| Events | 51 |
+| Activity | Port scanning (35) |
+| Events | 53 |
 | First seen (UTC) | 2026-11-11T16:32:34Z |
-| Last seen (UTC) | 2026-11-23T12:49:42Z |
+| Last seen (UTC) | 2026-11-23T22:28:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

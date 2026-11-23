@@ -1,0 +1,15 @@
+{
+  "ip": "217.150.37.249",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 20485,
+  "asn_org": "Joint Stock Company TransTeleCom",
+  "categories": {
+    "ssh": 4,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-19T04:19:31Z",
+  "last_seen": "2026-11-23T15:56:06Z",
+  "reported": "not reported (permanent ban)"
+}

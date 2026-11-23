@@ -7,10 +7,10 @@
 | IP | `176.120.22.240` |
 | Country | Russia (RU) |
 | ASN | AS198953 · Proton66 OOO |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-14T07:33:11Z |
-| Last seen (UTC) | 2026-11-14T22:30:02Z |
+| Last seen (UTC) | 2026-11-23T22:27:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

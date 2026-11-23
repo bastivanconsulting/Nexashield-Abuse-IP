@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`209.99.187.10`](209.99.187.10/) | Spamhaus DROP-listed network (8), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (1) | 12 | 2026-11-23T21:41:02Z |
-| [`209.99.190.52`](209.99.190.52/) | Port scanning (62) | 63 | 2026-11-23T15:49:09Z |
+| [`209.99.190.52`](209.99.190.52/) | Port scanning (63) | 64 | 2026-11-23T22:53:14Z |
 | [`209.99.190.186`](209.99.190.186/) | SSH brute force (5), Spamhaus DROP-listed network (4) | 9 | 2026-11-22T21:52:33Z |
 
 ---

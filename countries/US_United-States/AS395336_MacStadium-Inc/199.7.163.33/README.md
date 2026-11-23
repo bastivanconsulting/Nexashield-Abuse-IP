@@ -7,10 +7,10 @@
 | IP | `199.7.163.33` |
 | Country | United States (US) |
 | ASN | AS395336 · MacStadium, Inc. |
-| Activity | Port scanning (10), Known botnet / C2 infrastructure (7), SSH brute force (6) |
-| Events | 24 |
+| Activity | Port scanning (11), Known botnet / C2 infrastructure (8), SSH brute force (6) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-19T15:33:51Z |
-| Last seen (UTC) | 2026-11-22T13:36:09Z |
+| Last seen (UTC) | 2026-11-23T22:30:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

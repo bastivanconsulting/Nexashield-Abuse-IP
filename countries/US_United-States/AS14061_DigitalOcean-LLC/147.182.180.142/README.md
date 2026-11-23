@@ -7,10 +7,10 @@
 | IP | `147.182.180.142` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (47) |
-| Events | 60 |
+| Activity | Port scanning (48) |
+| Events | 61 |
 | First seen (UTC) | 2026-11-22T05:45:19Z |
-| Last seen (UTC) | 2026-11-23T21:47:47Z |
+| Last seen (UTC) | 2026-11-23T22:21:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
