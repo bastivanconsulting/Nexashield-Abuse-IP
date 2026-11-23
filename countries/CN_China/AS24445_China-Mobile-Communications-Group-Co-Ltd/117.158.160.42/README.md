@@ -7,10 +7,10 @@
 | IP | `117.158.160.42` |
 | Country | China (CN) |
 | ASN | AS24445 · China Mobile Communications Group Co., Ltd |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 9 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-21T08:38:40Z |
-| Last seen (UTC) | 2026-11-23T07:15:05Z |
+| Last seen (UTC) | 2026-11-23T11:15:01Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

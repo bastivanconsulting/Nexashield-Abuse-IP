@@ -7,10 +7,10 @@
 | IP | `5.226.140.9` |
 | Country | United Kingdom (GB) |
 | ASN | AS25369 · Hydra Communications Ltd |
-| Activity | Port scanning (62), Known botnet / C2 infrastructure (9) |
-| Events | 88 |
+| Activity | Port scanning (63), Known botnet / C2 infrastructure (10) |
+| Events | 90 |
 | First seen (UTC) | 2026-11-12T00:00:03Z |
-| Last seen (UTC) | 2026-11-23T05:21:51Z |
+| Last seen (UTC) | 2026-11-23T10:27:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

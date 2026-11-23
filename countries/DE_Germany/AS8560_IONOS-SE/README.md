@@ -1,6 +1,6 @@
 # AS8560 · IONOS SE
 
-🇩🇪 Germany · **4** malicious IP(s)
+🇩🇪 Germany · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`85.184.251.21`](85.184.251.21/) | Port scanning (24), Known botnet / C2 infrastructure (6) | 32 | 2026-11-22T18:50:07Z |
 | [`85.184.251.234`](85.184.251.234/) | Port scanning (35), Known botnet / C2 infrastructure (2) | 49 | 2026-11-15T06:48:50Z |
 | [`85.215.61.91`](85.215.61.91/) | Port scanning (27), Known botnet / C2 infrastructure (6) | 34 | 2026-11-15T12:01:54Z |
+| [`217.160.202.182`](217.160.202.182/) | Port scanning (1) | 1 | 2026-11-23T11:15:44Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

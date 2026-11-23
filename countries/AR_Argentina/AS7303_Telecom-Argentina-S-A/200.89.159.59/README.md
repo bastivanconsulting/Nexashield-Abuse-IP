@@ -7,10 +7,10 @@
 | IP | `200.89.159.59` |
 | Country | Argentina (AR) |
 | ASN | AS7303 · Telecom Argentina S.A. |
-| Activity | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (3) |
-| Events | 13 |
+| Activity | Known botnet / C2 infrastructure (6), Port scanning (5), SSH brute force (3) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-16T04:48:45Z |
-| Last seen (UTC) | 2026-11-22T12:46:47Z |
+| Last seen (UTC) | 2026-11-23T10:38:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

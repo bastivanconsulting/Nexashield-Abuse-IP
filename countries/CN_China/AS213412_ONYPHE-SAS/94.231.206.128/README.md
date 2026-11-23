@@ -8,9 +8,9 @@
 | Country | China (CN) |
 | ASN | AS213412 · ONYPHE SAS |
 | Activity | Port scanning (1), Known botnet / C2 infrastructure (1) |
-| Events | 3 |
+| Events | 4 |
 | First seen (UTC) | 2026-11-12T02:25:53Z |
-| Last seen (UTC) | 2026-11-23T07:05:20Z |
+| Last seen (UTC) | 2026-11-23T10:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
