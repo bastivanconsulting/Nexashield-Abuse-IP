@@ -1,0 +1,15 @@
+{
+  "ip": "109.61.17.108",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 199524,
+  "asn_org": "G-Core Labs S.A.",
+  "categories": {
+    "scan": 1,
+    "c2": 1
+  },
+  "events": 3,
+  "first_seen": "2026-11-23T09:05:20Z",
+  "last_seen": "2026-11-23T09:06:04Z",
+  "reported": "not reported (permanent ban)"
+}

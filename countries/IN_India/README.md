@@ -1,10 +1,10 @@
 # 🇮🇳 India
 
-**58** malicious IP(s) across **23** network(s).
+**59** malicious IP(s) across **24** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 11 | Port scanning (32), Exploitation attempt (CVE / RCE / injection) (22), Known botnet / C2 infrastructure (13), Abusive HTTP requests (7) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 11 | Port scanning (33), Exploitation attempt (CVE / RCE / injection) (22), Known botnet / C2 infrastructure (14), Abusive HTTP requests (7) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 8 | SSH brute force (30), Known botnet / C2 infrastructure (30), Port scanning (22) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (210), Known botnet / C2 infrastructure (72) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 6 | Port scanning (20), SSH brute force (17), Known botnet / C2 infrastructure (15) |
@@ -27,6 +27,7 @@
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2), Port scanning (1) |
 | [AS55836](AS55836_Reliance-Jio-Infocomm-Limited/) | Reliance Jio Infocomm Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
+| [AS7633](AS7633_Software-Technology-Parks-of-India-Bangalore/) | Software Technology Parks of India - Bangalore | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

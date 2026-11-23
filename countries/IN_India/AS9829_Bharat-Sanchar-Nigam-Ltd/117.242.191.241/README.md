@@ -7,10 +7,10 @@
 | IP | `117.242.191.241` |
 | Country | India (IN) |
 | ASN | AS9829 · Bharat Sanchar Nigam Ltd |
-| Activity | Port scanning (32), Known botnet / C2 infrastructure (13) |
-| Events | 53 |
+| Activity | Port scanning (33), Known botnet / C2 infrastructure (14) |
+| Events | 55 |
 | First seen (UTC) | 2026-11-11T11:57:09Z |
-| Last seen (UTC) | 2026-11-22T08:31:39Z |
+| Last seen (UTC) | 2026-11-23T08:45:50Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -10,9 +10,9 @@
 | [`118.193.56.171`](118.193.56.171/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-22T06:20:03Z |
 | [`118.193.56.184`](118.193.56.184/) | Port scanning (23), Known botnet / C2 infrastructure (12) | 36 | 2026-11-23T05:27:40Z |
 | [`118.193.56.246`](118.193.56.246/) | Port scanning (24), Known botnet / C2 infrastructure (17) | 42 | 2026-11-23T07:52:35Z |
-| [`118.193.57.59`](118.193.57.59/) | Port scanning (28), Known botnet / C2 infrastructure (18) | 47 | 2026-11-23T07:46:10Z |
+| [`118.193.57.59`](118.193.57.59/) | Port scanning (29), Known botnet / C2 infrastructure (18) | 48 | 2026-11-23T08:26:07Z |
 | [`118.193.57.185`](118.193.57.185/) | Port scanning (22), Known botnet / C2 infrastructure (17) | 40 | 2026-11-23T01:43:37Z |
-| [`118.194.250.22`](118.194.250.22/) | Port scanning (29), Known botnet / C2 infrastructure (15) | 45 | 2026-11-22T20:50:43Z |
+| [`118.194.250.22`](118.194.250.22/) | Port scanning (30), Known botnet / C2 infrastructure (16) | 47 | 2026-11-23T08:24:26Z |
 | [`118.194.250.31`](118.194.250.31/) | Port scanning (14), Known botnet / C2 infrastructure (2) | 24 | 2026-11-22T18:07:38Z |
 | [`118.194.250.60`](118.194.250.60/) | Port scanning (31), Known botnet / C2 infrastructure (14) | 46 | 2026-11-23T02:45:10Z |
 | [`118.194.250.95`](118.194.250.95/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-21T10:58:46Z |
@@ -36,7 +36,7 @@
 | [`165.154.120.30`](165.154.120.30/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 24 | 2026-11-23T04:24:23Z |
 | [`165.154.120.89`](165.154.120.89/) | Port scanning (18), Known botnet / C2 infrastructure (11) | 30 | 2026-11-22T20:18:39Z |
 | [`165.154.120.223`](165.154.120.223/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 26 | 2026-11-18T20:08:20Z |
-| [`165.154.120.226`](165.154.120.226/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 21 | 2026-11-22T19:03:44Z |
+| [`165.154.120.226`](165.154.120.226/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 23 | 2026-11-23T08:43:18Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

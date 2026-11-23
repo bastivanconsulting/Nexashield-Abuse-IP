@@ -7,10 +7,10 @@
 | IP | `41.207.248.138` |
 | Country | Nigeria (NG) |
 | ASN | AS37540 · Winrock Nigeria Limited |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (5) |
-| Events | 20 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (6) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-20T19:12:11Z |
-| Last seen (UTC) | 2026-11-22T22:03:13Z |
+| Last seen (UTC) | 2026-11-23T08:32:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

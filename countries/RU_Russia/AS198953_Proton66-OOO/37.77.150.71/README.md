@@ -7,10 +7,10 @@
 | IP | `37.77.150.71` |
 | Country | Russia (RU) |
 | ASN | AS198953 · Proton66 OOO |
-| Activity | Port scanning (61) |
-| Events | 69 |
+| Activity | Port scanning (64) |
+| Events | 73 |
 | First seen (UTC) | 2026-11-15T10:51:10Z |
-| Last seen (UTC) | 2026-11-23T07:32:01Z |
+| Last seen (UTC) | 2026-11-23T08:33:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

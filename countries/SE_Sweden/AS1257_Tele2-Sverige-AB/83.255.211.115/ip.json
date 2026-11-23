@@ -1,0 +1,16 @@
+{
+  "ip": "83.255.211.115",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 1257,
+  "asn_org": "Tele2 Sverige AB",
+  "categories": {
+    "ssh": 3,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-21T16:27:52Z",
+  "last_seen": "2026-11-23T01:34:28Z",
+  "reported": "not reported (permanent ban)"
+}

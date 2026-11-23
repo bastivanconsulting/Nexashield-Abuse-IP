@@ -8,9 +8,9 @@
 | Country | France (FR) |
 | ASN | AS209334 · Modat B.V. |
 | Activity | Port scanning (19) |
-| Events | 20 |
+| Events | 21 |
 | First seen (UTC) | 2026-11-14T17:07:34Z |
-| Last seen (UTC) | 2026-11-23T05:19:11Z |
+| Last seen (UTC) | 2026-11-23T08:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

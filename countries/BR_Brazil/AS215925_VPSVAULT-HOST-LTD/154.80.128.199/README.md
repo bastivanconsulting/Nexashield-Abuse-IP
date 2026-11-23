@@ -7,10 +7,10 @@
 | IP | `154.80.128.199` |
 | Country | Brazil (BR) |
 | ASN | AS215925 · VPSVAULT.HOST LTD |
-| Activity | Port scanning (78), Known botnet / C2 infrastructure (22) |
-| Events | 101 |
+| Activity | Port scanning (79), Known botnet / C2 infrastructure (23) |
+| Events | 103 |
 | First seen (UTC) | 2026-11-11T15:37:57Z |
-| Last seen (UTC) | 2026-11-23T00:11:11Z |
+| Last seen (UTC) | 2026-11-23T08:47:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,12 +1,13 @@
 # AS1257 · Tele2 Sverige AB
 
-🇸🇪 Sweden · **3** malicious IP(s)
+🇸🇪 Sweden · **4** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`83.254.172.36`](83.254.172.36/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-22T05:27:04Z |
-| [`83.255.208.30`](83.255.208.30/) | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) | 13 | 2026-11-22T10:06:42Z |
+| [`83.255.208.30`](83.255.208.30/) | Known botnet / C2 infrastructure (6), SSH brute force (4), Port scanning (4) | 15 | 2026-11-23T08:58:36Z |
 | [`83.255.209.245`](83.255.209.245/) | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (3) | 11 | 2026-11-23T06:59:13Z |
+| [`83.255.211.115`](83.255.211.115/) | SSH brute force (3), Known botnet / C2 infrastructure (2), Port scanning (1) | 6 | 2026-11-23T01:34:28Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

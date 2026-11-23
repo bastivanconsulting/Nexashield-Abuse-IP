@@ -5,11 +5,11 @@
   "asn": 1136,
   "asn_org": "KPN B.V.",
   "categories": {
-    "scan": 8,
-    "c2": 3
+    "scan": 10,
+    "c2": 4
   },
-  "events": 13,
+  "events": 16,
   "first_seen": "2026-11-14T08:18:13Z",
-  "last_seen": "2026-11-22T12:37:54Z",
+  "last_seen": "2026-11-23T09:12:54Z",
   "reported": "not reported (permanent ban)"
 }

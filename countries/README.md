@@ -15,11 +15,11 @@
 | [🇧🇪 Belgium](BE_Belgium/) | 421 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 50 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
-| [🇧🇷 Brazil](BR_Brazil/) | 67 |
+| [🇧🇷 Brazil](BR_Brazil/) | 68 |
 | [🇨🇦 Canada](CA_Canada/) | 66 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 11 |
 | [🇨🇱 Chile](CL_Chile/) | 2 |
-| [🇨🇳 China](CN_China/) | 138 |
+| [🇨🇳 China](CN_China/) | 139 |
 | [🇨🇴 Colombia](CO_Colombia/) | 1 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
 | [🇩🇪 Germany](DE_Germany/) | 545 |
@@ -29,7 +29,7 @@
 | [🇪🇪 Estonia](EE_Estonia/) | 1 |
 | [🇪🇸 Spain](ES_Spain/) | 2 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 8 |
-| [🇫🇮 Finland](FI_Finland/) | 10 |
+| [🇫🇮 Finland](FI_Finland/) | 11 |
 | [🇫🇷 France](FR_France/) | 358 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1010 |
 | [🇬🇪 Georgia](GE_Georgia/) | 2 |
@@ -39,7 +39,7 @@
 | [🇮🇩 Indonesia](ID_Indonesia/) | 19 |
 | [🇮🇪 Ireland](IE_Ireland/) | 4 |
 | [🇮🇱 Israel](IL_Israel/) | 11 |
-| [🇮🇳 India](IN_India/) | 58 |
+| [🇮🇳 India](IN_India/) | 59 |
 | [🇮🇶 Iraq](IQ_Iraq/) | 3 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 28 |
@@ -54,7 +54,7 @@
 | [🇲🇩 Moldova](MD_Moldova/) | 2 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 1 |
 | [🇲🇽 Mexico](MX_Mexico/) | 4 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 65 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 67 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 15 |
 | [🇳🇱 The Netherlands](NL_The-Netherlands/) | 631 |
 | [🇳🇴 Norway](NO_Norway/) | 4 |
@@ -70,7 +70,7 @@
 | [🇷🇺 Russia](RU_Russia/) | 45 |
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 12 |
-| [🇸🇪 Sweden](SE_Sweden/) | 71 |
+| [🇸🇪 Sweden](SE_Sweden/) | 72 |
 | [🇸🇬 Singapore](SG_Singapore/) | 112 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 20 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
@@ -78,7 +78,7 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 8 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 21 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 4 |
-| [🇺🇸 United States](US_United-States/) | 3096 |
+| [🇺🇸 United States](US_United-States/) | 3103 |
 | [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 1 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 13 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 2 |
