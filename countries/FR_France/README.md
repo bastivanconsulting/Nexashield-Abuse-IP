@@ -5,11 +5,11 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 177 | Port scanning (9056), Known botnet / C2 infrastructure (1974), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 67 | Port scanning (3487), SSH brute force (494), Known botnet / C2 infrastructure (267), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 44 | Port scanning (5363), Known botnet / C2 infrastructure (300), Exploitation attempt (CVE / RCE / injection) (18), Abusive HTTP requests (4), SSH brute force (2) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 14 | Port scanning (603), Known botnet / C2 infrastructure (61), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 67 | Port scanning (3521), SSH brute force (494), Known botnet / C2 infrastructure (267), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 44 | Port scanning (5413), Known botnet / C2 infrastructure (303), Exploitation attempt (CVE / RCE / injection) (18), Abusive HTTP requests (4), SSH brute force (2) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 14 | Port scanning (606), Known botnet / C2 infrastructure (61), Abusive HTTP requests (6), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 12 | Abusive HTTP requests (760), Port scanning (195), Web injection payload blocked by WAF (40), Known botnet / C2 infrastructure (29) |
-| [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 9 | Port scanning (383), Known botnet / C2 infrastructure (21), Web injection payload blocked by WAF (10), Exploitation attempt (CVE / RCE / injection) (9), Abusive HTTP requests (4) |
+| [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 9 | Port scanning (384), Known botnet / C2 infrastructure (22), Web injection payload blocked by WAF (10), Exploitation attempt (CVE / RCE / injection) (9), Abusive HTTP requests (4) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 3 | Port scanning (11), SSH brute force (8), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS3215](AS3215_Orange-S-A/) | Orange S.A. | 3 | Web injection payload blocked by WAF (706), Port scanning (58), Abusive HTTP requests (19), Known botnet / C2 infrastructure (10) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 3 | Abusive HTTP requests (243), Port scanning (83), Known botnet / C2 infrastructure (7) |

@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS10439 · CariNet, Inc. |
 | Activity | Port scanning (31) |
-| Events | 39 |
+| Events | 40 |
 | First seen (UTC) | 2026-11-11T14:17:57Z |
-| Last seen (UTC) | 2026-11-19T04:18:35Z |
+| Last seen (UTC) | 2026-11-23T00:24:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

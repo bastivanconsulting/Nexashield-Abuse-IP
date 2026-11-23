@@ -1,0 +1,16 @@
+{
+  "ip": "82.38.134.89",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 214663,
+  "asn_org": "DanBot Hosting LTD",
+  "categories": {
+    "ssh": 50,
+    "c2": 1,
+    "scan": 2
+  },
+  "events": 56,
+  "first_seen": "2026-11-22T19:12:33Z",
+  "last_seen": "2026-11-23T00:41:38Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,41 +1,41 @@
 # 🇺🇸 United States
 
-**3037** malicious IP(s) across **90** network(s).
+**3043** malicious IP(s) across **91** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1036 | Port scanning (15660), Known botnet / C2 infrastructure (8257), Web injection payload blocked by WAF (31), Abusive HTTP requests (27), Exploitation attempt (CVE / RCE / injection) (24), SSH brute force (3) |
-| [AS398324](AS398324_Censys-Inc/) | Censys, Inc. | 379 | Port scanning (19940), Known botnet / C2 infrastructure (3665), Abusive HTTP requests (80), Exploitation attempt (CVE / RCE / injection) (71), Web injection payload blocked by WAF (2) |
-| [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 348 | Port scanning (5130), Known botnet / C2 infrastructure (1891), Exploitation attempt (CVE / RCE / injection) (1799), Web injection payload blocked by WAF (1202), Abusive HTTP requests (574) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 159 | Abusive HTTP requests (4868), Port scanning (3613), Known botnet / C2 infrastructure (665), Web injection payload blocked by WAF (211), Exploitation attempt (CVE / RCE / injection) (2) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 119 | Port scanning (7053), Known botnet / C2 infrastructure (259), Web injection payload blocked by WAF (19), Exploitation attempt (CVE / RCE / injection) (4), SSH brute force (3), Abusive HTTP requests (2) |
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 111 | Port scanning (600), Known botnet / C2 infrastructure (462), Abusive HTTP requests (1) |
-| [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 101 | Port scanning (810), Known botnet / C2 infrastructure (565), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (3) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 100 | Port scanning (7917), Known botnet / C2 infrastructure (399), Exploitation attempt (CVE / RCE / injection) (95), Abusive HTTP requests (50), SSH brute force (39), Web injection payload blocked by WAF (18) |
+| [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1038 | Port scanning (15772), Known botnet / C2 infrastructure (8311), Web injection payload blocked by WAF (31), Abusive HTTP requests (27), Exploitation attempt (CVE / RCE / injection) (24), SSH brute force (3) |
+| [AS398324](AS398324_Censys-Inc/) | Censys, Inc. | 379 | Port scanning (19952), Known botnet / C2 infrastructure (3667), Abusive HTTP requests (80), Exploitation attempt (CVE / RCE / injection) (71), Web injection payload blocked by WAF (2) |
+| [AS14618](AS14618_Amazon-com-Inc/) | Amazon.com, Inc. | 348 | Port scanning (5136), Known botnet / C2 infrastructure (1894), Exploitation attempt (CVE / RCE / injection) (1799), Web injection payload blocked by WAF (1202), Abusive HTTP requests (574) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 159 | Abusive HTTP requests (4868), Port scanning (3618), Known botnet / C2 infrastructure (665), Web injection payload blocked by WAF (211), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 119 | Port scanning (7089), Known botnet / C2 infrastructure (260), Web injection payload blocked by WAF (19), Exploitation attempt (CVE / RCE / injection) (4), SSH brute force (3), Abusive HTTP requests (2) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 113 | Port scanning (611), Known botnet / C2 infrastructure (470), Abusive HTTP requests (1) |
+| [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 101 | Port scanning (815), Known botnet / C2 infrastructure (568), Abusive HTTP requests (3), Exploitation attempt (CVE / RCE / injection) (3) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 100 | Port scanning (7925), Known botnet / C2 infrastructure (403), Exploitation attempt (CVE / RCE / injection) (95), Abusive HTTP requests (50), SSH brute force (39), Web injection payload blocked by WAF (18) |
 | [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 99 | Port scanning (2221), Known botnet / C2 infrastructure (519), Exploitation attempt (CVE / RCE / injection) (7) |
-| [AS211680](AS211680_NSEC-Sistemas-Informaticos-S-A/) | NSEC - Sistemas Informaticos, S.A. | 94 | Port scanning (869), Known botnet / C2 infrastructure (583), Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS211680](AS211680_NSEC-Sistemas-Informaticos-S-A/) | NSEC - Sistemas Informaticos, S.A. | 94 | Port scanning (871), Known botnet / C2 infrastructure (585), Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS42969](AS42969_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 67 | Port scanning (233) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 59 | Port scanning (1236), Known botnet / C2 infrastructure (537), SSH brute force (1), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 57 | Port scanning (615), Known botnet / C2 infrastructure (47), SSH brute force (31), Spamhaus DROP-listed network (17), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS6939](AS6939_Hurricane-Electric-LLC/) | Hurricane Electric LLC | 56 | Port scanning (645), Known botnet / C2 infrastructure (340), Exploitation attempt (CVE / RCE / injection) (32), SSH brute force (5), Abusive HTTP requests (4) |
-| [AS10439](AS10439_CariNet-Inc/) | CariNet, Inc. | 32 | Port scanning (2107), Known botnet / C2 infrastructure (293), Exploitation attempt (CVE / RCE / injection) (12), Abusive HTTP requests (11), Web injection payload blocked by WAF (4) |
-| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 23 | Abusive HTTP requests (976), Port scanning (714), Web injection payload blocked by WAF (77), Known botnet / C2 infrastructure (17), SSH brute force (4) |
-| [AS20052](AS20052_Arbor-Networks-Inc/) | Arbor Networks, Inc. | 16 | Port scanning (1029), Known botnet / C2 infrastructure (219), Exploitation attempt (CVE / RCE / injection) (14) |
-| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 16 | Port scanning (2566), Known botnet / C2 infrastructure (406) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 59 | Port scanning (1242), Known botnet / C2 infrastructure (540), SSH brute force (1), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 57 | Port scanning (620), Known botnet / C2 infrastructure (47), SSH brute force (31), Spamhaus DROP-listed network (17), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS6939](AS6939_Hurricane-Electric-LLC/) | Hurricane Electric LLC | 57 | Port scanning (648), Known botnet / C2 infrastructure (342), Exploitation attempt (CVE / RCE / injection) (33), SSH brute force (5), Abusive HTTP requests (4) |
+| [AS10439](AS10439_CariNet-Inc/) | CariNet, Inc. | 32 | Port scanning (2110), Known botnet / C2 infrastructure (294), Exploitation attempt (CVE / RCE / injection) (12), Abusive HTTP requests (11), Web injection payload blocked by WAF (4) |
+| [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 23 | Abusive HTTP requests (976), Port scanning (730), Web injection payload blocked by WAF (77), Known botnet / C2 infrastructure (17), SSH brute force (4) |
+| [AS20052](AS20052_Arbor-Networks-Inc/) | Arbor Networks, Inc. | 16 | Port scanning (1033), Known botnet / C2 infrastructure (220), Exploitation attempt (CVE / RCE / injection) (14) |
+| [AS398705](AS398705_Censys-Inc/) | Censys, Inc. | 16 | Port scanning (2568), Known botnet / C2 infrastructure (406) |
 | [AS7922](AS7922_Comcast-Cable-Communications-LLC/) | Comcast Cable Communications, LLC | 15 | Port scanning (42), Exploitation attempt (CVE / RCE / injection) (34), Known botnet / C2 infrastructure (12), SSH brute force (6) |
-| [AS36352](AS36352_HostPapa/) | HostPapa | 12 | Port scanning (206), Known botnet / C2 infrastructure (53), Web injection payload blocked by WAF (16), Abusive HTTP requests (5) |
+| [AS36352](AS36352_HostPapa/) | HostPapa | 12 | Port scanning (207), Known botnet / C2 infrastructure (53), Web injection payload blocked by WAF (16), Abusive HTTP requests (5) |
 | [AS14987](AS14987_Rethem-Hosting-LLC/) | Rethem Hosting LLC | 10 | Port scanning (20), Known botnet / C2 infrastructure (11) |
-| [AS174](AS174_Cogent-Communications/) | Cogent Communications | 9 | Port scanning (973), Known botnet / C2 infrastructure (226), SSH brute force (5) |
+| [AS174](AS174_Cogent-Communications/) | Cogent Communications | 9 | Port scanning (979), Known botnet / C2 infrastructure (226), SSH brute force (5) |
 | [AS14956](AS14956_RouterHosting-LLC/) | RouterHosting LLC | 8 | Abusive HTTP requests (289), Web injection payload blocked by WAF (45), Port scanning (28), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS19318](AS19318_Interserver-Inc/) | Interserver, Inc | 6 | Port scanning (264), Known botnet / C2 infrastructure (8) |
-| [AS63199](AS63199_CDS-Global-Cloud-Co-Ltd/) | CDS Global Cloud Co., Ltd | 5 | Port scanning (770), Known botnet / C2 infrastructure (125), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS19318](AS19318_Interserver-Inc/) | Interserver, Inc | 6 | Port scanning (267), Known botnet / C2 infrastructure (8) |
+| [AS63199](AS63199_CDS-Global-Cloud-Co-Ltd/) | CDS Global Cloud Co., Ltd | 5 | Port scanning (778), Known botnet / C2 infrastructure (126), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS142002](AS142002_Scloud-Pte-Ltd/) | Scloud Pte Ltd | 4 | Port scanning (69), Known botnet / C2 infrastructure (49) |
 | [AS40021](AS40021_Contabo-Inc/) | Contabo Inc. | 4 | Port scanning (118), Known botnet / C2 infrastructure (14), Exploitation attempt (CVE / RCE / injection) (9) |
 | [AS701](AS701_Verizon-Business/) | Verizon Business | 4 | Port scanning (8), Exploitation attempt (CVE / RCE / injection) (7), SSH brute force (5) |
 | [AS?](AS-Unknown/) | Unknown | 3 | Port scanning (52), Abusive HTTP requests (24), Known botnet / C2 infrastructure (7), Exploitation attempt (CVE / RCE / injection) (3) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (263), Web injection payload blocked by WAF (20), Port scanning (13), Known botnet / C2 infrastructure (4) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 3 | Port scanning (1310), Known botnet / C2 infrastructure (64) |
-| [AS200391](AS200391_KREZ-999-EOOD/) | KREZ 999 EOOD | 3 | Port scanning (795), Known botnet / C2 infrastructure (12) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 3 | Port scanning (1315), Known botnet / C2 infrastructure (64) |
+| [AS200391](AS200391_KREZ-999-EOOD/) | KREZ 999 EOOD | 3 | Port scanning (797), Known botnet / C2 infrastructure (12) |
 | [AS207043](AS207043_DEDIK-SERVICES-LIMITED/) | DEDIK SERVICES LIMITED | 3 | Exploitation attempt (CVE / RCE / injection) (15) |
 | [AS402253](AS402253_SKN-Subnet-Telecom-Ltd/) | SKN Subnet & Telecom Ltd | 3 | Port scanning (53), Spamhaus DROP-listed network (8), SSH brute force (5), Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (1) |
 | [AS53667](AS53667_FranTech-Solutions/) | FranTech Solutions | 3 | Port scanning (177), Known botnet / C2 infrastructure (19) |
@@ -68,6 +68,7 @@
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 1 | Known botnet / C2 infrastructure (3), Abusive HTTP requests (2) |
 | [AS208951](AS208951_ITGLOBAL-COM-NL-B-V/) | ITGLOBAL.COM NL B.V. | 1 | Port scanning (19), Known botnet / C2 infrastructure (3) |
 | [AS213230](AS213230_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 1 | Web injection payload blocked by WAF (16), Abusive HTTP requests (6) |
+| [AS214663](AS214663_DanBot-Hosting-LTD/) | DanBot Hosting LTD | 1 | SSH brute force (50), Port scanning (2), Known botnet / C2 infrastructure (1) |
 | [AS214693](AS214693_Fusiora-OU/) | Fusiora OU | 1 | Known botnet / C2 infrastructure (2) |
 | [AS23089](AS23089_Hotwire-Communications/) | Hotwire Communications | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS26658](AS26658_HT/) | HT | 1 | Port scanning (106) |

@@ -1,9 +1,10 @@
 # AS24560 · Bharti Airtel Limited
 
-🇮🇳 India · **4** malicious IP(s)
+🇮🇳 India · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`122.168.197.245`](122.168.197.245/) | SSH brute force (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-22T08:34:43Z |
 | [`122.170.100.253`](122.170.100.253/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) | 8 | 2026-11-22T01:41:05Z |
 | [`122.170.111.140`](122.170.111.140/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 10 | 2026-11-22T17:30:04Z |
 | [`122.176.119.187`](122.176.119.187/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T14:28:05Z |

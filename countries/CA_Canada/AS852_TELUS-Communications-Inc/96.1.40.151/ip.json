@@ -1,0 +1,16 @@
+{
+  "ip": "96.1.40.151",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 852,
+  "asn_org": "TELUS Communications Inc.",
+  "categories": {
+    "ssh": 3,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-20T16:23:57Z",
+  "last_seen": "2026-11-23T00:58:06Z",
+  "reported": "not reported (permanent ban)"
+}
