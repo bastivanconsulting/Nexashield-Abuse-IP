@@ -6,11 +6,11 @@
   "asn_org": "Bahnhof AB",
   "categories": {
     "ssh": 5,
-    "c2": 4,
-    "scan": 2
+    "c2": 5,
+    "scan": 3
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-18T23:03:48Z",
-  "last_seen": "2026-11-23T10:36:03Z",
+  "last_seen": "2026-11-23T17:47:40Z",
   "reported": "not reported (permanent ban)"
 }

@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`196.251.121.142`](196.251.121.142/) | Known botnet / C2 infrastructure (10) | 11 | 2026-11-23T16:19:44Z |
+| [`196.251.121.142`](196.251.121.142/) | Known botnet / C2 infrastructure (11) | 12 | 2026-11-23T17:52:31Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

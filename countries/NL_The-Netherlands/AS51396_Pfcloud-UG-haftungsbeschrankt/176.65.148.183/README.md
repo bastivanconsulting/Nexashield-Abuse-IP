@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS51396 · Pfcloud UG (haftungsbeschrankt) |
 | Activity | Port scanning (20) |
-| Events | 20 |
+| Events | 21 |
 | First seen (UTC) | 2026-11-14T09:33:52Z |
-| Last seen (UTC) | 2026-11-23T15:06:29Z |
+| Last seen (UTC) | 2026-11-23T17:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

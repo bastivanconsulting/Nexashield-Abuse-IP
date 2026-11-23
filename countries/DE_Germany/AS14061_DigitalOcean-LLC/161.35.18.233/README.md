@@ -7,10 +7,10 @@
 | IP | `161.35.18.233` |
 | Country | Germany (DE) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (13) |
-| Events | 31 |
+| Activity | Port scanning (16), Known botnet / C2 infrastructure (14) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-11T11:29:22Z |
-| Last seen (UTC) | 2026-11-21T14:12:32Z |
+| Last seen (UTC) | 2026-11-23T17:22:13Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

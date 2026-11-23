@@ -1,6 +1,6 @@
 # AS4837 · CHINA UNICOM China169 Backbone
 
-🇨🇳 China · **14** malicious IP(s)
+🇨🇳 China · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -18,6 +18,7 @@
 | [`123.138.18.10`](123.138.18.10/) | Port scanning (57), Known botnet / C2 infrastructure (9) | 72 | 2026-11-22T20:28:49Z |
 | [`125.47.62.216`](125.47.62.216/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-18T10:47:18Z |
 | [`218.27.205.159`](218.27.205.159/) | Port scanning (10), Known botnet / C2 infrastructure (6), SSH brute force (4) | 21 | 2026-11-23T15:06:44Z |
+| [`218.59.201.12`](218.59.201.12/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T18:07:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

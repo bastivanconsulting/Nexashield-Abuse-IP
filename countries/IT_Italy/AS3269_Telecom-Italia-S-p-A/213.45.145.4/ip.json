@@ -1,0 +1,14 @@
+{
+  "ip": "213.45.145.4",
+  "country_code": "IT",
+  "country": "Italy",
+  "asn": 3269,
+  "asn_org": "Telecom Italia S.p.A.",
+  "categories": {
+    "web": 5
+  },
+  "events": 5,
+  "first_seen": "2026-11-16T04:53:25Z",
+  "last_seen": "2026-11-19T00:31:24Z",
+  "reported": "2026-11-23T18:29:10Z"
+}

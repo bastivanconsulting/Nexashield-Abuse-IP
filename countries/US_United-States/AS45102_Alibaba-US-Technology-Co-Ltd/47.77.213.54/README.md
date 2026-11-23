@@ -7,10 +7,10 @@
 | IP | `47.77.213.54` |
 | Country | United States (US) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (4) |
-| Events | 9 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (5) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-16T22:43:20Z |
-| Last seen (UTC) | 2026-11-22T19:23:42Z |
+| Last seen (UTC) | 2026-11-23T18:07:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

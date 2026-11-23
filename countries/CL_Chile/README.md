@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Web injection payload blocked by WAF (478), Abusive HTTP requests (358) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (1212), Web injection payload blocked by WAF (73) |
 | [AS15311](AS15311_Telefonica-Empresas/) | Telefonica Empresas | 1 | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) |
 
 ---

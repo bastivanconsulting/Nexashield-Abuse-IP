@@ -1,9 +1,10 @@
 # AS136958 · China Unicom Guangdong IP network
 
-🇨🇳 China · **12** malicious IP(s)
+🇨🇳 China · **13** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`106.75.129.176`](106.75.129.176/) | Port scanning (23) | 36 | 2026-11-23T17:50:11Z |
 | [`106.75.132.16`](106.75.132.16/) | Port scanning (23) | 36 | 2026-11-22T09:08:33Z |
 | [`106.75.137.122`](106.75.137.122/) | Port scanning (14), Known botnet / C2 infrastructure (8) | 23 | 2026-11-23T15:33:00Z |
 | [`106.75.143.177`](106.75.143.177/) | Port scanning (20) | 32 | 2026-11-23T12:12:15Z |

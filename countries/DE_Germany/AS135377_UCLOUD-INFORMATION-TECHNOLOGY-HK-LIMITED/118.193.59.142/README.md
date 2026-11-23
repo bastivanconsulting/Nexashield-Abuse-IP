@@ -7,10 +7,10 @@
 | IP | `118.193.59.142` |
 | Country | Germany (DE) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (32), Known botnet / C2 infrastructure (19) |
-| Events | 52 |
+| Activity | Port scanning (33), Known botnet / C2 infrastructure (20) |
+| Events | 54 |
 | First seen (UTC) | 2026-11-13T02:18:23Z |
-| Last seen (UTC) | 2026-11-23T13:13:02Z |
+| Last seen (UTC) | 2026-11-23T17:50:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,11 +7,11 @@
 | IP | `34.176.222.174` |
 | Country | Chile (CL) |
 | ASN | AS396982 · Google LLC |
-| Activity | Web injection payload blocked by WAF (266) |
-| Events | 268 |
+| Activity | Abusive HTTP requests (514), Web injection payload blocked by WAF (20) |
+| Events | 534 |
 | First seen (UTC) | 2026-11-23T17:13:56Z |
-| Last seen (UTC) | 2026-11-23T17:15:05Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-23T17:14:54Z |
+| Reported to network owner (UTC) | 2026-11-23T18:29:05Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

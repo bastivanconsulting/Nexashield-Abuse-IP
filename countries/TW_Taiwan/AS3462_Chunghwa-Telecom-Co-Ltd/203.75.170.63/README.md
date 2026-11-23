@@ -7,10 +7,10 @@
 | IP | `203.75.170.63` |
 | Country | Taiwan (TW) |
 | ASN | AS3462 · Chunghwa Telecom Co., Ltd. |
-| Activity | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (5) |
-| Events | 20 |
+| Activity | SSH brute force (8), Known botnet / C2 infrastructure (7), Port scanning (6) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-19T12:49:49Z |
-| Last seen (UTC) | 2026-11-23T04:49:50Z |
+| Last seen (UTC) | 2026-11-23T17:30:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

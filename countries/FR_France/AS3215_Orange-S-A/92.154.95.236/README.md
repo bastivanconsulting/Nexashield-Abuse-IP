@@ -8,9 +8,9 @@
 | Country | France (FR) |
 | ASN | AS3215 · Orange S.A. |
 | Activity | Port scanning (26), Known botnet / C2 infrastructure (9), Web injection payload blocked by WAF (1) |
-| Events | 49 |
+| Events | 50 |
 | First seen (UTC) | 2026-11-11T09:17:03Z |
-| Last seen (UTC) | 2026-11-23T16:19:21Z |
+| Last seen (UTC) | 2026-11-23T17:55:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

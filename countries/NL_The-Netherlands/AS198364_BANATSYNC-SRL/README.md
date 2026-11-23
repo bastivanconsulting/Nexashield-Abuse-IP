@@ -11,7 +11,7 @@
 | [`109.160.32.35`](109.160.32.35/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-22T13:18:21Z |
 | [`109.160.32.36`](109.160.32.36/) | Port scanning (63), SSH brute force (8), Spamhaus DROP-listed network (1) | 72 | 2026-11-17T10:56:50Z |
 | [`109.160.32.37`](109.160.32.37/) | Port scanning (43), Known botnet / C2 infrastructure (3) | 47 | 2026-11-23T07:33:54Z |
-| [`109.160.32.38`](109.160.32.38/) | Port scanning (50), Known botnet / C2 infrastructure (1) | 51 | 2026-11-23T12:08:31Z |
+| [`109.160.32.38`](109.160.32.38/) | Port scanning (50), Known botnet / C2 infrastructure (2) | 53 | 2026-11-23T17:18:09Z |
 | [`109.160.32.39`](109.160.32.39/) | Known botnet / C2 infrastructure (2), Port scanning (1) | 4 | 2026-11-21T16:18:24Z |
 | [`109.160.32.40`](109.160.32.40/) | Port scanning (48), SSH brute force (9), Spamhaus DROP-listed network (3) | 60 | 2026-11-21T19:58:36Z |
 | [`109.160.32.43`](109.160.32.43/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T10:18:12Z |
@@ -49,7 +49,7 @@
 | [`109.160.32.139`](109.160.32.139/) | SSH brute force (27), Port scanning (2), Spamhaus DROP-listed network (1) | 30 | 2026-11-12T22:34:33Z |
 | [`109.160.32.141`](109.160.32.141/) | Port scanning (58), SSH brute force (25), Spamhaus DROP-listed network (1) | 84 | 2026-11-21T00:22:30Z |
 | [`109.160.32.142`](109.160.32.142/) | SSH brute force (20) | 20 | 2026-11-10T20:22:56Z |
-| [`109.160.32.143`](109.160.32.143/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 3 | 2026-11-23T11:08:08Z |
+| [`109.160.32.143`](109.160.32.143/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-23T17:18:09Z |
 | [`109.160.32.144`](109.160.32.144/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T10:18:12Z |
 | [`109.160.32.145`](109.160.32.145/) | Port scanning (57), SSH brute force (8), Spamhaus DROP-listed network (1) | 66 | 2026-11-19T16:42:29Z |
 | [`109.160.32.146`](109.160.32.146/) | Known botnet / C2 infrastructure (2) | 2 | 2026-11-21T11:25:46Z |
