@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇲🇾 Malaysia · **61** malicious IP(s)
+🇲🇾 Malaysia · **62** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -18,17 +18,18 @@
 | [`47.250.82.24`](47.250.82.24/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T18:36:04Z |
 | [`47.250.83.81`](47.250.83.81/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-23T02:43:38Z |
 | [`47.250.83.248`](47.250.83.248/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-22T06:52:23Z |
+| [`47.250.84.105`](47.250.84.105/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-22T10:03:50Z |
 | [`47.250.84.254`](47.250.84.254/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T09:37:52Z |
 | [`47.250.86.46`](47.250.86.46/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-23T04:14:13Z |
 | [`47.250.87.24`](47.250.87.24/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T05:26:05Z |
 | [`47.250.87.26`](47.250.87.26/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-20T18:03:04Z |
-| [`47.250.89.132`](47.250.89.132/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-22T13:59:35Z |
+| [`47.250.89.132`](47.250.89.132/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-23T06:09:48Z |
 | [`47.250.89.137`](47.250.89.137/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 18 | 2026-11-22T12:01:26Z |
 | [`47.250.91.153`](47.250.91.153/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-23T01:18:43Z |
 | [`47.250.91.187`](47.250.91.187/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-22T18:20:14Z |
 | [`47.250.92.199`](47.250.92.199/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T23:10:05Z |
 | [`47.250.94.154`](47.250.94.154/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-21T16:11:06Z |
-| [`47.250.94.249`](47.250.94.249/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-22T05:24:19Z |
+| [`47.250.94.249`](47.250.94.249/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T05:34:05Z |
 | [`47.250.95.137`](47.250.95.137/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-22T18:26:13Z |
 | [`47.250.95.153`](47.250.95.153/) | Port scanning (6), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) | 13 | 2026-11-22T04:33:20Z |
 | [`47.250.112.190`](47.250.112.190/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-22T04:59:52Z |

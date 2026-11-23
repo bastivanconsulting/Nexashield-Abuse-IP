@@ -7,10 +7,10 @@
 | IP | `182.253.123.49` |
 | Country | Indonesia (ID) |
 | ASN | AS17451 · BIZNET NETWORKS |
-| Activity | Abusive HTTP requests (26) |
-| Events | 26 |
+| Activity | Abusive HTTP requests (30) |
+| Events | 30 |
 | First seen (UTC) | 2026-11-15T15:52:29Z |
-| Last seen (UTC) | 2026-11-22T22:57:44Z |
+| Last seen (UTC) | 2026-11-23T05:55:06Z |
 | Reported to network owner (UTC) | 2026-11-16T10:25:03Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

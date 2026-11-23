@@ -6,11 +6,11 @@
   "asn_org": "T-Mobile Czech Republic a.s.",
   "categories": {
     "ssh": 8,
-    "c2": 5,
-    "scan": 3
+    "c2": 6,
+    "scan": 4
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-19T19:24:28Z",
-  "last_seen": "2026-11-22T00:36:14Z",
+  "last_seen": "2026-11-23T05:51:58Z",
   "reported": "not reported (permanent ban)"
 }

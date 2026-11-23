@@ -1,10 +1,10 @@
 # 🇱🇺 Luxembourg
 
-**3** malicious IP(s) across **1** network(s).
+**4** malicious IP(s) across **1** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS53667](AS53667_FranTech-Solutions/) | FranTech Solutions | 3 | Port scanning (68), Known botnet / C2 infrastructure (24) |
+| [AS53667](AS53667_FranTech-Solutions/) | FranTech Solutions | 4 | Port scanning (68), Abusive HTTP requests (24), Known botnet / C2 infrastructure (24) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

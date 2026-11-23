@@ -8,9 +8,9 @@
 | Country | Poland (PL) |
 | ASN | AS212835 · Shesternin Vladimir Anatolievich |
 | Activity | Port scanning (72) |
-| Events | 91 |
+| Events | 92 |
 | First seen (UTC) | 2026-11-17T04:10:10Z |
-| Last seen (UTC) | 2026-11-23T05:14:22Z |
+| Last seen (UTC) | 2026-11-23T05:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

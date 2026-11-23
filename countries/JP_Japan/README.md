@@ -1,15 +1,15 @@
 # 🇯🇵 Japan
 
-**89** malicious IP(s) across **10** network(s).
+**90** malicious IP(s) across **10** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 58 | Port scanning (307), Known botnet / C2 infrastructure (229) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 10 | Port scanning (516), Known botnet / C2 infrastructure (74) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (155), Known botnet / C2 infrastructure (26) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 5 | Abusive HTTP requests (1035), Port scanning (80), Web injection payload blocked by WAF (59), Known botnet / C2 infrastructure (12), SSH brute force (2) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 59 | Port scanning (312), Known botnet / C2 infrastructure (234) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 10 | Port scanning (519), Known botnet / C2 infrastructure (75) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (157), Known botnet / C2 infrastructure (26) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 5 | Abusive HTTP requests (1035), Port scanning (83), Web injection payload blocked by WAF (59), Known botnet / C2 infrastructure (12), SSH brute force (2) |
 | [AS149440](AS149440_Evoxt-Sdn-Bhd/) | Evoxt Sdn. Bhd. | 2 | Abusive HTTP requests (20) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (183), Known botnet / C2 infrastructure (46) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (186), Known botnet / C2 infrastructure (46) |
 | [AS10010](AS10010_TOKAI-Communications-Corporation/) | TOKAI Communications Corporation | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS20473](AS20473_The-Constant-Company-LLC/) | The Constant Company, LLC | 1 | Web injection payload blocked by WAF (8), Abusive HTTP requests (1) |

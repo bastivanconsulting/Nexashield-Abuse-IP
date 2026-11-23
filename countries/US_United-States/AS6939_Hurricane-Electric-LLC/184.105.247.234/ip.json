@@ -8,8 +8,8 @@
     "exploit": 1,
     "c2": 1
   },
-  "events": 1,
+  "events": 3,
   "first_seen": "2026-11-23T05:29:14Z",
-  "last_seen": "2026-11-23T05:29:14Z",
+  "last_seen": "2026-11-23T05:30:04Z",
   "reported": "not reported (permanent ban)"
 }

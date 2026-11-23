@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS24757](AS24757_EthioNet/) | EthioNet | 8 | Port scanning (59), Known botnet / C2 infrastructure (39), SSH brute force (26), Web injection payload blocked by WAF (2) |
+| [AS24757](AS24757_EthioNet/) | EthioNet | 8 | Port scanning (59), Known botnet / C2 infrastructure (40), SSH brute force (28), Web injection payload blocked by WAF (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,0 +1,14 @@
+{
+  "ip": "20.193.139.63",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-23T05:26:50Z",
+  "last_seen": "2026-11-23T05:26:50Z",
+  "reported": "2026-11-23T06:27:14Z"
+}

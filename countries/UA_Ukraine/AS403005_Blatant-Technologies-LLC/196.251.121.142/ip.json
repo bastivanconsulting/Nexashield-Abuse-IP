@@ -1,0 +1,14 @@
+{
+  "ip": "196.251.121.142",
+  "country_code": "UA",
+  "country": "Ukraine",
+  "asn": 403005,
+  "asn_org": "Blatant Technologies, LLC",
+  "categories": {
+    "c2": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-23T05:12:31Z",
+  "last_seen": "2026-11-23T06:05:04Z",
+  "reported": "not reported (permanent ban)"
+}

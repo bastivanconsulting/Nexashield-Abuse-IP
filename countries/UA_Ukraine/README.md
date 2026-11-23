@@ -1,10 +1,11 @@
 # 🇺🇦 Ukraine
 
-**3** malicious IP(s) across **3** network(s).
+**4** malicious IP(s) across **4** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS31520](AS31520_PRIVATE-JOINT-STOCK-COMPANY-DATAGROUP/) | PRIVATE JOINT STOCK COMPANY "DATAGROUP" | 1 | Port scanning (7) |
+| [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 1 | Known botnet / C2 infrastructure (2) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 1 | SSH brute force (6), Port scanning (1) |
 | [AS56812](AS56812_CHP-Zarko-Alexandr-Ivanovich/) | CHP Zarko Alexandr Ivanovich | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
 

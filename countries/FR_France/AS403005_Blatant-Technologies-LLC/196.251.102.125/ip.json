@@ -1,0 +1,15 @@
+{
+  "ip": "196.251.102.125",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 403005,
+  "asn_org": "Blatant Technologies, LLC",
+  "categories": {
+    "scan": 5,
+    "c2": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-13T02:00:06Z",
+  "last_seen": "2026-11-13T11:52:08Z",
+  "reported": "not reported (permanent ban)"
+}
