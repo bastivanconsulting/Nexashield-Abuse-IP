@@ -34,7 +34,7 @@
 | [`45.156.128.104`](45.156.128.104/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-14T07:07:57Z |
 | [`45.156.128.106`](45.156.128.106/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 25 | 2026-11-23T10:38:06Z |
 | [`45.156.128.107`](45.156.128.107/) | Port scanning (13), Known botnet / C2 infrastructure (10) | 26 | 2026-11-23T11:01:02Z |
-| [`45.156.128.108`](45.156.128.108/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T03:32:49Z |
+| [`45.156.128.108`](45.156.128.108/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-23T14:03:34Z |
 | [`45.156.128.109`](45.156.128.109/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 18 | 2026-11-23T12:53:16Z |
 | [`45.156.128.112`](45.156.128.112/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-22T22:53:28Z |
 | [`45.156.128.113`](45.156.128.113/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T05:28:24Z |
@@ -71,7 +71,7 @@
 | [`45.156.128.174`](45.156.128.174/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-20T05:44:22Z |
 | [`45.156.128.175`](45.156.128.175/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-22T03:20:05Z |
 | [`45.156.128.176`](45.156.128.176/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-21T01:55:57Z |
-| [`45.156.128.177`](45.156.128.177/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-21T00:35:35Z |
+| [`45.156.128.177`](45.156.128.177/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-23T13:33:00Z |
 | [`45.156.128.178`](45.156.128.178/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T11:00:22Z |
 | [`45.156.128.179`](45.156.128.179/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-18T05:43:40Z |
 | [`45.156.128.197`](45.156.128.197/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T16:53:03Z |

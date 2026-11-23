@@ -10,7 +10,7 @@
 | [`85.155.15.10`](85.155.15.10/) | Port scanning (77) | 99 | 2026-11-23T12:29:03Z |
 | [`85.155.15.33`](85.155.15.33/) | Port scanning (16) | 30 | 2026-11-19T06:19:28Z |
 | [`85.155.15.103`](85.155.15.103/) | Port scanning (46), Known botnet / C2 infrastructure (19) | 66 | 2026-11-21T14:24:15Z |
-| [`85.155.15.106`](85.155.15.106/) | Port scanning (222) | 249 | 2026-11-23T13:15:59Z |
+| [`85.155.15.106`](85.155.15.106/) | Port scanning (224) | 251 | 2026-11-23T13:55:01Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

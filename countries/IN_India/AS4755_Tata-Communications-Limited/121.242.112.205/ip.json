@@ -5,12 +5,12 @@
   "asn": 4755,
   "asn_org": "Tata Communications Limited",
   "categories": {
-    "scan": 5,
+    "scan": 6,
     "ssh": 2,
-    "c2": 4
+    "c2": 5
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-19T11:48:02Z",
-  "last_seen": "2026-11-23T05:15:17Z",
+  "last_seen": "2026-11-23T13:26:52Z",
   "reported": "not reported (permanent ban)"
 }

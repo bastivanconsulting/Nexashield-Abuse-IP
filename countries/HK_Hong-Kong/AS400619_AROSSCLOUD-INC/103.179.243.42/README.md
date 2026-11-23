@@ -7,10 +7,10 @@
 | IP | `103.179.243.42` |
 | Country | Hong Kong (HK) |
 | ASN | AS400619 · AROSSCLOUD INC. |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (5) |
-| Events | 13 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (6) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-18T04:30:30Z |
-| Last seen (UTC) | 2026-11-23T02:59:24Z |
+| Last seen (UTC) | 2026-11-23T13:45:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `106.75.137.122` |
 | Country | China (CN) |
 | ASN | AS136958 · China Unicom Guangdong IP network |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (7) |
-| Events | 20 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (8) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-14T20:21:56Z |
-| Last seen (UTC) | 2026-11-23T05:14:48Z |
+| Last seen (UTC) | 2026-11-23T13:46:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

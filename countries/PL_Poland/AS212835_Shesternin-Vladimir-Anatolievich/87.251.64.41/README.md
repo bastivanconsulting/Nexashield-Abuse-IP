@@ -7,10 +7,10 @@
 | IP | `87.251.64.41` |
 | Country | Poland (PL) |
 | ASN | AS212835 · Shesternin Vladimir Anatolievich |
-| Activity | Port scanning (79) |
-| Events | 100 |
+| Activity | Port scanning (81) |
+| Events | 102 |
 | First seen (UTC) | 2026-11-17T04:10:10Z |
-| Last seen (UTC) | 2026-11-23T12:41:36Z |
+| Last seen (UTC) | 2026-11-23T14:03:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

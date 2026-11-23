@@ -6,11 +6,11 @@
   "asn_org": "Execulink Telecom Inc.",
   "categories": {
     "ssh": 5,
-    "c2": 5,
-    "scan": 3
+    "c2": 6,
+    "scan": 4
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-13T17:56:04Z",
-  "last_seen": "2026-11-22T14:08:48Z",
+  "last_seen": "2026-11-23T13:54:54Z",
   "reported": "not reported (permanent ban)"
 }

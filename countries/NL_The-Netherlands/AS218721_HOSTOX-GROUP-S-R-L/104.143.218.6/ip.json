@@ -1,0 +1,15 @@
+{
+  "ip": "104.143.218.6",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 218721,
+  "asn_org": "HOSTOX GROUP S.R.L.",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-20T00:48:38Z",
+  "last_seen": "2026-11-23T13:44:04Z",
+  "reported": "not reported (permanent ban)"
+}

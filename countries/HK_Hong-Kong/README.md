@@ -4,22 +4,22 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 79 | Port scanning (1953), Known botnet / C2 infrastructure (811), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 79 | Port scanning (1960), Known botnet / C2 infrastructure (815), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
 | [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (232) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (4538), Abusive HTTP requests (1035), Spamhaus DROP-listed network (289), Known botnet / C2 infrastructure (57), Web injection payload blocked by WAF (5) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 27 | Port scanning (4551), Abusive HTTP requests (1035), Spamhaus DROP-listed network (291), Known botnet / C2 infrastructure (58), Web injection payload blocked by WAF (5) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 9 | SSH brute force (177), Known botnet / C2 infrastructure (20), Port scanning (16), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (855), Known botnet / C2 infrastructure (78) |
-| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1279), Known botnet / C2 infrastructure (78), Exploitation attempt (CVE / RCE / injection) (18) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (856), Known botnet / C2 infrastructure (78) |
+| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1280), Known botnet / C2 infrastructure (79), Exploitation attempt (CVE / RCE / injection) (18) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (676), Web injection payload blocked by WAF (32) |
 | [AS138995](AS138995_Antbox-Networks-Limited/) | Antbox Networks Limited | 1 | Port scanning (9), Known botnet / C2 infrastructure (3) |
 | [AS17924](AS17924_Smartone-Mobile-communications-Limited/) | Smartone Mobile communications Limited | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (907), Abusive HTTP requests (50), Known botnet / C2 infrastructure (13) |
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (230), Known botnet / C2 infrastructure (15), Abusive HTTP requests (6) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (912), Abusive HTTP requests (50), Known botnet / C2 infrastructure (13) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (234), Known botnet / C2 infrastructure (16), Abusive HTTP requests (6) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 1 | Port scanning (41), Known botnet / C2 infrastructure (1) |
-| [AS400619](AS400619_AROSSCLOUD-INC/) | AROSSCLOUD INC. | 1 | Port scanning (6), Known botnet / C2 infrastructure (5) |
+| [AS400619](AS400619_AROSSCLOUD-INC/) | AROSSCLOUD INC. | 1 | Port scanning (7), Known botnet / C2 infrastructure (6) |
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (46), Known botnet / C2 infrastructure (6) |
-| [AS4515](AS4515_PCCW-IMS-Ltd-PCCW-Business-Internet-Access/) | PCCW IMS Ltd (PCCW Business Internet Access) | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
+| [AS4515](AS4515_PCCW-IMS-Ltd-PCCW-Business-Internet-Access/) | PCCW IMS Ltd (PCCW Business Internet Access) | 1 | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (4) |
 | [AS64079](AS64079_China-Telecom-Global-Limited/) | China Telecom Global Limited | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS9304](AS9304_HGC-Global-Communications-Limited/) | HGC Global Communications Limited | 1 | Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) |
 

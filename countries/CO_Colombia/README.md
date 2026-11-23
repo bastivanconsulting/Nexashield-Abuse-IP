@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS13489](AS13489_EPM-Telecomunicaciones-S-A-E-S-P/) | EPM Telecomunicaciones S.A. E.S.P. | 1 | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
+| [AS13489](AS13489_EPM-Telecomunicaciones-S-A-E-S-P/) | EPM Telecomunicaciones S.A. E.S.P. | 1 | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (2) |
 | [AS14080](AS14080_Telmex-Colombia-S-A/) | Telmex Colombia S.A. | 1 | Port scanning (12), Known botnet / C2 infrastructure (6) |
 
 ---

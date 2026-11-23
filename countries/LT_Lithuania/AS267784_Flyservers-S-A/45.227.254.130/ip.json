@@ -5,11 +5,12 @@
   "asn": 267784,
   "asn_org": "Flyservers S.A.",
   "categories": {
-    "exploit": 1,
+    "scan": 257,
+    "exploit": 53,
     "c2": 1
   },
-  "events": 1,
+  "events": 338,
   "first_seen": "2026-11-23T13:24:27Z",
-  "last_seen": "2026-11-23T13:24:27Z",
+  "last_seen": "2026-11-23T14:17:18Z",
   "reported": "not reported (permanent ban)"
 }

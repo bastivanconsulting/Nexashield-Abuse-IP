@@ -7,10 +7,10 @@
 | IP | `170.231.236.98` |
 | Country | Germany (DE) |
 | ASN | AS264617 · GRUPO PANAGLOBAL 15 S.A |
-| Activity | Port scanning (20), Abusive HTTP requests (4), Known botnet / C2 infrastructure (4) |
-| Events | 29 |
+| Activity | Port scanning (21), Abusive HTTP requests (4), Known botnet / C2 infrastructure (4) |
+| Events | 30 |
 | First seen (UTC) | 2026-11-12T01:06:20Z |
-| Last seen (UTC) | 2026-11-23T12:55:18Z |
+| Last seen (UTC) | 2026-11-23T13:33:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

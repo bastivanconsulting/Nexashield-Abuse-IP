@@ -7,10 +7,10 @@
 | IP | `31.184.195.246` |
 | Country | Russia (RU) |
 | ASN | AS34665 · Petersburg Internet Network ltd. |
-| Activity | Port scanning (483), Known botnet / C2 infrastructure (38) |
-| Events | 551 |
+| Activity | Port scanning (486), Known botnet / C2 infrastructure (38) |
+| Events | 554 |
 | First seen (UTC) | 2026-11-11T09:38:35Z |
-| Last seen (UTC) | 2026-11-23T13:00:02Z |
+| Last seen (UTC) | 2026-11-23T14:04:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

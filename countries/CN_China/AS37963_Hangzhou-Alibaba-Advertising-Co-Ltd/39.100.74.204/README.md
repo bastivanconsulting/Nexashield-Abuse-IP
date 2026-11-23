@@ -7,10 +7,10 @@
 | IP | `39.100.74.204` |
 | Country | China (CN) |
 | ASN | AS37963 · Hangzhou Alibaba Advertising Co.,Ltd. |
-| Activity | Port scanning (1) |
-| Events | 1 |
+| Activity | Port scanning (3) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-23T13:25:52Z |
-| Last seen (UTC) | 2026-11-23T13:25:52Z |
+| Last seen (UTC) | 2026-11-23T13:27:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

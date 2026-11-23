@@ -7,10 +7,10 @@
 | IP | `9.234.43.156` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (26), Known botnet / C2 infrastructure (8), Abusive HTTP requests (1) |
-| Events | 41 |
+| Activity | Port scanning (27), Known botnet / C2 infrastructure (9), Abusive HTTP requests (1) |
+| Events | 43 |
 | First seen (UTC) | 2026-11-11T18:13:52Z |
-| Last seen (UTC) | 2026-11-22T20:52:13Z |
+| Last seen (UTC) | 2026-11-23T13:18:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

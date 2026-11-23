@@ -7,10 +7,10 @@
 | IP | `107.189.1.154` |
 | Country | Luxembourg (LU) |
 | ASN | AS53667 · FranTech Solutions |
-| Activity | Port scanning (30) |
-| Events | 36 |
+| Activity | Port scanning (31) |
+| Events | 37 |
 | First seen (UTC) | 2026-11-11T10:43:22Z |
-| Last seen (UTC) | 2026-11-23T12:38:27Z |
+| Last seen (UTC) | 2026-11-23T13:25:01Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

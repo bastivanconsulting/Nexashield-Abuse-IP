@@ -1,0 +1,14 @@
+{
+  "ip": "77.106.74.220",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 50512,
+  "asn_org": "JSC \"ER-Telecom Holding\"",
+  "categories": {
+    "exploit": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-23T12:25:27Z",
+  "last_seen": "2026-11-23T12:25:27Z",
+  "reported": "2026-11-23T14:28:04Z"
+}

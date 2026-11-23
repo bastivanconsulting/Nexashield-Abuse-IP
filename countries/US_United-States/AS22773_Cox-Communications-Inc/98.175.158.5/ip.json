@@ -1,0 +1,15 @@
+{
+  "ip": "98.175.158.5",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 22773,
+  "asn_org": "Cox Communications Inc.",
+  "categories": {
+    "scan": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-22T10:43:43Z",
+  "last_seen": "2026-11-23T07:02:17Z",
+  "reported": "not reported (permanent ban)"
+}
