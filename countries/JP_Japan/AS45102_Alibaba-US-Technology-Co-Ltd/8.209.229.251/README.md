@@ -7,10 +7,10 @@
 | IP | `8.209.229.251` |
 | Country | Japan (JP) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (2) |
-| Events | 9 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-15T20:05:53Z |
-| Last seen (UTC) | 2026-11-22T11:10:02Z |
+| Last seen (UTC) | 2026-11-23T15:24:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

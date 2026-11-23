@@ -8,8 +8,8 @@
 | [AS211860](AS211860_Nerushenko-Vyacheslav-Nikolaevich/) | Nerushenko Vyacheslav Nikolaevich | 5 | Port scanning (175), Known botnet / C2 infrastructure (31) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (26), Known botnet / C2 infrastructure (22) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (47), Known botnet / C2 infrastructure (9) |
-| [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 2 | Port scanning (105), Abusive HTTP requests (4) |
-| [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (3) |
+| [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 2 | Port scanning (109), Abusive HTTP requests (4) |
+| [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (4) |
 | [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (596), Known botnet / C2 infrastructure (41), Abusive HTTP requests (2) |
 | [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (72), Known botnet / C2 infrastructure (42) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (10), Known botnet / C2 infrastructure (7) |
@@ -24,7 +24,7 @@
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39264](AS39264_Region-Svyaz-Konsalt-LLC/) | "Region Svyaz Konsalt" LLC | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (3) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
-| [AS42116](AS42116_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (3) |
+| [AS42116](AS42116_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (4) |
 | [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | SSH brute force (6), Known botnet / C2 infrastructure (2), Port scanning (2) |
 | [AS43132](AS43132_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) |
 | [AS48282](AS48282_Hosting-technology-LTD/) | Hosting technology LTD | 1 | Port scanning (6) |

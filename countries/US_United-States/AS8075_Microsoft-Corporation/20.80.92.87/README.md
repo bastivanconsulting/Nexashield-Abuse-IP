@@ -7,10 +7,10 @@
 | IP | `20.80.92.87` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (10) |
-| Events | 34 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (10) |
+| Events | 35 |
 | First seen (UTC) | 2026-11-11T22:08:42Z |
-| Last seen (UTC) | 2026-11-23T12:23:39Z |
+| Last seen (UTC) | 2026-11-23T15:19:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

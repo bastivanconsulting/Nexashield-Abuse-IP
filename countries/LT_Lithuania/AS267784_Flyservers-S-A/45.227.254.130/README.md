@@ -7,10 +7,10 @@
 | IP | `45.227.254.130` |
 | Country | Lithuania (LT) |
 | ASN | AS267784 · Flyservers S.A. |
-| Activity | Port scanning (318), Exploitation attempt (CVE / RCE / injection) (112), Known botnet / C2 infrastructure (1) |
-| Events | 458 |
+| Activity | Port scanning (353), Exploitation attempt (CVE / RCE / injection) (142), Known botnet / C2 infrastructure (1) |
+| Events | 523 |
 | First seen (UTC) | 2026-11-23T13:24:27Z |
-| Last seen (UTC) | 2026-11-23T15:16:39Z |
+| Last seen (UTC) | 2026-11-23T15:46:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

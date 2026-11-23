@@ -1,11 +1,11 @@
 # 🇫🇮 Finland
 
-**11** malicious IP(s) across **8** network(s).
+**12** malicious IP(s) across **8** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS1759](AS1759_Telia-Finland-Oyj/) | Telia Finland Oyj | 3 | SSH brute force (16), Known botnet / C2 infrastructure (13), Port scanning (6) |
 | [AS24940](AS24940_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 3 | Abusive HTTP requests (30), Web injection payload blocked by WAF (16), Port scanning (3), Known botnet / C2 infrastructure (3) |
-| [AS1759](AS1759_Telia-Finland-Oyj/) | Telia Finland Oyj | 2 | SSH brute force (12), Known botnet / C2 infrastructure (10), Port scanning (6) |
 | [AS199524](AS199524_G-Core-Labs-S-A/) | G-Core Labs S.A. | 1 | Port scanning (1), Known botnet / C2 infrastructure (1) |
 | [AS215590](AS215590_DpkgSoft-International-Limited/) | DpkgSoft International Limited | 1 | SSH brute force (9), Port scanning (1) |
 | [AS215730](AS215730_H2NEXUS-CLOUD-SERVICES-FZCO/) | H2NEXUS CLOUD SERVICES - FZCO | 1 | Port scanning (13), Known botnet / C2 infrastructure (4) |

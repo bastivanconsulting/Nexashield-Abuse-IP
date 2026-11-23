@@ -1,0 +1,14 @@
+{
+  "ip": "152.32.141.86",
+  "country_code": "NG",
+  "country": "Nigeria",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 2
+  },
+  "events": 1,
+  "first_seen": "2026-11-13T10:17:39Z",
+  "last_seen": "2026-11-13T10:17:39Z",
+  "reported": "not reported (permanent ban)"
+}

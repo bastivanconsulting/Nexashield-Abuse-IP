@@ -1,0 +1,15 @@
+{
+  "ip": "80.223.201.173",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 1759,
+  "asn_org": "Telia Finland Oyj",
+  "categories": {
+    "ssh": 4,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-20T18:33:07Z",
+  "last_seen": "2026-11-23T16:17:31Z",
+  "reported": "not reported (permanent ban)"
+}

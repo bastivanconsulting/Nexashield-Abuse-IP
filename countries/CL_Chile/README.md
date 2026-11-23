@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS15311](AS15311_Telefonica-Empresas/) | Telefonica Empresas | 1 | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (2) |
+| [AS15311](AS15311_Telefonica-Empresas/) | Telefonica Empresas | 1 | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (358), Web injection payload blocked by WAF (33) |
 
 ---

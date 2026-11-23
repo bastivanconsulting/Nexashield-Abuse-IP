@@ -7,10 +7,10 @@
 | IP | `51.77.180.61` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (17), Known botnet / C2 infrastructure (2) |
-| Events | 22 |
+| Activity | Port scanning (30), Known botnet / C2 infrastructure (2) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-14T14:26:50Z |
-| Last seen (UTC) | 2026-11-23T15:04:56Z |
+| Last seen (UTC) | 2026-11-23T16:17:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,15 @@
+{
+  "ip": "47.77.219.184",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 45102,
+  "asn_org": "Alibaba (US) Technology Co., Ltd.",
+  "categories": {
+    "scan": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-22T13:06:16Z",
+  "last_seen": "2026-11-23T15:46:06Z",
+  "reported": "not reported (permanent ban)"
+}

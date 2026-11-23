@@ -7,10 +7,10 @@
 | IP | `201.28.234.10` |
 | Country | Brazil (BR) |
 | ASN | AS10429 · TELEFÔNICA BRASIL S.A |
-| Activity | Known botnet / C2 infrastructure (7), SSH brute force (5), Port scanning (5) |
-| Events | 19 |
+| Activity | Known botnet / C2 infrastructure (7), Port scanning (6), SSH brute force (5) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-14T11:59:06Z |
-| Last seen (UTC) | 2026-11-23T12:40:29Z |
+| Last seen (UTC) | 2026-11-23T15:46:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

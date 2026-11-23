@@ -7,10 +7,10 @@
 | IP | `121.40.40.169` |
 | Country | China (CN) |
 | ASN | AS37963 · Hangzhou Alibaba Advertising Co.,Ltd. |
-| Activity | Port scanning (1), Known botnet / C2 infrastructure (1) |
-| Events | 1 |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (1) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-23T15:29:02Z |
-| Last seen (UTC) | 2026-11-23T15:29:02Z |
+| Last seen (UTC) | 2026-11-23T15:30:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇸🇬 Singapore · **77** malicious IP(s)
+🇸🇬 Singapore · **78** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -55,7 +55,7 @@
 | [`47.84.139.254`](47.84.139.254/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-23T12:32:19Z |
 | [`47.84.140.90`](47.84.140.90/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T16:54:06Z |
 | [`47.84.140.157`](47.84.140.157/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T02:59:04Z |
-| [`47.84.141.66`](47.84.141.66/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 16 | 2026-11-23T03:27:23Z |
+| [`47.84.141.66`](47.84.141.66/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 18 | 2026-11-23T15:18:26Z |
 | [`47.84.141.101`](47.84.141.101/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 23 | 2026-11-23T09:22:05Z |
 | [`47.84.141.126`](47.84.141.126/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T00:23:48Z |
 | [`47.84.142.92`](47.84.142.92/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T00:01:06Z |
@@ -63,6 +63,7 @@
 | [`47.84.142.249`](47.84.142.249/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T18:01:04Z |
 | [`47.84.177.15`](47.84.177.15/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T22:34:04Z |
 | [`47.84.191.52`](47.84.191.52/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T22:03:04Z |
+| [`47.84.197.66`](47.84.197.66/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-23T15:53:06Z |
 | [`47.84.198.110`](47.84.198.110/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-22T16:40:25Z |
 | [`47.84.199.160`](47.84.199.160/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-20T22:05:43Z |
 | [`47.84.200.9`](47.84.200.9/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T03:34:31Z |
