@@ -6,11 +6,11 @@
   "asn_org": "NewVM B.V.",
   "categories": {
     "scan": 1,
-    "exploit": 1,
-    "c2": 1
+    "exploit": 2,
+    "c2": 2
   },
-  "events": 4,
+  "events": 6,
   "first_seen": "2026-11-20T10:38:38Z",
-  "last_seen": "2026-11-20T20:17:04Z",
+  "last_seen": "2026-11-23T19:15:47Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `88.214.25.125` |
 | Country | Hong Kong (HK) |
 | ASN | AS35042 · Layer7 Networks GmbH |
-| Activity | Port scanning (41), Known botnet / C2 infrastructure (1) |
-| Events | 45 |
+| Activity | Port scanning (42), Known botnet / C2 infrastructure (2) |
+| Events | 47 |
 | First seen (UTC) | 2026-11-11T11:48:37Z |
-| Last seen (UTC) | 2026-11-21T03:43:20Z |
+| Last seen (UTC) | 2026-11-23T19:01:01Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,11 +5,11 @@
   "asn": 4538,
   "asn_org": "China Education and Research Network Center",
   "categories": {
-    "scan": 83,
+    "scan": 84,
     "c2": 16
   },
-  "events": 101,
+  "events": 102,
   "first_seen": "2026-11-13T04:35:29Z",
-  "last_seen": "2026-11-23T17:59:10Z",
+  "last_seen": "2026-11-23T19:04:17Z",
   "reported": "not reported (permanent ban)"
 }

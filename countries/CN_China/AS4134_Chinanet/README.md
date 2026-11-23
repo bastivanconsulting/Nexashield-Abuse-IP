@@ -21,7 +21,7 @@
 | [`121.204.100.72`](121.204.100.72/) | Port scanning (108) | 109 | 2026-11-14T21:56:40Z |
 | [`123.180.188.162`](123.180.188.162/) | SSH brute force (28), Port scanning (3) | 31 | 2026-11-23T14:09:53Z |
 | [`124.239.169.52`](124.239.169.52/) | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) | 10 | 2026-11-22T16:03:45Z |
-| [`139.202.229.204`](139.202.229.204/) | Port scanning (19), Known botnet / C2 infrastructure (7) | 31 | 2026-11-23T08:25:58Z |
+| [`139.202.229.204`](139.202.229.204/) | Port scanning (20), Known botnet / C2 infrastructure (8) | 33 | 2026-11-23T18:36:03Z |
 | [`171.216.78.113`](171.216.78.113/) | SSH brute force (15), Port scanning (1) | 16 | 2026-11-21T00:23:32Z |
 | [`171.217.70.151`](171.217.70.151/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-22T13:00:05Z |
 | [`182.105.123.10`](182.105.123.10/) | Port scanning (25), Known botnet / C2 infrastructure (14) | 41 | 2026-11-22T22:49:11Z |
@@ -33,7 +33,7 @@
 | [`218.95.73.31`](218.95.73.31/) | Known botnet / C2 infrastructure (3), Port scanning (3), SSH brute force (2) | 9 | 2026-11-22T13:54:05Z |
 | [`219.129.236.174`](219.129.236.174/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T11:28:05Z |
 | [`220.178.246.43`](220.178.246.43/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-23T01:24:04Z |
-| [`222.186.13.130`](222.186.13.130/) | Port scanning (240), Known botnet / C2 infrastructure (36) | 309 | 2026-11-23T16:54:43Z |
+| [`222.186.13.130`](222.186.13.130/) | Port scanning (241), Known botnet / C2 infrastructure (36) | 310 | 2026-11-23T18:33:18Z |
 | [`222.186.48.194`](222.186.48.194/) | Port scanning (43), Known botnet / C2 infrastructure (4) | 53 | 2026-11-22T03:03:47Z |
 | [`222.190.110.210`](222.190.110.210/) | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (2) | 12 | 2026-11-23T03:07:33Z |
 | [`222.222.124.164`](222.222.124.164/) | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) | 12 | 2026-11-23T11:40:19Z |

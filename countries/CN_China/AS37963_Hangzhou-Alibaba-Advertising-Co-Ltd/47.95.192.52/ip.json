@@ -1,0 +1,15 @@
+{
+  "ip": "47.95.192.52",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 37963,
+  "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+  "categories": {
+    "scan": 1,
+    "c2": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-23T19:18:59Z",
+  "last_seen": "2026-11-23T19:18:59Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `85.29.246.199` |
 | Country | Estonia (EE) |
 | ASN | AS3249 · Telia Eesti AS |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3) |
-| Events | 9 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-18T08:23:06Z |
-| Last seen (UTC) | 2026-11-22T17:49:05Z |
+| Last seen (UTC) | 2026-11-23T18:19:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

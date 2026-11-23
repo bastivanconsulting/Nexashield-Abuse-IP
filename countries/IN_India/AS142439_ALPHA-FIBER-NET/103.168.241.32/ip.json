@@ -1,0 +1,16 @@
+{
+  "ip": "103.168.241.32",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 142439,
+  "asn_org": "ALPHA FIBER NET",
+  "categories": {
+    "ssh": 3,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-14T05:15:23Z",
+  "last_seen": "2026-11-22T18:05:52Z",
+  "reported": "not reported (permanent ban)"
+}

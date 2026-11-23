@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇸🇬 Singapore · **79** malicious IP(s)
+🇸🇬 Singapore · **80** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -15,7 +15,7 @@
 | [`47.84.101.132`](47.84.101.132/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 15 | 2026-11-23T12:10:55Z |
 | [`47.84.101.225`](47.84.101.225/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T05:52:50Z |
 | [`47.84.102.59`](47.84.102.59/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T10:13:04Z |
-| [`47.84.102.157`](47.84.102.157/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T13:51:51Z |
+| [`47.84.102.157`](47.84.102.157/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-23T18:34:48Z |
 | [`47.84.102.180`](47.84.102.180/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-21T12:13:12Z |
 | [`47.84.106.14`](47.84.106.14/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-23T13:09:34Z |
 | [`47.84.106.109`](47.84.106.109/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T04:54:55Z |
@@ -78,6 +78,7 @@
 | [`47.84.207.3`](47.84.207.3/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-23T10:18:54Z |
 | [`47.236.157.205`](47.236.157.205/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-21T05:26:05Z |
 | [`47.236.203.85`](47.236.203.85/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-23T10:57:58Z |
+| [`47.236.204.159`](47.236.204.159/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T18:39:04Z |
 | [`47.236.228.211`](47.236.228.211/) | SSH brute force (13), Port scanning (2) | 15 | 2026-11-23T13:21:06Z |
 | [`47.237.112.21`](47.237.112.21/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-21T08:16:41Z |
 | [`47.237.118.191`](47.237.118.191/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-22T16:47:00Z |

@@ -1,0 +1,16 @@
+{
+  "ip": "103.62.238.130",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 134375,
+  "asn_org": "Fusionnet Web Services Limited",
+  "categories": {
+    "ssh": 1,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-15T05:36:35Z",
+  "last_seen": "2026-11-23T18:36:05Z",
+  "reported": "not reported (permanent ban)"
+}

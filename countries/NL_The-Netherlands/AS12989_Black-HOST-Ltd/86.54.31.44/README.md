@@ -7,10 +7,10 @@
 | IP | `86.54.31.44` |
 | Country | The Netherlands (NL) |
 | ASN | AS12989 · Black HOST Ltd |
-| Activity | Port scanning (595), Known botnet / C2 infrastructure (46) |
-| Events | 669 |
+| Activity | Port scanning (597), Known botnet / C2 infrastructure (46) |
+| Events | 671 |
 | First seen (UTC) | 2026-11-11T09:53:43Z |
-| Last seen (UTC) | 2026-11-23T17:58:17Z |
+| Last seen (UTC) | 2026-11-23T18:31:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

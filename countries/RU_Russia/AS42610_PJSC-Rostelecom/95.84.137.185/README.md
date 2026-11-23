@@ -7,10 +7,10 @@
 | IP | `95.84.137.185` |
 | Country | Russia (RU) |
 | ASN | AS42610 · PJSC Rostelecom |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (2), Port scanning (2) |
-| Events | 11 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3), Port scanning (3) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-22T14:29:28Z |
-| Last seen (UTC) | 2026-11-23T13:18:30Z |
+| Last seen (UTC) | 2026-11-23T18:25:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇲🇾 Malaysia · **69** malicious IP(s)
+🇲🇾 Malaysia · **70** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -56,7 +56,7 @@
 | [`47.250.158.4`](47.250.158.4/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-17T03:19:31Z |
 | [`47.250.158.21`](47.250.158.21/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T14:46:04Z |
 | [`47.250.172.208`](47.250.172.208/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T07:36:58Z |
-| [`47.250.174.4`](47.250.174.4/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 13 | 2026-11-23T16:16:05Z |
+| [`47.250.174.4`](47.250.174.4/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 14 | 2026-11-23T18:50:44Z |
 | [`47.250.174.174`](47.250.174.174/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-22T10:46:04Z |
 | [`47.250.178.28`](47.250.178.28/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-22T20:08:05Z |
 | [`47.250.178.53`](47.250.178.53/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T19:29:04Z |
@@ -68,6 +68,7 @@
 | [`47.254.200.51`](47.254.200.51/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-22T11:57:22Z |
 | [`47.254.201.158`](47.254.201.158/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-21T14:21:42Z |
 | [`47.254.207.105`](47.254.207.105/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 8 | 2026-11-21T10:44:00Z |
+| [`47.254.207.118`](47.254.207.118/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-23T03:51:19Z |
 | [`47.254.238.189`](47.254.238.189/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-19T10:12:39Z |
 | [`47.254.242.172`](47.254.242.172/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-22T23:17:05Z |
 | [`47.254.248.3`](47.254.248.3/) | Port scanning (10) | 16 | 2026-11-14T21:56:40Z |
