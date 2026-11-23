@@ -7,10 +7,10 @@
 | IP | `104.238.110.208` |
 | Country | United States (US) |
 | ASN | AS398101 · GoDaddy.com, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-21T07:42:26Z |
-| Last seen (UTC) | 2026-11-21T23:59:42Z |
+| Last seen (UTC) | 2026-11-23T09:53:36Z |
 | Reported to network owner (UTC) | 2026-11-21T08:27:11Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

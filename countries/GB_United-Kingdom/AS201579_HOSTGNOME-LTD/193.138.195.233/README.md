@@ -7,10 +7,10 @@
 | IP | `193.138.195.233` |
 | Country | United Kingdom (GB) |
 | ASN | AS201579 · HOSTGNOME LTD |
-| Activity | Port scanning (88), Known botnet / C2 infrastructure (24) |
-| Events | 113 |
+| Activity | Port scanning (89), Known botnet / C2 infrastructure (24) |
+| Events | 114 |
 | First seen (UTC) | 2026-11-14T06:33:08Z |
-| Last seen (UTC) | 2026-11-23T08:03:38Z |
+| Last seen (UTC) | 2026-11-23T09:43:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

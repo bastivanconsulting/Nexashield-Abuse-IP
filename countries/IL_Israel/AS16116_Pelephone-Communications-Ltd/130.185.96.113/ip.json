@@ -1,0 +1,16 @@
+{
+  "ip": "130.185.96.113",
+  "country_code": "IL",
+  "country": "Israel",
+  "asn": 16116,
+  "asn_org": "Pelephone Communications Ltd.",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 5,
+  "first_seen": "2026-11-20T19:29:29Z",
+  "last_seen": "2026-11-23T02:40:04Z",
+  "reported": "not reported (permanent ban)"
+}

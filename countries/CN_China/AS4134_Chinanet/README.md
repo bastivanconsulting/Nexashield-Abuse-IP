@@ -1,11 +1,12 @@
 # AS4134 · Chinanet
 
-🇨🇳 China · **28** malicious IP(s)
+🇨🇳 China · **29** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`49.68.125.246`](49.68.125.246/) | Port scanning (23) | 31 | 2026-11-16T01:11:02Z |
 | [`49.84.226.110`](49.84.226.110/) | SSH brute force (8), Port scanning (1) | 9 | 2026-11-17T09:11:45Z |
+| [`59.48.40.6`](59.48.40.6/) | SSH brute force (4), Known botnet / C2 infrastructure (2) | 7 | 2026-11-22T20:37:59Z |
 | [`61.146.235.54`](61.146.235.54/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-23T06:16:25Z |
 | [`61.184.128.210`](61.184.128.210/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-23T04:23:53Z |
 | [`61.191.145.123`](61.191.145.123/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T07:04:05Z |
@@ -27,7 +28,7 @@
 | [`218.92.251.198`](218.92.251.198/) | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (3) | 17 | 2026-11-22T19:50:08Z |
 | [`218.95.73.31`](218.95.73.31/) | Known botnet / C2 infrastructure (3), Port scanning (3), SSH brute force (2) | 9 | 2026-11-22T13:54:05Z |
 | [`220.178.246.43`](220.178.246.43/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-23T01:24:04Z |
-| [`222.186.13.130`](222.186.13.130/) | Port scanning (227), Known botnet / C2 infrastructure (34) | 292 | 2026-11-23T07:08:21Z |
+| [`222.186.13.130`](222.186.13.130/) | Port scanning (228), Known botnet / C2 infrastructure (35) | 294 | 2026-11-23T09:18:31Z |
 | [`222.186.48.194`](222.186.48.194/) | Port scanning (43), Known botnet / C2 infrastructure (4) | 53 | 2026-11-22T03:03:47Z |
 | [`222.190.110.210`](222.190.110.210/) | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (2) | 12 | 2026-11-23T03:07:33Z |
 | [`222.222.124.164`](222.222.124.164/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T03:39:05Z |

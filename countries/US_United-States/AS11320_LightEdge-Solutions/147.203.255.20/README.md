@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS11320 · LightEdge Solutions |
 | Activity | Exploitation attempt (CVE / RCE / injection) (13), Port scanning (9) |
-| Events | 31 |
+| Events | 34 |
 | First seen (UTC) | 2026-11-11T10:02:54Z |
-| Last seen (UTC) | 2026-11-18T17:34:36Z |
+| Last seen (UTC) | 2026-11-23T10:13:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

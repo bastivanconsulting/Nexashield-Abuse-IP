@@ -7,10 +7,10 @@
 | IP | `24.45.235.179` |
 | Country | United States (US) |
 | ASN | AS6128 · Cablevision Systems Corp. |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
-| Events | 12 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-18T07:26:28Z |
-| Last seen (UTC) | 2026-11-22T16:15:28Z |
+| Last seen (UTC) | 2026-11-23T09:24:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

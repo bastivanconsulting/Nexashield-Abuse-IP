@@ -7,10 +7,10 @@
 | IP | `80.223.163.253` |
 | Country | Finland (FI) |
 | ASN | AS1759 · Telia Finland Oyj |
-| Activity | SSH brute force (7), Known botnet / C2 infrastructure (4), Port scanning (1) |
-| Events | 13 |
+| Activity | SSH brute force (7), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-19T02:47:01Z |
-| Last seen (UTC) | 2026-11-23T06:22:31Z |
+| Last seen (UTC) | 2026-11-23T10:09:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

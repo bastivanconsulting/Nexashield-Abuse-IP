@@ -6,10 +6,10 @@
   "asn_org": "Aussie Fibre Pty Ltd",
   "categories": {
     "c2": 5,
-    "scan": 2
+    "scan": 3
   },
-  "events": 11,
+  "events": 12,
   "first_seen": "2026-11-14T04:42:47Z",
-  "last_seen": "2026-11-23T08:17:48Z",
+  "last_seen": "2026-11-23T09:33:55Z",
   "reported": "not reported (permanent ban)"
 }

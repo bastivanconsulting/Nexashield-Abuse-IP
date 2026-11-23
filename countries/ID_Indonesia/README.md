@@ -7,7 +7,7 @@
 | [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (50) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | Port scanning (59), Known botnet / C2 infrastructure (4) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (2) |
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (304), Known botnet / C2 infrastructure (72) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (305), Known botnet / C2 infrastructure (72) |
 | [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 2 | Port scanning (70), Known botnet / C2 infrastructure (3) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (67) |
 | [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (25), Known botnet / C2 infrastructure (8), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |

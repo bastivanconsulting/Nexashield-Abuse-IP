@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 14 | Known botnet / C2 infrastructure (58), SSH brute force (56), Port scanning (42) |
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 14 | Known botnet / C2 infrastructure (59), SSH brute force (56), Port scanning (45) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 10 | Known botnet / C2 infrastructure (48), SSH brute force (46), Port scanning (37) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (111), Known botnet / C2 infrastructure (32) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1171), Known botnet / C2 infrastructure (107), Exploitation attempt (CVE / RCE / injection) (58) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | Port scanning (463), Known botnet / C2 infrastructure (23), SSH brute force (11) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1176), Known botnet / C2 infrastructure (108), Exploitation attempt (CVE / RCE / injection) (58) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | Port scanning (467), Known botnet / C2 infrastructure (24), SSH brute force (11) |
 | [AS7738](AS7738_V-tal/) | V tal | 5 | Known botnet / C2 infrastructure (25), Port scanning (22), SSH brute force (18) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
