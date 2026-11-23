@@ -7,10 +7,10 @@
 | IP | `103.147.248.23` |
 | Country | India (IN) |
 | ASN | AS153283 · Softcrop It |
-| Activity | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
-| Events | 7 |
+| Activity | Known botnet / C2 infrastructure (3), Port scanning (3), SSH brute force (1) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-14T17:11:26Z |
-| Last seen (UTC) | 2026-11-23T02:02:04Z |
+| Last seen (UTC) | 2026-11-23T07:18:11Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

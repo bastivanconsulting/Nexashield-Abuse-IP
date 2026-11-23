@@ -22,8 +22,8 @@
 | [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
-| [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
-| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (3), Port scanning (3), SSH brute force (1) |
+| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2), Port scanning (1) |
 | [AS55836](AS55836_Reliance-Jio-Infocomm-Limited/) | Reliance Jio Infocomm Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |

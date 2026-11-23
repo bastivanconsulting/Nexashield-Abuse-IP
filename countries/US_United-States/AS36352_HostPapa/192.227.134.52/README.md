@@ -7,10 +7,10 @@
 | IP | `192.227.134.52` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Port scanning (31), Known botnet / C2 infrastructure (9), Abusive HTTP requests (2) |
-| Events | 43 |
+| Activity | Port scanning (32), Known botnet / C2 infrastructure (10), Abusive HTTP requests (2) |
+| Events | 45 |
 | First seen (UTC) | 2026-11-16T04:59:44Z |
-| Last seen (UTC) | 2026-11-23T04:11:22Z |
+| Last seen (UTC) | 2026-11-23T07:26:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

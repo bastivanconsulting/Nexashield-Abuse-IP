@@ -1,0 +1,15 @@
+{
+  "ip": "36.64.36.101",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 7713,
+  "asn_org": "Telekomunikasi Indonesia (PT)",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-22T08:44:55Z",
+  "last_seen": "2026-11-23T00:19:44Z",
+  "reported": "not reported (permanent ban)"
+}

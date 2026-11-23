@@ -6,10 +6,11 @@
   "asn_org": "Telia Company AB",
   "categories": {
     "ssh": 7,
-    "c2": 2
+    "c2": 3,
+    "scan": 1
   },
-  "events": 9,
+  "events": 12,
   "first_seen": "2026-11-18T06:47:47Z",
-  "last_seen": "2026-11-21T14:15:24Z",
+  "last_seen": "2026-11-23T07:29:06Z",
   "reported": "not reported (permanent ban)"
 }

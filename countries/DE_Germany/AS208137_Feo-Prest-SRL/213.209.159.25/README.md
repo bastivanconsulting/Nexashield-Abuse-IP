@@ -7,10 +7,10 @@
 | IP | `213.209.159.25` |
 | Country | Germany (DE) |
 | ASN | AS208137 · Feo Prest SRL |
-| Activity | Port scanning (296), Known botnet / C2 infrastructure (19) |
-| Events | 334 |
+| Activity | Port scanning (298), Known botnet / C2 infrastructure (20) |
+| Events | 337 |
 | First seen (UTC) | 2026-11-11T09:58:17Z |
-| Last seen (UTC) | 2026-11-23T06:57:49Z |
+| Last seen (UTC) | 2026-11-23T07:57:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

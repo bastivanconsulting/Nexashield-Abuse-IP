@@ -6,11 +6,11 @@
   "asn_org": "HostPapa",
   "categories": {
     "web": 2,
-    "scan": 31,
-    "c2": 9
+    "scan": 32,
+    "c2": 10
   },
-  "events": 43,
+  "events": 45,
   "first_seen": "2026-11-16T04:59:44Z",
-  "last_seen": "2026-11-23T04:11:22Z",
+  "last_seen": "2026-11-23T07:26:46Z",
   "reported": "not reported (permanent ban)"
 }
