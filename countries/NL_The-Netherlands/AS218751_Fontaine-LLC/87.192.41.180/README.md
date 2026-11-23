@@ -7,8 +7,8 @@
 | IP | `87.192.41.180` |
 | Country | The Netherlands (NL) |
 | ASN | AS218751 · Fontaine, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-22T06:43:38Z |
 | Last seen (UTC) | 2026-11-22T06:43:38Z |
 | Reported to network owner (UTC) | 2026-11-22T08:27:42Z |

@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`115.190.62.199`](115.190.62.199/) | SSH brute force (24), Port scanning (2) | 26 | 2026-11-22T10:38:37Z |
+| [`115.190.62.199`](115.190.62.199/) | SSH brute force (12), Port scanning (1) | 13 | 2026-11-22T10:38:37Z |
 | [`115.190.211.111`](115.190.211.111/) | Exploitation attempt (CVE / RCE / injection) (3), Web injection payload blocked by WAF (1) | 4 | 2026-11-13T09:12:38Z |
 
 ---

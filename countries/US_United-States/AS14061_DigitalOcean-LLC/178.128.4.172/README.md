@@ -7,8 +7,8 @@
 | IP | `178.128.4.172` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-22T04:40:10Z |
 | Last seen (UTC) | 2026-11-22T04:40:10Z |
 | Reported to network owner (UTC) | 2026-11-22T06:27:03Z |

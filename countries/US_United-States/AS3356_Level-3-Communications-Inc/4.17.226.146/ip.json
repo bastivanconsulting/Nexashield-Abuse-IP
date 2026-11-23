@@ -5,10 +5,10 @@
   "asn": 3356,
   "asn_org": "Level 3 Communications, Inc.",
   "categories": {
-    "ssh": 18,
-    "scan": 2
+    "ssh": 9,
+    "scan": 1
   },
-  "events": 20,
+  "events": 10,
   "first_seen": "2026-11-22T17:14:00Z",
   "last_seen": "2026-11-22T17:14:30Z",
   "reported": "2026-11-22T18:27:10Z"

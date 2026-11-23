@@ -7,8 +7,8 @@
 | IP | `167.172.29.111` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-22T08:37:56Z |
 | Last seen (UTC) | 2026-11-22T08:37:56Z |
 | Reported to network owner (UTC) | 2026-11-22T10:27:04Z |

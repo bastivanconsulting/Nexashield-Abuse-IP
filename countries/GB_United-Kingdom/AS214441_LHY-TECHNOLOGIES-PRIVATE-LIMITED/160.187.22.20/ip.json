@@ -5,10 +5,10 @@
   "asn": 214441,
   "asn_org": "LHY TECHNOLOGIES PRIVATE LIMITED",
   "categories": {
-    "web": 5,
-    "exploit": 12
+    "web": 3,
+    "exploit": 8
   },
-  "events": 17,
+  "events": 11,
   "first_seen": "2026-11-21T13:48:07Z",
   "last_seen": "2026-11-22T09:40:26Z",
   "reported": "2026-11-21T14:27:22Z"

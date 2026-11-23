@@ -7,8 +7,8 @@
 | IP | `153.75.91.198` |
 | Country | United States (US) |
 | ASN | AS14956 · RouterHosting LLC |
-| Activity | Abusive HTTP requests (7) |
-| Events | 7 |
+| Activity | Abusive HTTP requests (5) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-20T04:20:54Z |
 | Last seen (UTC) | 2026-11-22T10:06:32Z |
 | Reported to network owner (UTC) | 2026-11-22T10:27:18Z |

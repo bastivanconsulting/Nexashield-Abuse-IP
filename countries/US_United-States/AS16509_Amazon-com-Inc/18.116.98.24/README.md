@@ -7,8 +7,8 @@
 | IP | `18.116.98.24` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Abusive HTTP requests (296), Web injection payload blocked by WAF (20) |
-| Events | 316 |
+| Activity | Abusive HTTP requests (148), Web injection payload blocked by WAF (10) |
+| Events | 158 |
 | First seen (UTC) | 2026-11-22T15:02:35Z |
 | Last seen (UTC) | 2026-11-22T15:03:06Z |
 | Reported to network owner (UTC) | 2026-11-22T16:26:48Z |

@@ -1,12 +1,13 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇧🇷 Brazil · **5** malicious IP(s)
+🇧🇷 Brazil · **6** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`118.26.105.52`](118.26.105.52/) | Port scanning (33) | 46 | 2026-11-20T02:09:49Z |
-| [`152.32.197.12`](152.32.197.12/) | Port scanning (15), Known botnet / C2 infrastructure (7) | 27 | 2026-11-22T22:20:25Z |
+| [`152.32.197.12`](152.32.197.12/) | Port scanning (16), Known botnet / C2 infrastructure (7) | 28 | 2026-11-23T00:13:22Z |
 | [`152.32.199.20`](152.32.199.20/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 15 | 2026-11-22T19:40:28Z |
+| [`152.32.199.33`](152.32.199.33/) | Port scanning (8), Known botnet / C2 infrastructure (1) | 14 | 2026-11-19T06:29:08Z |
 | [`152.32.199.73`](152.32.199.73/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 19 | 2026-11-22T20:56:47Z |
 | [`152.32.200.117`](152.32.200.117/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-22T17:02:50Z |
 

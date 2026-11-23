@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (54) |
+| [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (46) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | Port scanning (55), Known botnet / C2 infrastructure (3) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (2) |
 | [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (295), Known botnet / C2 infrastructure (69) |
@@ -16,7 +16,7 @@
 | [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | SSH brute force (16), Port scanning (1) |
-| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (58) |
+| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 1 | Port scanning (61) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

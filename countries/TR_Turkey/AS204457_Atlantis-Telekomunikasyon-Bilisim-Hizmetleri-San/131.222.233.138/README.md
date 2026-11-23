@@ -7,8 +7,8 @@
 | IP | `131.222.233.138` |
 | Country | Turkey (TR) |
 | ASN | AS204457 · Atlantis Telekomunikasyon Bilisim Hizmetleri San. ve Tic. Ltd. Sti. |
-| Activity | Web injection payload blocked by WAF (4) |
-| Events | 4 |
+| Activity | Web injection payload blocked by WAF (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-22T11:22:34Z |
 | Last seen (UTC) | 2026-11-22T11:22:36Z |
 | Reported to network owner (UTC) | 2026-11-22T12:27:47Z |

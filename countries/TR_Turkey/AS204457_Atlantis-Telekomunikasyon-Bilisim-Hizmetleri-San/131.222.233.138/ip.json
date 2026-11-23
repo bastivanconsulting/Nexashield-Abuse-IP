@@ -5,9 +5,9 @@
   "asn": 204457,
   "asn_org": "Atlantis Telekomunikasyon Bilisim Hizmetleri San. ve Tic. Ltd. Sti.",
   "categories": {
-    "waf": 4
+    "waf": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-22T11:22:34Z",
   "last_seen": "2026-11-22T11:22:36Z",
   "reported": "2026-11-22T12:27:47Z"

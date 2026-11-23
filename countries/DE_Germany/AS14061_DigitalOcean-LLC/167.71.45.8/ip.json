@@ -5,9 +5,9 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-    "exploit": 6
+    "exploit": 3
   },
-  "events": 6,
+  "events": 3,
   "first_seen": "2026-11-22T07:11:35Z",
   "last_seen": "2026-11-22T07:11:35Z",
   "reported": "2026-11-22T08:27:38Z"

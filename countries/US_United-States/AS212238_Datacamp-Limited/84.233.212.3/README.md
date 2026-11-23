@@ -7,8 +7,8 @@
 | IP | `84.233.212.3` |
 | Country | United States (US) |
 | ASN | AS212238 · Datacamp Limited |
-| Activity | Abusive HTTP requests (84) |
-| Events | 84 |
+| Activity | Abusive HTTP requests (42) |
+| Events | 42 |
 | First seen (UTC) | 2026-11-22T09:44:32Z |
 | Last seen (UTC) | 2026-11-22T09:45:10Z |
 | Reported to network owner (UTC) | 2026-11-22T10:27:14Z |

@@ -7,8 +7,8 @@
 | IP | `103.82.120.110` |
 | Country | Pakistan (PK) |
 | ASN | AS141342 · FIBERISH (PVT) LTD |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (2) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-22T21:01:18Z |
 | Last seen (UTC) | 2026-11-22T21:01:18Z |
 | Reported to network owner (UTC) | 2026-11-22T22:27:37Z |

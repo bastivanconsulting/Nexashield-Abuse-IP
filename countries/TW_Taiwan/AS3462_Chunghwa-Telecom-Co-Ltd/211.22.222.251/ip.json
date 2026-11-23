@@ -5,12 +5,12 @@
   "asn": 3462,
   "asn_org": "Chunghwa Telecom Co., Ltd.",
   "categories": {
-    "scan": 2,
+    "scan": 3,
     "c2": 3,
     "ssh": 2
   },
-  "events": 8,
+  "events": 9,
   "first_seen": "2026-11-22T02:07:53Z",
-  "last_seen": "2026-11-22T22:45:05Z",
+  "last_seen": "2026-11-23T00:06:44Z",
   "reported": "not reported (permanent ban)"
 }

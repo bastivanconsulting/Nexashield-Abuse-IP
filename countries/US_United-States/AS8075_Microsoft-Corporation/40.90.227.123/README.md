@@ -7,10 +7,10 @@
 | IP | `40.90.227.123` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (11), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 22 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-14T11:56:06Z |
-| Last seen (UTC) | 2026-11-22T20:38:29Z |
+| Last seen (UTC) | 2026-11-23T00:10:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,8 +7,8 @@
 | IP | `149.34.50.136` |
 | Country | United States (US) |
 | ASN | AS3132 · Red Cientifica Peruana |
-| Activity | Abusive HTTP requests (202) |
-| Events | 202 |
+| Activity | Abusive HTTP requests (101) |
+| Events | 101 |
 | First seen (UTC) | 2026-11-22T00:27:26Z |
 | Last seen (UTC) | 2026-11-22T00:28:50Z |
 | Reported to network owner (UTC) | 2026-11-22T02:26:57Z |

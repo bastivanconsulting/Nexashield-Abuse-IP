@@ -1,6 +1,6 @@
 # AS10429 · TELEFÔNICA BRASIL S.A
 
-🇧🇷 Brazil · **11** malicious IP(s)
+🇧🇷 Brazil · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,6 +13,7 @@
 | [`187.93.51.46`](187.93.51.46/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) | 11 | 2026-11-21T02:11:15Z |
 | [`187.93.68.178`](187.93.68.178/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) | 11 | 2026-11-22T17:12:28Z |
 | [`189.56.195.78`](189.56.195.78/) | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (4) | 17 | 2026-11-22T12:37:35Z |
+| [`200.232.114.71`](200.232.114.71/) | SSH brute force (2), Known botnet / C2 infrastructure (2), Port scanning (2) | 7 | 2026-11-22T03:53:21Z |
 | [`201.28.234.10`](201.28.234.10/) | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (4) | 17 | 2026-11-22T23:11:03Z |
 | [`201.63.138.70`](201.63.138.70/) | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) | 10 | 2026-11-22T07:51:57Z |
 

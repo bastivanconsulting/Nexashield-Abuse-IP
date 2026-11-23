@@ -5,9 +5,9 @@
   "asn": 4837,
   "asn_org": "CHINA UNICOM China169 Backbone",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-22T06:15:56Z",
   "last_seen": "2026-11-22T06:15:56Z",
   "reported": "2026-11-22T06:27:08Z"

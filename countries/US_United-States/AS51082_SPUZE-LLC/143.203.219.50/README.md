@@ -7,11 +7,11 @@
 | IP | `143.203.219.50` |
 | Country | United States (US) |
 | ASN | AS51082 · SPUZE LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (1), Port scanning (1) |
-| Events | 3 |
+| Activity | Known botnet / C2 infrastructure (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-22T23:15:15Z |
-| Last seen (UTC) | 2026-11-22T23:16:04Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-22T23:15:15Z |
+| Reported to network owner (UTC) | 2026-11-23T00:27:22Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

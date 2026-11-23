@@ -7,8 +7,8 @@
 | IP | `134.122.96.233` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-22T07:44:12Z |
 | Last seen (UTC) | 2026-11-22T07:44:12Z |
 | Reported to network owner (UTC) | 2026-11-22T08:27:38Z |

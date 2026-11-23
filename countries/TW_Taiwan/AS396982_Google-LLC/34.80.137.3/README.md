@@ -7,8 +7,8 @@
 | IP | `34.80.137.3` |
 | Country | Taiwan (TW) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (6) |
-| Events | 6 |
+| Activity | Abusive HTTP requests (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-20T08:08:32Z |
 | Last seen (UTC) | 2026-11-22T02:43:13Z |
 | Reported to network owner (UTC) | 2026-11-22T04:27:42Z |

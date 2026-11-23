@@ -1,14 +1,14 @@
 # 🇧🇷 Brazil
 
-**63** malicious IP(s) across **23** network(s).
+**65** malicious IP(s) across **23** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 11 | Known botnet / C2 infrastructure (46), SSH brute force (46), Port scanning (32) |
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 12 | Known botnet / C2 infrastructure (48), SSH brute force (48), Port scanning (34) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 10 | SSH brute force (46), Known botnet / C2 infrastructure (43), Port scanning (25) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1137), Known botnet / C2 infrastructure (103), Exploitation attempt (CVE / RCE / injection) (58) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (77), Known botnet / C2 infrastructure (25) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | Port scanning (438), Known botnet / C2 infrastructure (21), SSH brute force (11) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1138), Known botnet / C2 infrastructure (103), Exploitation attempt (CVE / RCE / injection) (58) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (86), Known botnet / C2 infrastructure (26) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 5 | Port scanning (439), Known botnet / C2 infrastructure (21), SSH brute force (11) |
 | [AS7738](AS7738_V-tal/) | V tal | 5 | Known botnet / C2 infrastructure (22), SSH brute force (18), Port scanning (16) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |

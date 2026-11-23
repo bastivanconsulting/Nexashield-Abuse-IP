@@ -7,8 +7,8 @@
 | IP | `187.7.68.35` |
 | Country | Germany (DE) |
 | ASN | AS47583 · Hostinger International Limited |
-| Activity | Abusive HTTP requests (8) |
-| Events | 8 |
+| Activity | Abusive HTTP requests (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-22T17:45:51Z |
 | Last seen (UTC) | 2026-11-22T17:49:19Z |
 | Reported to network owner (UTC) | 2026-11-22T18:27:15Z |

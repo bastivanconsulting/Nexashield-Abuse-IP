@@ -7,8 +7,8 @@
 | IP | `172.104.233.215` |
 | Country | Germany (DE) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (5) |
-| Events | 5 |
+| Activity | Port scanning (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-11T14:57:50Z |
 | Last seen (UTC) | 2026-11-22T21:21:25Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:39Z |

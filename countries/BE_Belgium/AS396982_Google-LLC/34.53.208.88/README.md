@@ -7,8 +7,8 @@
 | IP | `34.53.208.88` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (372), Web injection payload blocked by WAF (8) |
-| Events | 380 |
+| Activity | Abusive HTTP requests (186), Web injection payload blocked by WAF (4) |
+| Events | 190 |
 | First seen (UTC) | 2026-11-22T06:05:55Z |
 | Last seen (UTC) | 2026-11-22T06:06:07Z |
 | Reported to network owner (UTC) | 2026-11-22T08:27:33Z |

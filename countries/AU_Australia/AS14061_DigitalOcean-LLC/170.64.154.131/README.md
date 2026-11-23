@@ -7,8 +7,8 @@
 | IP | `170.64.154.131` |
 | Country | Australia (AU) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (6), Abusive HTTP requests (5) |
-| Events | 11 |
+| Activity | Port scanning (4), Abusive HTTP requests (3) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-19T18:32:13Z |
 | Last seen (UTC) | 2026-11-22T02:37:43Z |
 | Reported to network owner (UTC) | 2026-11-22T04:27:37Z |
