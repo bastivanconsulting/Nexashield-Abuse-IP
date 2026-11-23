@@ -1,0 +1,14 @@
+{
+  "ip": "84.32.190.87",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 59642,
+  "asn_org": "UAB Cherry Servers",
+  "categories": {
+    "scan": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-23T14:36:05Z",
+  "last_seen": "2026-11-23T14:37:05Z",
+  "reported": "not reported (permanent ban)"
+}

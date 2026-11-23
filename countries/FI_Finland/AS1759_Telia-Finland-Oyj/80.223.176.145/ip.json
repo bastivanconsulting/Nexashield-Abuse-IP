@@ -6,11 +6,11 @@
   "asn_org": "Telia Finland Oyj",
   "categories": {
     "ssh": 5,
-    "c2": 5,
-    "scan": 3
+    "c2": 6,
+    "scan": 4
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-13T05:41:45Z",
-  "last_seen": "2026-11-22T14:45:58Z",
+  "last_seen": "2026-11-23T14:25:59Z",
   "reported": "not reported (permanent ban)"
 }

@@ -5,11 +5,11 @@
   "asn": 31898,
   "asn_org": "Oracle Corporation",
   "categories": {
-    "scan": 5,
-    "c2": 5
+    "scan": 6,
+    "c2": 6
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-12T01:16:41Z",
-  "last_seen": "2026-11-21T02:01:01Z",
+  "last_seen": "2026-11-23T15:12:20Z",
   "reported": "not reported (permanent ban)"
 }

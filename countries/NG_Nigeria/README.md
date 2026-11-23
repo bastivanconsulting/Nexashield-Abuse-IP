@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 14 | Port scanning (253), Known botnet / C2 infrastructure (107) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 14 | Port scanning (255), Known botnet / C2 infrastructure (109) |
 | [AS37540](AS37540_Winrock-Nigeria-Limited/) | Winrock Nigeria Limited | 2 | Port scanning (50), Known botnet / C2 infrastructure (20), SSH brute force (9) |
 
 ---

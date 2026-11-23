@@ -19,7 +19,7 @@
 | [`152.32.183.27`](152.32.183.27/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-23T11:58:09Z |
 | [`152.32.205.193`](152.32.205.193/) | Port scanning (20), Known botnet / C2 infrastructure (10) | 32 | 2026-11-21T04:33:21Z |
 | [`152.32.205.206`](152.32.205.206/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 35 | 2026-11-23T09:46:03Z |
-| [`152.32.206.51`](152.32.206.51/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-22T19:25:12Z |
+| [`152.32.206.51`](152.32.206.51/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-23T14:37:11Z |
 | [`152.32.206.74`](152.32.206.74/) | Port scanning (34), Known botnet / C2 infrastructure (17) | 52 | 2026-11-23T13:45:45Z |
 | [`152.32.206.246`](152.32.206.246/) | Port scanning (19), Known botnet / C2 infrastructure (9) | 31 | 2026-11-22T21:13:03Z |
 | [`152.32.207.21`](152.32.207.21/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-22T18:25:51Z |
@@ -51,7 +51,7 @@
 | [`165.154.135.215`](165.154.135.215/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-18T11:13:06Z |
 | [`165.154.162.102`](165.154.162.102/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T05:27:30Z |
 | [`165.154.163.10`](165.154.163.10/) | Port scanning (165), Known botnet / C2 infrastructure (27) | 213 | 2026-11-23T13:57:31Z |
-| [`165.154.172.108`](165.154.172.108/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-22T04:59:22Z |
+| [`165.154.172.108`](165.154.172.108/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 15 | 2026-11-23T14:36:10Z |
 | [`165.154.172.111`](165.154.172.111/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 27 | 2026-11-20T22:13:51Z |
 | [`165.154.172.200`](165.154.172.200/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-21T10:42:28Z |
 | [`165.154.172.244`](165.154.172.244/) | Port scanning (29), Known botnet / C2 infrastructure (20) | 50 | 2026-11-23T13:48:48Z |

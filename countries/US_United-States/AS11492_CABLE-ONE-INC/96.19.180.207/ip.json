@@ -1,0 +1,15 @@
+{
+  "ip": "96.19.180.207",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 11492,
+  "asn_org": "CABLE ONE, INC.",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-21T02:47:45Z",
+  "last_seen": "2026-11-23T14:50:05Z",
+  "reported": "not reported (permanent ban)"
+}

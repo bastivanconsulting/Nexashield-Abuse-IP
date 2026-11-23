@@ -7,10 +7,10 @@
 | IP | `140.238.153.39` |
 | Country | Canada (CA) |
 | ASN | AS31898 · Oracle Corporation |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (5) |
-| Events | 11 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (6) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-12T01:16:41Z |
-| Last seen (UTC) | 2026-11-21T02:01:01Z |
+| Last seen (UTC) | 2026-11-23T15:12:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `64.89.160.111` |
 | Country | Seychelles (SC) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Port scanning (38) |
-| Events | 39 |
+| Activity | Port scanning (39) |
+| Events | 40 |
 | First seen (UTC) | 2026-11-18T06:22:01Z |
-| Last seen (UTC) | 2026-11-23T08:42:46Z |
+| Last seen (UTC) | 2026-11-23T14:33:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

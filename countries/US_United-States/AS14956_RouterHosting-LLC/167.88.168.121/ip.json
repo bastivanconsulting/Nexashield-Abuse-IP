@@ -1,0 +1,15 @@
+{
+  "ip": "167.88.168.121",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 14956,
+  "asn_org": "RouterHosting LLC",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-21T12:35:30Z",
+  "last_seen": "2026-11-22T03:25:09Z",
+  "reported": "not reported (permanent ban)"
+}

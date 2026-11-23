@@ -7,10 +7,10 @@
 | IP | `90.230.115.5` |
 | Country | Sweden (SE) |
 | ASN | AS3301 · Telia Company AB |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (3) |
-| Events | 13 |
+| Activity | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-19T13:22:04Z |
-| Last seen (UTC) | 2026-11-23T05:05:37Z |
+| Last seen (UTC) | 2026-11-23T14:54:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

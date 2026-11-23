@@ -5,11 +5,11 @@
   "asn": 23724,
   "asn_org": "IDC, China Telecommunications Corporation",
   "categories": {
-    "scan": 46,
+    "scan": 47,
     "c2": 18
   },
-  "events": 75,
+  "events": 76,
   "first_seen": "2026-11-11T20:50:03Z",
-  "last_seen": "2026-11-23T13:25:48Z",
+  "last_seen": "2026-11-23T14:34:17Z",
   "reported": "not reported (permanent ban)"
 }

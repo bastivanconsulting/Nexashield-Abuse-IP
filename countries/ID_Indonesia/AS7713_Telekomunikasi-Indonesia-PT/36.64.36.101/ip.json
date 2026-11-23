@@ -5,11 +5,11 @@
   "asn": 7713,
   "asn_org": "Telekomunikasi Indonesia (PT)",
   "categories": {
-    "scan": 3,
-    "c2": 3
+    "scan": 4,
+    "c2": 4
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-22T08:44:55Z",
-  "last_seen": "2026-11-23T08:23:04Z",
+  "last_seen": "2026-11-23T14:54:30Z",
   "reported": "not reported (permanent ban)"
 }
