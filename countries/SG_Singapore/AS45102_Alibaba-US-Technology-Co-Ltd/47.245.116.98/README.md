@@ -8,9 +8,9 @@
 | Country | Singapore (SG) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
 | Activity | Port scanning (3), Known botnet / C2 infrastructure (3) |
-| Events | 6 |
+| Events | 7 |
 | First seen (UTC) | 2026-11-17T05:50:39Z |
-| Last seen (UTC) | 2026-11-23T12:17:33Z |
+| Last seen (UTC) | 2026-11-23T12:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

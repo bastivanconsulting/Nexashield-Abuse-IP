@@ -1,0 +1,16 @@
+{
+  "ip": "103.93.37.178",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 136323,
+  "asn_org": "Ngc Broadband Pvt. Ltd.",
+  "categories": {
+    "scan": 5,
+    "c2": 3,
+    "ssh": 2
+  },
+  "events": 11,
+  "first_seen": "2026-11-21T20:51:15Z",
+  "last_seen": "2026-11-23T13:16:04Z",
+  "reported": "not reported (permanent ban)"
+}

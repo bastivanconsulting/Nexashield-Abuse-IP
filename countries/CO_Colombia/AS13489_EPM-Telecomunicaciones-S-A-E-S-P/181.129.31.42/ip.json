@@ -1,0 +1,16 @@
+{
+  "ip": "181.129.31.42",
+  "country_code": "CO",
+  "country": "Colombia",
+  "asn": 13489,
+  "asn_org": "EPM Telecomunicaciones S.A. E.S.P.",
+  "categories": {
+    "ssh": 3,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 10,
+  "first_seen": "2026-11-20T06:47:04Z",
+  "last_seen": "2026-11-23T12:49:06Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -8,9 +8,9 @@
 | Country | United Arab Emirates (AE) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
 | Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
-| Events | 9 |
+| Events | 10 |
 | First seen (UTC) | 2026-11-17T13:15:10Z |
-| Last seen (UTC) | 2026-11-23T12:17:03Z |
+| Last seen (UTC) | 2026-11-23T12:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

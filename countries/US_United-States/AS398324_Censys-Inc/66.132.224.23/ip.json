@@ -6,11 +6,11 @@
   "asn_org": "Censys, Inc.",
   "categories": {
     "exploit": 3,
-    "c2": 17,
-    "scan": 60
+    "c2": 18,
+    "scan": 61
   },
-  "events": 87,
+  "events": 89,
   "first_seen": "2026-11-12T04:15:35Z",
-  "last_seen": "2026-11-23T10:16:32Z",
+  "last_seen": "2026-11-23T12:55:48Z",
   "reported": "not reported (permanent ban)"
 }

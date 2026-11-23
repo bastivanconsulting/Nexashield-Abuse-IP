@@ -1,0 +1,16 @@
+{
+  "ip": "92.251.124.73",
+  "country_code": "MT",
+  "country": "Malta",
+  "asn": 12709,
+  "asn_org": "Melita Limited",
+  "categories": {
+    "ssh": 2,
+    "c2": 3,
+    "scan": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-21T11:06:11Z",
+  "last_seen": "2026-11-23T12:50:06Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,16 @@
+{
+  "ip": "182.156.35.238",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 45820,
+  "asn_org": "TTSL-ISP DIVISION",
+  "categories": {
+    "ssh": 3,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T01:29:34Z",
+  "last_seen": "2026-11-23T13:15:04Z",
+  "reported": "not reported (permanent ban)"
+}

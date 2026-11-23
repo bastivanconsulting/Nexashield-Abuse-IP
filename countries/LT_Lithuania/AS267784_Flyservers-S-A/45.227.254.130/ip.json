@@ -1,0 +1,15 @@
+{
+  "ip": "45.227.254.130",
+  "country_code": "LT",
+  "country": "Lithuania",
+  "asn": 267784,
+  "asn_org": "Flyservers S.A.",
+  "categories": {
+    "exploit": 1,
+    "c2": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-23T13:24:27Z",
+  "last_seen": "2026-11-23T13:24:27Z",
+  "reported": "not reported (permanent ban)"
+}

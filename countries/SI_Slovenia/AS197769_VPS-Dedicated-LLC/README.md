@@ -5,15 +5,15 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`31.57.37.64`](31.57.37.64/) | Port scanning (134), Known botnet / C2 infrastructure (8) | 158 | 2026-11-22T16:33:36Z |
-| [`31.57.37.175`](31.57.37.175/) | Port scanning (105), Known botnet / C2 infrastructure (12) | 122 | 2026-11-23T12:04:32Z |
+| [`31.57.37.175`](31.57.37.175/) | Port scanning (106), Known botnet / C2 infrastructure (12) | 123 | 2026-11-23T13:16:46Z |
 | [`31.57.37.176`](31.57.37.176/) | Port scanning (183) | 198 | 2026-11-22T15:09:41Z |
 | [`31.57.37.177`](31.57.37.177/) | Port scanning (75) | 80 | 2026-11-22T15:10:45Z |
 | [`31.57.37.178`](31.57.37.178/) | Port scanning (185) | 206 | 2026-11-22T14:48:16Z |
 | [`31.57.184.238`](31.57.184.238/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T22:34:05Z |
 | [`102.220.161.61`](102.220.161.61/) | Port scanning (45), Known botnet / C2 infrastructure (11) | 57 | 2026-11-14T05:37:42Z |
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 24 | 2026-11-15T16:19:53Z |
-| [`102.220.161.84`](102.220.161.84/) | Port scanning (12), SSH brute force (10), Known botnet / C2 infrastructure (9) | 32 | 2026-11-22T03:04:28Z |
-| [`102.220.161.85`](102.220.161.85/) | SSH brute force (25), Port scanning (10), Known botnet / C2 infrastructure (3) | 41 | 2026-11-14T10:18:31Z |
+| [`102.220.161.84`](102.220.161.84/) | Port scanning (14), Known botnet / C2 infrastructure (10), SSH brute force (10) | 35 | 2026-11-23T13:12:38Z |
+| [`102.220.161.85`](102.220.161.85/) | Port scanning (37), SSH brute force (25), Known botnet / C2 infrastructure (4) | 69 | 2026-11-23T13:13:24Z |
 | [`102.220.161.86`](102.220.161.86/) | SSH brute force (42), Known botnet / C2 infrastructure (7), Port scanning (4), Abusive HTTP requests (1) | 57 | 2026-11-19T22:40:23Z |
 | [`102.220.161.119`](102.220.161.119/) | Port scanning (34), SSH brute force (14), Known botnet / C2 infrastructure (6) | 56 | 2026-11-22T08:39:41Z |
 | [`102.220.161.170`](102.220.161.170/) | Port scanning (19), SSH brute force (8), Known botnet / C2 infrastructure (7) | 36 | 2026-11-18T07:49:38Z |

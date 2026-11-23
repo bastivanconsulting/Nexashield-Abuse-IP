@@ -6,10 +6,11 @@
   "asn_org": "Beanfield Technologies Inc.",
   "categories": {
     "ssh": 5,
-    "c2": 3
+    "c2": 3,
+    "scan": 1
   },
-  "events": 9,
+  "events": 10,
   "first_seen": "2026-11-17T04:38:06Z",
-  "last_seen": "2026-11-23T07:40:04Z",
+  "last_seen": "2026-11-23T13:07:12Z",
   "reported": "not reported (permanent ban)"
 }

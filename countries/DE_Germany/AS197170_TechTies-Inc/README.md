@@ -12,7 +12,7 @@
 | [`93.152.221.108`](93.152.221.108/) | Spamhaus DROP-listed network (19), SSH brute force (19), Port scanning (7) | 45 | 2026-11-22T01:21:02Z |
 | [`94.26.106.83`](94.26.106.83/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 23 | 2026-11-23T10:25:51Z |
 | [`94.26.106.224`](94.26.106.224/) | Port scanning (4), Abusive HTTP requests (3), Known botnet / C2 infrastructure (1) | 9 | 2026-11-15T04:34:04Z |
-| [`94.26.106.229`](94.26.106.229/) | Port scanning (14), Known botnet / C2 infrastructure (7) | 22 | 2026-11-23T06:28:43Z |
+| [`94.26.106.229`](94.26.106.229/) | Port scanning (15), Known botnet / C2 infrastructure (8) | 24 | 2026-11-23T12:58:22Z |
 | [`94.26.106.252`](94.26.106.252/) | SSH brute force (49), Port scanning (1) | 50 | 2026-11-14T03:00:41Z |
 
 ---

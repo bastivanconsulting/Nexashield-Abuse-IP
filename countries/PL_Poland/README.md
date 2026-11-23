@@ -4,12 +4,12 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 5 | Port scanning (802), Known botnet / C2 infrastructure (50), Abusive HTTP requests (5) |
-| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 4 | Port scanning (675), SSH brute force (27), Abusive HTTP requests (12) |
+| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 5 | Port scanning (806), Known botnet / C2 infrastructure (52), Abusive HTTP requests (5) |
+| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 4 | Port scanning (682), SSH brute force (27), Abusive HTTP requests (12) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (17), Web injection payload blocked by WAF (16), Abusive HTTP requests (6), Known botnet / C2 infrastructure (1) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 3 | Port scanning (23), Known botnet / C2 infrastructure (9) |
-| [AS212835](AS212835_Shesternin-Vladimir-Anatolievich/) | Shesternin Vladimir Anatolievich | 2 | Port scanning (112), Abusive HTTP requests (2) |
-| [AS210558](AS210558_1337-Services-GmbH/) | 1337 Services GmbH | 1 | Port scanning (41) |
+| [AS212835](AS212835_Shesternin-Vladimir-Anatolievich/) | Shesternin Vladimir Anatolievich | 2 | Port scanning (113), Abusive HTTP requests (2) |
+| [AS210558](AS210558_1337-Services-GmbH/) | 1337 Services GmbH | 1 | Port scanning (42) |
 | [AS50606](AS50606_Horyzont-Technologie-Internetowe-sp-z-o-o/) | Horyzont Technologie Internetowe sp.z.o.o. | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
 | [AS8374](AS8374_Polkomtel-Sp-z-o-o/) | Polkomtel Sp. z o.o. | 1 | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (2) |
 

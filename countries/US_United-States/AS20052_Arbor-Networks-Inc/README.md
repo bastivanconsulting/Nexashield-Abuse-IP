@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`146.88.241.20`](146.88.241.20/) | Port scanning (87), Known botnet / C2 infrastructure (20) | 111 | 2026-11-21T09:07:08Z |
 | [`146.88.241.30`](146.88.241.30/) | Port scanning (15), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (4) | 26 | 2026-11-19T15:35:18Z |
-| [`146.88.241.40`](146.88.241.40/) | Port scanning (81), Known botnet / C2 infrastructure (19), Exploitation attempt (CVE / RCE / injection) (1) | 117 | 2026-11-23T10:23:31Z |
+| [`146.88.241.40`](146.88.241.40/) | Port scanning (82), Known botnet / C2 infrastructure (19), Exploitation attempt (CVE / RCE / injection) (1) | 118 | 2026-11-23T12:25:38Z |
 | [`146.88.241.50`](146.88.241.50/) | Port scanning (65), Known botnet / C2 infrastructure (13) | 85 | 2026-11-21T12:44:08Z |
 | [`146.88.241.60`](146.88.241.60/) | Port scanning (35), Known botnet / C2 infrastructure (9), Exploitation attempt (CVE / RCE / injection) (1) | 59 | 2026-11-20T15:06:04Z |
 | [`146.88.241.70`](146.88.241.70/) | Port scanning (99), Known botnet / C2 infrastructure (23) | 134 | 2026-11-23T07:15:32Z |
@@ -16,10 +16,10 @@
 | [`146.88.241.110`](146.88.241.110/) | Port scanning (72), Known botnet / C2 infrastructure (15) | 101 | 2026-11-23T09:52:11Z |
 | [`146.88.241.120`](146.88.241.120/) | Port scanning (62), Known botnet / C2 infrastructure (7) | 84 | 2026-11-21T01:23:22Z |
 | [`146.88.241.130`](146.88.241.130/) | Port scanning (103), Known botnet / C2 infrastructure (24) | 141 | 2026-11-23T09:32:16Z |
-| [`146.88.241.140`](146.88.241.140/) | Port scanning (74), Known botnet / C2 infrastructure (17) | 98 | 2026-11-23T10:05:27Z |
+| [`146.88.241.140`](146.88.241.140/) | Port scanning (75), Known botnet / C2 infrastructure (17) | 99 | 2026-11-23T12:20:53Z |
 | [`146.88.241.150`](146.88.241.150/) | Port scanning (98), Known botnet / C2 infrastructure (21) | 121 | 2026-11-23T09:30:40Z |
 | [`146.88.241.160`](146.88.241.160/) | Port scanning (61), Known botnet / C2 infrastructure (13) | 77 | 2026-11-23T09:29:27Z |
-| [`146.88.241.170`](146.88.241.170/) | Port scanning (127), Known botnet / C2 infrastructure (23) | 164 | 2026-11-23T11:56:28Z |
+| [`146.88.241.170`](146.88.241.170/) | Port scanning (128), Known botnet / C2 infrastructure (23) | 165 | 2026-11-23T12:33:46Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

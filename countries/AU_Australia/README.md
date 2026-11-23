@@ -7,10 +7,10 @@
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 10 | Port scanning (168), Known botnet / C2 infrastructure (57), Exploitation attempt (CVE / RCE / injection) (12), Abusive HTTP requests (3) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Port scanning (24) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (211), Known botnet / C2 infrastructure (60) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Port scanning (63), Known botnet / C2 infrastructure (6) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Port scanning (66), Known botnet / C2 infrastructure (6) |
 | [AS24446](AS24446_5G-NETWORK-OPERATIONS-PTY-LTD/) | 5G NETWORK OPERATIONS PTY LTD | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS2764](AS2764_AAPT-Limited/) | AAPT Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
-| [AS4764](AS4764_Aussie-Fibre-Pty-Ltd/) | Aussie Fibre Pty Ltd | 1 | Known botnet / C2 infrastructure (5), Port scanning (3) |
+| [AS4764](AS4764_Aussie-Fibre-Pty-Ltd/) | Aussie Fibre Pty Ltd | 1 | Known botnet / C2 infrastructure (5), Port scanning (4) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (30), Known botnet / C2 infrastructure (4) |
 
 ---
