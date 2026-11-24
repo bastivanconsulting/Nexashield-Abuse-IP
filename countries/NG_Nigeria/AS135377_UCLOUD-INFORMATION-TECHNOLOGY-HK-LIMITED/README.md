@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇳🇬 Nigeria · **15** malicious IP(s)
+🇳🇬 Nigeria · **16** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`152.32.142.165`](152.32.142.165/) | Port scanning (13), Known botnet / C2 infrastructure (5) | 23 | 2026-11-23T19:25:27Z |
 | [`165.154.10.165`](165.154.10.165/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T12:11:33Z |
 | [`165.154.10.201`](165.154.10.201/) | Port scanning (32) | 49 | 2026-11-19T01:43:08Z |
+| [`165.154.10.250`](165.154.10.250/) | Port scanning (12), Known botnet / C2 infrastructure (3) | 22 | 2026-11-24T00:43:05Z |
 | [`165.154.11.37`](165.154.11.37/) | Port scanning (30), Known botnet / C2 infrastructure (15) | 46 | 2026-11-23T22:54:58Z |
 | [`165.154.11.52`](165.154.11.52/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-18T02:10:15Z |
 | [`165.154.11.149`](165.154.11.149/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-19T18:26:19Z |

@@ -1,0 +1,15 @@
+{
+  "ip": "85.99.93.205",
+  "country_code": "TR",
+  "country": "Turkey",
+  "asn": 9121,
+  "asn_org": "Turk Telekomunikasyon Anonim Sirketi",
+  "categories": {
+    "ssh": 7,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-21T12:40:43Z",
+  "last_seen": "2026-11-24T01:04:05Z",
+  "reported": "not reported (permanent ban)"
+}

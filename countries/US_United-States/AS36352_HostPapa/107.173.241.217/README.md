@@ -7,10 +7,10 @@
 | IP | `107.173.241.217` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (8) |
-| Events | 18 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (8) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-11T11:02:03Z |
-| Last seen (UTC) | 2026-11-23T20:42:22Z |
+| Last seen (UTC) | 2026-11-24T00:59:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

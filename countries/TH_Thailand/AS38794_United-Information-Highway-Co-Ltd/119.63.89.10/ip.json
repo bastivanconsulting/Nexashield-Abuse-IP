@@ -1,0 +1,14 @@
+{
+  "ip": "119.63.89.10",
+  "country_code": "TH",
+  "country": "Thailand",
+  "asn": 38794,
+  "asn_org": "United Information Highway Co.,Ltd.",
+  "categories": {
+    "scan": 3
+  },
+  "events": 4,
+  "first_seen": "2026-11-23T15:44:00Z",
+  "last_seen": "2026-11-24T01:09:05Z",
+  "reported": "not reported (permanent ban)"
+}

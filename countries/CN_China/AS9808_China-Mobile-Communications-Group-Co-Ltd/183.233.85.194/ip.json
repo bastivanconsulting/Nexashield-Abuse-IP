@@ -1,0 +1,16 @@
+{
+  "ip": "183.233.85.194",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 9808,
+  "asn_org": "China Mobile Communications Group Co., Ltd",
+  "categories": {
+    "ssh": 4,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 9,
+  "first_seen": "2026-11-21T17:05:16Z",
+  "last_seen": "2026-11-24T01:16:05Z",
+  "reported": "not reported (permanent ban)"
+}

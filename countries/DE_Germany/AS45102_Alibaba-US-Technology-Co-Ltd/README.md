@@ -59,7 +59,7 @@
 | [`47.245.139.222`](47.245.139.222/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T22:44:04Z |
 | [`47.245.141.129`](47.245.141.129/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-23T18:11:05Z |
 | [`47.245.141.134`](47.245.141.134/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T20:17:04Z |
-| [`47.245.142.158`](47.245.142.158/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-23T07:03:48Z |
+| [`47.245.142.158`](47.245.142.158/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-24T01:09:41Z |
 | [`47.245.143.11`](47.245.143.11/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-16T04:34:37Z |
 | [`47.245.143.73`](47.245.143.73/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-22T19:24:04Z |
 | [`47.245.143.74`](47.245.143.74/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T14:45:05Z |
@@ -78,7 +78,7 @@
 | [`47.254.167.143`](47.254.167.143/) | Port scanning (10), Known botnet / C2 infrastructure (9) | 20 | 2026-11-22T21:49:39Z |
 | [`47.254.171.85`](47.254.171.85/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-23T16:10:52Z |
 | [`47.254.171.212`](47.254.171.212/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-23T05:33:04Z |
-| [`47.254.172.242`](47.254.172.242/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-22T11:46:10Z |
+| [`47.254.172.242`](47.254.172.242/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-24T00:33:01Z |
 | [`47.254.173.166`](47.254.173.166/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T22:07:59Z |
 | [`47.254.177.97`](47.254.177.97/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T07:59:59Z |
 | [`47.254.177.253`](47.254.177.253/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-22T21:15:37Z |

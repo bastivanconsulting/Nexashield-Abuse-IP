@@ -6,11 +6,11 @@
   "asn_org": "EPM Telecomunicaciones S.A. E.S.P.",
   "categories": {
     "ssh": 3,
-    "c2": 3,
-    "scan": 2
+    "c2": 4,
+    "scan": 3
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-20T06:47:04Z",
-  "last_seen": "2026-11-23T14:04:10Z",
+  "last_seen": "2026-11-24T01:11:43Z",
   "reported": "not reported (permanent ban)"
 }

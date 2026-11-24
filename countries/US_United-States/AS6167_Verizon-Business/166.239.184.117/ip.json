@@ -1,0 +1,15 @@
+{
+  "ip": "166.239.184.117",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 6167,
+  "asn_org": "Verizon Business",
+  "categories": {
+    "ssh": 9,
+    "c2": 3
+  },
+  "events": 13,
+  "first_seen": "2026-11-20T04:32:59Z",
+  "last_seen": "2026-11-24T01:16:05Z",
+  "reported": "not reported (permanent ban)"
+}

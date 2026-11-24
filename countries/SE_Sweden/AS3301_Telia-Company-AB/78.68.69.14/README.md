@@ -7,10 +7,10 @@
 | IP | `78.68.69.14` |
 | Country | Sweden (SE) |
 | ASN | AS3301 · Telia Company AB |
-| Activity | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (4) |
-| Events | 15 |
+| Activity | Known botnet / C2 infrastructure (6), Port scanning (6), SSH brute force (4) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-17T21:17:22Z |
-| Last seen (UTC) | 2026-11-23T14:08:40Z |
+| Last seen (UTC) | 2026-11-24T00:28:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

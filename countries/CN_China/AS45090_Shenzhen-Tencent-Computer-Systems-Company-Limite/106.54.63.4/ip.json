@@ -1,0 +1,15 @@
+{
+  "ip": "106.54.63.4",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 45090,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-22T03:51:00Z",
+  "last_seen": "2026-11-24T00:49:05Z",
+  "reported": "not reported (permanent ban)"
+}

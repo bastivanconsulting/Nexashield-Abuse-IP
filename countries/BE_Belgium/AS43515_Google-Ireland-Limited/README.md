@@ -176,7 +176,7 @@
 | [`35.210.75.155`](35.210.75.155/) | Port scanning (18), SSH brute force (5) | 23 | 2026-11-21T16:55:44Z |
 | [`35.210.76.225`](35.210.76.225/) | Port scanning (27), Known botnet / C2 infrastructure (6) | 35 | 2026-11-19T02:44:03Z |
 | [`35.210.78.230`](35.210.78.230/) | Port scanning (20), Known botnet / C2 infrastructure (7) | 28 | 2026-11-18T08:59:21Z |
-| [`35.210.82.106`](35.210.82.106/) | Port scanning (121), Known botnet / C2 infrastructure (14) | 136 | 2026-11-23T23:11:12Z |
+| [`35.210.82.106`](35.210.82.106/) | Port scanning (123), Known botnet / C2 infrastructure (14) | 138 | 2026-11-24T00:21:10Z |
 | [`35.210.82.131`](35.210.82.131/) | Port scanning (29), Known botnet / C2 infrastructure (8) | 38 | 2026-11-24T00:13:35Z |
 | [`35.210.82.144`](35.210.82.144/) | Port scanning (53), Known botnet / C2 infrastructure (10) | 64 | 2026-11-21T10:50:03Z |
 | [`35.210.83.117`](35.210.83.117/) | Port scanning (48), Known botnet / C2 infrastructure (7), Abusive HTTP requests (1) | 61 | 2026-11-18T11:23:40Z |
@@ -334,7 +334,7 @@
 | [`35.210.213.124`](35.210.213.124/) | Port scanning (66), Known botnet / C2 infrastructure (7) | 74 | 2026-11-17T12:45:39Z |
 | [`35.210.214.138`](35.210.214.138/) | Port scanning (21), Known botnet / C2 infrastructure (6) | 28 | 2026-11-18T15:22:16Z |
 | [`35.210.216.203`](35.210.216.203/) | Port scanning (4), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 9 | 2026-11-23T10:47:36Z |
-| [`35.210.219.194`](35.210.219.194/) | Port scanning (19), Abusive HTTP requests (7), Known botnet / C2 infrastructure (5) | 32 | 2026-11-23T22:30:07Z |
+| [`35.210.219.194`](35.210.219.194/) | Port scanning (22), Abusive HTTP requests (7), Known botnet / C2 infrastructure (5) | 35 | 2026-11-24T00:57:48Z |
 | [`35.210.222.181`](35.210.222.181/) | Port scanning (32), Known botnet / C2 infrastructure (4) | 38 | 2026-11-17T14:45:36Z |
 | [`35.210.223.3`](35.210.223.3/) | Port scanning (64), Known botnet / C2 infrastructure (6) | 78 | 2026-11-18T16:59:33Z |
 | [`35.210.223.127`](35.210.223.127/) | Port scanning (18), Known botnet / C2 infrastructure (7) | 26 | 2026-11-22T06:15:45Z |

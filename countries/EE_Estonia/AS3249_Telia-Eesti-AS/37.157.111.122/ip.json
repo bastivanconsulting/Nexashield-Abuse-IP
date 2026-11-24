@@ -1,0 +1,15 @@
+{
+  "ip": "37.157.111.122",
+  "country_code": "EE",
+  "country": "Estonia",
+  "asn": 3249,
+  "asn_org": "Telia Eesti AS",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-18T03:33:19Z",
+  "last_seen": "2026-11-22T20:19:39Z",
+  "reported": "not reported (permanent ban)"
+}

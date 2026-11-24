@@ -5,11 +5,11 @@
   "asn": 680,
   "asn_org": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
   "categories": {
-    "scan": 28,
-    "c2": 17
+    "scan": 29,
+    "c2": 18
   },
-  "events": 46,
+  "events": 48,
   "first_seen": "2026-11-15T19:37:07Z",
-  "last_seen": "2026-11-23T18:13:38Z",
+  "last_seen": "2026-11-24T00:48:47Z",
   "reported": "not reported (permanent ban)"
 }

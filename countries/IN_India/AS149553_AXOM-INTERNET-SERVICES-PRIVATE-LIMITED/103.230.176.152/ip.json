@@ -1,0 +1,16 @@
+{
+  "ip": "103.230.176.152",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 149553,
+  "asn_org": "AXOM INTERNET SERVICES PRIVATE LIMITED",
+  "categories": {
+    "scan": 2,
+    "c2": 3,
+    "ssh": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-23T00:05:30Z",
+  "last_seen": "2026-11-24T00:57:05Z",
+  "reported": "not reported (permanent ban)"
+}

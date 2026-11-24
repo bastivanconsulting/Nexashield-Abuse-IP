@@ -1,6 +1,6 @@
 # AS198364 · BANATSYNC SRL
 
-🇫🇷 France · **69** malicious IP(s)
+🇫🇷 France · **70** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,7 +8,7 @@
 | [`77.239.124.13`](77.239.124.13/) | Port scanning (9), Known botnet / C2 infrastructure (2) | 12 | 2026-11-23T22:31:27Z |
 | [`77.239.124.31`](77.239.124.31/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-23T02:54:50Z |
 | [`77.239.124.32`](77.239.124.32/) | SSH brute force (2), Port scanning (1), Known botnet / C2 infrastructure (1) | 6 | 2026-11-22T20:18:05Z |
-| [`77.239.124.33`](77.239.124.33/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-19T00:40:08Z |
+| [`77.239.124.33`](77.239.124.33/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-24T00:33:01Z |
 | [`77.239.124.34`](77.239.124.34/) | SSH brute force (46) | 46 | 2026-11-09T21:40:36Z |
 | [`77.239.124.35`](77.239.124.35/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T20:28:57Z |
 | [`77.239.124.36`](77.239.124.36/) | SSH brute force (26) | 26 | 2026-11-10T12:15:09Z |
@@ -40,8 +40,8 @@
 | [`77.239.124.118`](77.239.124.118/) | Port scanning (2) | 3 | 2026-11-22T20:18:05Z |
 | [`77.239.124.121`](77.239.124.121/) | Port scanning (146), Known botnet / C2 infrastructure (24) | 172 | 2026-11-23T17:41:37Z |
 | [`77.239.124.130`](77.239.124.130/) | Port scanning (575), Known botnet / C2 infrastructure (40) | 653 | 2026-11-23T08:10:33Z |
-| [`77.239.124.132`](77.239.124.132/) | Port scanning (293), Known botnet / C2 infrastructure (18) | 338 | 2026-11-23T22:35:08Z |
-| [`77.239.124.135`](77.239.124.135/) | Port scanning (361), Known botnet / C2 infrastructure (38) | 403 | 2026-11-24T00:03:45Z |
+| [`77.239.124.132`](77.239.124.132/) | Port scanning (298), Known botnet / C2 infrastructure (18) | 344 | 2026-11-24T01:16:57Z |
+| [`77.239.124.135`](77.239.124.135/) | Port scanning (363), Known botnet / C2 infrastructure (39) | 406 | 2026-11-24T00:42:11Z |
 | [`77.239.124.136`](77.239.124.136/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-23T15:31:45Z |
 | [`77.239.124.137`](77.239.124.137/) | Port scanning (63) | 71 | 2026-11-13T09:37:26Z |
 | [`77.239.124.138`](77.239.124.138/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 12 | 2026-11-23T04:55:26Z |
@@ -70,9 +70,10 @@
 | [`77.239.124.177`](77.239.124.177/) | Port scanning (123), Known botnet / C2 infrastructure (16) | 140 | 2026-11-22T10:31:51Z |
 | [`77.239.124.178`](77.239.124.178/) | Port scanning (27), Known botnet / C2 infrastructure (7) | 34 | 2026-11-23T20:51:00Z |
 | [`77.239.124.181`](77.239.124.181/) | Port scanning (17), Known botnet / C2 infrastructure (7), Exploitation attempt (CVE / RCE / injection) (3) | 28 | 2026-11-23T06:22:01Z |
-| [`77.239.124.184`](77.239.124.184/) | Port scanning (7) | 8 | 2026-11-23T23:14:05Z |
-| [`77.239.124.185`](77.239.124.185/) | Port scanning (22), Known botnet / C2 infrastructure (1) | 24 | 2026-11-23T10:46:43Z |
-| [`77.239.124.252`](77.239.124.252/) | Port scanning (1642), Known botnet / C2 infrastructure (25) | 1770 | 2026-11-24T00:17:49Z |
+| [`77.239.124.184`](77.239.124.184/) | Port scanning (9) | 10 | 2026-11-24T01:07:28Z |
+| [`77.239.124.185`](77.239.124.185/) | Port scanning (25), Known botnet / C2 infrastructure (1) | 27 | 2026-11-24T01:00:43Z |
+| [`77.239.124.188`](77.239.124.188/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 11 | 2026-11-24T01:10:05Z |
+| [`77.239.124.252`](77.239.124.252/) | Port scanning (1661), Known botnet / C2 infrastructure (26) | 1791 | 2026-11-24T01:15:02Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
