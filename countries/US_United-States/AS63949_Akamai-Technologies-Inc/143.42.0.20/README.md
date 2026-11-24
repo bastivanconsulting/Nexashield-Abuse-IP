@@ -7,10 +7,10 @@
 | IP | `143.42.0.20` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (51) |
-| Events | 56 |
+| Activity | Port scanning (52) |
+| Events | 57 |
 | First seen (UTC) | 2026-11-11T14:34:30Z |
-| Last seen (UTC) | 2026-11-23T20:27:41Z |
+| Last seen (UTC) | 2026-11-24T00:01:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

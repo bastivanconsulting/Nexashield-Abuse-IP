@@ -7,8 +7,8 @@
 | IP | `123.180.188.162` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (28), Port scanning (3) |
-| Events | 31 |
+| Activity | SSH brute force (14), Port scanning (2) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-14T06:07:09Z |
 | Last seen (UTC) | 2026-11-23T14:09:53Z |
 | Reported to network owner (UTC) | 2026-11-23T16:28:43Z |

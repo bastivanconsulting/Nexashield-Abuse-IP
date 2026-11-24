@@ -1,0 +1,14 @@
+{
+  "ip": "2604:a880:2:d1:0:1:d408:e001",
+  "country_code": "US",
+  "country": "United States",
+  "asn": null,
+  "asn_org": "Unknown",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-24T00:30:51Z",
+  "last_seen": "2026-11-24T00:30:51Z",
+  "reported": "not reported (permanent ban)"
+}

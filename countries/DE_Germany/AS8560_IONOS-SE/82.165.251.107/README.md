@@ -7,8 +7,8 @@
 | IP | `82.165.251.107` |
 | Country | Germany (DE) |
 | ASN | AS8560 · IONOS SE |
-| Activity | SSH brute force (42) |
-| Events | 42 |
+| Activity | SSH brute force (21) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-23T15:05:37Z |
 | Last seen (UTC) | 2026-11-23T16:22:01Z |
 | Reported to network owner (UTC) | 2026-11-23T16:28:38Z |

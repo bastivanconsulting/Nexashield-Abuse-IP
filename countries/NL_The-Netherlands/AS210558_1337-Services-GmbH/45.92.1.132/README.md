@@ -7,8 +7,8 @@
 | IP | `45.92.1.132` |
 | Country | The Netherlands (NL) |
 | ASN | AS210558 · 1337 Services GmbH |
-| Activity | Abusive HTTP requests (12), Spamhaus DROP-listed network (2) |
-| Events | 14 |
+| Activity | Abusive HTTP requests (6), Spamhaus DROP-listed network (1) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-23T09:38:20Z |
 | Last seen (UTC) | 2026-11-23T09:38:21Z |
 | Reported to network owner (UTC) | 2026-11-23T12:26:55Z |

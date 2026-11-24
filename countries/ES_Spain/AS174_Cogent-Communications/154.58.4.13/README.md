@@ -7,8 +7,8 @@
 | IP | `154.58.4.13` |
 | Country | Spain (ES) |
 | ASN | AS174 · Cogent Communications |
-| Activity | Port scanning (18) |
-| Events | 18 |
+| Activity | Port scanning (17) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-12T19:15:05Z |
 | Last seen (UTC) | 2026-11-23T10:58:52Z |
 | Reported to network owner (UTC) | 2026-11-11T16:34:54Z |

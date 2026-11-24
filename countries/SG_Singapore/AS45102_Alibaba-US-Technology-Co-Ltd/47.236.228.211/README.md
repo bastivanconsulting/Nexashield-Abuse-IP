@@ -7,8 +7,8 @@
 | IP | `47.236.228.211` |
 | Country | Singapore (SG) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | SSH brute force (13), Port scanning (2) |
-| Events | 15 |
+| Activity | SSH brute force (7), Port scanning (1) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-10T10:27:58Z |
 | Last seen (UTC) | 2026-11-23T13:21:06Z |
 | Reported to network owner (UTC) | 2026-11-23T14:28:08Z |

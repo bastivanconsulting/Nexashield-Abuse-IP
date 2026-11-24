@@ -7,8 +7,8 @@
 | IP | `82.38.134.89` |
 | Country | United States (US) |
 | ASN | AS214663 · DanBot Hosting LTD |
-| Activity | SSH brute force (70), Port scanning (4) |
-| Events | 74 |
+| Activity | SSH brute force (36), Port scanning (2) |
+| Events | 38 |
 | First seen (UTC) | 2026-11-22T19:12:35Z |
 | Last seen (UTC) | 2026-11-23T00:41:38Z |
 | Reported to network owner (UTC) | 2026-11-23T02:27:15Z |

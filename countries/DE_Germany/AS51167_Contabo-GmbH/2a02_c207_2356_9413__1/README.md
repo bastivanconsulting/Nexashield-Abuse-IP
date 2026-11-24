@@ -7,8 +7,8 @@
 | IP | `2a02:c207:2356:9413::1` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Abusive HTTP requests (40) |
-| Events | 40 |
+| Activity | Abusive HTTP requests (20) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-23T09:18:53Z |
 | Last seen (UTC) | 2026-11-23T09:18:54Z |
 | Reported to network owner (UTC) | 2026-11-23T10:27:53Z |

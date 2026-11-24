@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 3 | SSH brute force (118), Port scanning (20), Abusive HTTP requests (4), Known botnet / C2 infrastructure (4) |
+| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 3 | SSH brute force (117), Port scanning (20), Abusive HTTP requests (4), Known botnet / C2 infrastructure (4) |
 | [AS153622](AS153622_Madina-IT/) | Madina IT | 1 | Port scanning (8) |
 | [AS204457](AS204457_Atlantis-Telekomunikasyon-Bilisim-Hizmetleri-San/) | Atlantis Telekomunikasyon Bilisim Hizmetleri San. ve Tic. Ltd. Sti. | 1 | Web injection payload blocked by WAF (2) |
 | [AS204876](AS204876_BGZ-BILISIM-TEKNOLOJILERI-LIMITED-SIRKETI/) | BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI | 1 | Port scanning (30) |

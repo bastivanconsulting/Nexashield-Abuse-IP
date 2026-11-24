@@ -7,8 +7,8 @@
 | IP | `34.175.170.6` |
 | Country | Spain (ES) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (304), Web injection payload blocked by WAF (52) |
-| Events | 356 |
+| Activity | Abusive HTTP requests (152), Web injection payload blocked by WAF (26) |
+| Events | 178 |
 | First seen (UTC) | 2026-11-23T19:37:18Z |
 | Last seen (UTC) | 2026-11-23T19:38:13Z |
 | Reported to network owner (UTC) | 2026-11-23T20:27:21Z |

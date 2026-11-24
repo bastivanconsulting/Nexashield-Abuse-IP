@@ -4,12 +4,12 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`213.209.159.25`](213.209.159.25/) | Port scanning (334), Known botnet / C2 infrastructure (22) | 375 | 2026-11-23T23:14:56Z |
-| [`213.209.159.26`](213.209.159.26/) | Port scanning (351) | 373 | 2026-11-23T23:10:21Z |
-| [`213.209.159.66`](213.209.159.66/) | Port scanning (133) | 134 | 2026-11-23T21:24:24Z |
+| [`213.209.159.25`](213.209.159.25/) | Port scanning (336), Known botnet / C2 infrastructure (22) | 377 | 2026-11-24T00:16:41Z |
+| [`213.209.159.26`](213.209.159.26/) | Port scanning (353) | 375 | 2026-11-24T00:13:51Z |
+| [`213.209.159.66`](213.209.159.66/) | Port scanning (137) | 138 | 2026-11-24T00:14:53Z |
 | [`213.209.159.115`](213.209.159.115/) | Port scanning (159) | 258 | 2026-11-23T17:32:33Z |
 | [`213.209.159.133`](213.209.159.133/) | Port scanning (9), Known botnet / C2 infrastructure (6), Abusive HTTP requests (2) | 18 | 2026-11-23T18:55:23Z |
-| [`213.209.159.175`](213.209.159.175/) | Abusive HTTP requests (213), Spamhaus DROP-listed network (3) | 216 | 2026-11-23T01:34:17Z |
+| [`213.209.159.175`](213.209.159.175/) | Abusive HTTP requests (213), Spamhaus DROP-listed network (2) | 215 | 2026-11-23T01:34:17Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,11 +7,11 @@
 | IP | `2604:a880:2:d1:0:1:d40a:f001` |
 | Country | United States (US) |
 | ASN | AS? · Unknown |
-| Activity | Web injection payload blocked by WAF (1) |
-| Events | 1 |
+| Activity | Web injection payload blocked by WAF (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-23T22:22:57Z |
-| Last seen (UTC) | 2026-11-23T22:22:57Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-23T22:22:59Z |
+| Reported to network owner (UTC) | 2026-11-24T00:28:03Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

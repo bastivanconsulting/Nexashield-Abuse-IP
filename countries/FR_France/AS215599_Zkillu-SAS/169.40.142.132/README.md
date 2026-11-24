@@ -7,8 +7,8 @@
 | IP | `169.40.142.132` |
 | Country | France (FR) |
 | ASN | AS215599 · Zkillu SAS |
-| Activity | Abusive HTTP requests (40) |
-| Events | 40 |
+| Activity | Abusive HTTP requests (20) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-23T09:16:32Z |
 | Last seen (UTC) | 2026-11-23T09:16:33Z |
 | Reported to network owner (UTC) | 2026-11-23T10:27:57Z |

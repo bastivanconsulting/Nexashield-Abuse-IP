@@ -7,8 +7,8 @@
 | IP | `45.156.87.102` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (6) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-23T03:27:27Z |
 | Last seen (UTC) | 2026-11-23T03:27:27Z |
 | Reported to network owner (UTC) | 2026-11-23T04:26:50Z |

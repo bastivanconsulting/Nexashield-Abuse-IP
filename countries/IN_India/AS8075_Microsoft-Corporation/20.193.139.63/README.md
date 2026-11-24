@@ -7,8 +7,8 @@
 | IP | `20.193.139.63` |
 | Country | India (IN) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-23T05:26:50Z |
 | Last seen (UTC) | 2026-11-23T05:26:50Z |
 | Reported to network owner (UTC) | 2026-11-23T06:27:14Z |

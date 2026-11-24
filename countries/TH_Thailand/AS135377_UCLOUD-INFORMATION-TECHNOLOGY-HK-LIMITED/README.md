@@ -8,7 +8,7 @@
 | [`45.194.70.251`](45.194.70.251/) | Port scanning (22), Known botnet / C2 infrastructure (13) | 36 | 2026-11-23T20:31:40Z |
 | [`45.194.70.252`](45.194.70.252/) | Port scanning (23), Known botnet / C2 infrastructure (13) | 37 | 2026-11-20T09:11:44Z |
 | [`118.193.56.171`](118.193.56.171/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-23T23:00:52Z |
-| [`118.193.56.184`](118.193.56.184/) | Port scanning (25), Known botnet / C2 infrastructure (13) | 39 | 2026-11-23T19:36:21Z |
+| [`118.193.56.184`](118.193.56.184/) | Port scanning (26), Known botnet / C2 infrastructure (13) | 40 | 2026-11-24T00:05:20Z |
 | [`118.193.56.246`](118.193.56.246/) | Port scanning (26), Known botnet / C2 infrastructure (19) | 46 | 2026-11-23T17:49:11Z |
 | [`118.193.57.59`](118.193.57.59/) | Port scanning (29), Known botnet / C2 infrastructure (18) | 48 | 2026-11-23T08:26:07Z |
 | [`118.193.57.185`](118.193.57.185/) | Port scanning (23), Known botnet / C2 infrastructure (18) | 42 | 2026-11-23T20:32:10Z |
@@ -32,7 +32,7 @@
 | [`165.154.51.193`](165.154.51.193/) | Port scanning (22), Known botnet / C2 infrastructure (12) | 36 | 2026-11-21T06:58:39Z |
 | [`165.154.51.243`](165.154.51.243/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 25 | 2026-11-23T16:36:53Z |
 | [`165.154.118.215`](165.154.118.215/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-23T01:01:15Z |
-| [`165.154.119.20`](165.154.119.20/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-22T17:00:21Z |
+| [`165.154.119.20`](165.154.119.20/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-24T00:08:35Z |
 | [`165.154.120.30`](165.154.120.30/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 24 | 2026-11-23T04:24:23Z |
 | [`165.154.120.89`](165.154.120.89/) | Port scanning (19), Known botnet / C2 infrastructure (12) | 32 | 2026-11-23T15:17:56Z |
 | [`165.154.120.223`](165.154.120.223/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 26 | 2026-11-18T20:08:20Z |

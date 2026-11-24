@@ -7,8 +7,8 @@
 | IP | `59.92.89.32` |
 | Country | India (IN) |
 | ASN | AS9829 · Bharat Sanchar Nigam Ltd |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-23T00:32:22Z |
 | Last seen (UTC) | 2026-11-23T00:32:23Z |
 | Reported to network owner (UTC) | 2026-11-23T02:27:06Z |

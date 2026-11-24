@@ -83,7 +83,7 @@
 | [`47.236.157.205`](47.236.157.205/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T22:11:29Z |
 | [`47.236.203.85`](47.236.203.85/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 8 | 2026-11-23T21:19:02Z |
 | [`47.236.204.159`](47.236.204.159/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T18:39:04Z |
-| [`47.236.228.211`](47.236.228.211/) | SSH brute force (13), Port scanning (2) | 15 | 2026-11-23T13:21:06Z |
+| [`47.236.228.211`](47.236.228.211/) | SSH brute force (7), Port scanning (1) | 8 | 2026-11-23T13:21:06Z |
 | [`47.237.112.21`](47.237.112.21/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-23T21:02:14Z |
 | [`47.237.118.191`](47.237.118.191/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-22T16:47:00Z |
 | [`47.237.207.205`](47.237.207.205/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-16T22:58:56Z |

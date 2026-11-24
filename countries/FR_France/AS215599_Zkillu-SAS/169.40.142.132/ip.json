@@ -5,9 +5,9 @@
   "asn": 215599,
   "asn_org": "Zkillu SAS",
   "categories": {
-    "web": 40
+    "web": 20
   },
-  "events": 40,
+  "events": 20,
   "first_seen": "2026-11-23T09:16:32Z",
   "last_seen": "2026-11-23T09:16:33Z",
   "reported": "2026-11-23T10:27:57Z"

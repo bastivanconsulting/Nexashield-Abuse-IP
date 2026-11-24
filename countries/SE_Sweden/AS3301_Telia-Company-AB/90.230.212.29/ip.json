@@ -5,10 +5,10 @@
   "asn": 3301,
   "asn_org": "Telia Company AB",
   "categories": {
-    "scan": 7,
+    "scan": 4,
     "ssh": 9
   },
-  "events": 16,
+  "events": 13,
   "first_seen": "2026-11-19T15:16:09Z",
   "last_seen": "2026-11-23T10:49:16Z",
   "reported": "2026-11-20T20:30:18Z"

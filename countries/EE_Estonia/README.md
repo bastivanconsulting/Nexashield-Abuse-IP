@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS3249](AS3249_Telia-Eesti-AS/) | Telia Eesti AS | 2 | Known botnet / C2 infrastructure (7), SSH brute force (7), Port scanning (3) |
+| [AS3249](AS3249_Telia-Eesti-AS/) | Telia Eesti AS | 2 | Known botnet / C2 infrastructure (7), SSH brute force (7), Port scanning (4) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

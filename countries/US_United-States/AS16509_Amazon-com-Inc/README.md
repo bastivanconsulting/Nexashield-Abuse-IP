@@ -6,8 +6,8 @@
 |---|---|---:|---|
 | [`3.15.230.87`](3.15.230.87/) | Port scanning (456) | 554 | 2026-11-23T21:29:32Z |
 | [`3.129.187.38`](3.129.187.38/) | Known botnet / C2 infrastructure (6), Port scanning (6), SSH brute force (1) | 28 | 2026-11-20T13:43:47Z |
-| [`3.131.24.55`](3.131.24.55/) | Port scanning (65) | 65 | 2026-11-23T23:08:07Z |
-| [`3.133.91.161`](3.133.91.161/) | Abusive HTTP requests (312), Web injection payload blocked by WAF (20) | 332 | 2026-11-23T12:41:29Z |
+| [`3.131.24.55`](3.131.24.55/) | Port scanning (45) | 45 | 2026-11-23T23:08:07Z |
+| [`3.133.91.161`](3.133.91.161/) | Abusive HTTP requests (156), Web injection payload blocked by WAF (10) | 166 | 2026-11-23T12:41:29Z |
 | [`3.134.100.58`](3.134.100.58/) | Port scanning (2) | 3 | 2026-11-11T21:39:01Z |
 | [`3.144.77.222`](3.144.77.222/) | Port scanning (5) | 7 | 2026-11-15T00:59:03Z |
 | [`3.144.198.231`](3.144.198.231/) | Web injection payload blocked by WAF (11), Abusive HTTP requests (4) | 15 | 2026-11-16T10:24:24Z |

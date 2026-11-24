@@ -5,9 +5,9 @@
   "asn": 8560,
   "asn_org": "IONOS SE",
   "categories": {
-    "ssh": 42
+    "ssh": 21
   },
-  "events": 42,
+  "events": 21,
   "first_seen": "2026-11-23T15:05:37Z",
   "last_seen": "2026-11-23T16:22:01Z",
   "reported": "2026-11-23T16:28:38Z"

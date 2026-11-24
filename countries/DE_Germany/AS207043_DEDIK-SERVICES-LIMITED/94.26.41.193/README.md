@@ -7,8 +7,8 @@
 | IP | `94.26.41.193` |
 | Country | Germany (DE) |
 | ASN | AS207043 · DEDIK SERVICES LIMITED |
-| Activity | Abusive HTTP requests (51) |
-| Events | 51 |
+| Activity | Abusive HTTP requests (27) |
+| Events | 27 |
 | First seen (UTC) | 2026-11-22T21:35:16Z |
 | Last seen (UTC) | 2026-11-23T12:40:27Z |
 | Reported to network owner (UTC) | 2026-11-23T02:27:20Z |

@@ -5,10 +5,10 @@
   "asn": 214663,
   "asn_org": "DanBot Hosting LTD",
   "categories": {
-    "ssh": 70,
-    "scan": 4
+    "ssh": 36,
+    "scan": 2
   },
-  "events": 74,
+  "events": 38,
   "first_seen": "2026-11-22T19:12:35Z",
   "last_seen": "2026-11-23T00:41:38Z",
   "reported": "2026-11-23T02:27:15Z"

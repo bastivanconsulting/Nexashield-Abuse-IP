@@ -30,7 +30,7 @@
 | [AS43132](AS43132_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) |
 | [AS48282](AS48282_Hosting-technology-LTD/) | Hosting technology LTD | 1 | Port scanning (6) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
-| [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (424), Known botnet / C2 infrastructure (40), Exploitation attempt (CVE / RCE / injection) (11) |
 | [AS51369](AS51369_LLC-TRC-FIORD/) | LLC "TRC FIORD" | 1 | SSH brute force (8), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
