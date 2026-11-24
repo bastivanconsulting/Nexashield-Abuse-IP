@@ -1,0 +1,15 @@
+{
+  "ip": "143.255.198.102",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 263558,
+  "asn_org": "RD TELECOM LTDA -ME",
+  "categories": {
+    "scan": 11,
+    "c2": 1
+  },
+  "events": 13,
+  "first_seen": "2026-11-24T20:29:27Z",
+  "last_seen": "2026-11-24T22:15:32Z",
+  "reported": "not reported (permanent ban)"
+}

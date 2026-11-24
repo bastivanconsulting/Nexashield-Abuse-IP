@@ -1,17 +1,17 @@
 # 🇷🇺 Russia
 
-**59** malicious IP(s) across **35** network(s).
+**60** malicious IP(s) across **35** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 8 | SSH brute force (43), Known botnet / C2 infrastructure (35), Port scanning (21) |
+| [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 9 | SSH brute force (48), Known botnet / C2 infrastructure (37), Port scanning (21) |
 | [AS211860](AS211860_Nerushenko-Vyacheslav-Nikolaevich/) | Nerushenko Vyacheslav Nikolaevich | 6 | Port scanning (190), Known botnet / C2 infrastructure (37) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (26), Known botnet / C2 infrastructure (22) |
 | [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 3 | Port scanning (130), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
 | [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 3 | SSH brute force (22), Known botnet / C2 infrastructure (9), Port scanning (3) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (60), Known botnet / C2 infrastructure (12) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (4) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (669), Known botnet / C2 infrastructure (50), Abusive HTTP requests (2) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (672), Known botnet / C2 infrastructure (50), Abusive HTTP requests (2) |
 | [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (82), Known botnet / C2 infrastructure (46) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (11), Known botnet / C2 infrastructure (8) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
@@ -33,7 +33,7 @@
 | [AS48524](AS48524_INTERRA-telecommunications-group-Ltd/) | INTERRA telecommunications group, Ltd. | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
 | [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (464), Known botnet / C2 infrastructure (44), Exploitation attempt (CVE / RCE / injection) (14) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (466), Known botnet / C2 infrastructure (44), Exploitation attempt (CVE / RCE / injection) (14) |
 | [AS51369](AS51369_LLC-TRC-FIORD/) | LLC "TRC FIORD" | 1 | SSH brute force (8), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8359](AS8359_MTS-PJSC/) | MTS PJSC | 1 | Port scanning (5), Known botnet / C2 infrastructure (3) |

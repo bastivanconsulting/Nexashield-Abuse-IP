@@ -7,10 +7,10 @@
 | IP | `209.99.190.215` |
 | Country | United States (US) |
 | ASN | AS402253 · SKN Subnet & Telecom Ltd |
-| Activity | SSH brute force (118), Port scanning (86), Spamhaus DROP-listed network (9) |
-| Events | 213 |
+| Activity | Port scanning (124), SSH brute force (118), Spamhaus DROP-listed network (11) |
+| Events | 253 |
 | First seen (UTC) | 2026-11-19T20:26:57Z |
-| Last seen (UTC) | 2026-11-24T21:33:17Z |
+| Last seen (UTC) | 2026-11-24T22:33:04Z |
 | Reported to network owner (UTC) | 2026-11-24T20:30:00Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

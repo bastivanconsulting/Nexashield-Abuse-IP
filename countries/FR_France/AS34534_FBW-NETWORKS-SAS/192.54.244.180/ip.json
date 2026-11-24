@@ -1,0 +1,15 @@
+{
+  "ip": "192.54.244.180",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 34534,
+  "asn_org": "FBW NETWORKS SAS",
+  "categories": {
+    "exploit": 2,
+    "scan": 4
+  },
+  "events": 6,
+  "first_seen": "2026-11-24T21:15:55Z",
+  "last_seen": "2026-11-24T21:16:31Z",
+  "reported": "2026-11-24T22:28:11Z"
+}
