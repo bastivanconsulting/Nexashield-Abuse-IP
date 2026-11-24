@@ -7,10 +7,10 @@
 | IP | `79.124.58.98` |
 | Country | Bulgaria (BG) |
 | ASN | AS50360 · Tamatiya EOOD |
-| Activity | Port scanning (521) |
-| Events | 609 |
+| Activity | Port scanning (522) |
+| Events | 610 |
 | First seen (UTC) | 2026-11-11T12:56:56Z |
-| Last seen (UTC) | 2026-11-24T03:39:48Z |
+| Last seen (UTC) | 2026-11-24T04:38:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

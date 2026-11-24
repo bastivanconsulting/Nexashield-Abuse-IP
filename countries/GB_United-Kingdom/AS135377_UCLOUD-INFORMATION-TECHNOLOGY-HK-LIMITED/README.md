@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇬🇧 United Kingdom · **28** malicious IP(s)
+🇬🇧 United Kingdom · **29** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`101.36.97.172`](101.36.97.172/) | Port scanning (22), Known botnet / C2 infrastructure (14) | 37 | 2026-11-24T03:14:20Z |
 | [`101.36.97.205`](101.36.97.205/) | Port scanning (19), Known botnet / C2 infrastructure (13) | 33 | 2026-11-23T18:46:44Z |
 | [`104.218.165.188`](104.218.165.188/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T22:33:52Z |
+| [`118.26.104.19`](118.26.104.19/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 14 | 2026-11-24T04:39:07Z |
 | [`118.26.104.78`](118.26.104.78/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-17T04:57:04Z |
 | [`118.26.104.93`](118.26.104.93/) | Port scanning (11), Known botnet / C2 infrastructure (5) | 19 | 2026-11-23T05:04:29Z |
 | [`118.26.104.212`](118.26.104.212/) | Port scanning (23), Known botnet / C2 infrastructure (16) | 40 | 2026-11-24T01:36:41Z |
@@ -19,7 +20,7 @@
 | [`118.193.64.186`](118.193.64.186/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-22T10:38:28Z |
 | [`118.193.64.235`](118.193.64.235/) | Port scanning (23), Known botnet / C2 infrastructure (12) | 36 | 2026-11-20T17:35:58Z |
 | [`118.193.65.175`](118.193.65.175/) | Port scanning (27), Known botnet / C2 infrastructure (17) | 45 | 2026-11-24T03:30:46Z |
-| [`118.193.65.209`](118.193.65.209/) | Port scanning (20), Known botnet / C2 infrastructure (11) | 33 | 2026-11-23T20:59:40Z |
+| [`118.193.65.209`](118.193.65.209/) | Port scanning (21), Known botnet / C2 infrastructure (12) | 35 | 2026-11-24T04:46:09Z |
 | [`118.193.65.234`](118.193.65.234/) | Port scanning (24), Known botnet / C2 infrastructure (16) | 41 | 2026-11-23T16:35:51Z |
 | [`123.58.207.81`](123.58.207.81/) | Port scanning (37), Known botnet / C2 infrastructure (19) | 57 | 2026-11-24T03:37:02Z |
 | [`123.58.207.155`](123.58.207.155/) | Port scanning (33), Known botnet / C2 infrastructure (6) | 49 | 2026-11-24T04:01:44Z |

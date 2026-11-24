@@ -7,10 +7,10 @@
 | IP | `151.243.11.41` |
 | Country | Germany (DE) |
 | ASN | AS209630 · LLC VASH KREDIT BANK |
-| Activity | Port scanning (333), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 370 |
+| Activity | Port scanning (335), Known botnet / C2 infrastructure (31), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 373 |
 | First seen (UTC) | 2026-11-12T11:24:33Z |
-| Last seen (UTC) | 2026-11-24T03:45:47Z |
+| Last seen (UTC) | 2026-11-24T04:46:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

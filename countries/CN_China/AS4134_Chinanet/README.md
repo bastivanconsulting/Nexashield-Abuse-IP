@@ -1,6 +1,6 @@
 # AS4134 · Chinanet
 
-🇨🇳 China · **35** malicious IP(s)
+🇨🇳 China · **36** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`49.84.226.110`](49.84.226.110/) | SSH brute force (8), Port scanning (1) | 9 | 2026-11-17T09:11:45Z |
 | [`59.48.40.6`](59.48.40.6/) | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) | 12 | 2026-11-23T20:29:08Z |
 | [`61.146.235.54`](61.146.235.54/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-23T21:09:52Z |
+| [`61.147.209.31`](61.147.209.31/) | Port scanning (12) | 17 | 2026-11-23T11:38:47Z |
 | [`61.177.36.109`](61.177.36.109/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T18:09:05Z |
 | [`61.184.128.210`](61.184.128.210/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-23T11:37:45Z |
 | [`61.191.145.123`](61.191.145.123/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T07:04:05Z |
@@ -22,7 +23,7 @@
 | [`121.204.100.72`](121.204.100.72/) | Port scanning (108) | 109 | 2026-11-14T21:56:40Z |
 | [`123.180.188.162`](123.180.188.162/) | SSH brute force (14), Port scanning (2) | 16 | 2026-11-23T14:09:53Z |
 | [`124.239.169.52`](124.239.169.52/) | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) | 10 | 2026-11-22T16:03:45Z |
-| [`139.202.229.204`](139.202.229.204/) | Port scanning (20), Known botnet / C2 infrastructure (8) | 33 | 2026-11-23T18:36:03Z |
+| [`139.202.229.204`](139.202.229.204/) | Port scanning (22), Known botnet / C2 infrastructure (9) | 36 | 2026-11-24T04:52:29Z |
 | [`171.216.78.113`](171.216.78.113/) | SSH brute force (15), Port scanning (1) | 16 | 2026-11-21T00:23:32Z |
 | [`171.217.70.151`](171.217.70.151/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-22T13:00:05Z |
 | [`182.105.123.10`](182.105.123.10/) | Port scanning (28), Known botnet / C2 infrastructure (15) | 46 | 2026-11-23T22:57:56Z |

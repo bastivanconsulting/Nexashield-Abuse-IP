@@ -1,6 +1,6 @@
 # AS6939 · Hurricane Electric LLC
 
-🇺🇸 United States · **67** malicious IP(s)
+🇺🇸 United States · **68** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,7 +12,7 @@
 | [`65.49.20.73`](65.49.20.73/) | Port scanning (12), Known botnet / C2 infrastructure (6) | 19 | 2026-11-23T15:22:00Z |
 | [`65.49.20.75`](65.49.20.75/) | Port scanning (42), Known botnet / C2 infrastructure (22) | 65 | 2026-11-24T02:15:54Z |
 | [`65.49.20.78`](65.49.20.78/) | Port scanning (34), Known botnet / C2 infrastructure (19) | 54 | 2026-11-24T04:01:45Z |
-| [`65.49.20.80`](65.49.20.80/) | Port scanning (31), Known botnet / C2 infrastructure (15) | 47 | 2026-11-23T12:15:55Z |
+| [`65.49.20.80`](65.49.20.80/) | Port scanning (32), Known botnet / C2 infrastructure (16) | 49 | 2026-11-24T04:41:03Z |
 | [`65.49.20.81`](65.49.20.81/) | Port scanning (33), Known botnet / C2 infrastructure (17) | 51 | 2026-11-23T15:38:51Z |
 | [`65.49.20.82`](65.49.20.82/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-12T05:25:02Z |
 | [`65.49.20.83`](65.49.20.83/) | Port scanning (5), Known botnet / C2 infrastructure (1) | 7 | 2026-11-23T11:18:23Z |
@@ -58,6 +58,7 @@
 | [`184.105.139.89`](184.105.139.89/) | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (1) | 7 | 2026-11-17T08:58:03Z |
 | [`184.105.139.96`](184.105.139.96/) | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (3) | 8 | 2026-11-24T04:01:31Z |
 | [`184.105.139.100`](184.105.139.100/) | Exploitation attempt (CVE / RCE / injection) (3) | 4 | 2026-11-23T06:11:38Z |
+| [`184.105.139.108`](184.105.139.108/) | Port scanning (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-23T06:09:37Z |
 | [`184.105.139.120`](184.105.139.120/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (1) | 5 | 2026-11-21T01:48:20Z |
 | [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (2), SSH brute force (1) | 7 | 2026-11-19T01:38:34Z |
 | [`184.105.247.234`](184.105.247.234/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-23T05:30:04Z |

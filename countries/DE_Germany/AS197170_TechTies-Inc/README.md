@@ -13,7 +13,7 @@
 | [`94.26.106.83`](94.26.106.83/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-24T02:29:39Z |
 | [`94.26.106.130`](94.26.106.130/) | Web injection payload blocked by WAF (1), Spamhaus DROP-listed network (1) | 2 | 2026-11-23T14:09:24Z |
 | [`94.26.106.224`](94.26.106.224/) | Port scanning (4), Abusive HTTP requests (3), Known botnet / C2 infrastructure (1) | 9 | 2026-11-15T04:34:04Z |
-| [`94.26.106.229`](94.26.106.229/) | Port scanning (22), Known botnet / C2 infrastructure (10) | 33 | 2026-11-24T02:11:18Z |
+| [`94.26.106.229`](94.26.106.229/) | Port scanning (24), Known botnet / C2 infrastructure (10) | 35 | 2026-11-24T04:41:20Z |
 | [`94.26.106.252`](94.26.106.252/) | SSH brute force (49), Port scanning (1) | 50 | 2026-11-14T03:00:41Z |
 
 ---

@@ -1,11 +1,11 @@
 # 🇮🇳 India
 
-**69** malicious IP(s) across **29** network(s).
+**70** malicious IP(s) across **29** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 12 | Port scanning (41), Exploitation attempt (CVE / RCE / injection) (20), Known botnet / C2 infrastructure (19), Abusive HTTP requests (6), SSH brute force (2) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 9 | Known botnet / C2 infrastructure (40), SSH brute force (35), Port scanning (32) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | Known botnet / C2 infrastructure (42), SSH brute force (39), Port scanning (32) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 7 | Port scanning (28), Known botnet / C2 infrastructure (23), SSH brute force (21) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (230), Known botnet / C2 infrastructure (79) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (66), Known botnet / C2 infrastructure (21) |

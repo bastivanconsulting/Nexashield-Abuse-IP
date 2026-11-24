@@ -1,11 +1,12 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇩🇪 Germany · **78** malicious IP(s)
+🇩🇪 Germany · **80** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`8.209.82.97`](8.209.82.97/) | Port scanning (10), Known botnet / C2 infrastructure (3) | 19 | 2026-11-22T08:06:05Z |
 | [`8.209.83.42`](8.209.83.42/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-22T12:37:04Z |
+| [`8.209.85.27`](8.209.85.27/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-24T05:04:05Z |
 | [`8.209.89.121`](8.209.89.121/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 13 | 2026-11-23T16:04:04Z |
 | [`8.209.96.38`](8.209.96.38/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 15 | 2026-11-23T19:08:07Z |
 | [`8.209.97.27`](8.209.97.27/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-18T17:51:04Z |
@@ -27,6 +28,7 @@
 | [`8.211.41.12`](8.211.41.12/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T05:39:53Z |
 | [`8.211.41.99`](8.211.41.99/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-22T04:20:10Z |
 | [`8.211.43.157`](8.211.43.157/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-23T13:18:43Z |
+| [`8.211.44.110`](8.211.44.110/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-24T05:16:05Z |
 | [`8.211.44.115`](8.211.44.115/) | Port scanning (10), Known botnet / C2 infrastructure (6) | 19 | 2026-11-23T21:04:16Z |
 | [`8.211.45.1`](8.211.45.1/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-22T18:08:25Z |
 | [`8.211.45.194`](8.211.45.194/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 17 | 2026-11-23T19:48:06Z |
@@ -53,7 +55,7 @@
 | [`47.245.137.153`](47.245.137.153/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-23T14:27:30Z |
 | [`47.245.137.161`](47.245.137.161/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T06:42:04Z |
 | [`47.245.137.243`](47.245.137.243/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 14 | 2026-11-22T00:45:54Z |
-| [`47.245.138.0`](47.245.138.0/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-24T03:44:00Z |
+| [`47.245.138.0`](47.245.138.0/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 13 | 2026-11-24T04:18:30Z |
 | [`47.245.138.123`](47.245.138.123/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T08:34:13Z |
 | [`47.245.139.168`](47.245.139.168/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-23T11:28:29Z |
 | [`47.245.139.222`](47.245.139.222/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T22:44:04Z |
@@ -71,7 +73,7 @@
 | [`47.254.155.45`](47.254.155.45/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-23T12:11:14Z |
 | [`47.254.156.79`](47.254.156.79/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T19:47:51Z |
 | [`47.254.156.127`](47.254.156.127/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-23T20:03:44Z |
-| [`47.254.158.67`](47.254.158.67/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-20T13:59:05Z |
+| [`47.254.158.67`](47.254.158.67/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-24T04:47:41Z |
 | [`47.254.158.193`](47.254.158.193/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T11:00:06Z |
 | [`47.254.159.17`](47.254.159.17/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-23T20:36:14Z |
 | [`47.254.159.226`](47.254.159.226/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-24T02:00:37Z |

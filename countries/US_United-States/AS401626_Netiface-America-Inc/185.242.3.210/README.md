@@ -7,10 +7,10 @@
 | IP | `185.242.3.210` |
 | Country | United States (US) |
 | ASN | AS401626 · Netiface America, Inc. |
-| Activity | Port scanning (46) |
-| Events | 47 |
+| Activity | Port scanning (47) |
+| Events | 48 |
 | First seen (UTC) | 2026-11-11T18:13:55Z |
-| Last seen (UTC) | 2026-11-20T01:51:52Z |
+| Last seen (UTC) | 2026-11-24T04:24:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

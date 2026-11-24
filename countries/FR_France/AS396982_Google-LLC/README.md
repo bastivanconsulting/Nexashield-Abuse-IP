@@ -1,6 +1,6 @@
 # AS396982 · Google LLC
 
-🇫🇷 France · **14** malicious IP(s)
+🇫🇷 France · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [`216.180.246.35`](216.180.246.35/) | Port scanning (11), Known botnet / C2 infrastructure (2) | 15 | 2026-11-14T21:56:54Z |
 | [`216.180.246.88`](216.180.246.88/) | Port scanning (41), Known botnet / C2 infrastructure (3) | 55 | 2026-11-15T07:47:22Z |
 | [`216.180.246.128`](216.180.246.128/) | Port scanning (32), Known botnet / C2 infrastructure (4) | 39 | 2026-11-21T17:18:39Z |
+| [`216.180.246.139`](216.180.246.139/) | Port scanning (22), Known botnet / C2 infrastructure (3) | 26 | 2026-11-24T05:13:05Z |
 | [`216.180.246.140`](216.180.246.140/) | Abusive HTTP requests (18), Port scanning (14), Known botnet / C2 infrastructure (2) | 39 | 2026-11-21T17:21:02Z |
 | [`216.180.246.175`](216.180.246.175/) | Port scanning (9), Known botnet / C2 infrastructure (3) | 14 | 2026-11-21T16:43:04Z |
 | [`216.180.246.192`](216.180.246.192/) | Port scanning (23), Known botnet / C2 infrastructure (2) | 32 | 2026-11-24T01:05:15Z |

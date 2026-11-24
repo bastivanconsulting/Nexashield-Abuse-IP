@@ -7,10 +7,10 @@
 | IP | `185.93.89.79` |
 | Country | The Netherlands (NL) |
 | ASN | AS213790 · Limited Network LTD |
-| Activity | Port scanning (612) |
-| Events | 645 |
+| Activity | Port scanning (614) |
+| Events | 647 |
 | First seen (UTC) | 2026-11-11T10:47:11Z |
-| Last seen (UTC) | 2026-11-24T04:02:19Z |
+| Last seen (UTC) | 2026-11-24T04:46:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

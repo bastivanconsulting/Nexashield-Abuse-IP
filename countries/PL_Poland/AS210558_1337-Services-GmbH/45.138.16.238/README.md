@@ -7,10 +7,10 @@
 | IP | `45.138.16.238` |
 | Country | Poland (PL) |
 | ASN | AS210558 · 1337 Services GmbH |
-| Activity | Port scanning (59) |
-| Events | 61 |
+| Activity | Port scanning (60) |
+| Events | 62 |
 | First seen (UTC) | 2026-11-14T19:43:47Z |
-| Last seen (UTC) | 2026-11-24T03:29:38Z |
+| Last seen (UTC) | 2026-11-24T04:44:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

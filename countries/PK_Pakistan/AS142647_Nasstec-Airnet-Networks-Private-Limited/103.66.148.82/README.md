@@ -7,10 +7,10 @@
 | IP | `103.66.148.82` |
 | Country | Pakistan (PK) |
 | ASN | AS142647 · Nasstec Airnet Networks Private Limited |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (4) |
-| Events | 9 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (5) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-13T20:53:48Z |
-| Last seen (UTC) | 2026-11-18T08:14:07Z |
+| Last seen (UTC) | 2026-11-24T05:11:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

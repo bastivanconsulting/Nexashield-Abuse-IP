@@ -5,11 +5,11 @@
   "asn": 12389,
   "asn_org": "PJSC Rostelecom",
   "categories": {
-    "scan": 35,
-    "c2": 9
+    "scan": 38,
+    "c2": 10
   },
-  "events": 59,
+  "events": 64,
   "first_seen": "2026-11-13T08:13:20Z",
-  "last_seen": "2026-11-20T21:08:49Z",
+  "last_seen": "2026-11-24T04:56:45Z",
   "reported": "not reported (permanent ban)"
 }

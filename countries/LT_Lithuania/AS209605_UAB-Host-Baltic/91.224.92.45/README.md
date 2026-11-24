@@ -7,10 +7,10 @@
 | IP | `91.224.92.45` |
 | Country | Lithuania (LT) |
 | ASN | AS209605 · UAB Host Baltic |
-| Activity | Spamhaus DROP-listed network (1034) |
-| Events | 1034 |
+| Activity | Spamhaus DROP-listed network (1040) |
+| Events | 1040 |
 | First seen (UTC) | 2026-11-11T10:23:09Z |
-| Last seen (UTC) | 2026-11-24T04:34:37Z |
+| Last seen (UTC) | 2026-11-24T05:17:42Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:12Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
