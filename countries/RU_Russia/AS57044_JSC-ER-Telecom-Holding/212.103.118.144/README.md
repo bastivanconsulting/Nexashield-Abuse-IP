@@ -7,10 +7,10 @@
 | IP | `212.103.118.144` |
 | Country | Russia (RU) |
 | ASN | AS57044 · JSC "ER-Telecom Holding" |
-| Activity | Port scanning (33), Known botnet / C2 infrastructure (21) |
-| Events | 55 |
+| Activity | Port scanning (34), Known botnet / C2 infrastructure (21) |
+| Events | 56 |
 | First seen (UTC) | 2026-11-11T17:25:43Z |
-| Last seen (UTC) | 2026-11-24T03:55:12Z |
+| Last seen (UTC) | 2026-11-24T06:34:57Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

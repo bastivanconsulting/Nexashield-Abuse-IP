@@ -5,11 +5,11 @@
   "asn": 21859,
   "asn_org": "Zenlayer Inc",
   "categories": {
-    "scan": 7,
-    "c2": 4
+    "scan": 8,
+    "c2": 5
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-21T07:05:33Z",
-  "last_seen": "2026-11-24T01:28:31Z",
+  "last_seen": "2026-11-24T07:13:27Z",
   "reported": "not reported (permanent ban)"
 }

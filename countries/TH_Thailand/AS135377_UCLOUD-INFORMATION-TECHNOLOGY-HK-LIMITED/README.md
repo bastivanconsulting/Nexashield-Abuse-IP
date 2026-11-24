@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇹🇭 Thailand · **33** malicious IP(s)
+🇹🇭 Thailand · **34** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`118.193.56.246`](118.193.56.246/) | Port scanning (26), Known botnet / C2 infrastructure (19) | 46 | 2026-11-23T17:49:11Z |
 | [`118.193.57.59`](118.193.57.59/) | Port scanning (30), Known botnet / C2 infrastructure (19) | 50 | 2026-11-24T04:02:20Z |
 | [`118.193.57.185`](118.193.57.185/) | Port scanning (23), Known botnet / C2 infrastructure (18) | 42 | 2026-11-23T20:32:10Z |
+| [`118.194.250.2`](118.194.250.2/) | Port scanning (20) | 31 | 2026-11-24T07:16:52Z |
 | [`118.194.250.22`](118.194.250.22/) | Port scanning (30), Known botnet / C2 infrastructure (16) | 47 | 2026-11-23T08:24:26Z |
 | [`118.194.250.31`](118.194.250.31/) | Port scanning (18), Known botnet / C2 infrastructure (3) | 29 | 2026-11-24T03:58:29Z |
 | [`118.194.250.60`](118.194.250.60/) | Port scanning (36), Known botnet / C2 infrastructure (17) | 54 | 2026-11-24T04:42:35Z |

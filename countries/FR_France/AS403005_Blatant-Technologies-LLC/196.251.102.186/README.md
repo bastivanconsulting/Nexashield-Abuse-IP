@@ -7,10 +7,10 @@
 | IP | `196.251.102.186` |
 | Country | France (FR) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Port scanning (31) |
-| Events | 32 |
+| Activity | Port scanning (32) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-12T10:26:49Z |
-| Last seen (UTC) | 2026-11-24T01:32:17Z |
+| Last seen (UTC) | 2026-11-24T06:21:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

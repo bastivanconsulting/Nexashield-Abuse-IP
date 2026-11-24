@@ -5,10 +5,10 @@
   "asn": 51167,
   "asn_org": "Contabo GmbH",
   "categories": {
-    "scan": 23
+    "scan": 24
   },
-  "events": 28,
+  "events": 30,
   "first_seen": "2026-11-21T07:26:46Z",
-  "last_seen": "2026-11-23T16:19:06Z",
+  "last_seen": "2026-11-24T07:04:17Z",
   "reported": "not reported (permanent ban)"
 }

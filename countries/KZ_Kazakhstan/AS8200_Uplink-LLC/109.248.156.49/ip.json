@@ -1,0 +1,15 @@
+{
+  "ip": "109.248.156.49",
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "asn": 8200,
+  "asn_org": "Uplink LLC",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-16T11:51:11Z",
+  "last_seen": "2026-11-20T13:53:23Z",
+  "reported": "not reported (permanent ban)"
+}

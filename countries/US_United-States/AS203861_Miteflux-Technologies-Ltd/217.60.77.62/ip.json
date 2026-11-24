@@ -1,0 +1,15 @@
+{
+  "ip": "217.60.77.62",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 203861,
+  "asn_org": "Miteflux Technologies Ltd",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-19T23:16:51Z",
+  "last_seen": "2026-11-24T07:05:05Z",
+  "reported": "not reported (permanent ban)"
+}

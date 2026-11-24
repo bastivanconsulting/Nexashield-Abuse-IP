@@ -19,7 +19,7 @@
 | [`79.124.40.186`](79.124.40.186/) | Port scanning (138) | 157 | 2026-11-21T22:06:32Z |
 | [`79.124.49.62`](79.124.49.62/) | Port scanning (57), Known botnet / C2 infrastructure (22) | 89 | 2026-11-24T05:40:31Z |
 | [`79.124.49.102`](79.124.49.102/) | Port scanning (16), Known botnet / C2 infrastructure (5) | 22 | 2026-11-21T18:33:51Z |
-| [`79.124.49.146`](79.124.49.146/) | Port scanning (47), Known botnet / C2 infrastructure (17) | 74 | 2026-11-23T18:04:59Z |
+| [`79.124.49.146`](79.124.49.146/) | Port scanning (49), Known botnet / C2 infrastructure (17) | 76 | 2026-11-24T07:17:58Z |
 | [`79.124.56.222`](79.124.56.222/) | Port scanning (414), Known botnet / C2 infrastructure (33) | 472 | 2026-11-24T04:39:51Z |
 | [`79.124.56.254`](79.124.56.254/) | Port scanning (553), Known botnet / C2 infrastructure (40) | 637 | 2026-11-24T04:25:39Z |
 | [`79.124.58.22`](79.124.58.22/) | Abusive HTTP requests (36) | 36 | 2026-11-10T02:43:24Z |
@@ -35,8 +35,8 @@
 | [`79.124.58.218`](79.124.58.218/) | Port scanning (65), Known botnet / C2 infrastructure (2) | 69 | 2026-11-12T06:31:08Z |
 | [`79.124.58.250`](79.124.58.250/) | Port scanning (524) | 615 | 2026-11-24T04:41:35Z |
 | [`79.124.59.10`](79.124.59.10/) | Port scanning (376) | 430 | 2026-11-24T04:58:12Z |
-| [`79.124.59.78`](79.124.59.78/) | Port scanning (936), Known botnet / C2 infrastructure (48) | 1064 | 2026-11-24T06:17:38Z |
-| [`79.124.59.82`](79.124.59.82/) | Port scanning (335), Known botnet / C2 infrastructure (18) | 387 | 2026-11-24T05:44:11Z |
+| [`79.124.59.78`](79.124.59.78/) | Port scanning (940), Known botnet / C2 infrastructure (48) | 1069 | 2026-11-24T07:14:52Z |
+| [`79.124.59.82`](79.124.59.82/) | Port scanning (338), Known botnet / C2 infrastructure (18) | 391 | 2026-11-24T07:04:25Z |
 | [`79.124.60.194`](79.124.60.194/) | Port scanning (86) | 99 | 2026-11-12T14:50:09Z |
 | [`79.124.60.218`](79.124.60.218/) | Port scanning (23) | 23 | 2026-11-12T10:44:03Z |
 | [`79.124.60.250`](79.124.60.250/) | Port scanning (394) | 452 | 2026-11-24T04:53:30Z |

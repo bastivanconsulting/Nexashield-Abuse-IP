@@ -7,10 +7,10 @@
 | IP | `51.159.111.44` |
 | Country | France (FR) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Port scanning (319) |
-| Events | 369 |
+| Activity | Port scanning (322) |
+| Events | 372 |
 | First seen (UTC) | 2026-11-11T09:57:55Z |
-| Last seen (UTC) | 2026-11-24T05:57:31Z |
+| Last seen (UTC) | 2026-11-24T07:02:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

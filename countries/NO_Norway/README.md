@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (164) |
 | [AS2119](AS2119_Telenor-Norge-AS/) | Telenor Norge AS | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS25400](AS25400_Telia-Norge-AS/) | Telia Norge AS | 1 | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (3) |
+| [AS25400](AS25400_Telia-Norge-AS/) | Telia Norge AS | 1 | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (3) |
 | [AS50304](AS50304_Blix-Solutions-AS/) | Blix Solutions AS | 1 | Port scanning (161), Known botnet / C2 infrastructure (19), Abusive HTTP requests (2) |
 
 ---
