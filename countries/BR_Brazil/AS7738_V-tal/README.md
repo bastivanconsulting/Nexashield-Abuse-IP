@@ -10,7 +10,7 @@
 | [`200.216.172.182`](200.216.172.182/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-24T08:48:06Z |
 | [`200.222.71.218`](200.222.71.218/) | Port scanning (8), Known botnet / C2 infrastructure (6), SSH brute force (3) | 19 | 2026-11-23T22:09:24Z |
 | [`200.223.25.122`](200.223.25.122/) | Known botnet / C2 infrastructure (4), Port scanning (4), SSH brute force (2) | 11 | 2026-11-23T22:02:50Z |
-| [`200.223.196.90`](200.223.196.90/) | Known botnet / C2 infrastructure (7), SSH brute force (4), Port scanning (4) | 16 | 2026-11-24T15:22:44Z |
+| [`200.223.196.90`](200.223.196.90/) | Known botnet / C2 infrastructure (7), Port scanning (5), SSH brute force (4) | 17 | 2026-11-24T17:03:10Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

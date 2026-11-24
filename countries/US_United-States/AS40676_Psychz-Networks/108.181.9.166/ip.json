@@ -5,11 +5,11 @@
   "asn": 40676,
   "asn_org": "Psychz Networks",
   "categories": {
-    "scan": 4,
-    "c2": 2
+    "scan": 5,
+    "c2": 3
   },
-  "events": 7,
+  "events": 10,
   "first_seen": "2026-11-23T21:10:54Z",
-  "last_seen": "2026-11-24T03:21:42Z",
+  "last_seen": "2026-11-24T16:27:04Z",
   "reported": "not reported (permanent ban)"
 }

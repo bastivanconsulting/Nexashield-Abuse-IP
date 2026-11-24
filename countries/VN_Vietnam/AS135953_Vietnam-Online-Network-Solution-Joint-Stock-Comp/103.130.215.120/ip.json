@@ -1,0 +1,16 @@
+{
+  "ip": "103.130.215.120",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 135953,
+  "asn_org": "Vietnam Online Network Solution Joint Stock Compnay",
+  "categories": {
+    "web": 1,
+    "scan": 16,
+    "c2": 3
+  },
+  "events": 21,
+  "first_seen": "2026-11-21T17:46:50Z",
+  "last_seen": "2026-11-24T17:06:04Z",
+  "reported": "not reported (permanent ban)"
+}

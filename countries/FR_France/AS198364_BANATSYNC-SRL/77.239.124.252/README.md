@@ -7,10 +7,10 @@
 | IP | `77.239.124.252` |
 | Country | France (FR) |
 | ASN | AS198364 · BANATSYNC SRL |
-| Activity | Port scanning (1835), Known botnet / C2 infrastructure (28) |
-| Events | 1976 |
+| Activity | Port scanning (1847), Known botnet / C2 infrastructure (28) |
+| Events | 1988 |
 | First seen (UTC) | 2026-11-13T19:59:38Z |
-| Last seen (UTC) | 2026-11-24T16:13:09Z |
+| Last seen (UTC) | 2026-11-24T16:37:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

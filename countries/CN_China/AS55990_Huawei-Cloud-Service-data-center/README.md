@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`60.204.241.23`](60.204.241.23/) | Known botnet / C2 infrastructure (4), Port scanning (1) | 10 | 2026-11-24T08:32:28Z |
+| [`60.204.241.23`](60.204.241.23/) | Known botnet / C2 infrastructure (5), Port scanning (1) | 12 | 2026-11-24T16:29:26Z |
 | [`101.245.71.219`](101.245.71.219/) | Port scanning (7), Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) | 10 | 2026-11-12T14:49:59Z |
 
 ---

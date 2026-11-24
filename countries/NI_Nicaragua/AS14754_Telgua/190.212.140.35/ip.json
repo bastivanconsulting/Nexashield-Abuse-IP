@@ -1,0 +1,14 @@
+{
+  "ip": "190.212.140.35",
+  "country_code": "NI",
+  "country": "Nicaragua",
+  "asn": 14754,
+  "asn_org": "Telgua",
+  "categories": {
+    "scan": 33
+  },
+  "events": 34,
+  "first_seen": "2026-11-24T14:35:48Z",
+  "last_seen": "2026-11-24T16:40:06Z",
+  "reported": "not reported (permanent ban)"
+}

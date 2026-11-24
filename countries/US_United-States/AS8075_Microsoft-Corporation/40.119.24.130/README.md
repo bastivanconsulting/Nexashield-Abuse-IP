@@ -7,10 +7,10 @@
 | IP | `40.119.24.130` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (28), Known botnet / C2 infrastructure (17) |
-| Events | 46 |
+| Activity | Port scanning (29), Known botnet / C2 infrastructure (17) |
+| Events | 47 |
 | First seen (UTC) | 2026-11-11T14:50:37Z |
-| Last seen (UTC) | 2026-11-24T15:35:31Z |
+| Last seen (UTC) | 2026-11-24T17:08:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

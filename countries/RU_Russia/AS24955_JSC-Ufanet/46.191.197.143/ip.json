@@ -5,11 +5,12 @@
   "asn": 24955,
   "asn_org": "JSC \"Ufanet\"",
   "categories": {
-    "ssh": 3,
-    "c2": 1
+    "ssh": 6,
+    "c2": 2,
+    "scan": 1
   },
-  "events": 4,
+  "events": 10,
   "first_seen": "2026-11-18T18:26:57Z",
-  "last_seen": "2026-11-18T18:27:15Z",
+  "last_seen": "2026-11-24T16:51:37Z",
   "reported": "not reported (permanent ban)"
 }

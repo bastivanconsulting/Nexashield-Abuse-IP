@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 14 | Port scanning (44), Exploitation attempt (CVE / RCE / injection) (24), Known botnet / C2 infrastructure (24), Abusive HTTP requests (8), SSH brute force (5) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (49), SSH brute force (46), Port scanning (37) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (49), SSH brute force (46), Port scanning (38) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 7 | Port scanning (29), Known botnet / C2 infrastructure (24), SSH brute force (21) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (84), Known botnet / C2 infrastructure (25) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (237), Known botnet / C2 infrastructure (84) |
@@ -17,7 +17,7 @@
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
-| [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (6), Known botnet / C2 infrastructure (6), SSH brute force (4) |
+| [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (7), SSH brute force (4) |
 | [AS136323](AS136323_Ngc-Broadband-Pvt-Ltd/) | Ngc Broadband Pvt. Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (4), SSH brute force (2) |
 | [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (10), Known botnet / C2 infrastructure (8), SSH brute force (2) |
 | [AS138755](AS138755_City-Online-Ap-Private-Ltd/) | City Online Ap Private Ltd | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |

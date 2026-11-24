@@ -6,11 +6,11 @@
   "asn_org": "THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY",
   "categories": {
     "ssh": 4,
-    "c2": 14,
-    "scan": 18
+    "c2": 15,
+    "scan": 19
   },
-  "events": 37,
+  "events": 39,
   "first_seen": "2026-11-13T17:22:48Z",
-  "last_seen": "2026-11-24T08:34:00Z",
+  "last_seen": "2026-11-24T17:15:45Z",
   "reported": "not reported (permanent ban)"
 }

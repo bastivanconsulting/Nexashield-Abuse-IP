@@ -5,11 +5,11 @@
   "asn": 23893,
   "asn_org": "Bangla Phone Ltd",
   "categories": {
-    "scan": 9,
-    "c2": 6
+    "scan": 11,
+    "c2": 7
   },
-  "events": 16,
+  "events": 19,
   "first_seen": "2026-11-13T21:47:26Z",
-  "last_seen": "2026-11-24T04:19:40Z",
+  "last_seen": "2026-11-24T16:47:14Z",
   "reported": "not reported (permanent ban)"
 }

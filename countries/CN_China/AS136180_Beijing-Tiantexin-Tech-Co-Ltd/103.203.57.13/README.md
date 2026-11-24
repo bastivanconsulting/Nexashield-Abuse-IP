@@ -7,10 +7,10 @@
 | IP | `103.203.57.13` |
 | Country | China (CN) |
 | ASN | AS136180 · Beijing Tiantexin Tech. Co., Ltd. |
-| Activity | Port scanning (36) |
-| Events | 49 |
+| Activity | Port scanning (38) |
+| Events | 52 |
 | First seen (UTC) | 2026-11-11T10:50:43Z |
-| Last seen (UTC) | 2026-11-23T19:04:35Z |
+| Last seen (UTC) | 2026-11-24T16:51:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

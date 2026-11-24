@@ -7,10 +7,10 @@
 | IP | `165.154.70.178` |
 | Country | Hong Kong (HK) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (30) |
-| Events | 46 |
+| Activity | Port scanning (31) |
+| Events | 48 |
 | First seen (UTC) | 2026-11-11T14:20:39Z |
-| Last seen (UTC) | 2026-11-24T01:56:02Z |
+| Last seen (UTC) | 2026-11-24T17:05:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
