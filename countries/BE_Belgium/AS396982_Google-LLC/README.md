@@ -1,6 +1,6 @@
 # AS396982 · Google LLC
 
-🇧🇪 Belgium · **59** malicious IP(s)
+🇧🇪 Belgium · **60** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -29,6 +29,7 @@
 | [`34.76.183.190`](34.76.183.190/) | Abusive HTTP requests (160) | 160 | 2026-11-20T00:02:40Z |
 | [`34.76.228.132`](34.76.228.132/) | Abusive HTTP requests (565) | 565 | 2026-11-14T09:46:16Z |
 | [`34.77.38.170`](34.77.38.170/) | Abusive HTTP requests (162) | 162 | 2026-11-21T08:25:41Z |
+| [`34.77.76.113`](34.77.76.113/) | Abusive HTTP requests (320) | 320 | 2026-11-24T07:05:28Z |
 | [`34.77.153.177`](34.77.153.177/) | Abusive HTTP requests (198) | 198 | 2026-11-13T11:18:55Z |
 | [`34.78.174.47`](34.78.174.47/) | Abusive HTTP requests (127) | 127 | 2026-11-17T17:14:47Z |
 | [`34.79.37.102`](34.79.37.102/) | Abusive HTTP requests (108) | 108 | 2026-11-14T13:34:13Z |
@@ -51,13 +52,13 @@
 | [`35.205.11.131`](35.205.11.131/) | Abusive HTTP requests (143), Web injection payload blocked by WAF (22) | 165 | 2026-11-18T12:44:28Z |
 | [`35.233.37.230`](35.233.37.230/) | Abusive HTTP requests (134) | 134 | 2026-11-20T00:14:51Z |
 | [`35.233.44.84`](35.233.44.84/) | Abusive HTTP requests (162) | 162 | 2026-11-19T06:07:25Z |
-| [`104.155.66.115`](104.155.66.115/) | Port scanning (65), Known botnet / C2 infrastructure (14), Abusive HTTP requests (7) | 92 | 2026-11-24T06:34:17Z |
+| [`104.155.66.115`](104.155.66.115/) | Port scanning (66), Known botnet / C2 infrastructure (14), Abusive HTTP requests (7) | 93 | 2026-11-24T07:18:40Z |
 | [`104.199.26.126`](104.199.26.126/) | Port scanning (6), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 14 | 2026-11-22T04:46:08Z |
 | [`130.211.87.56`](130.211.87.56/) | Abusive HTTP requests (133) | 133 | 2026-11-18T01:38:52Z |
 | [`207.175.61.160`](207.175.61.160/) | Abusive HTTP requests (175) | 175 | 2026-11-20T07:02:22Z |
 | [`207.175.76.22`](207.175.76.22/) | Abusive HTTP requests (164) | 164 | 2026-11-21T03:48:43Z |
 | [`207.175.97.104`](207.175.97.104/) | Abusive HTTP requests (152) | 152 | 2026-11-18T03:49:30Z |
-| [`207.175.103.117`](207.175.103.117/) | Port scanning (57), Known botnet / C2 infrastructure (14), Abusive HTTP requests (2) | 78 | 2026-11-24T05:59:49Z |
+| [`207.175.103.117`](207.175.103.117/) | Port scanning (59), Known botnet / C2 infrastructure (15), Abusive HTTP requests (2) | 81 | 2026-11-24T07:53:03Z |
 | [`207.175.162.235`](207.175.162.235/) | Abusive HTTP requests (844) | 844 | 2026-11-20T23:03:05Z |
 | [`207.175.165.55`](207.175.165.55/) | Abusive HTTP requests (75) | 75 | 2026-11-11T23:59:07Z |
 | [`207.175.202.245`](207.175.202.245/) | Abusive HTTP requests (135) | 135 | 2026-11-13T21:42:46Z |

@@ -5,11 +5,11 @@
   "asn": 8200,
   "asn_org": "Uplink LLC",
   "categories": {
-    "ssh": 3,
-    "c2": 2
+    "ssh": 6,
+    "c2": 3
   },
-  "events": 5,
+  "events": 10,
   "first_seen": "2026-11-16T11:51:11Z",
-  "last_seen": "2026-11-20T13:53:23Z",
+  "last_seen": "2026-11-24T07:25:05Z",
   "reported": "not reported (permanent ban)"
 }

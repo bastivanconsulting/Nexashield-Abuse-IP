@@ -7,10 +7,10 @@
 | IP | `211.230.3.71` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | Port scanning (29), SSH brute force (12), Known botnet / C2 infrastructure (4) |
-| Events | 45 |
+| Activity | Port scanning (29), SSH brute force (12), Known botnet / C2 infrastructure (8) |
+| Events | 49 |
 | First seen (UTC) | 2026-11-23T00:59:28Z |
-| Last seen (UTC) | 2026-11-24T05:55:05Z |
+| Last seen (UTC) | 2026-11-24T07:54:15Z |
 | Reported to network owner (UTC) | 2026-11-23T02:27:11Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

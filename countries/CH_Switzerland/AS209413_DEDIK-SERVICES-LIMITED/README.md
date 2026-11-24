@@ -1,10 +1,11 @@
 # AS209413 · DEDIK SERVICES LIMITED
 
-🇨🇭 Switzerland · **2** malicious IP(s)
+🇨🇭 Switzerland · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`176.65.144.5`](176.65.144.5/) | Port scanning (116) | 119 | 2026-11-24T02:03:44Z |
+| [`176.65.144.5`](176.65.144.5/) | Port scanning (119) | 122 | 2026-11-24T07:51:25Z |
+| [`176.65.144.34`](176.65.144.34/) | Spamhaus DROP-listed network (22), Abusive HTTP requests (8) | 30 | 2026-11-24T07:49:56Z |
 | [`176.65.144.200`](176.65.144.200/) | Port scanning (24) | 25 | 2026-11-14T21:56:40Z |
 
 ---

@@ -5,10 +5,10 @@
   "asn": 51082,
   "asn_org": "SPUZE LLC",
   "categories": {
-    "c2": 1
+    "c2": 7
   },
-  "events": 1,
+  "events": 7,
   "first_seen": "2026-11-22T23:15:15Z",
-  "last_seen": "2026-11-22T23:15:15Z",
+  "last_seen": "2026-11-24T07:47:34Z",
   "reported": "2026-11-23T00:27:22Z"
 }

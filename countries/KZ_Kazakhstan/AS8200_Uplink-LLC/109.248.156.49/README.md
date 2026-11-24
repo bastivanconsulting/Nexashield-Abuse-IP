@@ -7,10 +7,10 @@
 | IP | `109.248.156.49` |
 | Country | Kazakhstan (KZ) |
 | ASN | AS8200 · Uplink LLC |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-16T11:51:11Z |
-| Last seen (UTC) | 2026-11-20T13:53:23Z |
+| Last seen (UTC) | 2026-11-24T07:25:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

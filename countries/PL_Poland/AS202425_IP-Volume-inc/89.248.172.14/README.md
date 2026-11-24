@@ -7,10 +7,10 @@
 | IP | `89.248.172.14` |
 | Country | Poland (PL) |
 | ASN | AS202425 · IP Volume inc |
-| Activity | Port scanning (39), Known botnet / C2 infrastructure (19) |
-| Events | 59 |
+| Activity | Port scanning (50), Known botnet / C2 infrastructure (20) |
+| Events | 71 |
 | First seen (UTC) | 2026-11-11T16:16:12Z |
-| Last seen (UTC) | 2026-11-24T04:35:05Z |
+| Last seen (UTC) | 2026-11-24T07:50:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

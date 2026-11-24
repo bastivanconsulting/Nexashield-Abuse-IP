@@ -6,10 +6,11 @@
   "asn_org": "TC DATACENTER LIMITED",
   "categories": {
     "spamhaus": 164,
+    "scan": 2,
     "web": 22
   },
-  "events": 186,
+  "events": 188,
   "first_seen": "2026-11-14T20:38:26Z",
-  "last_seen": "2026-11-24T06:55:01Z",
+  "last_seen": "2026-11-24T07:45:56Z",
   "reported": "2026-11-14T22:28:52Z"
 }
