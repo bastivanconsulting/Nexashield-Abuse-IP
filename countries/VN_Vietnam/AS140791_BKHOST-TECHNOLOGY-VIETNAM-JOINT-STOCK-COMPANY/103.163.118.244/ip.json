@@ -5,11 +5,11 @@
   "asn": 140791,
   "asn_org": "BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",
   "categories": {
-    "scan": 43,
-    "c2": 25
+    "scan": 44,
+    "c2": 26
   },
-  "events": 69,
+  "events": 71,
   "first_seen": "2026-11-11T21:33:53Z",
-  "last_seen": "2026-11-24T14:54:02Z",
+  "last_seen": "2026-11-24T22:43:30Z",
   "reported": "not reported (permanent ban)"
 }

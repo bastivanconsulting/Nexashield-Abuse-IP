@@ -1,6 +1,6 @@
 # AS43515 · Google Ireland Limited
 
-🇳🇱 The Netherlands · **23** malicious IP(s)
+🇳🇱 The Netherlands · **25** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,10 +13,12 @@
 | [`34.3.85.75`](34.3.85.75/) | Port scanning (9) | 11 | 2026-11-15T17:54:47Z |
 | [`34.3.87.158`](34.3.87.158/) | Port scanning (19), Known botnet / C2 infrastructure (2) | 23 | 2026-11-24T00:45:49Z |
 | [`34.3.91.179`](34.3.91.179/) | Port scanning (22), Known botnet / C2 infrastructure (3) | 26 | 2026-11-24T01:02:05Z |
+| [`34.3.92.172`](34.3.92.172/) | Port scanning (22) | 25 | 2026-11-23T22:57:02Z |
 | [`35.214.142.8`](35.214.142.8/) | Port scanning (19) | 24 | 2026-11-24T01:05:15Z |
 | [`35.214.143.252`](35.214.143.252/) | Port scanning (19) | 25 | 2026-11-15T21:52:42Z |
 | [`35.214.158.145`](35.214.158.145/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 9 | 2026-11-23T23:16:24Z |
 | [`35.214.166.202`](35.214.166.202/) | SSH brute force (7) | 7 | 2026-11-19T04:12:40Z |
+| [`35.214.173.215`](35.214.173.215/) | Port scanning (25) | 26 | 2026-11-24T01:10:18Z |
 | [`35.214.174.17`](35.214.174.17/) | Port scanning (12) | 17 | 2026-11-15T22:02:03Z |
 | [`35.214.183.75`](35.214.183.75/) | Port scanning (15) | 18 | 2026-11-23T22:48:40Z |
 | [`35.214.184.14`](35.214.184.14/) | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) | 4 | 2026-11-15T15:04:05Z |

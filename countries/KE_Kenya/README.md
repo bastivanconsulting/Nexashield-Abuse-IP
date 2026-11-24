@@ -1,10 +1,10 @@
 # 🇰🇪 Kenya
 
-**2** malicious IP(s) across **2** network(s).
+**3** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS30844](AS30844_Liquid-Telecommunications-Ltd/) | Liquid Telecommunications Ltd | 1 | Port scanning (1) |
+| [AS30844](AS30844_Liquid-Telecommunications-Ltd/) | Liquid Telecommunications Ltd | 2 | Port scanning (2) |
 | [AS328847](AS328847_THE-KONZA-TECHNOPOLIS-DEVELOPMENT-AUTHORITY/) | THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY | 1 | Port scanning (20), Known botnet / C2 infrastructure (15), SSH brute force (4) |
 
 ---

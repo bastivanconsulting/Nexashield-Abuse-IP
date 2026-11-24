@@ -7,10 +7,10 @@
 | IP | `27.39.130.144` |
 | Country | China (CN) |
 | ASN | AS17816 · China Unicom IP network China169 Guangdong province |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (1) |
-| Events | 11 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (4), SSH brute force (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-17T09:55:30Z |
-| Last seen (UTC) | 2026-11-24T21:48:01Z |
+| Last seen (UTC) | 2026-11-24T22:36:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

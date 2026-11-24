@@ -1,9 +1,10 @@
 # AS30844 · Liquid Telecommunications Ltd
 
-🇰🇪 Kenya · **1** malicious IP(s)
+🇰🇪 Kenya · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`197.155.92.21`](197.155.92.21/) | Port scanning (1) | 2 | 2026-11-24T22:55:06Z |
 | [`197.155.92.34`](197.155.92.34/) | Port scanning (1) | 2 | 2026-11-24T18:15:05Z |
 
 ---

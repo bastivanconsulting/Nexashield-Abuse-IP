@@ -1,0 +1,14 @@
+{
+  "ip": "186.232.120.74",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 263055,
+  "asn_org": "Pinhais Net Telecom Comercio e Servi\u00e7os Ltda",
+  "categories": {
+    "scan": 11
+  },
+  "events": 15,
+  "first_seen": "2026-11-24T19:49:27Z",
+  "last_seen": "2026-11-24T22:42:06Z",
+  "reported": "not reported (permanent ban)"
+}

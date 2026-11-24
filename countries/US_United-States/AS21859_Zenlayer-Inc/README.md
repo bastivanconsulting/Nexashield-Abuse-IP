@@ -70,7 +70,7 @@
 | [`109.105.210.62`](109.105.210.62/) | Port scanning (16), Known botnet / C2 infrastructure (12) | 29 | 2026-11-24T18:23:58Z |
 | [`109.105.210.63`](109.105.210.63/) | Port scanning (18), Known botnet / C2 infrastructure (14) | 33 | 2026-11-24T21:16:57Z |
 | [`109.105.210.64`](109.105.210.64/) | Port scanning (17), Known botnet / C2 infrastructure (11), Exploitation attempt (CVE / RCE / injection) (1) | 32 | 2026-11-21T06:11:41Z |
-| [`109.105.210.65`](109.105.210.65/) | Port scanning (17), Known botnet / C2 infrastructure (10) | 28 | 2026-11-24T19:41:49Z |
+| [`109.105.210.65`](109.105.210.65/) | Port scanning (19), Known botnet / C2 infrastructure (10) | 30 | 2026-11-24T22:37:17Z |
 | [`109.105.210.67`](109.105.210.67/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-24T01:13:15Z |
 | [`109.105.210.68`](109.105.210.68/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-24T22:14:51Z |
 | [`109.105.210.70`](109.105.210.70/) | Port scanning (16), Known botnet / C2 infrastructure (12) | 29 | 2026-11-24T04:23:14Z |
@@ -97,7 +97,7 @@
 | [`185.180.141.12`](185.180.141.12/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-24T11:18:06Z |
 | [`185.180.141.13`](185.180.141.13/) | Port scanning (29), Known botnet / C2 infrastructure (18), Exploitation attempt (CVE / RCE / injection) (1) | 51 | 2026-11-24T20:16:55Z |
 | [`185.180.141.33`](185.180.141.33/) | Port scanning (23), Known botnet / C2 infrastructure (13) | 37 | 2026-11-24T11:23:12Z |
-| [`185.180.141.37`](185.180.141.37/) | Port scanning (16), Known botnet / C2 infrastructure (13) | 31 | 2026-11-22T15:00:08Z |
+| [`185.180.141.37`](185.180.141.37/) | Port scanning (17), Known botnet / C2 infrastructure (14) | 33 | 2026-11-24T23:05:22Z |
 | [`185.180.141.38`](185.180.141.38/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-23T09:18:31Z |
 | [`185.180.141.40`](185.180.141.40/) | Known botnet / C2 infrastructure (2), Abusive HTTP requests (1), Port scanning (1) | 5 | 2026-11-24T11:18:04Z |
 | [`185.180.141.42`](185.180.141.42/) | Port scanning (16), Known botnet / C2 infrastructure (12) | 29 | 2026-11-24T07:59:49Z |

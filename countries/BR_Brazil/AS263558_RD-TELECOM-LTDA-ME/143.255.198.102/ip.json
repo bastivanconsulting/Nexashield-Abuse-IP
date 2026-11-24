@@ -5,11 +5,11 @@
   "asn": 263558,
   "asn_org": "RD TELECOM LTDA -ME",
   "categories": {
-    "scan": 11,
+    "scan": 14,
     "c2": 1
   },
-  "events": 13,
+  "events": 18,
   "first_seen": "2026-11-24T20:29:27Z",
-  "last_seen": "2026-11-24T22:15:32Z",
+  "last_seen": "2026-11-24T22:23:05Z",
   "reported": "not reported (permanent ban)"
 }

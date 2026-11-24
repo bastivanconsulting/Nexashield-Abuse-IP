@@ -1,0 +1,14 @@
+{
+  "ip": "197.155.92.21",
+  "country_code": "KE",
+  "country": "Kenya",
+  "asn": 30844,
+  "asn_org": "Liquid Telecommunications Ltd",
+  "categories": {
+    "scan": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-24T22:54:41Z",
+  "last_seen": "2026-11-24T22:55:06Z",
+  "reported": "not reported (permanent ban)"
+}

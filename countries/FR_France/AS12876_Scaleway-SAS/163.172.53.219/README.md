@@ -7,10 +7,10 @@
 | IP | `163.172.53.219` |
 | Country | France (FR) |
 | ASN | AS12876 · Scaleway SAS |
-| Activity | Exploitation attempt (CVE / RCE / injection) (5), Port scanning (5) |
-| Events | 16 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (6), Port scanning (6) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-12T17:04:55Z |
-| Last seen (UTC) | 2026-11-22T12:09:04Z |
+| Last seen (UTC) | 2026-11-24T22:56:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
