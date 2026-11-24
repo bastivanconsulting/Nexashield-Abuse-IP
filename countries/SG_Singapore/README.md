@@ -1,16 +1,16 @@
 # 🇸🇬 Singapore
 
-**143** malicious IP(s) across **11** network(s).
+**145** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 100 | Port scanning (596), Known botnet / C2 infrastructure (443), SSH brute force (7), Abusive HTTP requests (1) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 22 | Abusive HTTP requests (366), Port scanning (348), Known botnet / C2 infrastructure (89), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 102 | Port scanning (611), Known botnet / C2 infrastructure (451), SSH brute force (7), Abusive HTTP requests (1) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 22 | Abusive HTTP requests (366), Port scanning (354), Known botnet / C2 infrastructure (90), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (446), Known botnet / C2 infrastructure (50) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 5 | Port scanning (116) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 2 | Port scanning (26), Known botnet / C2 infrastructure (17) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (198), Web injection payload blocked by WAF (22), SSH brute force (11), Port scanning (2) |
-| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (109), Known botnet / C2 infrastructure (32), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (110), Known botnet / C2 infrastructure (32), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS154402](AS154402_Shenzhen-FredCloud-Computing-Technology-Co-Ltd/) | Shenzhen FredCloud Computing Technology Co., Ltd. | 1 | Port scanning (57) |
 | [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (244) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Abusive HTTP requests (59) |

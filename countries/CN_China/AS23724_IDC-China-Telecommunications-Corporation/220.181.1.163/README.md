@@ -7,10 +7,10 @@
 | IP | `220.181.1.163` |
 | Country | China (CN) |
 | ASN | AS23724 · IDC, China Telecommunications Corporation |
-| Activity | Port scanning (53), Known botnet / C2 infrastructure (21) |
-| Events | 86 |
+| Activity | Port scanning (57), Known botnet / C2 infrastructure (21) |
+| Events | 91 |
 | First seen (UTC) | 2026-11-11T20:50:03Z |
-| Last seen (UTC) | 2026-11-24T18:54:31Z |
+| Last seen (UTC) | 2026-11-24T20:37:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

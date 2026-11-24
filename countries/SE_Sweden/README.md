@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 36 | Port scanning (3662), Known botnet / C2 infrastructure (402), Exploitation attempt (CVE / RCE / injection) (66), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 36 | Port scanning (3688), Known botnet / C2 infrastructure (402), Exploitation attempt (CVE / RCE / injection) (72), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 18 | SSH brute force (71), Known botnet / C2 infrastructure (55), Port scanning (48), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (1) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 11 | SSH brute force (71), Known botnet / C2 infrastructure (49), Port scanning (20) |
 | [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 4 | Known botnet / C2 infrastructure (18), SSH brute force (14), Port scanning (14) |
@@ -15,7 +15,7 @@
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26) |
 | [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Abusive HTTP requests (3) |
 | [AS212238](AS212238_Datacamp-Limited/) | Datacamp Limited | 1 | Known botnet / C2 infrastructure (3) |
-| [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (52) |
+| [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (53) |
 | [AS33885](AS33885_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS3399](AS3399_Obenetwork-AB/) | Obenetwork AB | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (2) |
 

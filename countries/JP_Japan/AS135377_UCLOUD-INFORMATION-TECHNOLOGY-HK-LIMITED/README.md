@@ -1,6 +1,6 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇯🇵 Japan · **9** malicious IP(s)
+🇯🇵 Japan · **10** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -13,6 +13,7 @@
 | [`152.32.201.119`](152.32.201.119/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-22T19:45:24Z |
 | [`152.32.201.217`](152.32.201.217/) | Port scanning (48) | 74 | 2026-11-24T19:25:38Z |
 | [`152.32.201.247`](152.32.201.247/) | Port scanning (33) | 49 | 2026-11-24T20:15:23Z |
+| [`152.32.204.21`](152.32.204.21/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-24T20:59:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

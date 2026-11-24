@@ -5,12 +5,12 @@
   "asn": 7018,
   "asn_org": "AT&T Enterprises, LLC",
   "categories": {
-    "scan": 1,
+    "scan": 2,
     "ssh": 5,
     "c2": 3
   },
-  "events": 10,
+  "events": 11,
   "first_seen": "2026-11-17T19:10:07Z",
-  "last_seen": "2026-11-24T15:11:05Z",
+  "last_seen": "2026-11-24T21:06:20Z",
   "reported": "not reported (permanent ban)"
 }

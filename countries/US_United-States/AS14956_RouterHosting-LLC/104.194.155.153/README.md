@@ -7,10 +7,10 @@
 | IP | `104.194.155.153` |
 | Country | United States (US) |
 | ASN | AS14956 · RouterHosting LLC |
-| Activity | Port scanning (23) |
-| Events | 33 |
+| Activity | Port scanning (24) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-21T12:08:43Z |
-| Last seen (UTC) | 2026-11-24T20:05:43Z |
+| Last seen (UTC) | 2026-11-24T20:38:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

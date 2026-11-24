@@ -7,10 +7,10 @@
 | IP | `213.230.64.246` |
 | Country | Uzbekistan (UZ) |
 | ASN | AS8193 · "Uzbektelekom" Joint Stock Company |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (4) |
-| Events | 14 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (5) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-18T19:21:38Z |
-| Last seen (UTC) | 2026-11-23T15:27:26Z |
+| Last seen (UTC) | 2026-11-24T20:25:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

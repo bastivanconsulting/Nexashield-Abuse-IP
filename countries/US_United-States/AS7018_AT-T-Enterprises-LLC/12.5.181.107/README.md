@@ -7,10 +7,10 @@
 | IP | `12.5.181.107` |
 | Country | United States (US) |
 | ASN | AS7018 · AT&T Enterprises, LLC |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 10 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-17T19:10:07Z |
-| Last seen (UTC) | 2026-11-24T15:11:05Z |
+| Last seen (UTC) | 2026-11-24T21:06:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
