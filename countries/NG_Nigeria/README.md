@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 16 | Port scanning (279), Known botnet / C2 infrastructure (118) |
-| [AS37540](AS37540_Winrock-Nigeria-Limited/) | Winrock Nigeria Limited | 2 | Port scanning (74), Known botnet / C2 infrastructure (24), SSH brute force (9) |
+| [AS37540](AS37540_Winrock-Nigeria-Limited/) | Winrock Nigeria Limited | 2 | Port scanning (75), Known botnet / C2 infrastructure (24), SSH brute force (9) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,6 +1,6 @@
 # 🇮🇳 India
 
-**68** malicious IP(s) across **28** network(s).
+**69** malicious IP(s) across **29** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -21,13 +21,14 @@
 | [AS136323](AS136323_Ngc-Broadband-Pvt-Ltd/) | Ngc Broadband Pvt. Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (4), SSH brute force (2) |
 | [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (8), Known botnet / C2 infrastructure (6), SSH brute force (2) |
 | [AS138755](AS138755_City-Online-Ap-Private-Ltd/) | City Online Ap Private Ltd | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
-| [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
+| [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (4) |
 | [AS142439](AS142439_ALPHA-FIBER-NET/) | ALPHA FIBER NET | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS149553](AS149553_AXOM-INTERNET-SERVICES-PRIVATE-LIMITED/) | AXOM INTERNET SERVICES PRIVATE LIMITED | 1 | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (2) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
 | [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (1) |
 | [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| [AS45528](AS45528_Tikona-Infinet-Ltd/) | Tikona Infinet Ltd. | 1 | SSH brute force (7), Known botnet / C2 infrastructure (3) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
 | [AS55836](AS55836_Reliance-Jio-Infocomm-Limited/) | Reliance Jio Infocomm Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |

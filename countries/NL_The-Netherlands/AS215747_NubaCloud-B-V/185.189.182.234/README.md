@@ -7,10 +7,10 @@
 | IP | `185.189.182.234` |
 | Country | The Netherlands (NL) |
 | ASN | AS215747 · NubaCloud B.V. |
-| Activity | Port scanning (16), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) |
-| Events | 23 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-17T05:09:38Z |
-| Last seen (UTC) | 2026-11-24T02:13:52Z |
+| Last seen (UTC) | 2026-11-24T03:06:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

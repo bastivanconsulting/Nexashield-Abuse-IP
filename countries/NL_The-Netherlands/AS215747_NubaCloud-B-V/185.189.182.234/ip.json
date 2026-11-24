@@ -6,11 +6,11 @@
   "asn_org": "NubaCloud B.V.",
   "categories": {
     "web": 2,
-    "scan": 16,
+    "scan": 21,
     "c2": 4
   },
-  "events": 23,
+  "events": 28,
   "first_seen": "2026-11-17T05:09:38Z",
-  "last_seen": "2026-11-24T02:13:52Z",
+  "last_seen": "2026-11-24T03:06:49Z",
   "reported": "not reported (permanent ban)"
 }

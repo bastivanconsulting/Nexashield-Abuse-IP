@@ -1,0 +1,15 @@
+{
+  "ip": "174.134.45.64",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 33363,
+  "asn_org": "Charter Communications, Inc",
+  "categories": {
+    "ssh": 7,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-18T10:39:18Z",
+  "last_seen": "2026-11-24T02:57:05Z",
+  "reported": "not reported (permanent ban)"
+}

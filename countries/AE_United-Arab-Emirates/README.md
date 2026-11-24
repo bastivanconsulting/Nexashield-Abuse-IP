@@ -1,10 +1,10 @@
 # 🇦🇪 United Arab Emirates
 
-**9** malicious IP(s) across **2** network(s).
+**10** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (71), Known botnet / C2 infrastructure (32) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (84), Known botnet / C2 infrastructure (35) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | Abusive HTTP requests (18), Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (2) |
 
 ---

@@ -1,0 +1,15 @@
+{
+  "ip": "113.193.187.154",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 45528,
+  "asn_org": "Tikona Infinet Ltd.",
+  "categories": {
+    "ssh": 7,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-20T07:06:10Z",
+  "last_seen": "2026-11-24T03:07:05Z",
+  "reported": "not reported (permanent ban)"
+}

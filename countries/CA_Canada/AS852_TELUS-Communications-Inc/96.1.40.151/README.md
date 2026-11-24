@@ -7,10 +7,10 @@
 | IP | `96.1.40.151` |
 | Country | Canada (CA) |
 | ASN | AS852 · TELUS Communications Inc. |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| Events | 9 |
+| Activity | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (3) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-20T16:23:57Z |
-| Last seen (UTC) | 2026-11-23T00:58:06Z |
+| Last seen (UTC) | 2026-11-24T02:29:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

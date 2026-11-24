@@ -7,10 +7,10 @@
 | IP | `89.107.20.59` |
 | Country | United Kingdom (GB) |
 | ASN | AS15830 · Equinix (EMEA) Acquisition Enterprises B.V. |
-| Activity | Port scanning (17) |
-| Events | 27 |
+| Activity | Port scanning (18) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-11T17:10:21Z |
-| Last seen (UTC) | 2026-11-22T02:23:06Z |
+| Last seen (UTC) | 2026-11-24T02:37:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
