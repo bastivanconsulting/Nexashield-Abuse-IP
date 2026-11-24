@@ -8,7 +8,7 @@
 | [`101.36.97.74`](101.36.97.74/) | Port scanning (35), Known botnet / C2 infrastructure (17) | 53 | 2026-11-24T10:32:14Z |
 | [`101.36.97.80`](101.36.97.80/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 14 | 2026-11-23T00:13:53Z |
 | [`101.36.97.88`](101.36.97.88/) | Port scanning (33), Known botnet / C2 infrastructure (22) | 56 | 2026-11-24T07:02:45Z |
-| [`101.36.97.131`](101.36.97.131/) | Port scanning (36), Known botnet / C2 infrastructure (20) | 57 | 2026-11-24T09:34:08Z |
+| [`101.36.97.131`](101.36.97.131/) | Port scanning (38), Known botnet / C2 infrastructure (20) | 59 | 2026-11-24T12:40:48Z |
 | [`101.36.97.172`](101.36.97.172/) | Port scanning (24), Known botnet / C2 infrastructure (15) | 40 | 2026-11-24T08:14:52Z |
 | [`101.36.97.205`](101.36.97.205/) | Port scanning (19), Known botnet / C2 infrastructure (13) | 33 | 2026-11-23T18:46:44Z |
 | [`104.218.165.188`](104.218.165.188/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T22:33:52Z |
@@ -19,7 +19,7 @@
 | [`118.193.64.15`](118.193.64.15/) | Port scanning (29), Known botnet / C2 infrastructure (17) | 47 | 2026-11-24T00:10:24Z |
 | [`118.193.64.186`](118.193.64.186/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-22T10:38:28Z |
 | [`118.193.64.235`](118.193.64.235/) | Port scanning (26), Known botnet / C2 infrastructure (13) | 40 | 2026-11-24T12:07:10Z |
-| [`118.193.65.175`](118.193.65.175/) | Port scanning (28), Known botnet / C2 infrastructure (17) | 46 | 2026-11-24T05:50:18Z |
+| [`118.193.65.175`](118.193.65.175/) | Port scanning (29), Known botnet / C2 infrastructure (18) | 48 | 2026-11-24T12:47:17Z |
 | [`118.193.65.209`](118.193.65.209/) | Port scanning (21), Known botnet / C2 infrastructure (12) | 35 | 2026-11-24T04:46:09Z |
 | [`118.193.65.234`](118.193.65.234/) | Port scanning (25), Known botnet / C2 infrastructure (17) | 43 | 2026-11-24T08:07:30Z |
 | [`123.58.207.81`](123.58.207.81/) | Port scanning (38), Known botnet / C2 infrastructure (20) | 59 | 2026-11-24T10:16:57Z |

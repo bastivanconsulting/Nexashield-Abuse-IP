@@ -1,11 +1,11 @@
 # AS4837 · CHINA UNICOM China169 Backbone
 
-🇨🇳 China · **17** malicious IP(s)
+🇨🇳 China · **18** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`27.219.135.7`](27.219.135.7/) | SSH brute force (5), Port scanning (2) | 7 | 2026-11-18T02:45:29Z |
-| [`27.223.98.117`](27.223.98.117/) | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (2) | 10 | 2026-11-23T16:48:28Z |
+| [`27.223.98.117`](27.223.98.117/) | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (3) | 12 | 2026-11-24T13:06:39Z |
 | [`58.19.230.118`](58.19.230.118/) | Port scanning (13), Known botnet / C2 infrastructure (1) | 19 | 2026-11-22T14:32:04Z |
 | [`60.18.139.82`](60.18.139.82/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) | 8 | 2026-11-20T11:07:03Z |
 | [`61.240.137.69`](61.240.137.69/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T10:20:15Z |
@@ -17,9 +17,10 @@
 | [`122.97.137.110`](122.97.137.110/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-19T20:43:56Z |
 | [`122.191.115.237`](122.191.115.237/) | Port scanning (46), Known botnet / C2 infrastructure (4) | 68 | 2026-11-24T12:04:03Z |
 | [`123.138.18.10`](123.138.18.10/) | Port scanning (57), Known botnet / C2 infrastructure (9) | 72 | 2026-11-22T20:28:49Z |
+| [`124.160.65.108`](124.160.65.108/) | Port scanning (27) | 46 | 2026-11-24T11:00:46Z |
 | [`125.47.62.216`](125.47.62.216/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-18T10:47:18Z |
 | [`218.27.205.159`](218.27.205.159/) | Port scanning (10), Known botnet / C2 infrastructure (6), SSH brute force (4) | 21 | 2026-11-23T15:06:44Z |
-| [`218.59.201.12`](218.59.201.12/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T21:07:09Z |
+| [`218.59.201.12`](218.59.201.12/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-24T13:14:49Z |
 | [`222.137.210.216`](222.137.210.216/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 3 | 2026-11-23T20:17:19Z |
 
 ---

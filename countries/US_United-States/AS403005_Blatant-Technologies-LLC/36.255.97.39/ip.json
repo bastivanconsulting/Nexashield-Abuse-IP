@@ -5,12 +5,12 @@
   "asn": 403005,
   "asn_org": "Blatant Technologies, LLC",
   "categories": {
-    "scan": 55,
+    "scan": 56,
     "c2": 22,
     "exploit": 1
   },
-  "events": 79,
+  "events": 80,
   "first_seen": "2026-11-11T11:37:18Z",
-  "last_seen": "2026-11-24T11:41:57Z",
+  "last_seen": "2026-11-24T12:58:13Z",
   "reported": "not reported (permanent ban)"
 }

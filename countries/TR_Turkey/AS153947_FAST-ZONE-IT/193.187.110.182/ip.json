@@ -6,11 +6,11 @@
   "asn_org": "FAST ZONE IT",
   "categories": {
     "web": 4,
-    "scan": 20,
+    "scan": 25,
     "c2": 5
   },
-  "events": 34,
+  "events": 40,
   "first_seen": "2026-11-16T11:03:21Z",
-  "last_seen": "2026-11-24T10:02:10Z",
+  "last_seen": "2026-11-24T13:11:25Z",
   "reported": "not reported (permanent ban)"
 }

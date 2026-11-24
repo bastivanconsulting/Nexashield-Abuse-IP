@@ -1,9 +1,10 @@
 # AS16276 · OVH SAS
 
-🇨🇦 Canada · **1** malicious IP(s)
+🇨🇦 Canada · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`54.39.102.78`](54.39.102.78/) | Port scanning (11) | 15 | 2026-11-24T13:17:53Z |
 | [`149.56.31.99`](149.56.31.99/) | Abusive HTTP requests (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-20T11:15:47Z |
 
 ---

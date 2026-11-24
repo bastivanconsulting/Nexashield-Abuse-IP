@@ -4,12 +4,12 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 3 | SSH brute force (117), Port scanning (21), Known botnet / C2 infrastructure (5), Abusive HTTP requests (4) |
+| [AS153947](AS153947_FAST-ZONE-IT/) | FAST ZONE IT | 3 | SSH brute force (117), Port scanning (26), Known botnet / C2 infrastructure (5), Abusive HTTP requests (4) |
 | [AS9121](AS9121_Turk-Telekomunikasyon-Anonim-Sirketi/) | Turk Telekomunikasyon Anonim Sirketi | 2 | Port scanning (13), SSH brute force (7), Known botnet / C2 infrastructure (6) |
 | [AS153622](AS153622_Madina-IT/) | Madina IT | 1 | Port scanning (8) |
 | [AS204457](AS204457_Atlantis-Telekomunikasyon-Bilisim-Hizmetleri-San/) | Atlantis Telekomunikasyon Bilisim Hizmetleri San. ve Tic. Ltd. Sti. | 1 | Web injection payload blocked by WAF (2) |
 | [AS204876](AS204876_BGZ-BILISIM-TEKNOLOJILERI-LIMITED-SIRKETI/) | BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI | 1 | Port scanning (30) |
-| [AS205196](AS205196_BIG-CORE-LLC/) | BIG CORE LLC | 1 | Port scanning (84), Known botnet / C2 infrastructure (22), Abusive HTTP requests (1) |
+| [AS205196](AS205196_BIG-CORE-LLC/) | BIG CORE LLC | 1 | Port scanning (86), Known botnet / C2 infrastructure (22), Abusive HTTP requests (1) |
 | [AS47524](AS47524_Turksat-Uydu-Haberlesme-Kablo-TV-ve-Isletme-A-S/) | Turksat Uydu Haberlesme Kablo TV ve Isletme A.S. | 1 | Port scanning (22), Known botnet / C2 infrastructure (1) |
 
 ---

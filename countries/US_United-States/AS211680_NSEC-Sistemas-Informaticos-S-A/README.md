@@ -92,7 +92,7 @@
 | [`45.156.129.189`](45.156.129.189/) | Port scanning (1) | 2 | 2026-11-17T11:18:04Z |
 | [`45.156.129.193`](45.156.129.193/) | Abusive HTTP requests (1) | 2 | 2026-11-17T04:18:04Z |
 | [`45.156.129.194`](45.156.129.194/) | Port scanning (1) | 2 | 2026-11-17T11:18:04Z |
-| [`45.156.129.201`](45.156.129.201/) | Port scanning (12), Known botnet / C2 infrastructure (1) | 18 | 2026-11-24T08:13:26Z |
+| [`45.156.129.201`](45.156.129.201/) | Port scanning (13), Known botnet / C2 infrastructure (2) | 20 | 2026-11-24T12:51:53Z |
 | [`45.156.129.202`](45.156.129.202/) | Port scanning (9), Known botnet / C2 infrastructure (2) | 15 | 2026-11-24T07:34:24Z |
 | [`45.156.129.205`](45.156.129.205/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 7 | 2026-11-21T06:18:21Z |
 | [`185.226.198.4`](185.226.198.4/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-21T22:01:14Z |

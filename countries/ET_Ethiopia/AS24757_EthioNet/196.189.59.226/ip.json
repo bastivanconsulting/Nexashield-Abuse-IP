@@ -6,11 +6,11 @@
   "asn_org": "EthioNet",
   "categories": {
     "ssh": 4,
-    "c2": 8,
-    "scan": 6
+    "c2": 9,
+    "scan": 7
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-14T04:25:55Z",
-  "last_seen": "2026-11-23T20:18:26Z",
+  "last_seen": "2026-11-24T13:12:47Z",
   "reported": "not reported (permanent ban)"
 }

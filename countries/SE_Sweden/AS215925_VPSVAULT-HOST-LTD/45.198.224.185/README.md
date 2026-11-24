@@ -1,0 +1,19 @@
+# `45.198.224.185`
+
+🇸🇪 **Sweden** · AS215925 VPSVAULT.HOST LTD
+
+| Field | Value |
+|---|---|
+| IP | `45.198.224.185` |
+| Country | Sweden (SE) |
+| ASN | AS215925 · VPSVAULT.HOST LTD |
+| Activity | Port scanning (17), Known botnet / C2 infrastructure (2) |
+| Events | 19 |
+| First seen (UTC) | 2026-11-24T02:06:51Z |
+| Last seen (UTC) | 2026-11-24T12:49:44Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

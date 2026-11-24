@@ -1,11 +1,11 @@
 # 🇮🇳 India
 
-**73** malicious IP(s) across **29** network(s).
+**74** malicious IP(s) across **29** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 13 | Port scanning (42), Exploitation attempt (CVE / RCE / injection) (24), Known botnet / C2 infrastructure (20), Abusive HTTP requests (8), SSH brute force (2) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (48), SSH brute force (46), Port scanning (36) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 14 | Port scanning (43), Exploitation attempt (CVE / RCE / injection) (24), Known botnet / C2 infrastructure (23), Abusive HTTP requests (8), SSH brute force (5) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (49), SSH brute force (46), Port scanning (37) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 7 | Port scanning (29), Known botnet / C2 infrastructure (24), SSH brute force (21) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (83), Known botnet / C2 infrastructure (25) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (233), Known botnet / C2 infrastructure (80) |

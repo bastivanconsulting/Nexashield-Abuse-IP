@@ -7,10 +7,10 @@
 | IP | `218.59.201.12` |
 | Country | China (CN) |
 | ASN | AS4837 · CHINA UNICOM China169 Backbone |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
-| Events | 9 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (4) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-18T05:28:30Z |
-| Last seen (UTC) | 2026-11-23T21:07:09Z |
+| Last seen (UTC) | 2026-11-24T13:14:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS9829 · Bharat Sanchar Nigam Ltd
 
-🇮🇳 India · **13** malicious IP(s)
+🇮🇳 India · **14** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -17,6 +17,7 @@
 | [`117.238.125.133`](117.238.125.133/) | Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) | 6 | 2026-11-24T12:16:45Z |
 | [`117.242.191.241`](117.242.191.241/) | Port scanning (40), Known botnet / C2 infrastructure (17) | 65 | 2026-11-24T12:10:05Z |
 | [`182.60.128.241`](182.60.128.241/) | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (2) | 8 | 2026-11-23T16:55:05Z |
+| [`218.248.19.102`](218.248.19.102/) | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (1) | 10 | 2026-11-24T13:07:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
