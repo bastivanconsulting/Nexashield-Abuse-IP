@@ -5,11 +5,11 @@
   "asn": 211619,
   "asn_org": "MAXKO d.o.o.",
   "categories": {
-    "scan": 83,
+    "scan": 84,
     "c2": 8
   },
-  "events": 93,
+  "events": 94,
   "first_seen": "2026-11-12T04:02:27Z",
-  "last_seen": "2026-11-24T02:49:52Z",
+  "last_seen": "2026-11-24T03:20:19Z",
   "reported": "not reported (permanent ban)"
 }

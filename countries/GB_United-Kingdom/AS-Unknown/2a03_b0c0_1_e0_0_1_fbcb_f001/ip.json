@@ -1,0 +1,14 @@
+{
+  "ip": "2a03:b0c0:1:e0:0:1:fbcb:f001",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": null,
+  "asn_org": "Unknown",
+  "categories": {
+    "waf": 4
+  },
+  "events": 4,
+  "first_seen": "2026-11-24T03:36:22Z",
+  "last_seen": "2026-11-24T03:36:24Z",
+  "reported": "2026-11-24T04:27:45Z"
+}

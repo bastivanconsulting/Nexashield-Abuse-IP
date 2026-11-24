@@ -24,7 +24,7 @@
 | [`77.239.124.49`](77.239.124.49/) | SSH brute force (10) | 10 | 2026-11-10T10:43:35Z |
 | [`77.239.124.63`](77.239.124.63/) | SSH brute force (8) | 8 | 2026-11-11T02:32:48Z |
 | [`77.239.124.64`](77.239.124.64/) | Port scanning (23), SSH brute force (14) | 37 | 2026-11-12T21:55:37Z |
-| [`77.239.124.66`](77.239.124.66/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-22T05:49:16Z |
+| [`77.239.124.66`](77.239.124.66/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-24T04:06:24Z |
 | [`77.239.124.67`](77.239.124.67/) | Known botnet / C2 infrastructure (2), Port scanning (1), SSH brute force (1) | 5 | 2026-11-19T11:18:09Z |
 | [`77.239.124.70`](77.239.124.70/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-21T21:47:51Z |
 | [`77.239.124.72`](77.239.124.72/) | Port scanning (22), SSH brute force (7) | 29 | 2026-11-11T21:47:37Z |
@@ -38,11 +38,11 @@
 | [`77.239.124.112`](77.239.124.112/) | Port scanning (137), Known botnet / C2 infrastructure (20) | 160 | 2026-11-23T13:52:09Z |
 | [`77.239.124.115`](77.239.124.115/) | Port scanning (15), Known botnet / C2 infrastructure (5) | 20 | 2026-11-23T03:29:25Z |
 | [`77.239.124.118`](77.239.124.118/) | Port scanning (2) | 3 | 2026-11-22T20:18:05Z |
-| [`77.239.124.121`](77.239.124.121/) | Port scanning (148), Known botnet / C2 infrastructure (25) | 175 | 2026-11-24T02:54:39Z |
+| [`77.239.124.121`](77.239.124.121/) | Port scanning (151), Known botnet / C2 infrastructure (25) | 178 | 2026-11-24T04:08:52Z |
 | [`77.239.124.130`](77.239.124.130/) | Port scanning (575), Known botnet / C2 infrastructure (40) | 653 | 2026-11-23T08:10:33Z |
-| [`77.239.124.132`](77.239.124.132/) | Port scanning (304), Known botnet / C2 infrastructure (18) | 351 | 2026-11-24T02:53:14Z |
-| [`77.239.124.135`](77.239.124.135/) | Port scanning (365), Known botnet / C2 infrastructure (39) | 408 | 2026-11-24T01:19:45Z |
-| [`77.239.124.136`](77.239.124.136/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 16 | 2026-11-23T15:31:45Z |
+| [`77.239.124.132`](77.239.124.132/) | Port scanning (308), Known botnet / C2 infrastructure (18) | 355 | 2026-11-24T03:54:32Z |
+| [`77.239.124.135`](77.239.124.135/) | Port scanning (371), Known botnet / C2 infrastructure (39) | 414 | 2026-11-24T04:16:22Z |
+| [`77.239.124.136`](77.239.124.136/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-24T03:40:26Z |
 | [`77.239.124.137`](77.239.124.137/) | Port scanning (63) | 71 | 2026-11-13T09:37:26Z |
 | [`77.239.124.138`](77.239.124.138/) | Port scanning (8), Known botnet / C2 infrastructure (2) | 12 | 2026-11-23T04:55:26Z |
 | [`77.239.124.139`](77.239.124.139/) | Port scanning (83), Known botnet / C2 infrastructure (4) | 94 | 2026-11-21T09:07:08Z |
@@ -60,20 +60,20 @@
 | [`77.239.124.154`](77.239.124.154/) | Known botnet / C2 infrastructure (3), Port scanning (1) | 6 | 2026-11-21T16:18:24Z |
 | [`77.239.124.155`](77.239.124.155/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 3 | 2026-11-12T22:47:24Z |
 | [`77.239.124.156`](77.239.124.156/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-24T01:24:28Z |
-| [`77.239.124.158`](77.239.124.158/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T18:39:06Z |
+| [`77.239.124.158`](77.239.124.158/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 9 | 2026-11-24T03:45:02Z |
 | [`77.239.124.161`](77.239.124.161/) | Port scanning (14) | 17 | 2026-11-22T20:18:05Z |
 | [`77.239.124.164`](77.239.124.164/) | Port scanning (21), Known botnet / C2 infrastructure (2) | 28 | 2026-11-22T06:02:49Z |
-| [`77.239.124.168`](77.239.124.168/) | Port scanning (14), Known botnet / C2 infrastructure (6) | 21 | 2026-11-22T15:09:40Z |
-| [`77.239.124.171`](77.239.124.171/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T15:09:49Z |
-| [`77.239.124.173`](77.239.124.173/) | Port scanning (87), Known botnet / C2 infrastructure (9) | 104 | 2026-11-21T14:30:22Z |
+| [`77.239.124.168`](77.239.124.168/) | Port scanning (15), Known botnet / C2 infrastructure (7) | 23 | 2026-11-24T04:03:52Z |
+| [`77.239.124.171`](77.239.124.171/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-24T04:04:58Z |
+| [`77.239.124.173`](77.239.124.173/) | Port scanning (88), Known botnet / C2 infrastructure (10) | 106 | 2026-11-24T04:01:18Z |
 | [`77.239.124.175`](77.239.124.175/) | Port scanning (49), Known botnet / C2 infrastructure (3) | 55 | 2026-11-14T21:56:54Z |
 | [`77.239.124.177`](77.239.124.177/) | Port scanning (123), Known botnet / C2 infrastructure (16) | 140 | 2026-11-22T10:31:51Z |
 | [`77.239.124.178`](77.239.124.178/) | Port scanning (27), Known botnet / C2 infrastructure (7) | 34 | 2026-11-23T20:51:00Z |
 | [`77.239.124.181`](77.239.124.181/) | Port scanning (17), Known botnet / C2 infrastructure (7), Exploitation attempt (CVE / RCE / injection) (3) | 28 | 2026-11-23T06:22:01Z |
-| [`77.239.124.184`](77.239.124.184/) | Port scanning (10) | 11 | 2026-11-24T01:40:58Z |
-| [`77.239.124.185`](77.239.124.185/) | Port scanning (30), Known botnet / C2 infrastructure (1) | 32 | 2026-11-24T03:13:58Z |
-| [`77.239.124.188`](77.239.124.188/) | Port scanning (15), Known botnet / C2 infrastructure (2) | 19 | 2026-11-24T03:13:40Z |
-| [`77.239.124.252`](77.239.124.252/) | Port scanning (1704), Known botnet / C2 infrastructure (26) | 1836 | 2026-11-24T03:13:24Z |
+| [`77.239.124.184`](77.239.124.184/) | Port scanning (12) | 13 | 2026-11-24T04:14:05Z |
+| [`77.239.124.185`](77.239.124.185/) | Port scanning (31), Known botnet / C2 infrastructure (1) | 33 | 2026-11-24T03:25:05Z |
+| [`77.239.124.188`](77.239.124.188/) | Port scanning (17), Known botnet / C2 infrastructure (2) | 21 | 2026-11-24T03:45:16Z |
+| [`77.239.124.252`](77.239.124.252/) | Port scanning (1720), Known botnet / C2 infrastructure (26) | 1853 | 2026-11-24T04:07:09Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

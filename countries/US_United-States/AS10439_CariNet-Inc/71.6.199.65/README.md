@@ -7,10 +7,10 @@
 | IP | `71.6.199.65` |
 | Country | United States (US) |
 | ASN | AS10439 · CariNet, Inc. |
-| Activity | Port scanning (34), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (1) |
-| Events | 39 |
+| Activity | Port scanning (39), Known botnet / C2 infrastructure (4), Web injection payload blocked by WAF (1) |
+| Events | 46 |
 | First seen (UTC) | 2026-11-16T01:06:14Z |
-| Last seen (UTC) | 2026-11-23T02:42:13Z |
+| Last seen (UTC) | 2026-11-24T03:50:40Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

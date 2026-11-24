@@ -7,10 +7,10 @@
 | IP | `217.150.37.249` |
 | Country | Russia (RU) |
 | ASN | AS20485 · Joint Stock Company TransTeleCom |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2), Port scanning (1) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-19T04:19:31Z |
-| Last seen (UTC) | 2026-11-23T15:56:06Z |
+| Last seen (UTC) | 2026-11-24T04:14:27Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

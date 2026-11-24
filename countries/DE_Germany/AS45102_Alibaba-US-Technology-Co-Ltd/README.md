@@ -53,7 +53,7 @@
 | [`47.245.137.153`](47.245.137.153/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-23T14:27:30Z |
 | [`47.245.137.161`](47.245.137.161/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T06:42:04Z |
 | [`47.245.137.243`](47.245.137.243/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 14 | 2026-11-22T00:45:54Z |
-| [`47.245.138.0`](47.245.138.0/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-23T11:45:47Z |
+| [`47.245.138.0`](47.245.138.0/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-24T03:44:00Z |
 | [`47.245.138.123`](47.245.138.123/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-22T08:34:13Z |
 | [`47.245.139.168`](47.245.139.168/) | Port scanning (9), Known botnet / C2 infrastructure (6) | 16 | 2026-11-23T11:28:29Z |
 | [`47.245.139.222`](47.245.139.222/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T22:44:04Z |
@@ -66,7 +66,7 @@
 | [`47.245.143.183`](47.245.143.183/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-21T01:42:12Z |
 | [`47.254.130.236`](47.254.130.236/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-22T20:13:33Z |
 | [`47.254.144.111`](47.254.144.111/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 14 | 2026-11-23T07:25:44Z |
-| [`47.254.154.147`](47.254.154.147/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T17:08:05Z |
+| [`47.254.154.147`](47.254.154.147/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 11 | 2026-11-24T03:41:28Z |
 | [`47.254.154.232`](47.254.154.232/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 18 | 2026-11-23T18:50:52Z |
 | [`47.254.155.45`](47.254.155.45/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-23T12:11:14Z |
 | [`47.254.156.79`](47.254.156.79/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T19:47:51Z |

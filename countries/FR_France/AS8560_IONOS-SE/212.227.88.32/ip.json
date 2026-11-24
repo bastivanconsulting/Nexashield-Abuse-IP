@@ -1,0 +1,14 @@
+{
+  "ip": "212.227.88.32",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 8560,
+  "asn_org": "IONOS SE",
+  "categories": {
+    "c2": 2
+  },
+  "events": 2,
+  "first_seen": "2026-11-24T03:42:43Z",
+  "last_seen": "2026-11-24T03:42:43Z",
+  "reported": "2026-11-24T04:27:54Z"
+}

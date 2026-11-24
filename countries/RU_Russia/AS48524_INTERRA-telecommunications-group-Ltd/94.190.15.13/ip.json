@@ -1,0 +1,15 @@
+{
+  "ip": "94.190.15.13",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 48524,
+  "asn_org": "INTERRA telecommunications group, Ltd.",
+  "categories": {
+    "ssh": 6,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-13T09:28:56Z",
+  "last_seen": "2026-11-24T03:43:06Z",
+  "reported": "not reported (permanent ban)"
+}

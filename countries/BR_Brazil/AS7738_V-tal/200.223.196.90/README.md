@@ -7,10 +7,10 @@
 | IP | `200.223.196.90` |
 | Country | Brazil (BR) |
 | ASN | AS7738 · V tal |
-| Activity | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (2) |
-| Events | 12 |
+| Activity | Known botnet / C2 infrastructure (6), SSH brute force (4), Port scanning (3) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-14T21:54:16Z |
-| Last seen (UTC) | 2026-11-22T13:31:05Z |
+| Last seen (UTC) | 2026-11-24T03:18:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

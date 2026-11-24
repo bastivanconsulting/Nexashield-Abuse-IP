@@ -7,10 +7,10 @@
 | IP | `46.34.3.217` |
 | Country | The Netherlands (NL) |
 | ASN | AS214677 · Matteo Martelloni trading as DELUXHOST |
-| Activity | Port scanning (98) |
-| Events | 113 |
+| Activity | Port scanning (99) |
+| Events | 115 |
 | First seen (UTC) | 2026-11-11T10:40:05Z |
-| Last seen (UTC) | 2026-11-18T11:27:51Z |
+| Last seen (UTC) | 2026-11-24T03:51:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
