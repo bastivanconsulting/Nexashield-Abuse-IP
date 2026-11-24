@@ -6,11 +6,11 @@
   "asn_org": "Alsycon B.V.",
   "categories": {
     "scan": 202,
-    "exploit": 13,
+    "exploit": 15,
     "c2": 20
   },
-  "events": 254,
+  "events": 256,
   "first_seen": "2026-11-13T18:48:57Z",
-  "last_seen": "2026-11-24T14:09:00Z",
+  "last_seen": "2026-11-24T16:15:40Z",
   "reported": "not reported (permanent ban)"
 }

@@ -5,11 +5,11 @@
   "asn": 48090,
   "asn_org": "TECHOFF SRV LIMITED",
   "categories": {
-    "scan": 421,
+    "scan": 422,
     "c2": 43
   },
-  "events": 465,
+  "events": 466,
   "first_seen": "2026-11-11T11:05:27Z",
-  "last_seen": "2026-11-24T14:30:19Z",
+  "last_seen": "2026-11-24T15:37:34Z",
   "reported": "not reported (permanent ban)"
 }

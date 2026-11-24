@@ -1,6 +1,6 @@
 # AS4837 · CHINA UNICOM China169 Backbone
 
-🇨🇳 China · **18** malicious IP(s)
+🇨🇳 China · **19** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,12 +8,13 @@
 | [`27.223.98.117`](27.223.98.117/) | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (3) | 12 | 2026-11-24T13:06:39Z |
 | [`58.19.230.118`](58.19.230.118/) | Port scanning (13), Known botnet / C2 infrastructure (1) | 19 | 2026-11-22T14:32:04Z |
 | [`60.18.139.82`](60.18.139.82/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) | 8 | 2026-11-20T11:07:03Z |
+| [`61.240.17.66`](61.240.17.66/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-22T00:32:40Z |
 | [`61.240.137.69`](61.240.137.69/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T13:31:39Z |
-| [`61.242.178.28`](61.242.178.28/) | Port scanning (17), Known botnet / C2 infrastructure (6) | 28 | 2026-11-23T21:34:12Z |
+| [`61.242.178.28`](61.242.178.28/) | Port scanning (18), Known botnet / C2 infrastructure (7) | 30 | 2026-11-24T15:47:42Z |
 | [`113.228.130.157`](113.228.130.157/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-14T09:54:45Z |
 | [`115.50.151.125`](115.50.151.125/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-19T00:22:12Z |
 | [`115.56.153.172`](115.56.153.172/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-22T06:15:56Z |
-| [`118.212.132.226`](118.212.132.226/) | Port scanning (4), Known botnet / C2 infrastructure (1) | 6 | 2026-11-24T10:53:12Z |
+| [`118.212.132.226`](118.212.132.226/) | Port scanning (5), Known botnet / C2 infrastructure (1) | 7 | 2026-11-24T15:35:51Z |
 | [`122.97.137.110`](122.97.137.110/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-19T20:43:56Z |
 | [`122.191.115.237`](122.191.115.237/) | Port scanning (46), Known botnet / C2 infrastructure (4) | 68 | 2026-11-24T12:04:03Z |
 | [`123.138.18.10`](123.138.18.10/) | Port scanning (57), Known botnet / C2 infrastructure (9) | 72 | 2026-11-22T20:28:49Z |

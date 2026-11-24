@@ -1,0 +1,15 @@
+{
+  "ip": "46.191.197.143",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 24955,
+  "asn_org": "JSC \"Ufanet\"",
+  "categories": {
+    "ssh": 3,
+    "c2": 1
+  },
+  "events": 4,
+  "first_seen": "2026-11-18T18:26:57Z",
+  "last_seen": "2026-11-18T18:27:15Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -8,9 +8,9 @@
 | Country | Germany (DE) |
 | ASN | AS398705 · Censys, Inc. |
 | Activity | Port scanning (20) |
-| Events | 21 |
+| Events | 22 |
 | First seen (UTC) | 2026-11-13T05:37:10Z |
-| Last seen (UTC) | 2026-11-24T15:01:59Z |
+| Last seen (UTC) | 2026-11-24T15:18:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -4,11 +4,11 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`213.209.159.25`](213.209.159.25/) | Port scanning (375), Known botnet / C2 infrastructure (25) | 422 | 2026-11-24T14:44:31Z |
-| [`213.209.159.26`](213.209.159.26/) | Port scanning (389) | 413 | 2026-11-24T14:24:55Z |
-| [`213.209.159.66`](213.209.159.66/) | Port scanning (152) | 153 | 2026-11-24T11:36:20Z |
+| [`213.209.159.25`](213.209.159.25/) | Port scanning (378), Known botnet / C2 infrastructure (25) | 425 | 2026-11-24T16:05:38Z |
+| [`213.209.159.26`](213.209.159.26/) | Port scanning (392) | 416 | 2026-11-24T15:53:48Z |
+| [`213.209.159.66`](213.209.159.66/) | Port scanning (154) | 155 | 2026-11-24T15:43:25Z |
 | [`213.209.159.115`](213.209.159.115/) | Port scanning (165) | 264 | 2026-11-24T09:16:57Z |
-| [`213.209.159.133`](213.209.159.133/) | Port scanning (12), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) | 22 | 2026-11-24T13:05:40Z |
+| [`213.209.159.133`](213.209.159.133/) | Port scanning (13), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) | 23 | 2026-11-24T15:52:43Z |
 | [`213.209.159.175`](213.209.159.175/) | Abusive HTTP requests (213), Spamhaus DROP-listed network (2) | 215 | 2026-11-23T01:34:17Z |
 
 ---

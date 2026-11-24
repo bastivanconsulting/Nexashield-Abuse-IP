@@ -7,11 +7,11 @@
 | IP | `65.109.123.55` |
 | Country | Finland (FI) |
 | ASN | AS24940 · Hetzner Online GmbH |
-| Activity | Web injection payload blocked by WAF (57) |
-| Events | 61 |
+| Activity | Abusive HTTP requests (112), Web injection payload blocked by WAF (2) |
+| Events | 114 |
 | First seen (UTC) | 2026-11-24T14:57:38Z |
-| Last seen (UTC) | 2026-11-24T15:01:05Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-24T14:57:42Z |
+| Reported to network owner (UTC) | 2026-11-24T16:27:35Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

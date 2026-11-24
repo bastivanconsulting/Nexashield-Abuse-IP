@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 36 | Port scanning (3546), Known botnet / C2 infrastructure (396), Exploitation attempt (CVE / RCE / injection) (62), Abusive HTTP requests (16), SSH brute force (14) |
-| [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 18 | SSH brute force (71), Known botnet / C2 infrastructure (54), Port scanning (46), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (1) |
-| [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 9 | SSH brute force (58), Known botnet / C2 infrastructure (40), Port scanning (17) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 36 | Port scanning (3563), Known botnet / C2 infrastructure (397), Exploitation attempt (CVE / RCE / injection) (62), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 18 | SSH brute force (71), Known botnet / C2 infrastructure (55), Port scanning (48), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (1) |
+| [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 9 | SSH brute force (58), Known botnet / C2 infrastructure (43), Port scanning (19) |
 | [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 4 | Known botnet / C2 infrastructure (18), SSH brute force (14), Port scanning (14) |
 | [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 4 | Known botnet / C2 infrastructure (21), SSH brute force (17), Port scanning (15) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 2 | Known botnet / C2 infrastructure (8), SSH brute force (7), Port scanning (5) |

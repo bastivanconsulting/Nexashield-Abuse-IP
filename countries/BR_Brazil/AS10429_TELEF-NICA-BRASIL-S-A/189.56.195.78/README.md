@@ -7,10 +7,10 @@
 | IP | `189.56.195.78` |
 | Country | Brazil (BR) |
 | ASN | AS10429 · TELEFÔNICA BRASIL S.A |
-| Activity | Known botnet / C2 infrastructure (9), Port scanning (7), SSH brute force (6) |
-| Events | 23 |
+| Activity | Known botnet / C2 infrastructure (9), Port scanning (8), SSH brute force (6) |
+| Events | 24 |
 | First seen (UTC) | 2026-11-18T08:42:38Z |
-| Last seen (UTC) | 2026-11-24T10:26:38Z |
+| Last seen (UTC) | 2026-11-24T15:24:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

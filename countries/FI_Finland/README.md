@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS24940](AS24940_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 4 | Web injection payload blocked by WAF (73), Abusive HTTP requests (30), Port scanning (3), Known botnet / C2 infrastructure (3) |
+| [AS24940](AS24940_Hetzner-Online-GmbH/) | Hetzner Online GmbH | 4 | Abusive HTTP requests (142), Web injection payload blocked by WAF (18), Port scanning (3), Known botnet / C2 infrastructure (3) |
 | [AS1759](AS1759_Telia-Finland-Oyj/) | Telia Finland Oyj | 3 | SSH brute force (16), Known botnet / C2 infrastructure (14), Port scanning (9) |
 | [AS199524](AS199524_G-Core-Labs-S-A/) | G-Core Labs S.A. | 1 | Port scanning (1), Known botnet / C2 infrastructure (1) |
 | [AS215590](AS215590_DpkgSoft-International-Limited/) | DpkgSoft International Limited | 1 | SSH brute force (9), Port scanning (1) |

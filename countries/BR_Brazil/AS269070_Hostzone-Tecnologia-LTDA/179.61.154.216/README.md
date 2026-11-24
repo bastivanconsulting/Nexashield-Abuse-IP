@@ -7,10 +7,10 @@
 | IP | `179.61.154.216` |
 | Country | Brazil (BR) |
 | ASN | AS269070 · Hostzone Tecnologia LTDA |
-| Activity | Port scanning (135), Known botnet / C2 infrastructure (19) |
-| Events | 159 |
+| Activity | Port scanning (136), Known botnet / C2 infrastructure (20) |
+| Events | 161 |
 | First seen (UTC) | 2026-11-19T05:23:10Z |
-| Last seen (UTC) | 2026-11-24T14:47:56Z |
+| Last seen (UTC) | 2026-11-24T15:59:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,10 +5,11 @@
   "asn": 24940,
   "asn_org": "Hetzner Online GmbH",
   "categories": {
-    "waf": 57
+    "web": 112,
+    "waf": 2
   },
-  "events": 61,
+  "events": 114,
   "first_seen": "2026-11-24T14:57:38Z",
-  "last_seen": "2026-11-24T15:01:05Z",
-  "reported": "not reported (permanent ban)"
+  "last_seen": "2026-11-24T14:57:42Z",
+  "reported": "2026-11-24T16:27:35Z"
 }

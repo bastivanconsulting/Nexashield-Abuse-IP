@@ -1,0 +1,15 @@
+{
+  "ip": "45.66.164.25",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 63023,
+  "asn_org": "GTHost",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-20T00:07:59Z",
+  "last_seen": "2026-11-22T18:44:32Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -12,7 +12,7 @@
 | [`77.90.185.226`](77.90.185.226/) | Port scanning (195) | 197 | 2026-11-17T16:59:11Z |
 | [`77.90.185.230`](77.90.185.230/) | Abusive HTTP requests (51) | 51 | 2026-11-17T05:36:25Z |
 | [`77.90.185.244`](77.90.185.244/) | Spamhaus DROP-listed network (10), Abusive HTTP requests (5) | 15 | 2026-11-21T18:30:34Z |
-| [`77.90.185.253`](77.90.185.253/) | Port scanning (38) | 39 | 2026-11-24T07:38:32Z |
+| [`77.90.185.253`](77.90.185.253/) | Port scanning (39) | 40 | 2026-11-24T16:13:09Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
