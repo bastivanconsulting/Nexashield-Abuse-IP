@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 33 | Port scanning (3350), Known botnet / C2 infrastructure (385), Exploitation attempt (CVE / RCE / injection) (62), Abusive HTTP requests (16), SSH brute force (14) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 33 | Port scanning (3395), Known botnet / C2 infrastructure (386), Exploitation attempt (CVE / RCE / injection) (62), Abusive HTTP requests (16), SSH brute force (14) |
 | [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 17 | SSH brute force (68), Known botnet / C2 infrastructure (51), Port scanning (44), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (1) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 8 | SSH brute force (50), Known botnet / C2 infrastructure (36), Port scanning (15) |
 | [AS1257](AS1257_Tele2-Sverige-AB/) | Tele2 Sverige AB | 4 | Known botnet / C2 infrastructure (18), SSH brute force (14), Port scanning (14) |
-| [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 3 | Known botnet / C2 infrastructure (17), SSH brute force (13), Port scanning (12) |
+| [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 3 | Known botnet / C2 infrastructure (18), SSH brute force (13), Port scanning (13) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 2 | Known botnet / C2 infrastructure (8), SSH brute force (7), Port scanning (5) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 2 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 | [AS8434](AS8434_Telenor-Sverige-AB/) | Telenor Sverige AB | 2 | Port scanning (6), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (2) |

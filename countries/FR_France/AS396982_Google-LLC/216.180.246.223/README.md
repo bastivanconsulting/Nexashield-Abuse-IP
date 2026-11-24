@@ -7,10 +7,10 @@
 | IP | `216.180.246.223` |
 | Country | France (FR) |
 | ASN | AS396982 · Google LLC |
-| Activity | Port scanning (24), Known botnet / C2 infrastructure (3) |
-| Events | 31 |
+| Activity | Port scanning (25), Known botnet / C2 infrastructure (3) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-09T23:32:58Z |
-| Last seen (UTC) | 2026-11-24T09:23:04Z |
+| Last seen (UTC) | 2026-11-24T10:24:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

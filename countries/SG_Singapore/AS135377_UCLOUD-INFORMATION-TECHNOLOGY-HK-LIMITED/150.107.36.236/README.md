@@ -7,10 +7,10 @@
 | IP | `150.107.36.236` |
 | Country | Singapore (SG) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (306), Known botnet / C2 infrastructure (41) |
-| Events | 393 |
+| Activity | Port scanning (310), Known botnet / C2 infrastructure (42) |
+| Events | 399 |
 | First seen (UTC) | 2026-11-11T12:43:41Z |
-| Last seen (UTC) | 2026-11-24T06:14:13Z |
+| Last seen (UTC) | 2026-11-24T11:14:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

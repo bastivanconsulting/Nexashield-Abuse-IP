@@ -1,6 +1,6 @@
 # AS8560 · IONOS SE
 
-🇩🇪 Germany · **6** malicious IP(s)
+🇩🇪 Germany · **7** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`82.165.251.107`](82.165.251.107/) | SSH brute force (21) | 21 | 2026-11-23T16:22:01Z |
 | [`85.184.251.21`](85.184.251.21/) | Port scanning (26), Known botnet / C2 infrastructure (7) | 35 | 2026-11-23T17:22:43Z |
 | [`85.184.251.234`](85.184.251.234/) | Port scanning (35), Known botnet / C2 infrastructure (2) | 49 | 2026-11-15T06:48:50Z |
+| [`85.215.43.181`](85.215.43.181/) | Port scanning (23) | 28 | 2026-11-24T08:16:40Z |
 | [`85.215.61.91`](85.215.61.91/) | Port scanning (27), Known botnet / C2 infrastructure (6) | 34 | 2026-11-15T12:01:54Z |
 | [`217.160.202.182`](217.160.202.182/) | Port scanning (1) | 2 | 2026-11-23T11:18:05Z |
 

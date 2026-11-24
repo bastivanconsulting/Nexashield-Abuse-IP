@@ -7,10 +7,10 @@
 | IP | `4.148.240.253` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (13), Web injection payload blocked by WAF (1) |
-| Events | 36 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (14), Web injection payload blocked by WAF (1) |
+| Events | 38 |
 | First seen (UTC) | 2026-11-11T14:05:21Z |
-| Last seen (UTC) | 2026-11-24T03:29:02Z |
+| Last seen (UTC) | 2026-11-24T10:19:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

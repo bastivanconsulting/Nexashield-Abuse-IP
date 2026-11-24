@@ -7,10 +7,10 @@
 | IP | `185.180.141.9` |
 | Country | United States (US) |
 | ASN | AS21859 · Zenlayer Inc |
-| Activity | Port scanning (21), Known botnet / C2 infrastructure (13) |
-| Events | 35 |
+| Activity | Port scanning (22), Known botnet / C2 infrastructure (13) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-11T18:39:48Z |
-| Last seen (UTC) | 2026-11-24T06:47:27Z |
+| Last seen (UTC) | 2026-11-24T10:32:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS14061 · DigitalOcean, LLC
 
-🇸🇬 Singapore · **21** malicious IP(s)
+🇸🇬 Singapore · **22** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -25,6 +25,7 @@
 | [`178.128.220.227`](178.128.220.227/) | Abusive HTTP requests (48) | 48 | 2026-11-24T02:52:41Z |
 | [`188.166.185.191`](188.166.185.191/) | Abusive HTTP requests (48) | 48 | 2026-11-17T02:26:19Z |
 | [`188.166.233.47`](188.166.233.47/) | Abusive HTTP requests (24) | 24 | 2026-11-12T16:11:32Z |
+| [`206.189.40.120`](206.189.40.120/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 12 | 2026-11-24T10:52:04Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -1,0 +1,15 @@
+{
+  "ip": "45.119.211.179",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 27176,
+  "asn_org": "DataWagon LLC",
+  "categories": {
+    "scan": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-20T14:36:48Z",
+  "last_seen": "2026-11-22T17:30:09Z",
+  "reported": "not reported (permanent ban)"
+}

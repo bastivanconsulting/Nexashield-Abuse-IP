@@ -7,10 +7,10 @@
 | IP | `45.204.146.203` |
 | Country | The Netherlands (NL) |
 | ASN | AS219502 · Storm Industries LLC |
-| Activity | Port scanning (270), Known botnet / C2 infrastructure (21) |
-| Events | 346 |
+| Activity | Port scanning (274), Known botnet / C2 infrastructure (22) |
+| Events | 352 |
 | First seen (UTC) | 2026-11-14T03:56:53Z |
-| Last seen (UTC) | 2026-11-24T07:43:16Z |
+| Last seen (UTC) | 2026-11-24T11:00:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

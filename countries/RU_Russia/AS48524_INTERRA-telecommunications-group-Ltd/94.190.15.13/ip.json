@@ -6,10 +6,11 @@
   "asn_org": "INTERRA telecommunications group, Ltd.",
   "categories": {
     "ssh": 6,
-    "c2": 3
+    "c2": 4,
+    "scan": 1
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-13T09:28:56Z",
-  "last_seen": "2026-11-24T03:43:06Z",
+  "last_seen": "2026-11-24T11:03:50Z",
   "reported": "not reported (permanent ban)"
 }

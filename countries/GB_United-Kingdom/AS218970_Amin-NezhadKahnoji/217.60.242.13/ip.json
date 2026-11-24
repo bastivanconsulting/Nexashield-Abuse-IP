@@ -1,0 +1,15 @@
+{
+  "ip": "217.60.242.13",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 218970,
+  "asn_org": "Amin NezhadKahnoji",
+  "categories": {
+    "scan": 11,
+    "c2": 2
+  },
+  "events": 15,
+  "first_seen": "2026-11-24T03:21:37Z",
+  "last_seen": "2026-11-24T10:39:06Z",
+  "reported": "not reported (permanent ban)"
+}

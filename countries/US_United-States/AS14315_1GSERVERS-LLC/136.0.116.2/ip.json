@@ -5,11 +5,11 @@
   "asn": 14315,
   "asn_org": "1GSERVERS, LLC",
   "categories": {
-    "scan": 19,
+    "scan": 20,
     "c2": 8
   },
-  "events": 28,
+  "events": 29,
   "first_seen": "2026-11-21T08:37:42Z",
-  "last_seen": "2026-11-24T06:14:50Z",
+  "last_seen": "2026-11-24T10:39:01Z",
   "reported": "not reported (permanent ban)"
 }

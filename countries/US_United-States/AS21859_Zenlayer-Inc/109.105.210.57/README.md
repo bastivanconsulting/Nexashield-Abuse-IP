@@ -7,10 +7,10 @@
 | IP | `109.105.210.57` |
 | Country | United States (US) |
 | ASN | AS21859 · Zenlayer Inc |
-| Activity | Port scanning (1) |
-| Events | 1 |
+| Activity | Port scanning (1), Known botnet / C2 infrastructure (1) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-24T03:50:12Z |
-| Last seen (UTC) | 2026-11-24T03:50:12Z |
+| Last seen (UTC) | 2026-11-24T10:18:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

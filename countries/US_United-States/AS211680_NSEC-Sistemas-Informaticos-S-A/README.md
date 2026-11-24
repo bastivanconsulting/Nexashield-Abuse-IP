@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`45.156.129.52`](45.156.129.52/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 14 | 2026-11-24T09:36:29Z |
+| [`45.156.129.52`](45.156.129.52/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 15 | 2026-11-24T10:57:50Z |
 | [`45.156.129.56`](45.156.129.56/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 6 | 2026-11-21T06:18:21Z |
 | [`45.156.129.60`](45.156.129.60/) | Port scanning (26), Known botnet / C2 infrastructure (13) | 40 | 2026-11-23T12:17:33Z |
 | [`45.156.129.61`](45.156.129.61/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-22T14:37:44Z |
@@ -25,15 +25,15 @@
 | [`45.156.129.80`](45.156.129.80/) | Port scanning (18), Known botnet / C2 infrastructure (8) | 27 | 2026-11-23T03:08:41Z |
 | [`45.156.129.85`](45.156.129.85/) | Port scanning (24), Known botnet / C2 infrastructure (13) | 40 | 2026-11-24T01:50:57Z |
 | [`45.156.129.86`](45.156.129.86/) | Port scanning (19), Known botnet / C2 infrastructure (13) | 33 | 2026-11-24T09:44:50Z |
-| [`45.156.129.87`](45.156.129.87/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-24T02:14:46Z |
+| [`45.156.129.87`](45.156.129.87/) | Port scanning (13), Known botnet / C2 infrastructure (11) | 25 | 2026-11-24T10:59:46Z |
 | [`45.156.129.88`](45.156.129.88/) | Port scanning (4), Known botnet / C2 infrastructure (3), Exploitation attempt (CVE / RCE / injection) (1) | 8 | 2026-11-20T04:03:05Z |
 | [`45.156.129.90`](45.156.129.90/) | Port scanning (16), Known botnet / C2 infrastructure (11) | 28 | 2026-11-23T05:19:21Z |
 | [`45.156.129.91`](45.156.129.91/) | Port scanning (23), Known botnet / C2 infrastructure (11) | 36 | 2026-11-23T00:18:12Z |
 | [`45.156.129.92`](45.156.129.92/) | Port scanning (18), Known botnet / C2 infrastructure (11) | 31 | 2026-11-23T02:01:04Z |
-| [`45.156.129.93`](45.156.129.93/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-24T09:25:28Z |
+| [`45.156.129.93`](45.156.129.93/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-24T10:51:47Z |
 | [`45.156.129.95`](45.156.129.95/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 17 | 2026-11-24T05:36:37Z |
 | [`45.156.129.96`](45.156.129.96/) | Port scanning (21), Known botnet / C2 infrastructure (15) | 37 | 2026-11-23T22:36:56Z |
-| [`45.156.129.97`](45.156.129.97/) | Port scanning (17), Known botnet / C2 infrastructure (11) | 29 | 2026-11-22T12:13:08Z |
+| [`45.156.129.97`](45.156.129.97/) | Port scanning (18), Known botnet / C2 infrastructure (12) | 31 | 2026-11-24T10:40:54Z |
 | [`45.156.129.98`](45.156.129.98/) | Port scanning (19), Known botnet / C2 infrastructure (12) | 32 | 2026-11-23T03:28:33Z |
 | [`45.156.129.101`](45.156.129.101/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 6 | 2026-11-21T16:31:38Z |
 | [`45.156.129.105`](45.156.129.105/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 8 | 2026-11-20T04:59:37Z |
@@ -45,7 +45,7 @@
 | [`45.156.129.112`](45.156.129.112/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-22T16:16:00Z |
 | [`45.156.129.113`](45.156.129.113/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-23T12:42:01Z |
 | [`45.156.129.115`](45.156.129.115/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-22T08:00:37Z |
-| [`45.156.129.116`](45.156.129.116/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-21T17:36:48Z |
+| [`45.156.129.116`](45.156.129.116/) | Port scanning (13), Known botnet / C2 infrastructure (11) | 25 | 2026-11-24T11:00:46Z |
 | [`45.156.129.117`](45.156.129.117/) | Port scanning (12), Known botnet / C2 infrastructure (7) | 20 | 2026-11-22T06:47:48Z |
 | [`45.156.129.118`](45.156.129.118/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-23T10:45:44Z |
 | [`45.156.129.120`](45.156.129.120/) | Port scanning (11), Known botnet / C2 infrastructure (9) | 21 | 2026-11-23T01:49:13Z |

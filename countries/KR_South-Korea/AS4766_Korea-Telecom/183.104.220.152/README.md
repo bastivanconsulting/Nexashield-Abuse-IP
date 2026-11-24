@@ -7,10 +7,10 @@
 | IP | `183.104.220.152` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (2) |
-| Events | 15 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (3) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-21T01:32:22Z |
-| Last seen (UTC) | 2026-11-24T08:13:36Z |
+| Last seen (UTC) | 2026-11-24T10:42:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -6,11 +6,11 @@
   "asn_org": "Microsoft Corporation",
   "categories": {
     "waf": 1,
-    "scan": 21,
-    "c2": 8
+    "scan": 22,
+    "c2": 9
   },
-  "events": 39,
+  "events": 41,
   "first_seen": "2026-11-10T02:23:40Z",
-  "last_seen": "2026-11-23T16:53:41Z",
+  "last_seen": "2026-11-24T11:05:22Z",
   "reported": "not reported (permanent ban)"
 }

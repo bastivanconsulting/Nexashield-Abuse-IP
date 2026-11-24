@@ -5,12 +5,12 @@
   "asn": 202423,
   "asn_org": "Tyurin Viktor Mihaylovich",
   "categories": {
-    "scan": 2,
-    "c2": 3,
+    "scan": 3,
+    "c2": 4,
     "ssh": 2
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-22T00:18:15Z",
-  "last_seen": "2026-11-23T14:45:05Z",
+  "last_seen": "2026-11-24T10:49:34Z",
   "reported": "not reported (permanent ban)"
 }
