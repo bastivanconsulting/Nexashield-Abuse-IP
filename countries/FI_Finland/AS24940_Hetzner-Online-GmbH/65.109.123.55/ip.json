@@ -1,0 +1,14 @@
+{
+  "ip": "65.109.123.55",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 24940,
+  "asn_org": "Hetzner Online GmbH",
+  "categories": {
+    "waf": 57
+  },
+  "events": 61,
+  "first_seen": "2026-11-24T14:57:38Z",
+  "last_seen": "2026-11-24T15:01:05Z",
+  "reported": "not reported (permanent ban)"
+}

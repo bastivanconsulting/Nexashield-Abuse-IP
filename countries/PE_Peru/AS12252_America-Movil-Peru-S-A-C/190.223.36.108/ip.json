@@ -1,0 +1,16 @@
+{
+  "ip": "190.223.36.108",
+  "country_code": "PE",
+  "country": "Peru",
+  "asn": 12252,
+  "asn_org": "America Movil Peru S.A.C.",
+  "categories": {
+    "ssh": 2,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 5,
+  "first_seen": "2026-11-18T11:50:39Z",
+  "last_seen": "2026-11-22T06:06:05Z",
+  "reported": "not reported (permanent ban)"
+}

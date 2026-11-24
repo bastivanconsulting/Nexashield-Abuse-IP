@@ -5,12 +5,12 @@
   "asn": 8374,
   "asn_org": "Polkomtel Sp. z o.o.",
   "categories": {
-    "scan": 6,
+    "scan": 7,
     "c2": 5,
     "ssh": 2
   },
-  "events": 14,
+  "events": 15,
   "first_seen": "2026-11-21T14:14:03Z",
-  "last_seen": "2026-11-24T14:10:22Z",
+  "last_seen": "2026-11-24T14:27:01Z",
   "reported": "not reported (permanent ban)"
 }

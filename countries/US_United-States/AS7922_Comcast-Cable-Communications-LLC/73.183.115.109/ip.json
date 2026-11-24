@@ -5,12 +5,12 @@
   "asn": 7922,
   "asn_org": "Comcast Cable Communications, LLC",
   "categories": {
-    "scan": 6,
-    "c2": 5,
+    "scan": 7,
+    "c2": 6,
     "ssh": 2
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-22T07:11:38Z",
-  "last_seen": "2026-11-23T20:56:38Z",
+  "last_seen": "2026-11-24T15:04:55Z",
   "reported": "not reported (permanent ban)"
 }

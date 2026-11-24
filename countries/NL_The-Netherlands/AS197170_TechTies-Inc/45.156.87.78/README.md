@@ -7,10 +7,10 @@
 | IP | `45.156.87.78` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | SSH brute force (6) |
-| Events | 6 |
+| Activity | SSH brute force (6), Port scanning (2) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-14T06:07:36Z |
-| Last seen (UTC) | 2026-11-14T08:14:22Z |
+| Last seen (UTC) | 2026-11-24T14:44:18Z |
 | Reported to network owner (UTC) | 2026-11-14T08:29:15Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

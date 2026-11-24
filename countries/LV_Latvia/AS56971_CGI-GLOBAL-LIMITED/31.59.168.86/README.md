@@ -7,10 +7,10 @@
 | IP | `31.59.168.86` |
 | Country | Latvia (LV) |
 | ASN | AS56971 · CGI GLOBAL LIMITED |
-| Activity | SSH brute force (16), Port scanning (3) |
-| Events | 19 |
+| Activity | SSH brute force (20), Port scanning (3) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-23T22:42:22Z |
-| Last seen (UTC) | 2026-11-24T14:22:35Z |
+| Last seen (UTC) | 2026-11-24T15:21:06Z |
 | Reported to network owner (UTC) | 2026-11-24T14:28:41Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

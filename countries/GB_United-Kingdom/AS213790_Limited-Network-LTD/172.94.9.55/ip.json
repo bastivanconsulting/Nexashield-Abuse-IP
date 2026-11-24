@@ -1,0 +1,15 @@
+{
+  "ip": "172.94.9.55",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 213790,
+  "asn_org": "Limited Network LTD",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-17T22:22:06Z",
+  "last_seen": "2026-11-24T14:57:05Z",
+  "reported": "not reported (permanent ban)"
+}

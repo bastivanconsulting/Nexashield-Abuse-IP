@@ -1,0 +1,16 @@
+{
+  "ip": "12.5.181.107",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 7018,
+  "asn_org": "AT&T Enterprises, LLC",
+  "categories": {
+    "scan": 1,
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-17T19:10:07Z",
+  "last_seen": "2026-11-24T15:11:05Z",
+  "reported": "not reported (permanent ban)"
+}

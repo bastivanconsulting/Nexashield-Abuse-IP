@@ -24,16 +24,16 @@
 | [🇨🇳 China](CN_China/) | 200 |
 | [🇨🇴 Colombia](CO_Colombia/) | 3 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 582 |
+| [🇩🇪 Germany](DE_Germany/) | 585 |
 | [🇩🇰 Denmark](DK_Denmark/) | 2 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
 | [🇪🇪 Estonia](EE_Estonia/) | 4 |
 | [🇪🇸 Spain](ES_Spain/) | 3 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 8 |
-| [🇫🇮 Finland](FI_Finland/) | 12 |
+| [🇫🇮 Finland](FI_Finland/) | 13 |
 | [🇫🇷 France](FR_France/) | 377 |
-| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1018 |
+| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1019 |
 | [🇬🇪 Georgia](GE_Georgia/) | 2 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
 | [🇭🇰 Hong Kong](HK_Hong-Kong/) | 227 |
@@ -45,9 +45,9 @@
 | [🇮🇶 Iraq](IQ_Iraq/) | 4 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 29 |
-| [🇯🇵 Japan](JP_Japan/) | 124 |
+| [🇯🇵 Japan](JP_Japan/) | 125 |
 | [🇰🇪 Kenya](KE_Kenya/) | 1 |
-| [🇰🇷 South Korea](KR_South-Korea/) | 54 |
+| [🇰🇷 South Korea](KR_South-Korea/) | 55 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 12 |
 | [🇱🇧 Lebanon](LB_Lebanon/) | 1 |
 | [🇱🇰 Sri Lanka](LK_Sri-Lanka/) | 1 |
@@ -60,12 +60,13 @@
 | [🇲🇹 Malta](MT_Malta/) | 1 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 2 |
 | [🇲🇽 Mexico](MX_Mexico/) | 4 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 82 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 83 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 19 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 691 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 693 |
 | [🇳🇴 Norway](NO_Norway/) | 4 |
 | [🇳🇵 Nepal](NP_Nepal/) | 1 |
 | [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
+| [🇵🇪 Peru](PE_Peru/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 12 |
 | [🇵🇰 Pakistan](PK_Pakistan/) | 20 |
 | [🇵🇱 Poland](PL_Poland/) | 20 |
@@ -85,7 +86,7 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 10 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 23 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 4 |
-| [🇺🇸 United States](US_United-States/) | 3327 |
+| [🇺🇸 United States](US_United-States/) | 3329 |
 | [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 1 |
 | [🇻🇪 Venezuela](VE_Venezuela/) | 1 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 14 |
