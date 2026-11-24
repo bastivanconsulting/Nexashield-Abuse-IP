@@ -7,10 +7,10 @@
 | IP | `111.171.125.94` |
 | Country | South Korea (KR) |
 | ASN | AS38109 · SK Broadband Co Ltd |
-| Activity | Known botnet / C2 infrastructure (7), Port scanning (5), SSH brute force (3) |
-| Events | 16 |
+| Activity | Known botnet / C2 infrastructure (8), Port scanning (6), SSH brute force (3) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-18T05:12:58Z |
-| Last seen (UTC) | 2026-11-24T09:50:58Z |
+| Last seen (UTC) | 2026-11-24T19:24:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

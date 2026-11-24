@@ -1,6 +1,6 @@
 # AS9829 · Bharat Sanchar Nigam Ltd
 
-🇮🇳 India · **14** malicious IP(s)
+🇮🇳 India · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`59.92.89.32`](59.92.89.32/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-23T00:32:23Z |
 | [`117.198.59.36`](117.198.59.36/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-21T06:07:33Z |
 | [`117.198.97.150`](117.198.97.150/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-21T20:47:06Z |
+| [`117.208.13.54`](117.208.13.54/) | Exploitation attempt (CVE / RCE / injection) (4) | 4 | 2026-11-24T20:06:23Z |
 | [`117.209.83.220`](117.209.83.220/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-22T10:07:48Z |
 | [`117.209.95.115`](117.209.95.115/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-21T16:58:05Z |
 | [`117.214.5.23`](117.214.5.23/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-21T02:16:59Z |

@@ -7,10 +7,10 @@
 | IP | `157.173.192.198` |
 | Country | United States (US) |
 | ASN | AS40021 · Contabo Inc. |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (7) |
-| Events | 29 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (8) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-18T18:24:19Z |
-| Last seen (UTC) | 2026-11-24T17:28:47Z |
+| Last seen (UTC) | 2026-11-24T19:41:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

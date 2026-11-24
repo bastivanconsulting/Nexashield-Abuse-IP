@@ -1,9 +1,10 @@
 # AS199457 · SolidCore Hosting LTD
 
-🇳🇱 The Netherlands · **1** malicious IP(s)
+🇳🇱 The Netherlands · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`45.115.26.110`](45.115.26.110/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-24T19:58:05Z |
 | [`45.115.26.137`](45.115.26.137/) | Port scanning (196) | 228 | 2026-11-24T19:06:24Z |
 
 ---

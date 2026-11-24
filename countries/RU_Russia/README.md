@@ -9,10 +9,10 @@
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (26), Known botnet / C2 infrastructure (22) |
 | [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 3 | Port scanning (130), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
 | [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 3 | SSH brute force (22), Known botnet / C2 infrastructure (9), Port scanning (3) |
-| [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (57), Known botnet / C2 infrastructure (11) |
+| [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (60), Known botnet / C2 infrastructure (12) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (4) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (664), Known botnet / C2 infrastructure (49), Abusive HTTP requests (2) |
-| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (81), Known botnet / C2 infrastructure (46) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (667), Known botnet / C2 infrastructure (50), Abusive HTTP requests (2) |
+| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (82), Known botnet / C2 infrastructure (46) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (11), Known botnet / C2 infrastructure (8) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
 | [AS20485](AS20485_Joint-Stock-Company-TransTeleCom/) | Joint Stock Company TransTeleCom | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
@@ -33,12 +33,12 @@
 | [AS48524](AS48524_INTERRA-telecommunications-group-Ltd/) | INTERRA telecommunications group, Ltd. | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
 | [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (462), Known botnet / C2 infrastructure (43), Exploitation attempt (CVE / RCE / injection) (12) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (464), Known botnet / C2 infrastructure (44), Exploitation attempt (CVE / RCE / injection) (14) |
 | [AS51369](AS51369_LLC-TRC-FIORD/) | LLC "TRC FIORD" | 1 | SSH brute force (8), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8359](AS8359_MTS-PJSC/) | MTS PJSC | 1 | Port scanning (5), Known botnet / C2 infrastructure (3) |
 | [AS8402](AS8402_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | Port scanning (18), Known botnet / C2 infrastructure (12) |
-| [AS9123](AS9123_JSC-TIMEWEB/) | JSC "TIMEWEB" | 1 | Port scanning (12), Known botnet / C2 infrastructure (4) |
+| [AS9123](AS9123_JSC-TIMEWEB/) | JSC "TIMEWEB" | 1 | Port scanning (13), Known botnet / C2 infrastructure (5) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -8,7 +8,7 @@
 | [`34.163.127.33`](34.163.127.33/) | Abusive HTTP requests (330), Web injection payload blocked by WAF (20) | 350 | 2026-11-15T06:36:49Z |
 | [`216.180.246.34`](216.180.246.34/) | Port scanning (10), Known botnet / C2 infrastructure (3) | 14 | 2026-11-14T21:56:54Z |
 | [`216.180.246.35`](216.180.246.35/) | Port scanning (11), Known botnet / C2 infrastructure (2) | 15 | 2026-11-14T21:56:54Z |
-| [`216.180.246.78`](216.180.246.78/) | Port scanning (14), Known botnet / C2 infrastructure (3) | 19 | 2026-11-24T18:14:16Z |
+| [`216.180.246.78`](216.180.246.78/) | Port scanning (15), Known botnet / C2 infrastructure (3) | 20 | 2026-11-24T19:18:36Z |
 | [`216.180.246.88`](216.180.246.88/) | Port scanning (41), Known botnet / C2 infrastructure (3) | 55 | 2026-11-15T07:47:22Z |
 | [`216.180.246.128`](216.180.246.128/) | Port scanning (32), Known botnet / C2 infrastructure (4) | 39 | 2026-11-21T17:18:39Z |
 | [`216.180.246.139`](216.180.246.139/) | Port scanning (22), Known botnet / C2 infrastructure (3) | 26 | 2026-11-24T05:13:05Z |

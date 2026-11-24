@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇯🇵 Japan · **96** malicious IP(s)
+🇯🇵 Japan · **97** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -45,6 +45,7 @@
 | [`8.216.6.0`](8.216.6.0/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-24T01:32:05Z |
 | [`8.216.6.5`](8.216.6.5/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-23T15:18:56Z |
 | [`8.216.6.75`](8.216.6.75/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T22:03:54Z |
+| [`8.216.6.127`](8.216.6.127/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-24T19:59:05Z |
 | [`8.216.6.146`](8.216.6.146/) | Port scanning (10), Known botnet / C2 infrastructure (4) | 19 | 2026-11-22T19:43:44Z |
 | [`8.216.6.189`](8.216.6.189/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-24T00:02:29Z |
 | [`8.216.6.235`](8.216.6.235/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-24T07:48:37Z |
@@ -83,7 +84,7 @@
 | [`8.216.17.228`](8.216.17.228/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-24T14:50:08Z |
 | [`8.216.17.239`](8.216.17.239/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-22T16:18:18Z |
 | [`8.216.18.14`](8.216.18.14/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T20:09:06Z |
-| [`8.221.136.6`](8.221.136.6/) | Port scanning (11), Known botnet / C2 infrastructure (6) | 18 | 2026-11-24T09:11:14Z |
+| [`8.221.136.6`](8.221.136.6/) | Port scanning (13), Known botnet / C2 infrastructure (7) | 21 | 2026-11-24T19:52:01Z |
 | [`47.74.4.118`](47.74.4.118/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 13 | 2026-11-24T15:37:06Z |
 | [`47.74.11.118`](47.74.11.118/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-24T12:04:29Z |
 | [`47.74.13.126`](47.74.13.126/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T21:27:11Z |

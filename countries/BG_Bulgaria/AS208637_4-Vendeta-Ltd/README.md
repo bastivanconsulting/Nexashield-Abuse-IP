@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`78.128.112.6`](78.128.112.6/) | Port scanning (814), Known botnet / C2 infrastructure (50) | 924 | 2026-11-24T19:09:50Z |
+| [`78.128.112.6`](78.128.112.6/) | Port scanning (818), Known botnet / C2 infrastructure (50) | 928 | 2026-11-24T19:50:43Z |
 | [`78.128.112.74`](78.128.112.74/) | Port scanning (122), SSH brute force (28) | 150 | 2026-11-24T17:02:42Z |
 
 ---
