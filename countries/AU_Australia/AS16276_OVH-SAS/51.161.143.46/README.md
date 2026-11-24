@@ -7,10 +7,10 @@
 | IP | `51.161.143.46` |
 | Country | Australia (AU) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (97), Known botnet / C2 infrastructure (8) |
-| Events | 113 |
+| Activity | Port scanning (109), Known botnet / C2 infrastructure (9) |
+| Events | 127 |
 | First seen (UTC) | 2026-11-15T07:33:12Z |
-| Last seen (UTC) | 2026-11-23T22:25:55Z |
+| Last seen (UTC) | 2026-11-24T06:02:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

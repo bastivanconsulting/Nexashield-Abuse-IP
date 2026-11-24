@@ -1,11 +1,11 @@
 # 🇮🇩 Indonesia
 
-**20** malicious IP(s) across **13** network(s).
+**21** malicious IP(s) across **13** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 4 | Abusive HTTP requests (54) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 3 | Port scanning (92), Known botnet / C2 infrastructure (6) |
-| [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 3 | Abusive HTTP requests (48) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (2) |
 | [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (323), Known botnet / C2 infrastructure (77) |
 | [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 2 | Port scanning (79), Known botnet / C2 infrastructure (4) |

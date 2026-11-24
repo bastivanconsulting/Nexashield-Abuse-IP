@@ -7,10 +7,10 @@
 | IP | `185.107.80.93` |
 | Country | The Netherlands (NL) |
 | ASN | AS43350 · NForce Entertainment B.V. |
-| Activity | Port scanning (45), Known botnet / C2 infrastructure (3) |
-| Events | 56 |
+| Activity | Port scanning (52), Known botnet / C2 infrastructure (3) |
+| Events | 63 |
 | First seen (UTC) | 2026-11-11T09:42:25Z |
-| Last seen (UTC) | 2026-11-21T17:43:49Z |
+| Last seen (UTC) | 2026-11-24T06:12:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

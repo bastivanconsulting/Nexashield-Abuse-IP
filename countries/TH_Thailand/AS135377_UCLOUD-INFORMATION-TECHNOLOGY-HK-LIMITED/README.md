@@ -15,7 +15,7 @@
 | [`118.194.250.22`](118.194.250.22/) | Port scanning (30), Known botnet / C2 infrastructure (16) | 47 | 2026-11-23T08:24:26Z |
 | [`118.194.250.31`](118.194.250.31/) | Port scanning (18), Known botnet / C2 infrastructure (3) | 29 | 2026-11-24T03:58:29Z |
 | [`118.194.250.60`](118.194.250.60/) | Port scanning (36), Known botnet / C2 infrastructure (17) | 54 | 2026-11-24T04:42:35Z |
-| [`118.194.250.95`](118.194.250.95/) | Port scanning (13), Known botnet / C2 infrastructure (11) | 25 | 2026-11-24T04:43:37Z |
+| [`118.194.250.95`](118.194.250.95/) | Port scanning (14), Known botnet / C2 infrastructure (11) | 26 | 2026-11-24T05:52:26Z |
 | [`118.194.250.113`](118.194.250.113/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-22T06:46:39Z |
 | [`118.194.250.127`](118.194.250.127/) | Port scanning (11), Known botnet / C2 infrastructure (8) | 20 | 2026-11-22T06:54:10Z |
 | [`118.194.250.245`](118.194.250.245/) | Port scanning (23), Known botnet / C2 infrastructure (13) | 37 | 2026-11-23T23:16:00Z |
@@ -31,7 +31,7 @@
 | [`165.154.51.27`](165.154.51.27/) | Port scanning (33), Known botnet / C2 infrastructure (19) | 53 | 2026-11-24T01:10:46Z |
 | [`165.154.51.193`](165.154.51.193/) | Port scanning (24), Known botnet / C2 infrastructure (13) | 39 | 2026-11-24T05:15:02Z |
 | [`165.154.51.243`](165.154.51.243/) | Port scanning (14), Known botnet / C2 infrastructure (4) | 27 | 2026-11-24T02:17:26Z |
-| [`165.154.118.215`](165.154.118.215/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-23T01:01:15Z |
+| [`165.154.118.215`](165.154.118.215/) | Port scanning (15), Known botnet / C2 infrastructure (9) | 25 | 2026-11-24T06:14:57Z |
 | [`165.154.119.20`](165.154.119.20/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-24T03:43:28Z |
 | [`165.154.120.30`](165.154.120.30/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 26 | 2026-11-24T01:05:35Z |
 | [`165.154.120.89`](165.154.120.89/) | Port scanning (20), Known botnet / C2 infrastructure (13) | 34 | 2026-11-24T01:22:25Z |

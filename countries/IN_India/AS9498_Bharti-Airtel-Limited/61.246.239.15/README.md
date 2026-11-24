@@ -7,10 +7,10 @@
 | IP | `61.246.239.15` |
 | Country | India (IN) |
 | ASN | AS9498 · Bharti Airtel Limited |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-18T17:53:31Z |
-| Last seen (UTC) | 2026-11-19T03:05:54Z |
+| Last seen (UTC) | 2026-11-24T05:27:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

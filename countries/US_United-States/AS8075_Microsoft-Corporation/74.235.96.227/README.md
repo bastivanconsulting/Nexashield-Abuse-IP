@@ -7,10 +7,10 @@
 | IP | `74.235.96.227` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (22) |
-| Events | 40 |
+| Activity | Port scanning (23) |
+| Events | 41 |
 | First seen (UTC) | 2026-11-13T09:06:57Z |
-| Last seen (UTC) | 2026-11-24T03:40:12Z |
+| Last seen (UTC) | 2026-11-24T05:20:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

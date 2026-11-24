@@ -7,10 +7,10 @@
 | IP | `36.255.97.39` |
 | Country | United States (US) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Port scanning (51), Known botnet / C2 infrastructure (21), Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 74 |
+| Activity | Port scanning (52), Known botnet / C2 infrastructure (21), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 75 |
 | First seen (UTC) | 2026-11-11T11:37:18Z |
-| Last seen (UTC) | 2026-11-24T03:02:45Z |
+| Last seen (UTC) | 2026-11-24T05:30:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
