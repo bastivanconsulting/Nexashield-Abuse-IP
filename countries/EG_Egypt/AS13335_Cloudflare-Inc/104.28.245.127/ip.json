@@ -1,0 +1,16 @@
+{
+  "ip": "104.28.245.127",
+  "country_code": "EG",
+  "country": "Egypt",
+  "asn": 13335,
+  "asn_org": "Cloudflare, Inc.",
+  "categories": {
+    "web": 1,
+    "c2": 3,
+    "waf": 11
+  },
+  "events": 16,
+  "first_seen": "2026-11-14T07:57:00Z",
+  "last_seen": "2026-11-24T19:07:05Z",
+  "reported": "not reported (permanent ban)"
+}

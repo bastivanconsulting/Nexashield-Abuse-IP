@@ -1,0 +1,14 @@
+{
+  "ip": "46.173.148.70",
+  "country_code": "UA",
+  "country": "Ukraine",
+  "asn": 34743,
+  "asn_org": "NASHNET LTD",
+  "categories": {
+    "exploit": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-24T19:02:23Z",
+  "last_seen": "2026-11-24T19:03:05Z",
+  "reported": "not reported (permanent ban)"
+}

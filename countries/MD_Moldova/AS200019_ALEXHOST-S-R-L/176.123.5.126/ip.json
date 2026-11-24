@@ -5,11 +5,11 @@
   "asn": 200019,
   "asn_org": "ALEXHOST S.R.L.",
   "categories": {
-    "scan": 50,
-    "c2": 25
+    "scan": 51,
+    "c2": 26
   },
-  "events": 77,
+  "events": 79,
   "first_seen": "2026-11-12T05:53:11Z",
-  "last_seen": "2026-11-24T12:33:56Z",
+  "last_seen": "2026-11-24T18:42:46Z",
   "reported": "not reported (permanent ban)"
 }

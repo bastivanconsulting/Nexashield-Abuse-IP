@@ -7,10 +7,10 @@
 | IP | `47.250.112.190` |
 | Country | Malaysia (MY) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (6) |
-| Events | 18 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (7) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-12T09:21:57Z |
-| Last seen (UTC) | 2026-11-24T07:51:41Z |
+| Last seen (UTC) | 2026-11-24T18:24:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
