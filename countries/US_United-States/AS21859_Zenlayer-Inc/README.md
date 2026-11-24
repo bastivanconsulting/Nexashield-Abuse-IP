@@ -1,6 +1,6 @@
 # AS21859 · Zenlayer Inc
 
-🇺🇸 United States · **110** malicious IP(s)
+🇺🇸 United States · **112** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -60,6 +60,7 @@
 | [`109.105.210.53`](109.105.210.53/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-23T12:18:33Z |
 | [`109.105.210.54`](109.105.210.54/) | Port scanning (3), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 8 | 2026-11-22T11:31:01Z |
 | [`109.105.210.55`](109.105.210.55/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-23T12:18:33Z |
+| [`109.105.210.57`](109.105.210.57/) | Port scanning (1) | 1 | 2026-11-24T03:50:12Z |
 | [`109.105.210.58`](109.105.210.58/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-24T07:15:29Z |
 | [`109.105.210.59`](109.105.210.59/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-21T02:01:01Z |
 | [`109.105.210.60`](109.105.210.60/) | Port scanning (14), Known botnet / C2 infrastructure (12) | 27 | 2026-11-23T21:05:16Z |
@@ -83,6 +84,7 @@
 | [`109.105.210.90`](109.105.210.90/) | Port scanning (10), Known botnet / C2 infrastructure (10) | 24 | 2026-11-23T02:37:32Z |
 | [`109.105.210.97`](109.105.210.97/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 14 | 2026-11-24T07:13:27Z |
 | [`109.105.210.98`](109.105.210.98/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 11 | 2026-11-24T03:17:00Z |
+| [`109.105.210.99`](109.105.210.99/) | Port scanning (6), Known botnet / C2 infrastructure (1) | 8 | 2026-11-23T22:55:30Z |
 | [`109.105.210.100`](109.105.210.100/) | Port scanning (11), Known botnet / C2 infrastructure (5) | 16 | 2026-11-24T06:57:38Z |
 | [`185.180.141.3`](185.180.141.3/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-23T20:43:22Z |
 | [`185.180.141.4`](185.180.141.4/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-23T21:10:22Z |

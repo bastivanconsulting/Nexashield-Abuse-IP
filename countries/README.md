@@ -12,18 +12,18 @@
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇦 Bosnia and Herzegovina](BA_Bosnia-and-Herzegovina/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 8 |
-| [🇧🇪 Belgium](BE_Belgium/) | 431 |
+| [🇧🇪 Belgium](BE_Belgium/) | 433 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 50 |
 | [🇧🇳 Brunei](BN_Brunei/) | 1 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 1 |
-| [🇧🇷 Brazil](BR_Brazil/) | 77 |
+| [🇧🇷 Brazil](BR_Brazil/) | 78 |
 | [🇨🇦 Canada](CA_Canada/) | 67 |
 | [🇨🇭 Switzerland](CH_Switzerland/) | 12 |
 | [🇨🇱 Chile](CL_Chile/) | 4 |
-| [🇨🇳 China](CN_China/) | 198 |
+| [🇨🇳 China](CN_China/) | 199 |
 | [🇨🇴 Colombia](CO_Colombia/) | 3 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 572 |
+| [🇩🇪 Germany](DE_Germany/) | 573 |
 | [🇩🇰 Denmark](DK_Denmark/) | 2 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
@@ -44,7 +44,7 @@
 | [🇮🇶 Iraq](IQ_Iraq/) | 3 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 29 |
-| [🇯🇵 Japan](JP_Japan/) | 120 |
+| [🇯🇵 Japan](JP_Japan/) | 121 |
 | [🇰🇪 Kenya](KE_Kenya/) | 1 |
 | [🇰🇷 South Korea](KR_South-Korea/) | 52 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 12 |
@@ -60,12 +60,12 @@
 | [🇲🇽 Mexico](MX_Mexico/) | 4 |
 | [🇲🇾 Malaysia](MY_Malaysia/) | 78 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 18 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 689 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 691 |
 | [🇳🇴 Norway](NO_Norway/) | 4 |
 | [🇳🇵 Nepal](NP_Nepal/) | 1 |
 | [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 12 |
-| [🇵🇰 Pakistan](PK_Pakistan/) | 18 |
+| [🇵🇰 Pakistan](PK_Pakistan/) | 19 |
 | [🇵🇱 Poland](PL_Poland/) | 20 |
 | [🇵🇷 Puerto Rico](PR_Puerto-Rico/) | 2 |
 | [🇵🇹 Portugal](PT_Portugal/) | 2 |
@@ -83,7 +83,7 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 10 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 23 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 4 |
-| [🇺🇸 United States](US_United-States/) | 3285 |
+| [🇺🇸 United States](US_United-States/) | 3296 |
 | [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 1 |
 | [🇻🇪 Venezuela](VE_Venezuela/) | 1 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 14 |

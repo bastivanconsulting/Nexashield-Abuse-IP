@@ -7,10 +7,10 @@
 | IP | `85.19.195.12` |
 | Country | Norway (NO) |
 | ASN | AS25400 · Telia Norge AS |
-| Activity | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (3) |
-| Events | 14 |
+| Activity | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (3) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-14T03:14:43Z |
-| Last seen (UTC) | 2026-11-24T07:15:29Z |
+| Last seen (UTC) | 2026-11-24T09:34:42Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

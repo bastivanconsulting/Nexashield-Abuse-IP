@@ -7,10 +7,10 @@
 | IP | `211.178.165.251` |
 | Country | South Korea (KR) |
 | ASN | AS9318 · SK Broadband Co Ltd |
-| Activity | Port scanning (5), SSH brute force (4), Known botnet / C2 infrastructure (4) |
-| Events | 14 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (4) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-20T05:29:35Z |
-| Last seen (UTC) | 2026-11-23T13:43:36Z |
+| Last seen (UTC) | 2026-11-24T09:46:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

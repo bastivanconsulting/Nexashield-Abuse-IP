@@ -1,0 +1,15 @@
+{
+  "ip": "220.178.39.106",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 4134,
+  "asn_org": "Chinanet",
+  "categories": {
+    "ssh": 6,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-22T01:51:09Z",
+  "last_seen": "2026-11-24T09:47:05Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -5,12 +5,12 @@
   "asn": 20207,
   "asn_org": "Gigared S.A.",
   "categories": {
-    "scan": 9,
-    "c2": 5,
+    "scan": 10,
+    "c2": 6,
     "ssh": 2
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-21T16:14:43Z",
-  "last_seen": "2026-11-23T22:02:39Z",
+  "last_seen": "2026-11-24T10:00:38Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `176.32.193.16` |
 | Country | Armenia (AM) |
 | ASN | AS197834 · Ucom CJSC |
-| Activity | Port scanning (179), Known botnet / C2 infrastructure (37) |
-| Events | 255 |
+| Activity | Port scanning (181), Known botnet / C2 infrastructure (38) |
+| Events | 258 |
 | First seen (UTC) | 2026-11-11T15:06:53Z |
-| Last seen (UTC) | 2026-11-24T08:09:03Z |
+| Last seen (UTC) | 2026-11-24T10:05:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

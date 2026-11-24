@@ -1,0 +1,15 @@
+{
+  "ip": "119.30.119.10",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 58470,
+  "asn_org": "JAZZWORLD PAKISTAN LIMITED",
+  "categories": {
+    "exploit": 4,
+    "scan": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-24T10:13:46Z",
+  "last_seen": "2026-11-24T10:13:46Z",
+  "reported": "2026-11-24T10:28:07Z"
+}
