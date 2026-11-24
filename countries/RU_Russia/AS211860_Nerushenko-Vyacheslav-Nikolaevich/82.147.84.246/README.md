@@ -7,10 +7,10 @@
 | IP | `82.147.84.246` |
 | Country | Russia (RU) |
 | ASN | AS211860 · Nerushenko Vyacheslav Nikolaevich |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (3) |
-| Events | 26 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (4) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-11T19:52:56Z |
-| Last seen (UTC) | 2026-11-21T14:31:01Z |
+| Last seen (UTC) | 2026-11-24T13:52:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

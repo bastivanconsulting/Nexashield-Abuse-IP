@@ -1,6 +1,6 @@
 # AS3301 · Telia Company AB
 
-🇸🇪 Sweden · **17** malicious IP(s)
+🇸🇪 Sweden · **18** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -21,6 +21,7 @@
 | [`217.210.70.99`](217.210.70.99/) | Known botnet / C2 infrastructure (5), Port scanning (3), SSH brute force (2) | 11 | 2026-11-24T09:43:49Z |
 | [`217.211.15.160`](217.211.15.160/) | SSH brute force (7), Known botnet / C2 infrastructure (5), Port scanning (3) | 16 | 2026-11-24T10:12:22Z |
 | [`217.211.91.162`](217.211.91.162/) | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (2) | 11 | 2026-11-24T01:05:35Z |
+| [`217.211.208.125`](217.211.208.125/) | Known botnet / C2 infrastructure (3), SSH brute force (3), Port scanning (2) | 9 | 2026-11-24T13:57:05Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

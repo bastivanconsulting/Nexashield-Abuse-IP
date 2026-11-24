@@ -12,7 +12,7 @@
 | [`118.193.56.246`](118.193.56.246/) | Port scanning (27), Known botnet / C2 infrastructure (20) | 48 | 2026-11-24T10:50:04Z |
 | [`118.193.57.59`](118.193.57.59/) | Port scanning (33), Known botnet / C2 infrastructure (20) | 54 | 2026-11-24T11:31:12Z |
 | [`118.193.57.185`](118.193.57.185/) | Port scanning (23), Known botnet / C2 infrastructure (18) | 42 | 2026-11-23T20:32:10Z |
-| [`118.194.250.2`](118.194.250.2/) | Port scanning (23) | 36 | 2026-11-24T13:02:32Z |
+| [`118.194.250.2`](118.194.250.2/) | Port scanning (26) | 41 | 2026-11-24T13:38:15Z |
 | [`118.194.250.22`](118.194.250.22/) | Port scanning (30), Known botnet / C2 infrastructure (16) | 47 | 2026-11-23T08:24:26Z |
 | [`118.194.250.31`](118.194.250.31/) | Port scanning (20), Known botnet / C2 infrastructure (4) | 32 | 2026-11-24T09:13:05Z |
 | [`118.194.250.60`](118.194.250.60/) | Port scanning (37), Known botnet / C2 infrastructure (17) | 55 | 2026-11-24T08:10:20Z |
@@ -35,9 +35,9 @@
 | [`165.154.118.215`](165.154.118.215/) | Port scanning (16), Known botnet / C2 infrastructure (9) | 26 | 2026-11-24T09:18:22Z |
 | [`165.154.119.20`](165.154.119.20/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-24T07:35:06Z |
 | [`165.154.120.30`](165.154.120.30/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 26 | 2026-11-24T01:05:35Z |
-| [`165.154.120.89`](165.154.120.89/) | Port scanning (20), Known botnet / C2 infrastructure (13) | 34 | 2026-11-24T01:22:25Z |
+| [`165.154.120.89`](165.154.120.89/) | Port scanning (21), Known botnet / C2 infrastructure (14) | 36 | 2026-11-24T14:07:19Z |
 | [`165.154.120.223`](165.154.120.223/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 26 | 2026-11-18T20:08:20Z |
-| [`165.154.120.226`](165.154.120.226/) | Port scanning (13), Known botnet / C2 infrastructure (9) | 23 | 2026-11-23T08:43:18Z |
+| [`165.154.120.226`](165.154.120.226/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-24T14:09:21Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -17,9 +17,9 @@
 | [`146.88.241.120`](146.88.241.120/) | Port scanning (63), Known botnet / C2 infrastructure (8) | 86 | 2026-11-24T08:17:10Z |
 | [`146.88.241.130`](146.88.241.130/) | Port scanning (112), Known botnet / C2 infrastructure (26) | 152 | 2026-11-24T08:07:39Z |
 | [`146.88.241.140`](146.88.241.140/) | Port scanning (77), Known botnet / C2 infrastructure (18) | 102 | 2026-11-24T07:04:54Z |
-| [`146.88.241.150`](146.88.241.150/) | Port scanning (117), Known botnet / C2 infrastructure (24), Exploitation attempt (CVE / RCE / injection) (7) | 152 | 2026-11-24T13:13:38Z |
+| [`146.88.241.150`](146.88.241.150/) | Port scanning (118), Known botnet / C2 infrastructure (24), Exploitation attempt (CVE / RCE / injection) (7) | 153 | 2026-11-24T13:30:00Z |
 | [`146.88.241.160`](146.88.241.160/) | Port scanning (68), Known botnet / C2 infrastructure (15) | 86 | 2026-11-24T02:56:56Z |
-| [`146.88.241.170`](146.88.241.170/) | Port scanning (134), Known botnet / C2 infrastructure (25) | 173 | 2026-11-24T13:14:05Z |
+| [`146.88.241.170`](146.88.241.170/) | Port scanning (138), Known botnet / C2 infrastructure (25) | 178 | 2026-11-24T14:06:58Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

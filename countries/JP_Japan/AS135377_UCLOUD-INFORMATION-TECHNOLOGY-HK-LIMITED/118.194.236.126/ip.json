@@ -1,0 +1,15 @@
+{
+  "ip": "118.194.236.126",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 135377,
+  "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+  "categories": {
+    "scan": 11,
+    "c2": 3
+  },
+  "events": 21,
+  "first_seen": "2026-11-14T01:40:15Z",
+  "last_seen": "2026-11-24T13:51:05Z",
+  "reported": "not reported (permanent ban)"
+}

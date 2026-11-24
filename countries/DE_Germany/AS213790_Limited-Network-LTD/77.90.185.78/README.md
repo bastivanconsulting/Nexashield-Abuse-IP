@@ -7,10 +7,10 @@
 | IP | `77.90.185.78` |
 | Country | Germany (DE) |
 | ASN | AS213790 · Limited Network LTD |
-| Activity | Port scanning (745) |
-| Events | 766 |
+| Activity | Port scanning (752) |
+| Events | 773 |
 | First seen (UTC) | 2026-11-11T10:20:00Z |
-| Last seen (UTC) | 2026-11-24T12:35:46Z |
+| Last seen (UTC) | 2026-11-24T14:06:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

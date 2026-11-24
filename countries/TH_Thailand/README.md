@@ -1,10 +1,10 @@
 # 🇹🇭 Thailand
 
-**43** malicious IP(s) across **8** network(s).
+**44** malicious IP(s) across **9** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 34 | Port scanning (668), Known botnet / C2 infrastructure (382) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 34 | Port scanning (673), Known botnet / C2 infrastructure (384) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 2 | Abusive HTTP requests (313), Web injection payload blocked by WAF (36) |
 | [AS23969](AS23969_TOT-Public-Company-Limited/) | TOT Public Company Limited | 2 | Known botnet / C2 infrastructure (11), Port scanning (10), SSH brute force (4) |
 | [AS135161](AS135161_GMO-Z-COM-PTE-LTD/) | GMO-Z.COM PTE. LTD. | 1 | Port scanning (22), Known botnet / C2 infrastructure (13) |
@@ -12,6 +12,7 @@
 | [AS38794](AS38794_United-Information-Highway-Co-Ltd/) | United Information Highway Co.,Ltd. | 1 | Port scanning (3) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (258), Web injection payload blocked by WAF (26) |
 | [AS45458](AS45458_ADVANCED-WIRELESS-NETWORK-COMPANY-LIMITED/) | ADVANCED WIRELESS NETWORK COMPANY LIMITED | 1 | Port scanning (13), Known botnet / C2 infrastructure (5) |
+| [AS45758](AS45758_ADVANCED-WIRELESS-NETWORK-COMPANY-LIMITED/) | ADVANCED WIRELESS NETWORK COMPANY LIMITED | 1 | Port scanning (1) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

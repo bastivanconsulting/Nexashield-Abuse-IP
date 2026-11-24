@@ -7,10 +7,10 @@
 | IP | `176.65.144.34` |
 | Country | Switzerland (CH) |
 | ASN | AS209413 · DEDIK SERVICES LIMITED |
-| Activity | Spamhaus DROP-listed network (24), Abusive HTTP requests (8) |
-| Events | 32 |
+| Activity | Spamhaus DROP-listed network (26), Abusive HTTP requests (8) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-14T11:30:55Z |
-| Last seen (UTC) | 2026-11-24T11:42:36Z |
+| Last seen (UTC) | 2026-11-24T13:55:23Z |
 | Reported to network owner (UTC) | 2026-11-24T08:29:41Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

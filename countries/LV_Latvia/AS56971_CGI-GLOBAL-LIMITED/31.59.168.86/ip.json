@@ -1,0 +1,15 @@
+{
+  "ip": "31.59.168.86",
+  "country_code": "LV",
+  "country": "Latvia",
+  "asn": 56971,
+  "asn_org": "CGI GLOBAL LIMITED",
+  "categories": {
+    "ssh": 16,
+    "scan": 3
+  },
+  "events": 19,
+  "first_seen": "2026-11-23T22:42:22Z",
+  "last_seen": "2026-11-24T14:22:35Z",
+  "reported": "2026-11-24T14:28:41Z"
+}

@@ -1,0 +1,14 @@
+{
+  "ip": "34.53.147.60",
+  "country_code": "BE",
+  "country": "Belgium",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "web": 494
+  },
+  "events": 494,
+  "first_seen": "2026-11-24T12:02:15Z",
+  "last_seen": "2026-11-24T12:02:32Z",
+  "reported": "2026-11-24T14:28:36Z"
+}

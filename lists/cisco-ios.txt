@@ -140,6 +140,7 @@ object-group network NEXASHIELD-ABUSE
  host 3.131.24.55
  host 3.133.91.161
  host 3.134.100.58
+ host 3.144.44.57
  host 3.144.77.222
  host 3.144.198.231
  host 3.145.34.61
@@ -176,6 +177,7 @@ object-group network NEXASHIELD-ABUSE
  host 4.150.202.233
  host 4.180.183.247
  host 4.227.155.94
+ host 4.227.160.131
  host 4.227.161.71
  host 4.227.178.182
  host 4.231.98.231
@@ -1288,6 +1290,7 @@ object-group network NEXASHIELD-ABUSE
  host 31.57.37.177
  host 31.57.37.178
  host 31.57.184.238
+ host 31.59.168.86
  host 31.70.89.79
  host 31.97.242.230
  host 31.129.22.45
@@ -1335,6 +1338,7 @@ object-group network NEXASHIELD-ABUSE
  host 34.52.140.48
  host 34.52.181.201
  host 34.52.188.32
+ host 34.53.147.60
  host 34.53.147.106
  host 34.53.170.250
  host 34.53.208.88
@@ -1641,6 +1645,7 @@ object-group network NEXASHIELD-ABUSE
  host 35.203.211.246
  host 35.203.211.247
  host 35.205.11.131
+ host 35.205.160.102
  host 35.206.128.248
  host 35.206.129.126
  host 35.206.130.190
@@ -2321,6 +2326,7 @@ object-group network NEXASHIELD-ABUSE
  host 43.167.173.44
  host 43.172.47.156
  host 43.173.253.201
+ host 43.224.117.10
  host 43.228.157.12
  host 43.228.157.15
  host 43.228.157.16
@@ -2853,10 +2859,12 @@ object-group network NEXASHIELD-ABUSE
  host 46.34.3.217
  host 46.44.36.143
  host 46.59.88.232
+ host 46.59.109.199
  host 46.77.69.201
  host 46.101.1.225
  host 46.101.9.55
  host 46.101.126.116
+ host 46.101.163.76
  host 46.101.182.236
  host 46.105.77.141
  host 46.105.132.32
@@ -3210,6 +3218,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.250.158.4
  host 47.250.158.21
  host 47.250.163.5
+ host 47.250.171.20
  host 47.250.172.208
  host 47.250.174.4
  host 47.250.174.174
@@ -3275,6 +3284,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.251.142.22
  host 47.251.143.84
  host 47.251.165.41
+ host 47.251.165.222
  host 47.251.166.182
  host 47.251.171.144
  host 47.251.171.255
@@ -4176,6 +4186,7 @@ object-group network NEXASHIELD-ABUSE
  host 74.243.250.30
  host 74.249.130.208
  host 74.249.131.24
+ host 74.249.131.224
  host 74.249.131.228
  host 74.249.131.231
  host 74.249.131.245
@@ -4270,6 +4281,7 @@ object-group network NEXASHIELD-ABUSE
  host 77.239.124.155
  host 77.239.124.156
  host 77.239.124.158
+ host 77.239.124.159
  host 77.239.124.161
  host 77.239.124.164
  host 77.239.124.168
@@ -5299,6 +5311,7 @@ object-group network NEXASHIELD-ABUSE
  host 101.36.97.88
  host 101.36.97.131
  host 101.36.97.172
+ host 101.36.97.187
  host 101.36.97.205
  host 101.36.105.50
  host 101.36.105.94
@@ -5353,6 +5366,7 @@ object-group network NEXASHIELD-ABUSE
  host 103.47.192.51
  host 103.59.161.154
  host 103.62.238.130
+ host 103.65.237.53
  host 103.66.148.82
  host 103.66.176.192
  host 103.82.120.110
@@ -5622,6 +5636,7 @@ object-group network NEXASHIELD-ABUSE
  host 109.248.156.49
  host 110.35.12.5
  host 110.35.12.16
+ host 110.164.15.234
  host 110.182.224.33
  host 111.30.42.43
  host 111.171.125.94
@@ -5689,6 +5704,7 @@ object-group network NEXASHIELD-ABUSE
  host 118.36.222.243
  host 118.40.157.149
  host 118.113.15.190
+ host 118.193.35.202
  host 118.193.36.107
  host 118.193.36.149
  host 118.193.39.117
@@ -5715,6 +5731,7 @@ object-group network NEXASHIELD-ABUSE
  host 118.193.69.177
  host 118.194.233.182
  host 118.194.236.118
+ host 118.194.236.126
  host 118.194.238.196
  host 118.194.248.4
  host 118.194.250.2
@@ -5897,6 +5914,7 @@ object-group network NEXASHIELD-ABUSE
  host 135.237.120.100
  host 135.237.120.224
  host 136.0.116.2
+ host 136.56.34.147
  host 136.67.178.123
  host 136.71.167.87
  host 136.87.66.64
@@ -5938,7 +5956,9 @@ object-group network NEXASHIELD-ABUSE
  host 138.226.239.233
  host 138.226.239.234
  host 138.246.253.7
+ host 138.246.253.130
  host 138.246.253.131
+ host 138.246.253.132
  host 138.246.253.133
  host 138.246.253.134
  host 138.246.253.135
@@ -8151,6 +8171,7 @@ object-group network NEXASHIELD-ABUSE
  host 217.210.70.99
  host 217.211.15.160
  host 217.211.91.162
+ host 217.211.208.125
  host 218.3.253.210
  host 218.23.95.14
  host 218.27.205.159

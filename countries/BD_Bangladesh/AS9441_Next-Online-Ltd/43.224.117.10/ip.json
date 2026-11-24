@@ -1,0 +1,15 @@
+{
+  "ip": "43.224.117.10",
+  "country_code": "BD",
+  "country": "Bangladesh",
+  "asn": 9441,
+  "asn_org": "Next Online Ltd.",
+  "categories": {
+    "scan": 16,
+    "c2": 1
+  },
+  "events": 20,
+  "first_seen": "2026-11-16T22:31:57Z",
+  "last_seen": "2026-11-24T06:49:30Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -6,11 +6,11 @@
   "asn_org": "ONEOTT INTERTAINMENT LIMITED",
   "categories": {
     "ssh": 6,
-    "c2": 4,
-    "scan": 2
+    "c2": 5,
+    "scan": 3
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-20T06:06:58Z",
-  "last_seen": "2026-11-23T12:19:09Z",
+  "last_seen": "2026-11-24T14:10:53Z",
   "reported": "not reported (permanent ban)"
 }

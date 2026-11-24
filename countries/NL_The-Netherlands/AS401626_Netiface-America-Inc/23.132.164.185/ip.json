@@ -6,11 +6,11 @@
   "asn_org": "Netiface America, Inc.",
   "categories": {
     "ssh": 2,
-    "scan": 40,
+    "scan": 41,
     "c2": 23
   },
-  "events": 66,
+  "events": 67,
   "first_seen": "2026-11-10T06:18:59Z",
-  "last_seen": "2026-11-24T08:02:24Z",
+  "last_seen": "2026-11-24T13:35:55Z",
   "reported": "not reported (permanent ban)"
 }
