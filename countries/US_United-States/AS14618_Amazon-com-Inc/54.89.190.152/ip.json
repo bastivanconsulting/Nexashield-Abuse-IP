@@ -6,10 +6,10 @@
   "asn_org": "Amazon.com, Inc.",
   "categories": {
     "scan": 14,
-    "c2": 5
+    "c2": 6
   },
-  "events": 22,
+  "events": 24,
   "first_seen": "2026-11-11T10:18:20Z",
-  "last_seen": "2026-11-24T08:17:57Z",
+  "last_seen": "2026-11-24T08:18:56Z",
   "reported": "not reported (permanent ban)"
 }

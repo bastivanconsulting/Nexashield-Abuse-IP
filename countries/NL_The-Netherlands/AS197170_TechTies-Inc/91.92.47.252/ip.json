@@ -1,0 +1,14 @@
+{
+  "ip": "91.92.47.252",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 197170,
+  "asn_org": "TechTies Inc.",
+  "categories": {
+    "scan": 87
+  },
+  "events": 87,
+  "first_seen": "2026-11-19T19:46:36Z",
+  "last_seen": "2026-11-24T09:13:41Z",
+  "reported": "not reported (permanent ban)"
+}

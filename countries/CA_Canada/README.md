@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 48 | Port scanning (3974), Known botnet / C2 infrastructure (533), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 48 | Port scanning (4005), Known botnet / C2 infrastructure (536), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (174), Known botnet / C2 infrastructure (20), Abusive HTTP requests (18), Exploitation attempt (CVE / RCE / injection) (9) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Abusive HTTP requests (16), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (1) |
 | [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 2 | Port scanning (54), Known botnet / C2 infrastructure (4), Abusive HTTP requests (2) |

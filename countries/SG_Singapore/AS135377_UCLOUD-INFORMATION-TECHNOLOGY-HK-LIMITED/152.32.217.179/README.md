@@ -7,10 +7,10 @@
 | IP | `152.32.217.179` |
 | Country | Singapore (SG) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (43) |
-| Events | 59 |
+| Activity | Port scanning (44) |
+| Events | 60 |
 | First seen (UTC) | 2026-11-14T04:18:43Z |
-| Last seen (UTC) | 2026-11-24T03:45:02Z |
+| Last seen (UTC) | 2026-11-24T08:26:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

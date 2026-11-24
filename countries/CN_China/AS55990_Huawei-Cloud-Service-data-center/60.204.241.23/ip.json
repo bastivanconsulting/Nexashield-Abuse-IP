@@ -6,10 +6,10 @@
   "asn_org": "Huawei Cloud Service data center",
   "categories": {
     "scan": 1,
-    "c2": 3
+    "c2": 4
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-19T14:58:37Z",
-  "last_seen": "2026-11-23T15:21:30Z",
+  "last_seen": "2026-11-24T08:32:28Z",
   "reported": "not reported (permanent ban)"
 }

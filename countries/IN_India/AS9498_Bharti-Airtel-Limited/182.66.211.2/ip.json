@@ -6,11 +6,11 @@
   "asn_org": "Bharti Airtel Limited",
   "categories": {
     "ssh": 1,
-    "c2": 6,
-    "scan": 5
+    "c2": 7,
+    "scan": 6
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-15T11:23:13Z",
-  "last_seen": "2026-11-23T16:58:17Z",
+  "last_seen": "2026-11-24T08:37:02Z",
   "reported": "not reported (permanent ban)"
 }

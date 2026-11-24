@@ -7,10 +7,10 @@
 | IP | `20.118.211.140` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (19), Known botnet / C2 infrastructure (10) |
-| Events | 34 |
+| Activity | Port scanning (20), Known botnet / C2 infrastructure (11) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-11T11:45:01Z |
-| Last seen (UTC) | 2026-11-23T22:58:20Z |
+| Last seen (UTC) | 2026-11-24T08:38:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
