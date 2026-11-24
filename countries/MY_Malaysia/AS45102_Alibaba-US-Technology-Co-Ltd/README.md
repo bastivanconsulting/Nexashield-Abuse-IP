@@ -1,10 +1,11 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇲🇾 Malaysia · **77** malicious IP(s)
+🇲🇾 Malaysia · **78** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`47.250.11.46`](47.250.11.46/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-23T03:17:52Z |
+| [`47.250.38.74`](47.250.38.74/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-24T11:56:05Z |
 | [`47.250.43.176`](47.250.43.176/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-23T10:28:55Z |
 | [`47.250.46.113`](47.250.46.113/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-24T07:13:27Z |
 | [`47.250.50.149`](47.250.50.149/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T22:04:22Z |
@@ -60,10 +61,10 @@
 | [`47.250.158.4`](47.250.158.4/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-17T03:19:31Z |
 | [`47.250.158.21`](47.250.158.21/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-24T07:49:39Z |
 | [`47.250.163.5`](47.250.163.5/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-24T02:48:05Z |
-| [`47.250.172.208`](47.250.172.208/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T07:36:58Z |
+| [`47.250.172.208`](47.250.172.208/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T11:38:01Z |
 | [`47.250.174.4`](47.250.174.4/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 16 | 2026-11-24T05:35:37Z |
 | [`47.250.174.174`](47.250.174.174/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-22T10:46:04Z |
-| [`47.250.178.28`](47.250.178.28/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-22T20:08:05Z |
+| [`47.250.178.28`](47.250.178.28/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 15 | 2026-11-24T12:12:39Z |
 | [`47.250.178.53`](47.250.178.53/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T19:29:04Z |
 | [`47.250.178.80`](47.250.178.80/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-21T14:05:16Z |
 | [`47.250.179.209`](47.250.179.209/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-24T08:06:06Z |

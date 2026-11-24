@@ -5,11 +5,11 @@
   "asn": 218721,
   "asn_org": "HOSTOX GROUP S.R.L.",
   "categories": {
-    "scan": 4,
+    "scan": 5,
     "c2": 4
   },
-  "events": 9,
+  "events": 10,
   "first_seen": "2026-11-20T00:48:38Z",
-  "last_seen": "2026-11-24T07:18:03Z",
+  "last_seen": "2026-11-24T11:23:01Z",
   "reported": "not reported (permanent ban)"
 }

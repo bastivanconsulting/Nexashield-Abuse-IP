@@ -5,11 +5,11 @@
   "asn": 209413,
   "asn_org": "DEDIK SERVICES LIMITED",
   "categories": {
-    "spamhaus": 22,
+    "spamhaus": 24,
     "web": 8
   },
-  "events": 30,
+  "events": 32,
   "first_seen": "2026-11-14T11:30:55Z",
-  "last_seen": "2026-11-24T07:49:56Z",
+  "last_seen": "2026-11-24T11:42:36Z",
   "reported": "2026-11-24T08:29:41Z"
 }

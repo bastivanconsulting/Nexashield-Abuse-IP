@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.144.212.158`](45.144.212.158/) | Port scanning (239), Known botnet / C2 infrastructure (20), Abusive HTTP requests (5), Web injection payload blocked by WAF (1) | 274 | 2026-11-21T14:54:20Z |
-| [`45.144.212.163`](45.144.212.163/) | Port scanning (64), Known botnet / C2 infrastructure (1) | 70 | 2026-11-24T11:16:06Z |
+| [`45.144.212.163`](45.144.212.163/) | Port scanning (65), Known botnet / C2 infrastructure (2) | 72 | 2026-11-24T12:02:57Z |
 | [`176.65.148.4`](176.65.148.4/) | Port scanning (80) | 81 | 2026-11-24T04:14:51Z |
 | [`176.65.148.36`](176.65.148.36/) | Port scanning (12) | 13 | 2026-11-23T17:18:05Z |
 | [`176.65.148.51`](176.65.148.51/) | Port scanning (109), Known botnet / C2 infrastructure (27), Web injection payload blocked by WAF (1), Abusive HTTP requests (1) | 139 | 2026-11-21T06:06:09Z |
@@ -18,7 +18,7 @@
 | [`176.65.148.183`](176.65.148.183/) | Port scanning (21), Known botnet / C2 infrastructure (1) | 23 | 2026-11-24T06:37:15Z |
 | [`176.65.148.193`](176.65.148.193/) | Abusive HTTP requests (13) | 13 | 2026-11-21T09:00:22Z |
 | [`176.65.148.207`](176.65.148.207/) | Port scanning (25), Known botnet / C2 infrastructure (8), Exploitation attempt (CVE / RCE / injection) (1) | 38 | 2026-11-24T09:28:04Z |
-| [`176.65.148.216`](176.65.148.216/) | Port scanning (66) | 66 | 2026-11-24T09:04:26Z |
+| [`176.65.148.216`](176.65.148.216/) | Port scanning (67) | 67 | 2026-11-24T11:50:20Z |
 | [`176.65.148.220`](176.65.148.220/) | Port scanning (1) | 2 | 2026-11-23T17:18:05Z |
 | [`176.65.148.243`](176.65.148.243/) | Port scanning (69) | 70 | 2026-11-24T10:03:59Z |
 | [`176.65.149.140`](176.65.149.140/) | Port scanning (131) | 133 | 2026-11-24T09:28:21Z |
@@ -28,7 +28,7 @@
 | [`176.65.149.232`](176.65.149.232/) | Port scanning (28) | 29 | 2026-11-21T16:43:24Z |
 | [`176.65.149.233`](176.65.149.233/) | Port scanning (20) | 21 | 2026-11-17T18:53:06Z |
 | [`176.65.149.236`](176.65.149.236/) | Port scanning (99), Known botnet / C2 infrastructure (25), Abusive HTTP requests (1) | 126 | 2026-11-21T07:47:36Z |
-| [`176.65.149.252`](176.65.149.252/) | Port scanning (114), Known botnet / C2 infrastructure (1) | 119 | 2026-11-24T11:02:16Z |
+| [`176.65.149.252`](176.65.149.252/) | Port scanning (115), Known botnet / C2 infrastructure (1) | 120 | 2026-11-24T11:19:38Z |
 | [`176.65.151.21`](176.65.151.21/) | Abusive HTTP requests (5), Spamhaus DROP-listed network (1) | 6 | 2026-11-17T22:33:26Z |
 
 ---

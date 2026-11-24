@@ -1,0 +1,16 @@
+{
+  "ip": "191.241.142.217",
+  "country_code": "AR",
+  "country": "Argentina",
+  "asn": 270106,
+  "asn_org": "Paralelo 46 TV SA",
+  "categories": {
+    "ssh": 4,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 9,
+  "first_seen": "2026-11-22T06:43:30Z",
+  "last_seen": "2026-11-24T12:11:05Z",
+  "reported": "not reported (permanent ban)"
+}

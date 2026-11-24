@@ -1,0 +1,16 @@
+{
+  "ip": "211.48.60.35",
+  "country_code": "KR",
+  "country": "South Korea",
+  "asn": 4766,
+  "asn_org": "Korea Telecom",
+  "categories": {
+    "scan": 2,
+    "c2": 3,
+    "ssh": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-21T20:37:06Z",
+  "last_seen": "2026-11-24T12:17:05Z",
+  "reported": "not reported (permanent ban)"
+}

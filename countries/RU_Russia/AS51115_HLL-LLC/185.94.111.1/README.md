@@ -7,10 +7,10 @@
 | IP | `185.94.111.1` |
 | Country | Russia (RU) |
 | ASN | AS51115 · HLL LLC |
-| Activity | Port scanning (448), Known botnet / C2 infrastructure (42), Exploitation attempt (CVE / RCE / injection) (11) |
-| Events | 538 |
+| Activity | Port scanning (449), Known botnet / C2 infrastructure (42), Exploitation attempt (CVE / RCE / injection) (11) |
+| Events | 539 |
 | First seen (UTC) | 2026-11-11T09:36:39Z |
-| Last seen (UTC) | 2026-11-24T11:02:13Z |
+| Last seen (UTC) | 2026-11-24T11:47:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

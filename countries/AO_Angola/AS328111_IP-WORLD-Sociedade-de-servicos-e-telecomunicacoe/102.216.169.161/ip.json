@@ -1,0 +1,15 @@
+{
+  "ip": "102.216.169.161",
+  "country_code": "AO",
+  "country": "Angola",
+  "asn": 328111,
+  "asn_org": "IP WORLD - Sociedade de servicos e telecomunicacoes Limitada",
+  "categories": {
+    "scan": 7,
+    "c2": 2
+  },
+  "events": 10,
+  "first_seen": "2026-11-14T17:33:10Z",
+  "last_seen": "2026-11-22T04:43:31Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `91.144.158.62` |
 | Country | Russia (RU) |
 | ASN | AS42116 · JSC "ER-Telecom Holding" |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (4) |
-| Events | 16 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (5) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-19T16:51:00Z |
-| Last seen (UTC) | 2026-11-23T15:30:31Z |
+| Last seen (UTC) | 2026-11-24T11:40:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

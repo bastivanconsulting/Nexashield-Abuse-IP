@@ -7,10 +7,10 @@
 | IP | `178.20.210.151` |
 | Country | Kazakhstan (KZ) |
 | ASN | AS210006 · Shereverov Marat Ahmedovich |
-| Activity | Port scanning (421), Known botnet / C2 infrastructure (26) |
-| Events | 468 |
+| Activity | Port scanning (423), Known botnet / C2 infrastructure (26) |
+| Events | 470 |
 | First seen (UTC) | 2026-11-11T09:59:53Z |
-| Last seen (UTC) | 2026-11-24T11:12:20Z |
+| Last seen (UTC) | 2026-11-24T12:14:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

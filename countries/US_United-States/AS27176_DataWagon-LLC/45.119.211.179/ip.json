@@ -5,11 +5,11 @@
   "asn": 27176,
   "asn_org": "DataWagon LLC",
   "categories": {
-    "scan": 3,
-    "c2": 2
+    "scan": 4,
+    "c2": 3
   },
-  "events": 5,
+  "events": 8,
   "first_seen": "2026-11-20T14:36:48Z",
-  "last_seen": "2026-11-22T17:30:09Z",
+  "last_seen": "2026-11-24T11:21:05Z",
   "reported": "not reported (permanent ban)"
 }

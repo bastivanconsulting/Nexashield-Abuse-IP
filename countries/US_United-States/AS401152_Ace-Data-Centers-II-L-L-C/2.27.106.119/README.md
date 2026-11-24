@@ -7,10 +7,10 @@
 | IP | `2.27.106.119` |
 | Country | United States (US) |
 | ASN | AS401152 · Ace Data Centers II, L.L.C. |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (1) |
-| Events | 21 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (2) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-13T04:58:50Z |
-| Last seen (UTC) | 2026-11-24T11:17:16Z |
+| Last seen (UTC) | 2026-11-24T11:18:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

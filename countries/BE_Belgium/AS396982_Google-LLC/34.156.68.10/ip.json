@@ -1,0 +1,14 @@
+{
+  "ip": "34.156.68.10",
+  "country_code": "BE",
+  "country": "Belgium",
+  "asn": 396982,
+  "asn_org": "Google LLC",
+  "categories": {
+    "waf": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-24T12:35:25Z",
+  "last_seen": "2026-11-24T12:35:25Z",
+  "reported": "not reported (permanent ban)"
+}
