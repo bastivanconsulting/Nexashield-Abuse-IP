@@ -1,12 +1,12 @@
 # 🇮🇳 India
 
-**67** malicious IP(s) across **28** network(s).
+**68** malicious IP(s) across **28** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 12 | Port scanning (41), Exploitation attempt (CVE / RCE / injection) (20), Known botnet / C2 infrastructure (19), Abusive HTTP requests (6), SSH brute force (2) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 8 | Known botnet / C2 infrastructure (36), Port scanning (31), SSH brute force (30) |
-| [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 7 | Port scanning (25), SSH brute force (21), Known botnet / C2 infrastructure (21) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 9 | Known botnet / C2 infrastructure (39), SSH brute force (35), Port scanning (31) |
+| [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 7 | Port scanning (27), Known botnet / C2 infrastructure (22), SSH brute force (21) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (230), Known botnet / C2 infrastructure (79) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 5 | Port scanning (66), Known botnet / C2 infrastructure (21) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 3 | Known botnet / C2 infrastructure (13), SSH brute force (12), Port scanning (10) |

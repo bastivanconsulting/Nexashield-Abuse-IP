@@ -1,6 +1,6 @@
 # AS9498 · Bharti Airtel Limited
 
-🇮🇳 India · **8** malicious IP(s)
+🇮🇳 India · **9** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`182.75.227.178`](182.75.227.178/) | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (3) | 14 | 2026-11-24T00:51:02Z |
 | [`182.76.36.62`](182.76.36.62/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) | 10 | 2026-11-22T18:30:03Z |
 | [`182.95.123.166`](182.95.123.166/) | SSH brute force (3), Known botnet / C2 infrastructure (2) | 7 | 2026-11-23T02:43:05Z |
+| [`182.95.181.50`](182.95.181.50/) | SSH brute force (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-24T02:01:04Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

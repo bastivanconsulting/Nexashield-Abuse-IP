@@ -1,0 +1,14 @@
+{
+  "ip": "190.13.213.98",
+  "country_code": "AR",
+  "country": "Argentina",
+  "asn": 262192,
+  "asn_org": "Skycorp S.A.",
+  "categories": {
+    "exploit": 4
+  },
+  "events": 4,
+  "first_seen": "2026-11-24T01:00:27Z",
+  "last_seen": "2026-11-24T01:00:27Z",
+  "reported": "2026-11-24T02:27:24Z"
+}

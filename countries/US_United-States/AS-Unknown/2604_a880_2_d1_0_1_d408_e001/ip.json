@@ -5,10 +5,10 @@
   "asn": null,
   "asn_org": "Unknown",
   "categories": {
-    "waf": 1
+    "waf": 4
   },
-  "events": 1,
+  "events": 4,
   "first_seen": "2026-11-24T00:30:51Z",
-  "last_seen": "2026-11-24T00:30:51Z",
-  "reported": "not reported (permanent ban)"
+  "last_seen": "2026-11-24T00:31:01Z",
+  "reported": "2026-11-24T02:27:19Z"
 }

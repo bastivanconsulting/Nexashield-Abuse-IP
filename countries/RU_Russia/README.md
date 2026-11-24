@@ -12,7 +12,7 @@
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (47), Known botnet / C2 infrastructure (9) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (4) |
 | [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (617), Known botnet / C2 infrastructure (44), Abusive HTTP requests (2) |
-| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (75), Known botnet / C2 infrastructure (43) |
+| [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (76), Known botnet / C2 infrastructure (44) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (10), Known botnet / C2 infrastructure (7) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
 | [AS20485](AS20485_Joint-Stock-Company-TransTeleCom/) | Joint Stock Company TransTeleCom | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
@@ -31,7 +31,7 @@
 | [AS48282](AS48282_Hosting-technology-LTD/) | Hosting technology LTD | 1 | Port scanning (6) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
 | [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (427), Known botnet / C2 infrastructure (41), Exploitation attempt (CVE / RCE / injection) (11) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (431), Known botnet / C2 infrastructure (41), Exploitation attempt (CVE / RCE / injection) (11) |
 | [AS51369](AS51369_LLC-TRC-FIORD/) | LLC "TRC FIORD" | 1 | SSH brute force (8), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8359](AS8359_MTS-PJSC/) | MTS PJSC | 1 | Port scanning (5), Known botnet / C2 infrastructure (3) |

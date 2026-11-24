@@ -7,10 +7,10 @@
 | IP | `103.138.173.242` |
 | Country | Bangladesh (BD) |
 | ASN | AS139029 · AKNetworks |
-| Activity | Port scanning (49), Known botnet / C2 infrastructure (7) |
-| Events | 73 |
+| Activity | Port scanning (50), Known botnet / C2 infrastructure (8) |
+| Events | 75 |
 | First seen (UTC) | 2026-11-11T14:06:29Z |
-| Last seen (UTC) | 2026-11-23T19:29:31Z |
+| Last seen (UTC) | 2026-11-24T01:24:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

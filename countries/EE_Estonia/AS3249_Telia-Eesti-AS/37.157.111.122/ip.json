@@ -5,11 +5,11 @@
   "asn": 3249,
   "asn_org": "Telia Eesti AS",
   "categories": {
-    "ssh": 3,
-    "c2": 2
+    "ssh": 4,
+    "c2": 3
   },
-  "events": 5,
+  "events": 8,
   "first_seen": "2026-11-18T03:33:19Z",
-  "last_seen": "2026-11-22T20:19:39Z",
+  "last_seen": "2026-11-24T01:20:05Z",
   "reported": "not reported (permanent ban)"
 }

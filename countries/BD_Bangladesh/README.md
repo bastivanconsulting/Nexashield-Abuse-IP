@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS135578](AS135578_Dhaka-Information-Technology/) | Dhaka Information Technology | 1 | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS139029](AS139029_AKNetworks/) | AKNetworks | 1 | Port scanning (49), Known botnet / C2 infrastructure (7) |
+| [AS139029](AS139029_AKNetworks/) | AKNetworks | 1 | Port scanning (50), Known botnet / C2 infrastructure (8) |
 | [AS141474](AS141474_Trust-Innovation-Limited/) | Trust Innovation Limited | 1 | Port scanning (14), Known botnet / C2 infrastructure (3) |
 | [AS23893](AS23893_Bangla-Phone-Ltd/) | Bangla Phone Ltd | 1 | Port scanning (8), Known botnet / C2 infrastructure (5) |
 | [AS23923](AS23923_Agni-Systems-Limited/) | Agni Systems Limited | 1 | Port scanning (203) |

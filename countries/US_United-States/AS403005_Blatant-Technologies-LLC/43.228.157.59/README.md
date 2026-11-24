@@ -7,10 +7,10 @@
 | IP | `43.228.157.59` |
 | Country | United States (US) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (3) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-15T14:19:08Z |
-| Last seen (UTC) | 2026-11-17T12:24:19Z |
+| Last seen (UTC) | 2026-11-24T01:34:04Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

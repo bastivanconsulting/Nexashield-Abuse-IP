@@ -6,11 +6,11 @@
   "asn_org": "Arbor Networks, Inc.",
   "categories": {
     "scan": 15,
-    "c2": 6,
-    "exploit": 4
+    "c2": 7,
+    "exploit": 5
   },
-  "events": 26,
+  "events": 28,
   "first_seen": "2026-11-12T04:38:03Z",
-  "last_seen": "2026-11-19T15:35:18Z",
+  "last_seen": "2026-11-24T01:19:22Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,15 @@
+{
+  "ip": "180.176.211.166",
+  "country_code": "TW",
+  "country": "Taiwan",
+  "asn": 38841,
+  "asn_org": "kbro CO. Ltd.",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-20T19:12:05Z",
+  "last_seen": "2026-11-24T01:53:05Z",
+  "reported": "not reported (permanent ban)"
+}

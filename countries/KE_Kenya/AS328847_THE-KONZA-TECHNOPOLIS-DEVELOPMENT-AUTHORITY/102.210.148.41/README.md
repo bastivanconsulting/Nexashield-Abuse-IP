@@ -7,10 +7,10 @@
 | IP | `102.210.148.41` |
 | Country | Kenya (KE) |
 | ASN | AS328847 · THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY |
-| Activity | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (4) |
-| Events | 31 |
+| Activity | Port scanning (15), Known botnet / C2 infrastructure (13), SSH brute force (4) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-13T17:22:48Z |
-| Last seen (UTC) | 2026-11-23T11:33:57Z |
+| Last seen (UTC) | 2026-11-24T02:07:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

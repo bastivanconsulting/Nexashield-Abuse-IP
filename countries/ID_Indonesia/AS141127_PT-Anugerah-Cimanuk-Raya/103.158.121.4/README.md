@@ -7,10 +7,10 @@
 | IP | `103.158.121.4` |
 | Country | Indonesia (ID) |
 | ASN | AS141127 · PT Anugerah Cimanuk Raya |
-| Activity | Port scanning (25), Known botnet / C2 infrastructure (8), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |
-| Events | 42 |
+| Activity | Port scanning (26), Known botnet / C2 infrastructure (9), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |
+| Events | 44 |
 | First seen (UTC) | 2026-11-12T09:20:44Z |
-| Last seen (UTC) | 2026-11-22T02:46:34Z |
+| Last seen (UTC) | 2026-11-24T02:13:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

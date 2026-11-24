@@ -1,10 +1,11 @@
 # AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
-🇹🇼 Taiwan · **8** malicious IP(s)
+🇹🇼 Taiwan · **9** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`123.58.205.100`](123.58.205.100/) | Port scanning (39) | 56 | 2026-11-23T22:42:51Z |
+| [`128.14.227.37`](128.14.227.37/) | Port scanning (14), Known botnet / C2 infrastructure (3) | 22 | 2026-11-24T01:46:05Z |
 | [`128.14.229.76`](128.14.229.76/) | Port scanning (40) | 61 | 2026-11-23T22:34:24Z |
 | [`128.14.236.30`](128.14.236.30/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-21T09:36:44Z |
 | [`128.14.236.128`](128.14.236.128/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 14 | 2026-11-22T22:51:23Z |
