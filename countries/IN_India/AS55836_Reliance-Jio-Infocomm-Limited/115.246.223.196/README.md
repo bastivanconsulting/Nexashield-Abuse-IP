@@ -7,10 +7,10 @@
 | IP | `115.246.223.196` |
 | Country | India (IN) |
 | ASN | AS55836 · Reliance Jio Infocomm Limited |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
-| Events | 14 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-19T02:11:17Z |
-| Last seen (UTC) | 2026-11-23T18:55:13Z |
+| Last seen (UTC) | 2026-11-24T17:21:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

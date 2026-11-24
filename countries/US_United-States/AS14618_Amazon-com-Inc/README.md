@@ -1,6 +1,6 @@
 # AS14618 · Amazon.com, Inc.
 
-🇺🇸 United States · **374** malicious IP(s)
+🇺🇸 United States · **375** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -120,6 +120,7 @@
 | [`44.202.249.214`](44.202.249.214/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-18T04:39:04Z |
 | [`44.202.254.113`](44.202.254.113/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 13 | 2026-11-24T10:14:30Z |
 | [`44.203.87.47`](44.203.87.47/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-19T22:42:03Z |
+| [`44.203.232.182`](44.203.232.182/) | Abusive HTTP requests (6) | 6 | 2026-11-24T16:31:02Z |
 | [`44.206.251.50`](44.206.251.50/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 18 | 2026-11-24T09:57:00Z |
 | [`44.211.39.50`](44.211.39.50/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 16 | 2026-11-21T10:17:46Z |
 | [`44.211.63.124`](44.211.63.124/) | Port scanning (10), Known botnet / C2 infrastructure (5) | 17 | 2026-11-21T08:07:23Z |

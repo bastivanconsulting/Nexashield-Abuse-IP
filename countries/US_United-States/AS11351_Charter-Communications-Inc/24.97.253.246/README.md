@@ -7,10 +7,10 @@
 | IP | `24.97.253.246` |
 | Country | United States (US) |
 | ASN | AS11351 · Charter Communications Inc |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (2) |
-| Events | 11 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (5), SSH brute force (2) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-22T00:02:33Z |
-| Last seen (UTC) | 2026-11-23T21:04:46Z |
+| Last seen (UTC) | 2026-11-24T17:46:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

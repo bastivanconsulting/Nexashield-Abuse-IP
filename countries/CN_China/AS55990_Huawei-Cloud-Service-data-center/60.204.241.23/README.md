@@ -7,10 +7,10 @@
 | IP | `60.204.241.23` |
 | Country | China (CN) |
 | ASN | AS55990 · Huawei Cloud Service data center |
-| Activity | Known botnet / C2 infrastructure (5), Port scanning (1) |
-| Events | 12 |
+| Activity | Known botnet / C2 infrastructure (6), Port scanning (1) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-19T14:58:37Z |
-| Last seen (UTC) | 2026-11-24T16:29:26Z |
+| Last seen (UTC) | 2026-11-24T18:05:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

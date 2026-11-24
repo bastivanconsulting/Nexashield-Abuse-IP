@@ -7,10 +7,10 @@
 | IP | `61.12.86.90` |
 | Country | India (IN) |
 | ASN | AS45820 · TTSL-ISP DIVISION |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (5) |
-| Events | 17 |
+| Activity | Known botnet / C2 infrastructure (6), Port scanning (6), SSH brute force (5) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-19T11:48:28Z |
-| Last seen (UTC) | 2026-11-22T22:27:48Z |
+| Last seen (UTC) | 2026-11-24T18:03:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
