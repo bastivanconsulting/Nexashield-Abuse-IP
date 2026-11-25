@@ -4,12 +4,12 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 16 | Known botnet / C2 infrastructure (96), Port scanning (96), SSH brute force (66) |
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 16 | Known botnet / C2 infrastructure (97), Port scanning (97), SSH brute force (66) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 11 | Known botnet / C2 infrastructure (69), Port scanning (67), SSH brute force (46) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (151), Known botnet / C2 infrastructure (50) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1319), Known botnet / C2 infrastructure (123), Exploitation attempt (CVE / RCE / injection) (67) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (581), Known botnet / C2 infrastructure (42), SSH brute force (18) |
-| [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (50), Known botnet / C2 infrastructure (43), SSH brute force (28) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (152), Known botnet / C2 infrastructure (50) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 7 | Port scanning (1324), Known botnet / C2 infrastructure (123), Exploitation attempt (CVE / RCE / injection) (67) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (584), Known botnet / C2 infrastructure (43), SSH brute force (18) |
+| [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (51), Known botnet / C2 infrastructure (44), SSH brute force (28) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
 | [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 2 | Port scanning (25), Known botnet / C2 infrastructure (10), Abusive HTTP requests (2) |
@@ -19,13 +19,13 @@
 | [AS263047](AS263047_CORP-BR-TELECOMUNICACOES-LTDA-LINK-FULL/) | CORP BR TELECOMUNICACOES LTDA - LINK FULL | 1 | Port scanning (29), Known botnet / C2 infrastructure (5) |
 | [AS263055](AS263055_Pinhais-Net-Telecom-Comercio-e-Servi-os-Ltda/) | Pinhais Net Telecom Comercio e Serviços Ltda | 1 | Port scanning (11) |
 | [AS263558](AS263558_RD-TELECOM-LTDA-ME/) | RD TELECOM LTDA -ME | 1 | Port scanning (14), Known botnet / C2 infrastructure (1) |
-| [AS268214](AS268214_schossler-e-silva-ltda-me/) | schossler e silva ltda - me | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
+| [AS268214](AS268214_schossler-e-silva-ltda-me/) | schossler e silva ltda - me | 1 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (21) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (45), Known botnet / C2 infrastructure (8) |
-| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (152), Known botnet / C2 infrastructure (22) |
+| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (154), Known botnet / C2 infrastructure (22) |
 | [AS270564](AS270564_MASTER-DA-WEB-DATACENTER-LTDA/) | MASTER DA WEB DATACENTER LTDA | 1 | Port scanning (7), Known botnet / C2 infrastructure (1) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |
-| [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (57), Known botnet / C2 infrastructure (27) |
+| [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (58), Known botnet / C2 infrastructure (28) |
 | [AS4230](AS4230_CLARO-S-A/) | CLARO S.A. | 1 | Port scanning (21) |
 | [AS47583](AS47583_Hostinger-International-Limited/) | Hostinger International Limited | 1 | SSH brute force (5), Port scanning (2) |
 | [AS53107](AS53107_EVEO-Servi-os-de-Internet-Ltda/) | EVEO Serviços de Internet Ltda. | 1 | Port scanning (12) |

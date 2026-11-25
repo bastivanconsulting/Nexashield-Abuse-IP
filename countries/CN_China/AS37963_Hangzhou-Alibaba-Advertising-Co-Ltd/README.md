@@ -1,6 +1,6 @@
 # AS37963 · Hangzhou Alibaba Advertising Co.,Ltd.
 
-🇨🇳 China · **66** malicious IP(s)
+🇨🇳 China · **67** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -68,6 +68,7 @@
 | [`121.43.152.182`](121.43.152.182/) | Port scanning (3) | 4 | 2026-11-22T01:21:05Z |
 | [`121.199.162.33`](121.199.162.33/) | Port scanning (5) | 6 | 2026-11-22T15:03:04Z |
 | [`121.199.163.183`](121.199.163.183/) | Port scanning (1) | 2 | 2026-11-23T14:08:05Z |
+| [`121.199.172.55`](121.199.172.55/) | Port scanning (2) | 3 | 2026-11-25T06:02:05Z |
 | [`121.199.174.62`](121.199.174.62/) | Port scanning (4) | 5 | 2026-11-24T02:12:15Z |
 | [`218.244.143.162`](218.244.143.162/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T23:06:43Z |
 

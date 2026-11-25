@@ -6,11 +6,11 @@
   "asn_org": "TELUS Communications Inc.",
   "categories": {
     "ssh": 4,
-    "c2": 4,
-    "scan": 2
+    "c2": 5,
+    "scan": 3
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-19T16:19:32Z",
-  "last_seen": "2026-11-24T12:17:45Z",
+  "last_seen": "2026-11-25T05:25:46Z",
   "reported": "not reported (permanent ban)"
 }

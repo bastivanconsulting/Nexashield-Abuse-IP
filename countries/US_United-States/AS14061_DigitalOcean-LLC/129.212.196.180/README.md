@@ -7,10 +7,10 @@
 | IP | `129.212.196.180` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (30) |
-| Events | 47 |
+| Activity | Port scanning (31) |
+| Events | 49 |
 | First seen (UTC) | 2026-11-17T05:31:07Z |
-| Last seen (UTC) | 2026-11-25T00:50:55Z |
+| Last seen (UTC) | 2026-11-25T05:28:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -11,7 +11,7 @@
 | [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 3 | Port scanning (130), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (63), Known botnet / C2 infrastructure (13) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (4) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (691), Known botnet / C2 infrastructure (51), Abusive HTTP requests (2) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (693), Known botnet / C2 infrastructure (52), Abusive HTTP requests (2) |
 | [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (82), Known botnet / C2 infrastructure (46) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (15), Known botnet / C2 infrastructure (9) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |

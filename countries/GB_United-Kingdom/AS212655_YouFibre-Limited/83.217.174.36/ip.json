@@ -5,11 +5,11 @@
   "asn": 212655,
   "asn_org": "YouFibre Limited",
   "categories": {
-    "scan": 15,
+    "scan": 16,
     "c2": 3
   },
-  "events": 19,
+  "events": 20,
   "first_seen": "2026-11-24T12:50:49Z",
-  "last_seen": "2026-11-25T03:25:11Z",
+  "last_seen": "2026-11-25T05:20:09Z",
   "reported": "not reported (permanent ban)"
 }

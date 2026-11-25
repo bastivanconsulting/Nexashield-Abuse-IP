@@ -7,10 +7,10 @@
 | IP | `45.194.92.57` |
 | Country | Canada (CA) |
 | ASN | AS215925 · VPSVAULT.HOST LTD |
-| Activity | Port scanning (56), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |
-| Events | 66 |
+| Activity | Port scanning (58), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |
+| Events | 68 |
 | First seen (UTC) | 2026-11-16T18:07:51Z |
-| Last seen (UTC) | 2026-11-25T04:55:26Z |
+| Last seen (UTC) | 2026-11-25T06:06:25Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

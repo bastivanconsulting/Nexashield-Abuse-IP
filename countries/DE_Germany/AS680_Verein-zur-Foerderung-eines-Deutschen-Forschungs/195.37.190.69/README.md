@@ -7,10 +7,10 @@
 | IP | `195.37.190.69` |
 | Country | Germany (DE) |
 | ASN | AS680 · Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. |
-| Activity | Port scanning (39) |
-| Events | 46 |
+| Activity | Port scanning (40) |
+| Events | 47 |
 | First seen (UTC) | 2026-11-12T01:43:54Z |
-| Last seen (UTC) | 2026-11-25T05:06:40Z |
+| Last seen (UTC) | 2026-11-25T06:08:55Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

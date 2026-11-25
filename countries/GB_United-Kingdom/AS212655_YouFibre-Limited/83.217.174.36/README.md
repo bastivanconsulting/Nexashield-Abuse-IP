@@ -7,10 +7,10 @@
 | IP | `83.217.174.36` |
 | Country | United Kingdom (GB) |
 | ASN | AS212655 · YouFibre Limited |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (3) |
-| Events | 19 |
+| Activity | Port scanning (16), Known botnet / C2 infrastructure (3) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-24T12:50:49Z |
-| Last seen (UTC) | 2026-11-25T03:25:11Z |
+| Last seen (UTC) | 2026-11-25T05:20:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
