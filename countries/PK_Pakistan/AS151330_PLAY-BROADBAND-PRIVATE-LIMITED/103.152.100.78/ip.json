@@ -5,11 +5,11 @@
   "asn": 151330,
   "asn_org": "PLAY BROADBAND (PRIVATE) LIMITED",
   "categories": {
-    "scan": 3,
-    "c2": 2
+    "scan": 4,
+    "c2": 3
   },
-  "events": 5,
+  "events": 8,
   "first_seen": "2026-11-19T22:51:27Z",
-  "last_seen": "2026-11-23T21:22:06Z",
+  "last_seen": "2026-11-25T01:30:05Z",
   "reported": "not reported (permanent ban)"
 }

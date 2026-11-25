@@ -1,0 +1,15 @@
+{
+  "ip": "162.35.8.182",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 26666,
+  "asn_org": "Interserver, Inc",
+  "categories": {
+    "scan": 7,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-18T11:08:51Z",
+  "last_seen": "2026-11-25T01:42:05Z",
+  "reported": "not reported (permanent ban)"
+}

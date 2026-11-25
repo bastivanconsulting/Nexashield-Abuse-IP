@@ -7,10 +7,10 @@
 | IP | `103.152.100.78` |
 | Country | Pakistan (PK) |
 | ASN | AS151330 · PLAY BROADBAND (PRIVATE) LIMITED |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-19T22:51:27Z |
-| Last seen (UTC) | 2026-11-23T21:22:06Z |
+| Last seen (UTC) | 2026-11-25T01:30:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -8,9 +8,9 @@
 | Country | Denmark (DK) |
 | ASN | AS3292 · TDC Holding A/S |
 | Activity | Port scanning (1) |
-| Events | 1 |
+| Events | 2 |
 | First seen (UTC) | 2026-11-25T01:18:22Z |
-| Last seen (UTC) | 2026-11-25T01:18:22Z |
+| Last seen (UTC) | 2026-11-25T01:19:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

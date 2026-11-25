@@ -7,10 +7,10 @@
 | IP | `117.2.123.19` |
 | Country | Vietnam (VN) |
 | ASN | AS7552 · Viettel Group |
-| Activity | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) |
-| Events | 13 |
+| Activity | Known botnet / C2 infrastructure (6), SSH brute force (4), Port scanning (4) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-19T19:24:24Z |
-| Last seen (UTC) | 2026-11-24T09:10:10Z |
+| Last seen (UTC) | 2026-11-25T02:05:37Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

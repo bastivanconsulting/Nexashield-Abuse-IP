@@ -1,0 +1,15 @@
+{
+  "ip": "61.218.153.56",
+  "country_code": "TW",
+  "country": "Taiwan",
+  "asn": 3462,
+  "asn_org": "Chunghwa Telecom Co., Ltd.",
+  "categories": {
+    "scan": 20,
+    "c2": 3
+  },
+  "events": 24,
+  "first_seen": "2026-11-22T04:16:37Z",
+  "last_seen": "2026-11-25T01:45:05Z",
+  "reported": "not reported (permanent ban)"
+}

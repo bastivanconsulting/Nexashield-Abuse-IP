@@ -1,0 +1,15 @@
+{
+  "ip": "165.56.129.14",
+  "country_code": "ZM",
+  "country": "Zambia",
+  "asn": 37154,
+  "asn_org": "Zambia Telecommunications Company Ltd aka ZAMTEL",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-20T06:05:58Z",
+  "last_seen": "2026-11-25T02:02:05Z",
+  "reported": "not reported (permanent ban)"
+}

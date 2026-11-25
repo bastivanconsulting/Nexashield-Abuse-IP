@@ -7,11 +7,11 @@
 | IP | `185.217.1.246` |
 | Country | Sweden (SE) |
 | ASN | AS42237 · w1n ltd |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (1), Port scanning (1) |
-| Events | 10 |
+| Activity | SSH brute force (10), Port scanning (2) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-25T00:23:16Z |
-| Last seen (UTC) | 2026-11-25T00:24:45Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-25T00:23:46Z |
+| Reported to network owner (UTC) | 2026-11-25T02:28:07Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

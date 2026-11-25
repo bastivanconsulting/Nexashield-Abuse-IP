@@ -5,11 +5,11 @@
   "asn": 9829,
   "asn_org": "Bharat Sanchar Nigam Ltd",
   "categories": {
-    "scan": 42,
-    "c2": 18
+    "scan": 43,
+    "c2": 19
   },
-  "events": 68,
+  "events": 70,
   "first_seen": "2026-11-11T11:57:09Z",
-  "last_seen": "2026-11-24T21:49:58Z",
+  "last_seen": "2026-11-25T01:26:54Z",
   "reported": "not reported (permanent ban)"
 }

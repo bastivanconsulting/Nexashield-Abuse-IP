@@ -7,11 +7,11 @@
 | IP | `14.33.48.192` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 1 |
-| First seen (UTC) | 2026-11-24T08:10:02Z |
-| Last seen (UTC) | 2026-11-24T08:10:02Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
+| First seen (UTC) | 2026-11-25T01:35:25Z |
+| Last seen (UTC) | 2026-11-25T01:35:25Z |
+| Reported to network owner (UTC) | 2026-11-25T02:28:03Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

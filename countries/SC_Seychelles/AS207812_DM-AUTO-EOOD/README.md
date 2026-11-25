@@ -4,12 +4,12 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`79.124.62.10`](79.124.62.10/) | Port scanning (59), Known botnet / C2 infrastructure (21) | 90 | 2026-11-24T15:06:57Z |
+| [`79.124.62.10`](79.124.62.10/) | Port scanning (62), Known botnet / C2 infrastructure (22) | 94 | 2026-11-25T02:04:02Z |
 | [`79.124.62.126`](79.124.62.126/) | Port scanning (112) | 127 | 2026-11-25T00:48:41Z |
 | [`79.124.62.134`](79.124.62.134/) | Port scanning (94) | 106 | 2026-11-24T14:29:07Z |
-| [`79.124.62.178`](79.124.62.178/) | Port scanning (581) | 621 | 2026-11-25T01:09:55Z |
+| [`79.124.62.178`](79.124.62.178/) | Port scanning (583) | 623 | 2026-11-25T02:00:10Z |
 | [`79.124.62.218`](79.124.62.218/) | Port scanning (60) | 61 | 2026-11-16T06:03:30Z |
-| [`79.124.62.230`](79.124.62.230/) | Port scanning (79) | 91 | 2026-11-24T10:06:22Z |
+| [`79.124.62.230`](79.124.62.230/) | Port scanning (82) | 95 | 2026-11-25T02:15:07Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

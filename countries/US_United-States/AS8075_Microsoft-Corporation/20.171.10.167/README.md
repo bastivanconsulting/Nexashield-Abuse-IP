@@ -7,10 +7,10 @@
 | IP | `20.171.10.167` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (2), Abusive HTTP requests (1), Web injection payload blocked by WAF (1) |
-| Events | 4 |
+| Activity | Port scanning (4), Abusive HTTP requests (1), Web injection payload blocked by WAF (1) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-17T05:37:03Z |
-| Last seen (UTC) | 2026-11-23T16:50:57Z |
+| Last seen (UTC) | 2026-11-25T01:44:25Z |
 | Reported to network owner (UTC) | 2026-11-18T18:26:13Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

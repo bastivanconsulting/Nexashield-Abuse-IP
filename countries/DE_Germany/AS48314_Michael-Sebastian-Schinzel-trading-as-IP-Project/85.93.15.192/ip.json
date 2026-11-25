@@ -1,0 +1,15 @@
+{
+  "ip": "85.93.15.192",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 48314,
+  "asn_org": "Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",
+  "categories": {
+    "scan": 19,
+    "web": 136
+  },
+  "events": 155,
+  "first_seen": "2026-11-23T17:40:02Z",
+  "last_seen": "2026-11-25T02:12:56Z",
+  "reported": "not reported (permanent ban)"
+}

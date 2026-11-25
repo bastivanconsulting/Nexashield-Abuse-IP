@@ -8,7 +8,7 @@
 | [`77.91.71.23`](77.91.71.23/) | Port scanning (24), Known botnet / C2 infrastructure (4) | 28 | 2026-11-16T22:21:50Z |
 | [`77.91.71.24`](77.91.71.24/) | Port scanning (30), Known botnet / C2 infrastructure (4) | 38 | 2026-11-15T00:52:20Z |
 | [`77.91.71.25`](77.91.71.25/) | Port scanning (36), Known botnet / C2 infrastructure (3) | 43 | 2026-11-14T14:07:46Z |
-| [`77.91.71.27`](77.91.71.27/) | Port scanning (234), Known botnet / C2 infrastructure (1) | 271 | 2026-11-25T01:16:45Z |
+| [`77.91.71.27`](77.91.71.27/) | Port scanning (239), Known botnet / C2 infrastructure (1) | 277 | 2026-11-25T02:06:53Z |
 | [`77.91.71.57`](77.91.71.57/) | Port scanning (78), Known botnet / C2 infrastructure (10) | 96 | 2026-11-23T04:53:44Z |
 | [`77.91.71.90`](77.91.71.90/) | Port scanning (28), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (2) | 35 | 2026-11-14T22:41:37Z |
 | [`77.91.71.91`](77.91.71.91/) | Port scanning (41), Known botnet / C2 infrastructure (4) | 47 | 2026-11-15T00:52:37Z |

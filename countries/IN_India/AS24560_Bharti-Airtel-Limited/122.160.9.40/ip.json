@@ -1,0 +1,15 @@
+{
+  "ip": "122.160.9.40",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 24560,
+  "asn_org": "Bharti Airtel Limited",
+  "categories": {
+    "scan": 4,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-11T12:03:19Z",
+  "last_seen": "2026-11-22T07:58:35Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `36.133.212.147` |
 | Country | China (CN) |
 | ASN | AS9808 · China Mobile Communications Group Co., Ltd |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (1) |
-| Events | 7 |
+| Activity | Port scanning (8), Known botnet / C2 infrastructure (2) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-15T00:43:03Z |
-| Last seen (UTC) | 2026-11-24T03:29:14Z |
+| Last seen (UTC) | 2026-11-25T01:23:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

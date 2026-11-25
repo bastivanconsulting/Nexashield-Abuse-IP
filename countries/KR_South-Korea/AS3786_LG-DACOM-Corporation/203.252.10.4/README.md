@@ -7,10 +7,10 @@
 | IP | `203.252.10.4` |
 | Country | South Korea (KR) |
 | ASN | AS3786 · LG DACOM Corporation |
-| Activity | Port scanning (11), Known botnet / C2 infrastructure (8), SSH brute force (4) |
-| Events | 24 |
+| Activity | Port scanning (12), Known botnet / C2 infrastructure (9), SSH brute force (4) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-13T22:39:15Z |
-| Last seen (UTC) | 2026-11-24T08:56:21Z |
+| Last seen (UTC) | 2026-11-25T02:11:43Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
