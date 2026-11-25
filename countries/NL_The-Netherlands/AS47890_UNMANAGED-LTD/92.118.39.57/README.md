@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS47890 · UNMANAGED LTD |
 | Activity | Port scanning (1) |
-| Events | 13 |
+| Events | 14 |
 | First seen (UTC) | 2026-11-13T05:19:26Z |
-| Last seen (UTC) | 2026-11-25T11:17:48Z |
+| Last seen (UTC) | 2026-11-25T13:22:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

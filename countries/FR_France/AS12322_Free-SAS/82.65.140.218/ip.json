@@ -6,10 +6,11 @@
   "asn_org": "Free SAS",
   "categories": {
     "ssh": 11,
-    "c2": 3
+    "c2": 4,
+    "scan": 1
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-18T22:09:18Z",
-  "last_seen": "2026-11-23T10:47:05Z",
+  "last_seen": "2026-11-25T14:07:32Z",
   "reported": "not reported (permanent ban)"
 }

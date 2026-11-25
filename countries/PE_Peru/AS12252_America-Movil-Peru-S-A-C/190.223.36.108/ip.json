@@ -6,11 +6,11 @@
   "asn_org": "America Movil Peru S.A.C.",
   "categories": {
     "ssh": 4,
-    "c2": 3,
-    "scan": 1
+    "c2": 4,
+    "scan": 2
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-18T11:50:39Z",
-  "last_seen": "2026-11-24T15:36:06Z",
+  "last_seen": "2026-11-25T13:35:28Z",
   "reported": "not reported (permanent ban)"
 }

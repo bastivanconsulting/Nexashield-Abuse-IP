@@ -621,6 +621,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.15.166.190
  host 20.15.166.195
  host 20.15.203.16
+ host 20.15.203.58
  host 20.15.227.79
  host 20.15.227.254
  host 20.15.228.164
@@ -783,6 +784,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.65.170.207
  host 20.65.170.225
  host 20.65.170.243
+ host 20.65.171.36
  host 20.65.171.65
  host 20.65.171.66
  host 20.65.171.69
@@ -831,6 +833,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.65.219.164
  host 20.65.219.167
  host 20.65.219.183
+ host 20.65.219.187
  host 20.65.219.194
  host 20.80.72.4
  host 20.80.75.148
@@ -1098,6 +1101,7 @@ object-group network NEXASHIELD-ABUSE
  host 20.163.57.236
  host 20.163.58.46
  host 20.163.58.65
+ host 20.163.58.153
  host 20.163.58.216
  host 20.163.58.220
  host 20.163.59.59
@@ -2102,6 +2106,7 @@ object-group network NEXASHIELD-ABUSE
  host 35.246.133.128
  host 36.64.36.101
  host 36.89.141.138
+ host 36.95.245.9
  host 36.133.212.147
  host 36.136.66.44
  host 36.140.173.223
@@ -2357,6 +2362,7 @@ object-group network NEXASHIELD-ABUSE
  host 40.124.178.214
  host 40.124.179.77
  host 40.124.179.181
+ host 40.124.179.236
  host 40.124.179.244
  host 40.124.179.252
  host 40.124.180.50
@@ -2368,6 +2374,7 @@ object-group network NEXASHIELD-ABUSE
  host 40.124.186.144
  host 40.124.186.156
  host 40.124.186.172
+ host 40.124.186.184
  host 40.124.186.190
  host 40.124.187.1
  host 40.124.187.7
@@ -2394,6 +2401,7 @@ object-group network NEXASHIELD-ABUSE
  host 43.135.36.201
  host 43.142.87.72
  host 43.155.157.239
+ host 43.157.91.161
  host 43.157.94.28
  host 43.159.60.128
  host 43.159.149.124
@@ -2559,6 +2567,7 @@ object-group network NEXASHIELD-ABUSE
  host 45.79.191.178
  host 45.79.203.197
  host 45.79.207.110
+ host 45.79.207.181
  host 45.79.211.97
  host 45.79.214.122
  host 45.79.218.122
@@ -3152,6 +3161,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.84.135.140
  host 47.84.135.183
  host 47.84.135.196
+ host 47.84.135.203
  host 47.84.136.64
  host 47.84.137.3
  host 47.84.137.6
@@ -3375,6 +3385,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.250.172.208
  host 47.250.174.4
  host 47.250.174.174
+ host 47.250.175.148
  host 47.250.178.28
  host 47.250.178.53
  host 47.250.178.80
@@ -3429,6 +3440,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.251.115.200
  host 47.251.116.252
  host 47.251.117.40
+ host 47.251.121.118
  host 47.251.122.165
  host 47.251.122.183
  host 47.251.122.225
@@ -3474,6 +3486,7 @@ object-group network NEXASHIELD-ABUSE
  host 47.251.250.61
  host 47.251.250.101
  host 47.251.251.225
+ host 47.251.252.169
  host 47.251.252.193
  host 47.251.254.233
  host 47.253.224.181
@@ -3780,6 +3793,7 @@ object-group network NEXASHIELD-ABUSE
  host 61.143.227.17
  host 61.146.235.54
  host 61.147.209.31
+ host 61.160.105.66
  host 61.177.36.109
  host 61.184.128.210
  host 61.191.145.123
@@ -4761,6 +4775,7 @@ object-group network NEXASHIELD-ABUSE
  host 84.200.91.80
  host 84.233.212.3
  host 84.241.13.118
+ host 84.243.8.197
  host 85.11.167.7
  host 85.11.167.37
  host 85.11.167.43
@@ -5367,6 +5382,15 @@ object-group network NEXASHIELD-ABUSE
  host 93.152.221.50
  host 93.152.221.108
  host 93.152.224.190
+ host 93.158.90.15
+ host 93.158.90.29
+ host 93.158.90.34
+ host 93.158.90.43
+ host 93.158.90.215
+ host 93.158.90.222
+ host 93.158.90.231
+ host 93.158.90.233
+ host 93.158.90.246
  host 93.174.95.106
  host 93.177.157.179
  host 94.26.41.193
@@ -6104,6 +6128,7 @@ object-group network NEXASHIELD-ABUSE
  host 123.58.213.117
  host 123.138.18.10
  host 123.180.188.162
+ host 123.212.9.122
  host 124.29.224.7
  host 124.29.224.86
  host 124.29.224.203
@@ -6851,6 +6876,7 @@ object-group network NEXASHIELD-ABUSE
  host 164.90.220.159
  host 164.90.228.79
  host 164.90.237.227
+ host 164.92.196.19
  host 164.92.234.243
  host 164.100.5.201
  host 165.22.19.26
@@ -8574,6 +8600,7 @@ object-group network NEXASHIELD-ABUSE
  host 221.145.31.147
  host 221.164.148.85
  host 222.97.112.179
+ host 222.117.176.58
  host 222.137.210.216
  host 222.186.13.130
  host 222.186.48.194

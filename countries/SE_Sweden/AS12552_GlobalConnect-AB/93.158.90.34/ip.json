@@ -1,0 +1,14 @@
+{
+  "ip": "93.158.90.34",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 12552,
+  "asn_org": "GlobalConnect AB",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-25T09:04:51Z",
+  "last_seen": "2026-11-25T09:04:51Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,11 +1,12 @@
 # AS132203 · Shenzhen Tencent Computer Systems Company Limited
 
-🇩🇪 Germany · **7** malicious IP(s)
+🇩🇪 Germany · **8** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`43.131.30.88`](43.131.30.88/) | Port scanning (69), Web injection payload blocked by WAF (5) | 128 | 2026-11-25T13:08:37Z |
+| [`43.131.30.88`](43.131.30.88/) | Port scanning (78), Web injection payload blocked by WAF (5) | 144 | 2026-11-25T13:20:40Z |
 | [`43.131.45.213`](43.131.45.213/) | Abusive HTTP requests (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-15T02:29:04Z |
+| [`43.157.91.161`](43.157.91.161/) | Port scanning (20) | 34 | 2026-11-25T13:57:08Z |
 | [`43.157.94.28`](43.157.94.28/) | Port scanning (78) | 137 | 2026-11-25T11:13:26Z |
 | [`43.165.6.235`](43.165.6.235/) | Abusive HTTP requests (3), Web injection payload blocked by WAF (1) | 4 | 2026-11-20T12:16:21Z |
 | [`49.51.166.228`](49.51.166.228/) | Abusive HTTP requests (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-20T14:59:04Z |

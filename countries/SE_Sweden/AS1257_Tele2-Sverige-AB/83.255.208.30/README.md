@@ -7,10 +7,10 @@
 | IP | `83.255.208.30` |
 | Country | Sweden (SE) |
 | ASN | AS1257 · Tele2 Sverige AB |
-| Activity | Known botnet / C2 infrastructure (6), Port scanning (6), SSH brute force (4) |
-| Events | 17 |
+| Activity | Known botnet / C2 infrastructure (7), Port scanning (7), SSH brute force (4) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-12T21:01:21Z |
-| Last seen (UTC) | 2026-11-23T14:44:30Z |
+| Last seen (UTC) | 2026-11-25T13:56:22Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

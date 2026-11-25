@@ -1,0 +1,19 @@
+# `222.117.176.58`
+
+🇰🇷 **South Korea** · AS4766 Korea Telecom
+
+| Field | Value |
+|---|---|
+| IP | `222.117.176.58` |
+| Country | South Korea (KR) |
+| ASN | AS4766 · Korea Telecom |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
+| First seen (UTC) | 2026-11-20T05:10:41Z |
+| Last seen (UTC) | 2026-11-25T13:49:05Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `23.251.87.120` |
 | Country | United States (US) |
 | ASN | AS26827 · EPB Fiber Optics |
-| Activity | Exploitation attempt (CVE / RCE / injection) (13), Port scanning (13) |
-| Events | 36 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (14), Port scanning (14) |
+| Events | 39 |
 | First seen (UTC) | 2026-11-11T12:26:05Z |
-| Last seen (UTC) | 2026-11-23T09:18:08Z |
+| Last seen (UTC) | 2026-11-25T14:07:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,9 +1,10 @@
 # AS9318 · SK Broadband Co Ltd
 
-🇰🇷 South Korea · **1** malicious IP(s)
+🇰🇷 South Korea · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`123.212.9.122`](123.212.9.122/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-25T13:54:04Z |
 | [`211.178.165.251`](211.178.165.251/) | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (4) | 16 | 2026-11-24T09:46:53Z |
 
 ---

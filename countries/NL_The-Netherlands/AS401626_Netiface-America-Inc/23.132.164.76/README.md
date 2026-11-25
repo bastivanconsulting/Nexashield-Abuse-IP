@@ -7,10 +7,10 @@
 | IP | `23.132.164.76` |
 | Country | The Netherlands (NL) |
 | ASN | AS401626 · Netiface America, Inc. |
-| Activity | Port scanning (164) |
-| Events | 176 |
+| Activity | Port scanning (168) |
+| Events | 181 |
 | First seen (UTC) | 2026-11-22T14:28:30Z |
-| Last seen (UTC) | 2026-11-25T12:46:00Z |
+| Last seen (UTC) | 2026-11-25T13:50:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

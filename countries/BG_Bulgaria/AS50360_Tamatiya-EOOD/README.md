@@ -12,7 +12,7 @@
 | [`79.124.40.142`](79.124.40.142/) | Port scanning (84), Known botnet / C2 infrastructure (24) | 122 | 2026-11-25T07:51:43Z |
 | [`79.124.40.150`](79.124.40.150/) | Port scanning (464), Known botnet / C2 infrastructure (40) | 534 | 2026-11-25T13:14:07Z |
 | [`79.124.40.158`](79.124.40.158/) | Port scanning (617), Known botnet / C2 infrastructure (45) | 712 | 2026-11-25T13:14:31Z |
-| [`79.124.40.162`](79.124.40.162/) | Port scanning (69), Known botnet / C2 infrastructure (2) | 85 | 2026-11-25T12:44:56Z |
+| [`79.124.40.162`](79.124.40.162/) | Port scanning (72), Known botnet / C2 infrastructure (2) | 89 | 2026-11-25T13:45:20Z |
 | [`79.124.40.166`](79.124.40.166/) | Port scanning (202), Known botnet / C2 infrastructure (17) | 224 | 2026-11-22T07:24:57Z |
 | [`79.124.40.170`](79.124.40.170/) | Port scanning (632), Known botnet / C2 infrastructure (44) | 715 | 2026-11-25T13:14:13Z |
 | [`79.124.40.178`](79.124.40.178/) | Port scanning (58) | 58 | 2026-11-25T01:19:43Z |
@@ -35,8 +35,8 @@
 | [`79.124.58.218`](79.124.58.218/) | Port scanning (65), Known botnet / C2 infrastructure (2) | 69 | 2026-11-12T06:31:08Z |
 | [`79.124.58.250`](79.124.58.250/) | Port scanning (582) | 681 | 2026-11-25T12:57:32Z |
 | [`79.124.59.10`](79.124.59.10/) | Port scanning (434) | 496 | 2026-11-25T13:13:49Z |
-| [`79.124.59.78`](79.124.59.78/) | Port scanning (1068), Known botnet / C2 infrastructure (53) | 1216 | 2026-11-25T12:58:05Z |
-| [`79.124.59.82`](79.124.59.82/) | Port scanning (420), Known botnet / C2 infrastructure (23) | 482 | 2026-11-25T13:16:16Z |
+| [`79.124.59.78`](79.124.59.78/) | Port scanning (1074), Known botnet / C2 infrastructure (53) | 1223 | 2026-11-25T14:01:50Z |
+| [`79.124.59.82`](79.124.59.82/) | Port scanning (422), Known botnet / C2 infrastructure (23) | 484 | 2026-11-25T13:54:35Z |
 | [`79.124.60.194`](79.124.60.194/) | Port scanning (86) | 99 | 2026-11-12T14:50:09Z |
 | [`79.124.60.218`](79.124.60.218/) | Port scanning (23) | 23 | 2026-11-12T10:44:03Z |
 | [`79.124.60.250`](79.124.60.250/) | Port scanning (447) | 513 | 2026-11-25T13:11:29Z |
