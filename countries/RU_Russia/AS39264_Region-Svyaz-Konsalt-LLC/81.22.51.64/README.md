@@ -7,10 +7,10 @@
 | IP | `81.22.51.64` |
 | Country | Russia (RU) |
 | ASN | AS39264 · "Region Svyaz Konsalt" LLC |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (4) |
-| Events | 15 |
+| Activity | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (5) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-20T12:20:16Z |
-| Last seen (UTC) | 2026-11-24T11:57:21Z |
+| Last seen (UTC) | 2026-11-25T15:09:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

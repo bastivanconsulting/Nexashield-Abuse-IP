@@ -7,10 +7,10 @@
 | IP | `143.110.182.33` |
 | Country | India (IN) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (49), Known botnet / C2 infrastructure (20) |
-| Events | 70 |
+| Activity | Port scanning (50), Known botnet / C2 infrastructure (20) |
+| Events | 71 |
 | First seen (UTC) | 2026-11-11T16:59:17Z |
-| Last seen (UTC) | 2026-11-25T09:14:07Z |
+| Last seen (UTC) | 2026-11-25T14:33:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -41,7 +41,7 @@
 | [`137.184.85.24`](137.184.85.24/) | Port scanning (50), Known botnet / C2 infrastructure (17), Web injection payload blocked by WAF (2) | 73 | 2026-11-25T13:49:39Z |
 | [`137.184.105.192`](137.184.105.192/) | Port scanning (42), Known botnet / C2 infrastructure (21) | 65 | 2026-11-25T13:38:31Z |
 | [`137.184.205.213`](137.184.205.213/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T04:05:04Z |
-| [`137.184.226.250`](137.184.226.250/) | Port scanning (57), Known botnet / C2 infrastructure (21) | 79 | 2026-11-25T14:01:52Z |
+| [`137.184.226.250`](137.184.226.250/) | Port scanning (58), Known botnet / C2 infrastructure (21) | 80 | 2026-11-25T15:05:36Z |
 | [`137.184.233.150`](137.184.233.150/) | Port scanning (78) | 79 | 2026-11-21T03:05:42Z |
 | [`138.68.16.163`](138.68.16.163/) | Port scanning (59), Known botnet / C2 infrastructure (15) | 75 | 2026-11-24T16:31:30Z |
 | [`138.68.56.45`](138.68.56.45/) | Port scanning (31) | 39 | 2026-11-21T14:18:08Z |
@@ -58,13 +58,13 @@
 | [`146.190.48.172`](146.190.48.172/) | Port scanning (59), Known botnet / C2 infrastructure (21) | 83 | 2026-11-25T06:13:09Z |
 | [`146.190.63.48`](146.190.63.48/) | Abusive HTTP requests (12), Port scanning (1) | 13 | 2026-11-11T17:16:09Z |
 | [`146.190.63.248`](146.190.63.248/) | Abusive HTTP requests (18) | 18 | 2026-11-20T00:29:30Z |
-| [`146.190.66.18`](146.190.66.18/) | Port scanning (56) | 82 | 2026-11-25T13:31:54Z |
-| [`146.190.119.114`](146.190.119.114/) | Port scanning (60), Known botnet / C2 infrastructure (26) | 87 | 2026-11-25T12:10:24Z |
-| [`146.190.119.189`](146.190.119.189/) | Port scanning (43), Known botnet / C2 infrastructure (22), Abusive HTTP requests (1) | 67 | 2026-11-25T12:05:20Z |
+| [`146.190.66.18`](146.190.66.18/) | Port scanning (57) | 83 | 2026-11-25T14:43:04Z |
+| [`146.190.119.114`](146.190.119.114/) | Port scanning (61), Known botnet / C2 infrastructure (26) | 88 | 2026-11-25T15:03:53Z |
+| [`146.190.119.189`](146.190.119.189/) | Port scanning (44), Known botnet / C2 infrastructure (22), Abusive HTTP requests (1) | 68 | 2026-11-25T15:10:31Z |
 | [`146.190.120.158`](146.190.120.158/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T05:38:09Z |
 | [`146.190.134.221`](146.190.134.221/) | Port scanning (99), Known botnet / C2 infrastructure (11) | 115 | 2026-11-25T13:50:01Z |
 | [`146.190.145.217`](146.190.145.217/) | Port scanning (39), Known botnet / C2 infrastructure (17) | 57 | 2026-11-23T10:07:21Z |
-| [`146.190.166.168`](146.190.166.168/) | Port scanning (42), Known botnet / C2 infrastructure (20) | 63 | 2026-11-25T05:02:20Z |
+| [`146.190.166.168`](146.190.166.168/) | Port scanning (43), Known botnet / C2 infrastructure (21) | 65 | 2026-11-25T14:25:22Z |
 | [`147.182.180.142`](147.182.180.142/) | Port scanning (48) | 61 | 2026-11-23T22:21:14Z |
 | [`147.182.250.227`](147.182.250.227/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T17:17:28Z |
 | [`147.182.252.3`](147.182.252.3/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T19:40:06Z |
@@ -113,7 +113,7 @@
 | [`178.128.66.109`](178.128.66.109/) | Port scanning (20), Web injection payload blocked by WAF (1), Known botnet / C2 infrastructure (1) | 24 | 2026-11-15T05:10:44Z |
 | [`178.128.70.123`](178.128.70.123/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T10:03:58Z |
 | [`178.128.186.180`](178.128.186.180/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-23T08:03:36Z |
-| [`192.241.131.164`](192.241.131.164/) | Port scanning (57) | 77 | 2026-11-25T12:13:42Z |
+| [`192.241.131.164`](192.241.131.164/) | Port scanning (61) | 82 | 2026-11-25T14:59:01Z |
 | [`192.241.146.41`](192.241.146.41/) | SSH brute force (35) | 35 | 2026-11-24T00:01:19Z |
 | [`198.211.100.99`](198.211.100.99/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T17:45:04Z |
 | [`198.211.109.100`](198.211.109.100/) | Port scanning (7), Web injection payload blocked by WAF (2), Known botnet / C2 infrastructure (2) | 16 | 2026-11-22T17:29:46Z |

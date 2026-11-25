@@ -7,10 +7,10 @@
 | IP | `84.243.8.197` |
 | Country | Sweden (SE) |
 | ASN | AS62183 · Bredband2 Bredbandsson AB |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (2) |
-| Events | 7 |
+| Activity | SSH brute force (7), Known botnet / C2 infrastructure (3) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-21T12:42:45Z |
-| Last seen (UTC) | 2026-11-22T19:24:42Z |
+| Last seen (UTC) | 2026-11-25T14:31:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

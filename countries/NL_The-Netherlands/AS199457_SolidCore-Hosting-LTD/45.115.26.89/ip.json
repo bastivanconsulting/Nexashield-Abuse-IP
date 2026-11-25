@@ -1,0 +1,14 @@
+{
+  "ip": "45.115.26.89",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 199457,
+  "asn_org": "SolidCore Hosting LTD",
+  "categories": {
+    "scan": 5
+  },
+  "events": 7,
+  "first_seen": "2026-11-20T15:26:42Z",
+  "last_seen": "2026-11-24T20:10:53Z",
+  "reported": "not reported (permanent ban)"
+}

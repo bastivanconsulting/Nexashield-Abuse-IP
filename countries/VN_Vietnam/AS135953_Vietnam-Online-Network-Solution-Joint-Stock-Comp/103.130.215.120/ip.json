@@ -6,11 +6,11 @@
   "asn_org": "Vietnam Online Network Solution Joint Stock Compnay",
   "categories": {
     "web": 1,
-    "scan": 34,
+    "scan": 35,
     "c2": 6
   },
-  "events": 42,
+  "events": 43,
   "first_seen": "2026-11-21T17:46:50Z",
-  "last_seen": "2026-11-25T13:56:38Z",
+  "last_seen": "2026-11-25T14:49:17Z",
   "reported": "not reported (permanent ban)"
 }

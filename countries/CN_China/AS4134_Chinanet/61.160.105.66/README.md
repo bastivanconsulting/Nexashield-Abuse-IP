@@ -7,10 +7,10 @@
 | IP | `61.160.105.66` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | SSH brute force (7), Known botnet / C2 infrastructure (3), Port scanning (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-21T15:34:01Z |
-| Last seen (UTC) | 2026-11-24T20:29:08Z |
+| Last seen (UTC) | 2026-11-25T14:58:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

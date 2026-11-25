@@ -5,10 +5,10 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 16 | Port scanning (108), Known botnet / C2 infrastructure (104), SSH brute force (66) |
-| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 12 | Known botnet / C2 infrastructure (78), Port scanning (74), SSH brute force (52) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1355), Known botnet / C2 infrastructure (127), Exploitation attempt (CVE / RCE / injection) (67), Abusive HTTP requests (1) |
+| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 12 | Known botnet / C2 infrastructure (78), Port scanning (75), SSH brute force (52) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1359), Known botnet / C2 infrastructure (128), Exploitation attempt (CVE / RCE / injection) (67), Abusive HTTP requests (1) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (159), Known botnet / C2 infrastructure (53) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (607), Known botnet / C2 infrastructure (46), SSH brute force (18) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (611), Known botnet / C2 infrastructure (46), SSH brute force (18) |
 | [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (57), Known botnet / C2 infrastructure (49), SSH brute force (28) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
@@ -22,7 +22,7 @@
 | [AS268214](AS268214_schossler-e-silva-ltda-me/) | schossler e silva ltda - me | 1 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (24) |
 | [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (45), Known botnet / C2 infrastructure (8) |
-| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (164), Known botnet / C2 infrastructure (23) |
+| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (167), Known botnet / C2 infrastructure (23) |
 | [AS270564](AS270564_MASTER-DA-WEB-DATACENTER-LTDA/) | MASTER DA WEB DATACENTER LTDA | 1 | Port scanning (7), Known botnet / C2 infrastructure (1) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |
 | [AS28209](AS28209_Under-Servicos-de-Internet-Ltda/) | Under Servicos de Internet Ltda | 1 | Port scanning (62), Known botnet / C2 infrastructure (28) |

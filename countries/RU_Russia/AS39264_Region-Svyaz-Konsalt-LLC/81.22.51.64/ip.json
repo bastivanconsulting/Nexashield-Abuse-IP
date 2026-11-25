@@ -6,11 +6,11 @@
   "asn_org": "\"Region Svyaz Konsalt\" LLC",
   "categories": {
     "ssh": 5,
-    "c2": 5,
-    "scan": 4
+    "c2": 6,
+    "scan": 5
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-20T12:20:16Z",
-  "last_seen": "2026-11-24T11:57:21Z",
+  "last_seen": "2026-11-25T15:09:09Z",
   "reported": "not reported (permanent ban)"
 }

@@ -6,11 +6,11 @@
   "asn_org": "Hydra Communications Ltd",
   "categories": {
     "web": 2,
-    "scan": 61,
-    "c2": 17
+    "scan": 62,
+    "c2": 18
   },
-  "events": 82,
+  "events": 84,
   "first_seen": "2026-11-10T14:14:54Z",
-  "last_seen": "2026-11-24T21:31:21Z",
+  "last_seen": "2026-11-25T15:04:03Z",
   "reported": "not reported (permanent ban)"
 }

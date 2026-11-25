@@ -5,8 +5,8 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`45.138.12.6`](45.138.12.6/) | Abusive HTTP requests (224), Spamhaus DROP-listed network (10) | 234 | 2026-11-22T07:40:29Z |
-| [`45.138.12.10`](45.138.12.10/) | Abusive HTTP requests (61) | 61 | 2026-11-19T00:36:22Z |
-| [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (53) | 128 | 2026-11-25T11:09:41Z |
+| [`45.138.12.10`](45.138.12.10/) | Abusive HTTP requests (519), Spamhaus DROP-listed network (2) | 521 | 2026-11-25T15:08:48Z |
+| [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (55) | 130 | 2026-11-25T15:01:15Z |
 | [`45.138.12.19`](45.138.12.19/) | Spamhaus DROP-listed network (164), Abusive HTTP requests (22), Port scanning (1) | 187 | 2026-11-24T19:15:26Z |
 | [`45.138.12.37`](45.138.12.37/) | Abusive HTTP requests (102), Spamhaus DROP-listed network (2) | 104 | 2026-11-15T23:28:49Z |
 | [`45.138.12.40`](45.138.12.40/) | Port scanning (15), Known botnet / C2 infrastructure (10) | 26 | 2026-11-22T19:40:19Z |
@@ -22,17 +22,17 @@
 | [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (37), Abusive HTTP requests (6) | 43 | 2026-11-24T23:00:46Z |
 | [`45.138.12.216`](45.138.12.216/) | Port scanning (29), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (3), Abusive HTTP requests (1) | 39 | 2026-11-24T22:13:59Z |
 | [`45.138.12.217`](45.138.12.217/) | Port scanning (37), Known botnet / C2 infrastructure (9), Abusive HTTP requests (4), Web injection payload blocked by WAF (2) | 53 | 2026-11-24T23:00:46Z |
-| [`185.218.86.2`](185.218.86.2/) | Port scanning (530) | 605 | 2026-11-25T12:41:52Z |
-| [`185.218.86.4`](185.218.86.4/) | Port scanning (598) | 697 | 2026-11-25T13:16:40Z |
-| [`185.218.86.10`](185.218.86.10/) | Port scanning (576) | 668 | 2026-11-25T12:46:27Z |
-| [`185.218.86.12`](185.218.86.12/) | Port scanning (557) | 649 | 2026-11-25T13:06:42Z |
-| [`185.218.86.13`](185.218.86.13/) | Port scanning (548) | 638 | 2026-11-25T12:52:12Z |
-| [`185.218.86.17`](185.218.86.17/) | Port scanning (562) | 648 | 2026-11-25T13:10:32Z |
-| [`185.218.86.20`](185.218.86.20/) | Port scanning (561) | 651 | 2026-11-25T13:06:33Z |
-| [`185.218.86.23`](185.218.86.23/) | Port scanning (423) | 485 | 2026-11-25T12:31:20Z |
+| [`185.218.86.2`](185.218.86.2/) | Port scanning (533) | 608 | 2026-11-25T14:44:05Z |
+| [`185.218.86.4`](185.218.86.4/) | Port scanning (604) | 705 | 2026-11-25T15:06:37Z |
+| [`185.218.86.10`](185.218.86.10/) | Port scanning (580) | 673 | 2026-11-25T15:05:55Z |
+| [`185.218.86.12`](185.218.86.12/) | Port scanning (560) | 652 | 2026-11-25T14:55:24Z |
+| [`185.218.86.13`](185.218.86.13/) | Port scanning (553) | 644 | 2026-11-25T15:02:17Z |
+| [`185.218.86.17`](185.218.86.17/) | Port scanning (567) | 655 | 2026-11-25T15:06:01Z |
+| [`185.218.86.20`](185.218.86.20/) | Port scanning (566) | 657 | 2026-11-25T15:01:57Z |
+| [`185.218.86.23`](185.218.86.23/) | Port scanning (427) | 490 | 2026-11-25T15:10:41Z |
 | [`185.218.86.26`](185.218.86.26/) | Abusive HTTP requests (19) | 19 | 2026-11-24T03:10:24Z |
-| [`185.218.86.31`](185.218.86.31/) | Port scanning (561) | 647 | 2026-11-25T13:14:25Z |
-| [`185.218.86.33`](185.218.86.33/) | Port scanning (403) | 469 | 2026-11-25T12:39:56Z |
+| [`185.218.86.31`](185.218.86.31/) | Port scanning (565) | 652 | 2026-11-25T15:15:51Z |
+| [`185.218.86.33`](185.218.86.33/) | Port scanning (406) | 473 | 2026-11-25T14:49:26Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
