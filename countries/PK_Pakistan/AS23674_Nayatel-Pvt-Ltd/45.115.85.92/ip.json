@@ -1,0 +1,14 @@
+{
+  "ip": "45.115.85.92",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 23674,
+  "asn_org": "Nayatel (Pvt) Ltd",
+  "categories": {
+    "scan": 83
+  },
+  "events": 84,
+  "first_seen": "2026-11-12T03:15:18Z",
+  "last_seen": "2026-11-25T08:51:10Z",
+  "reported": "not reported (permanent ban)"
+}

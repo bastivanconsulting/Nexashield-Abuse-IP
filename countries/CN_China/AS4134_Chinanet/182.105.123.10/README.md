@@ -7,10 +7,10 @@
 | IP | `182.105.123.10` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (32), Known botnet / C2 infrastructure (18) |
-| Events | 53 |
+| Activity | Port scanning (33), Known botnet / C2 infrastructure (19) |
+| Events | 55 |
 | First seen (UTC) | 2026-11-12T05:00:53Z |
-| Last seen (UTC) | 2026-11-25T01:14:40Z |
+| Last seen (UTC) | 2026-11-25T09:08:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

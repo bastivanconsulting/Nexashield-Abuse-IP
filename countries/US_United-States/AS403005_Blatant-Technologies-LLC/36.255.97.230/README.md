@@ -7,10 +7,10 @@
 | IP | `36.255.97.230` |
 | Country | United States (US) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | SSH brute force (12), Spamhaus DROP-listed network (6), Port scanning (1) |
-| Events | 19 |
+| Activity | SSH brute force (12), Spamhaus DROP-listed network (8), Port scanning (1) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-11T00:02:14Z |
-| Last seen (UTC) | 2026-11-11T23:10:54Z |
+| Last seen (UTC) | 2026-11-25T08:55:57Z |
 | Reported to network owner (UTC) | 2026-11-11T17:06:07Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

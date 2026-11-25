@@ -7,10 +7,10 @@
 | IP | `217.60.242.13` |
 | Country | United Kingdom (GB) |
 | ASN | AS218970 · Amin NezhadKahnoji |
-| Activity | Port scanning (27), Known botnet / C2 infrastructure (4) |
-| Events | 33 |
+| Activity | Port scanning (30), Known botnet / C2 infrastructure (4) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-24T03:21:37Z |
-| Last seen (UTC) | 2026-11-25T07:46:05Z |
+| Last seen (UTC) | 2026-11-25T09:13:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

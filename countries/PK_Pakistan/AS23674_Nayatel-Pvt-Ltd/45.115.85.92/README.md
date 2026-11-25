@@ -1,0 +1,19 @@
+# `45.115.85.92`
+
+🇵🇰 **Pakistan** · AS23674 Nayatel (Pvt) Ltd
+
+| Field | Value |
+|---|---|
+| IP | `45.115.85.92` |
+| Country | Pakistan (PK) |
+| ASN | AS23674 · Nayatel (Pvt) Ltd |
+| Activity | Port scanning (83) |
+| Events | 84 |
+| First seen (UTC) | 2026-11-12T03:15:18Z |
+| Last seen (UTC) | 2026-11-25T08:51:10Z |
+| Reported to network owner (UTC) | not reported (permanent ban) |
+
+The abuse contact of the network owner was notified with redacted evidence.
+
+---
+<sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

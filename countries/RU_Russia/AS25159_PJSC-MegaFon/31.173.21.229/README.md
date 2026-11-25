@@ -7,10 +7,10 @@
 | IP | `31.173.21.229` |
 | Country | Russia (RU) |
 | ASN | AS25159 · PJSC MegaFon |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-18T01:29:44Z |
-| Last seen (UTC) | 2026-11-22T10:07:04Z |
+| Last seen (UTC) | 2026-11-25T09:10:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

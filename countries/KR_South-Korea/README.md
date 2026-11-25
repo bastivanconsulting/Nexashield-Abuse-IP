@@ -1,11 +1,11 @@
 # 🇰🇷 South Korea
 
-**57** malicious IP(s) across **12** network(s).
+**58** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 33 | Port scanning (471), SSH brute force (238), Known botnet / C2 infrastructure (147), Exploitation attempt (CVE / RCE / injection) (24) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (98), Known botnet / C2 infrastructure (59) |
+| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 34 | Port scanning (475), SSH brute force (246), Known botnet / C2 infrastructure (150), Exploitation attempt (CVE / RCE / injection) (24) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (101), Known botnet / C2 infrastructure (59) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1598), Web injection payload blocked by WAF (94) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 2 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26), Known botnet / C2 infrastructure (3) |
 | [AS3786](AS3786_LG-DACOM-Corporation/) | LG DACOM Corporation | 2 | Known botnet / C2 infrastructure (12), Port scanning (12), SSH brute force (9) |

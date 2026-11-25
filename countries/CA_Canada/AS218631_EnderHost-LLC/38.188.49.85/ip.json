@@ -1,0 +1,14 @@
+{
+  "ip": "38.188.49.85",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 218631,
+  "asn_org": "EnderHost LLC",
+  "categories": {
+    "scan": 22
+  },
+  "events": 34,
+  "first_seen": "2026-11-19T07:42:20Z",
+  "last_seen": "2026-11-24T19:18:25Z",
+  "reported": "not reported (permanent ban)"
+}

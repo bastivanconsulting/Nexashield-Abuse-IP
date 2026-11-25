@@ -7,10 +7,10 @@
 | IP | `45.119.211.179` |
 | Country | United States (US) |
 | ASN | AS27176 · DataWagon LLC |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (4) |
-| Events | 10 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (4) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-20T14:36:48Z |
-| Last seen (UTC) | 2026-11-25T04:23:05Z |
+| Last seen (UTC) | 2026-11-25T08:36:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

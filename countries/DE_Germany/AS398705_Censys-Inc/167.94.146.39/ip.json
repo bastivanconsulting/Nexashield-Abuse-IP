@@ -5,11 +5,11 @@
   "asn": 398705,
   "asn_org": "Censys, Inc.",
   "categories": {
-    "scan": 199,
+    "scan": 200,
     "c2": 32
   },
-  "events": 236,
+  "events": 237,
   "first_seen": "2026-11-12T03:37:39Z",
-  "last_seen": "2026-11-25T07:31:43Z",
+  "last_seen": "2026-11-25T08:51:39Z",
   "reported": "not reported (permanent ban)"
 }

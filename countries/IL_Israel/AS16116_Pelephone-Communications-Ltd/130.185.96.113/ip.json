@@ -6,11 +6,11 @@
   "asn_org": "Pelephone Communications Ltd.",
   "categories": {
     "ssh": 2,
-    "c2": 4,
-    "scan": 3
+    "c2": 5,
+    "scan": 4
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-20T19:29:29Z",
-  "last_seen": "2026-11-24T08:15:08Z",
+  "last_seen": "2026-11-25T08:26:43Z",
   "reported": "not reported (permanent ban)"
 }
