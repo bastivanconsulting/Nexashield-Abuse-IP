@@ -7,10 +7,10 @@
 | IP | `209.38.93.248` |
 | Country | Australia (AU) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (12) |
-| Events | 13 |
+| Activity | Port scanning (13) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-11T22:01:17Z |
-| Last seen (UTC) | 2026-11-25T07:51:48Z |
+| Last seen (UTC) | 2026-11-25T17:16:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

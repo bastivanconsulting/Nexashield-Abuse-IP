@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇯🇵 Japan · **111** malicious IP(s)
+🇯🇵 Japan · **112** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -44,7 +44,7 @@
 | [`8.216.5.20`](8.216.5.20/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-25T01:26:05Z |
 | [`8.216.5.30`](8.216.5.30/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T01:27:04Z |
 | [`8.216.5.82`](8.216.5.82/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 17 | 2026-11-25T09:57:57Z |
-| [`8.216.5.129`](8.216.5.129/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 13 | 2026-11-25T02:01:05Z |
+| [`8.216.5.129`](8.216.5.129/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 15 | 2026-11-25T16:29:01Z |
 | [`8.216.5.198`](8.216.5.198/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-23T18:57:05Z |
 | [`8.216.5.246`](8.216.5.246/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 16 | 2026-11-25T02:03:05Z |
 | [`8.216.6.0`](8.216.6.0/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-25T08:37:25Z |
@@ -79,6 +79,7 @@
 | [`8.216.10.200`](8.216.10.200/) | Port scanning (12), Known botnet / C2 infrastructure (4) | 20 | 2026-11-24T20:41:51Z |
 | [`8.216.11.138`](8.216.11.138/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-23T01:23:04Z |
 | [`8.216.12.47`](8.216.12.47/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-24T23:12:06Z |
+| [`8.216.13.97`](8.216.13.97/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-25T16:48:05Z |
 | [`8.216.13.122`](8.216.13.122/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-24T17:07:17Z |
 | [`8.216.13.201`](8.216.13.201/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-22T08:59:41Z |
 | [`8.216.15.41`](8.216.15.41/) | Port scanning (9), Known botnet / C2 infrastructure (4) | 18 | 2026-11-25T11:56:10Z |

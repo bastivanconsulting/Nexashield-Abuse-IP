@@ -7,11 +7,11 @@
   "categories": {
     "waf": 1,
     "web": 1,
-    "scan": 132,
+    "scan": 133,
     "c2": 31
   },
-  "events": 166,
+  "events": 167,
   "first_seen": "2026-11-10T07:07:21Z",
-  "last_seen": "2026-11-25T14:59:40Z",
+  "last_seen": "2026-11-25T17:11:30Z",
   "reported": "not reported (permanent ban)"
 }

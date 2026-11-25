@@ -1,0 +1,15 @@
+{
+  "ip": "103.55.89.5",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 134026,
+  "asn_org": "Ultranet services private limited",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-14T00:57:38Z",
+  "last_seen": "2026-11-25T16:43:05Z",
+  "reported": "not reported (permanent ban)"
+}

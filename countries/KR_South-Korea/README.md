@@ -1,10 +1,10 @@
 # 🇰🇷 South Korea
 
-**60** malicious IP(s) across **12** network(s).
+**61** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 35 | Port scanning (499), SSH brute force (252), Known botnet / C2 infrastructure (163), Exploitation attempt (CVE / RCE / injection) (24) |
+| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 36 | Port scanning (501), SSH brute force (254), Known botnet / C2 infrastructure (166), Exploitation attempt (CVE / RCE / injection) (24) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (102), Known botnet / C2 infrastructure (60) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1598), Web injection payload blocked by WAF (94) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 2 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26), Known botnet / C2 infrastructure (3) |
@@ -15,7 +15,7 @@
 | [AS17858](AS17858_LG-POWERCOMM/) | LG POWERCOMM | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS38109](AS38109_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 1 | Known botnet / C2 infrastructure (9), Port scanning (8), SSH brute force (3) |
 | [AS45996](AS45996_DAOU-TECHNOLOGY/) | DAOU TECHNOLOGY | 1 | SSH brute force (68) |
-| [AS9756](AS9756_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 1 | Port scanning (8), Known botnet / C2 infrastructure (7), SSH brute force (3) |
+| [AS9756](AS9756_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 1 | Port scanning (9), Known botnet / C2 infrastructure (8), SSH brute force (3) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

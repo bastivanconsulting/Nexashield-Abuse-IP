@@ -5,11 +5,11 @@
   "asn": 140947,
   "asn_org": "SnTHostings",
   "categories": {
-    "scan": 36,
+    "scan": 40,
     "c2": 3
   },
-  "events": 40,
+  "events": 44,
   "first_seen": "2026-11-23T16:39:30Z",
-  "last_seen": "2026-11-25T15:12:05Z",
+  "last_seen": "2026-11-25T16:50:35Z",
   "reported": "not reported (permanent ban)"
 }
