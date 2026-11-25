@@ -1,0 +1,16 @@
+{
+  "ip": "31.14.32.7",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 201401,
+  "asn_org": "NewVM B.V.",
+  "categories": {
+    "scan": 37,
+    "c2": 2,
+    "exploit": 1
+  },
+  "events": 42,
+  "first_seen": "2026-11-14T13:09:53Z",
+  "last_seen": "2026-11-25T19:14:06Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "64.89.160.135",
+  "country_code": "SC",
+  "country": "Seychelles",
+  "asn": 403005,
+  "asn_org": "Blatant Technologies, LLC",
+  "categories": {
+    "scan": 9,
+    "c2": 3
+  },
+  "events": 13,
+  "first_seen": "2026-11-18T16:01:33Z",
+  "last_seen": "2026-11-25T18:42:06Z",
+  "reported": "not reported (permanent ban)"
+}

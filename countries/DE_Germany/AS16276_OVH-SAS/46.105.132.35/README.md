@@ -7,10 +7,10 @@
 | IP | `46.105.132.35` |
 | Country | Germany (DE) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (47) |
-| Events | 65 |
+| Activity | Port scanning (49) |
+| Events | 67 |
 | First seen (UTC) | 2026-11-11T10:42:04Z |
-| Last seen (UTC) | 2026-11-25T18:14:46Z |
+| Last seen (UTC) | 2026-11-25T18:49:40Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

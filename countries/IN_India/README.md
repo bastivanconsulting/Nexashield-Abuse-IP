@@ -4,18 +4,18 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 15 | Port scanning (53), Known botnet / C2 infrastructure (27), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7), SSH brute force (5) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 15 | Port scanning (55), Known botnet / C2 infrastructure (29), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7), SSH brute force (5) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 12 | Known botnet / C2 infrastructure (58), SSH brute force (52), Port scanning (48) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 9 | Port scanning (37), Known botnet / C2 infrastructure (31), SSH brute force (27) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (107), Known botnet / C2 infrastructure (27) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (282), Known botnet / C2 infrastructure (95) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (108), Known botnet / C2 infrastructure (28) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (286), Known botnet / C2 infrastructure (96) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | SSH brute force (18), Known botnet / C2 infrastructure (18), Port scanning (14) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (2) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
-| [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) |
 | [AS134026](AS134026_Ultranet-services-private-limited/) | Ultranet services private limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3) |
 | [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (1) |
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (7), SSH brute force (4) |

@@ -4,12 +4,12 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 16 | Port scanning (116), Known botnet / C2 infrastructure (107), SSH brute force (66) |
-| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 12 | Known botnet / C2 infrastructure (80), Port scanning (77), SSH brute force (52) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1373), Known botnet / C2 infrastructure (129), Exploitation attempt (CVE / RCE / injection) (67), Abusive HTTP requests (1) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (161), Known botnet / C2 infrastructure (54) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (616), Known botnet / C2 infrastructure (46), SSH brute force (18) |
-| [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (59), Known botnet / C2 infrastructure (50), SSH brute force (28) |
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 16 | Port scanning (117), Known botnet / C2 infrastructure (108), SSH brute force (66) |
+| [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 12 | Known botnet / C2 infrastructure (82), Port scanning (80), SSH brute force (52) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1378), Known botnet / C2 infrastructure (129), Exploitation attempt (CVE / RCE / injection) (67), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (162), Known botnet / C2 infrastructure (55) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (617), Known botnet / C2 infrastructure (46), SSH brute force (18) |
+| [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (60), Known botnet / C2 infrastructure (51), SSH brute force (28) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
 | [AS28267](AS28267_SIM-INTERNET-PROVEDORES-DE-INTERNET-EIRELI/) | SIM INTERNET PROVEDORES DE INTERNET EIRELI. | 2 | Port scanning (25), Known botnet / C2 infrastructure (10), Abusive HTTP requests (2) |

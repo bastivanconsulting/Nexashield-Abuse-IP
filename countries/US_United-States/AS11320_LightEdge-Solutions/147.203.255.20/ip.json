@@ -6,10 +6,10 @@
   "asn_org": "LightEdge Solutions",
   "categories": {
     "scan": 19,
-    "exploit": 22
+    "exploit": 23
   },
-  "events": 70,
+  "events": 71,
   "first_seen": "2026-11-11T10:02:54Z",
-  "last_seen": "2026-11-25T17:20:33Z",
+  "last_seen": "2026-11-25T18:23:04Z",
   "reported": "not reported (permanent ban)"
 }

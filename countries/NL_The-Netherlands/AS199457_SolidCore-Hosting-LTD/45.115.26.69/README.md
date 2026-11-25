@@ -7,10 +7,10 @@
 | IP | `45.115.26.69` |
 | Country | The Netherlands (NL) |
 | ASN | AS199457 · SolidCore Hosting LTD |
-| Activity | Port scanning (30) |
-| Events | 31 |
+| Activity | Port scanning (35) |
+| Events | 37 |
 | First seen (UTC) | 2026-11-21T18:59:42Z |
-| Last seen (UTC) | 2026-11-25T18:07:55Z |
+| Last seen (UTC) | 2026-11-25T19:02:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

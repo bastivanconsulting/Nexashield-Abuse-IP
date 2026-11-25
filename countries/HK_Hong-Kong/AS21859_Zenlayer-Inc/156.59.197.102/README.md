@@ -7,10 +7,10 @@
 | IP | `156.59.197.102` |
 | Country | Hong Kong (HK) |
 | ASN | AS21859 · Zenlayer Inc |
-| Activity | Port scanning (24) |
-| Events | 28 |
+| Activity | Port scanning (27) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-20T03:09:53Z |
-| Last seen (UTC) | 2026-11-25T17:09:56Z |
+| Last seen (UTC) | 2026-11-25T19:05:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
