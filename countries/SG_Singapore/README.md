@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 108 | Port scanning (674), Known botnet / C2 infrastructure (494), SSH brute force (7), Abusive HTTP requests (1) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 108 | Port scanning (676), Known botnet / C2 infrastructure (496), SSH brute force (7), Abusive HTTP requests (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 24 | Abusive HTTP requests (414), Port scanning (371), Known botnet / C2 infrastructure (93), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (459), Known botnet / C2 infrastructure (51) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 5 | Port scanning (123) |

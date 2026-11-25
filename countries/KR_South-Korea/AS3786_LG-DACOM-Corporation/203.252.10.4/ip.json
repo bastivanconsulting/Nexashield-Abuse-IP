@@ -6,11 +6,11 @@
   "asn_org": "LG DACOM Corporation",
   "categories": {
     "ssh": 4,
-    "c2": 9,
-    "scan": 12
+    "c2": 10,
+    "scan": 13
   },
-  "events": 26,
+  "events": 28,
   "first_seen": "2026-11-13T22:39:15Z",
-  "last_seen": "2026-11-25T02:11:43Z",
+  "last_seen": "2026-11-25T10:08:39Z",
   "reported": "not reported (permanent ban)"
 }

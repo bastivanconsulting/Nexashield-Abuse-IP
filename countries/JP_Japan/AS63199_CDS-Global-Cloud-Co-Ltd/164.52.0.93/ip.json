@@ -1,0 +1,15 @@
+{
+  "ip": "164.52.0.93",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 63199,
+  "asn_org": "CDS Global Cloud Co., Ltd",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-20T00:47:26Z",
+  "last_seen": "2026-11-25T10:01:04Z",
+  "reported": "not reported (permanent ban)"
+}

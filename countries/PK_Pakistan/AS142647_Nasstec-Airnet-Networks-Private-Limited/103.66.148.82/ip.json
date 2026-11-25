@@ -5,11 +5,11 @@
   "asn": 142647,
   "asn_org": "Nasstec Airnet Networks Private Limited",
   "categories": {
-    "scan": 5,
-    "c2": 5
+    "scan": 6,
+    "c2": 6
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-13T20:53:48Z",
-  "last_seen": "2026-11-24T05:11:39Z",
+  "last_seen": "2026-11-25T09:25:51Z",
   "reported": "not reported (permanent ban)"
 }

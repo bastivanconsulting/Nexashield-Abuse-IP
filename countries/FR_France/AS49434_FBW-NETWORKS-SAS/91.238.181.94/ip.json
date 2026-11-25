@@ -5,11 +5,11 @@
   "asn": 49434,
   "asn_org": "FBW NETWORKS SAS",
   "categories": {
-    "scan": 3,
-    "c2": 2
+    "scan": 4,
+    "c2": 3
   },
-  "events": 5,
+  "events": 8,
   "first_seen": "2026-11-20T17:11:07Z",
-  "last_seen": "2026-11-22T05:17:12Z",
+  "last_seen": "2026-11-25T09:24:05Z",
   "reported": "not reported (permanent ban)"
 }

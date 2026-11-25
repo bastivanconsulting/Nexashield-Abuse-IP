@@ -7,10 +7,10 @@
 | IP | `186.239.41.74` |
 | Country | Brazil (BR) |
 | ASN | AS10429 · TELEFÔNICA BRASIL S.A |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (7) |
-| Events | 20 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (8) |
+| Events | 22 |
 | First seen (UTC) | 2026-11-21T20:08:07Z |
-| Last seen (UTC) | 2026-11-25T04:02:34Z |
+| Last seen (UTC) | 2026-11-25T10:02:32Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

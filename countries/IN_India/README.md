@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 15 | Port scanning (48), Known botnet / C2 infrastructure (26), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7), SSH brute force (5) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (53), SSH brute force (46), Port scanning (46) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (54), Port scanning (47), SSH brute force (46) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 9 | Port scanning (36), Known botnet / C2 infrastructure (30), SSH brute force (27) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (105), Known botnet / C2 infrastructure (25) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (251), Known botnet / C2 infrastructure (90) |

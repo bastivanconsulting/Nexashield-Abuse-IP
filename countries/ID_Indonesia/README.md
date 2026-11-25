@@ -1,13 +1,13 @@
 # 🇮🇩 Indonesia
 
-**23** malicious IP(s) across **14** network(s).
+**24** malicious IP(s) across **15** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (120), Known botnet / C2 infrastructure (6) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (120), Known botnet / C2 infrastructure (7) |
 | [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 4 | Abusive HTTP requests (60) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (2) |
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (354), Known botnet / C2 infrastructure (84) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (355), Known botnet / C2 infrastructure (84) |
 | [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 2 | Port scanning (95), Known botnet / C2 infrastructure (5) |
 | [AS135450](AS135450_PT-Berkah-Solusi-Teknologi-Informasi/) | PT Berkah Solusi Teknologi Informasi | 1 | Abusive HTTP requests (4), Port scanning (1) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (67) |
@@ -17,6 +17,7 @@
 | [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (35) |
 | [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (23), Known botnet / C2 infrastructure (4) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |
+| [AS45701](AS45701_Internet-Madju-Abad-Millenindo-PT/) | Internet Madju Abad Millenindo, PT | 1 | Port scanning (6), Known botnet / C2 infrastructure (3) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | SSH brute force (16), Port scanning (1) |
 
 ---

@@ -7,10 +7,10 @@
 | IP | `91.238.181.94` |
 | Country | France (FR) |
 | ASN | AS49434 · FBW NETWORKS SAS |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-20T17:11:07Z |
-| Last seen (UTC) | 2026-11-22T05:17:12Z |
+| Last seen (UTC) | 2026-11-25T09:24:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

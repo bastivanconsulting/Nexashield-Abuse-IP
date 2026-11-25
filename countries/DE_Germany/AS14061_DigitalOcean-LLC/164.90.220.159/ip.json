@@ -5,10 +5,10 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-    "scan": 68
+    "scan": 70
   },
-  "events": 76,
+  "events": 78,
   "first_seen": "2026-11-24T03:24:47Z",
-  "last_seen": "2026-11-25T09:07:35Z",
+  "last_seen": "2026-11-25T09:27:03Z",
   "reported": "not reported (permanent ban)"
 }

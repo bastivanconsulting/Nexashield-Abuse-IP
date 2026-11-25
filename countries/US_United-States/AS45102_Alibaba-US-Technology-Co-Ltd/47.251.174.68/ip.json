@@ -6,11 +6,11 @@
   "asn_org": "Alibaba (US) Technology Co., Ltd.",
   "categories": {
     "web": 1,
-    "scan": 7,
-    "c2": 6
+    "scan": 8,
+    "c2": 7
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-17T03:49:52Z",
-  "last_seen": "2026-11-23T22:37:56Z",
+  "last_seen": "2026-11-25T10:12:13Z",
   "reported": "not reported (permanent ban)"
 }

@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
 | Activity | Port scanning (43) |
-| Events | 45 |
+| Events | 46 |
 | First seen (UTC) | 2026-11-17T10:45:36Z |
-| Last seen (UTC) | 2026-11-25T07:42:09Z |
+| Last seen (UTC) | 2026-11-25T09:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

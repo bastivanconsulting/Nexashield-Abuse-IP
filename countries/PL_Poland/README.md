@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 5 | Port scanning (1001), Known botnet / C2 infrastructure (68), Abusive HTTP requests (5) |
-| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 4 | Port scanning (833), SSH brute force (27), Abusive HTTP requests (12) |
+| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 5 | Port scanning (1002), Known botnet / C2 infrastructure (68), Abusive HTTP requests (5) |
+| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 4 | Port scanning (834), SSH brute force (27), Abusive HTTP requests (12) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (17), Web injection payload blocked by WAF (16), Abusive HTTP requests (6), Known botnet / C2 infrastructure (1) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 3 | Port scanning (32), Known botnet / C2 infrastructure (12) |
 | [AS212835](AS212835_Shesternin-Vladimir-Anatolievich/) | Shesternin Vladimir Anatolievich | 2 | Port scanning (140), Abusive HTTP requests (2) |

@@ -5,11 +5,11 @@
   "asn": 9441,
   "asn_org": "Next Online Ltd.",
   "categories": {
-    "scan": 20,
-    "c2": 2
+    "scan": 21,
+    "c2": 3
   },
-  "events": 27,
+  "events": 29,
   "first_seen": "2026-11-16T22:31:57Z",
-  "last_seen": "2026-11-24T14:25:32Z",
+  "last_seen": "2026-11-25T09:19:43Z",
   "reported": "not reported (permanent ban)"
 }

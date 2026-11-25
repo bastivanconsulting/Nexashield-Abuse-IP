@@ -7,10 +7,10 @@
 | IP | `45.156.87.127` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Port scanning (208) |
-| Events | 209 |
+| Activity | Port scanning (210) |
+| Events | 211 |
 | First seen (UTC) | 2026-11-11T13:59:15Z |
-| Last seen (UTC) | 2026-11-25T08:37:23Z |
+| Last seen (UTC) | 2026-11-25T09:38:35Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -12,7 +12,7 @@
 | [AS24122](AS24122_BDCOM-Online-Limited/) | BDCOM Online Limited | 1 | SSH brute force (2), Known botnet / C2 infrastructure (2), Port scanning (1) |
 | [AS24323](AS24323_Aamra-Networks-Limited/) | Aamra Networks Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (4) |
 | [AS63961](AS63961_Bangladesh-Research-and-Education-Network-BdREN/) | Bangladesh Research and Education Network (BdREN) | 1 | Port scanning (47), SSH brute force (40), Known botnet / C2 infrastructure (9) |
-| [AS9441](AS9441_Next-Online-Ltd/) | Next Online Ltd. | 1 | Port scanning (20), Known botnet / C2 infrastructure (2) |
+| [AS9441](AS9441_Next-Online-Ltd/) | Next Online Ltd. | 1 | Port scanning (21), Known botnet / C2 infrastructure (3) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
