@@ -5,11 +5,11 @@
   "asn": 200391,
   "asn_org": "KREZ 999 EOOD",
   "categories": {
-    "scan": 672,
+    "scan": 674,
     "c2": 22
   },
-  "events": 772,
+  "events": 774,
   "first_seen": "2026-11-11T09:57:51Z",
-  "last_seen": "2026-11-25T19:05:46Z",
+  "last_seen": "2026-11-25T20:04:26Z",
   "reported": "not reported (permanent ban)"
 }

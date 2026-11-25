@@ -1,0 +1,15 @@
+{
+  "ip": "155.4.199.210",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 8473,
+  "asn_org": "Bahnhof AB",
+  "categories": {
+    "ssh": 6,
+    "c2": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-19T14:38:03Z",
+  "last_seen": "2026-11-20T06:28:32Z",
+  "reported": "not reported (permanent ban)"
+}

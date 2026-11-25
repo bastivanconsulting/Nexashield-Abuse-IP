@@ -1,12 +1,13 @@
 # AS8473 · Bahnhof AB
 
-🇸🇪 Sweden · **4** malicious IP(s)
+🇸🇪 Sweden · **5** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`46.59.88.232`](46.59.88.232/) | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) | 14 | 2026-11-23T17:47:40Z |
 | [`46.59.109.199`](46.59.109.199/) | Known botnet / C2 infrastructure (4), SSH brute force (4), Port scanning (3) | 13 | 2026-11-25T07:17:22Z |
 | [`85.24.200.219`](85.24.200.219/) | Known botnet / C2 infrastructure (9), Port scanning (7), SSH brute force (6) | 24 | 2026-11-24T10:55:40Z |
+| [`155.4.199.210`](155.4.199.210/) | SSH brute force (6), Known botnet / C2 infrastructure (2) | 8 | 2026-11-20T06:28:32Z |
 | [`176.10.197.168`](176.10.197.168/) | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) | 14 | 2026-11-25T17:43:23Z |
 
 ---

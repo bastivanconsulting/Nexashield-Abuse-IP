@@ -7,10 +7,10 @@
 | IP | `23.132.164.185` |
 | Country | The Netherlands (NL) |
 | ASN | AS401626 · Netiface America, Inc. |
-| Activity | Port scanning (45), Known botnet / C2 infrastructure (25), SSH brute force (2) |
-| Events | 73 |
+| Activity | Port scanning (46), Known botnet / C2 infrastructure (26), SSH brute force (2) |
+| Events | 75 |
 | First seen (UTC) | 2026-11-10T06:18:59Z |
-| Last seen (UTC) | 2026-11-25T09:40:37Z |
+| Last seen (UTC) | 2026-11-25T19:19:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
