@@ -7,10 +7,10 @@
 | IP | `122.160.9.40` |
 | Country | India (IN) |
 | ASN | AS24560 · Bharti Airtel Limited |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-11T12:03:19Z |
-| Last seen (UTC) | 2026-11-22T07:58:35Z |
+| Last seen (UTC) | 2026-11-25T02:23:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,10 +5,10 @@
   "asn": 31520,
   "asn_org": "PRIVATE JOINT STOCK COMPANY \"DATAGROUP\"",
   "categories": {
-    "scan": 7
+    "scan": 9
   },
-  "events": 10,
+  "events": 13,
   "first_seen": "2026-11-13T18:59:45Z",
-  "last_seen": "2026-11-21T17:50:48Z",
+  "last_seen": "2026-11-25T02:44:17Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,16 @@
+{
+  "ip": "61.12.84.172",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 45820,
+  "asn_org": "TTSL-ISP DIVISION",
+  "categories": {
+    "ssh": 6,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 11,
+  "first_seen": "2026-11-18T11:35:16Z",
+  "last_seen": "2026-11-25T02:49:05Z",
+  "reported": "not reported (permanent ban)"
+}

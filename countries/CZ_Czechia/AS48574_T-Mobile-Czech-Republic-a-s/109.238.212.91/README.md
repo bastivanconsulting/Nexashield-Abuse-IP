@@ -7,10 +7,10 @@
 | IP | `109.238.212.91` |
 | Country | Czechia (CZ) |
 | ASN | AS48574 · T-Mobile Czech Republic a.s. |
-| Activity | SSH brute force (8), Known botnet / C2 infrastructure (8), Port scanning (8) |
-| Events | 25 |
+| Activity | Known botnet / C2 infrastructure (9), Port scanning (9), SSH brute force (8) |
+| Events | 27 |
 | First seen (UTC) | 2026-11-19T19:24:28Z |
-| Last seen (UTC) | 2026-11-24T11:38:41Z |
+| Last seen (UTC) | 2026-11-25T03:17:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

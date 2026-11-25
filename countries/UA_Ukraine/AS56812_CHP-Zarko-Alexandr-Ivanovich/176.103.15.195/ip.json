@@ -1,0 +1,15 @@
+{
+  "ip": "176.103.15.195",
+  "country_code": "UA",
+  "country": "Ukraine",
+  "asn": 56812,
+  "asn_org": "CHP Zarko Alexandr Ivanovich",
+  "categories": {
+    "ssh": 5,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-23T15:40:12Z",
+  "last_seen": "2026-11-25T02:49:05Z",
+  "reported": "not reported (permanent ban)"
+}

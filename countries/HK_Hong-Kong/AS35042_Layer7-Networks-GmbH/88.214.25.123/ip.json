@@ -1,0 +1,15 @@
+{
+  "ip": "88.214.25.123",
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "asn": 35042,
+  "asn_org": "Layer7 Networks GmbH",
+  "categories": {
+    "scan": 4,
+    "c2": 2
+  },
+  "events": 7,
+  "first_seen": "2026-11-11T17:02:46Z",
+  "last_seen": "2026-11-16T21:39:41Z",
+  "reported": "not reported (permanent ban)"
+}

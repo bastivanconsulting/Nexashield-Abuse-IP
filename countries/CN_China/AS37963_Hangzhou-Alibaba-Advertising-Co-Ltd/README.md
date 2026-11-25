@@ -1,6 +1,6 @@
 # AS37963 · Hangzhou Alibaba Advertising Co.,Ltd.
 
-🇨🇳 China · **65** malicious IP(s)
+🇨🇳 China · **66** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -33,7 +33,7 @@
 | [`47.103.36.53`](47.103.36.53/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-24T13:39:47Z |
 | [`47.120.4.180`](47.120.4.180/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 15 | 2026-11-23T19:26:29Z |
 | [`47.120.30.67`](47.120.30.67/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-23T06:02:40Z |
-| [`101.200.242.201`](101.200.242.201/) | Port scanning (11), Known botnet / C2 infrastructure (4) | 19 | 2026-11-24T13:38:54Z |
+| [`101.200.242.201`](101.200.242.201/) | Port scanning (14), Known botnet / C2 infrastructure (5) | 24 | 2026-11-25T03:06:53Z |
 | [`112.124.9.226`](112.124.9.226/) | Port scanning (1) | 2 | 2026-11-23T22:46:06Z |
 | [`112.124.11.25`](112.124.11.25/) | Port scanning (1) | 2 | 2026-11-23T15:49:04Z |
 | [`112.124.13.104`](112.124.13.104/) | Port scanning (7) | 8 | 2026-11-23T09:11:09Z |
@@ -41,6 +41,7 @@
 | [`112.124.56.24`](112.124.56.24/) | Port scanning (1) | 1 | 2026-11-23T23:51:23Z |
 | [`112.124.56.29`](112.124.56.29/) | Port scanning (2) | 3 | 2026-11-24T02:16:05Z |
 | [`112.124.56.253`](112.124.56.253/) | Port scanning (5) | 6 | 2026-11-22T11:24:03Z |
+| [`115.29.34.90`](115.29.34.90/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 8 | 2026-11-25T02:41:05Z |
 | [`120.26.220.254`](120.26.220.254/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-20T07:19:22Z |
 | [`120.55.58.46`](120.55.58.46/) | Port scanning (5) | 6 | 2026-11-24T00:56:20Z |
 | [`120.55.64.150`](120.55.64.150/) | Port scanning (4) | 5 | 2026-11-22T13:34:05Z |

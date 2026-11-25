@@ -7,10 +7,10 @@
 | IP | `95.105.71.239` |
 | Country | Russia (RU) |
 | ASN | AS57128 · JSC "Ufanet" |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (4) |
-| Events | 10 |
+| Activity | Port scanning (9), Known botnet / C2 infrastructure (5) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-16T20:29:23Z |
-| Last seen (UTC) | 2026-11-24T02:29:09Z |
+| Last seen (UTC) | 2026-11-25T02:49:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
