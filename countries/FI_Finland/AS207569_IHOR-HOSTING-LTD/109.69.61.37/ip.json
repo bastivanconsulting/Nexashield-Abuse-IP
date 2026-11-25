@@ -1,0 +1,14 @@
+{
+  "ip": "109.69.61.37",
+  "country_code": "FI",
+  "country": "Finland",
+  "asn": 207569,
+  "asn_org": "IHOR HOSTING LTD",
+  "categories": {
+    "ssh": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-25T22:22:06Z",
+  "last_seen": "2026-11-25T22:22:06Z",
+  "reported": "not reported (permanent ban)"
+}

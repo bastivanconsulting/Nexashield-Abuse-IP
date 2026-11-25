@@ -5,12 +5,11 @@
   "asn": 4811,
   "asn_org": "China Telecom (Group)",
   "categories": {
-    "ssh": 22,
-    "scan": 1,
-    "c2": 1
+    "ssh": 24,
+    "scan": 2
   },
   "events": 26,
-  "first_seen": "2026-11-25T20:49:32Z",
-  "last_seen": "2026-11-25T20:51:05Z",
-  "reported": "not reported (permanent ban)"
+  "first_seen": "2026-11-25T20:49:34Z",
+  "last_seen": "2026-11-25T20:50:20Z",
+  "reported": "2026-11-25T22:28:03Z"
 }

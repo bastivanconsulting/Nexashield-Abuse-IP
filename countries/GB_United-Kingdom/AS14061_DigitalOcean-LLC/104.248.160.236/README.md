@@ -7,10 +7,10 @@
 | IP | `104.248.160.236` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (24) |
-| Events | 24 |
+| Activity | Abusive HTTP requests (72) |
+| Events | 72 |
 | First seen (UTC) | 2026-11-17T02:14:50Z |
-| Last seen (UTC) | 2026-11-17T02:14:52Z |
+| Last seen (UTC) | 2026-11-25T21:55:40Z |
 | Reported to network owner (UTC) | 2026-11-17T02:25:39Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

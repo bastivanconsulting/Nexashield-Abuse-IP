@@ -1,11 +1,11 @@
 # 🇸🇬 Singapore
 
-**166** malicious IP(s) across **11** network(s).
+**168** malicious IP(s) across **11** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 119 | Port scanning (750), Known botnet / C2 infrastructure (550), Web injection payload blocked by WAF (48), Abusive HTTP requests (19), SSH brute force (7) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 24 | Abusive HTTP requests (414), Port scanning (394), Known botnet / C2 infrastructure (97), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 120 | Port scanning (759), Known botnet / C2 infrastructure (554), Web injection payload blocked by WAF (48), Abusive HTTP requests (19), SSH brute force (7) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 25 | Abusive HTTP requests (502), Port scanning (394), Known botnet / C2 infrastructure (97), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (465), Known botnet / C2 infrastructure (53) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 5 | Port scanning (123) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Port scanning (28), Known botnet / C2 infrastructure (22), Abusive HTTP requests (3) |

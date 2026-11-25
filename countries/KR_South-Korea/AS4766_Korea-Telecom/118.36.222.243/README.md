@@ -7,10 +7,10 @@
 | IP | `118.36.222.243` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (5), SSH brute force (1) |
-| Events | 16 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (5), SSH brute force (1) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-19T08:04:48Z |
-| Last seen (UTC) | 2026-11-25T19:11:00Z |
+| Last seen (UTC) | 2026-11-25T22:14:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

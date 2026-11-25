@@ -7,10 +7,10 @@
 | IP | `39.164.94.190` |
 | Country | China (CN) |
 | ASN | AS24445 · China Mobile Communications Group Co., Ltd |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 9 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-20T16:03:39Z |
-| Last seen (UTC) | 2026-11-24T23:13:04Z |
+| Last seen (UTC) | 2026-11-25T22:00:47Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 36 | Port scanning (3711), Known botnet / C2 infrastructure (403), Exploitation attempt (CVE / RCE / injection) (72), Abusive HTTP requests (16), SSH brute force (14) |
-| [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 19 | SSH brute force (73), Known botnet / C2 infrastructure (62), Port scanning (54), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (1) |
+| [AS3301](AS3301_Telia-Company-AB/) | Telia Company AB | 19 | SSH brute force (73), Known botnet / C2 infrastructure (63), Port scanning (55), Exploitation attempt (CVE / RCE / injection) (5), Abusive HTTP requests (1) |
 | [AS29518](AS29518_Bredband2-AB/) | Bredband2 AB | 14 | SSH brute force (84), Known botnet / C2 infrastructure (58), Port scanning (24), Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) |
 | [AS12552](AS12552_GlobalConnect-AB/) | GlobalConnect AB | 11 | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (7), Abusive HTTP requests (2) |
 | [AS8473](AS8473_Bahnhof-AB/) | Bahnhof AB | 5 | Known botnet / C2 infrastructure (26), SSH brute force (25), Port scanning (19) |
@@ -15,7 +15,7 @@
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26) |
 | [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Abusive HTTP requests (3) |
 | [AS212238](AS212238_Datacamp-Limited/) | Datacamp Limited | 1 | Known botnet / C2 infrastructure (3) |
-| [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (56) |
+| [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (57) |
 | [AS33885](AS33885_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS3399](AS3399_Obenetwork-AB/) | Obenetwork AB | 1 | Known botnet / C2 infrastructure (6), SSH brute force (4), Port scanning (3) |
 | [AS62183](AS62183_Bredband2-Bredbandsson-AB/) | Bredband2 Bredbandsson AB | 1 | SSH brute force (7), Known botnet / C2 infrastructure (3) |

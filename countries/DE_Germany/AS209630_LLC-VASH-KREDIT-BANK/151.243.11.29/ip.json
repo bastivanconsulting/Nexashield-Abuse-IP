@@ -5,12 +5,12 @@
   "asn": 209630,
   "asn_org": "LLC VASH KREDIT BANK",
   "categories": {
-    "scan": 323,
+    "scan": 327,
     "c2": 36,
     "exploit": 1
   },
-  "events": 370,
+  "events": 374,
   "first_seen": "2026-11-12T10:59:17Z",
-  "last_seen": "2026-11-25T21:07:09Z",
+  "last_seen": "2026-11-25T21:53:04Z",
   "reported": "not reported (permanent ban)"
 }

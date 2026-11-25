@@ -5,11 +5,11 @@
   "asn": 9465,
   "asn_org": "AGOTOZ PTE. LTD.",
   "categories": {
-    "scan": 246,
+    "scan": 249,
     "c2": 22
   },
-  "events": 278,
+  "events": 281,
   "first_seen": "2026-11-11T09:56:33Z",
-  "last_seen": "2026-11-25T20:10:05Z",
+  "last_seen": "2026-11-25T22:09:10Z",
   "reported": "not reported (permanent ban)"
 }

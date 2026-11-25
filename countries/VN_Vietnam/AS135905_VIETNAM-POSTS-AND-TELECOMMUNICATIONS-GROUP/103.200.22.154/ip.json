@@ -1,0 +1,15 @@
+{
+  "ip": "103.200.22.154",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 135905,
+  "asn_org": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+  "categories": {
+    "ssh": 6,
+    "c2": 1
+  },
+  "events": 8,
+  "first_seen": "2026-11-25T21:54:17Z",
+  "last_seen": "2026-11-25T21:55:07Z",
+  "reported": "not reported (permanent ban)"
+}

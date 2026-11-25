@@ -1,0 +1,16 @@
+{
+  "ip": "103.207.9.246",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 135744,
+  "asn_org": "SHREE BALAJI INFOWAY PRIVATE LIMITED",
+  "categories": {
+    "scan": 1,
+    "c2": 2,
+    "ssh": 6
+  },
+  "events": 10,
+  "first_seen": "2026-11-24T22:04:37Z",
+  "last_seen": "2026-11-25T21:58:07Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "4.221.162.168",
+  "country_code": "ZA",
+  "country": "South Africa",
+  "asn": 8075,
+  "asn_org": "Microsoft Corporation",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-12T14:27:03Z",
+  "last_seen": "2026-11-25T04:32:16Z",
+  "reported": "not reported (permanent ban)"
+}

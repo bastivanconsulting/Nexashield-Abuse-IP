@@ -5,11 +5,11 @@
   "asn": 4764,
   "asn_org": "Aussie Fibre Pty Ltd",
   "categories": {
-    "c2": 5,
-    "scan": 4
+    "c2": 6,
+    "scan": 5
   },
-  "events": 13,
+  "events": 15,
   "first_seen": "2026-11-14T04:42:47Z",
-  "last_seen": "2026-11-23T12:48:40Z",
+  "last_seen": "2026-11-25T22:17:03Z",
   "reported": "not reported (permanent ban)"
 }

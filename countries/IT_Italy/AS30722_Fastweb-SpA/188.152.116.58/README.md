@@ -7,10 +7,10 @@
 | IP | `188.152.116.58` |
 | Country | Italy (IT) |
 | ASN | AS30722 · Fastweb SpA |
-| Activity | Exploitation attempt (CVE / RCE / injection) (9), Port scanning (9) |
-| Events | 26 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (10), Port scanning (10) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-11T15:10:13Z |
-| Last seen (UTC) | 2026-11-22T13:59:04Z |
+| Last seen (UTC) | 2026-11-25T21:24:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
