@@ -7,10 +7,10 @@
 | IP | `62.220.236.203` |
 | Country | Finland (FI) |
 | ASN | AS57359 · Pyhanet Oy |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
-| Events | 14 |
+| Activity | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (4) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-16T01:44:53Z |
-| Last seen (UTC) | 2026-11-24T09:10:10Z |
+| Last seen (UTC) | 2026-11-25T04:00:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

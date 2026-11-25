@@ -5,11 +5,11 @@
   "asn": 268788,
   "asn_org": "HEXA TELECOM LTDA",
   "categories": {
-    "scan": 42,
+    "scan": 45,
     "c2": 8
   },
-  "events": 51,
+  "events": 54,
   "first_seen": "2026-11-11T23:05:07Z",
-  "last_seen": "2026-11-25T02:47:33Z",
+  "last_seen": "2026-11-25T04:03:53Z",
   "reported": "not reported (permanent ban)"
 }

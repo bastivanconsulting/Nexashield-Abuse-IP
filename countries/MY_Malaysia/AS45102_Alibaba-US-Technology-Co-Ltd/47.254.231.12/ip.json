@@ -1,0 +1,15 @@
+{
+  "ip": "47.254.231.12",
+  "country_code": "MY",
+  "country": "Malaysia",
+  "asn": 45102,
+  "asn_org": "Alibaba (US) Technology Co., Ltd.",
+  "categories": {
+    "scan": 4,
+    "c2": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T09:54:28Z",
+  "last_seen": "2026-11-24T05:36:37Z",
+  "reported": "not reported (permanent ban)"
+}

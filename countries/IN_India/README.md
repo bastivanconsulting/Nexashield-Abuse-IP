@@ -5,10 +5,10 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 15 | Port scanning (48), Known botnet / C2 infrastructure (26), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7), SSH brute force (5) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (51), SSH brute force (46), Port scanning (44) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (52), SSH brute force (46), Port scanning (45) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 8 | Port scanning (35), Known botnet / C2 infrastructure (27), SSH brute force (21) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (105), Known botnet / C2 infrastructure (25) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (247), Known botnet / C2 infrastructure (86) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (248), Known botnet / C2 infrastructure (87) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | SSH brute force (18), Known botnet / C2 infrastructure (17), Port scanning (12) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |

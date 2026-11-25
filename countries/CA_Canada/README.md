@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 48 | Port scanning (4602), Known botnet / C2 infrastructure (623), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 48 | Port scanning (4640), Known botnet / C2 infrastructure (630), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (182), Known botnet / C2 infrastructure (22), Abusive HTTP requests (18), Exploitation attempt (CVE / RCE / injection) (9) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Abusive HTTP requests (16), Known botnet / C2 infrastructure (3), Web injection payload blocked by WAF (1) |
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 2 | Port scanning (23), Abusive HTTP requests (15), Known botnet / C2 infrastructure (11) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 2 | Port scanning (75), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 2 | Port scanning (77), Known botnet / C2 infrastructure (7), Abusive HTTP requests (2) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (258), Web injection payload blocked by WAF (26), Port scanning (11) |
 | [AS852](AS852_TELUS-Communications-Inc/) | TELUS Communications Inc. | 2 | Known botnet / C2 infrastructure (8), SSH brute force (7), Port scanning (5) |
 | [AS19515](AS19515_Oricom-Internet-inc/) | Oricom Internet inc. | 1 | Port scanning (7), Known botnet / C2 infrastructure (5) |

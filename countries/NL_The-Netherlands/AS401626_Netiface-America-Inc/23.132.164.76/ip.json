@@ -5,10 +5,10 @@
   "asn": 401626,
   "asn_org": "Netiface America, Inc.",
   "categories": {
-    "scan": 141
+    "scan": 146
   },
-  "events": 152,
+  "events": 157,
   "first_seen": "2026-11-22T14:28:30Z",
-  "last_seen": "2026-11-25T02:23:50Z",
+  "last_seen": "2026-11-25T04:15:04Z",
   "reported": "not reported (permanent ban)"
 }

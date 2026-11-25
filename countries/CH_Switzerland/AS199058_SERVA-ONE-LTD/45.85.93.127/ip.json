@@ -1,0 +1,15 @@
+{
+  "ip": "45.85.93.127",
+  "country_code": "CH",
+  "country": "Switzerland",
+  "asn": 199058,
+  "asn_org": "SERVA ONE LTD",
+  "categories": {
+    "scan": 41,
+    "c2": 3
+  },
+  "events": 48,
+  "first_seen": "2026-11-11T10:21:39Z",
+  "last_seen": "2026-11-25T03:52:05Z",
+  "reported": "not reported (permanent ban)"
+}
