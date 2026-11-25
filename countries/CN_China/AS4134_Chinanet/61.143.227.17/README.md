@@ -7,10 +7,10 @@
 | IP | `61.143.227.17` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| Events | 10 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (3) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-22T07:38:46Z |
-| Last seen (UTC) | 2026-11-25T09:53:05Z |
+| Last seen (UTC) | 2026-11-25T12:49:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

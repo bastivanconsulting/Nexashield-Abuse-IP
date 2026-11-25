@@ -1,0 +1,14 @@
+{
+  "ip": "41.103.96.156",
+  "country_code": "DZ",
+  "country": "Algeria",
+  "asn": 36947,
+  "asn_org": "Telecom Algeria",
+  "categories": {
+    "scan": 5
+  },
+  "events": 6,
+  "first_seen": "2026-11-25T12:36:39Z",
+  "last_seen": "2026-11-25T12:37:06Z",
+  "reported": "not reported (permanent ban)"
+}

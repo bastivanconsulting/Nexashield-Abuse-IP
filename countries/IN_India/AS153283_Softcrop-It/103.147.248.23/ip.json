@@ -6,11 +6,11 @@
   "asn_org": "Softcrop It",
   "categories": {
     "ssh": 1,
-    "c2": 5,
-    "scan": 5
+    "c2": 6,
+    "scan": 6
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-14T17:11:26Z",
-  "last_seen": "2026-11-23T22:19:38Z",
+  "last_seen": "2026-11-25T12:52:42Z",
   "reported": "not reported (permanent ban)"
 }

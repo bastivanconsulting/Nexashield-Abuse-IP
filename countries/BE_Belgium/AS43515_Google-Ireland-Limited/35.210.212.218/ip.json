@@ -6,11 +6,11 @@
   "asn_org": "Google Ireland Limited",
   "categories": {
     "web": 2,
-    "scan": 39,
+    "scan": 40,
     "c2": 9
   },
-  "events": 54,
+  "events": 55,
   "first_seen": "2026-11-13T07:44:55Z",
-  "last_seen": "2026-11-25T10:39:13Z",
+  "last_seen": "2026-11-25T12:52:43Z",
   "reported": "not reported (permanent ban)"
 }

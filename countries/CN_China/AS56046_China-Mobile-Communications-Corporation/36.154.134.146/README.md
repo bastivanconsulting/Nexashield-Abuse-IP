@@ -7,10 +7,10 @@
 | IP | `36.154.134.146` |
 | Country | China (CN) |
 | ASN | AS56046 · China Mobile Communications Corporation |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (6), SSH brute force (5) |
-| Events | 18 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (7), SSH brute force (5) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-21T16:57:03Z |
-| Last seen (UTC) | 2026-11-24T13:13:18Z |
+| Last seen (UTC) | 2026-11-25T12:33:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

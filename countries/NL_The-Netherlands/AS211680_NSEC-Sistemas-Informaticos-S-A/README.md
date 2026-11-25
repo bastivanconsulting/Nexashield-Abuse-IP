@@ -1,6 +1,6 @@
 # AS211680 · NSEC - Sistemas Informaticos, S.A.
 
-🇳🇱 The Netherlands · **81** malicious IP(s)
+🇳🇱 The Netherlands · **83** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -11,8 +11,9 @@
 | [`45.156.128.47`](45.156.128.47/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 10 | 2026-11-24T17:18:18Z |
 | [`45.156.128.51`](45.156.128.51/) | Port scanning (16), Known botnet / C2 infrastructure (12) | 29 | 2026-11-24T00:07:05Z |
 | [`45.156.128.52`](45.156.128.52/) | Port scanning (17), Known botnet / C2 infrastructure (14) | 32 | 2026-11-25T06:25:54Z |
+| [`45.156.128.53`](45.156.128.53/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-25T12:23:10Z |
 | [`45.156.128.54`](45.156.128.54/) | Port scanning (20), Known botnet / C2 infrastructure (15) | 36 | 2026-11-25T08:50:26Z |
-| [`45.156.128.57`](45.156.128.57/) | Port scanning (20), Known botnet / C2 infrastructure (18) | 39 | 2026-11-25T06:50:52Z |
+| [`45.156.128.57`](45.156.128.57/) | Port scanning (21), Known botnet / C2 infrastructure (18) | 40 | 2026-11-25T12:35:21Z |
 | [`45.156.128.59`](45.156.128.59/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 22 | 2026-11-23T03:28:25Z |
 | [`45.156.128.61`](45.156.128.61/) | Port scanning (19), Known botnet / C2 infrastructure (11) | 31 | 2026-11-23T07:50:14Z |
 | [`45.156.128.62`](45.156.128.62/) | Port scanning (21), Known botnet / C2 infrastructure (14) | 38 | 2026-11-25T12:05:03Z |
@@ -85,6 +86,7 @@
 | [`45.156.128.187`](45.156.128.187/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T22:18:36Z |
 | [`45.156.128.188`](45.156.128.188/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T16:58:05Z |
 | [`45.156.128.197`](45.156.128.197/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T16:53:03Z |
+| [`45.156.128.249`](45.156.128.249/) | Port scanning (1) | 1 | 2026-11-25T11:51:53Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

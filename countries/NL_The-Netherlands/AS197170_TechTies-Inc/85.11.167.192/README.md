@@ -7,10 +7,10 @@
 | IP | `85.11.167.192` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Port scanning (195), Abusive HTTP requests (1) |
-| Events | 201 |
+| Activity | Port scanning (196), Abusive HTTP requests (1) |
+| Events | 202 |
 | First seen (UTC) | 2026-11-11T01:01:22Z |
-| Last seen (UTC) | 2026-11-25T10:48:20Z |
+| Last seen (UTC) | 2026-11-25T13:17:25Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

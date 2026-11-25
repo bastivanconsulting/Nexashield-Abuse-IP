@@ -7,10 +7,10 @@
 | IP | `59.48.40.6` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
-| Events | 12 |
+| Activity | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-22T01:09:23Z |
-| Last seen (UTC) | 2026-11-23T20:29:08Z |
+| Last seen (UTC) | 2026-11-25T12:21:08Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
