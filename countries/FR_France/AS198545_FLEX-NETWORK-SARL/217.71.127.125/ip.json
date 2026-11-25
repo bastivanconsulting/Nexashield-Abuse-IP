@@ -5,11 +5,11 @@
   "asn": 198545,
   "asn_org": "FLEX NETWORK SARL",
   "categories": {
-    "scan": 56,
-    "c2": 1
+    "scan": 57,
+    "c2": 2
   },
-  "events": 74,
+  "events": 76,
   "first_seen": "2026-11-12T04:06:55Z",
-  "last_seen": "2026-11-19T17:45:41Z",
+  "last_seen": "2026-11-25T06:45:15Z",
   "reported": "not reported (permanent ban)"
 }

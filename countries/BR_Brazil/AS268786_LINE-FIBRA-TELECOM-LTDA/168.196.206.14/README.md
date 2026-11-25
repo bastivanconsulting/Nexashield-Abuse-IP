@@ -7,10 +7,10 @@
 | IP | `168.196.206.14` |
 | Country | Brazil (BR) |
 | ASN | AS268786 · LINE FIBRA TELECOM LTDA |
-| Activity | Port scanning (21) |
-| Events | 28 |
+| Activity | Port scanning (22) |
+| Events | 29 |
 | First seen (UTC) | 2026-11-12T04:00:19Z |
-| Last seen (UTC) | 2026-11-18T00:31:14Z |
+| Last seen (UTC) | 2026-11-25T06:40:57Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

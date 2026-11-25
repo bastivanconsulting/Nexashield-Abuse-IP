@@ -1,0 +1,15 @@
+{
+  "ip": "166.108.160.144",
+  "country_code": "FR",
+  "country": "France",
+  "asn": 35077,
+  "asn_org": "Netwo SAS",
+  "categories": {
+    "scan": 169,
+    "ssh": 4
+  },
+  "events": 179,
+  "first_seen": "2026-11-25T04:58:32Z",
+  "last_seen": "2026-11-25T07:16:53Z",
+  "reported": "not reported (permanent ban)"
+}

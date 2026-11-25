@@ -7,10 +7,10 @@
 | IP | `85.217.149.47` |
 | Country | Canada (CA) |
 | ASN | AS209334 · Modat B.V. |
-| Activity | Port scanning (99), Known botnet / C2 infrastructure (1) |
-| Events | 119 |
+| Activity | Port scanning (100), Known botnet / C2 infrastructure (1) |
+| Events | 120 |
 | First seen (UTC) | 2026-11-19T20:00:12Z |
-| Last seen (UTC) | 2026-11-25T05:39:10Z |
+| Last seen (UTC) | 2026-11-25T06:40:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

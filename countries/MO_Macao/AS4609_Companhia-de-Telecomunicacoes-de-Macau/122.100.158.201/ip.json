@@ -5,11 +5,11 @@
   "asn": 4609,
   "asn_org": "Companhia de Telecomunicacoes de Macau",
   "categories": {
-    "scan": 5,
-    "c2": 3
+    "scan": 6,
+    "c2": 4
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-21T20:57:26Z",
-  "last_seen": "2026-11-23T15:51:10Z",
+  "last_seen": "2026-11-25T06:21:49Z",
   "reported": "not reported (permanent ban)"
 }

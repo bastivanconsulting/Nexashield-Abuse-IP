@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇩🇪 Germany · **98** malicious IP(s)
+🇩🇪 Germany · **99** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -84,10 +84,11 @@
 | [`47.245.143.165`](47.245.143.165/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 11 | 2026-11-24T16:14:04Z |
 | [`47.245.143.183`](47.245.143.183/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-21T01:42:12Z |
 | [`47.254.130.236`](47.254.130.236/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-24T09:23:56Z |
-| [`47.254.144.111`](47.254.144.111/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 16 | 2026-11-24T20:09:17Z |
+| [`47.254.144.111`](47.254.144.111/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 18 | 2026-11-25T06:48:50Z |
 | [`47.254.148.82`](47.254.148.82/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-24T16:53:06Z |
+| [`47.254.148.139`](47.254.148.139/) | Port scanning (7), Known botnet / C2 infrastructure (2) | 14 | 2026-11-25T01:18:44Z |
 | [`47.254.154.147`](47.254.154.147/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 13 | 2026-11-24T17:16:46Z |
-| [`47.254.154.232`](47.254.154.232/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 20 | 2026-11-24T07:14:59Z |
+| [`47.254.154.232`](47.254.154.232/) | Port scanning (12), Known botnet / C2 infrastructure (9) | 23 | 2026-11-25T06:28:41Z |
 | [`47.254.155.45`](47.254.155.45/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 14 | 2026-11-24T12:24:53Z |
 | [`47.254.156.79`](47.254.156.79/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-23T19:47:51Z |
 | [`47.254.156.127`](47.254.156.127/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-23T20:03:44Z |

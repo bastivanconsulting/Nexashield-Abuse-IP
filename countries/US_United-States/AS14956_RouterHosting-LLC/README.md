@@ -11,7 +11,7 @@
 | [`144.172.110.78`](144.172.110.78/) | SSH brute force (5), Port scanning (2) | 7 | 2026-11-20T17:15:44Z |
 | [`153.75.82.180`](153.75.82.180/) | Exploitation attempt (CVE / RCE / injection) (4) | 4 | 2026-11-21T20:13:54Z |
 | [`153.75.91.198`](153.75.91.198/) | Abusive HTTP requests (5) | 5 | 2026-11-22T10:06:32Z |
-| [`167.88.168.121`](167.88.168.121/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-24T19:54:01Z |
+| [`167.88.168.121`](167.88.168.121/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-25T06:39:39Z |
 | [`172.86.112.198`](172.86.112.198/) | Web injection payload blocked by WAF (26), Abusive HTTP requests (9) | 35 | 2026-11-20T01:27:52Z |
 | [`2602:fa59:10:14c::1`](2602_fa59_10_14c__1/) | Abusive HTTP requests (6) | 6 | 2026-11-11T07:01:03Z |
 

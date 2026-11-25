@@ -5,10 +5,11 @@
   "asn": 8048,
   "asn_org": "CANTV Servicios, Venezuela",
   "categories": {
-    "scan": 21
+    "scan": 22,
+    "c2": 1
   },
-  "events": 35,
+  "events": 37,
   "first_seen": "2026-11-18T08:51:33Z",
-  "last_seen": "2026-11-24T16:46:13Z",
+  "last_seen": "2026-11-25T06:32:31Z",
   "reported": "not reported (permanent ban)"
 }

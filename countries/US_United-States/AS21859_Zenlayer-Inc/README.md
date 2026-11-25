@@ -9,7 +9,7 @@
 | [`109.105.209.7`](109.105.209.7/) | Port scanning (23), Known botnet / C2 infrastructure (15) | 39 | 2026-11-24T07:18:03Z |
 | [`109.105.209.9`](109.105.209.9/) | Port scanning (13), Known botnet / C2 infrastructure (8) | 22 | 2026-11-22T03:56:19Z |
 | [`109.105.209.10`](109.105.209.10/) | Port scanning (16), Known botnet / C2 infrastructure (14) | 31 | 2026-11-24T11:14:02Z |
-| [`109.105.209.12`](109.105.209.12/) | Port scanning (23), Known botnet / C2 infrastructure (12) | 36 | 2026-11-25T05:24:53Z |
+| [`109.105.209.12`](109.105.209.12/) | Port scanning (24), Known botnet / C2 infrastructure (13) | 38 | 2026-11-25T07:10:44Z |
 | [`109.105.209.13`](109.105.209.13/) | Port scanning (20), Known botnet / C2 infrastructure (13) | 34 | 2026-11-22T17:29:14Z |
 | [`109.105.209.14`](109.105.209.14/) | Port scanning (14), Known botnet / C2 infrastructure (10) | 25 | 2026-11-24T19:19:25Z |
 | [`109.105.209.15`](109.105.209.15/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-25T05:29:52Z |
@@ -104,7 +104,7 @@
 | [`185.180.141.43`](185.180.141.43/) | Port scanning (18), Known botnet / C2 infrastructure (11) | 30 | 2026-11-24T01:04:12Z |
 | [`185.180.141.45`](185.180.141.45/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-21T07:58:19Z |
 | [`185.180.141.48`](185.180.141.48/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-18T06:18:14Z |
-| [`185.180.141.49`](185.180.141.49/) | Port scanning (14), Known botnet / C2 infrastructure (11) | 26 | 2026-11-25T02:21:23Z |
+| [`185.180.141.49`](185.180.141.49/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-25T07:05:16Z |
 | [`185.180.141.52`](185.180.141.52/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T06:04:42Z |
 | [`185.180.141.59`](185.180.141.59/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-23T15:39:18Z |
 | [`185.180.141.67`](185.180.141.67/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T18:52:29Z |

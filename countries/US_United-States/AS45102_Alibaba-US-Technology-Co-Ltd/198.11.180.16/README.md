@@ -7,10 +7,10 @@
 | IP | `198.11.180.16` |
 | Country | United States (US) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-21T08:26:01Z |
-| Last seen (UTC) | 2026-11-23T10:58:33Z |
+| Last seen (UTC) | 2026-11-25T06:31:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `43.134.131.76` |
 | Country | Singapore (SG) |
 | ASN | AS132203 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (4) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-20T21:01:04Z |
-| Last seen (UTC) | 2026-11-23T07:34:06Z |
+| Last seen (UTC) | 2026-11-25T06:49:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

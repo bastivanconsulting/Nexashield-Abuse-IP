@@ -5,12 +5,12 @@
   "asn": 8473,
   "asn_org": "Bahnhof AB",
   "categories": {
-    "scan": 2,
-    "c2": 3,
+    "scan": 3,
+    "c2": 4,
     "ssh": 4
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-21T14:54:12Z",
-  "last_seen": "2026-11-24T14:09:04Z",
+  "last_seen": "2026-11-25T07:17:22Z",
   "reported": "not reported (permanent ban)"
 }
