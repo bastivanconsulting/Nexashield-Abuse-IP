@@ -1,0 +1,14 @@
+{
+  "ip": "80.164.1.36",
+  "country_code": "DK",
+  "country": "Denmark",
+  "asn": 3292,
+  "asn_org": "TDC Holding A/S",
+  "categories": {
+    "scan": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-25T01:18:12Z",
+  "last_seen": "2026-11-25T01:18:12Z",
+  "reported": "not reported (permanent ban)"
+}

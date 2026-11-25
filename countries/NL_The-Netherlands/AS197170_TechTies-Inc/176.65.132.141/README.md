@@ -7,10 +7,10 @@
 | IP | `176.65.132.141` |
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Port scanning (14), Known botnet / C2 infrastructure (2) |
-| Events | 20 |
+| Activity | Port scanning (18), Known botnet / C2 infrastructure (3) |
+| Events | 26 |
 | First seen (UTC) | 2026-11-11T13:12:26Z |
-| Last seen (UTC) | 2026-11-24T18:32:56Z |
+| Last seen (UTC) | 2026-11-25T00:41:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

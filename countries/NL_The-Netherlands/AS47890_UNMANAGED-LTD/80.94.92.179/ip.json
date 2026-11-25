@@ -7,10 +7,10 @@
   "categories": {
     "ssh": 608,
     "scan": 26,
-    "c2": 28
+    "c2": 30
   },
-  "events": 667,
+  "events": 669,
   "first_seen": "2026-11-11T02:44:08Z",
-  "last_seen": "2026-11-24T01:05:15Z",
+  "last_seen": "2026-11-25T01:07:02Z",
   "reported": "not reported (permanent ban)"
 }

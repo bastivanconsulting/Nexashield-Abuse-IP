@@ -8,9 +8,9 @@
 | Country | Andorra (AD) |
 | ASN | AS48090 · TECHOFF SRV LIMITED |
 | Activity | Known botnet / C2 infrastructure (2), Port scanning (1), Web injection payload blocked by WAF (1) |
-| Events | 279 |
+| Events | 280 |
 | First seen (UTC) | 2026-11-17T02:56:51Z |
-| Last seen (UTC) | 2026-11-24T18:25:30Z |
+| Last seen (UTC) | 2026-11-25T00:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

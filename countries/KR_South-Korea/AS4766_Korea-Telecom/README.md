@@ -1,9 +1,10 @@
 # AS4766 · Korea Telecom
 
-🇰🇷 South Korea · **31** malicious IP(s)
+🇰🇷 South Korea · **32** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`14.33.48.192`](14.33.48.192/) | Known botnet / C2 infrastructure (1), Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-24T08:10:02Z |
 | [`14.51.12.142`](14.51.12.142/) | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (2) | 11 | 2026-11-24T04:51:15Z |
 | [`14.55.141.2`](14.55.141.2/) | SSH brute force (10), Port scanning (3) | 13 | 2026-11-20T14:37:08Z |
 | [`61.74.103.25`](61.74.103.25/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 7 | 2026-11-12T04:41:01Z |
@@ -19,7 +20,7 @@
 | [`121.178.185.141`](121.178.185.141/) | Port scanning (3), SSH brute force (3), Known botnet / C2 infrastructure (3) | 10 | 2026-11-24T11:09:06Z |
 | [`121.179.93.147`](121.179.93.147/) | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (2) | 9 | 2026-11-24T16:31:56Z |
 | [`121.189.226.81`](121.189.226.81/) | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (3) | 14 | 2026-11-23T15:22:14Z |
-| [`125.130.102.172`](125.130.102.172/) | Port scanning (90), Known botnet / C2 infrastructure (18), SSH brute force (1) | 110 | 2026-11-24T23:09:58Z |
+| [`125.130.102.172`](125.130.102.172/) | Port scanning (91), Known botnet / C2 infrastructure (18), SSH brute force (1) | 111 | 2026-11-25T00:29:37Z |
 | [`125.139.124.120`](125.139.124.120/) | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (2) | 12 | 2026-11-24T09:28:22Z |
 | [`169.211.232.182`](169.211.232.182/) | Known botnet / C2 infrastructure (6), Port scanning (4), SSH brute force (3) | 14 | 2026-11-23T22:45:36Z |
 | [`175.195.238.137`](175.195.238.137/) | Port scanning (23), Known botnet / C2 infrastructure (12) | 36 | 2026-11-24T22:16:32Z |
@@ -32,7 +33,7 @@
 | [`220.78.179.108`](220.78.179.108/) | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (5) | 18 | 2026-11-22T03:58:47Z |
 | [`220.118.190.204`](220.118.190.204/) | Port scanning (10), Known botnet / C2 infrastructure (6), SSH brute force (2) | 19 | 2026-11-23T19:10:28Z |
 | [`220.123.222.114`](220.123.222.114/) | SSH brute force (152), Port scanning (5) | 157 | 2026-11-17T02:54:32Z |
-| [`221.145.31.147`](221.145.31.147/) | Port scanning (151) | 198 | 2026-11-24T22:10:24Z |
+| [`221.145.31.147`](221.145.31.147/) | Port scanning (152) | 199 | 2026-11-25T01:06:48Z |
 | [`221.164.148.85`](221.164.148.85/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-12T04:13:03Z |
 | [`222.97.112.179`](222.97.112.179/) | Port scanning (23), Known botnet / C2 infrastructure (14) | 38 | 2026-11-23T17:34:26Z |
 

@@ -7,10 +7,10 @@
 | IP | `170.231.237.214` |
 | Country | Switzerland (CH) |
 | ASN | AS264617 · GRUPO PANAGLOBAL 15 S.A |
-| Activity | Port scanning (35), Abusive HTTP requests (4), Known botnet / C2 infrastructure (2) |
-| Events | 41 |
+| Activity | Port scanning (36), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
+| Events | 44 |
 | First seen (UTC) | 2026-11-10T04:16:19Z |
-| Last seen (UTC) | 2026-11-24T05:11:23Z |
+| Last seen (UTC) | 2026-11-25T00:25:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

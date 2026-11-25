@@ -11,7 +11,7 @@
 | [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 3 | SSH brute force (22), Known botnet / C2 infrastructure (9), Port scanning (3) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | Port scanning (60), Known botnet / C2 infrastructure (12) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (6), Port scanning (4) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (674), Known botnet / C2 infrastructure (50), Abusive HTTP requests (2) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (677), Known botnet / C2 infrastructure (50), Abusive HTTP requests (2) |
 | [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (82), Known botnet / C2 infrastructure (46) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (11), Known botnet / C2 infrastructure (8) |
 | [AS12714](AS12714_PJSC-MegaFon/) | PJSC MegaFon | 1 | SSH brute force (5), Port scanning (2) |
@@ -28,7 +28,7 @@
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39264](AS39264_Region-Svyaz-Konsalt-LLC/) | "Region Svyaz Konsalt" LLC | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (4) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
-| [AS42116](AS42116_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (7), SSH brute force (6), Known botnet / C2 infrastructure (6) |
+| [AS42116](AS42116_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (8), SSH brute force (6), Known botnet / C2 infrastructure (6) |
 | [AS43132](AS43132_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (3) |
 | [AS48282](AS48282_Hosting-technology-LTD/) | Hosting technology LTD | 1 | Port scanning (6) |
 | [AS48524](AS48524_INTERRA-telecommunications-group-Ltd/) | INTERRA telecommunications group, Ltd. | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |

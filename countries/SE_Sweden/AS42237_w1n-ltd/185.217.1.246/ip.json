@@ -5,11 +5,12 @@
   "asn": 42237,
   "asn_org": "w1n ltd",
   "categories": {
-    "ssh": 1,
-    "c2": 1
+    "ssh": 6,
+    "c2": 1,
+    "scan": 1
   },
-  "events": 1,
-  "first_seen": "2026-11-25T00:23:22Z",
-  "last_seen": "2026-11-25T00:23:22Z",
+  "events": 10,
+  "first_seen": "2026-11-25T00:23:16Z",
+  "last_seen": "2026-11-25T00:24:45Z",
   "reported": "not reported (permanent ban)"
 }

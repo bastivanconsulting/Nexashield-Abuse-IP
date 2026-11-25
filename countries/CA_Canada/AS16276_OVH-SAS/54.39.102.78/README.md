@@ -7,10 +7,10 @@
 | IP | `54.39.102.78` |
 | Country | Canada (CA) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (19) |
-| Events | 28 |
+| Activity | Port scanning (23) |
+| Events | 33 |
 | First seen (UTC) | 2026-11-24T05:52:24Z |
-| Last seen (UTC) | 2026-11-24T20:47:40Z |
+| Last seen (UTC) | 2026-11-25T01:01:56Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

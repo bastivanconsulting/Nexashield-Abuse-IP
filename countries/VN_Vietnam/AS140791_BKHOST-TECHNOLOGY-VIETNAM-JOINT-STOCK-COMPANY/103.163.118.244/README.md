@@ -7,10 +7,10 @@
 | IP | `103.163.118.244` |
 | Country | Vietnam (VN) |
 | ASN | AS140791 · BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY |
-| Activity | Port scanning (44), Known botnet / C2 infrastructure (26) |
-| Events | 71 |
+| Activity | Port scanning (45), Known botnet / C2 infrastructure (26) |
+| Events | 72 |
 | First seen (UTC) | 2026-11-11T21:33:53Z |
-| Last seen (UTC) | 2026-11-24T22:43:30Z |
+| Last seen (UTC) | 2026-11-25T00:32:47Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

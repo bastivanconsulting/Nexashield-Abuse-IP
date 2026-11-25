@@ -1,9 +1,10 @@
 # 🇩🇰 Denmark
 
-**2** malicious IP(s) across **2** network(s).
+**4** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
+| [AS3292](AS3292_TDC-Holding-A-S/) | TDC Holding A/S | 2 | Port scanning (2) |
 | [AS1835](AS1835_Forskningsnettet-Danish-network-for-Research-and/) | Forskningsnettet - Danish network for Research and Education | 1 | Port scanning (8), Known botnet / C2 infrastructure (6), Abusive HTTP requests (1) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | Port scanning (1) |
 
