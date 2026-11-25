@@ -1,9 +1,10 @@
 # AS200651 · FlokiNET ehf
 
-🇷🇴 Romania · **2** malicious IP(s)
+🇷🇴 Romania · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`95.133.167.17`](95.133.167.17/) | Port scanning (28) | 28 | 2026-11-25T23:11:52Z |
 | [`185.100.87.24`](185.100.87.24/) | Port scanning (3), SSH brute force (1) | 14 | 2026-11-16T18:11:03Z |
 | [`185.100.87.136`](185.100.87.136/) | Port scanning (226), Known botnet / C2 infrastructure (14) | 246 | 2026-11-25T17:23:58Z |
 

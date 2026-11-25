@@ -1,6 +1,6 @@
 # AS198364 · BANATSYNC SRL
 
-🇫🇷 France · **74** malicious IP(s)
+🇫🇷 France · **77** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -22,10 +22,13 @@
 | [`77.239.124.46`](77.239.124.46/) | SSH brute force (22), Port scanning (2) | 24 | 2026-11-25T13:28:31Z |
 | [`77.239.124.47`](77.239.124.47/) | Port scanning (27), SSH brute force (11), Known botnet / C2 infrastructure (2) | 41 | 2026-11-22T21:33:24Z |
 | [`77.239.124.49`](77.239.124.49/) | SSH brute force (10) | 10 | 2026-11-10T10:43:35Z |
+| [`77.239.124.50`](77.239.124.50/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-25T12:17:34Z |
+| [`77.239.124.61`](77.239.124.61/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 3 | 2026-11-25T20:01:32Z |
 | [`77.239.124.63`](77.239.124.63/) | SSH brute force (8) | 8 | 2026-11-11T02:32:48Z |
 | [`77.239.124.64`](77.239.124.64/) | Port scanning (23), SSH brute force (14) | 37 | 2026-11-12T21:55:37Z |
+| [`77.239.124.65`](77.239.124.65/) | Port scanning (1), Known botnet / C2 infrastructure (1) | 2 | 2026-11-25T03:11:47Z |
 | [`77.239.124.66`](77.239.124.66/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-24T04:06:24Z |
-| [`77.239.124.67`](77.239.124.67/) | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) | 7 | 2026-11-25T05:42:36Z |
+| [`77.239.124.67`](77.239.124.67/) | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (1) | 9 | 2026-11-25T22:28:15Z |
 | [`77.239.124.68`](77.239.124.68/) | Port scanning (54), SSH brute force (24) | 78 | 2026-11-25T11:44:29Z |
 | [`77.239.124.70`](77.239.124.70/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 6 | 2026-11-25T12:04:50Z |
 | [`77.239.124.72`](77.239.124.72/) | Port scanning (22), SSH brute force (7) | 29 | 2026-11-11T21:47:37Z |
@@ -63,7 +66,7 @@
 | [`77.239.124.155`](77.239.124.155/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 3 | 2026-11-12T22:47:24Z |
 | [`77.239.124.156`](77.239.124.156/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-24T01:24:28Z |
 | [`77.239.124.158`](77.239.124.158/) | Port scanning (7), Known botnet / C2 infrastructure (5) | 12 | 2026-11-24T15:29:52Z |
-| [`77.239.124.159`](77.239.124.159/) | Port scanning (34), Known botnet / C2 infrastructure (8) | 43 | 2026-11-25T21:20:04Z |
+| [`77.239.124.159`](77.239.124.159/) | Port scanning (35), Known botnet / C2 infrastructure (8) | 44 | 2026-11-25T22:30:13Z |
 | [`77.239.124.161`](77.239.124.161/) | Port scanning (25), Known botnet / C2 infrastructure (1) | 31 | 2026-11-24T20:05:35Z |
 | [`77.239.124.164`](77.239.124.164/) | Port scanning (21), Known botnet / C2 infrastructure (2) | 28 | 2026-11-22T06:02:49Z |
 | [`77.239.124.168`](77.239.124.168/) | Port scanning (17), Known botnet / C2 infrastructure (8) | 26 | 2026-11-25T05:25:46Z |
@@ -73,10 +76,10 @@
 | [`77.239.124.177`](77.239.124.177/) | Port scanning (123), Known botnet / C2 infrastructure (16) | 140 | 2026-11-22T10:31:51Z |
 | [`77.239.124.178`](77.239.124.178/) | Port scanning (38), Known botnet / C2 infrastructure (10) | 48 | 2026-11-25T03:31:43Z |
 | [`77.239.124.181`](77.239.124.181/) | UDP exploit signature (5), Known botnet / C2 infrastructure (4) | 9 | 2026-11-24T13:53:37Z |
-| [`77.239.124.184`](77.239.124.184/) | Port scanning (47) | 50 | 2026-11-25T21:34:28Z |
+| [`77.239.124.184`](77.239.124.184/) | Port scanning (48) | 52 | 2026-11-25T22:23:39Z |
 | [`77.239.124.185`](77.239.124.185/) | Port scanning (56), Known botnet / C2 infrastructure (4) | 62 | 2026-11-25T20:27:34Z |
 | [`77.239.124.187`](77.239.124.187/) | Port scanning (31), Known botnet / C2 infrastructure (3) | 41 | 2026-11-25T11:13:33Z |
-| [`77.239.124.188`](77.239.124.188/) | Port scanning (81), Known botnet / C2 infrastructure (5) | 95 | 2026-11-25T22:11:13Z |
+| [`77.239.124.188`](77.239.124.188/) | Port scanning (84), Known botnet / C2 infrastructure (6) | 99 | 2026-11-25T23:06:24Z |
 | [`77.239.124.252`](77.239.124.252/) | Port scanning (1847), Known botnet / C2 infrastructure (28) | 1988 | 2026-11-24T16:37:09Z |
 
 ---

@@ -1,0 +1,14 @@
+{
+  "ip": "95.133.167.17",
+  "country_code": "RO",
+  "country": "Romania",
+  "asn": 200651,
+  "asn_org": "FlokiNET ehf",
+  "categories": {
+    "scan": 28
+  },
+  "events": 28,
+  "first_seen": "2026-11-15T23:07:56Z",
+  "last_seen": "2026-11-25T23:11:52Z",
+  "reported": "not reported (permanent ban)"
+}

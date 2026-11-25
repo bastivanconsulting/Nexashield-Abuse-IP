@@ -7,10 +7,10 @@
 | IP | `152.32.147.106` |
 | Country | Japan (JP) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (35) |
-| Events | 48 |
+| Activity | Port scanning (36) |
+| Events | 50 |
 | First seen (UTC) | 2026-11-14T11:05:08Z |
-| Last seen (UTC) | 2026-11-25T20:10:58Z |
+| Last seen (UTC) | 2026-11-25T23:00:47Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

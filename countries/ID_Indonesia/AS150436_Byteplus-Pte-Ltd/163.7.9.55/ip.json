@@ -1,0 +1,15 @@
+{
+  "ip": "163.7.9.55",
+  "country_code": "ID",
+  "country": "Indonesia",
+  "asn": 150436,
+  "asn_org": "Byteplus Pte. Ltd.",
+  "categories": {
+    "c2": 1,
+    "ssh": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-25T23:23:11Z",
+  "last_seen": "2026-11-25T23:23:11Z",
+  "reported": "not reported (permanent ban)"
+}

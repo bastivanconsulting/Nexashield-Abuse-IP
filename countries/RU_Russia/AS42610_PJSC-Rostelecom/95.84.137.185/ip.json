@@ -6,11 +6,11 @@
   "asn_org": "PJSC Rostelecom",
   "categories": {
     "ssh": 6,
-    "c2": 5,
-    "scan": 9
+    "c2": 6,
+    "scan": 10
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-22T14:29:28Z",
-  "last_seen": "2026-11-25T19:09:32Z",
+  "last_seen": "2026-11-25T22:36:53Z",
   "reported": "not reported (permanent ban)"
 }

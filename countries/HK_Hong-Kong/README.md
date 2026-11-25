@@ -1,22 +1,22 @@
 # 🇭🇰 Hong Kong
 
-**235** malicious IP(s) across **19** network(s).
+**236** malicious IP(s) across **19** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 84 | Port scanning (2553), Known botnet / C2 infrastructure (1022), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 84 | Port scanning (2558), Known botnet / C2 infrastructure (1025), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
 | [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (232) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 29 | Port scanning (5718), Abusive HTTP requests (1632), Spamhaus DROP-listed network (316), Known botnet / C2 infrastructure (69), Web injection payload blocked by WAF (5), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 11 | SSH brute force (183), Known botnet / C2 infrastructure (33), Port scanning (26), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (1397), Known botnet / C2 infrastructure (102) |
-| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1444), Known botnet / C2 infrastructure (94), Exploitation attempt (CVE / RCE / injection) (24) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 29 | Port scanning (5750), Abusive HTTP requests (1632), Spamhaus DROP-listed network (316), Known botnet / C2 infrastructure (69), Web injection payload blocked by WAF (5), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 12 | SSH brute force (183), Known botnet / C2 infrastructure (35), Port scanning (28), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (1408), Known botnet / C2 infrastructure (102) |
+| [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1458), Known botnet / C2 infrastructure (96), Exploitation attempt (CVE / RCE / injection) (26) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 4 | Abusive HTTP requests (642), Web injection payload blocked by WAF (26), Known botnet / C2 infrastructure (3) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (933), Web injection payload blocked by WAF (42) |
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 2 | Port scanning (47), Known botnet / C2 infrastructure (5) |
 | [AS138995](AS138995_Antbox-Networks-Limited/) | Antbox Networks Limited | 1 | Port scanning (10), Known botnet / C2 infrastructure (3) |
 | [AS17924](AS17924_Smartone-Mobile-communications-Limited/) | Smartone Mobile communications Limited | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (1127), Abusive HTTP requests (50), Known botnet / C2 infrastructure (23) |
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (292), Known botnet / C2 infrastructure (19), Abusive HTTP requests (6) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (1131), Abusive HTTP requests (50), Known botnet / C2 infrastructure (23) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (301), Known botnet / C2 infrastructure (19), Abusive HTTP requests (6) |
 | [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 1 | Port scanning (30) |
 | [AS400619](AS400619_AROSSCLOUD-INC/) | AROSSCLOUD INC. | 1 | Port scanning (14), Known botnet / C2 infrastructure (9) |
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (46), Known botnet / C2 infrastructure (6) |

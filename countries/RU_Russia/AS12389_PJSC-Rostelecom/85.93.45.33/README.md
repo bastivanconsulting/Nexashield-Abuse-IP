@@ -7,10 +7,10 @@
 | IP | `85.93.45.33` |
 | Country | Russia (RU) |
 | ASN | AS12389 · PJSC Rostelecom |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-23T17:38:00Z |
-| Last seen (UTC) | 2026-11-24T00:44:43Z |
+| Last seen (UTC) | 2026-11-25T22:32:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

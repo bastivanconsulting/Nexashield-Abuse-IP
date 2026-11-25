@@ -7,10 +7,10 @@
 | IP | `176.65.148.122` |
 | Country | The Netherlands (NL) |
 | ASN | AS51396 · Pfcloud UG (haftungsbeschrankt) |
-| Activity | Port scanning (30) |
-| Events | 34 |
+| Activity | Port scanning (31) |
+| Events | 35 |
 | First seen (UTC) | 2026-11-13T23:59:01Z |
-| Last seen (UTC) | 2026-11-22T19:47:10Z |
+| Last seen (UTC) | 2026-11-25T23:05:41Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

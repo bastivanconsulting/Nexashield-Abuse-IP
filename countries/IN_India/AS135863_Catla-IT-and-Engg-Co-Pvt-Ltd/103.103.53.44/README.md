@@ -7,10 +7,10 @@
 | IP | `103.103.53.44` |
 | Country | India (IN) |
 | ASN | AS135863 · Catla IT and Engg.Co.Pvt.Ltd. |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (7), SSH brute force (4) |
-| Events | 19 |
+| Activity | Port scanning (8), Known botnet / C2 infrastructure (8), SSH brute force (4) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-11T12:24:55Z |
-| Last seen (UTC) | 2026-11-24T17:09:08Z |
+| Last seen (UTC) | 2026-11-25T22:44:01Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

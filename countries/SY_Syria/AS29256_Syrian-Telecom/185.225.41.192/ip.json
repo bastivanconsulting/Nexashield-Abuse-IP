@@ -1,0 +1,14 @@
+{
+  "ip": "185.225.41.192",
+  "country_code": "SY",
+  "country": "Syria",
+  "asn": 29256,
+  "asn_org": "Syrian Telecom",
+  "categories": {
+    "ssh": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-25T23:27:53Z",
+  "last_seen": "2026-11-25T23:27:53Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `104.244.78.42` |
 | Country | Luxembourg (LU) |
 | ASN | AS53667 · FranTech Solutions |
-| Activity | Port scanning (32), Known botnet / C2 infrastructure (18) |
-| Events | 51 |
+| Activity | Port scanning (34), Known botnet / C2 infrastructure (19) |
+| Events | 54 |
 | First seen (UTC) | 2026-11-17T18:32:49Z |
-| Last seen (UTC) | 2026-11-25T16:51:54Z |
+| Last seen (UTC) | 2026-11-25T22:52:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

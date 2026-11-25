@@ -1,0 +1,15 @@
+{
+  "ip": "222.126.106.2",
+  "country_code": "PH",
+  "country": "Philippines",
+  "asn": 7629,
+  "asn_org": "VITRO Inc.",
+  "categories": {
+    "ssh": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-16T20:19:15Z",
+  "last_seen": "2026-11-18T11:16:34Z",
+  "reported": "not reported (permanent ban)"
+}

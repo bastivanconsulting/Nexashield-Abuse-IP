@@ -1,0 +1,15 @@
+{
+  "ip": "116.48.143.166",
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "asn": 4760,
+  "asn_org": "PCCW IMS Limited",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-22T03:21:38Z",
+  "last_seen": "2026-11-22T15:02:40Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -7,10 +7,10 @@
 | IP | `4.221.162.168` |
 | Country | South Africa (ZA) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Activity | Port scanning (6), SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| Events | 16 |
 | First seen (UTC) | 2026-11-12T14:27:03Z |
-| Last seen (UTC) | 2026-11-25T04:32:16Z |
+| Last seen (UTC) | 2026-11-25T23:00:50Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
