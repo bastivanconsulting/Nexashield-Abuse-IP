@@ -7,10 +7,10 @@
 | IP | `78.155.201.246` |
 | Country | Russia (RU) |
 | ASN | AS50340 · JSC Selectel |
-| Activity | SSH brute force (14) |
-| Events | 14 |
+| Activity | SSH brute force (18) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-24T21:28:32Z |
-| Last seen (UTC) | 2026-11-25T11:55:24Z |
+| Last seen (UTC) | 2026-11-25T20:50:38Z |
 | Reported to network owner (UTC) | 2026-11-25T10:29:35Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

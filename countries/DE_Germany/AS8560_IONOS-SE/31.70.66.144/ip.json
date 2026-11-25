@@ -1,0 +1,15 @@
+{
+  "ip": "31.70.66.144",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 8560,
+  "asn_org": "IONOS SE",
+  "categories": {
+    "scan": 7,
+    "c2": 2
+  },
+  "events": 9,
+  "first_seen": "2026-11-19T20:00:12Z",
+  "last_seen": "2026-11-22T18:17:04Z",
+  "reported": "not reported (permanent ban)"
+}

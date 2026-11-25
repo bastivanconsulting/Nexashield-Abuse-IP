@@ -6,11 +6,11 @@
   "asn_org": "Fabulous Fiber LLC",
   "categories": {
     "ssh": 4,
-    "c2": 6,
-    "scan": 4
+    "c2": 7,
+    "scan": 5
   },
-  "events": 16,
+  "events": 18,
   "first_seen": "2026-11-13T00:57:55Z",
-  "last_seen": "2026-11-25T17:49:22Z",
+  "last_seen": "2026-11-25T21:05:18Z",
   "reported": "not reported (permanent ban)"
 }

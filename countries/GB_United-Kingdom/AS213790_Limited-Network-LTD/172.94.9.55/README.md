@@ -7,10 +7,10 @@
 | IP | `172.94.9.55` |
 | Country | United Kingdom (GB) |
 | ASN | AS213790 · Limited Network LTD |
-| Activity | Port scanning (10), Known botnet / C2 infrastructure (6) |
-| Events | 17 |
+| Activity | Port scanning (11), Known botnet / C2 infrastructure (6) |
+| Events | 18 |
 | First seen (UTC) | 2026-11-17T22:22:06Z |
-| Last seen (UTC) | 2026-11-25T19:03:12Z |
+| Last seen (UTC) | 2026-11-25T21:03:17Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

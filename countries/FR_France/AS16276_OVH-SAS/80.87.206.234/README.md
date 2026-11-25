@@ -7,10 +7,10 @@
 | IP | `80.87.206.234` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Known botnet / C2 infrastructure (36) |
-| Events | 36 |
+| Activity | Known botnet / C2 infrastructure (38) |
+| Events | 38 |
 | First seen (UTC) | 2026-11-21T02:18:29Z |
-| Last seen (UTC) | 2026-11-25T18:19:00Z |
+| Last seen (UTC) | 2026-11-25T21:29:19Z |
 | Reported to network owner (UTC) | 2026-11-21T02:26:57Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

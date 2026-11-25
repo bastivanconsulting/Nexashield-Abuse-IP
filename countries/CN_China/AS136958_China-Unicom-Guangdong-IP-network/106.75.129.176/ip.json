@@ -5,10 +5,10 @@
   "asn": 136958,
   "asn_org": "China Unicom Guangdong IP network",
   "categories": {
-    "scan": 25
+    "scan": 26
   },
-  "events": 41,
+  "events": 43,
   "first_seen": "2026-11-11T10:14:10Z",
-  "last_seen": "2026-11-25T12:20:06Z",
+  "last_seen": "2026-11-25T20:24:06Z",
   "reported": "not reported (permanent ban)"
 }

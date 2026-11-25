@@ -4,13 +4,13 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 5 | Port scanning (1038), Known botnet / C2 infrastructure (73), Abusive HTTP requests (5) |
-| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 4 | Port scanning (876), SSH brute force (27), Abusive HTTP requests (12) |
+| [AS202425](AS202425_IP-Volume-inc/) | IP Volume inc | 5 | Port scanning (1041), Known botnet / C2 infrastructure (73), Abusive HTTP requests (5) |
+| [AS201814](AS201814_MEVSPACE-sp-z-o-o/) | MEVSPACE sp. z o.o. | 4 | Port scanning (876), SSH brute force (27), Abusive HTTP requests (18) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 3 | Port scanning (17), Web injection payload blocked by WAF (16), Abusive HTTP requests (6), Known botnet / C2 infrastructure (1) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 3 | Port scanning (36), Known botnet / C2 infrastructure (13) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 3 | Port scanning (37), Known botnet / C2 infrastructure (14) |
 | [AS212835](AS212835_Shesternin-Vladimir-Anatolievich/) | Shesternin Vladimir Anatolievich | 2 | Port scanning (140), Abusive HTTP requests (2) |
 | [AS16342](AS16342_Toya-sp-z-o-o/) | Toya sp.z.o.o | 1 | Port scanning (8), Known botnet / C2 infrastructure (3) |
-| [AS210558](AS210558_1337-Services-GmbH/) | 1337 Services GmbH | 1 | Port scanning (81) |
+| [AS210558](AS210558_1337-Services-GmbH/) | 1337 Services GmbH | 1 | Port scanning (82) |
 | [AS50606](AS50606_Horyzont-Technologie-Internetowe-sp-z-o-o/) | Horyzont Technologie Internetowe sp.z.o.o. | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
 | [AS8374](AS8374_Polkomtel-Sp-z-o-o/) | Polkomtel Sp. z o.o. | 1 | Port scanning (8), Known botnet / C2 infrastructure (6), SSH brute force (2) |
 

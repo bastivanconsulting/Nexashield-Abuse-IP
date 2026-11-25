@@ -5,11 +5,11 @@
   "asn": 9808,
   "asn_org": "China Mobile Communications Group Co., Ltd",
   "categories": {
-    "scan": 8,
-    "c2": 2
+    "scan": 12,
+    "c2": 3
   },
-  "events": 14,
+  "events": 20,
   "first_seen": "2026-11-15T00:43:03Z",
-  "last_seen": "2026-11-25T01:23:05Z",
+  "last_seen": "2026-11-25T20:20:32Z",
   "reported": "not reported (permanent ban)"
 }

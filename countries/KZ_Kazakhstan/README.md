@@ -5,7 +5,7 @@
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
 | [AS210328](AS210328_AO-ALMAZ/) | AO ALMAZ | 6 | Port scanning (267), Known botnet / C2 infrastructure (18) |
-| [AS210006](AS210006_Shereverov-Marat-Ahmedovich/) | Shereverov Marat Ahmedovich | 2 | Port scanning (915), Known botnet / C2 infrastructure (31) |
+| [AS210006](AS210006_Shereverov-Marat-Ahmedovich/) | Shereverov Marat Ahmedovich | 2 | Port scanning (922), Known botnet / C2 infrastructure (31) |
 | [AS200590](AS200590_NLS-Kazakhstan-LLC/) | NLS Kazakhstan LLC | 1 | Port scanning (5), Known botnet / C2 infrastructure (4) |
 | [AS205431](AS205431_HostLab-LLC/) | HostLab LLC | 1 | Port scanning (10) |
 | [AS29355](AS29355_Kcell-JSC/) | Kcell JSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |

@@ -1,9 +1,10 @@
 # AS56045 · China Mobile Communications Corporation
 
-🇨🇳 China · **1** malicious IP(s)
+🇨🇳 China · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`183.216.160.7`](183.216.160.7/) | Port scanning (21), Known botnet / C2 infrastructure (1) | 34 | 2026-11-25T09:02:23Z |
 | [`223.83.183.254`](223.83.183.254/) | Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T22:02:04Z |
 
 ---

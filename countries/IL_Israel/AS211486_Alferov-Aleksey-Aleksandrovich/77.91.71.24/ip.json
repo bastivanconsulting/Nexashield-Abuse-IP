@@ -5,11 +5,11 @@
   "asn": 211486,
   "asn_org": "Alferov Aleksey Aleksandrovich",
   "categories": {
-    "scan": 693,
-    "c2": 7
+    "scan": 731,
+    "c2": 8
   },
-  "events": 704,
+  "events": 743,
   "first_seen": "2026-11-11T14:59:53Z",
-  "last_seen": "2026-11-25T20:16:21Z",
+  "last_seen": "2026-11-25T21:16:37Z",
   "reported": "not reported (permanent ban)"
 }
