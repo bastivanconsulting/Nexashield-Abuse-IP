@@ -1,10 +1,10 @@
 # 🇵🇰 Pakistan
 
-**23** malicious IP(s) across **10** network(s).
+**24** malicious IP(s) across **10** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9541](AS9541_Cyber-Internet-Services-Private-Limited/) | Cyber Internet Services (Private) Limited | 13 | Exploitation attempt (CVE / RCE / injection) (19), Port scanning (7), Abusive HTTP requests (3) |
+| [AS9541](AS9541_Cyber-Internet-Services-Private-Limited/) | Cyber Internet Services (Private) Limited | 14 | Exploitation attempt (CVE / RCE / injection) (21), Port scanning (7), Abusive HTTP requests (3) |
 | [AS151330](AS151330_PLAY-BROADBAND-PRIVATE-LIMITED/) | PLAY BROADBAND (PRIVATE) LIMITED | 2 | Port scanning (7), Known botnet / C2 infrastructure (6) |
 | [AS135523](AS135523_Multinet-Broadband/) | Multinet Broadband | 1 | Port scanning (13), Known botnet / C2 infrastructure (10), Abusive HTTP requests (1) |
 | [AS138423](AS138423_CMPak-Limited/) | CMPak Limited | 1 | Exploitation attempt (CVE / RCE / injection) (1) |

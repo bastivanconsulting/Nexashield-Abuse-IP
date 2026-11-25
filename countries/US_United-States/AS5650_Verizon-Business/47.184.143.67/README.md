@@ -7,10 +7,10 @@
 | IP | `47.184.143.67` |
 | Country | United States (US) |
 | ASN | AS5650 · Verizon Business |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (4) |
-| Events | 18 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (5) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-13T20:28:16Z |
-| Last seen (UTC) | 2026-11-25T05:21:42Z |
+| Last seen (UTC) | 2026-11-25T11:47:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

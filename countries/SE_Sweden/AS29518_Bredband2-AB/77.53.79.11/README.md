@@ -7,10 +7,10 @@
 | IP | `77.53.79.11` |
 | Country | Sweden (SE) |
 | ASN | AS29518 · Bredband2 AB |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (4) |
-| Events | 19 |
+| Activity | Known botnet / C2 infrastructure (7), SSH brute force (6), Port scanning (5) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-20T11:24:28Z |
-| Last seen (UTC) | 2026-11-24T15:17:40Z |
+| Last seen (UTC) | 2026-11-25T12:11:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

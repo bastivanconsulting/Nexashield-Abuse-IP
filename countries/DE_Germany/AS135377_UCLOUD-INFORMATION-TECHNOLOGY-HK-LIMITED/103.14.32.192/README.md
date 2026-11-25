@@ -7,10 +7,10 @@
 | IP | `103.14.32.192` |
 | Country | Germany (DE) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (53) |
-| Events | 80 |
+| Activity | Port scanning (54) |
+| Events | 82 |
 | First seen (UTC) | 2026-11-11T15:16:16Z |
-| Last seen (UTC) | 2026-11-25T08:06:49Z |
+| Last seen (UTC) | 2026-11-25T11:52:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

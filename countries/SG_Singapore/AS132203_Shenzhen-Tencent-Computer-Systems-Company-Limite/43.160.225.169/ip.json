@@ -1,0 +1,15 @@
+{
+  "ip": "43.160.225.169",
+  "country_code": "SG",
+  "country": "Singapore",
+  "asn": 132203,
+  "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+  "categories": {
+    "web": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-12T14:30:01Z",
+  "last_seen": "2026-11-25T12:17:04Z",
+  "reported": "not reported (permanent ban)"
+}

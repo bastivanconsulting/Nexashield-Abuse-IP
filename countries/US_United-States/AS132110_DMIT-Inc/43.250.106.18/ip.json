@@ -6,11 +6,11 @@
   "asn_org": "DMIT Inc.",
   "categories": {
     "ssh": 3,
-    "c2": 6,
-    "scan": 6
+    "c2": 7,
+    "scan": 7
   },
-  "events": 17,
+  "events": 19,
   "first_seen": "2026-11-18T15:43:47Z",
-  "last_seen": "2026-11-24T20:37:16Z",
+  "last_seen": "2026-11-25T11:44:26Z",
   "reported": "not reported (permanent ban)"
 }

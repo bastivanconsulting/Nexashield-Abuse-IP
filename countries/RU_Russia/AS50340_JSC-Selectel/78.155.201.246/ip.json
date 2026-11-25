@@ -5,10 +5,10 @@
   "asn": 50340,
   "asn_org": "JSC Selectel",
   "categories": {
-    "ssh": 12
+    "ssh": 14
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-24T21:28:32Z",
-  "last_seen": "2026-11-25T09:45:14Z",
+  "last_seen": "2026-11-25T11:55:24Z",
   "reported": "2026-11-25T10:29:35Z"
 }

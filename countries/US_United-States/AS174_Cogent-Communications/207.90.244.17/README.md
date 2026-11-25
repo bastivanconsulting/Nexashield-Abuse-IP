@@ -7,10 +7,10 @@
 | IP | `207.90.244.17` |
 | Country | United States (US) |
 | ASN | AS174 · Cogent Communications |
-| Activity | Port scanning (56), Known botnet / C2 infrastructure (28) |
-| Events | 85 |
+| Activity | Port scanning (57), Known botnet / C2 infrastructure (28) |
+| Events | 86 |
 | First seen (UTC) | 2026-11-11T12:02:59Z |
-| Last seen (UTC) | 2026-11-25T08:46:06Z |
+| Last seen (UTC) | 2026-11-25T11:29:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

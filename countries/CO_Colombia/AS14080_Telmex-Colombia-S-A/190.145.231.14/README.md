@@ -7,10 +7,10 @@
 | IP | `190.145.231.14` |
 | Country | Colombia (CO) |
 | ASN | AS14080 · Telmex Colombia S.A. |
-| Activity | Port scanning (12), Known botnet / C2 infrastructure (6) |
-| Events | 19 |
+| Activity | Port scanning (13), Known botnet / C2 infrastructure (7) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-13T15:13:49Z |
-| Last seen (UTC) | 2026-11-23T12:52:46Z |
+| Last seen (UTC) | 2026-11-25T11:57:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

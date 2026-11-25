@@ -5,11 +5,11 @@
   "asn": 269070,
   "asn_org": "Hostzone Tecnologia LTDA",
   "categories": {
-    "scan": 161,
-    "c2": 22
+    "scan": 163,
+    "c2": 23
   },
-  "events": 188,
+  "events": 191,
   "first_seen": "2026-11-19T05:23:10Z",
-  "last_seen": "2026-11-25T10:27:05Z",
+  "last_seen": "2026-11-25T11:42:46Z",
   "reported": "not reported (permanent ban)"
 }

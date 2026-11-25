@@ -1,19 +1,19 @@
 # 🇮🇳 India
 
-**82** malicious IP(s) across **32** network(s).
+**83** malicious IP(s) across **32** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 15 | Port scanning (48), Known botnet / C2 infrastructure (26), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7), SSH brute force (5) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 15 | Port scanning (50), Known botnet / C2 infrastructure (27), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7), SSH brute force (5) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 11 | Known botnet / C2 infrastructure (54), Port scanning (47), SSH brute force (46) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 9 | Port scanning (36), Known botnet / C2 infrastructure (30), SSH brute force (27) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (105), Known botnet / C2 infrastructure (25) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (251), Known botnet / C2 infrastructure (90) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 6 | Port scanning (254), Known botnet / C2 infrastructure (91) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | SSH brute force (18), Known botnet / C2 infrastructure (17), Port scanning (13) |
+| [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (2) |
-| [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 2 | SSH brute force (21), Known botnet / C2 infrastructure (3), Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
 | [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Known botnet / C2 infrastructure (4), Port scanning (4), SSH brute force (1) |
@@ -28,7 +28,7 @@
 | [AS149553](AS149553_AXOM-INTERNET-SERVICES-PRIVATE-LIMITED/) | AXOM INTERNET SERVICES PRIVATE LIMITED | 1 | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (2) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
 | [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (1) |
-| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (4) |
+| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (5) |
 | [AS18002](AS18002_World-Phone-Internet-Services-Pvt-Ltd/) | World Phone Internet Services Pvt. Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS45528](AS45528_Tikona-Infinet-Ltd/) | Tikona Infinet Ltd. | 1 | SSH brute force (7), Known botnet / C2 infrastructure (3) |

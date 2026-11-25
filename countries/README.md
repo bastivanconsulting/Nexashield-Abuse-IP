@@ -25,7 +25,7 @@
 | [🇨🇳 China](CN_China/) | 214 |
 | [🇨🇴 Colombia](CO_Colombia/) | 3 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 619 |
+| [🇩🇪 Germany](DE_Germany/) | 621 |
 | [🇩🇰 Denmark](DK_Denmark/) | 4 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 1 |
@@ -34,16 +34,16 @@
 | [🇪🇸 Spain](ES_Spain/) | 3 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 9 |
 | [🇫🇮 Finland](FI_Finland/) | 13 |
-| [🇫🇷 France](FR_France/) | 389 |
+| [🇫🇷 France](FR_France/) | 390 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1026 |
 | [🇬🇪 Georgia](GE_Georgia/) | 2 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
-| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 232 |
+| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 233 |
 | [🇭🇺 Hungary](HU_Hungary/) | 6 |
 | [🇮🇩 Indonesia](ID_Indonesia/) | 24 |
 | [🇮🇪 Ireland](IE_Ireland/) | 4 |
 | [🇮🇱 Israel](IL_Israel/) | 12 |
-| [🇮🇳 India](IN_India/) | 82 |
+| [🇮🇳 India](IN_India/) | 83 |
 | [🇮🇶 Iraq](IQ_Iraq/) | 6 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 29 |
@@ -62,7 +62,7 @@
 | [🇲🇹 Malta](MT_Malta/) | 1 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 2 |
 | [🇲🇽 Mexico](MX_Mexico/) | 4 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 98 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 99 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 20 |
 | [🇳🇮 Nicaragua](NI_Nicaragua/) | 1 |
 | [🇳🇱 The Netherlands](NL_The-Netherlands/) | 702 |
@@ -71,7 +71,7 @@
 | [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
 | [🇵🇪 Peru](PE_Peru/) | 1 |
 | [🇵🇭 Philippines](PH_Philippines/) | 12 |
-| [🇵🇰 Pakistan](PK_Pakistan/) | 23 |
+| [🇵🇰 Pakistan](PK_Pakistan/) | 24 |
 | [🇵🇱 Poland](PL_Poland/) | 21 |
 | [🇵🇷 Puerto Rico](PR_Puerto-Rico/) | 2 |
 | [🇵🇹 Portugal](PT_Portugal/) | 2 |
@@ -81,15 +81,15 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 12 |
 | [🇸🇪 Sweden](SE_Sweden/) | 88 |
-| [🇸🇬 Singapore](SG_Singapore/) | 155 |
+| [🇸🇬 Singapore](SG_Singapore/) | 156 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 21 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇸🇳 Senegal](SN_Senegal/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 44 |
 | [🇹🇷 Turkey](TR_Turkey/) | 10 |
-| [🇹🇼 Taiwan](TW_Taiwan/) | 24 |
+| [🇹🇼 Taiwan](TW_Taiwan/) | 26 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 6 |
-| [🇺🇸 United States](US_United-States/) | 3441 |
+| [🇺🇸 United States](US_United-States/) | 3459 |
 | [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 2 |
 | [🇻🇪 Venezuela](VE_Venezuela/) | 1 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 16 |

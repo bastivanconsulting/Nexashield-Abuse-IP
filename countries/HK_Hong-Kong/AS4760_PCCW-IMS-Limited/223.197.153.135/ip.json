@@ -6,11 +6,11 @@
   "asn_org": "PCCW IMS Limited",
   "categories": {
     "ssh": 2,
-    "c2": 5,
-    "scan": 4
+    "c2": 6,
+    "scan": 5
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-14T08:24:57Z",
-  "last_seen": "2026-11-24T07:00:43Z",
+  "last_seen": "2026-11-25T12:15:00Z",
   "reported": "not reported (permanent ban)"
 }

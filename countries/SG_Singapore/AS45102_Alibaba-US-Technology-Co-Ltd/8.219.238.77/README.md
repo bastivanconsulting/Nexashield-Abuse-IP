@@ -7,10 +7,10 @@
 | IP | `8.219.238.77` |
 | Country | Singapore (SG) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (8), Known botnet / C2 infrastructure (7) |
-| Events | 16 |
+| Activity | Port scanning (9), Known botnet / C2 infrastructure (7) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-15T16:12:27Z |
-| Last seen (UTC) | 2026-11-25T11:04:42Z |
+| Last seen (UTC) | 2026-11-25T11:43:58Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
