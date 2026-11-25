@@ -1,0 +1,15 @@
+{
+  "ip": "37.228.64.54",
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "asn": 35104,
+  "asn_org": "Jusan Mobile JSC",
+  "categories": {
+    "scan": 9,
+    "c2": 3
+  },
+  "events": 14,
+  "first_seen": "2026-11-17T03:34:46Z",
+  "last_seen": "2026-11-25T05:01:06Z",
+  "reported": "not reported (permanent ban)"
+}

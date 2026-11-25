@@ -5,11 +5,11 @@
   "asn": 9658,
   "asn_org": "Eastern Telecommunications Philippines, Inc.",
   "categories": {
-    "scan": 17,
-    "c2": 4
+    "scan": 20,
+    "c2": 5
   },
-  "events": 23,
+  "events": 28,
   "first_seen": "2026-11-15T08:19:21Z",
-  "last_seen": "2026-11-23T02:56:27Z",
+  "last_seen": "2026-11-25T04:23:13Z",
   "reported": "not reported (permanent ban)"
 }

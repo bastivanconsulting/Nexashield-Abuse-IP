@@ -7,10 +7,10 @@
 | IP | `47.218.210.182` |
 | Country | United States (US) |
 | ASN | AS19108 · Suddenlink Communications |
-| Activity | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (2) |
-| Events | 11 |
+| Activity | Known botnet / C2 infrastructure (5), SSH brute force (3), Port scanning (3) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-14T23:29:41Z |
-| Last seen (UTC) | 2026-11-24T03:37:24Z |
+| Last seen (UTC) | 2026-11-25T05:05:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

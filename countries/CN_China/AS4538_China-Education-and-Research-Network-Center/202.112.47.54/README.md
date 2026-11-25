@@ -7,10 +7,10 @@
 | IP | `202.112.47.54` |
 | Country | China (CN) |
 | ASN | AS4538 · China Education and Research Network Center |
-| Activity | Port scanning (100), Known botnet / C2 infrastructure (18) |
-| Events | 121 |
+| Activity | Port scanning (102), Known botnet / C2 infrastructure (19) |
+| Events | 124 |
 | First seen (UTC) | 2026-11-13T04:35:29Z |
-| Last seen (UTC) | 2026-11-24T21:55:51Z |
+| Last seen (UTC) | 2026-11-25T05:13:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

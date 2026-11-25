@@ -7,10 +7,10 @@
 | IP | `64.53.7.231` |
 | Country | United States (US) |
 | ASN | AS16863 · Home Telephone Company, Inc. |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| Events | 10 |
+| Activity | Known botnet / C2 infrastructure (4), SSH brute force (3), Port scanning (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-20T17:02:30Z |
-| Last seen (UTC) | 2026-11-24T17:27:28Z |
+| Last seen (UTC) | 2026-11-25T04:33:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
