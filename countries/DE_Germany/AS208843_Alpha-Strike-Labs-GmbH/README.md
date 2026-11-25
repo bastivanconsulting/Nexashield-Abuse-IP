@@ -61,7 +61,7 @@
 | [`194.187.176.146`](194.187.176.146/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 13 | 2026-11-22T22:53:15Z |
 | [`194.187.176.149`](194.187.176.149/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T14:24:58Z |
 | [`194.187.176.159`](194.187.176.159/) | Port scanning (1) | 1 | 2026-11-24T09:25:06Z |
-| [`194.187.176.160`](194.187.176.160/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T09:02:32Z |
+| [`194.187.176.160`](194.187.176.160/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 16 | 2026-11-25T07:45:24Z |
 | [`194.187.176.162`](194.187.176.162/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-25T01:47:16Z |
 | [`194.187.176.164`](194.187.176.164/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-20T04:07:04Z |
 | [`194.187.176.166`](194.187.176.166/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-22T18:18:36Z |
@@ -84,7 +84,7 @@
 | [`194.187.176.228`](194.187.176.228/) | Port scanning (9), Known botnet / C2 infrastructure (8) | 18 | 2026-11-25T02:43:15Z |
 | [`194.187.176.231`](194.187.176.231/) | Port scanning (9), Known botnet / C2 infrastructure (9) | 19 | 2026-11-24T17:43:15Z |
 | [`194.187.176.232`](194.187.176.232/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-24T04:24:44Z |
-| [`194.187.176.233`](194.187.176.233/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-20T00:18:30Z |
+| [`194.187.176.233`](194.187.176.233/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-25T07:35:14Z |
 | [`194.187.176.235`](194.187.176.235/) | Known botnet / C2 infrastructure (3), Port scanning (2) | 6 | 2026-11-21T13:18:29Z |
 | [`194.187.176.238`](194.187.176.238/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-23T17:38:30Z |
 | [`194.187.176.239`](194.187.176.239/) | Port scanning (2), Known botnet / C2 infrastructure (1) | 4 | 2026-11-22T18:18:36Z |

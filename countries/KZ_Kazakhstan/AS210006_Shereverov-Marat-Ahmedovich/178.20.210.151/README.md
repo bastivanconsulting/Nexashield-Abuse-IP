@@ -8,9 +8,9 @@
 | Country | Kazakhstan (KZ) |
 | ASN | AS210006 · Shereverov Marat Ahmedovich |
 | Activity | Port scanning (467), Known botnet / C2 infrastructure (29) |
-| Events | 519 |
+| Events | 520 |
 | First seen (UTC) | 2026-11-11T09:59:53Z |
-| Last seen (UTC) | 2026-11-25T07:17:16Z |
+| Last seen (UTC) | 2026-11-25T07:18:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

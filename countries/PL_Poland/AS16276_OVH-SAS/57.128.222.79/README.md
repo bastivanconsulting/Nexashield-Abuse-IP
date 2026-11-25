@@ -7,10 +7,10 @@
 | IP | `57.128.222.79` |
 | Country | Poland (PL) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (16), Known botnet / C2 infrastructure (5) |
-| Events | 26 |
+| Activity | Port scanning (20), Known botnet / C2 infrastructure (6) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-11T20:02:27Z |
-| Last seen (UTC) | 2026-11-24T15:49:26Z |
+| Last seen (UTC) | 2026-11-25T07:56:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

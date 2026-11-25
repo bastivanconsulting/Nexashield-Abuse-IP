@@ -1,0 +1,15 @@
+{
+  "ip": "94.180.139.162",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 41668,
+  "asn_org": "JSC \"ER-Telecom Holding\"",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-14T15:57:55Z",
+  "last_seen": "2026-11-15T02:39:36Z",
+  "reported": "not reported (permanent ban)"
+}

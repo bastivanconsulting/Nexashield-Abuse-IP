@@ -7,10 +7,10 @@
 | IP | `187.50.226.182` |
 | Country | Brazil (BR) |
 | ASN | AS10429 · TELEFÔNICA BRASIL S.A |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (6), Port scanning (5) |
-| Events | 18 |
+| Activity | Known botnet / C2 infrastructure (7), SSH brute force (6), Port scanning (6) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-21T14:53:18Z |
-| Last seen (UTC) | 2026-11-25T00:41:33Z |
+| Last seen (UTC) | 2026-11-25T08:01:13Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

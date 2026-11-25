@@ -1,0 +1,15 @@
+{
+  "ip": "185.255.212.178",
+  "country_code": "BG",
+  "country": "Bulgaria",
+  "asn": 200475,
+  "asn_org": "ET VESELIN JELQZKOV",
+  "categories": {
+    "ssh": 4,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-22T02:46:44Z",
+  "last_seen": "2026-11-25T08:14:05Z",
+  "reported": "not reported (permanent ban)"
+}

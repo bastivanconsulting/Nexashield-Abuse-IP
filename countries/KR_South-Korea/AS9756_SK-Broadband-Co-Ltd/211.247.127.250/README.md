@@ -7,10 +7,10 @@
 | IP | `211.247.127.250` |
 | Country | South Korea (KR) |
 | ASN | AS9756 · SK Broadband Co Ltd |
-| Activity | Port scanning (7), Known botnet / C2 infrastructure (6), SSH brute force (3) |
-| Events | 18 |
+| Activity | Port scanning (8), Known botnet / C2 infrastructure (7), SSH brute force (3) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-22T09:29:36Z |
-| Last seen (UTC) | 2026-11-25T02:01:03Z |
+| Last seen (UTC) | 2026-11-25T08:11:55Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS51167 · Contabo GmbH
 
-🇩🇪 Germany · **11** malicious IP(s)
+🇩🇪 Germany · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -12,6 +12,7 @@
 | [`178.18.248.162`](178.18.248.162/) | Abusive HTTP requests (150) | 150 | 2026-11-11T11:55:06Z |
 | [`185.197.194.139`](185.197.194.139/) | Port scanning (33) | 43 | 2026-11-22T21:55:53Z |
 | [`185.245.183.198`](185.245.183.198/) | Port scanning (20), Known botnet / C2 infrastructure (1) | 27 | 2026-11-22T23:10:05Z |
+| [`194.163.136.29`](194.163.136.29/) | Abusive HTTP requests (142) | 142 | 2026-11-25T05:50:49Z |
 | [`213.136.68.185`](213.136.68.185/) | Port scanning (11), Known botnet / C2 infrastructure (1) | 15 | 2026-11-16T02:01:29Z |
 | [`2a02:c207:2319:3820::1`](2a02_c207_2319_3820__1/) | Web injection payload blocked by WAF (8), Abusive HTTP requests (3) | 11 | 2026-11-10T06:46:42Z |
 | [`2a02:c207:2356:9413::1`](2a02_c207_2356_9413__1/) | Abusive HTTP requests (20) | 20 | 2026-11-23T09:18:54Z |

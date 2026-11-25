@@ -9,8 +9,8 @@
 | [`85.155.14.60`](85.155.14.60/) | Abusive HTTP requests (38), Spamhaus DROP-listed network (1) | 39 | 2026-11-24T04:19:58Z |
 | [`85.155.15.10`](85.155.15.10/) | Port scanning (125) | 153 | 2026-11-25T06:39:13Z |
 | [`85.155.15.33`](85.155.15.33/) | Port scanning (16) | 30 | 2026-11-19T06:19:28Z |
-| [`85.155.15.103`](85.155.15.103/) | Port scanning (73), Known botnet / C2 infrastructure (23) | 97 | 2026-11-25T06:01:01Z |
-| [`85.155.15.106`](85.155.15.106/) | Port scanning (315) | 347 | 2026-11-25T06:56:19Z |
+| [`85.155.15.103`](85.155.15.103/) | Port scanning (76), Known botnet / C2 infrastructure (23) | 100 | 2026-11-25T08:12:08Z |
+| [`85.155.15.106`](85.155.15.106/) | Port scanning (317) | 349 | 2026-11-25T08:14:38Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
