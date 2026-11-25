@@ -5,11 +5,11 @@
   "asn": 3269,
   "asn_org": "Telecom Italia S.p.A.",
   "categories": {
-    "exploit": 6,
-    "scan": 2
+    "exploit": 7,
+    "scan": 3
   },
-  "events": 15,
+  "events": 18,
   "first_seen": "2026-11-14T01:54:58Z",
-  "last_seen": "2026-11-24T03:30:16Z",
+  "last_seen": "2026-11-25T17:21:56Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `159.203.44.105` |
 | Country | Canada (CA) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (56), Known botnet / C2 infrastructure (18) |
-| Events | 79 |
+| Activity | Port scanning (57), Known botnet / C2 infrastructure (18) |
+| Events | 80 |
 | First seen (UTC) | 2026-11-11T09:59:42Z |
-| Last seen (UTC) | 2026-11-25T17:14:45Z |
+| Last seen (UTC) | 2026-11-25T18:05:10Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

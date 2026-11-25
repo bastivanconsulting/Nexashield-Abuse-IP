@@ -1,11 +1,12 @@
 # AS14061 · DigitalOcean, LLC
 
-🇳🇱 The Netherlands · **15** malicious IP(s)
+🇳🇱 The Netherlands · **16** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`64.225.75.246`](64.225.75.246/) | Abusive HTTP requests (12) | 12 | 2026-11-18T17:22:09Z |
 | [`68.183.9.16`](68.183.9.16/) | Abusive HTTP requests (6) | 6 | 2026-11-11T20:08:57Z |
+| [`104.248.84.169`](104.248.84.169/) | Port scanning (20) | 30 | 2026-11-25T17:25:31Z |
 | [`134.209.85.233`](134.209.85.233/) | Abusive HTTP requests (24) | 24 | 2026-11-14T22:42:51Z |
 | [`142.93.135.91`](142.93.135.91/) | Port scanning (12), Known botnet / C2 infrastructure (8) | 22 | 2026-11-24T17:32:13Z |
 | [`142.93.143.8`](142.93.143.8/) | Abusive HTTP requests (6) | 6 | 2026-11-11T14:20:31Z |
@@ -17,7 +18,7 @@
 | [`178.62.206.70`](178.62.206.70/) | Port scanning (13), Known botnet / C2 infrastructure (10) | 24 | 2026-11-25T02:17:49Z |
 | [`188.166.17.196`](188.166.17.196/) | Port scanning (18) | 24 | 2026-11-20T13:24:48Z |
 | [`188.166.25.133`](188.166.25.133/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-25T15:01:31Z |
-| [`188.166.68.252`](188.166.68.252/) | Port scanning (62), Known botnet / C2 infrastructure (24) | 88 | 2026-11-25T16:32:58Z |
+| [`188.166.68.252`](188.166.68.252/) | Port scanning (63), Known botnet / C2 infrastructure (25) | 90 | 2026-11-25T18:07:13Z |
 | [`209.38.100.95`](209.38.100.95/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T10:45:19Z |
 
 ---

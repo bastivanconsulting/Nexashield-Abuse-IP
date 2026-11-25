@@ -7,10 +7,10 @@
 | IP | `113.193.187.154` |
 | Country | India (IN) |
 | ASN | AS45528 · Tikona Infinet Ltd. |
-| Activity | SSH brute force (7), Known botnet / C2 infrastructure (3) |
-| Events | 12 |
+| Activity | SSH brute force (7), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-20T07:06:10Z |
-| Last seen (UTC) | 2026-11-24T03:07:05Z |
+| Last seen (UTC) | 2026-11-25T18:15:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

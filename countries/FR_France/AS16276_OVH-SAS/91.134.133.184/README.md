@@ -7,10 +7,10 @@
 | IP | `91.134.133.184` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Activity | Port scanning (3), Known botnet / C2 infrastructure (3) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-15T06:24:08Z |
-| Last seen (UTC) | 2026-11-16T01:43:40Z |
+| Last seen (UTC) | 2026-11-25T17:20:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

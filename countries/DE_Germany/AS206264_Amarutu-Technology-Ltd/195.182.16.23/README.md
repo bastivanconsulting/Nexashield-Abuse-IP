@@ -7,10 +7,10 @@
 | IP | `195.182.16.23` |
 | Country | Germany (DE) |
 | ASN | AS206264 · Amarutu Technology Ltd |
-| Activity | Port scanning (618), Abusive HTTP requests (79), Known botnet / C2 infrastructure (44) |
-| Events | 801 |
+| Activity | Port scanning (620), Abusive HTTP requests (79), Known botnet / C2 infrastructure (45) |
+| Events | 804 |
 | First seen (UTC) | 2026-11-11T10:09:48Z |
-| Last seen (UTC) | 2026-11-25T16:58:37Z |
+| Last seen (UTC) | 2026-11-25T18:13:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

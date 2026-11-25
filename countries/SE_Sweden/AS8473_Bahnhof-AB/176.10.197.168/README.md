@@ -7,10 +7,10 @@
 | IP | `176.10.197.168` |
 | Country | Sweden (SE) |
 | ASN | AS8473 · Bahnhof AB |
-| Activity | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (2) |
-| Events | 13 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-19T10:00:53Z |
-| Last seen (UTC) | 2026-11-25T15:58:46Z |
+| Last seen (UTC) | 2026-11-25T17:43:23Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
