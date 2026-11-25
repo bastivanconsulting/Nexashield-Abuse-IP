@@ -1,0 +1,15 @@
+{
+  "ip": "66.116.253.243",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 31898,
+  "asn_org": "Oracle Corporation",
+  "categories": {
+    "scan": 4,
+    "c2": 3
+  },
+  "events": 8,
+  "first_seen": "2026-11-14T16:21:46Z",
+  "last_seen": "2026-11-25T11:03:05Z",
+  "reported": "not reported (permanent ban)"
+}

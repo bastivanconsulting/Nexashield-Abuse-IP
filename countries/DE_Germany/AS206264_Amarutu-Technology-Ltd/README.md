@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`195.182.16.23`](195.182.16.23/) | Port scanning (610), Abusive HTTP requests (79), Known botnet / C2 infrastructure (43) | 792 | 2026-11-25T09:05:10Z |
+| [`195.182.16.23`](195.182.16.23/) | Port scanning (612), Abusive HTTP requests (79), Known botnet / C2 infrastructure (43) | 794 | 2026-11-25T10:57:03Z |
 | [`195.182.16.183`](195.182.16.183/) | Port scanning (104) | 104 | 2026-11-24T02:21:19Z |
 
 ---

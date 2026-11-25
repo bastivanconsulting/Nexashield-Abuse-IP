@@ -7,10 +7,10 @@
 | IP | `94.231.206.132` |
 | Country | China (CN) |
 | ASN | AS213412 · ONYPHE SAS |
-| Activity | Port scanning (55), Known botnet / C2 infrastructure (46) |
-| Events | 102 |
+| Activity | Port scanning (56), Known botnet / C2 infrastructure (47) |
+| Events | 104 |
 | First seen (UTC) | 2026-11-11T11:09:26Z |
-| Last seen (UTC) | 2026-11-25T04:52:08Z |
+| Last seen (UTC) | 2026-11-25T11:10:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

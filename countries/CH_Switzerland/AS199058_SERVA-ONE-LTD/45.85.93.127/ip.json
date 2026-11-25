@@ -5,11 +5,11 @@
   "asn": 199058,
   "asn_org": "SERVA ONE LTD",
   "categories": {
-    "scan": 46,
-    "c2": 3
+    "scan": 47,
+    "c2": 4
   },
-  "events": 53,
+  "events": 55,
   "first_seen": "2026-11-11T10:21:39Z",
-  "last_seen": "2026-11-25T08:03:46Z",
+  "last_seen": "2026-11-25T10:56:01Z",
   "reported": "not reported (permanent ban)"
 }

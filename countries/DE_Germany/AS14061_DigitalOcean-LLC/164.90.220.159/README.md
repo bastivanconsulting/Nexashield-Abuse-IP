@@ -7,10 +7,10 @@
 | IP | `164.90.220.159` |
 | Country | Germany (DE) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (70) |
-| Events | 78 |
+| Activity | Port scanning (72) |
+| Events | 81 |
 | First seen (UTC) | 2026-11-24T03:24:47Z |
-| Last seen (UTC) | 2026-11-25T09:27:03Z |
+| Last seen (UTC) | 2026-11-25T11:13:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,0 +1,14 @@
+{
+  "ip": "192.161.48.139",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 36352,
+  "asn_org": "HostPapa",
+  "categories": {
+    "exploit": 3
+  },
+  "events": 5,
+  "first_seen": "2026-11-25T10:46:08Z",
+  "last_seen": "2026-11-25T10:47:05Z",
+  "reported": "not reported (permanent ban)"
+}

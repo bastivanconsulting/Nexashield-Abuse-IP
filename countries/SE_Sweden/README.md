@@ -15,7 +15,7 @@
 | [AS16509](AS16509_Amazon-com-Inc/) | Amazon.com, Inc. | 1 | Abusive HTTP requests (117), Web injection payload blocked by WAF (26) |
 | [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Abusive HTTP requests (3) |
 | [AS212238](AS212238_Datacamp-Limited/) | Datacamp Limited | 1 | Known botnet / C2 infrastructure (3) |
-| [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (54) |
+| [AS33837](AS33837_Fredrik-Holmqvist/) | Fredrik Holmqvist | 1 | Port scanning (55) |
 | [AS33885](AS33885_Telenor-Sverige-AB/) | Telenor Sverige AB | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) |
 | [AS3399](AS3399_Obenetwork-AB/) | Obenetwork AB | 1 | Known botnet / C2 infrastructure (6), SSH brute force (4), Port scanning (3) |
 

@@ -6,11 +6,11 @@
   "asn_org": "Fusionnet Web Services Limited",
   "categories": {
     "ssh": 1,
-    "c2": 3,
-    "scan": 2
+    "c2": 4,
+    "scan": 4
   },
-  "events": 7,
+  "events": 10,
   "first_seen": "2026-11-15T05:36:35Z",
-  "last_seen": "2026-11-23T18:36:05Z",
+  "last_seen": "2026-11-25T10:57:03Z",
   "reported": "not reported (permanent ban)"
 }

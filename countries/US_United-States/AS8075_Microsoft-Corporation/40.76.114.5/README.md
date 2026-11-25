@@ -8,9 +8,9 @@
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
 | Activity | Port scanning (19) |
-| Events | 32 |
+| Events | 34 |
 | First seen (UTC) | 2026-11-14T04:37:26Z |
-| Last seen (UTC) | 2026-11-25T03:54:03Z |
+| Last seen (UTC) | 2026-11-25T10:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

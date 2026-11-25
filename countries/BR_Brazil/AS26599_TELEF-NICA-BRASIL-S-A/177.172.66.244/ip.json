@@ -5,11 +5,11 @@
   "asn": 26599,
   "asn_org": "TELEF\u00d4NICA BRASIL S.A",
   "categories": {
-    "scan": 299,
+    "scan": 302,
     "c2": 13
   },
-  "events": 338,
+  "events": 341,
   "first_seen": "2026-11-19T05:58:34Z",
-  "last_seen": "2026-11-25T09:42:48Z",
+  "last_seen": "2026-11-25T11:05:03Z",
   "reported": "not reported (permanent ban)"
 }

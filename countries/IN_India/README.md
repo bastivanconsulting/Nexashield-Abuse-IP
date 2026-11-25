@@ -1,6 +1,6 @@
 # 🇮🇳 India
 
-**81** malicious IP(s) across **31** network(s).
+**82** malicious IP(s) across **32** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -15,8 +15,8 @@
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (2) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 2 | SSH brute force (21), Known botnet / C2 infrastructure (3), Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
-| [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
+| [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | SSH brute force (4), Known botnet / C2 infrastructure (4), Port scanning (2) |
+| [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Known botnet / C2 infrastructure (4), Port scanning (4), SSH brute force (1) |
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (7), SSH brute force (4) |
 | [AS136323](AS136323_Ngc-Broadband-Pvt-Ltd/) | Ngc Broadband Pvt. Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (4), SSH brute force (2) |
 | [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (11), Known botnet / C2 infrastructure (8), SSH brute force (2) |
@@ -30,6 +30,7 @@
 | [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Known botnet / C2 infrastructure (5), Port scanning (5), SSH brute force (1) |
 | [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (4) |
 | [AS18002](AS18002_World-Phone-Internet-Services-Pvt-Ltd/) | World Phone Internet Services Pvt. Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
+| [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS45528](AS45528_Tikona-Infinet-Ltd/) | Tikona Infinet Ltd. | 1 | SSH brute force (7), Known botnet / C2 infrastructure (3) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |

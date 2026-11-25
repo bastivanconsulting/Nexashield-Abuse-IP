@@ -7,10 +7,10 @@
 | IP | `103.29.69.181` |
 | Country | Japan (JP) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (7) |
-| Events | 38 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (8) |
+| Events | 40 |
 | First seen (UTC) | 2026-11-11T18:22:06Z |
-| Last seen (UTC) | 2026-11-25T04:33:20Z |
+| Last seen (UTC) | 2026-11-25T10:40:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `139.59.104.3` |
 | Country | Singapore (SG) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (37) |
-| Events | 53 |
+| Activity | Port scanning (41) |
+| Events | 59 |
 | First seen (UTC) | 2026-11-11T15:38:22Z |
-| Last seen (UTC) | 2026-11-25T04:24:40Z |
+| Last seen (UTC) | 2026-11-25T10:52:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
