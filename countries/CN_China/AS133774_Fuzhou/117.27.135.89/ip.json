@@ -5,11 +5,11 @@
   "asn": 133774,
   "asn_org": "Fuzhou",
   "categories": {
-    "scan": 5,
-    "c2": 3
+    "scan": 6,
+    "c2": 4
   },
-  "events": 11,
+  "events": 13,
   "first_seen": "2026-11-11T20:37:32Z",
-  "last_seen": "2026-11-23T15:33:04Z",
+  "last_seen": "2026-11-25T15:43:45Z",
   "reported": "not reported (permanent ban)"
 }

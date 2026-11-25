@@ -1,0 +1,15 @@
+{
+  "ip": "81.244.240.64",
+  "country_code": "BE",
+  "country": "Belgium",
+  "asn": 5432,
+  "asn_org": "Proximus NV",
+  "categories": {
+    "ssh": 8,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-18T08:08:28Z",
+  "last_seen": "2026-11-25T16:17:19Z",
+  "reported": "not reported (permanent ban)"
+}

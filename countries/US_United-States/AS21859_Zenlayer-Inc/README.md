@@ -1,6 +1,6 @@
 # AS21859 · Zenlayer Inc
 
-🇺🇸 United States · **117** malicious IP(s)
+🇺🇸 United States · **118** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -49,7 +49,7 @@
 | [`109.105.210.18`](109.105.210.18/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-21T17:50:04Z |
 | [`109.105.210.20`](109.105.210.20/) | Port scanning (3), Known botnet / C2 infrastructure (1) | 6 | 2026-11-15T16:04:11Z |
 | [`109.105.210.22`](109.105.210.22/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T17:51:35Z |
-| [`109.105.210.25`](109.105.210.25/) | Port scanning (6), Known botnet / C2 infrastructure (2) | 11 | 2026-11-23T17:01:51Z |
+| [`109.105.210.25`](109.105.210.25/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-25T15:47:19Z |
 | [`109.105.210.33`](109.105.210.33/) | Port scanning (6), Known botnet / C2 infrastructure (1) | 11 | 2026-11-23T19:18:05Z |
 | [`109.105.210.35`](109.105.210.35/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-23T16:10:22Z |
 | [`109.105.210.37`](109.105.210.37/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T16:32:49Z |
@@ -107,6 +107,7 @@
 | [`185.180.141.49`](185.180.141.49/) | Port scanning (15), Known botnet / C2 infrastructure (11) | 27 | 2026-11-25T07:05:16Z |
 | [`185.180.141.52`](185.180.141.52/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-23T06:04:42Z |
 | [`185.180.141.59`](185.180.141.59/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-23T15:39:18Z |
+| [`185.180.141.60`](185.180.141.60/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 4 | 2026-11-15T16:49:57Z |
 | [`185.180.141.67`](185.180.141.67/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T18:52:29Z |
 | [`185.180.141.68`](185.180.141.68/) | Port scanning (9), Known botnet / C2 infrastructure (9) | 19 | 2026-11-24T12:17:15Z |
 | [`185.180.141.69`](185.180.141.69/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-15T16:03:41Z |

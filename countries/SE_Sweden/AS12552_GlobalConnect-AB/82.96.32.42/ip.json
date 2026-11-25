@@ -6,11 +6,11 @@
   "asn_org": "GlobalConnect AB",
   "categories": {
     "ssh": 7,
-    "c2": 5,
-    "scan": 2
+    "c2": 6,
+    "scan": 3
   },
-  "events": 16,
+  "events": 18,
   "first_seen": "2026-11-19T23:03:33Z",
-  "last_seen": "2026-11-23T15:30:08Z",
+  "last_seen": "2026-11-25T15:39:41Z",
   "reported": "not reported (permanent ban)"
 }

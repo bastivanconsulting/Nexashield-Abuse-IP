@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS199457 · SolidCore Hosting LTD |
 | Activity | Port scanning (26) |
-| Events | 26 |
+| Events | 27 |
 | First seen (UTC) | 2026-11-21T18:59:42Z |
-| Last seen (UTC) | 2026-11-25T14:52:53Z |
+| Last seen (UTC) | 2026-11-25T15:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -66,7 +66,7 @@
 | [`45.156.128.158`](45.156.128.158/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 15 | 2026-11-22T21:45:35Z |
 | [`45.156.128.159`](45.156.128.159/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-21T01:01:00Z |
 | [`45.156.128.160`](45.156.128.160/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 13 | 2026-11-23T16:53:31Z |
-| [`45.156.128.162`](45.156.128.162/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-23T15:45:56Z |
+| [`45.156.128.162`](45.156.128.162/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-25T15:47:49Z |
 | [`45.156.128.164`](45.156.128.164/) | Port scanning (12), Known botnet / C2 infrastructure (10) | 23 | 2026-11-24T13:26:02Z |
 | [`45.156.128.165`](45.156.128.165/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-24T11:11:28Z |
 | [`45.156.128.166`](45.156.128.166/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-21T01:32:02Z |
@@ -82,7 +82,7 @@
 | [`45.156.128.177`](45.156.128.177/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-23T13:33:00Z |
 | [`45.156.128.178`](45.156.128.178/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-22T11:00:22Z |
 | [`45.156.128.179`](45.156.128.179/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-18T05:43:40Z |
-| [`45.156.128.181`](45.156.128.181/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 8 | 2026-11-23T22:18:36Z |
+| [`45.156.128.181`](45.156.128.181/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 10 | 2026-11-25T16:14:17Z |
 | [`45.156.128.187`](45.156.128.187/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-23T22:18:36Z |
 | [`45.156.128.188`](45.156.128.188/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-23T16:58:05Z |
 | [`45.156.128.197`](45.156.128.197/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-15T16:53:03Z |

@@ -6,11 +6,11 @@
   "asn_org": "China Unicom IP network China169 Guangdong province",
   "categories": {
     "ssh": 1,
-    "c2": 5,
-    "scan": 7
+    "c2": 6,
+    "scan": 8
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-17T09:55:30Z",
-  "last_seen": "2026-11-25T06:25:23Z",
+  "last_seen": "2026-11-25T15:46:17Z",
   "reported": "not reported (permanent ban)"
 }

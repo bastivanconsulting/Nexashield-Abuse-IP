@@ -1,0 +1,15 @@
+{
+  "ip": "109.225.84.48",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 29518,
+  "asn_org": "Bredband2 AB",
+  "categories": {
+    "web": 2,
+    "exploit": 4
+  },
+  "events": 6,
+  "first_seen": "2026-11-25T15:10:52Z",
+  "last_seen": "2026-11-25T15:10:52Z",
+  "reported": "2026-11-25T16:29:37Z"
+}

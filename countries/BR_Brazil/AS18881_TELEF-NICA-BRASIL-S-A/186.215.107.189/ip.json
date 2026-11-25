@@ -6,11 +6,11 @@
   "asn_org": "TELEF\u00d4NICA BRASIL S.A",
   "categories": {
     "ssh": 3,
-    "c2": 8,
-    "scan": 9
+    "c2": 9,
+    "scan": 10
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-14T03:29:07Z",
-  "last_seen": "2026-11-25T06:57:00Z",
+  "last_seen": "2026-11-25T15:21:23Z",
   "reported": "not reported (permanent ban)"
 }

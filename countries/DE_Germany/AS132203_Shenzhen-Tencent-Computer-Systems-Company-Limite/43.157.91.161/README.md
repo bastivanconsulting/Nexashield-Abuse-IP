@@ -7,10 +7,10 @@
 | IP | `43.157.91.161` |
 | Country | Germany (DE) |
 | ASN | AS132203 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Port scanning (36) |
-| Events | 73 |
+| Activity | Port scanning (49) |
+| Events | 102 |
 | First seen (UTC) | 2026-11-25T08:43:21Z |
-| Last seen (UTC) | 2026-11-25T15:11:06Z |
+| Last seen (UTC) | 2026-11-25T16:03:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

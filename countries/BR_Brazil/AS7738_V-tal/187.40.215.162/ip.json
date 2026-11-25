@@ -5,12 +5,12 @@
   "asn": 7738,
   "asn_org": "V tal",
   "categories": {
-    "scan": 10,
-    "c2": 6,
+    "scan": 11,
+    "c2": 7,
     "ssh": 4
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-21T09:26:51Z",
-  "last_seen": "2026-11-25T07:55:07Z",
+  "last_seen": "2026-11-25T16:13:15Z",
   "reported": "not reported (permanent ban)"
 }

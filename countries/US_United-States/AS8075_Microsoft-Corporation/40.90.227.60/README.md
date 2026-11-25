@@ -7,10 +7,10 @@
 | IP | `40.90.227.60` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (9), Web injection payload blocked by WAF (1) |
-| Events | 40 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (10), Web injection payload blocked by WAF (1) |
+| Events | 42 |
 | First seen (UTC) | 2026-11-12T22:45:15Z |
-| Last seen (UTC) | 2026-11-25T04:50:36Z |
+| Last seen (UTC) | 2026-11-25T16:15:48Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

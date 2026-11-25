@@ -6,11 +6,11 @@
   "asn_org": "Comcast Cable Communications, LLC",
   "categories": {
     "ssh": 4,
-    "c2": 9,
-    "scan": 7
+    "c2": 10,
+    "scan": 8
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-14T20:20:20Z",
-  "last_seen": "2026-11-25T06:01:57Z",
+  "last_seen": "2026-11-25T15:46:47Z",
   "reported": "not reported (permanent ban)"
 }

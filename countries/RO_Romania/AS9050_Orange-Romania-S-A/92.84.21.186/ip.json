@@ -1,0 +1,15 @@
+{
+  "ip": "92.84.21.186",
+  "country_code": "RO",
+  "country": "Romania",
+  "asn": 9050,
+  "asn_org": "Orange Romania S.A.",
+  "categories": {
+    "scan": 2,
+    "c2": 2
+  },
+  "events": 4,
+  "first_seen": "2026-11-22T06:59:27Z",
+  "last_seen": "2026-11-22T15:40:51Z",
+  "reported": "not reported (permanent ban)"
+}

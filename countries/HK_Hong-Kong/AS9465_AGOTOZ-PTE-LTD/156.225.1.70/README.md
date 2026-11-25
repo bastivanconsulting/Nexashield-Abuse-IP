@@ -7,10 +7,10 @@
 | IP | `156.225.1.70` |
 | Country | Hong Kong (HK) |
 | ASN | AS9465 · AGOTOZ PTE. LTD. |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (14) |
-| Events | 37 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (15) |
+| Events | 39 |
 | First seen (UTC) | 2026-11-11T23:15:38Z |
-| Last seen (UTC) | 2026-11-25T10:38:53Z |
+| Last seen (UTC) | 2026-11-25T15:37:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
