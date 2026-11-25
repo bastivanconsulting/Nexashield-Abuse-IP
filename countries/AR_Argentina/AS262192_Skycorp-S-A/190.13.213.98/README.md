@@ -7,8 +7,8 @@
 | IP | `190.13.213.98` |
 | Country | Argentina (AR) |
 | ASN | AS262192 · Skycorp S.A. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-24T01:00:27Z |
 | Last seen (UTC) | 2026-11-24T01:00:27Z |
 | Reported to network owner (UTC) | 2026-11-24T02:27:24Z |

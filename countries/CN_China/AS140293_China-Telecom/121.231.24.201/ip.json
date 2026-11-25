@@ -5,9 +5,9 @@
   "asn": 140293,
   "asn_org": "China Telecom",
   "categories": {
-    "exploit": 4
+    "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-24T03:11:08Z",
   "last_seen": "2026-11-24T03:11:08Z",
   "reported": "2026-11-24T04:27:50Z"

@@ -7,8 +7,8 @@
 | IP | `2a03:b0c0:1:e0:0:1:fbcb:f001` |
 | Country | United Kingdom (GB) |
 | ASN | AS? · Unknown |
-| Activity | Web injection payload blocked by WAF (4) |
-| Events | 4 |
+| Activity | Web injection payload blocked by WAF (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-24T03:36:22Z |
 | Last seen (UTC) | 2026-11-24T03:36:24Z |
 | Reported to network owner (UTC) | 2026-11-24T04:27:45Z |

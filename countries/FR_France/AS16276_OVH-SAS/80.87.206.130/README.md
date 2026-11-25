@@ -7,8 +7,8 @@
 | IP | `80.87.206.130` |
 | Country | France (FR) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Abusive HTTP requests (6) |
-| Events | 6 |
+| Activity | Abusive HTTP requests (4) |
+| Events | 4 |
 | First seen (UTC) | 2026-11-10T21:03:11Z |
 | Last seen (UTC) | 2026-11-24T17:31:28Z |
 | Reported to network owner (UTC) | 2026-11-24T20:30:05Z |

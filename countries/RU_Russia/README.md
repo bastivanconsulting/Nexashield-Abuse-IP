@@ -1,6 +1,6 @@
 # 🇷🇺 Russia
 
-**60** malicious IP(s) across **35** network(s).
+**61** malicious IP(s) across **36** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -23,17 +23,18 @@
 | [AS29069](AS29069_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | Known botnet / C2 infrastructure (6), Port scanning (5), SSH brute force (4) |
 | [AS31363](AS31363_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (4) |
 | [AS31483](AS31483_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (1) |
+| [AS3216](AS3216_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
 | [AS35816](AS35816_Lancom-Ltd/) | Lancom Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (2) |
 | [AS39001](AS39001_MTS-PJSC/) | MTS PJSC | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS39264](AS39264_Region-Svyaz-Konsalt-LLC/) | "Region Svyaz Konsalt" LLC | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (4) |
 | [AS39927](AS39927_E-Light-Telecom-Ltd/) | E-Light-Telecom Ltd. | 1 | UDP exploit signature (2) |
-| [AS42116](AS42116_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | SSH brute force (6), Port scanning (6), Known botnet / C2 infrastructure (5) |
+| [AS42116](AS42116_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Port scanning (7), SSH brute force (6), Known botnet / C2 infrastructure (6) |
 | [AS43132](AS43132_PJSC-Rostelecom/) | PJSC Rostelecom | 1 | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (3) |
 | [AS48282](AS48282_Hosting-technology-LTD/) | Hosting technology LTD | 1 | Port scanning (6) |
 | [AS48524](AS48524_INTERRA-telecommunications-group-Ltd/) | INTERRA telecommunications group, Ltd. | 1 | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
 | [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (470), Known botnet / C2 infrastructure (44), Exploitation attempt (CVE / RCE / injection) (14) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (471), Known botnet / C2 infrastructure (44), Exploitation attempt (CVE / RCE / injection) (14) |
 | [AS51369](AS51369_LLC-TRC-FIORD/) | LLC "TRC FIORD" | 1 | SSH brute force (8), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8359](AS8359_MTS-PJSC/) | MTS PJSC | 1 | Port scanning (5), Known botnet / C2 infrastructure (3) |

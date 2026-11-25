@@ -1,10 +1,11 @@
 # AS42237 · w1n ltd
 
-🇸🇪 Sweden · **2** malicious IP(s)
+🇸🇪 Sweden · **3** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`185.217.1.243`](185.217.1.243/) | Port scanning (16) | 23 | 2026-11-18T11:26:43Z |
+| [`185.217.1.246`](185.217.1.246/) | SSH brute force (1), Known botnet / C2 infrastructure (1) | 1 | 2026-11-25T00:23:22Z |
 | [`185.246.128.25`](185.246.128.25/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-18T00:52:04Z |
 
 ---

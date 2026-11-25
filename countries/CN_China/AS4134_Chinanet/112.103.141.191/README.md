@@ -7,8 +7,8 @@
 | IP | `112.103.141.191` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-24T05:51:13Z |
 | Last seen (UTC) | 2026-11-24T05:51:13Z |
 | Reported to network owner (UTC) | 2026-11-24T06:26:58Z |

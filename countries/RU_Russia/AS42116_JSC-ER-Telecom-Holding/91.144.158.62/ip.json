@@ -6,11 +6,11 @@
   "asn_org": "JSC \"ER-Telecom Holding\"",
   "categories": {
     "ssh": 6,
-    "c2": 5,
-    "scan": 6
+    "c2": 6,
+    "scan": 7
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-19T16:51:00Z",
-  "last_seen": "2026-11-24T14:10:39Z",
+  "last_seen": "2026-11-25T00:15:05Z",
   "reported": "not reported (permanent ban)"
 }

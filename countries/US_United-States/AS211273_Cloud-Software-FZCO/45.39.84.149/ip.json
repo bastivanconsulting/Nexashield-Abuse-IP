@@ -5,9 +5,9 @@
   "asn": 211273,
   "asn_org": "Cloud Software - FZCO",
   "categories": {
-    "ssh": 38
+    "ssh": 19
   },
-  "events": 38,
+  "events": 19,
   "first_seen": "2026-11-24T07:34:37Z",
   "last_seen": "2026-11-24T09:47:20Z",
   "reported": "2026-11-24T10:28:12Z"

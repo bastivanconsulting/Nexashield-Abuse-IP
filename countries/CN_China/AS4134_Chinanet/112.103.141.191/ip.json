@@ -5,9 +5,9 @@
   "asn": 4134,
   "asn_org": "Chinanet",
   "categories": {
-    "exploit": 4
+    "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-24T05:51:13Z",
   "last_seen": "2026-11-24T05:51:13Z",
   "reported": "2026-11-24T06:26:58Z"

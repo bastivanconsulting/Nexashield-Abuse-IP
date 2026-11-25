@@ -1,0 +1,15 @@
+{
+  "ip": "185.217.1.246",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 42237,
+  "asn_org": "w1n ltd",
+  "categories": {
+    "ssh": 1,
+    "c2": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-25T00:23:22Z",
+  "last_seen": "2026-11-25T00:23:22Z",
+  "reported": "not reported (permanent ban)"
+}

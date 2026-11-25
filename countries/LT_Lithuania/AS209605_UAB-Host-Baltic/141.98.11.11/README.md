@@ -7,10 +7,10 @@
 | IP | `141.98.11.11` |
 | Country | Lithuania (LT) |
 | ASN | AS209605 · UAB Host Baltic |
-| Activity | Spamhaus DROP-listed network (24), SSH brute force (10), Port scanning (2) |
-| Events | 36 |
+| Activity | SSH brute force (25), Spamhaus DROP-listed network (14), Port scanning (1) |
+| Events | 40 |
 | First seen (UTC) | 2026-11-24T14:01:04Z |
-| Last seen (UTC) | 2026-11-24T21:55:01Z |
+| Last seen (UTC) | 2026-11-25T00:32:02Z |
 | Reported to network owner (UTC) | 2026-11-24T22:28:16Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

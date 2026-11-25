@@ -5,10 +5,10 @@
   "asn": 135450,
   "asn_org": "PT Berkah Solusi Teknologi Informasi",
   "categories": {
-    "scan": 2,
-    "web": 8
+    "scan": 1,
+    "web": 4
   },
-  "events": 10,
+  "events": 5,
   "first_seen": "2026-11-24T13:17:11Z",
   "last_seen": "2026-11-24T13:17:13Z",
   "reported": "2026-11-24T14:28:45Z"

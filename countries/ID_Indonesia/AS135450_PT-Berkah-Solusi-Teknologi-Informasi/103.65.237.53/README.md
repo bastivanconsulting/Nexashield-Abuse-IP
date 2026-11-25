@@ -7,8 +7,8 @@
 | IP | `103.65.237.53` |
 | Country | Indonesia (ID) |
 | ASN | AS135450 · PT Berkah Solusi Teknologi Informasi |
-| Activity | Abusive HTTP requests (8), Port scanning (2) |
-| Events | 10 |
+| Activity | Abusive HTTP requests (4), Port scanning (1) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-24T13:17:11Z |
 | Last seen (UTC) | 2026-11-24T13:17:13Z |
 | Reported to network owner (UTC) | 2026-11-24T14:28:45Z |

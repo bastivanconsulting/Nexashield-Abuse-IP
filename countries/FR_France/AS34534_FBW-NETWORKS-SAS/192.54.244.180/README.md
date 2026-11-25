@@ -7,8 +7,8 @@
 | IP | `192.54.244.180` |
 | Country | France (FR) |
 | ASN | AS34534 · FBW NETWORKS SAS |
-| Activity | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 6 |
+| Activity | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-24T21:15:55Z |
 | Last seen (UTC) | 2026-11-24T21:16:31Z |
 | Reported to network owner (UTC) | 2026-11-24T22:28:11Z |

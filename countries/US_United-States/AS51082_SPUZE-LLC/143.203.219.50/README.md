@@ -7,8 +7,8 @@
 | IP | `143.203.219.50` |
 | Country | United States (US) |
 | ASN | AS51082 · SPUZE LLC |
-| Activity | Known botnet / C2 infrastructure (9) |
-| Events | 9 |
+| Activity | Known botnet / C2 infrastructure (5) |
+| Events | 5 |
 | First seen (UTC) | 2026-11-22T23:15:15Z |
 | Last seen (UTC) | 2026-11-24T09:08:58Z |
 | Reported to network owner (UTC) | 2026-11-23T00:27:22Z |

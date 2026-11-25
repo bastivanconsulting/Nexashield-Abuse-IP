@@ -1,0 +1,15 @@
+{
+  "ip": "110.172.147.190",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 18002,
+  "asn_org": "World Phone Internet Services Pvt. Ltd.",
+  "categories": {
+    "ssh": 4,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-22T11:40:10Z",
+  "last_seen": "2026-11-23T20:27:06Z",
+  "reported": "not reported (permanent ban)"
+}

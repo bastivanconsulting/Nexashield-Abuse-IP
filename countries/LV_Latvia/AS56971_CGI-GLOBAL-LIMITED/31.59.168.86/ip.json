@@ -5,10 +5,10 @@
   "asn": 56971,
   "asn_org": "CGI GLOBAL LIMITED",
   "categories": {
-    "ssh": 26,
-    "scan": 3
+    "ssh": 15,
+    "scan": 2
   },
-  "events": 29,
+  "events": 17,
   "first_seen": "2026-11-23T22:42:22Z",
   "last_seen": "2026-11-24T17:21:59Z",
   "reported": "2026-11-24T14:28:41Z"

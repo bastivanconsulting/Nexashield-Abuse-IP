@@ -7,8 +7,8 @@
 | IP | `46.173.148.70` |
 | Country | Ukraine (UA) |
 | ASN | AS34743 · NASHNET LTD |
-| Activity | Known botnet / C2 infrastructure (2) |
-| Events | 2 |
+| Activity | Known botnet / C2 infrastructure (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-24T19:02:23Z |
 | Last seen (UTC) | 2026-11-24T19:02:23Z |
 | Reported to network owner (UTC) | 2026-11-24T20:29:56Z |

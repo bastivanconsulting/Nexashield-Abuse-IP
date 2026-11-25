@@ -5,9 +5,9 @@
   "asn": 8560,
   "asn_org": "IONOS SE",
   "categories": {
-    "c2": 2
+    "c2": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-24T03:42:43Z",
   "last_seen": "2026-11-24T03:42:43Z",
   "reported": "2026-11-24T04:27:54Z"

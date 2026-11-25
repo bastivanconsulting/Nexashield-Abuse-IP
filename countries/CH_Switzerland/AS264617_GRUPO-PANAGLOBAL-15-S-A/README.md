@@ -1,9 +1,10 @@
 # AS264617 · GRUPO PANAGLOBAL 15 S.A
 
-🇨🇭 Switzerland · **1** malicious IP(s)
+🇨🇭 Switzerland · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`170.231.237.214`](170.231.237.214/) | Port scanning (35), Abusive HTTP requests (4), Known botnet / C2 infrastructure (2) | 41 | 2026-11-24T05:11:23Z |
 | [`185.191.236.38`](185.191.236.38/) | Port scanning (29), Known botnet / C2 infrastructure (7), Abusive HTTP requests (4) | 41 | 2026-11-24T05:20:56Z |
 
 ---

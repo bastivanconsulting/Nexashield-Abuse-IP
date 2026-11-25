@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇺🇸 United States · **156** malicious IP(s)
+🇺🇸 United States · **157** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -69,6 +69,7 @@
 | [`47.251.46.207`](47.251.46.207/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-24T10:46:30Z |
 | [`47.251.48.41`](47.251.48.41/) | Port scanning (19), Known botnet / C2 infrastructure (12) | 32 | 2026-11-24T14:38:55Z |
 | [`47.251.52.64`](47.251.52.64/) | Port scanning (8), Known botnet / C2 infrastructure (7) | 16 | 2026-11-23T21:22:06Z |
+| [`47.251.55.11`](47.251.55.11/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-22T09:30:43Z |
 | [`47.251.59.83`](47.251.59.83/) | Port scanning (10), Known botnet / C2 infrastructure (9) | 20 | 2026-11-22T14:34:41Z |
 | [`47.251.66.209`](47.251.66.209/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 13 | 2026-11-24T22:13:05Z |
 | [`47.251.68.32`](47.251.68.32/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-18T02:37:09Z |
@@ -91,7 +92,7 @@
 | [`47.251.91.253`](47.251.91.253/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 15 | 2026-11-23T10:20:15Z |
 | [`47.251.93.165`](47.251.93.165/) | Port scanning (13), Known botnet / C2 infrastructure (10) | 24 | 2026-11-23T07:07:02Z |
 | [`47.251.96.9`](47.251.96.9/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-24T21:00:09Z |
-| [`47.251.101.89`](47.251.101.89/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-24T13:32:40Z |
+| [`47.251.101.89`](47.251.101.89/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-25T00:07:27Z |
 | [`47.251.101.198`](47.251.101.198/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-24T18:29:24Z |
 | [`47.251.101.253`](47.251.101.253/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T15:05:55Z |
 | [`47.251.107.146`](47.251.107.146/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 13 | 2026-11-23T00:17:04Z |

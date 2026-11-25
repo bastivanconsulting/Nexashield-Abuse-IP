@@ -10,7 +10,7 @@
 | Activity | Abusive HTTP requests (75), Spamhaus DROP-listed network (43) |
 | Events | 118 |
 | First seen (UTC) | 2026-11-11T15:36:19Z |
-| Last seen (UTC) | 2026-11-24T16:31:34Z |
+| Last seen (UTC) | 2026-11-25T00:17:07Z |
 | Reported to network owner (UTC) | 2026-11-12T04:23:53Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

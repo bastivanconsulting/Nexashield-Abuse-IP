@@ -7,8 +7,8 @@
 | IP | `45.39.84.149` |
 | Country | United States (US) |
 | ASN | AS211273 · Cloud Software - FZCO |
-| Activity | SSH brute force (38) |
-| Events | 38 |
+| Activity | SSH brute force (19) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-24T07:34:37Z |
 | Last seen (UTC) | 2026-11-24T09:47:20Z |
 | Reported to network owner (UTC) | 2026-11-24T10:28:12Z |

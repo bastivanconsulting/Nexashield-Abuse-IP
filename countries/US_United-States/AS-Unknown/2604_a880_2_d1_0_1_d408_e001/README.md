@@ -7,8 +7,8 @@
 | IP | `2604:a880:2:d1:0:1:d408:e001` |
 | Country | United States (US) |
 | ASN | AS? · Unknown |
-| Activity | Web injection payload blocked by WAF (4) |
-| Events | 4 |
+| Activity | Web injection payload blocked by WAF (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-24T00:30:51Z |
 | Last seen (UTC) | 2026-11-24T00:31:01Z |
 | Reported to network owner (UTC) | 2026-11-24T02:27:19Z |

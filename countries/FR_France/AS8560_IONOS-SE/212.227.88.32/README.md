@@ -7,8 +7,8 @@
 | IP | `212.227.88.32` |
 | Country | France (FR) |
 | ASN | AS8560 · IONOS SE |
-| Activity | Known botnet / C2 infrastructure (2) |
-| Events | 2 |
+| Activity | Known botnet / C2 infrastructure (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-24T03:42:43Z |
 | Last seen (UTC) | 2026-11-24T03:42:43Z |
 | Reported to network owner (UTC) | 2026-11-24T04:27:54Z |

@@ -5,9 +5,9 @@
   "asn": null,
   "asn_org": "Unknown",
   "categories": {
-    "waf": 4
+    "waf": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-24T03:36:22Z",
   "last_seen": "2026-11-24T03:36:24Z",
   "reported": "2026-11-24T04:27:45Z"

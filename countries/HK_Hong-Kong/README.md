@@ -1,14 +1,14 @@
 # 🇭🇰 Hong Kong
 
-**228** malicious IP(s) across **18** network(s).
+**229** malicious IP(s) across **18** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 81 | Port scanning (2294), Known botnet / C2 infrastructure (941), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 81 | Port scanning (2297), Known botnet / C2 infrastructure (942), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
 | [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (232) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 28 | Port scanning (5232), Abusive HTTP requests (1073), Spamhaus DROP-listed network (309), Known botnet / C2 infrastructure (68), Web injection payload blocked by WAF (5) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 29 | Port scanning (5243), Abusive HTTP requests (1174), Spamhaus DROP-listed network (292), Known botnet / C2 infrastructure (68), Web injection payload blocked by WAF (5), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 11 | SSH brute force (183), Known botnet / C2 infrastructure (30), Port scanning (23), Exploitation attempt (CVE / RCE / injection) (4) |
-| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (1152), Known botnet / C2 infrastructure (89) |
+| [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (1156), Known botnet / C2 infrastructure (89) |
 | [AS47154](AS47154_HUSAM-A-H-HIJAZI/) | HUSAM A. H. HIJAZI | 6 | Port scanning (1391), Known botnet / C2 infrastructure (88), Exploitation attempt (CVE / RCE / injection) (24) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 3 | Abusive HTTP requests (639), Web injection payload blocked by WAF (26) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (933), Web injection payload blocked by WAF (42) |

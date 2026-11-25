@@ -7,8 +7,8 @@
 | IP | `121.231.24.201` |
 | Country | China (CN) |
 | ASN | AS140293 · China Telecom |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-24T03:11:08Z |
 | Last seen (UTC) | 2026-11-24T03:11:08Z |
 | Reported to network owner (UTC) | 2026-11-24T04:27:50Z |

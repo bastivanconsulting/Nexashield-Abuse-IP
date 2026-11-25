@@ -5,10 +5,10 @@
   "asn": 34534,
   "asn_org": "FBW NETWORKS SAS",
   "categories": {
-    "exploit": 2,
-    "scan": 4
+    "exploit": 1,
+    "scan": 2
   },
-  "events": 6,
+  "events": 3,
   "first_seen": "2026-11-24T21:15:55Z",
   "last_seen": "2026-11-24T21:16:31Z",
   "reported": "2026-11-24T22:28:11Z"

@@ -5,9 +5,9 @@
   "asn": 262192,
   "asn_org": "Skycorp S.A.",
   "categories": {
-    "exploit": 4
+    "exploit": 2
   },
-  "events": 4,
+  "events": 2,
   "first_seen": "2026-11-24T01:00:27Z",
   "last_seen": "2026-11-24T01:00:27Z",
   "reported": "2026-11-24T02:27:24Z"

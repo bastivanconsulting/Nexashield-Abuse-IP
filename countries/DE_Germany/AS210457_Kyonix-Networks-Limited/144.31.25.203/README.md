@@ -7,8 +7,8 @@
 | IP | `144.31.25.203` |
 | Country | Germany (DE) |
 | ASN | AS210457 · Kyonix Networks Limited |
-| Activity | Abusive HTTP requests (134) |
-| Events | 134 |
+| Activity | Abusive HTTP requests (67) |
+| Events | 67 |
 | First seen (UTC) | 2026-11-24T15:37:28Z |
 | Last seen (UTC) | 2026-11-24T15:37:33Z |
 | Reported to network owner (UTC) | 2026-11-24T16:27:43Z |

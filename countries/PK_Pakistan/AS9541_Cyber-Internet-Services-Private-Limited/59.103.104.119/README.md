@@ -7,8 +7,8 @@
 | IP | `59.103.104.119` |
 | Country | Pakistan (PK) |
 | ASN | AS9541 · Cyber Internet Services (Private) Limited |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4), Port scanning (2) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-24T10:41:42Z |
 | Last seen (UTC) | 2026-11-24T10:41:42Z |
 | Reported to network owner (UTC) | 2026-11-24T12:28:19Z |

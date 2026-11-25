@@ -7,8 +7,8 @@
 | IP | `186.244.247.8` |
 | Country | United States (US) |
 | ASN | AS400619 · AROSSCLOUD INC. |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-24T17:10:52Z |
 | Last seen (UTC) | 2026-11-24T17:10:52Z |
 | Reported to network owner (UTC) | 2026-11-24T18:28:43Z |

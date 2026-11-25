@@ -7,8 +7,8 @@
 | IP | `34.77.76.113` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (320) |
-| Events | 320 |
+| Activity | Abusive HTTP requests (160) |
+| Events | 160 |
 | First seen (UTC) | 2026-11-24T07:05:20Z |
 | Last seen (UTC) | 2026-11-24T07:05:28Z |
 | Reported to network owner (UTC) | 2026-11-24T08:29:36Z |

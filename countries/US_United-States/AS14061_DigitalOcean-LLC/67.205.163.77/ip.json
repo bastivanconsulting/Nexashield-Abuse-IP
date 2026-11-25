@@ -5,9 +5,9 @@
   "asn": 14061,
   "asn_org": "DigitalOcean, LLC",
   "categories": {
-    "ssh": 50
+    "ssh": 34
   },
-  "events": 50,
+  "events": 34,
   "first_seen": "2026-11-23T23:37:07Z",
   "last_seen": "2026-11-24T00:20:09Z",
   "reported": "2026-11-24T00:28:03Z"

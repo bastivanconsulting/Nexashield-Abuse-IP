@@ -1,0 +1,15 @@
+{
+  "ip": "179.0.176.80",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 270564,
+  "asn_org": "MASTER DA WEB DATACENTER LTDA",
+  "categories": {
+    "scan": 5,
+    "c2": 1
+  },
+  "events": 7,
+  "first_seen": "2026-11-24T19:46:56Z",
+  "last_seen": "2026-11-24T22:46:34Z",
+  "reported": "not reported (permanent ban)"
+}

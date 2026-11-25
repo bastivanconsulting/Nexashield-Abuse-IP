@@ -7,8 +7,8 @@
 | IP | `3.147.122.184` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Port scanning (110) |
-| Events | 110 |
+| Activity | Port scanning (102) |
+| Events | 102 |
 | First seen (UTC) | 2026-11-11T14:24:47Z |
 | Last seen (UTC) | 2026-11-24T01:06:02Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:25Z |
