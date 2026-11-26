@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 17 | Port scanning (129), Known botnet / C2 infrastructure (118), SSH brute force (70) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 14 | Known botnet / C2 infrastructure (95), Port scanning (94), SSH brute force (58) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1462), Known botnet / C2 infrastructure (136), Exploitation attempt (CVE / RCE / injection) (77), Abusive HTTP requests (1) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1478), Known botnet / C2 infrastructure (137), Exploitation attempt (CVE / RCE / injection) (77), Abusive HTTP requests (1) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (180), Known botnet / C2 infrastructure (62) |
 | [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (664), Known botnet / C2 infrastructure (52), SSH brute force (18) |
 | [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (63), Known botnet / C2 infrastructure (54), SSH brute force (28) |

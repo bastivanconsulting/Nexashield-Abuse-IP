@@ -1,6 +1,6 @@
 # 🇺🇦 Ukraine
 
-**6** malicious IP(s) across **5** network(s).
+**7** malicious IP(s) across **6** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -9,6 +9,7 @@
 | [AS34743](AS34743_NASHNET-LTD/) | NASHNET LTD | 1 | Known botnet / C2 infrastructure (1) |
 | [AS403005](AS403005_Blatant-Technologies-LLC/) | Blatant Technologies, LLC | 1 | Known botnet / C2 infrastructure (72) |
 | [AS42237](AS42237_w1n-ltd/) | w1n ltd | 1 | SSH brute force (6), Port scanning (1) |
+| [AS6849](AS6849_JSC-Ukrtelecom/) | JSC "Ukrtelecom" | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

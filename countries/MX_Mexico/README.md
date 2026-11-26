@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS8151](AS8151_Uninet-S-A-de-C-V/) | Uninet S.A. de C.V. | 4 | SSH brute force (162), Port scanning (12), Known botnet / C2 infrastructure (8) |
+| [AS8151](AS8151_Uninet-S-A-de-C-V/) | Uninet S.A. de C.V. | 4 | SSH brute force (168), Port scanning (12), Known botnet / C2 infrastructure (9) |
 | [AS265585](AS265585_Alma-Jessica-Gallegos-Gutierrez/) | Alma Jessica Gallegos Gutierrez | 1 | Port scanning (44), Known botnet / C2 infrastructure (2) |
 
 ---

@@ -7,10 +7,10 @@
 | IP | `120.48.100.73` |
 | Country | China (CN) |
 | ASN | AS38365 · Beijing Baidu Netcom Science and Technology Co., Ltd. |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (2) |
-| Events | 7 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-15T22:55:09Z |
-| Last seen (UTC) | 2026-11-26T06:33:47Z |
+| Last seen (UTC) | 2026-11-26T12:35:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

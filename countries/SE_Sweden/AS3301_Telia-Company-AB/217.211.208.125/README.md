@@ -7,10 +7,10 @@
 | IP | `217.211.208.125` |
 | Country | Sweden (SE) |
 | ASN | AS3301 · Telia Company AB |
-| Activity | Port scanning (3), Known botnet / C2 infrastructure (3), SSH brute force (3) |
-| Events | 10 |
+| Activity | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (3) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-21T18:45:25Z |
-| Last seen (UTC) | 2026-11-24T15:48:30Z |
+| Last seen (UTC) | 2026-11-26T13:09:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

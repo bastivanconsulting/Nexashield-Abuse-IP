@@ -7,10 +7,10 @@
 | IP | `204.148.30.38` |
 | Country | United States (US) |
 | ASN | AS701 · Verizon Business |
-| Activity | SSH brute force (44) |
-| Events | 44 |
+| Activity | SSH brute force (60) |
+| Events | 60 |
 | First seen (UTC) | 2026-11-26T12:07:43Z |
-| Last seen (UTC) | 2026-11-26T12:29:31Z |
+| Last seen (UTC) | 2026-11-26T12:37:27Z |
 | Reported to network owner (UTC) | 2026-11-26T12:28:00Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

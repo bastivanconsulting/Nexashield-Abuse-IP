@@ -6,10 +6,11 @@
   "asn_org": "Uninet S.A. de C.V.",
   "categories": {
     "scan": 2,
-    "c2": 2
+    "c2": 3,
+    "ssh": 6
   },
-  "events": 4,
+  "events": 15,
   "first_seen": "2026-11-13T17:33:13Z",
-  "last_seen": "2026-11-14T20:36:28Z",
+  "last_seen": "2026-11-26T12:24:04Z",
   "reported": "not reported (permanent ban)"
 }

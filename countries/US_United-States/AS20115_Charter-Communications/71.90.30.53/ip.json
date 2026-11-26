@@ -5,11 +5,11 @@
   "asn": 20115,
   "asn_org": "Charter Communications",
   "categories": {
-    "scan": 24,
-    "c2": 10
+    "scan": 25,
+    "c2": 11
   },
-  "events": 35,
+  "events": 37,
   "first_seen": "2026-11-12T08:16:38Z",
-  "last_seen": "2026-11-26T10:21:51Z",
+  "last_seen": "2026-11-26T12:49:11Z",
   "reported": "not reported (permanent ban)"
 }

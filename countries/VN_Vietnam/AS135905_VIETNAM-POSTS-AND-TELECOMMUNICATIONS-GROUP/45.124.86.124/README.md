@@ -7,10 +7,10 @@
 | IP | `45.124.86.124` |
 | Country | Vietnam (VN) |
 | ASN | AS135905 · VIETNAM POSTS AND TELECOMMUNICATIONS GROUP |
-| Activity | Port scanning (112), Known botnet / C2 infrastructure (1) |
-| Events | 132 |
+| Activity | Port scanning (116), Known botnet / C2 infrastructure (1) |
+| Events | 137 |
 | First seen (UTC) | 2026-11-14T03:42:36Z |
-| Last seen (UTC) | 2026-11-26T11:38:17Z |
+| Last seen (UTC) | 2026-11-26T13:02:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

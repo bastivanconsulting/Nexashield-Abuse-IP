@@ -1,0 +1,15 @@
+{
+  "ip": "35.206.133.206",
+  "country_code": "BE",
+  "country": "Belgium",
+  "asn": 43515,
+  "asn_org": "Google Ireland Limited",
+  "categories": {
+    "scan": 19,
+    "c2": 2
+  },
+  "events": 22,
+  "first_seen": "2026-11-26T02:12:10Z",
+  "last_seen": "2026-11-26T13:12:06Z",
+  "reported": "not reported (permanent ban)"
+}
