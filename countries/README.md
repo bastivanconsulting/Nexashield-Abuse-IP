@@ -24,7 +24,7 @@
 | [🇨🇭 Switzerland](CH_Switzerland/) | 14 |
 | [🇨🇱 Chile](CL_Chile/) | 5 |
 | [🇨🇲 Cameroon](CM_Cameroon/) | 1 |
-| [🇨🇳 China](CN_China/) | 258 |
+| [🇨🇳 China](CN_China/) | 260 |
 | [🇨🇴 Colombia](CO_Colombia/) | 5 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
 | [🇩🇪 Germany](DE_Germany/) | 663 |
@@ -37,7 +37,7 @@
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 10 |
 | [🇫🇮 Finland](FI_Finland/) | 14 |
 | [🇫🇷 France](FR_France/) | 407 |
-| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1040 |
+| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1041 |
 | [🇬🇪 Georgia](GE_Georgia/) | 2 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
 | [🇭🇰 Hong Kong](HK_Hong-Kong/) | 245 |
@@ -52,7 +52,7 @@
 | [🇯🇵 Japan](JP_Japan/) | 165 |
 | [🇰🇪 Kenya](KE_Kenya/) | 3 |
 | [🇰🇬 Kyrgyzstan](KG_Kyrgyzstan/) | 1 |
-| [🇰🇷 South Korea](KR_South-Korea/) | 70 |
+| [🇰🇷 South Korea](KR_South-Korea/) | 71 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 14 |
 | [🇱🇧 Lebanon](LB_Lebanon/) | 1 |
 | [🇱🇰 Sri Lanka](LK_Sri-Lanka/) | 2 |
@@ -66,10 +66,10 @@
 | [🇲🇹 Malta](MT_Malta/) | 1 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 2 |
 | [🇲🇽 Mexico](MX_Mexico/) | 6 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 109 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 110 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 20 |
 | [🇳🇮 Nicaragua](NI_Nicaragua/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 743 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 744 |
 | [🇳🇴 Norway](NO_Norway/) | 4 |
 | [🇳🇵 Nepal](NP_Nepal/) | 1 |
 | [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
@@ -85,7 +85,7 @@
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 13 |
 | [🇸🇪 Sweden](SE_Sweden/) | 104 |
-| [🇸🇬 Singapore](SG_Singapore/) | 185 |
+| [🇸🇬 Singapore](SG_Singapore/) | 188 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 22 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇸🇳 Senegal](SN_Senegal/) | 1 |
@@ -95,8 +95,8 @@
 | [🇹🇼 Taiwan](TW_Taiwan/) | 27 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 7 |
 | [🇺🇬 Uganda](UG_Uganda/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 3609 |
-| [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 4 |
+| [🇺🇸 United States](US_United-States/) | 3617 |
+| [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 5 |
 | [🇻🇪 Venezuela](VE_Venezuela/) | 2 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 18 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 3 |

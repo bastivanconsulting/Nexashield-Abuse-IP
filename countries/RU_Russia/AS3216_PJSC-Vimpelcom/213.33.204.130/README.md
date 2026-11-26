@@ -7,10 +7,10 @@
 | IP | `213.33.204.130` |
 | Country | Russia (RU) |
 | ASN | AS3216 · PJSC "Vimpelcom" |
-| Activity | Port scanning (2), Known botnet / C2 infrastructure (2), SSH brute force (1) |
-| Events | 6 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-21T22:26:14Z |
-| Last seen (UTC) | 2026-11-24T20:47:57Z |
+| Last seen (UTC) | 2026-11-26T17:24:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

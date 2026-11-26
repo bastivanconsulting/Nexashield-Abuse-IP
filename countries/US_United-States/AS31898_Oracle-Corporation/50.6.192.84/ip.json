@@ -1,0 +1,16 @@
+{
+  "ip": "50.6.192.84",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 31898,
+  "asn_org": "Oracle Corporation",
+  "categories": {
+    "scan": 1,
+    "c2": 3,
+    "ssh": 15
+  },
+  "events": 25,
+  "first_seen": "2026-11-14T23:33:24Z",
+  "last_seen": "2026-11-26T18:16:06Z",
+  "reported": "not reported (permanent ban)"
+}

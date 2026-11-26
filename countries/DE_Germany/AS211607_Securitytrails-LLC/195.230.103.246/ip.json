@@ -5,11 +5,11 @@
   "asn": 211607,
   "asn_org": "Securitytrails, LLC",
   "categories": {
-    "scan": 62,
+    "scan": 63,
     "c2": 12
   },
-  "events": 90,
+  "events": 91,
   "first_seen": "2026-11-11T14:34:52Z",
-  "last_seen": "2026-11-26T16:40:11Z",
+  "last_seen": "2026-11-26T18:08:53Z",
   "reported": "not reported (permanent ban)"
 }

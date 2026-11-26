@@ -7,10 +7,10 @@
 | IP | `57.128.238.13` |
 | Country | Poland (PL) |
 | ASN | AS16276 · OVH SAS |
-| Activity | Port scanning (33) |
-| Events | 41 |
+| Activity | Port scanning (34) |
+| Events | 42 |
 | First seen (UTC) | 2026-11-23T02:14:01Z |
-| Last seen (UTC) | 2026-11-26T15:34:01Z |
+| Last seen (UTC) | 2026-11-26T17:31:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

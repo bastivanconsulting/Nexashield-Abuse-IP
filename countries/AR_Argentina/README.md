@@ -9,7 +9,7 @@
 | [AS20207](AS20207_Gigared-S-A/) | Gigared S.A. | 1 | Port scanning (11), Known botnet / C2 infrastructure (7), SSH brute force (2) |
 | [AS262192](AS262192_Skycorp-S-A/) | Skycorp S.A. | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS270106](AS270106_Paralelo-46-TV-SA/) | Paralelo 46 TV SA | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| [AS7303](AS7303_Telecom-Argentina-S-A/) | Telecom Argentina S.A. | 1 | Known botnet / C2 infrastructure (7), Port scanning (6), SSH brute force (3) |
+| [AS7303](AS7303_Telecom-Argentina-S-A/) | Telecom Argentina S.A. | 1 | Known botnet / C2 infrastructure (8), Port scanning (7), SSH brute force (3) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

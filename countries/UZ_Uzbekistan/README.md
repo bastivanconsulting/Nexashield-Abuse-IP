@@ -1,10 +1,10 @@
 # 🇺🇿 Uzbekistan
 
-**4** malicious IP(s) across **2** network(s).
+**5** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS8193](AS8193_Uzbektelekom-Joint-Stock-Company/) | "Uzbektelekom" Joint Stock Company | 3 | SSH brute force (21), Known botnet / C2 infrastructure (11), Port scanning (6) |
+| [AS8193](AS8193_Uzbektelekom-Joint-Stock-Company/) | "Uzbektelekom" Joint Stock Company | 4 | SSH brute force (49), Known botnet / C2 infrastructure (14), Port scanning (9) |
 | [AS202660](AS202660_Uzbektelekom-Joint-Stock-Company/) | "Uzbektelekom" Joint Stock Company | 1 | Port scanning (92) |
 
 ---

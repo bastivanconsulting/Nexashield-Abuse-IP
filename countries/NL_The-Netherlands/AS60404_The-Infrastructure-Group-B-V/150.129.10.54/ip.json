@@ -5,10 +5,10 @@
   "asn": 60404,
   "asn_org": "The Infrastructure Group B.V.",
   "categories": {
-    "scan": 43
+    "scan": 48
   },
-  "events": 49,
+  "events": 55,
   "first_seen": "2026-11-26T03:42:41Z",
-  "last_seen": "2026-11-26T16:32:06Z",
+  "last_seen": "2026-11-26T18:06:05Z",
   "reported": "not reported (permanent ban)"
 }

@@ -5,11 +5,11 @@
   "asn": 9790,
   "asn_org": "Two Degrees Mobile Limited",
   "categories": {
-    "scan": 10,
-    "c2": 8
+    "scan": 11,
+    "c2": 9
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-19T13:05:32Z",
-  "last_seen": "2026-11-26T02:46:19Z",
+  "last_seen": "2026-11-26T18:06:12Z",
   "reported": "not reported (permanent ban)"
 }

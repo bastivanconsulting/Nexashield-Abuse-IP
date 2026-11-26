@@ -1,6 +1,6 @@
 # AS4766 · Korea Telecom
 
-🇰🇷 South Korea · **42** malicious IP(s)
+🇰🇷 South Korea · **43** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -29,12 +29,13 @@
 | [`125.142.37.91`](125.142.37.91/) | SSH brute force (10) | 10 | 2026-11-26T04:21:33Z |
 | [`169.211.232.182`](169.211.232.182/) | Known botnet / C2 infrastructure (8), Port scanning (7), SSH brute force (3) | 19 | 2026-11-26T14:21:25Z |
 | [`175.195.238.137`](175.195.238.137/) | Port scanning (26), Known botnet / C2 infrastructure (15) | 42 | 2026-11-26T17:01:03Z |
+| [`175.203.61.49`](175.203.61.49/) | Port scanning (11), Known botnet / C2 infrastructure (3) | 20 | 2026-11-26T17:56:06Z |
 | [`175.206.113.91`](175.206.113.91/) | Known botnet / C2 infrastructure (4), Port scanning (4) | 9 | 2026-11-26T04:40:28Z |
 | [`175.213.53.114`](175.213.53.114/) | SSH brute force (8), Known botnet / C2 infrastructure (3) | 12 | 2026-11-25T09:05:05Z |
 | [`175.213.137.209`](175.213.137.209/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-25T18:27:06Z |
 | [`183.104.220.152`](183.104.220.152/) | Known botnet / C2 infrastructure (7), SSH brute force (6), Port scanning (5) | 20 | 2026-11-25T17:27:03Z |
 | [`211.48.60.35`](211.48.60.35/) | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (2) | 12 | 2026-11-26T05:29:54Z |
-| [`211.105.129.57`](211.105.129.57/) | SSH brute force (10), Known botnet / C2 infrastructure (1) | 12 | 2026-11-26T16:27:05Z |
+| [`211.105.129.57`](211.105.129.57/) | SSH brute force (12) | 12 | 2026-11-26T16:26:30Z |
 | [`211.199.238.58`](211.199.238.58/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T17:13:01Z |
 | [`211.217.132.69`](211.217.132.69/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-24T11:51:15Z |
 | [`211.230.3.71`](211.230.3.71/) | Port scanning (29), SSH brute force (12), Known botnet / C2 infrastructure (4) | 45 | 2026-11-24T07:54:15Z |

@@ -5,11 +5,11 @@
   "asn": 136195,
   "asn_org": "Qingdao, Shandong Province, P.R.China.",
   "categories": {
-    "scan": 16,
-    "c2": 7
+    "scan": 19,
+    "c2": 8
   },
-  "events": 28,
+  "events": 33,
   "first_seen": "2026-11-11T13:41:31Z",
-  "last_seen": "2026-11-23T16:41:27Z",
+  "last_seen": "2026-11-26T17:41:46Z",
   "reported": "not reported (permanent ban)"
 }

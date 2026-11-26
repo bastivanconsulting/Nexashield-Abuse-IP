@@ -7,10 +7,10 @@
 | IP | `122.170.100.253` |
 | Country | India (IN) |
 | ASN | AS24560 · Bharti Airtel Limited |
-| Activity | Known botnet / C2 infrastructure (6), Port scanning (6), SSH brute force (2) |
-| Events | 15 |
+| Activity | Known botnet / C2 infrastructure (7), Port scanning (7), SSH brute force (2) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-18T22:45:12Z |
-| Last seen (UTC) | 2026-11-25T14:22:50Z |
+| Last seen (UTC) | 2026-11-26T17:52:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

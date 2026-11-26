@@ -7,11 +7,11 @@
 | IP | `211.105.129.57` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | SSH brute force (10), Known botnet / C2 infrastructure (1) |
+| Activity | SSH brute force (12) |
 | Events | 12 |
 | First seen (UTC) | 2026-11-26T16:26:18Z |
-| Last seen (UTC) | 2026-11-26T16:27:05Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-26T16:26:30Z |
+| Reported to network owner (UTC) | 2026-11-26T18:28:27Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 
