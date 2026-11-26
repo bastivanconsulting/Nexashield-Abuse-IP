@@ -7,10 +7,10 @@
 | IP | `203.192.211.180` |
 | Country | India (IN) |
 | ASN | AS17665 · ONEOTT INTERTAINMENT LIMITED |
-| Activity | Known botnet / C2 infrastructure (2), SSH brute force (1), Port scanning (1) |
-| Events | 4 |
+| Activity | SSH brute force (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-14T01:24:25Z |
-| Last seen (UTC) | 2026-11-23T15:18:26Z |
+| Last seen (UTC) | 2026-11-26T11:20:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `61.147.209.31` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Port scanning (20) |
-| Events | 30 |
+| Activity | Port scanning (21) |
+| Events | 32 |
 | First seen (UTC) | 2026-11-14T16:05:20Z |
-| Last seen (UTC) | 2026-11-26T05:39:04Z |
+| Last seen (UTC) | 2026-11-26T11:39:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,10 +1,10 @@
 # 🇸🇬 Singapore
 
-**182** malicious IP(s) across **12** network(s).
+**183** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 130 | Port scanning (882), Known botnet / C2 infrastructure (621), Web injection payload blocked by WAF (24), Abusive HTTP requests (10), SSH brute force (7) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 131 | Port scanning (888), Known botnet / C2 infrastructure (625), Web injection payload blocked by WAF (24), Abusive HTTP requests (10), SSH brute force (7) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 25 | Abusive HTTP requests (410), Port scanning (405), Known botnet / C2 infrastructure (100), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 7 | Port scanning (179) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (468), Known botnet / C2 infrastructure (54) |
@@ -14,7 +14,7 @@
 | [AS55430](AS55430_Starhub-Internet-Pte-Ltd/) | Starhub Internet Pte Ltd | 2 | Port scanning (23), Known botnet / C2 infrastructure (11), SSH brute force (6) |
 | [AS150436](AS150436_Byteplus-Pte-Ltd/) | Byteplus Pte. Ltd. | 1 | SSH brute force (34), Port scanning (7) |
 | [AS154402](AS154402_Shenzhen-FredCloud-Computing-Technology-Co-Ltd/) | Shenzhen FredCloud Computing Technology Co., Ltd. | 1 | Port scanning (57) |
-| [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (284) |
+| [AS26277](AS26277_Las-Vegas-NV-Datacenter/) | Las Vegas NV Datacenter | 1 | Port scanning (285) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Abusive HTTP requests (59) |
 
 ---

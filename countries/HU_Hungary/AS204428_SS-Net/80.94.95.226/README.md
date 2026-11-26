@@ -7,10 +7,10 @@
 | IP | `80.94.95.226` |
 | Country | Hungary (HU) |
 | ASN | AS204428 · SS-Net |
-| Activity | Port scanning (109) |
-| Events | 110 |
+| Activity | Port scanning (110) |
+| Events | 111 |
 | First seen (UTC) | 2026-11-19T20:00:12Z |
-| Last seen (UTC) | 2026-11-26T10:36:14Z |
+| Last seen (UTC) | 2026-11-26T11:53:09Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

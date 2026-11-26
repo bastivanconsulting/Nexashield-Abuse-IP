@@ -7,10 +7,10 @@
 | IP | `176.120.22.147` |
 | Country | Russia (RU) |
 | ASN | AS198953 · Proton66 OOO |
-| Activity | Port scanning (30), Abusive HTTP requests (4) |
-| Events | 40 |
+| Activity | Port scanning (34), Abusive HTTP requests (4) |
+| Events | 45 |
 | First seen (UTC) | 2026-11-15T10:19:23Z |
-| Last seen (UTC) | 2026-11-24T18:37:52Z |
+| Last seen (UTC) | 2026-11-26T12:13:20Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

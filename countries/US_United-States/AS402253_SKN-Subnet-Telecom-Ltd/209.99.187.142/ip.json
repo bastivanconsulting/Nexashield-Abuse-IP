@@ -1,0 +1,15 @@
+{
+  "ip": "209.99.187.142",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 402253,
+  "asn_org": "SKN Subnet & Telecom Ltd",
+  "categories": {
+    "scan": 18,
+    "c2": 2
+  },
+  "events": 20,
+  "first_seen": "2026-11-19T00:41:21Z",
+  "last_seen": "2026-11-26T04:36:54Z",
+  "reported": "not reported (permanent ban)"
+}

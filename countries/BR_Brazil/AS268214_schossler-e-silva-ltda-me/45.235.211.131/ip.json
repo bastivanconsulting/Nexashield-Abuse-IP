@@ -5,11 +5,11 @@
   "asn": 268214,
   "asn_org": "schossler e silva ltda - me",
   "categories": {
-    "scan": 21,
-    "c2": 3
+    "scan": 22,
+    "c2": 4
   },
-  "events": 32,
+  "events": 34,
   "first_seen": "2026-11-14T16:53:22Z",
-  "last_seen": "2026-11-25T05:33:20Z",
+  "last_seen": "2026-11-26T12:11:30Z",
   "reported": "not reported (permanent ban)"
 }

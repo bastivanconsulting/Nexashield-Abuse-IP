@@ -7,10 +7,10 @@
 | IP | `93.152.221.229` |
 | Country | Germany (DE) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Port scanning (18) |
-| Events | 19 |
+| Activity | Port scanning (19), Known botnet / C2 infrastructure (1) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-13T22:02:25Z |
-| Last seen (UTC) | 2026-11-26T00:18:05Z |
+| Last seen (UTC) | 2026-11-26T11:50:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

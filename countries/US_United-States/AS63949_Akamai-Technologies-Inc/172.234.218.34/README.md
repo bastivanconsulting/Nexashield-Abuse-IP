@@ -7,10 +7,10 @@
 | IP | `172.234.218.34` |
 | Country | United States (US) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (112) |
-| Events | 147 |
+| Activity | Port scanning (113) |
+| Events | 148 |
 | First seen (UTC) | 2026-11-11T12:11:19Z |
-| Last seen (UTC) | 2026-11-26T08:06:00Z |
+| Last seen (UTC) | 2026-11-26T11:43:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

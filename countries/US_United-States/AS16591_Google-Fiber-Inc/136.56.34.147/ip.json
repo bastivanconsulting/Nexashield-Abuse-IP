@@ -5,12 +5,12 @@
   "asn": 16591,
   "asn_org": "Google Fiber Inc.",
   "categories": {
-    "scan": 5,
-    "c2": 4,
+    "scan": 6,
+    "c2": 5,
     "ssh": 4
   },
-  "events": 14,
+  "events": 16,
   "first_seen": "2026-11-22T00:04:55Z",
-  "last_seen": "2026-11-25T01:24:20Z",
+  "last_seen": "2026-11-26T12:14:34Z",
   "reported": "not reported (permanent ban)"
 }

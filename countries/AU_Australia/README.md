@@ -10,7 +10,7 @@
 | [AS16276](AS16276_OVH-SAS/) | OVH SAS | 1 | Port scanning (125), Known botnet / C2 infrastructure (13) |
 | [AS24446](AS24446_5G-NETWORK-OPERATIONS-PTY-LTD/) | 5G NETWORK OPERATIONS PTY LTD | 1 | Port scanning (10), Known botnet / C2 infrastructure (5) |
 | [AS2764](AS2764_AAPT-Limited/) | AAPT Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
-| [AS4764](AS4764_Aussie-Fibre-Pty-Ltd/) | Aussie Fibre Pty Ltd | 1 | Known botnet / C2 infrastructure (6), Port scanning (5) |
+| [AS4764](AS4764_Aussie-Fibre-Pty-Ltd/) | Aussie Fibre Pty Ltd | 1 | Known botnet / C2 infrastructure (7), Port scanning (6) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (30), Known botnet / C2 infrastructure (4) |
 
 ---

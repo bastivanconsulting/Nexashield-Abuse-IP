@@ -7,10 +7,10 @@
 | IP | `159.196.65.138` |
 | Country | Australia (AU) |
 | ASN | AS4764 · Aussie Fibre Pty Ltd |
-| Activity | Known botnet / C2 infrastructure (6), Port scanning (5) |
-| Events | 15 |
+| Activity | Known botnet / C2 infrastructure (7), Port scanning (6) |
+| Events | 17 |
 | First seen (UTC) | 2026-11-14T04:42:47Z |
-| Last seen (UTC) | 2026-11-25T22:17:03Z |
+| Last seen (UTC) | 2026-11-26T11:39:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

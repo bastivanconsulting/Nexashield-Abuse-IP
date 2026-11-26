@@ -10,7 +10,7 @@
 | [`93.152.221.43`](93.152.221.43/) | SSH brute force (63), Spamhaus DROP-listed network (15), Port scanning (6) | 84 | 2026-11-26T09:41:24Z |
 | [`93.152.221.50`](93.152.221.50/) | SSH brute force (36), Spamhaus DROP-listed network (14) | 50 | 2026-11-20T03:59:34Z |
 | [`93.152.221.108`](93.152.221.108/) | Spamhaus DROP-listed network (22), SSH brute force (19), Port scanning (7) | 48 | 2026-11-26T07:17:24Z |
-| [`93.152.221.229`](93.152.221.229/) | Port scanning (18) | 19 | 2026-11-26T00:18:05Z |
+| [`93.152.221.229`](93.152.221.229/) | Port scanning (19), Known botnet / C2 infrastructure (1) | 21 | 2026-11-26T11:50:38Z |
 | [`94.26.106.83`](94.26.106.83/) | Port scanning (21), Known botnet / C2 infrastructure (12) | 34 | 2026-11-25T19:48:00Z |
 | [`94.26.106.130`](94.26.106.130/) | Web injection payload blocked by WAF (1), Spamhaus DROP-listed network (1) | 2 | 2026-11-23T14:09:24Z |
 | [`94.26.106.224`](94.26.106.224/) | Port scanning (4), Abusive HTTP requests (3), Known botnet / C2 infrastructure (1) | 9 | 2026-11-15T04:34:04Z |

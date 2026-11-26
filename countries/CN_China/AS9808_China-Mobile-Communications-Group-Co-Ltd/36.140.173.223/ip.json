@@ -6,11 +6,11 @@
   "asn_org": "China Mobile Communications Group Co., Ltd",
   "categories": {
     "ssh": 5,
-    "c2": 4,
-    "scan": 1
+    "c2": 5,
+    "scan": 2
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-16T14:26:55Z",
-  "last_seen": "2026-11-24T16:14:10Z",
+  "last_seen": "2026-11-26T11:46:32Z",
   "reported": "not reported (permanent ban)"
 }

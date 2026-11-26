@@ -1,0 +1,15 @@
+{
+  "ip": "132.145.122.251",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 31898,
+  "asn_org": "Oracle Corporation",
+  "categories": {
+    "ssh": 16,
+    "scan": 1
+  },
+  "events": 17,
+  "first_seen": "2026-11-16T03:48:41Z",
+  "last_seen": "2026-11-26T11:25:12Z",
+  "reported": "2026-11-26T12:27:55Z"
+}

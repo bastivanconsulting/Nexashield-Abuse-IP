@@ -1,10 +1,10 @@
 # 🇲🇽 Mexico
 
-**4** malicious IP(s) across **2** network(s).
+**5** malicious IP(s) across **2** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS8151](AS8151_Uninet-S-A-de-C-V/) | Uninet S.A. de C.V. | 3 | SSH brute force (162), Port scanning (10), Known botnet / C2 infrastructure (6) |
+| [AS8151](AS8151_Uninet-S-A-de-C-V/) | Uninet S.A. de C.V. | 4 | SSH brute force (162), Port scanning (12), Known botnet / C2 infrastructure (8) |
 | [AS265585](AS265585_Alma-Jessica-Gallegos-Gutierrez/) | Alma Jessica Gallegos Gutierrez | 1 | Port scanning (44), Known botnet / C2 infrastructure (2) |
 
 ---

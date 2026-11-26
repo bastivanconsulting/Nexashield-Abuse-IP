@@ -1,6 +1,6 @@
 # AS4766 · Korea Telecom
 
-🇰🇷 South Korea · **39** malicious IP(s)
+🇰🇷 South Korea · **40** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -18,6 +18,7 @@
 | [`119.198.191.180`](119.198.191.180/) | SSH brute force (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T23:17:24Z |
 | [`119.204.122.94`](119.204.122.94/) | Port scanning (60), Known botnet / C2 infrastructure (18), SSH brute force (7) | 86 | 2026-11-26T03:44:49Z |
 | [`121.132.116.156`](121.132.116.156/) | SSH brute force (5) | 5 | 2026-11-11T08:20:43Z |
+| [`121.135.47.141`](121.135.47.141/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 6 | 2026-11-23T15:02:36Z |
 | [`121.178.185.141`](121.178.185.141/) | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (3) | 12 | 2026-11-25T13:29:52Z |
 | [`121.179.93.147`](121.179.93.147/) | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (2) | 11 | 2026-11-25T13:00:20Z |
 | [`121.183.240.55`](121.183.240.55/) | SSH brute force (16), Port scanning (2) | 18 | 2026-11-26T00:23:00Z |
@@ -39,7 +40,7 @@
 | [`220.118.190.204`](220.118.190.204/) | Port scanning (13), Known botnet / C2 infrastructure (7), SSH brute force (2) | 23 | 2026-11-25T02:08:54Z |
 | [`220.122.201.203`](220.122.201.203/) | Exploitation attempt (CVE / RCE / injection) (8) | 8 | 2026-11-25T03:43:33Z |
 | [`220.123.222.114`](220.123.222.114/) | SSH brute force (152), Port scanning (5) | 157 | 2026-11-17T02:54:32Z |
-| [`221.145.31.147`](221.145.31.147/) | Port scanning (177) | 231 | 2026-11-26T10:49:36Z |
+| [`221.145.31.147`](221.145.31.147/) | Port scanning (178) | 232 | 2026-11-26T11:37:27Z |
 | [`221.164.148.85`](221.164.148.85/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-12T04:13:03Z |
 | [`222.97.112.179`](222.97.112.179/) | Port scanning (23), Known botnet / C2 infrastructure (14) | 38 | 2026-11-23T17:34:26Z |
 | [`222.117.176.58`](222.117.176.58/) | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (1) | 12 | 2026-11-26T01:09:05Z |

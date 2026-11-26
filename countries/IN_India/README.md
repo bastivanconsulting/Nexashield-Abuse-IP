@@ -1,20 +1,21 @@
 # 🇮🇳 India
 
-**97** malicious IP(s) across **38** network(s).
+**100** malicious IP(s) across **39** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 17 | Port scanning (59), SSH brute force (36), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (28), Abusive HTTP requests (9) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 18 | Port scanning (59), SSH brute force (36), Exploitation attempt (CVE / RCE / injection) (32), Known botnet / C2 infrastructure (30), Abusive HTTP requests (11) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 14 | SSH brute force (67), Known botnet / C2 infrastructure (66), Port scanning (50) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | SSH brute force (41), Port scanning (37), Known botnet / C2 infrastructure (31) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (118), Known botnet / C2 infrastructure (31) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (305), Known botnet / C2 infrastructure (104) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (121), Known botnet / C2 infrastructure (31) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (306), Known botnet / C2 infrastructure (105) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | Known botnet / C2 infrastructure (21), SSH brute force (18), Port scanning (18) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
-| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 2 | Known botnet / C2 infrastructure (10), Port scanning (9), SSH brute force (7) |
+| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 2 | Known botnet / C2 infrastructure (11), SSH brute force (9), Port scanning (9) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (2) |
+| [AS55836](AS55836_Reliance-Jio-Infocomm-Limited/) | Reliance Jio Infocomm Limited | 2 | SSH brute force (9), Known botnet / C2 infrastructure (8), Port scanning (6) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) |
 | [AS134026](AS134026_Ultranet-services-private-limited/) | Ultranet services private limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
@@ -36,11 +37,11 @@
 | [AS17813](AS17813_Mahanagar-Telephone-Nigam-Limited/) | Mahanagar Telephone Nigam Limited | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS18002](AS18002_World-Phone-Internet-Services-Pvt-Ltd/) | World Phone Internet Services Pvt. Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
 | [AS18209](AS18209_Atria-Convergence-Technologies-Pvt-Ltd/) | Atria Convergence Technologies Pvt. Ltd., | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| [AS24309](AS24309_Atria-Convergence-Technologies-Pvt-Ltd/) | Atria Convergence Technologies Pvt. Ltd., | 1 | SSH brute force (12), Port scanning (1) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 1 | Port scanning (4), Known botnet / C2 infrastructure (3) |
 | [AS45528](AS45528_Tikona-Infinet-Ltd/) | Tikona Infinet Ltd. | 1 | SSH brute force (7), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS4758](AS4758_National-Informatics-Centre/) | National Informatics Centre | 1 | SSH brute force (12), Port scanning (1) |
 | [AS55824](AS55824_National-Knowledge-Network/) | National Knowledge Network | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| [AS55836](AS55836_Reliance-Jio-Infocomm-Limited/) | Reliance Jio Infocomm Limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) |
 | [AS7633](AS7633_Software-Technology-Parks-of-India-Bangalore/) | Software Technology Parks of India - Bangalore | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 
 ---
