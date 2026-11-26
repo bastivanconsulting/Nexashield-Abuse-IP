@@ -6,10 +6,11 @@
   "asn_org": "Macro Signal Pvt Ltd",
   "categories": {
     "ssh": 4,
-    "c2": 3
+    "c2": 3,
+    "scan": 1
   },
-  "events": 8,
+  "events": 9,
   "first_seen": "2026-11-13T02:43:36Z",
-  "last_seen": "2026-11-26T00:22:07Z",
+  "last_seen": "2026-11-26T05:34:22Z",
   "reported": "not reported (permanent ban)"
 }

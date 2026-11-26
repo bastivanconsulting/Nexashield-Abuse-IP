@@ -7,10 +7,10 @@
 | IP | `118.194.236.126` |
 | Country | Japan (JP) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (15), Known botnet / C2 infrastructure (5) |
-| Events | 27 |
+| Activity | Port scanning (16), Known botnet / C2 infrastructure (5) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-14T01:40:15Z |
-| Last seen (UTC) | 2026-11-26T01:24:52Z |
+| Last seen (UTC) | 2026-11-26T05:42:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 11 | SSH brute force (63), Known botnet / C2 infrastructure (50), Port scanning (27) |
+| [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 11 | SSH brute force (63), Known botnet / C2 infrastructure (50), Port scanning (28) |
 | [AS211860](AS211860_Nerushenko-Vyacheslav-Nikolaevich/) | Nerushenko Vyacheslav Nikolaevich | 6 | Port scanning (190), Known botnet / C2 infrastructure (37) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (32), Known botnet / C2 infrastructure (24) |
 | [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 4 | SSH brute force (29), Known botnet / C2 infrastructure (13), Port scanning (11) |
-| [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 3 | Port scanning (72), Known botnet / C2 infrastructure (20), SSH brute force (6) |
+| [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 3 | Port scanning (73), Known botnet / C2 infrastructure (20), SSH brute force (6) |
 | [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 3 | Port scanning (130), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
 | [AS3216](AS3216_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 3 | SSH brute force (23), Port scanning (7), Known botnet / C2 infrastructure (3) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (7), Port scanning (5) |
@@ -38,7 +38,7 @@
 | [AS49320](AS49320_Golitsyno-Telecom-Ltd/) | Golitsyno Telecom Ltd | 1 | Port scanning (13), SSH brute force (6) |
 | [AS50340](AS50340_JSC-Selectel/) | JSC Selectel | 1 | SSH brute force (10) |
 | [AS50512](AS50512_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 1 | Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (526), Known botnet / C2 infrastructure (48), Exploitation attempt (CVE / RCE / injection) (14) |
+| [AS51115](AS51115_HLL-LLC/) | HLL LLC | 1 | Port scanning (527), Known botnet / C2 infrastructure (48), Exploitation attempt (CVE / RCE / injection) (14) |
 | [AS51369](AS51369_LLC-TRC-FIORD/) | LLC "TRC FIORD" | 1 | SSH brute force (8), Known botnet / C2 infrastructure (4), Port scanning (2) |
 | [AS57214](AS57214_Vidikon-K-CJSC/) | Vidikon-K, CJSC | 1 | SSH brute force (142), Port scanning (2) |
 | [AS8359](AS8359_MTS-PJSC/) | MTS PJSC | 1 | Port scanning (5), Known botnet / C2 infrastructure (3) |

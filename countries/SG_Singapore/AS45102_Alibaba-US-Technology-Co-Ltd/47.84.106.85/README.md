@@ -7,10 +7,10 @@
 | IP | `47.84.106.85` |
 | Country | Singapore (SG) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (4) |
-| Events | 11 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (5) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-21T14:49:29Z |
-| Last seen (UTC) | 2026-11-25T11:57:10Z |
+| Last seen (UTC) | 2026-11-26T05:55:52Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

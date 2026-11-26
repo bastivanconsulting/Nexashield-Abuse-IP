@@ -7,10 +7,10 @@
 | IP | `209.99.190.52` |
 | Country | United States (US) |
 | ASN | AS402253 · SKN Subnet & Telecom Ltd |
-| Activity | Port scanning (96) |
-| Events | 97 |
+| Activity | Port scanning (98) |
+| Events | 99 |
 | First seen (UTC) | 2026-11-11T10:11:47Z |
-| Last seen (UTC) | 2026-11-26T05:04:42Z |
+| Last seen (UTC) | 2026-11-26T05:28:45Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

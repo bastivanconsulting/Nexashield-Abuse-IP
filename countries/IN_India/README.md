@@ -1,14 +1,14 @@
 # 🇮🇳 India
 
-**94** malicious IP(s) across **38** network(s).
+**95** malicious IP(s) across **38** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 16 | Port scanning (57), SSH brute force (36), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (24), Abusive HTTP requests (7) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 17 | Port scanning (58), SSH brute force (36), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (28), Abusive HTTP requests (9) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 13 | Known botnet / C2 infrastructure (62), SSH brute force (61), Port scanning (49) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | SSH brute force (41), Port scanning (37), Known botnet / C2 infrastructure (31) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (113), Known botnet / C2 infrastructure (29) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (301), Known botnet / C2 infrastructure (102) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (302), Known botnet / C2 infrastructure (102) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | Known botnet / C2 infrastructure (20), SSH brute force (18), Port scanning (17) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
@@ -23,7 +23,7 @@
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (8), Known botnet / C2 infrastructure (8), SSH brute force (4) |
 | [AS136323](AS136323_Ngc-Broadband-Pvt-Ltd/) | Ngc Broadband Pvt. Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (4), SSH brute force (2) |
 | [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (11), Known botnet / C2 infrastructure (8), SSH brute force (2) |
-| [AS137645](AS137645_Macro-Signal-Pvt-Ltd/) | Macro Signal Pvt Ltd | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3) |
+| [AS137645](AS137645_Macro-Signal-Pvt-Ltd/) | Macro Signal Pvt Ltd | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS138221](AS138221_Ynet-Telecom-Solutions/) | Ynet Telecom Solutions | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS138755](AS138755_City-Online-Ap-Private-Ltd/) | City Online Ap Private Ltd | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (4) |

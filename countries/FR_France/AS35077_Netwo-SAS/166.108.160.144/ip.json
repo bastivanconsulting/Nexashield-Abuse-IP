@@ -5,11 +5,11 @@
   "asn": 35077,
   "asn_org": "Netwo SAS",
   "categories": {
-    "scan": 2497,
+    "scan": 2667,
     "ssh": 8
   },
-  "events": 2505,
+  "events": 2675,
   "first_seen": "2026-11-25T05:21:55Z",
-  "last_seen": "2026-11-26T05:34:05Z",
+  "last_seen": "2026-11-26T06:35:00Z",
   "reported": "2026-11-25T08:28:00Z"
 }

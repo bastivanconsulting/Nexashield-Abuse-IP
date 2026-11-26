@@ -1,0 +1,15 @@
+{
+  "ip": "77.90.188.112",
+  "country_code": "PL",
+  "country": "Poland",
+  "asn": 201814,
+  "asn_org": "MEVSPACE sp. z o.o.",
+  "categories": {
+    "scan": 15,
+    "c2": 2
+  },
+  "events": 18,
+  "first_seen": "2026-11-22T08:54:31Z",
+  "last_seen": "2026-11-26T03:12:18Z",
+  "reported": "not reported (permanent ban)"
+}

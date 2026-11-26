@@ -5,11 +5,11 @@
   "asn": 268305,
   "asn_org": "T & I TELECOMUNICA\u00c7\u00d5ES LTDA ME",
   "categories": {
-    "ssh": 4,
-    "c2": 2
+    "ssh": 6,
+    "c2": 3
   },
-  "events": 6,
+  "events": 10,
   "first_seen": "2026-11-23T14:30:33Z",
-  "last_seen": "2026-11-24T19:11:47Z",
+  "last_seen": "2026-11-26T05:30:06Z",
   "reported": "not reported (permanent ban)"
 }

@@ -7,10 +7,10 @@
 | IP | `45.156.128.73` |
 | Country | The Netherlands (NL) |
 | ASN | AS211680 · NSEC - Sistemas Informaticos, S.A. |
-| Activity | Port scanning (20), Known botnet / C2 infrastructure (14) |
-| Events | 35 |
+| Activity | Port scanning (21), Known botnet / C2 infrastructure (14) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-11T18:22:16Z |
-| Last seen (UTC) | 2026-11-26T04:52:38Z |
+| Last seen (UTC) | 2026-11-26T06:10:39Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
