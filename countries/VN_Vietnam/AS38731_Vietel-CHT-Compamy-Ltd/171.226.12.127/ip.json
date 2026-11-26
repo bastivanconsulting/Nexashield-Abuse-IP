@@ -1,0 +1,15 @@
+{
+  "ip": "171.226.12.127",
+  "country_code": "VN",
+  "country": "Vietnam",
+  "asn": 38731,
+  "asn_org": "Vietel - CHT Compamy Ltd",
+  "categories": {
+    "ssh": 6,
+    "c2": 3
+  },
+  "events": 12,
+  "first_seen": "2026-11-20T13:14:44Z",
+  "last_seen": "2026-11-26T13:49:06Z",
+  "reported": "not reported (permanent ban)"
+}

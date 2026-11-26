@@ -5,11 +5,11 @@
   "asn": 6849,
   "asn_org": "JSC \"Ukrtelecom\"",
   "categories": {
-    "ssh": 4,
-    "c2": 2
+    "ssh": 7,
+    "c2": 3
   },
-  "events": 8,
+  "events": 13,
   "first_seen": "2026-11-19T18:21:21Z",
-  "last_seen": "2026-11-20T14:32:31Z",
+  "last_seen": "2026-11-26T13:27:06Z",
   "reported": "not reported (permanent ban)"
 }

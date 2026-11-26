@@ -7,10 +7,10 @@
 | IP | `31.3.216.211` |
 | Country | Kyrgyzstan (KG) |
 | ASN | AS213173 · NSP LLC |
-| Activity | Port scanning (72) |
-| Events | 81 |
+| Activity | Port scanning (73) |
+| Events | 82 |
 | First seen (UTC) | 2026-11-24T03:48:46Z |
-| Last seen (UTC) | 2026-11-26T09:17:29Z |
+| Last seen (UTC) | 2026-11-26T13:22:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

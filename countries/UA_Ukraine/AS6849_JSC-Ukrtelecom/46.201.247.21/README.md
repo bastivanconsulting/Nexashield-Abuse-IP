@@ -7,10 +7,10 @@
 | IP | `46.201.247.21` |
 | Country | Ukraine (UA) |
 | ASN | AS6849 · JSC "Ukrtelecom" |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 8 |
+| Activity | SSH brute force (7), Known botnet / C2 infrastructure (3) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-19T18:21:21Z |
-| Last seen (UTC) | 2026-11-20T14:32:31Z |
+| Last seen (UTC) | 2026-11-26T13:27:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

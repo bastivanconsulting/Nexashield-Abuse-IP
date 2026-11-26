@@ -7,10 +7,10 @@
 | IP | `8.138.155.88` |
 | Country | China (CN) |
 | ASN | AS37963 · Hangzhou Alibaba Advertising Co.,Ltd. |
-| Activity | Port scanning (5), Known botnet / C2 infrastructure (3) |
-| Events | 11 |
+| Activity | Port scanning (6), Known botnet / C2 infrastructure (4) |
+| Events | 13 |
 | First seen (UTC) | 2026-11-17T12:35:25Z |
-| Last seen (UTC) | 2026-11-26T06:03:00Z |
+| Last seen (UTC) | 2026-11-26T13:38:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

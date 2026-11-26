@@ -7,10 +7,10 @@
 | IP | `200.90.0.4` |
 | Country | Venezuela (VE) |
 | ASN | AS8048 · CANTV Servicios, Venezuela |
-| Activity | Port scanning (26), Known botnet / C2 infrastructure (3) |
-| Events | 43 |
+| Activity | Port scanning (27), Known botnet / C2 infrastructure (4) |
+| Events | 45 |
 | First seen (UTC) | 2026-11-18T08:51:33Z |
-| Last seen (UTC) | 2026-11-26T07:41:42Z |
+| Last seen (UTC) | 2026-11-26T13:38:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

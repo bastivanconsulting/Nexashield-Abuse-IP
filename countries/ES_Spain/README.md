@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS174](AS174_Cogent-Communications/) | Cogent Communications | 1 | Port scanning (25) |
+| [AS174](AS174_Cogent-Communications/) | Cogent Communications | 1 | Port scanning (27) |
 | [AS200845](AS200845_AVATEL-TELECOM-SA/) | AVATEL TELECOM, SA | 1 | Port scanning (4), Known botnet / C2 infrastructure (4) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Abusive HTTP requests (152), Web injection payload blocked by WAF (26) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (27), Known botnet / C2 infrastructure (3) |

@@ -1,0 +1,15 @@
+{
+  "ip": "172.233.26.186",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 63949,
+  "asn_org": "Akamai Technologies, Inc.",
+  "categories": {
+    "scan": 25,
+    "c2": 2
+  },
+  "events": 28,
+  "first_seen": "2026-11-12T17:18:37Z",
+  "last_seen": "2026-11-22T04:31:46Z",
+  "reported": "not reported (permanent ban)"
+}

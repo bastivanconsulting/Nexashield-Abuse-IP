@@ -1,14 +1,14 @@
 # 🇧🇷 Brazil
 
-**90** malicious IP(s) across **30** network(s).
+**91** malicious IP(s) across **31** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 17 | Port scanning (129), Known botnet / C2 infrastructure (118), SSH brute force (70) |
+| [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 17 | Port scanning (131), Known botnet / C2 infrastructure (120), SSH brute force (70) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 14 | Known botnet / C2 infrastructure (95), Port scanning (94), SSH brute force (58) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1478), Known botnet / C2 infrastructure (137), Exploitation attempt (CVE / RCE / injection) (77), Abusive HTTP requests (1) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1488), Known botnet / C2 infrastructure (137), Exploitation attempt (CVE / RCE / injection) (77), Abusive HTTP requests (1) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (180), Known botnet / C2 infrastructure (62) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (664), Known botnet / C2 infrastructure (52), SSH brute force (18) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (667), Known botnet / C2 infrastructure (53), SSH brute force (18) |
 | [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (63), Known botnet / C2 infrastructure (54), SSH brute force (28) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
@@ -33,6 +33,7 @@
 | [AS47583](AS47583_Hostinger-International-Limited/) | Hostinger International Limited | 1 | SSH brute force (5), Port scanning (2) |
 | [AS53107](AS53107_EVEO-Servi-os-de-Internet-Ltda/) | EVEO Serviços de Internet Ltda. | 1 | Port scanning (12) |
 | [AS53238](AS53238_Chapeco-Tecnologia-em-Telecomunica-es-Ltda/) | Chapeco Tecnologia em Telecomunicações Ltda. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (1) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (25), Known botnet / C2 infrastructure (2) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | Web injection payload blocked by WAF (3), Known botnet / C2 infrastructure (2) |
 
 ---

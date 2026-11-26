@@ -6,11 +6,11 @@
   "asn_org": "Asahi Net",
   "categories": {
     "scan": 1,
-    "c2": 2,
-    "ssh": 2
+    "c2": 3,
+    "ssh": 3
   },
-  "events": 5,
+  "events": 9,
   "first_seen": "2026-11-11T12:36:01Z",
-  "last_seen": "2026-11-23T13:44:42Z",
+  "last_seen": "2026-11-26T13:18:05Z",
   "reported": "not reported (permanent ban)"
 }

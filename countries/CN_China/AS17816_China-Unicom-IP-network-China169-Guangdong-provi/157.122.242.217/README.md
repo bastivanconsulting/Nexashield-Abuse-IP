@@ -7,10 +7,10 @@
 | IP | `157.122.242.217` |
 | Country | China (CN) |
 | ASN | AS17816 · China Unicom IP network China169 Guangdong province |
-| Activity | SSH brute force (9), Known botnet / C2 infrastructure (3), Port scanning (1) |
-| Events | 14 |
+| Activity | SSH brute force (9), Known botnet / C2 infrastructure (3), Port scanning (2) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-21T22:30:33Z |
-| Last seen (UTC) | 2026-11-26T07:48:55Z |
+| Last seen (UTC) | 2026-11-26T13:17:50Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

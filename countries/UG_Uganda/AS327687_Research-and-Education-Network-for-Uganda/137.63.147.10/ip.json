@@ -1,0 +1,15 @@
+{
+  "ip": "137.63.147.10",
+  "country_code": "UG",
+  "country": "Uganda",
+  "asn": 327687,
+  "asn_org": "Research and Education Network for Uganda",
+  "categories": {
+    "ssh": 1,
+    "c2": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-26T14:20:36Z",
+  "last_seen": "2026-11-26T14:20:36Z",
+  "reported": "not reported (permanent ban)"
+}

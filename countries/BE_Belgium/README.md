@@ -1,11 +1,11 @@
 # 🇧🇪 Belgium
 
-**462** malicious IP(s) across **3** network(s).
+**464** malicious IP(s) across **3** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 396 | Port scanning (19588), Known botnet / C2 infrastructure (2890), Abusive HTTP requests (79), SSH brute force (77), Exploitation attempt (CVE / RCE / injection) (5), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 65 | Abusive HTTP requests (11902), Port scanning (186), Web injection payload blocked by WAF (80), Known botnet / C2 infrastructure (53) |
+| [AS43515](AS43515_Google-Ireland-Limited/) | Google Ireland Limited | 397 | Port scanning (19720), Known botnet / C2 infrastructure (2896), Abusive HTTP requests (79), SSH brute force (77), Exploitation attempt (CVE / RCE / injection) (5), Web injection payload blocked by WAF (2), SMTP / IMAP credential guessing (2) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 66 | Abusive HTTP requests (12262), Port scanning (187), Web injection payload blocked by WAF (80), Known botnet / C2 infrastructure (53) |
 | [AS5432](AS5432_Proximus-NV/) | Proximus NV | 1 | SSH brute force (8), Known botnet / C2 infrastructure (3) |
 
 ---

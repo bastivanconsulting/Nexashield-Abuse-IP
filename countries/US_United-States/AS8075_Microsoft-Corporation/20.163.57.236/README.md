@@ -7,10 +7,10 @@
 | IP | `20.163.57.236` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (25), Known botnet / C2 infrastructure (5), Web injection payload blocked by WAF (1) |
-| Events | 43 |
+| Activity | Port scanning (26), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (1) |
+| Events | 45 |
 | First seen (UTC) | 2026-11-11T11:25:54Z |
-| Last seen (UTC) | 2026-11-26T03:38:48Z |
+| Last seen (UTC) | 2026-11-26T13:23:16Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

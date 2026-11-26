@@ -7,11 +7,11 @@
 | IP | `189.165.23.212` |
 | Country | Mexico (MX) |
 | ASN | AS8151 · Uninet S.A. de C.V. |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3), Port scanning (2) |
-| Events | 15 |
+| Activity | SSH brute force (12), Port scanning (2) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-13T17:33:13Z |
-| Last seen (UTC) | 2026-11-26T12:24:04Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-26T12:22:51Z |
+| Reported to network owner (UTC) | 2026-11-26T14:28:43Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

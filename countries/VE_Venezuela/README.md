@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS8048](AS8048_CANTV-Servicios-Venezuela/) | CANTV Servicios, Venezuela | 2 | Port scanning (26), SSH brute force (10), Known botnet / C2 infrastructure (4) |
+| [AS8048](AS8048_CANTV-Servicios-Venezuela/) | CANTV Servicios, Venezuela | 2 | Port scanning (27), SSH brute force (10), Known botnet / C2 infrastructure (5) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

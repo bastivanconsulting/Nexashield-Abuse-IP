@@ -1,6 +1,6 @@
 # AS4837 · CHINA UNICOM China169 Backbone
 
-🇨🇳 China · **23** malicious IP(s)
+🇨🇳 China · **25** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [`58.19.230.118`](58.19.230.118/) | Port scanning (13), Known botnet / C2 infrastructure (1) | 19 | 2026-11-22T14:32:04Z |
 | [`60.18.139.82`](60.18.139.82/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) | 8 | 2026-11-20T11:07:03Z |
 | [`60.214.127.246`](60.214.127.246/) | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (2) | 11 | 2026-11-25T20:51:05Z |
+| [`61.53.157.41`](61.53.157.41/) | Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-26T12:51:28Z |
 | [`61.240.17.66`](61.240.17.66/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-25T20:41:23Z |
 | [`61.240.137.69`](61.240.137.69/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-25T22:10:45Z |
 | [`61.242.178.28`](61.242.178.28/) | Port scanning (19), Known botnet / C2 infrastructure (7) | 31 | 2026-11-24T19:13:53Z |
@@ -18,6 +19,7 @@
 | [`115.56.153.172`](115.56.153.172/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-22T06:15:56Z |
 | [`116.114.84.246`](116.114.84.246/) | SSH brute force (4), Known botnet / C2 infrastructure (2) | 6 | 2026-11-24T07:52:41Z |
 | [`116.255.146.146`](116.255.146.146/) | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (1) | 11 | 2026-11-26T01:34:04Z |
+| [`118.212.79.100`](118.212.79.100/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-26T13:45:06Z |
 | [`118.212.132.226`](118.212.132.226/) | Port scanning (5), Known botnet / C2 infrastructure (1) | 7 | 2026-11-24T15:35:51Z |
 | [`122.97.137.110`](122.97.137.110/) | Abusive HTTP requests (1), Exploitation attempt (CVE / RCE / injection) (1) | 2 | 2026-11-19T20:43:56Z |
 | [`122.191.115.237`](122.191.115.237/) | Port scanning (69), Known botnet / C2 infrastructure (8) | 101 | 2026-11-26T08:32:29Z |
