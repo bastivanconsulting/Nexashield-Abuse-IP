@@ -7,10 +7,10 @@
 | IP | `119.224.65.56` |
 | Country | New Zealand (NZ) |
 | ASN | AS9790 · Two Degrees Mobile Limited |
-| Activity | Port scanning (9), Known botnet / C2 infrastructure (7) |
-| Events | 17 |
+| Activity | Port scanning (10), Known botnet / C2 infrastructure (8) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-19T13:05:32Z |
-| Last seen (UTC) | 2026-11-25T19:18:28Z |
+| Last seen (UTC) | 2026-11-26T02:46:19Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

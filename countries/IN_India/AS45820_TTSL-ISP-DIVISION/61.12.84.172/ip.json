@@ -6,11 +6,11 @@
   "asn_org": "TTSL-ISP DIVISION",
   "categories": {
     "ssh": 6,
-    "c2": 3,
-    "scan": 2
+    "c2": 4,
+    "scan": 3
   },
-  "events": 12,
+  "events": 14,
   "first_seen": "2026-11-18T11:35:16Z",
-  "last_seen": "2026-11-25T06:10:16Z",
+  "last_seen": "2026-11-26T02:26:58Z",
   "reported": "not reported (permanent ban)"
 }

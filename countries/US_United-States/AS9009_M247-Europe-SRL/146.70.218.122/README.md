@@ -7,10 +7,10 @@
 | IP | `146.70.218.122` |
 | Country | United States (US) |
 | ASN | AS9009 · M247 Europe SRL |
-| Activity | SSH brute force (11), Port scanning (1) |
-| Events | 12 |
+| Activity | SSH brute force (43), Port scanning (3) |
+| Events | 46 |
 | First seen (UTC) | 2026-11-25T20:56:51Z |
-| Last seen (UTC) | 2026-11-25T20:57:35Z |
+| Last seen (UTC) | 2026-11-26T02:57:50Z |
 | Reported to network owner (UTC) | 2026-11-25T22:28:08Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,11 +5,11 @@
   "asn": 45102,
   "asn_org": "Alibaba (US) Technology Co., Ltd.",
   "categories": {
-    "scan": 7,
-    "c2": 6
+    "scan": 8,
+    "c2": 7
   },
-  "events": 15,
+  "events": 17,
   "first_seen": "2026-11-14T03:41:54Z",
-  "last_seen": "2026-11-24T23:04:22Z",
+  "last_seen": "2026-11-26T02:19:20Z",
   "reported": "not reported (permanent ban)"
 }

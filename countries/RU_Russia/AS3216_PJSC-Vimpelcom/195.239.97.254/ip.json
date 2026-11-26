@@ -1,0 +1,15 @@
+{
+  "ip": "195.239.97.254",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 3216,
+  "asn_org": "PJSC \"Vimpelcom\"",
+  "categories": {
+    "ssh": 11,
+    "c2": 1
+  },
+  "events": 13,
+  "first_seen": "2026-11-26T02:48:19Z",
+  "last_seen": "2026-11-26T02:49:06Z",
+  "reported": "not reported (permanent ban)"
+}

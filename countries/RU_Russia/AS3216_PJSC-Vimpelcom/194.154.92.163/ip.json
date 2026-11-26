@@ -6,10 +6,11 @@
   "asn_org": "PJSC \"Vimpelcom\"",
   "categories": {
     "ssh": 4,
-    "c2": 2
+    "c2": 3,
+    "scan": 1
   },
-  "events": 7,
+  "events": 9,
   "first_seen": "2026-11-23T01:27:35Z",
-  "last_seen": "2026-11-25T00:11:05Z",
+  "last_seen": "2026-11-26T03:03:08Z",
   "reported": "not reported (permanent ban)"
 }

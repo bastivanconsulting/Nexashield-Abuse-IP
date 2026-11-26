@@ -1,0 +1,15 @@
+{
+  "ip": "27.115.113.138",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 17621,
+  "asn_org": "China Unicom Shanghai network",
+  "categories": {
+    "c2": 2,
+    "ssh": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-20T08:18:17Z",
+  "last_seen": "2026-11-21T03:23:59Z",
+  "reported": "not reported (permanent ban)"
+}

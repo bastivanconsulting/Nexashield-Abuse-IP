@@ -7,10 +7,10 @@
 | IP | `138.68.143.68` |
 | Country | United Kingdom (GB) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Port scanning (71), Known botnet / C2 infrastructure (26) |
-| Events | 99 |
+| Activity | Port scanning (72), Known botnet / C2 infrastructure (27) |
+| Events | 101 |
 | First seen (UTC) | 2026-11-11T13:27:39Z |
-| Last seen (UTC) | 2026-11-25T22:49:51Z |
+| Last seen (UTC) | 2026-11-26T02:30:02Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

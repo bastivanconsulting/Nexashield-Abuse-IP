@@ -8,9 +8,9 @@
 | Country | Hong Kong (HK) |
 | ASN | AS218785 · TC DATACENTER LIMITED |
 | Activity | Abusive HTTP requests (208), Web injection payload blocked by WAF (102), Known botnet / C2 infrastructure (2), Port scanning (1) |
-| Events | 323 |
+| Events | 324 |
 | First seen (UTC) | 2026-11-19T04:24:13Z |
-| Last seen (UTC) | 2026-11-26T02:08:21Z |
+| Last seen (UTC) | 2026-11-26T02:18:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -7,10 +7,10 @@
 | IP | `218.92.251.198` |
 | Country | China (CN) |
 | ASN | AS4134 · Chinanet |
-| Activity | Known botnet / C2 infrastructure (9), SSH brute force (6), Port scanning (6) |
-| Events | 23 |
+| Activity | Known botnet / C2 infrastructure (10), Port scanning (7), SSH brute force (6) |
+| Events | 25 |
 | First seen (UTC) | 2026-11-18T21:31:19Z |
-| Last seen (UTC) | 2026-11-24T12:35:05Z |
+| Last seen (UTC) | 2026-11-26T02:41:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
