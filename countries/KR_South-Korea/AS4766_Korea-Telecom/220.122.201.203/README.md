@@ -7,8 +7,8 @@
 | IP | `220.122.201.203` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | Exploitation attempt (CVE / RCE / injection) (16) |
-| Events | 16 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (8) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-25T03:43:29Z |
 | Last seen (UTC) | 2026-11-25T03:43:33Z |
 | Reported to network owner (UTC) | 2026-11-25T04:27:16Z |

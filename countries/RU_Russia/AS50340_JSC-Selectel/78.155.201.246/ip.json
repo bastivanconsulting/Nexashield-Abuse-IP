@@ -5,9 +5,9 @@
   "asn": 50340,
   "asn_org": "JSC Selectel",
   "categories": {
-    "ssh": 18
+    "ssh": 10
   },
-  "events": 18,
+  "events": 10,
   "first_seen": "2026-11-24T21:28:32Z",
   "last_seen": "2026-11-25T20:50:38Z",
   "reported": "2026-11-25T10:29:35Z"

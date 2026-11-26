@@ -7,8 +7,8 @@
 | IP | `139.59.124.215` |
 | Country | Singapore (SG) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Abusive HTTP requests (96) |
-| Events | 96 |
+| Activity | Abusive HTTP requests (48) |
+| Events | 48 |
 | First seen (UTC) | 2026-11-25T01:28:02Z |
 | Last seen (UTC) | 2026-11-25T01:34:40Z |
 | Reported to network owner (UTC) | 2026-11-25T02:28:12Z |

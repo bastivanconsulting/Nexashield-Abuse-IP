@@ -11,7 +11,7 @@
 | [`117.208.13.54`](117.208.13.54/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-24T20:06:23Z |
 | [`117.209.83.220`](117.209.83.220/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-22T10:07:48Z |
 | [`117.209.95.115`](117.209.95.115/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-21T16:58:05Z |
-| [`117.211.76.94`](117.211.76.94/) | SSH brute force (62) | 62 | 2026-11-25T22:34:07Z |
+| [`117.211.76.94`](117.211.76.94/) | SSH brute force (31) | 31 | 2026-11-25T22:34:07Z |
 | [`117.214.5.23`](117.214.5.23/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-21T02:16:59Z |
 | [`117.215.78.109`](117.215.78.109/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-21T17:45:04Z |
 | [`117.221.215.146`](117.221.215.146/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-21T16:41:06Z |

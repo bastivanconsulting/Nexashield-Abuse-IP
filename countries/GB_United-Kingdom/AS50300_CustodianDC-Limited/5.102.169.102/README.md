@@ -7,8 +7,8 @@
 | IP | `5.102.169.102` |
 | Country | United Kingdom (GB) |
 | ASN | AS50300 · CustodianDC Limited |
-| Activity | Abusive HTTP requests (6) |
-| Events | 6 |
+| Activity | Abusive HTTP requests (3) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-25T14:40:02Z |
 | Last seen (UTC) | 2026-11-25T17:08:11Z |
 | Reported to network owner (UTC) | 2026-11-25T18:28:44Z |

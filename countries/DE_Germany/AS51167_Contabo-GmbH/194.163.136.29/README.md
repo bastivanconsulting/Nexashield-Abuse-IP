@@ -7,8 +7,8 @@
 | IP | `194.163.136.29` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | Abusive HTTP requests (142) |
-| Events | 142 |
+| Activity | Abusive HTTP requests (71) |
+| Events | 71 |
 | First seen (UTC) | 2026-11-25T05:37:16Z |
 | Last seen (UTC) | 2026-11-25T05:50:49Z |
 | Reported to network owner (UTC) | 2026-11-25T08:28:05Z |

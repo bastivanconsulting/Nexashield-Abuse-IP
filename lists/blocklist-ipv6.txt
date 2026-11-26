@@ -1,4 +1,4 @@
-# NexaShield abuse IP blocklist - generated 2026-11-25 - https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+# NexaShield abuse IP blocklist - generated 2026-11-26 - https://github.com/bastivanconsulting/Nexashield-Abuse-IP
 2400:8d60:8::96b0:ddfd
 2401:c080:1000:5637:5400:7ff:fe11:9669
 2602:fa59:10:14c::1

@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS50360](AS50360_Tamatiya-EOOD/) | Tamatiya EOOD | 41 | Port scanning (11467), Known botnet / C2 infrastructure (804), Abusive HTTP requests (260), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS209160](AS209160_Miti-2000-EOOD/) | Miti 2000 EOOD | 3 | Port scanning (2638), Known botnet / C2 infrastructure (167) |
-| [AS208637](AS208637_4-Vendeta-Ltd/) | 4 Vendeta Ltd | 2 | Port scanning (1047), Known botnet / C2 infrastructure (54), SSH brute force (28) |
+| [AS50360](AS50360_Tamatiya-EOOD/) | Tamatiya EOOD | 41 | Port scanning (11465), Known botnet / C2 infrastructure (804), Abusive HTTP requests (148), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS209160](AS209160_Miti-2000-EOOD/) | Miti 2000 EOOD | 3 | Port scanning (2641), Known botnet / C2 infrastructure (167) |
+| [AS208637](AS208637_4-Vendeta-Ltd/) | 4 Vendeta Ltd | 2 | Port scanning (1038), Known botnet / C2 infrastructure (54), SSH brute force (28) |
 | [AS209425](AS209425_KOI-CLOUD-SERVICES-Pty-Ltd/) | KOI CLOUD SERVICES (Pty) Ltd | 2 | Port scanning (162), Known botnet / C2 infrastructure (26) |
 | [AS57509](AS57509_L-L-Investment-Ltd/) | L&L Investment Ltd. | 2 | Port scanning (951), Known botnet / C2 infrastructure (56) |
 | [AS200475](AS200475_ET-VESELIN-JELQZKOV/) | ET VESELIN JELQZKOV | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3) |

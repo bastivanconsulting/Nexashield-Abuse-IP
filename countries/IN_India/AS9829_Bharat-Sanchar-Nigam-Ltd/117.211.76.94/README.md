@@ -7,8 +7,8 @@
 | IP | `117.211.76.94` |
 | Country | India (IN) |
 | ASN | AS9829 · Bharat Sanchar Nigam Ltd |
-| Activity | SSH brute force (62) |
-| Events | 62 |
+| Activity | SSH brute force (31) |
+| Events | 31 |
 | First seen (UTC) | 2026-11-25T21:48:30Z |
 | Last seen (UTC) | 2026-11-25T22:34:07Z |
 | Reported to network owner (UTC) | 2026-11-25T22:27:54Z |

@@ -5,9 +5,9 @@
   "asn": 17451,
   "asn_org": "BIZNET NETWORKS",
   "categories": {
-    "web": 12
+    "web": 10
   },
-  "events": 12,
+  "events": 10,
   "first_seen": "2026-11-23T22:11:15Z",
   "last_seen": "2026-11-25T02:00:56Z",
   "reported": "2026-11-24T06:27:03Z"

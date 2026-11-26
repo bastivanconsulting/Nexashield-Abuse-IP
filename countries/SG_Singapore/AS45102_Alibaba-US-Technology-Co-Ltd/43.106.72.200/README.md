@@ -7,8 +7,8 @@
 | IP | `43.106.72.200` |
 | Country | Singapore (SG) |
 | ASN | AS45102 · Alibaba (US) Technology Co., Ltd. |
-| Activity | Web injection payload blocked by WAF (16), Abusive HTTP requests (6) |
-| Events | 22 |
+| Activity | Web injection payload blocked by WAF (8), Abusive HTTP requests (3) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-25T15:38:20Z |
 | Last seen (UTC) | 2026-11-25T15:38:20Z |
 | Reported to network owner (UTC) | 2026-11-25T18:28:39Z |

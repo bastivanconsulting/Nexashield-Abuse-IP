@@ -4,17 +4,17 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 722 | Port scanning (21100), Known botnet / C2 infrastructure (5786), Abusive HTTP requests (1) |
+| [AS25369](AS25369_Hydra-Communications-Ltd/) | Hydra Communications Ltd | 722 | Port scanning (21109), Known botnet / C2 infrastructure (5790), Abusive HTTP requests (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 202 | Port scanning (3796), Known botnet / C2 infrastructure (853), Abusive HTTP requests (666), Web injection payload blocked by WAF (20) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 33 | Port scanning (724), Known botnet / C2 infrastructure (390) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 22 | Port scanning (545), Known botnet / C2 infrastructure (127), Abusive HTTP requests (116), Exploitation attempt (CVE / RCE / injection) (19), SSH brute force (3), Web injection payload blocked by WAF (2) |
-| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1903), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
-| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 5 | SSH brute force (2275), Spamhaus DROP-listed network (145), Port scanning (54), Known botnet / C2 infrastructure (8), Exploitation attempt (CVE / RCE / injection) (2) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 33 | Port scanning (725), Known botnet / C2 infrastructure (390) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 22 | Port scanning (545), Known botnet / C2 infrastructure (127), Abusive HTTP requests (92), Exploitation attempt (CVE / RCE / injection) (19), SSH brute force (3), Web injection payload blocked by WAF (2) |
+| [AS202306](AS202306_HOSTGLOBAL-PLUS-LTD/) | HOSTGLOBAL.PLUS LTD | 13 | Port scanning (1905), Abusive HTTP requests (92), Spamhaus DROP-listed network (84), Known botnet / C2 infrastructure (1) |
+| [AS47890](AS47890_UNMANAGED-LTD/) | UNMANAGED LTD | 5 | SSH brute force (2275), Spamhaus DROP-listed network (140), Port scanning (54), Known botnet / C2 infrastructure (8), Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS211298](AS211298_Driftnet-Ltd/) | Driftnet Ltd | 4 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS215930](AS215930_CIPHER-OPERATIONS-DOO-BEOGRAD-NOVI-BEOGRAD/) | CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD | 3 | Port scanning (42), Known botnet / C2 infrastructure (6) |
 | [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 3 | Port scanning (12), Known botnet / C2 infrastructure (6) |
 | [AS201579](AS201579_HOSTGNOME-LTD/) | HOSTGNOME LTD | 2 | Port scanning (124), Known botnet / C2 infrastructure (36) |
-| [AS218970](AS218970_Amin-NezhadKahnoji/) | Amin NezhadKahnoji | 2 | Port scanning (46), Known botnet / C2 infrastructure (8), Abusive HTTP requests (1) |
+| [AS218970](AS218970_Amin-NezhadKahnoji/) | Amin NezhadKahnoji | 2 | Port scanning (49), Known botnet / C2 infrastructure (8), Abusive HTTP requests (1) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (103), Known botnet / C2 infrastructure (39) |
 | [AS?](AS-Unknown/) | Unknown | 1 | Web injection payload blocked by WAF (2) |
 | [AS11878](AS11878_tzulo-inc/) | tzulo, inc. | 1 | Port scanning (11) |
@@ -30,7 +30,7 @@
 | [AS31727](AS31727_Node4-Limited/) | Node4 Limited | 1 | Port scanning (61) |
 | [AS34343](AS34343_Eweka-Internet-Services-B-V/) | Eweka Internet Services B.V. | 1 | Abusive HTTP requests (27) |
 | [AS399629](AS399629_BL-Networks/) | BL Networks | 1 | Port scanning (16) |
-| [AS50300](AS50300_CustodianDC-Limited/) | CustodianDC Limited | 1 | Abusive HTTP requests (6) |
+| [AS50300](AS50300_CustodianDC-Limited/) | CustodianDC Limited | 1 | Abusive HTTP requests (3) |
 | [AS51167](AS51167_Contabo-GmbH/) | Contabo GmbH | 1 | Abusive HTTP requests (19) |
 | [AS9515](AS9515_Compute-Global-Limited/) | Compute Global Limited | 1 | Port scanning (23), Known botnet / C2 infrastructure (8) |
 

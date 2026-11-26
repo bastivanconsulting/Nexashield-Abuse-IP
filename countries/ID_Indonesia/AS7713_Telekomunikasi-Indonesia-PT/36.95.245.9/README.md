@@ -7,8 +7,8 @@
 | IP | `36.95.245.9` |
 | Country | Indonesia (ID) |
 | ASN | AS7713 · Telekomunikasi Indonesia (PT) |
-| Activity | Known botnet / C2 infrastructure (4) |
-| Events | 4 |
+| Activity | Known botnet / C2 infrastructure (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-25T13:27:21Z |
 | Last seen (UTC) | 2026-11-25T13:27:21Z |
 | Reported to network owner (UTC) | 2026-11-25T14:28:49Z |

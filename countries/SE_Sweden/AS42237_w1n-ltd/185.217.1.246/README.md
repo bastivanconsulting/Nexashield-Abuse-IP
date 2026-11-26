@@ -7,8 +7,8 @@
 | IP | `185.217.1.246` |
 | Country | Sweden (SE) |
 | ASN | AS42237 · w1n ltd |
-| Activity | SSH brute force (10), Port scanning (2) |
-| Events | 12 |
+| Activity | SSH brute force (5), Port scanning (1) |
+| Events | 6 |
 | First seen (UTC) | 2026-11-25T00:23:16Z |
 | Last seen (UTC) | 2026-11-25T00:23:46Z |
 | Reported to network owner (UTC) | 2026-11-25T02:28:07Z |

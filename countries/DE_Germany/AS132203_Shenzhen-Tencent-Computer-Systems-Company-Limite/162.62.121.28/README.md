@@ -7,8 +7,8 @@
 | IP | `162.62.121.28` |
 | Country | Germany (DE) |
 | ASN | AS132203 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Port scanning (84), Abusive HTTP requests (10) |
-| Events | 94 |
+| Activity | Port scanning (42), Abusive HTTP requests (5) |
+| Events | 47 |
 | First seen (UTC) | 2026-11-25T10:32:46Z |
 | Last seen (UTC) | 2026-11-25T12:13:06Z |
 | Reported to network owner (UTC) | 2026-11-25T12:29:24Z |

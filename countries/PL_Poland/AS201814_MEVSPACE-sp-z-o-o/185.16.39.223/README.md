@@ -7,8 +7,8 @@
 | IP | `185.16.39.223` |
 | Country | Poland (PL) |
 | ASN | AS201814 · MEVSPACE sp. z o.o. |
-| Activity | Abusive HTTP requests (18) |
-| Events | 18 |
+| Activity | Abusive HTTP requests (15) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-20T16:02:16Z |
 | Last seen (UTC) | 2026-11-25T20:56:37Z |
 | Reported to network owner (UTC) | 2026-11-20T16:27:14Z |

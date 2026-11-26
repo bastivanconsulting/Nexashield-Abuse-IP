@@ -7,8 +7,8 @@
 | IP | `195.239.40.213` |
 | Country | Russia (RU) |
 | ASN | AS3216 · PJSC "Vimpelcom" |
-| Activity | SSH brute force (10), Port scanning (10) |
-| Events | 20 |
+| Activity | Port scanning (6), SSH brute force (5) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-11T21:10:38Z |
 | Last seen (UTC) | 2026-11-25T22:18:51Z |
 | Reported to network owner (UTC) | 2026-11-25T22:28:12Z |

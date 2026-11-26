@@ -5,11 +5,11 @@
   "asn": 218970,
   "asn_org": "Amin NezhadKahnoji",
   "categories": {
-    "scan": 38,
+    "scan": 41,
     "c2": 5
   },
-  "events": 45,
+  "events": 49,
   "first_seen": "2026-11-24T03:21:37Z",
-  "last_seen": "2026-11-25T16:20:40Z",
+  "last_seen": "2026-11-26T00:15:13Z",
   "reported": "not reported (permanent ban)"
 }

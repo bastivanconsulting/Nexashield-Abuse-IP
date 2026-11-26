@@ -5,9 +5,9 @@
   "asn": 4766,
   "asn_org": "Korea Telecom",
   "categories": {
-    "exploit": 2
+    "exploit": 1
   },
-  "events": 2,
+  "events": 1,
   "first_seen": "2026-11-25T01:35:25Z",
   "last_seen": "2026-11-25T01:35:25Z",
   "reported": "2026-11-25T02:28:03Z"

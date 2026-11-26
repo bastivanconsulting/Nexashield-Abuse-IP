@@ -7,8 +7,8 @@
 | IP | `85.30.212.23` |
 | Country | Russia (RU) |
 | ASN | AS42610 · PJSC Rostelecom |
-| Activity | SSH brute force (14) |
-| Events | 14 |
+| Activity | SSH brute force (7) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-25T02:23:36Z |
 | Last seen (UTC) | 2026-11-25T02:23:56Z |
 | Reported to network owner (UTC) | 2026-11-25T04:27:21Z |

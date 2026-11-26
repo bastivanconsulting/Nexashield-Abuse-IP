@@ -7,8 +7,8 @@
 | IP | `134.255.183.88` |
 | Country | Germany (DE) |
 | ASN | AS51167 · Contabo GmbH |
-| Activity | SSH brute force (30) |
-| Events | 30 |
+| Activity | SSH brute force (15) |
+| Events | 15 |
 | First seen (UTC) | 2026-11-25T21:43:22Z |
 | Last seen (UTC) | 2026-11-25T22:18:16Z |
 | Reported to network owner (UTC) | 2026-11-25T22:27:58Z |

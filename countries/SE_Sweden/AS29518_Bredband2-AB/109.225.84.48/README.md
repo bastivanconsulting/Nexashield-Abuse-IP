@@ -7,8 +7,8 @@
 | IP | `109.225.84.48` |
 | Country | Sweden (SE) |
 | ASN | AS29518 · Bredband2 AB |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) |
-| Events | 6 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) |
+| Events | 3 |
 | First seen (UTC) | 2026-11-25T15:10:52Z |
 | Last seen (UTC) | 2026-11-25T15:10:52Z |
 | Reported to network owner (UTC) | 2026-11-25T16:29:37Z |

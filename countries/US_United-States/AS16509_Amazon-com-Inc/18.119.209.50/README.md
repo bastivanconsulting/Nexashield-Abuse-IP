@@ -7,8 +7,8 @@
 | IP | `18.119.209.50` |
 | Country | United States (US) |
 | ASN | AS16509 · Amazon.com, Inc. |
-| Activity | Port scanning (149) |
-| Events | 149 |
+| Activity | Port scanning (88) |
+| Events | 88 |
 | First seen (UTC) | 2026-11-12T02:03:27Z |
 | Last seen (UTC) | 2026-11-25T06:22:19Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:25Z |

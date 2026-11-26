@@ -5,10 +5,10 @@
   "asn": 42237,
   "asn_org": "w1n ltd",
   "categories": {
-    "ssh": 10,
-    "scan": 2
+    "ssh": 5,
+    "scan": 1
   },
-  "events": 12,
+  "events": 6,
   "first_seen": "2026-11-25T00:23:16Z",
   "last_seen": "2026-11-25T00:23:46Z",
   "reported": "2026-11-25T02:28:07Z"

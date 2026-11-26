@@ -5,10 +5,10 @@
   "asn": 9808,
   "asn_org": "China Mobile Communications Group Co., Ltd",
   "categories": {
-    "ssh": 28,
-    "scan": 2
+    "ssh": 14,
+    "scan": 1
   },
-  "events": 30,
+  "events": 15,
   "first_seen": "2026-11-25T14:50:00Z",
   "last_seen": "2026-11-25T14:50:28Z",
   "reported": "2026-11-25T16:29:42Z"

@@ -16,7 +16,7 @@
 | [`153.117.37.41`](153.117.37.41/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-23T21:53:53Z |
 | [`153.117.56.82`](153.117.56.82/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-14T15:41:03Z |
 | [`153.117.56.102`](153.117.56.102/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 3 | 2026-11-13T01:22:54Z |
-| [`202.47.56.110`](202.47.56.110/) | Exploitation attempt (CVE / RCE / injection) (2) | 2 | 2026-11-25T11:48:52Z |
+| [`202.47.56.110`](202.47.56.110/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-25T11:48:52Z |
 | [`203.101.186.247`](203.101.186.247/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) | 3 | 2026-11-17T22:14:04Z |
 
 ---

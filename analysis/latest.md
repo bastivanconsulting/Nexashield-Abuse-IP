@@ -1,6 +1,5 @@
-Sur la période observée, le dépôt recense 556061 événements générés par 8770 adresses IP réparties sur 94 pays et 723 réseaux ASN, avec une dernière activité enregistrée le 2026-11-25. Les États-Unis (3518), le Royaume-Uni (1030) et les Pays-Bas (722) concentrent les volumes les plus élevés, suivis de l'Allemagne (638), de la Belgique (448) et de la France (395).
+Sur la période observée jusqu'au 2026-11-26, le dépôt recense 553464 événements générés par 8785 adresses IP réparties sur 95 pays et 727 réseaux ASN. Les principales origines géographiques incluent les États-Unis avec 3521 adresses, le Royaume-Uni avec 1030 et les Pays-Bas avec 725. Les activités observées couvrent principalement le balayage de ports avec 8129 occurrences et l'infrastructure botnet / C2 connue avec 6643 occurrences.
 
-- Les principales natures d'événements sont le balayage de ports (8122) et l'infrastructure botnet / C2 connue (6635)
-- On relève également des tentatives de force brute SSH (603), des requêtes HTTP abusives (569) et des exploitations (CVE, RCE, injection) (488)
-- Parmi les réseaux les plus représentés figurent Microsoft Corporation (1182), Hydra Communications Ltd (1004) et Alibaba US Technology Co., Ltd. (633)
-- D'autres activités incluent des charges d'injection bloquées par le WAF (209), des réseaux listés Spamhaus DROP (80), une signature d'exploit UDP (2) et une force brute SMTP / IMAP (1)
+- Les réseaux les plus représentés sont AS8075 (Microsoft Corporation) avec 1183 adresses, AS25369 (Hydra Communications Ltd) avec 1004 et AS45102 (Alibaba US Technology Co., Ltd.) avec 634.
+- Parmi les natures d'événements, on relève la force brute SSH (609), les requêtes HTTP abusives (571) et l'exploitation (CVE, RCE, injection) avec 490 cas.
+- D'autres catégories incluent la charge d'injection bloquée par le WAF (209), les réseaux listés Spamhaus DROP (80), la signature d'exploit UDP (2) et la force brute SMTP / IMAP (1).

@@ -1,0 +1,15 @@
+{
+  "ip": "162.4.81.4",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 137645,
+  "asn_org": "Macro Signal Pvt Ltd",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-13T02:43:36Z",
+  "last_seen": "2026-11-21T02:29:01Z",
+  "reported": "not reported (permanent ban)"
+}

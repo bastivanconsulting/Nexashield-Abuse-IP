@@ -15,10 +15,10 @@
 | [`79.124.40.162`](79.124.40.162/) | Port scanning (101), Known botnet / C2 infrastructure (4) | 129 | 2026-11-25T22:52:25Z |
 | [`79.124.40.166`](79.124.40.166/) | Port scanning (202), Known botnet / C2 infrastructure (17) | 224 | 2026-11-22T07:24:57Z |
 | [`79.124.40.170`](79.124.40.170/) | Port scanning (685), Known botnet / C2 infrastructure (46) | 776 | 2026-11-25T23:09:50Z |
-| [`79.124.40.178`](79.124.40.178/) | Port scanning (58) | 58 | 2026-11-25T01:19:43Z |
+| [`79.124.40.178`](79.124.40.178/) | Port scanning (55) | 55 | 2026-11-25T01:19:43Z |
 | [`79.124.40.186`](79.124.40.186/) | Port scanning (138) | 157 | 2026-11-21T22:06:32Z |
 | [`79.124.49.62`](79.124.49.62/) | Port scanning (63), Known botnet / C2 infrastructure (24) | 98 | 2026-11-25T14:38:10Z |
-| [`79.124.49.102`](79.124.49.102/) | Port scanning (21), Known botnet / C2 infrastructure (7) | 29 | 2026-11-25T22:53:03Z |
+| [`79.124.49.102`](79.124.49.102/) | Port scanning (22), Known botnet / C2 infrastructure (7) | 30 | 2026-11-26T00:04:42Z |
 | [`79.124.49.146`](79.124.49.146/) | Port scanning (56), Known botnet / C2 infrastructure (20) | 88 | 2026-11-25T10:49:01Z |
 | [`79.124.49.186`](79.124.49.186/) | Port scanning (38), Known botnet / C2 infrastructure (4) | 46 | 2026-11-25T22:53:20Z |
 | [`79.124.56.222`](79.124.56.222/) | Port scanning (502), Known botnet / C2 infrastructure (39) | 576 | 2026-11-25T23:10:58Z |
@@ -26,7 +26,7 @@
 | [`79.124.58.22`](79.124.58.22/) | Abusive HTTP requests (36) | 36 | 2026-11-10T02:43:24Z |
 | [`79.124.58.70`](79.124.58.70/) | Port scanning (479) | 560 | 2026-11-25T23:14:25Z |
 | [`79.124.58.74`](79.124.58.74/) | Port scanning (632) | 727 | 2026-11-25T22:33:53Z |
-| [`79.124.58.82`](79.124.58.82/) | Abusive HTTP requests (224), Exploitation attempt (CVE / RCE / injection) (1) | 225 | 2026-11-25T07:56:48Z |
+| [`79.124.58.82`](79.124.58.82/) | Abusive HTTP requests (112), Exploitation attempt (CVE / RCE / injection) (1) | 113 | 2026-11-25T07:56:48Z |
 | [`79.124.58.98`](79.124.58.98/) | Port scanning (612) | 713 | 2026-11-25T23:07:23Z |
 | [`79.124.58.102`](79.124.58.102/) | Port scanning (453) | 526 | 2026-11-25T22:56:14Z |
 | [`79.124.58.106`](79.124.58.106/) | Port scanning (588) | 676 | 2026-11-25T23:03:59Z |

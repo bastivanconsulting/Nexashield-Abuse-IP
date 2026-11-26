@@ -5,10 +5,10 @@
   "asn": 3216,
   "asn_org": "PJSC \"Vimpelcom\"",
   "categories": {
-    "ssh": 10,
-    "scan": 10
+    "ssh": 5,
+    "scan": 6
   },
-  "events": 20,
+  "events": 11,
   "first_seen": "2026-11-11T21:10:38Z",
   "last_seen": "2026-11-25T22:18:51Z",
   "reported": "2026-11-25T22:28:12Z"

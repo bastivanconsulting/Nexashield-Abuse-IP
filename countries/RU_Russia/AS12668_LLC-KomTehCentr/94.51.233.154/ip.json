@@ -1,0 +1,15 @@
+{
+  "ip": "94.51.233.154",
+  "country_code": "RU",
+  "country": "Russia",
+  "asn": 12668,
+  "asn_org": "LLC \"KomTehCentr\"",
+  "categories": {
+    "web": 1,
+    "exploit": 2
+  },
+  "events": 3,
+  "first_seen": "2026-11-25T23:49:30Z",
+  "last_seen": "2026-11-25T23:49:31Z",
+  "reported": "2026-11-26T00:27:37Z"
+}

@@ -5,9 +5,9 @@
   "asn": 16509,
   "asn_org": "Amazon.com, Inc.",
   "categories": {
-    "scan": 149
+    "scan": 88
   },
-  "events": 149,
+  "events": 88,
   "first_seen": "2026-11-12T02:03:27Z",
   "last_seen": "2026-11-25T06:22:19Z",
   "reported": "2026-11-11T16:35:25Z"

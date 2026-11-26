@@ -7,8 +7,8 @@
 | IP | `14.33.48.192` |
 | Country | South Korea (KR) |
 | ASN | AS4766 · Korea Telecom |
-| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 2 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 1 |
 | First seen (UTC) | 2026-11-25T01:35:25Z |
 | Last seen (UTC) | 2026-11-25T01:35:25Z |
 | Reported to network owner (UTC) | 2026-11-25T02:28:03Z |

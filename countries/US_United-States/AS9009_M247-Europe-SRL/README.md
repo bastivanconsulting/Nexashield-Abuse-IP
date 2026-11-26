@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`38.132.109.100`](38.132.109.100/) | Port scanning (19) | 26 | 2026-11-14T21:56:54Z |
-| [`146.70.218.122`](146.70.218.122/) | SSH brute force (22), Port scanning (2) | 24 | 2026-11-25T20:57:35Z |
+| [`146.70.218.122`](146.70.218.122/) | SSH brute force (11), Port scanning (1) | 12 | 2026-11-25T20:57:35Z |
 | [`193.37.252.71`](193.37.252.71/) | Port scanning (19), Known botnet / C2 infrastructure (7) | 27 | 2026-11-16T10:39:48Z |
 
 ---

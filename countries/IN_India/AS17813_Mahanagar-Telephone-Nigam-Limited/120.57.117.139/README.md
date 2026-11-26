@@ -7,8 +7,8 @@
 | IP | `120.57.117.139` |
 | Country | India (IN) |
 | ASN | AS17813 · Mahanagar Telephone Nigam Limited |
-| Activity | Exploitation attempt (CVE / RCE / injection) (4) |
-| Events | 4 |
+| Activity | Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 2 |
 | First seen (UTC) | 2026-11-25T20:43:58Z |
 | Last seen (UTC) | 2026-11-25T20:43:58Z |
 | Reported to network owner (UTC) | 2026-11-25T22:27:49Z |
