@@ -1,0 +1,14 @@
+{
+  "ip": "82.151.84.22",
+  "country_code": "MR",
+  "country": "Mauritania",
+  "asn": 29544,
+  "asn_org": "Mauritanian Telecommunication Company",
+  "categories": {
+    "scan": 57
+  },
+  "events": 67,
+  "first_seen": "2026-11-11T15:30:52Z",
+  "last_seen": "2026-11-26T17:10:05Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,6 +1,6 @@
 # AS6939 · Hurricane Electric LLC
 
-🇺🇸 United States · **77** malicious IP(s)
+🇺🇸 United States · **80** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -66,9 +66,12 @@
 | [`184.105.139.111`](184.105.139.111/) | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (1) | 7 | 2026-11-24T07:33:05Z |
 | [`184.105.139.120`](184.105.139.120/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (2) | 6 | 2026-11-25T13:22:21Z |
 | [`184.105.247.196`](184.105.247.196/) | Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (2), SSH brute force (1) | 7 | 2026-11-19T01:38:34Z |
+| [`184.105.247.199`](184.105.247.199/) | Port scanning (1), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 4 | 2026-11-26T17:09:05Z |
+| [`184.105.247.231`](184.105.247.231/) | Port scanning (2), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) | 6 | 2026-11-26T17:08:05Z |
 | [`184.105.247.234`](184.105.247.234/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1), Port scanning (1) | 4 | 2026-11-25T09:46:47Z |
 | [`184.105.247.235`](184.105.247.235/) | Port scanning (6), Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 9 | 2026-11-26T14:54:16Z |
 | [`184.105.247.238`](184.105.247.238/) | Port scanning (10), Exploitation attempt (CVE / RCE / injection) (3) | 17 | 2026-11-26T05:12:09Z |
+| [`184.105.247.239`](184.105.247.239/) | Port scanning (4), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) | 9 | 2026-11-26T17:15:05Z |
 | [`184.105.247.240`](184.105.247.240/) | Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-15T08:30:03Z |
 | [`184.105.247.244`](184.105.247.244/) | Port scanning (23), Known botnet / C2 infrastructure (2) | 35 | 2026-11-25T15:17:36Z |
 | [`184.105.247.247`](184.105.247.247/) | Port scanning (11), Known botnet / C2 infrastructure (2), Exploitation attempt (CVE / RCE / injection) (1) | 19 | 2026-11-26T01:04:05Z |

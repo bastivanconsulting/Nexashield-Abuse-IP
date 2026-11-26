@@ -8,15 +8,15 @@
 | [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 4 | Abusive HTTP requests (58) |
 | [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 3 | Port scanning (108), Known botnet / C2 infrastructure (7) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (2) |
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (387), Known botnet / C2 infrastructure (91) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (388), Known botnet / C2 infrastructure (91) |
 | [AS135450](AS135450_PT-Berkah-Solusi-Teknologi-Informasi/) | PT Berkah Solusi Teknologi Informasi | 1 | Abusive HTTP requests (4), Port scanning (1) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (67) |
 | [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (27), Known botnet / C2 infrastructure (10), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |
 | [AS141983](AS141983_PT-Rajeg-Media-Telekomunikasi/) | PT Rajeg Media Telekomunikasi | 1 | Port scanning (10), Known botnet / C2 infrastructure (4), Abusive HTTP requests (1) |
-| [AS150191](AS150191_PT-Sarana-Intimedia-Telematika/) | PT Sarana Intimedia Telematika | 1 | SSH brute force (80) |
+| [AS150191](AS150191_PT-Sarana-Intimedia-Telematika/) | PT Sarana Intimedia Telematika | 1 | SSH brute force (88) |
 | [AS150436](AS150436_Byteplus-Pte-Ltd/) | Byteplus Pte. Ltd. | 1 | Port scanning (2), Known botnet / C2 infrastructure (1), SSH brute force (1) |
 | [AS150493](AS150493_PT-Gunung-Sedayu-Sentosa/) | PT Gunung Sedayu Sentosa | 1 | Web injection payload blocked by WAF (1) |
-| [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (42) |
+| [AS150968](AS150968_PT-Jaringanku-Media-Telekomunikasi/) | PT Jaringanku Media Telekomunikasi | 1 | Port scanning (43) |
 | [AS154896](AS154896_CV-Griya-Cloud-Server/) | CV Griya Cloud Server | 1 | Port scanning (23), Known botnet / C2 infrastructure (4) |
 | [AS17995](AS17995_PT-iForte-Global-Internet/) | PT iForte Global Internet | 1 | SSH brute force (16), Port scanning (1) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 1 | Port scanning (17) |

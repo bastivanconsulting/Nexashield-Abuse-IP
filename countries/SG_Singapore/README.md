@@ -4,8 +4,8 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 133 | Port scanning (913), Known botnet / C2 infrastructure (642), Web injection payload blocked by WAF (24), Abusive HTTP requests (10), SSH brute force (7) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 25 | Abusive HTTP requests (410), Port scanning (409), Known botnet / C2 infrastructure (101), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 133 | Port scanning (917), Known botnet / C2 infrastructure (645), Web injection payload blocked by WAF (24), Abusive HTTP requests (10), SSH brute force (7) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 25 | Abusive HTTP requests (410), Port scanning (410), Known botnet / C2 infrastructure (102), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 7 | Port scanning (179) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (468), Known botnet / C2 infrastructure (54) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 4 | Port scanning (32), Known botnet / C2 infrastructure (23), SSH brute force (12), Abusive HTTP requests (3) |

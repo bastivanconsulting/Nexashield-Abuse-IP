@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Port scanning (62), Known botnet / C2 infrastructure (29) |
+| [AS200019](AS200019_ALEXHOST-S-R-L/) | ALEXHOST S.R.L. | 1 | Port scanning (63), Known botnet / C2 infrastructure (30) |
 | [AS48753](AS48753_AVA-HOST-SRL/) | AVA HOST SRL | 1 | Port scanning (35) |
 
 ---

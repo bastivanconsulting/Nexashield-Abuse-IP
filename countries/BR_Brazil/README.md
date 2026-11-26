@@ -6,9 +6,9 @@
 |---|---|---:|---|
 | [AS10429](AS10429_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 17 | Port scanning (133), Known botnet / C2 infrastructure (121), SSH brute force (70) |
 | [AS18881](AS18881_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 14 | Known botnet / C2 infrastructure (95), Port scanning (94), SSH brute force (58) |
-| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1499), Known botnet / C2 infrastructure (137), Exploitation attempt (CVE / RCE / injection) (77), Abusive HTTP requests (1) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (180), Known botnet / C2 infrastructure (62) |
-| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (670), Known botnet / C2 infrastructure (53), SSH brute force (18) |
+| [AS215925](AS215925_VPSVAULT-HOST-LTD/) | VPSVAULT.HOST LTD | 8 | Port scanning (1506), Known botnet / C2 infrastructure (137), Exploitation attempt (CVE / RCE / injection) (77), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (181), Known botnet / C2 infrastructure (63) |
+| [AS26599](AS26599_TELEF-NICA-BRASIL-S-A/) | TELEFÔNICA BRASIL S.A | 7 | Port scanning (671), Known botnet / C2 infrastructure (53), SSH brute force (18) |
 | [AS7738](AS7738_V-tal/) | V tal | 7 | Port scanning (64), Known botnet / C2 infrastructure (55), SSH brute force (28) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 3 | Abusive HTTP requests (687), Web injection payload blocked by WAF (47) |
 | [AS13335](AS13335_Cloudflare-Inc/) | Cloudflare, Inc. | 2 | Web injection payload blocked by WAF (16), Known botnet / C2 infrastructure (6) |
@@ -23,8 +23,8 @@
 | [AS268214](AS268214_schossler-e-silva-ltda-me/) | schossler e silva ltda - me | 1 | Port scanning (22), Known botnet / C2 infrastructure (4) |
 | [AS268305](AS268305_T-I-TELECOMUNICA-ES-LTDA-ME/) | T & I TELECOMUNICAÇÕES LTDA ME | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
 | [AS268786](AS268786_LINE-FIBRA-TELECOM-LTDA/) | LINE FIBRA TELECOM LTDA | 1 | Port scanning (26) |
-| [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (52), Known botnet / C2 infrastructure (9) |
-| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (195), Known botnet / C2 infrastructure (27) |
+| [AS268788](AS268788_HEXA-TELECOM-LTDA/) | HEXA TELECOM LTDA | 1 | Port scanning (53), Known botnet / C2 infrastructure (10) |
+| [AS269070](AS269070_Hostzone-Tecnologia-LTDA/) | Hostzone Tecnologia LTDA | 1 | Port scanning (198), Known botnet / C2 infrastructure (27) |
 | [AS269672](AS269672_RAUL-GONcALO-LEITE/) | RAUL GONcALO LEITE | 1 | SSH brute force (6), Known botnet / C2 infrastructure (1) |
 | [AS270564](AS270564_MASTER-DA-WEB-DATACENTER-LTDA/) | MASTER DA WEB DATACENTER LTDA | 1 | Port scanning (7), Known botnet / C2 infrastructure (1) |
 | [AS272696](AS272696_HOSTING-NOW-NET-LTDA/) | HOSTING NOW NET LTDA | 1 | Port scanning (86) |
@@ -33,7 +33,7 @@
 | [AS47583](AS47583_Hostinger-International-Limited/) | Hostinger International Limited | 1 | SSH brute force (5), Port scanning (2) |
 | [AS53107](AS53107_EVEO-Servi-os-de-Internet-Ltda/) | EVEO Serviços de Internet Ltda. | 1 | Port scanning (12) |
 | [AS53238](AS53238_Chapeco-Tecnologia-em-Telecomunica-es-Ltda/) | Chapeco Tecnologia em Telecomunicações Ltda. | 1 | Exploitation attempt (CVE / RCE / injection) (3), Known botnet / C2 infrastructure (1) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (29), Known botnet / C2 infrastructure (3) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 1 | Port scanning (33), Known botnet / C2 infrastructure (3) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 1 | Web injection payload blocked by WAF (3), Known botnet / C2 infrastructure (2) |
 
 ---

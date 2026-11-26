@@ -7,10 +7,10 @@
 | IP | `172.233.26.186` |
 | Country | Brazil (BR) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (29), Known botnet / C2 infrastructure (3) |
-| Events | 35 |
+| Activity | Port scanning (33), Known botnet / C2 infrastructure (3) |
+| Events | 39 |
 | First seen (UTC) | 2026-11-12T17:18:37Z |
-| Last seen (UTC) | 2026-11-26T14:26:07Z |
+| Last seen (UTC) | 2026-11-26T16:33:38Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

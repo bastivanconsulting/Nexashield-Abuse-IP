@@ -5,10 +5,10 @@
   "asn": 150191,
   "asn_org": "PT Sarana Intimedia Telematika",
   "categories": {
-    "ssh": 80
+    "ssh": 88
   },
-  "events": 80,
+  "events": 88,
   "first_seen": "2026-11-26T00:08:36Z",
-  "last_seen": "2026-11-26T00:47:11Z",
+  "last_seen": "2026-11-26T17:11:50Z",
   "reported": "2026-11-26T00:27:41Z"
 }
