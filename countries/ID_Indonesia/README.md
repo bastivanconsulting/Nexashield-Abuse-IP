@@ -6,9 +6,9 @@
 |---|---|---:|---|
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (132), Known botnet / C2 infrastructure (9) |
 | [AS17451](AS17451_BIZNET-NETWORKS/) | BIZNET NETWORKS | 4 | Abusive HTTP requests (58) |
-| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 3 | Port scanning (103), Known botnet / C2 infrastructure (7) |
+| [AS7713](AS7713_Telekomunikasi-Indonesia-PT/) | Telekomunikasi Indonesia (PT) | 3 | Port scanning (106), Known botnet / C2 infrastructure (7) |
 | [AS150249](AS150249_PT-Atharva-Telematika-Persada/) | PT Atharva Telematika Persada | 2 | Abusive HTTP requests (3), Web injection payload blocked by WAF (2) |
-| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (380), Known botnet / C2 infrastructure (90) |
+| [AS63491](AS63491_Universitas-Katolik-Widya-Mandala/) | Universitas Katolik Widya Mandala | 2 | Port scanning (382), Known botnet / C2 infrastructure (90) |
 | [AS135450](AS135450_PT-Berkah-Solusi-Teknologi-Informasi/) | PT Berkah Solusi Teknologi Informasi | 1 | Abusive HTTP requests (4), Port scanning (1) |
 | [AS136880](AS136880_PT-Sumatra-Multimedia-Solusi/) | PT. Sumatra Multimedia Solusi | 1 | Port scanning (67) |
 | [AS141127](AS141127_PT-Anugerah-Cimanuk-Raya/) | PT Anugerah Cimanuk Raya | 1 | Port scanning (27), Known botnet / C2 infrastructure (10), Abusive HTTP requests (2), Web injection payload blocked by WAF (1) |

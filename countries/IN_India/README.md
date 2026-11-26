@@ -7,7 +7,7 @@
 | [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 17 | Port scanning (59), SSH brute force (36), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (28), Abusive HTTP requests (9) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 14 | SSH brute force (67), Known botnet / C2 infrastructure (66), Port scanning (50) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | SSH brute force (41), Port scanning (37), Known botnet / C2 infrastructure (31) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (114), Known botnet / C2 infrastructure (30) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (116), Known botnet / C2 infrastructure (30) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (303), Known botnet / C2 infrastructure (102) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | Known botnet / C2 infrastructure (20), SSH brute force (18), Port scanning (17) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |

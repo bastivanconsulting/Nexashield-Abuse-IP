@@ -7,10 +7,10 @@
 | IP | `128.14.239.39` |
 | Country | Taiwan (TW) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (22), Known botnet / C2 infrastructure (2) |
-| Events | 37 |
+| Activity | Port scanning (23), Known botnet / C2 infrastructure (3) |
+| Events | 39 |
 | First seen (UTC) | 2026-11-11T19:40:19Z |
-| Last seen (UTC) | 2026-11-25T05:32:24Z |
+| Last seen (UTC) | 2026-11-26T08:35:33Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

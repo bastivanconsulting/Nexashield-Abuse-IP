@@ -5,11 +5,11 @@
   "asn": 25369,
   "asn_org": "Hydra Communications Ltd",
   "categories": {
-    "scan": 148,
-    "c2": 43
+    "scan": 149,
+    "c2": 44
   },
-  "events": 192,
+  "events": 194,
   "first_seen": "2026-11-11T11:38:43Z",
-  "last_seen": "2026-11-26T07:23:28Z",
+  "last_seen": "2026-11-26T09:01:02Z",
   "reported": "not reported (permanent ban)"
 }

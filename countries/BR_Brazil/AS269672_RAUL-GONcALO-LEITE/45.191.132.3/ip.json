@@ -1,0 +1,15 @@
+{
+  "ip": "45.191.132.3",
+  "country_code": "BR",
+  "country": "Brazil",
+  "asn": 269672,
+  "asn_org": "RAUL GONcALO LEITE",
+  "categories": {
+    "ssh": 1,
+    "c2": 1
+  },
+  "events": 1,
+  "first_seen": "2026-11-26T09:30:53Z",
+  "last_seen": "2026-11-26T09:30:53Z",
+  "reported": "not reported (permanent ban)"
+}

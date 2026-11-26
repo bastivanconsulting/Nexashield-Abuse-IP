@@ -8,9 +8,9 @@
 | Country | Colombia (CO) |
 | ASN | AS52468 · UFINET PANAMA S.A. |
 | Activity | Port scanning (26) |
-| Events | 26 |
+| Events | 27 |
 | First seen (UTC) | 2026-11-13T12:39:16Z |
-| Last seen (UTC) | 2026-11-25T14:47:17Z |
+| Last seen (UTC) | 2026-11-26T08:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

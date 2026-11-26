@@ -8,9 +8,9 @@
 | Country | The Netherlands (NL) |
 | ASN | AS197170 · TechTies Inc. |
 | Activity | Web injection payload blocked by WAF (2), Known botnet / C2 infrastructure (2), Port scanning (1) |
-| Events | 5 |
+| Events | 6 |
 | First seen (UTC) | 2026-11-23T19:20:50Z |
-| Last seen (UTC) | 2026-11-26T06:19:02Z |
+| Last seen (UTC) | 2026-11-26T08:18:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

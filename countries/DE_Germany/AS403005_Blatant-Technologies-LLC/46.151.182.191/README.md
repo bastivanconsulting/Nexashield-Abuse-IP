@@ -7,10 +7,10 @@
 | IP | `46.151.182.191` |
 | Country | Germany (DE) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Port scanning (69) |
-| Events | 76 |
+| Activity | Port scanning (71) |
+| Events | 78 |
 | First seen (UTC) | 2026-11-11T13:27:48Z |
-| Last seen (UTC) | 2026-11-24T15:07:47Z |
+| Last seen (UTC) | 2026-11-26T09:00:53Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

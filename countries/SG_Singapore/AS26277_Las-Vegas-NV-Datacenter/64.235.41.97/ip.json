@@ -5,10 +5,10 @@
   "asn": 26277,
   "asn_org": "Las Vegas NV Datacenter",
   "categories": {
-    "scan": 282
+    "scan": 283
   },
-  "events": 336,
+  "events": 337,
   "first_seen": "2026-11-11T09:48:21Z",
-  "last_seen": "2026-11-26T07:17:22Z",
+  "last_seen": "2026-11-26T08:42:21Z",
   "reported": "not reported (permanent ban)"
 }

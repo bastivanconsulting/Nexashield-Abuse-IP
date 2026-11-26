@@ -17,9 +17,9 @@
 | [`146.88.241.120`](146.88.241.120/) | Port scanning (75), Known botnet / C2 infrastructure (10) | 102 | 2026-11-26T02:54:31Z |
 | [`146.88.241.130`](146.88.241.130/) | Port scanning (137), Known botnet / C2 infrastructure (31), Exploitation attempt (CVE / RCE / injection) (1) | 184 | 2026-11-26T08:14:09Z |
 | [`146.88.241.140`](146.88.241.140/) | Port scanning (81), Known botnet / C2 infrastructure (19) | 107 | 2026-11-26T07:29:37Z |
-| [`146.88.241.150`](146.88.241.150/) | Port scanning (140), Known botnet / C2 infrastructure (28), Exploitation attempt (CVE / RCE / injection) (7) | 180 | 2026-11-26T08:00:58Z |
+| [`146.88.241.150`](146.88.241.150/) | Port scanning (143), Known botnet / C2 infrastructure (28), Exploitation attempt (CVE / RCE / injection) (7) | 183 | 2026-11-26T09:01:24Z |
 | [`146.88.241.160`](146.88.241.160/) | Port scanning (70), Known botnet / C2 infrastructure (17) | 90 | 2026-11-25T10:48:23Z |
-| [`146.88.241.170`](146.88.241.170/) | Port scanning (159), Known botnet / C2 infrastructure (29) | 205 | 2026-11-26T08:09:44Z |
+| [`146.88.241.170`](146.88.241.170/) | Port scanning (160), Known botnet / C2 infrastructure (29) | 206 | 2026-11-26T09:00:20Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>
