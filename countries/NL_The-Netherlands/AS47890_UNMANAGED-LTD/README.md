@@ -1,6 +1,6 @@
 # AS47890 · UNMANAGED LTD
 
-🇳🇱 The Netherlands · **38** malicious IP(s)
+🇳🇱 The Netherlands · **39** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -9,10 +9,11 @@
 | [`2.57.122.168`](2.57.122.168/) | SSH brute force (200), Port scanning (49), Known botnet / C2 infrastructure (18) | 274 | 2026-11-25T12:59:58Z |
 | [`2.57.122.189`](2.57.122.189/) | Web injection payload blocked by WAF (18), Port scanning (5), Known botnet / C2 infrastructure (4) | 31 | 2026-11-21T11:25:18Z |
 | [`2.57.122.207`](2.57.122.207/) | Known botnet / C2 infrastructure (33), Port scanning (9) | 45 | 2026-11-24T22:52:08Z |
-| [`2.57.122.209`](2.57.122.209/) | SSH brute force (85), Port scanning (52), Known botnet / C2 infrastructure (20) | 166 | 2026-11-26T08:00:23Z |
+| [`2.57.122.209`](2.57.122.209/) | SSH brute force (85), Port scanning (53), Known botnet / C2 infrastructure (21) | 168 | 2026-11-26T18:51:29Z |
 | [`80.94.92.20`](80.94.92.20/) | Port scanning (90), Known botnet / C2 infrastructure (3) | 110 | 2026-11-26T17:09:34Z |
 | [`80.94.92.55`](80.94.92.55/) | SSH brute force (80), Port scanning (63), Known botnet / C2 infrastructure (22) | 177 | 2026-11-26T15:34:21Z |
 | [`80.94.92.130`](80.94.92.130/) | Port scanning (163), Known botnet / C2 infrastructure (13) | 188 | 2026-11-16T20:03:02Z |
+| [`80.94.92.142`](80.94.92.142/) | SSH brute force (30), Port scanning (4), Known botnet / C2 infrastructure (1) | 83 | 2026-11-26T19:16:02Z |
 | [`80.94.92.179`](80.94.92.179/) | SSH brute force (608), Known botnet / C2 infrastructure (35), Port scanning (26) | 675 | 2026-11-26T07:35:03Z |
 | [`80.94.92.234`](80.94.92.234/) | SSH brute force (109), Port scanning (81), Known botnet / C2 infrastructure (29) | 252 | 2026-11-26T17:40:14Z |
 | [`92.118.39.14`](92.118.39.14/) | SSH brute force (261), Port scanning (57), Known botnet / C2 infrastructure (20) | 366 | 2026-11-26T04:55:44Z |
@@ -29,7 +30,7 @@
 | [`92.118.39.72`](92.118.39.72/) | Port scanning (28), SSH brute force (20), Known botnet / C2 infrastructure (5) | 62 | 2026-11-25T04:10:07Z |
 | [`92.118.39.75`](92.118.39.75/) | SSH brute force (110), Port scanning (64), Known botnet / C2 infrastructure (26) | 213 | 2026-11-26T17:41:27Z |
 | [`92.118.39.76`](92.118.39.76/) | Port scanning (26), Known botnet / C2 infrastructure (9), Exploitation attempt (CVE / RCE / injection) (1) | 40 | 2026-11-25T00:41:37Z |
-| [`92.118.39.77`](92.118.39.77/) | SSH brute force (690), Port scanning (47), Known botnet / C2 infrastructure (16) | 820 | 2026-11-25T19:01:49Z |
+| [`92.118.39.77`](92.118.39.77/) | SSH brute force (690), Port scanning (51), Known botnet / C2 infrastructure (17) | 826 | 2026-11-26T19:01:52Z |
 | [`92.118.39.78`](92.118.39.78/) | SSH brute force (96), Port scanning (44), Known botnet / C2 infrastructure (20) | 179 | 2026-11-26T15:20:17Z |
 | [`92.118.39.92`](92.118.39.92/) | Port scanning (124), Known botnet / C2 infrastructure (36) | 161 | 2026-11-26T15:28:10Z |
 | [`92.118.39.93`](92.118.39.93/) | Web injection payload blocked by WAF (3), Port scanning (1), Known botnet / C2 infrastructure (1) | 6 | 2026-11-25T20:36:49Z |

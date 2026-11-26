@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`5.187.38.30`](5.187.38.30/) | Port scanning (1212), Abusive HTTP requests (50), Known botnet / C2 infrastructure (26) | 1447 | 2026-11-26T17:56:12Z |
+| [`5.187.38.30`](5.187.38.30/) | Port scanning (1217), Abusive HTTP requests (50), Known botnet / C2 infrastructure (26) | 1453 | 2026-11-26T19:10:55Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

@@ -7,10 +7,10 @@
 | IP | `124.243.171.6` |
 | Country | Singapore (SG) |
 | ASN | AS136907 · HUAWEI INTERNATIONAL PTE. LTD. |
-| Activity | SSH brute force (1), Known botnet / C2 infrastructure (1) |
-| Events | 1 |
-| First seen (UTC) | 2026-11-26T18:25:48Z |
-| Last seen (UTC) | 2026-11-26T18:25:48Z |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (1) |
+| Events | 8 |
+| First seen (UTC) | 2026-11-26T18:25:46Z |
+| Last seen (UTC) | 2026-11-26T18:27:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

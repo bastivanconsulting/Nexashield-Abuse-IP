@@ -1,14 +1,14 @@
 # 🇮🇳 India
 
-**100** malicious IP(s) across **39** network(s).
+**101** malicious IP(s) across **39** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 18 | Port scanning (59), SSH brute force (36), Exploitation attempt (CVE / RCE / injection) (32), Known botnet / C2 infrastructure (30), Abusive HTTP requests (11) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 19 | Port scanning (59), SSH brute force (44), Known botnet / C2 infrastructure (33), Exploitation attempt (CVE / RCE / injection) (32), Abusive HTTP requests (11) |
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 14 | Known botnet / C2 infrastructure (69), SSH brute force (67), Port scanning (54) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | SSH brute force (41), Port scanning (38), Known botnet / C2 infrastructure (32) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (123), Known botnet / C2 infrastructure (32) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (311), Known botnet / C2 infrastructure (108) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (316), Known botnet / C2 infrastructure (109) |
 | [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | Known botnet / C2 infrastructure (21), SSH brute force (18), Port scanning (18) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
@@ -24,12 +24,12 @@
 | [AS135801](AS135801_C32-Broadband-Pvt-Ltd/) | C32 Broadband Pvt. Ltd. | 1 | Port scanning (10), Known botnet / C2 infrastructure (2) |
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (8), Known botnet / C2 infrastructure (8), SSH brute force (4) |
 | [AS136323](AS136323_Ngc-Broadband-Pvt-Ltd/) | Ngc Broadband Pvt. Ltd. | 1 | Port scanning (7), Known botnet / C2 infrastructure (4), SSH brute force (2) |
-| [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (11), Known botnet / C2 infrastructure (8), SSH brute force (2) |
+| [AS137109](AS137109_Grace-Teleinfra-Pvt-Ltd/) | Grace Teleinfra Pvt Ltd | 1 | Port scanning (12), Known botnet / C2 infrastructure (9), SSH brute force (2) |
 | [AS137645](AS137645_Macro-Signal-Pvt-Ltd/) | Macro Signal Pvt Ltd | 1 | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS138221](AS138221_Ynet-Telecom-Solutions/) | Ynet Telecom Solutions | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3), Port scanning (1) |
 | [AS138755](AS138755_City-Online-Ap-Private-Ltd/) | City Online Ap Private Ltd | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
 | [AS141526](AS141526_Jbn-Online-Private-Limited/) | Jbn Online Private Limited | 1 | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (4) |
-| [AS142439](AS142439_ALPHA-FIBER-NET/) | ALPHA FIBER NET | 1 | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (1) |
+| [AS142439](AS142439_ALPHA-FIBER-NET/) | ALPHA FIBER NET | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (2) |
 | [AS146943](AS146943_Tier-4-Cloud-Services/) | Tier 4 Cloud Services | 1 | Port scanning (127), Known botnet / C2 infrastructure (23) |
 | [AS149553](AS149553_AXOM-INTERNET-SERVICES-PRIVATE-LIMITED/) | AXOM INTERNET SERVICES PRIVATE LIMITED | 1 | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (2) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |

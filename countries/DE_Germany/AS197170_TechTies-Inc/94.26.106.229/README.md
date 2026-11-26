@@ -7,10 +7,10 @@
 | IP | `94.26.106.229` |
 | Country | Germany (DE) |
 | ASN | AS197170 · TechTies Inc. |
-| Activity | Port scanning (36), Known botnet / C2 infrastructure (14) |
-| Events | 51 |
+| Activity | Port scanning (37), Known botnet / C2 infrastructure (15) |
+| Events | 53 |
 | First seen (UTC) | 2026-11-18T16:44:35Z |
-| Last seen (UTC) | 2026-11-26T15:27:24Z |
+| Last seen (UTC) | 2026-11-26T18:55:34Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

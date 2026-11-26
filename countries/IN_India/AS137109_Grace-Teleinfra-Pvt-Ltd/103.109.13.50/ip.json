@@ -6,11 +6,11 @@
   "asn_org": "Grace Teleinfra Pvt Ltd",
   "categories": {
     "ssh": 2,
-    "c2": 8,
-    "scan": 11
+    "c2": 9,
+    "scan": 12
   },
-  "events": 23,
+  "events": 25,
   "first_seen": "2026-11-15T01:50:13Z",
-  "last_seen": "2026-11-25T05:16:34Z",
+  "last_seen": "2026-11-26T18:19:26Z",
   "reported": "not reported (permanent ban)"
 }

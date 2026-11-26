@@ -38,7 +38,7 @@
 | [`64.89.163.180`](64.89.163.180/) | Port scanning (28) | 37 | 2026-11-26T17:11:46Z |
 | [`64.89.163.223`](64.89.163.223/) | Port scanning (4) | 6 | 2026-11-26T11:19:06Z |
 | [`64.89.163.235`](64.89.163.235/) | Port scanning (12) | 14 | 2026-11-26T14:24:19Z |
-| [`64.89.163.245`](64.89.163.245/) | Port scanning (1) | 2 | 2026-11-26T11:19:06Z |
+| [`64.89.163.245`](64.89.163.245/) | Port scanning (2) | 3 | 2026-11-26T18:35:22Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

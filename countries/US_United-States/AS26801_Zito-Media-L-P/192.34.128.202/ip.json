@@ -1,0 +1,15 @@
+{
+  "ip": "192.34.128.202",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 26801,
+  "asn_org": "Zito Media, L.P.",
+  "categories": {
+    "ssh": 6,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-18T22:46:34Z",
+  "last_seen": "2026-11-26T18:46:06Z",
+  "reported": "not reported (permanent ban)"
+}

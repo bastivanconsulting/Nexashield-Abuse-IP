@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 124 | Port scanning (854), Known botnet / C2 infrastructure (599), Abusive HTTP requests (2) |
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 12 | Port scanning (281), Known botnet / C2 infrastructure (53) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 10 | Port scanning (660), Known botnet / C2 infrastructure (113) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 124 | Port scanning (856), Known botnet / C2 infrastructure (602), Abusive HTTP requests (2) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 12 | Port scanning (282), Known botnet / C2 infrastructure (53) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 10 | Port scanning (664), Known botnet / C2 infrastructure (116) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 6 | Abusive HTTP requests (1293), Port scanning (108), Web injection payload blocked by WAF (85), Known botnet / C2 infrastructure (14), SSH brute force (2) |
 | [AS149440](AS149440_Evoxt-Sdn-Bhd/) | Evoxt Sdn. Bhd. | 2 | Abusive HTTP requests (20) |
 | [AS31898](AS31898_Oracle-Corporation/) | Oracle Corporation | 2 | SSH brute force (16), Port scanning (3) |

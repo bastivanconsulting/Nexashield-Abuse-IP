@@ -5,11 +5,11 @@
   "asn": null,
   "asn_org": "Unknown",
   "categories": {
-    "scan": 4,
-    "c2": 3
+    "scan": 5,
+    "c2": 4
   },
-  "events": 8,
+  "events": 10,
   "first_seen": "2026-11-12T18:17:37Z",
-  "last_seen": "2026-11-26T11:17:06Z",
+  "last_seen": "2026-11-26T19:04:12Z",
   "reported": "not reported (permanent ban)"
 }

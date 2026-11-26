@@ -24,10 +24,10 @@
 | [🇨🇭 Switzerland](CH_Switzerland/) | 14 |
 | [🇨🇱 Chile](CL_Chile/) | 5 |
 | [🇨🇲 Cameroon](CM_Cameroon/) | 1 |
-| [🇨🇳 China](CN_China/) | 260 |
+| [🇨🇳 China](CN_China/) | 261 |
 | [🇨🇴 Colombia](CO_Colombia/) | 5 |
 | [🇨🇿 Czechia](CZ_Czechia/) | 2 |
-| [🇩🇪 Germany](DE_Germany/) | 663 |
+| [🇩🇪 Germany](DE_Germany/) | 664 |
 | [🇩🇰 Denmark](DK_Denmark/) | 4 |
 | [🇩🇴 Dominican Republic](DO_Dominican-Republic/) | 1 |
 | [🇩🇿 Algeria](DZ_Algeria/) | 2 |
@@ -36,7 +36,7 @@
 | [🇪🇸 Spain](ES_Spain/) | 4 |
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 10 |
 | [🇫🇮 Finland](FI_Finland/) | 14 |
-| [🇫🇷 France](FR_France/) | 407 |
+| [🇫🇷 France](FR_France/) | 408 |
 | [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1041 |
 | [🇬🇪 Georgia](GE_Georgia/) | 2 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
@@ -45,7 +45,7 @@
 | [🇮🇩 Indonesia](ID_Indonesia/) | 28 |
 | [🇮🇪 Ireland](IE_Ireland/) | 4 |
 | [🇮🇱 Israel](IL_Israel/) | 12 |
-| [🇮🇳 India](IN_India/) | 100 |
+| [🇮🇳 India](IN_India/) | 101 |
 | [🇮🇶 Iraq](IQ_Iraq/) | 10 |
 | [🇮🇷 Iran](IR_Iran/) | 5 |
 | [🇮🇹 Italy](IT_Italy/) | 29 |
@@ -66,10 +66,10 @@
 | [🇲🇹 Malta](MT_Malta/) | 1 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 2 |
 | [🇲🇽 Mexico](MX_Mexico/) | 6 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 110 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 111 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 20 |
 | [🇳🇮 Nicaragua](NI_Nicaragua/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 744 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 745 |
 | [🇳🇴 Norway](NO_Norway/) | 4 |
 | [🇳🇵 Nepal](NP_Nepal/) | 1 |
 | [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
@@ -81,21 +81,21 @@
 | [🇵🇹 Portugal](PT_Portugal/) | 2 |
 | [🇷🇴 Romania](RO_Romania/) | 8 |
 | [🇷🇸 Serbia](RS_Serbia/) | 1 |
-| [🇷🇺 Russia](RU_Russia/) | 76 |
+| [🇷🇺 Russia](RU_Russia/) | 79 |
 | [🇸🇦 Saudi Arabia](SA_Saudi-Arabia/) | 1 |
 | [🇸🇨 Seychelles](SC_Seychelles/) | 13 |
-| [🇸🇪 Sweden](SE_Sweden/) | 104 |
-| [🇸🇬 Singapore](SG_Singapore/) | 188 |
+| [🇸🇪 Sweden](SE_Sweden/) | 105 |
+| [🇸🇬 Singapore](SG_Singapore/) | 189 |
 | [🇸🇮 Slovenia](SI_Slovenia/) | 22 |
 | [🇸🇰 Slovakia](SK_Slovakia/) | 1 |
 | [🇸🇳 Senegal](SN_Senegal/) | 1 |
 | [🇸🇾 Syria](SY_Syria/) | 1 |
 | [🇹🇭 Thailand](TH_Thailand/) | 44 |
-| [🇹🇷 Turkey](TR_Turkey/) | 10 |
+| [🇹🇷 Turkey](TR_Turkey/) | 11 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 27 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 7 |
 | [🇺🇬 Uganda](UG_Uganda/) | 1 |
-| [🇺🇸 United States](US_United-States/) | 3617 |
+| [🇺🇸 United States](US_United-States/) | 3630 |
 | [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 5 |
 | [🇻🇪 Venezuela](VE_Venezuela/) | 2 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 18 |

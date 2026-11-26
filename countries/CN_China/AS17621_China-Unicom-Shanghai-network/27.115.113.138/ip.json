@@ -5,11 +5,12 @@
   "asn": 17621,
   "asn_org": "China Unicom Shanghai network",
   "categories": {
-    "c2": 3,
-    "ssh": 4
+    "c2": 4,
+    "ssh": 4,
+    "scan": 1
   },
-  "events": 9,
+  "events": 11,
   "first_seen": "2026-11-20T08:18:17Z",
-  "last_seen": "2026-11-26T03:28:04Z",
+  "last_seen": "2026-11-26T19:16:26Z",
   "reported": "not reported (permanent ban)"
 }

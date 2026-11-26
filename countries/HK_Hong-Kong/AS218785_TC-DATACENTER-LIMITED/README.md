@@ -24,7 +24,7 @@
 | [`45.138.12.215`](45.138.12.215/) | Spamhaus DROP-listed network (37), Abusive HTTP requests (6) | 43 | 2026-11-24T23:00:46Z |
 | [`45.138.12.216`](45.138.12.216/) | Port scanning (29), Known botnet / C2 infrastructure (6), Web injection payload blocked by WAF (3), Abusive HTTP requests (1) | 39 | 2026-11-24T22:13:59Z |
 | [`45.138.12.217`](45.138.12.217/) | Port scanning (37), Known botnet / C2 infrastructure (9), Abusive HTTP requests (4), Web injection payload blocked by WAF (2) | 53 | 2026-11-24T23:00:46Z |
-| [`185.218.86.2`](185.218.86.2/) | Port scanning (583) | 668 | 2026-11-26T18:17:24Z |
+| [`185.218.86.2`](185.218.86.2/) | Port scanning (584) | 669 | 2026-11-26T18:26:47Z |
 | [`185.218.86.4`](185.218.86.4/) | Port scanning (666) | 777 | 2026-11-26T18:14:10Z |
 | [`185.218.86.10`](185.218.86.10/) | Port scanning (634) | 735 | 2026-11-26T17:55:52Z |
 | [`185.218.86.12`](185.218.86.12/) | Port scanning (611) | 712 | 2026-11-26T18:14:31Z |

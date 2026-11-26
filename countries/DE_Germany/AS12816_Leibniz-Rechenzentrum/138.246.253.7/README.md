@@ -7,10 +7,10 @@
 | IP | `138.246.253.7` |
 | Country | Germany (DE) |
 | ASN | AS12816 · Leibniz-Rechenzentrum |
-| Activity | Port scanning (18) |
-| Events | 26 |
+| Activity | Port scanning (19) |
+| Events | 28 |
 | First seen (UTC) | 2026-11-12T05:02:14Z |
-| Last seen (UTC) | 2026-11-26T13:11:04Z |
+| Last seen (UTC) | 2026-11-26T19:06:46Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

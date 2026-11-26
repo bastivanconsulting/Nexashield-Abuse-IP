@@ -1,6 +1,6 @@
 # AS6939 · Hurricane Electric LLC
 
-🇺🇸 United States · **80** malicious IP(s)
+🇺🇸 United States · **82** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -24,6 +24,7 @@
 | [`65.49.20.91`](65.49.20.91/) | Port scanning (4), Known botnet / C2 infrastructure (2) | 8 | 2026-11-23T05:18:21Z |
 | [`65.49.20.92`](65.49.20.92/) | Port scanning (3), Known botnet / C2 infrastructure (2) | 6 | 2026-11-26T01:36:04Z |
 | [`65.49.20.93`](65.49.20.93/) | Port scanning (7), Known botnet / C2 infrastructure (1) | 9 | 2026-11-17T08:18:04Z |
+| [`65.49.20.95`](65.49.20.95/) | Port scanning (5), Known botnet / C2 infrastructure (1) | 6 | 2026-11-26T04:33:54Z |
 | [`65.49.20.96`](65.49.20.96/) | Port scanning (2), Known botnet / C2 infrastructure (2) | 5 | 2026-11-23T05:18:21Z |
 | [`65.49.20.98`](65.49.20.98/) | Port scanning (41), Known botnet / C2 infrastructure (19) | 61 | 2026-11-26T15:10:20Z |
 | [`65.49.20.99`](65.49.20.99/) | Port scanning (46), Known botnet / C2 infrastructure (23) | 70 | 2026-11-26T14:51:28Z |
@@ -37,6 +38,7 @@
 | [`65.49.20.110`](65.49.20.110/) | Port scanning (45), Known botnet / C2 infrastructure (21), Exploitation attempt (CVE / RCE / injection) (1) | 69 | 2026-11-26T15:20:17Z |
 | [`65.49.20.112`](65.49.20.112/) | Port scanning (37), Known botnet / C2 infrastructure (15), Exploitation attempt (CVE / RCE / injection) (1) | 60 | 2026-11-26T09:56:03Z |
 | [`65.49.20.114`](65.49.20.114/) | Port scanning (35), Known botnet / C2 infrastructure (17), Exploitation attempt (CVE / RCE / injection) (2) | 55 | 2026-11-26T09:30:04Z |
+| [`65.49.20.115`](65.49.20.115/) | Port scanning (3) | 3 | 2026-11-26T07:14:11Z |
 | [`65.49.20.116`](65.49.20.116/) | Port scanning (10), Known botnet / C2 infrastructure (4) | 16 | 2026-11-15T12:19:01Z |
 | [`65.49.20.117`](65.49.20.117/) | Port scanning (43), Known botnet / C2 infrastructure (19) | 63 | 2026-11-25T05:14:44Z |
 | [`65.49.20.118`](65.49.20.118/) | Exploitation attempt (CVE / RCE / injection) (1), Known botnet / C2 infrastructure (1) | 3 | 2026-11-12T04:58:01Z |

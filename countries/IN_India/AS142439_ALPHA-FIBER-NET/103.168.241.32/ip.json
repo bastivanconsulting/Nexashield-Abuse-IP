@@ -6,11 +6,11 @@
   "asn_org": "ALPHA FIBER NET",
   "categories": {
     "ssh": 5,
-    "c2": 3,
-    "scan": 1
+    "c2": 4,
+    "scan": 2
   },
-  "events": 10,
+  "events": 12,
   "first_seen": "2026-11-14T05:15:23Z",
-  "last_seen": "2026-11-23T19:24:05Z",
+  "last_seen": "2026-11-26T18:38:15Z",
   "reported": "not reported (permanent ban)"
 }

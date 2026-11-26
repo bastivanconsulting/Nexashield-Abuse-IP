@@ -5,11 +5,11 @@
   "asn": 213790,
   "asn_org": "Limited Network LTD",
   "categories": {
-    "scan": 164,
+    "scan": 166,
     "c2": 16
   },
-  "events": 191,
+  "events": 193,
   "first_seen": "2026-11-13T22:09:07Z",
-  "last_seen": "2026-11-26T18:17:45Z",
+  "last_seen": "2026-11-26T19:04:40Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,9 +1,10 @@
 # AS29518 · Bredband2 AB
 
-🇸🇪 Sweden · **14** malicious IP(s)
+🇸🇪 Sweden · **15** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`31.208.14.62`](31.208.14.62/) | SSH brute force (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-26T19:05:05Z |
 | [`77.53.79.11`](77.53.79.11/) | Known botnet / C2 infrastructure (8), Port scanning (7), SSH brute force (6) | 24 | 2026-11-26T12:17:19Z |
 | [`77.53.106.9`](77.53.106.9/) | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (3) | 15 | 2026-11-26T07:30:51Z |
 | [`82.117.126.160`](82.117.126.160/) | SSH brute force (5), Known botnet / C2 infrastructure (5), Port scanning (3) | 14 | 2026-11-24T15:23:46Z |
@@ -16,7 +17,7 @@
 | [`89.160.102.155`](89.160.102.155/) | SSH brute force (7), Known botnet / C2 infrastructure (4), Port scanning (2) | 15 | 2026-11-26T15:26:54Z |
 | [`89.233.202.252`](89.233.202.252/) | SSH brute force (6), Known botnet / C2 infrastructure (4), Port scanning (2) | 14 | 2026-11-26T14:31:59Z |
 | [`94.255.245.175`](94.255.245.175/) | SSH brute force (8), Known botnet / C2 infrastructure (5), Port scanning (3) | 17 | 2026-11-24T06:27:35Z |
-| [`94.255.255.26`](94.255.255.26/) | SSH brute force (7), Known botnet / C2 infrastructure (3) | 12 | 2026-11-24T18:59:07Z |
+| [`94.255.255.26`](94.255.255.26/) | SSH brute force (7), Known botnet / C2 infrastructure (4), Port scanning (1) | 14 | 2026-11-26T18:45:54Z |
 | [`109.225.84.48`](109.225.84.48/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-25T15:10:52Z |
 
 ---

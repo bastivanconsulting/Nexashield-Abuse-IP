@@ -7,10 +7,10 @@
 | IP | `192.236.230.186` |
 | Country | United States (US) |
 | ASN | AS36352 · HostPapa |
-| Activity | Port scanning (24) |
-| Events | 40 |
+| Activity | Port scanning (25) |
+| Events | 41 |
 | First seen (UTC) | 2026-11-11T21:49:33Z |
-| Last seen (UTC) | 2026-11-26T14:51:49Z |
+| Last seen (UTC) | 2026-11-26T18:57:25Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -1,6 +1,6 @@
 # AS396982 · Google LLC
 
-🇫🇷 France · **25** malicious IP(s)
+🇫🇷 France · **26** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [`216.180.246.34`](216.180.246.34/) | Port scanning (10), Known botnet / C2 infrastructure (3) | 14 | 2026-11-14T21:56:54Z |
 | [`216.180.246.35`](216.180.246.35/) | Port scanning (11), Known botnet / C2 infrastructure (2) | 15 | 2026-11-14T21:56:54Z |
 | [`216.180.246.46`](216.180.246.46/) | Port scanning (10), Known botnet / C2 infrastructure (3) | 26 | 2026-11-26T17:20:05Z |
+| [`216.180.246.54`](216.180.246.54/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 18 | 2026-11-26T19:17:05Z |
 | [`216.180.246.78`](216.180.246.78/) | Port scanning (33), Known botnet / C2 infrastructure (4) | 39 | 2026-11-25T13:47:54Z |
 | [`216.180.246.88`](216.180.246.88/) | Port scanning (41), Known botnet / C2 infrastructure (3) | 55 | 2026-11-15T07:47:22Z |
 | [`216.180.246.128`](216.180.246.128/) | Port scanning (32), Known botnet / C2 infrastructure (4) | 39 | 2026-11-21T17:18:39Z |
@@ -23,10 +24,10 @@
 | [`216.180.246.196`](216.180.246.196/) | Port scanning (19), Known botnet / C2 infrastructure (4) | 25 | 2026-11-26T17:18:35Z |
 | [`216.180.246.212`](216.180.246.212/) | Port scanning (19), Known botnet / C2 infrastructure (4) | 26 | 2026-11-26T13:17:26Z |
 | [`216.180.246.214`](216.180.246.214/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 17 | 2026-11-21T17:19:04Z |
-| [`216.180.246.220`](216.180.246.220/) | Port scanning (40), Known botnet / C2 infrastructure (2) | 49 | 2026-11-26T18:11:46Z |
+| [`216.180.246.220`](216.180.246.220/) | Port scanning (46), Known botnet / C2 infrastructure (2) | 56 | 2026-11-26T19:12:43Z |
 | [`216.180.246.221`](216.180.246.221/) | Port scanning (41), Known botnet / C2 infrastructure (2) | 43 | 2026-11-24T01:11:37Z |
 | [`216.180.246.223`](216.180.246.223/) | Port scanning (44), Known botnet / C2 infrastructure (4) | 52 | 2026-11-25T16:44:58Z |
-| [`216.180.246.232`](216.180.246.232/) | Port scanning (28), Known botnet / C2 infrastructure (2) | 33 | 2026-11-26T17:30:27Z |
+| [`216.180.246.232`](216.180.246.232/) | Port scanning (32), Known botnet / C2 infrastructure (2) | 37 | 2026-11-26T18:32:32Z |
 | [`216.180.246.240`](216.180.246.240/) | Port scanning (26), Known botnet / C2 infrastructure (2) | 33 | 2026-11-24T00:11:39Z |
 | [`216.180.246.243`](216.180.246.243/) | Port scanning (24), Known botnet / C2 infrastructure (5) | 30 | 2026-11-17T22:13:30Z |
 

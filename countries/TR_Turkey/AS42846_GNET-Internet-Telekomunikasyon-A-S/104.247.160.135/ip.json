@@ -1,0 +1,15 @@
+{
+  "ip": "104.247.160.135",
+  "country_code": "TR",
+  "country": "Turkey",
+  "asn": 42846,
+  "asn_org": "GNET Internet Telekomunikasyon A.S.",
+  "categories": {
+    "scan": 5,
+    "c2": 3
+  },
+  "events": 9,
+  "first_seen": "2026-11-15T22:05:41Z",
+  "last_seen": "2026-11-26T18:41:06Z",
+  "reported": "not reported (permanent ban)"
+}

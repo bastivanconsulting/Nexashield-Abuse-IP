@@ -1,6 +1,6 @@
 # AS4837 · CHINA UNICOM China169 Backbone
 
-🇨🇳 China · **26** malicious IP(s)
+🇨🇳 China · **27** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -10,6 +10,7 @@
 | [`58.19.230.118`](58.19.230.118/) | Port scanning (13), Known botnet / C2 infrastructure (1) | 19 | 2026-11-22T14:32:04Z |
 | [`60.18.139.82`](60.18.139.82/) | Known botnet / C2 infrastructure (3), SSH brute force (2), Port scanning (2) | 8 | 2026-11-20T11:07:03Z |
 | [`60.214.127.246`](60.214.127.246/) | SSH brute force (5), Known botnet / C2 infrastructure (3), Port scanning (2) | 11 | 2026-11-25T20:51:05Z |
+| [`60.223.245.120`](60.223.245.120/) | SSH brute force (4), Known botnet / C2 infrastructure (3), Port scanning (1) | 9 | 2026-11-26T18:57:04Z |
 | [`61.53.157.41`](61.53.157.41/) | Abusive HTTP requests (2), Exploitation attempt (CVE / RCE / injection) (2) | 4 | 2026-11-26T12:51:28Z |
 | [`61.240.17.66`](61.240.17.66/) | Port scanning (4), Known botnet / C2 infrastructure (4) | 9 | 2026-11-25T20:41:23Z |
 | [`61.240.137.69`](61.240.137.69/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-25T22:10:45Z |

@@ -7,10 +7,10 @@
 | IP | `45.173.24.147` |
 | Country | Brazil (BR) |
 | ASN | AS268788 · HEXA TELECOM LTDA |
-| Activity | Port scanning (54), Known botnet / C2 infrastructure (10) |
-| Events | 65 |
+| Activity | Port scanning (55), Known botnet / C2 infrastructure (10) |
+| Events | 66 |
 | First seen (UTC) | 2026-11-11T23:05:07Z |
-| Last seen (UTC) | 2026-11-26T17:52:32Z |
+| Last seen (UTC) | 2026-11-26T18:42:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

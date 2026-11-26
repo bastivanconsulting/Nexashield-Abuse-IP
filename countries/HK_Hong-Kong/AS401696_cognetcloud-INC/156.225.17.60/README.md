@@ -7,10 +7,10 @@
 | IP | `156.225.17.60` |
 | Country | Hong Kong (HK) |
 | ASN | AS401696 · cognetcloud INC |
-| Activity | Port scanning (25), Known botnet / C2 infrastructure (2) |
-| Events | 30 |
+| Activity | Port scanning (29), Known botnet / C2 infrastructure (2) |
+| Events | 35 |
 | First seen (UTC) | 2026-11-20T01:21:17Z |
-| Last seen (UTC) | 2026-11-26T16:54:02Z |
+| Last seen (UTC) | 2026-11-26T19:08:36Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
