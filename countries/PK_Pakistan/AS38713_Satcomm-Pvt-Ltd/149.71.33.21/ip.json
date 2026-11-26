@@ -1,0 +1,15 @@
+{
+  "ip": "149.71.33.21",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 38713,
+  "asn_org": "Satcomm (Pvt.) Ltd.",
+  "categories": {
+    "scan": 3,
+    "c2": 3
+  },
+  "events": 7,
+  "first_seen": "2026-11-17T19:37:58Z",
+  "last_seen": "2026-11-26T08:00:07Z",
+  "reported": "not reported (permanent ban)"
+}

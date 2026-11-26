@@ -1,6 +1,6 @@
 # AS45102 · Alibaba (US) Technology Co., Ltd.
 
-🇲🇾 Malaysia · **105** malicious IP(s)
+🇲🇾 Malaysia · **106** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,7 +8,7 @@
 | [`47.250.11.46`](47.250.11.46/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 15 | 2026-11-26T00:32:55Z |
 | [`47.250.11.50`](47.250.11.50/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-25T17:32:39Z |
 | [`47.250.14.85`](47.250.14.85/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 14 | 2026-11-25T18:57:06Z |
-| [`47.250.38.74`](47.250.38.74/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 15 | 2026-11-25T06:30:59Z |
+| [`47.250.38.74`](47.250.38.74/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 17 | 2026-11-26T07:30:21Z |
 | [`47.250.38.192`](47.250.38.192/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 9 | 2026-11-24T15:07:05Z |
 | [`47.250.43.176`](47.250.43.176/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-25T19:51:02Z |
 | [`47.250.46.113`](47.250.46.113/) | Port scanning (12), Known botnet / C2 infrastructure (11) | 24 | 2026-11-26T02:50:24Z |
@@ -19,18 +19,18 @@
 | [`47.250.55.156`](47.250.55.156/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-25T15:52:40Z |
 | [`47.250.57.175`](47.250.57.175/) | Port scanning (10), Known botnet / C2 infrastructure (8) | 19 | 2026-11-25T01:14:09Z |
 | [`47.250.80.158`](47.250.80.158/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 19 | 2026-11-25T20:26:08Z |
-| [`47.250.81.6`](47.250.81.6/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 10 | 2026-11-26T01:48:04Z |
+| [`47.250.81.6`](47.250.81.6/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-26T07:25:47Z |
 | [`47.250.81.195`](47.250.81.195/) | Port scanning (10), Known botnet / C2 infrastructure (7) | 20 | 2026-11-25T21:17:32Z |
 | [`47.250.82.24`](47.250.82.24/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-26T00:24:17Z |
 | [`47.250.83.81`](47.250.83.81/) | Port scanning (7), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T20:34:13Z |
 | [`47.250.83.248`](47.250.83.248/) | Port scanning (8), Known botnet / C2 infrastructure (8) | 17 | 2026-11-22T06:52:23Z |
 | [`47.250.84.105`](47.250.84.105/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 11 | 2026-11-26T05:16:38Z |
 | [`47.250.84.254`](47.250.84.254/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 15 | 2026-11-25T04:45:00Z |
-| [`47.250.86.46`](47.250.86.46/) | Port scanning (5), Known botnet / C2 infrastructure (5) | 11 | 2026-11-23T04:14:13Z |
+| [`47.250.86.46`](47.250.86.46/) | Port scanning (6), Known botnet / C2 infrastructure (6) | 13 | 2026-11-26T07:43:35Z |
 | [`47.250.87.24`](47.250.87.24/) | Port scanning (4), Known botnet / C2 infrastructure (3) | 8 | 2026-11-21T05:26:05Z |
 | [`47.250.87.26`](47.250.87.26/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 13 | 2026-11-23T06:19:59Z |
 | [`47.250.88.165`](47.250.88.165/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-25T04:47:45Z |
-| [`47.250.89.132`](47.250.89.132/) | Port scanning (8), Known botnet / C2 infrastructure (6) | 14 | 2026-11-24T18:21:11Z |
+| [`47.250.89.132`](47.250.89.132/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 16 | 2026-11-26T08:11:05Z |
 | [`47.250.89.137`](47.250.89.137/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 18 | 2026-11-22T12:01:26Z |
 | [`47.250.89.191`](47.250.89.191/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-24T00:09:37Z |
 | [`47.250.91.27`](47.250.91.27/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 14 | 2026-11-26T05:21:05Z |
@@ -77,7 +77,7 @@
 | [`47.250.171.20`](47.250.171.20/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-24T13:59:04Z |
 | [`47.250.172.208`](47.250.172.208/) | Port scanning (9), Known botnet / C2 infrastructure (7) | 17 | 2026-11-25T14:04:31Z |
 | [`47.250.174.4`](47.250.174.4/) | Port scanning (8), Known botnet / C2 infrastructure (4) | 16 | 2026-11-24T05:35:37Z |
-| [`47.250.174.174`](47.250.174.174/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-24T19:37:45Z |
+| [`47.250.174.174`](47.250.174.174/) | Port scanning (6), Known botnet / C2 infrastructure (5) | 12 | 2026-11-26T07:53:15Z |
 | [`47.250.175.148`](47.250.175.148/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-25T14:03:04Z |
 | [`47.250.178.28`](47.250.178.28/) | Port scanning (9), Known botnet / C2 infrastructure (5) | 17 | 2026-11-26T01:24:22Z |
 | [`47.250.178.53`](47.250.178.53/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-24T16:47:14Z |
@@ -94,8 +94,9 @@
 | [`47.254.201.158`](47.254.201.158/) | Port scanning (5), Known botnet / C2 infrastructure (4) | 10 | 2026-11-25T06:34:03Z |
 | [`47.254.201.193`](47.254.201.193/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 14 | 2026-11-26T05:04:24Z |
 | [`47.254.206.59`](47.254.206.59/) | Port scanning (13), Known botnet / C2 infrastructure (3) | 23 | 2026-11-25T19:04:38Z |
+| [`47.254.206.163`](47.254.206.163/) | Port scanning (8), Known botnet / C2 infrastructure (3) | 17 | 2026-11-26T08:04:05Z |
 | [`47.254.207.105`](47.254.207.105/) | Port scanning (7), Known botnet / C2 infrastructure (7) | 14 | 2026-11-25T11:31:44Z |
-| [`47.254.207.118`](47.254.207.118/) | Port scanning (7), Known botnet / C2 infrastructure (4) | 13 | 2026-11-24T19:17:55Z |
+| [`47.254.207.118`](47.254.207.118/) | Port scanning (8), Known botnet / C2 infrastructure (5) | 15 | 2026-11-26T07:52:15Z |
 | [`47.254.213.90`](47.254.213.90/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 12 | 2026-11-23T20:34:06Z |
 | [`47.254.213.105`](47.254.213.105/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-26T02:55:04Z |
 | [`47.254.231.12`](47.254.231.12/) | Port scanning (6), Known botnet / C2 infrastructure (4) | 13 | 2026-11-25T18:28:06Z |

@@ -1,0 +1,16 @@
+{
+  "ip": "157.122.242.217",
+  "country_code": "CN",
+  "country": "China",
+  "asn": 17816,
+  "asn_org": "China Unicom IP network China169 Guangdong province",
+  "categories": {
+    "ssh": 9,
+    "c2": 3,
+    "scan": 1
+  },
+  "events": 14,
+  "first_seen": "2026-11-21T22:30:33Z",
+  "last_seen": "2026-11-26T07:48:55Z",
+  "reported": "not reported (permanent ban)"
+}

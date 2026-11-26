@@ -5,11 +5,11 @@
   "asn": 5650,
   "asn_org": "Verizon Business",
   "categories": {
-    "scan": 10,
-    "c2": 5
+    "scan": 11,
+    "c2": 6
   },
-  "events": 20,
+  "events": 22,
   "first_seen": "2026-11-13T20:28:16Z",
-  "last_seen": "2026-11-25T11:47:30Z",
+  "last_seen": "2026-11-26T07:59:53Z",
   "reported": "not reported (permanent ban)"
 }

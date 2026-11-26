@@ -1,6 +1,6 @@
 # 🇵🇰 Pakistan
 
-**26** malicious IP(s) across **11** network(s).
+**27** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -13,6 +13,7 @@
 | [AS142647](AS142647_Nasstec-Airnet-Networks-Private-Limited/) | Nasstec Airnet Networks Private Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (6) |
 | [AS17557](AS17557_Pakistan-Telecommuication-company-limited/) | Pakistan Telecommuication company limited | 1 | SSH brute force (12) |
 | [AS23674](AS23674_Nayatel-Pvt-Ltd/) | Nayatel (Pvt) Ltd | 1 | Port scanning (83) |
+| [AS38713](AS38713_Satcomm-Pvt-Ltd/) | Satcomm (Pvt.) Ltd. | 1 | Port scanning (3), Known botnet / C2 infrastructure (3) |
 | [AS58470](AS58470_JAZZWORLD-PAKISTAN-LIMITED/) | JAZZWORLD PAKISTAN LIMITED | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
 | [AS59257](AS59257_CMPak-Limited/) | CMPak Limited | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
 

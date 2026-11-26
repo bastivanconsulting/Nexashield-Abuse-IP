@@ -5,11 +5,11 @@
   "asn": 3215,
   "asn_org": "Orange S.A.",
   "categories": {
-    "scan": 15,
+    "scan": 16,
     "c2": 3
   },
-  "events": 21,
+  "events": 22,
   "first_seen": "2026-11-11T10:40:04Z",
-  "last_seen": "2026-11-25T17:01:02Z",
+  "last_seen": "2026-11-26T08:13:14Z",
   "reported": "not reported (permanent ban)"
 }

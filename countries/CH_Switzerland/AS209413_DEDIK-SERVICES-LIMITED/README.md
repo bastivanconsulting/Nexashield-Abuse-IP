@@ -5,7 +5,7 @@
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
 | [`176.65.144.5`](176.65.144.5/) | Port scanning (133) | 136 | 2026-11-25T22:31:44Z |
-| [`176.65.144.34`](176.65.144.34/) | Spamhaus DROP-listed network (32), Abusive HTTP requests (4) | 36 | 2026-11-26T01:50:20Z |
+| [`176.65.144.34`](176.65.144.34/) | Spamhaus DROP-listed network (34), Abusive HTTP requests (4) | 38 | 2026-11-26T08:31:42Z |
 | [`176.65.144.200`](176.65.144.200/) | Port scanning (24) | 25 | 2026-11-14T21:56:40Z |
 
 ---

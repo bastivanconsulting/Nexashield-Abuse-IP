@@ -7,10 +7,10 @@
 | IP | `95.79.57.221` |
 | Country | Russia (RU) |
 | ASN | AS42682 · JSC "ER-Telecom Holding" |
-| Activity | SSH brute force (5), Known botnet / C2 infrastructure (3) |
-| Events | 10 |
+| Activity | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-19T22:40:33Z |
-| Last seen (UTC) | 2026-11-25T04:40:06Z |
+| Last seen (UTC) | 2026-11-26T07:55:49Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

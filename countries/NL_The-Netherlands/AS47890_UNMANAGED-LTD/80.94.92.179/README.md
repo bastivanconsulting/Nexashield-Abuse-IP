@@ -7,10 +7,10 @@
 | IP | `80.94.92.179` |
 | Country | The Netherlands (NL) |
 | ASN | AS47890 · UNMANAGED LTD |
-| Activity | SSH brute force (608), Known botnet / C2 infrastructure (31), Port scanning (26) |
-| Events | 670 |
+| Activity | SSH brute force (608), Known botnet / C2 infrastructure (35), Port scanning (26) |
+| Events | 675 |
 | First seen (UTC) | 2026-11-11T02:44:08Z |
-| Last seen (UTC) | 2026-11-25T02:36:20Z |
+| Last seen (UTC) | 2026-11-26T07:35:03Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
