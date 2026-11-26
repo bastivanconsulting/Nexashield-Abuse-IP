@@ -4,7 +4,7 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`195.230.103.243`](195.230.103.243/) | Port scanning (81), Known botnet / C2 infrastructure (15) | 115 | 2026-11-26T10:29:09Z |
+| [`195.230.103.243`](195.230.103.243/) | Port scanning (82), Known botnet / C2 infrastructure (15) | 116 | 2026-11-26T15:04:12Z |
 | [`195.230.103.244`](195.230.103.244/) | Port scanning (82), Known botnet / C2 infrastructure (16) | 118 | 2026-11-26T14:09:23Z |
 | [`195.230.103.245`](195.230.103.245/) | Port scanning (73), Known botnet / C2 infrastructure (11) | 104 | 2026-11-26T09:00:55Z |
 | [`195.230.103.246`](195.230.103.246/) | Port scanning (61), Known botnet / C2 infrastructure (11) | 88 | 2026-11-25T21:32:58Z |

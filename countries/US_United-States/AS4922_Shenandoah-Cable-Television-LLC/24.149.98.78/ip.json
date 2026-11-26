@@ -1,0 +1,15 @@
+{
+  "ip": "24.149.98.78",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 4922,
+  "asn_org": "Shenandoah Cable Television LLC",
+  "categories": {
+    "ssh": 4,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-20T08:18:21Z",
+  "last_seen": "2026-11-21T16:46:54Z",
+  "reported": "not reported (permanent ban)"
+}

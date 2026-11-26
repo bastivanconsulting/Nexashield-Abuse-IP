@@ -1,9 +1,10 @@
 # AS701 · Verizon Business
 
-🇺🇸 United States · **5** malicious IP(s)
+🇺🇸 United States · **6** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`63.65.203.83`](63.65.203.83/) | SSH brute force (3), Known botnet / C2 infrastructure (2) | 5 | 2026-11-18T20:56:35Z |
 | [`98.114.254.12`](98.114.254.12/) | Exploitation attempt (CVE / RCE / injection) (3), Port scanning (3) | 8 | 2026-11-12T04:27:37Z |
 | [`108.29.16.72`](108.29.16.72/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 6 | 2026-11-11T20:57:03Z |
 | [`108.46.229.102`](108.46.229.102/) | SSH brute force (5), Port scanning (1) | 6 | 2026-11-20T01:56:52Z |

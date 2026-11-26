@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (138), Known botnet / C2 infrastructure (64) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (139), Known botnet / C2 infrastructure (65) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | Abusive HTTP requests (18), Exploitation attempt (CVE / RCE / injection) (2), Known botnet / C2 infrastructure (2) |
 
 ---

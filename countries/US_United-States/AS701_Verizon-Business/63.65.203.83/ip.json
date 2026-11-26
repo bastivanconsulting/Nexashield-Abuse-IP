@@ -1,0 +1,15 @@
+{
+  "ip": "63.65.203.83",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 701,
+  "asn_org": "Verizon Business",
+  "categories": {
+    "ssh": 3,
+    "c2": 2
+  },
+  "events": 5,
+  "first_seen": "2026-11-17T16:53:10Z",
+  "last_seen": "2026-11-18T20:56:35Z",
+  "reported": "not reported (permanent ban)"
+}

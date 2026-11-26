@@ -6,11 +6,11 @@
   "asn_org": "V tal",
   "categories": {
     "ssh": 3,
-    "c2": 7,
-    "scan": 9
+    "c2": 8,
+    "scan": 10
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-18T18:30:39Z",
-  "last_seen": "2026-11-25T23:09:27Z",
+  "last_seen": "2026-11-26T14:40:05Z",
   "reported": "not reported (permanent ban)"
 }
