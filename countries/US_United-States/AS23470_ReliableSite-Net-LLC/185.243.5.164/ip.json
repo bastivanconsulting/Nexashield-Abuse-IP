@@ -5,12 +5,12 @@
   "asn": 23470,
   "asn_org": "ReliableSite.Net LLC",
   "categories": {
-    "exploit": 9,
-    "c2": 4,
-    "scan": 1
+    "exploit": 10,
+    "c2": 5,
+    "scan": 2
   },
-  "events": 17,
+  "events": 20,
   "first_seen": "2026-11-15T08:10:29Z",
-  "last_seen": "2026-11-23T08:23:56Z",
+  "last_seen": "2026-11-26T02:02:32Z",
   "reported": "not reported (permanent ban)"
 }

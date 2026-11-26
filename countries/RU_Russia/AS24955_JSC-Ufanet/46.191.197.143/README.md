@@ -7,10 +7,10 @@
 | IP | `46.191.197.143` |
 | Country | Russia (RU) |
 | ASN | AS24955 · JSC "Ufanet" |
-| Activity | SSH brute force (6), Known botnet / C2 infrastructure (2), Port scanning (1) |
-| Events | 10 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3), Port scanning (2) |
+| Events | 12 |
 | First seen (UTC) | 2026-11-18T18:26:57Z |
-| Last seen (UTC) | 2026-11-24T16:51:37Z |
+| Last seen (UTC) | 2026-11-26T01:56:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

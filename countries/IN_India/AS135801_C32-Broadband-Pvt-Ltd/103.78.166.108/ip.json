@@ -1,0 +1,15 @@
+{
+  "ip": "103.78.166.108",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 135801,
+  "asn_org": "C32 Broadband Pvt. Ltd.",
+  "categories": {
+    "scan": 10,
+    "c2": 2
+  },
+  "events": 15,
+  "first_seen": "2026-11-25T19:16:54Z",
+  "last_seen": "2026-11-26T02:01:06Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -5,11 +5,11 @@
   "asn": 14080,
   "asn_org": "Telmex Colombia S.A.",
   "categories": {
-    "scan": 13,
-    "c2": 7
+    "scan": 14,
+    "c2": 8
   },
-  "events": 21,
+  "events": 23,
   "first_seen": "2026-11-13T15:13:49Z",
-  "last_seen": "2026-11-25T11:57:10Z",
+  "last_seen": "2026-11-26T01:36:04Z",
   "reported": "not reported (permanent ban)"
 }

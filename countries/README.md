@@ -13,7 +13,7 @@
 | [🇦🇿 Azerbaijan](AZ_Azerbaijan/) | 1 |
 | [🇧🇦 Bosnia and Herzegovina](BA_Bosnia-and-Herzegovina/) | 1 |
 | [🇧🇩 Bangladesh](BD_Bangladesh/) | 9 |
-| [🇧🇪 Belgium](BE_Belgium/) | 448 |
+| [🇧🇪 Belgium](BE_Belgium/) | 451 |
 | [🇧🇬 Bulgaria](BG_Bulgaria/) | 53 |
 | [🇧🇳 Brunei](BN_Brunei/) | 1 |
 | [🇧🇴 Bolivia](BO_Bolivia/) | 2 |
@@ -36,21 +36,21 @@
 | [🇪🇹 Ethiopia](ET_Ethiopia/) | 9 |
 | [🇫🇮 Finland](FI_Finland/) | 14 |
 | [🇫🇷 France](FR_France/) | 395 |
-| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1032 |
+| [🇬🇧 United Kingdom](GB_United-Kingdom/) | 1036 |
 | [🇬🇪 Georgia](GE_Georgia/) | 2 |
 | [🇬🇹 Guatemala](GT_Guatemala/) | 1 |
-| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 236 |
+| [🇭🇰 Hong Kong](HK_Hong-Kong/) | 239 |
 | [🇭🇺 Hungary](HU_Hungary/) | 6 |
 | [🇮🇩 Indonesia](ID_Indonesia/) | 27 |
 | [🇮🇪 Ireland](IE_Ireland/) | 4 |
 | [🇮🇱 Israel](IL_Israel/) | 12 |
-| [🇮🇳 India](IN_India/) | 90 |
+| [🇮🇳 India](IN_India/) | 91 |
 | [🇮🇶 Iraq](IQ_Iraq/) | 7 |
 | [🇮🇷 Iran](IR_Iran/) | 3 |
 | [🇮🇹 Italy](IT_Italy/) | 29 |
-| [🇯🇵 Japan](JP_Japan/) | 152 |
+| [🇯🇵 Japan](JP_Japan/) | 153 |
 | [🇰🇪 Kenya](KE_Kenya/) | 3 |
-| [🇰🇷 South Korea](KR_South-Korea/) | 63 |
+| [🇰🇷 South Korea](KR_South-Korea/) | 64 |
 | [🇰🇿 Kazakhstan](KZ_Kazakhstan/) | 13 |
 | [🇱🇧 Lebanon](LB_Lebanon/) | 1 |
 | [🇱🇰 Sri Lanka](LK_Sri-Lanka/) | 1 |
@@ -63,10 +63,10 @@
 | [🇲🇹 Malta](MT_Malta/) | 1 |
 | [🇲🇺 Mauritius](MU_Mauritius/) | 2 |
 | [🇲🇽 Mexico](MX_Mexico/) | 4 |
-| [🇲🇾 Malaysia](MY_Malaysia/) | 104 |
+| [🇲🇾 Malaysia](MY_Malaysia/) | 105 |
 | [🇳🇬 Nigeria](NG_Nigeria/) | 20 |
 | [🇳🇮 Nicaragua](NI_Nicaragua/) | 1 |
-| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 726 |
+| [🇳🇱 The Netherlands](NL_The-Netherlands/) | 727 |
 | [🇳🇴 Norway](NO_Norway/) | 4 |
 | [🇳🇵 Nepal](NP_Nepal/) | 1 |
 | [🇳🇿 New Zealand](NZ_New-Zealand/) | 1 |
@@ -91,8 +91,8 @@
 | [🇹🇷 Turkey](TR_Turkey/) | 10 |
 | [🇹🇼 Taiwan](TW_Taiwan/) | 26 |
 | [🇺🇦 Ukraine](UA_Ukraine/) | 6 |
-| [🇺🇸 United States](US_United-States/) | 3526 |
-| [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 3 |
+| [🇺🇸 United States](US_United-States/) | 3529 |
+| [🇺🇿 Uzbekistan](UZ_Uzbekistan/) | 4 |
 | [🇻🇪 Venezuela](VE_Venezuela/) | 1 |
 | [🇻🇳 Vietnam](VN_Vietnam/) | 17 |
 | [🇿🇦 South Africa](ZA_South-Africa/) | 3 |

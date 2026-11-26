@@ -7,10 +7,10 @@
 | IP | `190.129.122.185` |
 | Country | Bolivia (BO) |
 | ASN | AS6568 · Entel S.A. - EntelNet |
-| Activity | Port scanning (1), Known botnet / C2 infrastructure (1), SSH brute force (1) |
-| Events | 2 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (2), Port scanning (1) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-12T06:02:22Z |
-| Last seen (UTC) | 2026-11-12T06:02:32Z |
+| Last seen (UTC) | 2026-11-26T01:26:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

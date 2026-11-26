@@ -5,11 +5,11 @@
   "asn": 9123,
   "asn_org": "JSC \"TIMEWEB\"",
   "categories": {
-    "scan": 20,
+    "scan": 21,
     "c2": 8
   },
-  "events": 32,
+  "events": 33,
   "first_seen": "2026-11-19T22:47:05Z",
-  "last_seen": "2026-11-26T00:13:05Z",
+  "last_seen": "2026-11-26T01:26:03Z",
   "reported": "not reported (permanent ban)"
 }

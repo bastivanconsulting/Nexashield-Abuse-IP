@@ -7,10 +7,10 @@
 | IP | `77.239.124.181` |
 | Country | France (FR) |
 | ASN | AS198364 · BANATSYNC SRL |
-| Activity | UDP exploit signature (5), Known botnet / C2 infrastructure (4) |
-| Events | 9 |
+| Activity | Known botnet / C2 infrastructure (6), UDP exploit signature (5) |
+| Events | 11 |
 | First seen (UTC) | 2026-11-22T03:30:05Z |
-| Last seen (UTC) | 2026-11-24T13:53:37Z |
+| Last seen (UTC) | 2026-11-26T02:05:07Z |
 | Reported to network owner (UTC) | 2026-11-24T12:28:14Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

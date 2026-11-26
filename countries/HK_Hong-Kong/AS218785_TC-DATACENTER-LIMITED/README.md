@@ -1,6 +1,6 @@
 # AS218785 · TC DATACENTER LIMITED
 
-🇭🇰 Hong Kong · **29** malicious IP(s)
+🇭🇰 Hong Kong · **31** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,8 @@
 | [`45.138.12.10`](45.138.12.10/) | Abusive HTTP requests (290), Spamhaus DROP-listed network (3) | 293 | 2026-11-25T20:50:41Z |
 | [`45.138.12.16`](45.138.12.16/) | Abusive HTTP requests (75), Spamhaus DROP-listed network (52) | 127 | 2026-11-26T01:31:38Z |
 | [`45.138.12.19`](45.138.12.19/) | Spamhaus DROP-listed network (165), Abusive HTTP requests (22), Port scanning (1) | 188 | 2026-11-25T18:35:04Z |
+| [`45.138.12.25`](45.138.12.25/) | Abusive HTTP requests (448), Spamhaus DROP-listed network (2) | 450 | 2026-11-26T00:57:10Z |
+| [`45.138.12.27`](45.138.12.27/) | Abusive HTTP requests (208), Web injection payload blocked by WAF (102), Known botnet / C2 infrastructure (2), Port scanning (1) | 323 | 2026-11-26T02:08:21Z |
 | [`45.138.12.37`](45.138.12.37/) | Abusive HTTP requests (102), Spamhaus DROP-listed network (2) | 104 | 2026-11-15T23:28:49Z |
 | [`45.138.12.40`](45.138.12.40/) | Port scanning (15), Known botnet / C2 infrastructure (10) | 26 | 2026-11-22T19:40:19Z |
 | [`45.138.12.41`](45.138.12.41/) | Spamhaus DROP-listed network (21), Abusive HTTP requests (3), Known botnet / C2 infrastructure (1) | 25 | 2026-11-24T22:06:27Z |

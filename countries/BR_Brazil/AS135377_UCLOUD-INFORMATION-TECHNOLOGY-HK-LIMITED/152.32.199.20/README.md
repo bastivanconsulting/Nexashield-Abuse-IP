@@ -7,10 +7,10 @@
 | IP | `152.32.199.20` |
 | Country | Brazil (BR) |
 | ASN | AS135377 · UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED |
-| Activity | Port scanning (28), Known botnet / C2 infrastructure (12) |
-| Events | 45 |
+| Activity | Port scanning (30), Known botnet / C2 infrastructure (12) |
+| Events | 47 |
 | First seen (UTC) | 2026-11-11T21:24:31Z |
-| Last seen (UTC) | 2026-11-26T01:17:09Z |
+| Last seen (UTC) | 2026-11-26T01:32:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

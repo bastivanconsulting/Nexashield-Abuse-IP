@@ -7,10 +7,10 @@
 | IP | `36.89.141.138` |
 | Country | Indonesia (ID) |
 | ASN | AS7713 · Telekomunikasi Indonesia (PT) |
-| Activity | Port scanning (92) |
-| Events | 124 |
+| Activity | Port scanning (93) |
+| Events | 126 |
 | First seen (UTC) | 2026-11-11T23:35:14Z |
-| Last seen (UTC) | 2026-11-25T10:41:41Z |
+| Last seen (UTC) | 2026-11-26T01:57:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

@@ -5,12 +5,12 @@
   "asn": 4766,
   "asn_org": "Korea Telecom",
   "categories": {
-    "scan": 58,
+    "scan": 59,
     "ssh": 7,
-    "c2": 17
+    "c2": 18
   },
-  "events": 83,
+  "events": 85,
   "first_seen": "2026-11-19T07:45:56Z",
-  "last_seen": "2026-11-26T01:15:31Z",
+  "last_seen": "2026-11-26T02:03:34Z",
   "reported": "not reported (permanent ban)"
 }

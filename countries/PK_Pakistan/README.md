@@ -11,7 +11,7 @@
 | [AS141342](AS141342_FIBERISH-PVT-LTD/) | FIBERISH (PVT) LTD | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
 | [AS142647](AS142647_Nasstec-Airnet-Networks-Private-Limited/) | Nasstec Airnet Networks Private Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (6) |
 | [AS17557](AS17557_Pakistan-Telecommuication-company-limited/) | Pakistan Telecommuication company limited | 1 | SSH brute force (12) |
-| [AS17911](AS17911_Brain-NET/) | Brain NET | 1 | Port scanning (52) |
+| [AS17911](AS17911_Brain-NET/) | Brain NET | 1 | Port scanning (54) |
 | [AS23674](AS23674_Nayatel-Pvt-Ltd/) | Nayatel (Pvt) Ltd | 1 | Port scanning (83) |
 | [AS58470](AS58470_JAZZWORLD-PAKISTAN-LIMITED/) | JAZZWORLD PAKISTAN LIMITED | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |
 | [AS59257](AS59257_CMPak-Limited/) | CMPak Limited | 1 | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (1) |

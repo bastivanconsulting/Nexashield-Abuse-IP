@@ -1,0 +1,17 @@
+{
+  "ip": "45.138.12.27",
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "asn": 218785,
+  "asn_org": "TC DATACENTER LIMITED",
+  "categories": {
+    "web": 208,
+    "c2": 2,
+    "scan": 1,
+    "waf": 102
+  },
+  "events": 323,
+  "first_seen": "2026-11-19T04:24:13Z",
+  "last_seen": "2026-11-26T02:08:21Z",
+  "reported": "not reported (permanent ban)"
+}

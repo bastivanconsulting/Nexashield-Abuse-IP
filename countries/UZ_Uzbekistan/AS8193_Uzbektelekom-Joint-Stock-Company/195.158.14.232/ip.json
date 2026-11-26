@@ -5,11 +5,11 @@
   "asn": 8193,
   "asn_org": "\"Uzbektelekom\" Joint Stock Company",
   "categories": {
-    "ssh": 6,
-    "c2": 2
+    "ssh": 8,
+    "c2": 3
   },
-  "events": 8,
+  "events": 12,
   "first_seen": "2026-11-20T21:00:31Z",
-  "last_seen": "2026-11-22T08:55:35Z",
+  "last_seen": "2026-11-26T01:32:06Z",
   "reported": "not reported (permanent ban)"
 }
