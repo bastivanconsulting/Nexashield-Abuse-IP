@@ -1,10 +1,10 @@
 # 🇰🇷 South Korea
 
-**64** malicious IP(s) across **12** network(s).
+**65** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 38 | Port scanning (540), SSH brute force (276), Known botnet / C2 infrastructure (180), Exploitation attempt (CVE / RCE / injection) (15) |
+| [AS4766](AS4766_Korea-Telecom/) | Korea Telecom | 39 | Port scanning (544), SSH brute force (277), Known botnet / C2 infrastructure (180), Exploitation attempt (CVE / RCE / injection) (15) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 8 | Port scanning (103), Known botnet / C2 infrastructure (61) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 4 | Abusive HTTP requests (1598), Web injection payload blocked by WAF (94) |
 | [AS9318](AS9318_SK-Broadband-Co-Ltd/) | SK Broadband Co Ltd | 3 | Known botnet / C2 infrastructure (11), SSH brute force (10), Port scanning (9) |

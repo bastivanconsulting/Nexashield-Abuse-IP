@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS8193](AS8193_Uzbektelekom-Joint-Stock-Company/) | "Uzbektelekom" Joint Stock Company | 3 | SSH brute force (21), Known botnet / C2 infrastructure (11), Port scanning (5) |
+| [AS8193](AS8193_Uzbektelekom-Joint-Stock-Company/) | "Uzbektelekom" Joint Stock Company | 3 | SSH brute force (21), Known botnet / C2 infrastructure (11), Port scanning (6) |
 | [AS202660](AS202660_Uzbektelekom-Joint-Stock-Company/) | "Uzbektelekom" Joint Stock Company | 1 | Port scanning (92) |
 
 ---

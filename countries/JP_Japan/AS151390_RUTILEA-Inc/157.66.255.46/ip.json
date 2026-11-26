@@ -1,0 +1,15 @@
+{
+  "ip": "157.66.255.46",
+  "country_code": "JP",
+  "country": "Japan",
+  "asn": 151390,
+  "asn_org": "RUTILEA, Inc.",
+  "categories": {
+    "ssh": 28,
+    "scan": 2
+  },
+  "events": 30,
+  "first_seen": "2026-11-26T01:48:34Z",
+  "last_seen": "2026-11-26T01:49:12Z",
+  "reported": "2026-11-26T04:28:08Z"
+}

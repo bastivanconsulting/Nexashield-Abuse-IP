@@ -5,11 +5,10 @@
   "asn": 3216,
   "asn_org": "PJSC \"Vimpelcom\"",
   "categories": {
-    "ssh": 11,
-    "c2": 1
+    "ssh": 14
   },
-  "events": 13,
+  "events": 14,
   "first_seen": "2026-11-26T02:48:19Z",
-  "last_seen": "2026-11-26T02:49:06Z",
-  "reported": "not reported (permanent ban)"
+  "last_seen": "2026-11-26T02:48:29Z",
+  "reported": "2026-11-26T04:28:22Z"
 }

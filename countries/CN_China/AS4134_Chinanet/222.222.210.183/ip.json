@@ -5,11 +5,11 @@
   "asn": 4134,
   "asn_org": "Chinanet",
   "categories": {
-    "scan": 16,
-    "c2": 7
+    "scan": 17,
+    "c2": 8
   },
-  "events": 25,
+  "events": 27,
   "first_seen": "2026-11-14T15:00:59Z",
-  "last_seen": "2026-11-25T20:15:34Z",
+  "last_seen": "2026-11-26T03:36:15Z",
   "reported": "not reported (permanent ban)"
 }

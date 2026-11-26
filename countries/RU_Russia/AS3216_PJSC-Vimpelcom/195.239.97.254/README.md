@@ -7,11 +7,11 @@
 | IP | `195.239.97.254` |
 | Country | Russia (RU) |
 | ASN | AS3216 · PJSC "Vimpelcom" |
-| Activity | SSH brute force (11), Known botnet / C2 infrastructure (1) |
-| Events | 13 |
+| Activity | SSH brute force (14) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-26T02:48:19Z |
-| Last seen (UTC) | 2026-11-26T02:49:06Z |
-| Reported to network owner (UTC) | not reported (permanent ban) |
+| Last seen (UTC) | 2026-11-26T02:48:29Z |
+| Reported to network owner (UTC) | 2026-11-26T04:28:22Z |
 
 The abuse contact of the network owner was notified with redacted evidence.
 

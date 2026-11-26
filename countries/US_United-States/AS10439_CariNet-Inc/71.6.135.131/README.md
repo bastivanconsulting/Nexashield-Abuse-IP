@@ -7,10 +7,10 @@
 | IP | `71.6.135.131` |
 | Country | United States (US) |
 | ASN | AS10439 · CariNet, Inc. |
-| Activity | Known botnet / C2 infrastructure (53), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 663 |
+| Activity | Known botnet / C2 infrastructure (54), Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 667 |
 | First seen (UTC) | 2026-11-11T09:39:11Z |
-| Last seen (UTC) | 2026-11-26T02:39:35Z |
+| Last seen (UTC) | 2026-11-26T03:56:15Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

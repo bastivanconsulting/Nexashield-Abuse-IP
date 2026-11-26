@@ -7,10 +7,10 @@
 | IP | `71.229.1.186` |
 | Country | United States (US) |
 | ASN | AS7922 · Comcast Cable Communications, LLC |
-| Activity | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (1) |
-| Events | 7 |
+| Activity | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (1) |
+| Events | 9 |
 | First seen (UTC) | 2026-11-13T23:32:01Z |
-| Last seen (UTC) | 2026-11-23T09:02:04Z |
+| Last seen (UTC) | 2026-11-26T03:45:26Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

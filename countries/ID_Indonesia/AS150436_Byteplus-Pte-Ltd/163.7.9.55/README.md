@@ -7,10 +7,10 @@
 | IP | `163.7.9.55` |
 | Country | Indonesia (ID) |
 | ASN | AS150436 · Byteplus Pte. Ltd. |
-| Activity | Known botnet / C2 infrastructure (1), SSH brute force (1) |
+| Activity | Port scanning (1), Known botnet / C2 infrastructure (1), SSH brute force (1) |
 | Events | 1 |
-| First seen (UTC) | 2026-11-25T23:23:11Z |
-| Last seen (UTC) | 2026-11-25T23:23:11Z |
+| First seen (UTC) | 2026-11-26T03:24:30Z |
+| Last seen (UTC) | 2026-11-26T03:24:30Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

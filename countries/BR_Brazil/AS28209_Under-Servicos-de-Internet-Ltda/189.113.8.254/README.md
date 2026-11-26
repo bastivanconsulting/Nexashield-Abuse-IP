@@ -7,10 +7,10 @@
 | IP | `189.113.8.254` |
 | Country | Brazil (BR) |
 | ASN | AS28209 · Under Servicos de Internet Ltda |
-| Activity | Port scanning (65), Known botnet / C2 infrastructure (30) |
-| Events | 96 |
+| Activity | Port scanning (66), Known botnet / C2 infrastructure (30) |
+| Events | 97 |
 | First seen (UTC) | 2026-11-11T10:10:45Z |
-| Last seen (UTC) | 2026-11-26T00:51:46Z |
+| Last seen (UTC) | 2026-11-26T03:27:21Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

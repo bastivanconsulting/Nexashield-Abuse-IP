@@ -7,10 +7,10 @@
 | IP | `43.161.233.190` |
 | Country | Hong Kong (HK) |
 | ASN | AS132203 · Shenzhen Tencent Computer Systems Company Limited |
-| Activity | Abusive HTTP requests (2), Known botnet / C2 infrastructure (2) |
-| Events | 4 |
+| Activity | Abusive HTTP requests (3), Known botnet / C2 infrastructure (3) |
+| Events | 7 |
 | First seen (UTC) | 2026-11-13T22:32:51Z |
-| Last seen (UTC) | 2026-11-14T04:59:03Z |
+| Last seen (UTC) | 2026-11-26T03:34:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

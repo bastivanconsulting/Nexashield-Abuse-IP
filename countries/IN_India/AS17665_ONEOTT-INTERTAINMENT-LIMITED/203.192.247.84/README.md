@@ -7,10 +7,10 @@
 | IP | `203.192.247.84` |
 | Country | India (IN) |
 | ASN | AS17665 · ONEOTT INTERTAINMENT LIMITED |
-| Activity | Known botnet / C2 infrastructure (7), Port scanning (7), SSH brute force (6) |
-| Events | 21 |
+| Activity | Known botnet / C2 infrastructure (8), Port scanning (8), SSH brute force (6) |
+| Events | 23 |
 | First seen (UTC) | 2026-11-20T06:06:58Z |
-| Last seen (UTC) | 2026-11-25T19:29:40Z |
+| Last seen (UTC) | 2026-11-26T04:03:47Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
