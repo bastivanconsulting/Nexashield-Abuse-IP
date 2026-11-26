@@ -7,10 +7,10 @@
 | IP | `162.35.175.206` |
 | Country | United States (US) |
 | ASN | AS19318 · Interserver, Inc |
-| Activity | Port scanning (37), Known botnet / C2 infrastructure (14) |
-| Events | 60 |
+| Activity | Port scanning (38), Known botnet / C2 infrastructure (14) |
+| Events | 61 |
 | First seen (UTC) | 2026-11-12T05:04:07Z |
-| Last seen (UTC) | 2026-11-26T04:13:37Z |
+| Last seen (UTC) | 2026-11-26T04:49:18Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

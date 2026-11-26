@@ -5,10 +5,10 @@
   "asn": 202468,
   "asn_org": "Noyan Abr Arvan Co. ( Private Joint Stock)",
   "categories": {
-    "ssh": 18
+    "ssh": 40
   },
-  "events": 18,
+  "events": 40,
   "first_seen": "2026-11-26T04:09:08Z",
-  "last_seen": "2026-11-26T04:28:25Z",
+  "last_seen": "2026-11-26T04:53:16Z",
   "reported": "2026-11-26T04:28:27Z"
 }

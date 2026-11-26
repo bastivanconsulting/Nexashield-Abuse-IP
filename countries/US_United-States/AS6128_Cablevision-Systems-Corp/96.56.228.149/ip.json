@@ -6,11 +6,11 @@
   "asn_org": "Cablevision Systems Corp.",
   "categories": {
     "scan": 1,
-    "c2": 2,
-    "ssh": 2
+    "c2": 3,
+    "ssh": 4
   },
-  "events": 5,
+  "events": 9,
   "first_seen": "2026-11-22T15:55:11Z",
-  "last_seen": "2026-11-23T06:07:14Z",
+  "last_seen": "2026-11-26T04:22:04Z",
   "reported": "not reported (permanent ban)"
 }

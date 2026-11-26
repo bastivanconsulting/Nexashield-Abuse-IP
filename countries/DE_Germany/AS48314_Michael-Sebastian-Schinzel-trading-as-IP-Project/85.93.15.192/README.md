@@ -7,10 +7,10 @@
 | IP | `85.93.15.192` |
 | Country | Germany (DE) |
 | ASN | AS48314 · Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG |
-| Activity | Abusive HTTP requests (136), Port scanning (33) |
-| Events | 170 |
+| Activity | Abusive HTTP requests (136), Port scanning (34) |
+| Events | 171 |
 | First seen (UTC) | 2026-11-23T17:40:02Z |
-| Last seen (UTC) | 2026-11-26T04:02:40Z |
+| Last seen (UTC) | 2026-11-26T04:19:54Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

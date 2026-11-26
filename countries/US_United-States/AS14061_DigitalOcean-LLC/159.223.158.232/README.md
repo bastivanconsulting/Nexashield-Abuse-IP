@@ -7,10 +7,10 @@
 | IP | `159.223.158.232` |
 | Country | United States (US) |
 | ASN | AS14061 · DigitalOcean, LLC |
-| Activity | Exploitation attempt (CVE / RCE / injection) (1) |
-| Events | 1 |
-| First seen (UTC) | 2026-11-26T04:18:59Z |
-| Last seen (UTC) | 2026-11-26T04:18:59Z |
+| Activity | Port scanning (4), Exploitation attempt (CVE / RCE / injection) (1) |
+| Events | 6 |
+| First seen (UTC) | 2026-11-26T04:18:57Z |
+| Last seen (UTC) | 2026-11-26T04:20:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

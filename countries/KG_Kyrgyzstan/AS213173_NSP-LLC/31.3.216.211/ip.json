@@ -5,10 +5,10 @@
   "asn": 213173,
   "asn_org": "NSP LLC",
   "categories": {
-    "scan": 63
+    "scan": 65
   },
-  "events": 71,
+  "events": 73,
   "first_seen": "2026-11-24T03:48:46Z",
-  "last_seen": "2026-11-26T04:05:48Z",
+  "last_seen": "2026-11-26T05:04:24Z",
   "reported": "not reported (permanent ban)"
 }

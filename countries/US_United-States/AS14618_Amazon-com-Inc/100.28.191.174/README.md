@@ -7,10 +7,10 @@
 | IP | `100.28.191.174` |
 | Country | United States (US) |
 | ASN | AS14618 · Amazon.com, Inc. |
-| Activity | Port scanning (34) |
-| Events | 34 |
+| Activity | Port scanning (36) |
+| Events | 36 |
 | First seen (UTC) | 2026-11-11T09:54:10Z |
-| Last seen (UTC) | 2026-11-26T02:13:44Z |
+| Last seen (UTC) | 2026-11-26T05:08:08Z |
 | Reported to network owner (UTC) | 2026-11-11T16:35:25Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

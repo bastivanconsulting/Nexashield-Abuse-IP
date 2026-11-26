@@ -1,0 +1,16 @@
+{
+  "ip": "190.60.55.86",
+  "country_code": "CO",
+  "country": "Colombia",
+  "asn": 52468,
+  "asn_org": "UFINET PANAMA S.A.",
+  "categories": {
+    "scan": 2,
+    "c2": 3,
+    "ssh": 5
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T17:14:46Z",
+  "last_seen": "2026-11-26T05:02:06Z",
+  "reported": "not reported (permanent ban)"
+}

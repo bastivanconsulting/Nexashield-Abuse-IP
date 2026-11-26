@@ -5,11 +5,11 @@
   "asn": 43515,
   "asn_org": "Google Ireland Limited",
   "categories": {
-    "scan": 49,
-    "c2": 9
+    "scan": 52,
+    "c2": 10
   },
-  "events": 64,
+  "events": 68,
   "first_seen": "2026-11-11T09:53:57Z",
-  "last_seen": "2026-11-25T16:54:28Z",
+  "last_seen": "2026-11-26T05:15:55Z",
   "reported": "not reported (permanent ban)"
 }

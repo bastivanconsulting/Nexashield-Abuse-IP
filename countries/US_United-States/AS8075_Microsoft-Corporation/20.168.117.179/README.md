@@ -7,10 +7,10 @@
 | IP | `20.168.117.179` |
 | Country | United States (US) |
 | ASN | AS8075 · Microsoft Corporation |
-| Activity | Port scanning (23) |
-| Events | 40 |
+| Activity | Port scanning (24) |
+| Events | 42 |
 | First seen (UTC) | 2026-11-11T17:09:29Z |
-| Last seen (UTC) | 2026-11-25T06:09:36Z |
+| Last seen (UTC) | 2026-11-26T04:43:00Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

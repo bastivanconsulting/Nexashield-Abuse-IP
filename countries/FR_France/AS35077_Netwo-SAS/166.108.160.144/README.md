@@ -7,10 +7,10 @@
 | IP | `166.108.160.144` |
 | Country | France (FR) |
 | ASN | AS35077 · Netwo SAS |
-| Activity | Port scanning (2339), SSH brute force (8) |
-| Events | 2347 |
+| Activity | Port scanning (2497), SSH brute force (8) |
+| Events | 2505 |
 | First seen (UTC) | 2026-11-25T05:21:55Z |
-| Last seen (UTC) | 2026-11-26T04:34:28Z |
+| Last seen (UTC) | 2026-11-26T05:34:05Z |
 | Reported to network owner (UTC) | 2026-11-25T08:28:00Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

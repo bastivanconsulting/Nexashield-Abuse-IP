@@ -1,6 +1,6 @@
 # AS3462 · Chunghwa Telecom Co., Ltd.
 
-🇹🇼 Taiwan · **11** malicious IP(s)
+🇹🇼 Taiwan · **12** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -8,6 +8,7 @@
 | [`59.125.213.161`](59.125.213.161/) | Port scanning (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-25T12:31:06Z |
 | [`59.126.214.71`](59.126.214.71/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 7 | 2026-11-12T03:07:03Z |
 | [`60.249.207.150`](60.249.207.150/) | Port scanning (5), Known botnet / C2 infrastructure (2) | 8 | 2026-11-25T13:06:02Z |
+| [`60.249.251.88`](60.249.251.88/) | Known botnet / C2 infrastructure (3), SSH brute force (3), Port scanning (2) | 10 | 2026-11-26T04:54:06Z |
 | [`60.251.229.144`](60.251.229.144/) | SSH brute force (2), Known botnet / C2 infrastructure (2), Port scanning (1) | 5 | 2026-11-22T06:06:05Z |
 | [`61.218.153.56`](61.218.153.56/) | Port scanning (20), Known botnet / C2 infrastructure (3) | 24 | 2026-11-25T01:45:05Z |
 | [`61.220.94.159`](61.220.94.159/) | Port scanning (59) | 88 | 2026-11-25T20:16:17Z |
