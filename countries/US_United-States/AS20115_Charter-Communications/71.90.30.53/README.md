@@ -7,10 +7,10 @@
 | IP | `71.90.30.53` |
 | Country | United States (US) |
 | ASN | AS20115 · Charter Communications |
-| Activity | Port scanning (23), Known botnet / C2 infrastructure (10) |
-| Events | 34 |
+| Activity | Port scanning (24), Known botnet / C2 infrastructure (10) |
+| Events | 35 |
 | First seen (UTC) | 2026-11-12T08:16:38Z |
-| Last seen (UTC) | 2026-11-26T05:27:06Z |
+| Last seen (UTC) | 2026-11-26T10:21:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

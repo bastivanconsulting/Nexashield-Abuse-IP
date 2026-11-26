@@ -5,12 +5,12 @@
   "asn": 63199,
   "asn_org": "CDS Global Cloud Co., Ltd",
   "categories": {
-    "scan": 290,
+    "scan": 294,
     "c2": 44,
     "exploit": 1
   },
-  "events": 383,
+  "events": 387,
   "first_seen": "2026-11-11T11:51:13Z",
-  "last_seen": "2026-11-26T08:52:02Z",
+  "last_seen": "2026-11-26T11:17:56Z",
   "reported": "not reported (permanent ban)"
 }

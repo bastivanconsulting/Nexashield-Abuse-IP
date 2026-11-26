@@ -1,0 +1,16 @@
+{
+  "ip": "203.192.211.180",
+  "country_code": "IN",
+  "country": "India",
+  "asn": 17665,
+  "asn_org": "ONEOTT INTERTAINMENT LIMITED",
+  "categories": {
+    "ssh": 1,
+    "c2": 2,
+    "scan": 1
+  },
+  "events": 4,
+  "first_seen": "2026-11-14T01:24:25Z",
+  "last_seen": "2026-11-23T15:18:26Z",
+  "reported": "not reported (permanent ban)"
+}

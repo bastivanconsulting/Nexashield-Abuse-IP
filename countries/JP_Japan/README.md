@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 120 | Port scanning (800), Known botnet / C2 infrastructure (568), Abusive HTTP requests (1) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 120 | Port scanning (803), Known botnet / C2 infrastructure (570), Abusive HTTP requests (1) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 12 | Port scanning (273), Known botnet / C2 infrastructure (49) |
-| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 10 | Port scanning (649), Known botnet / C2 infrastructure (111) |
+| [AS63949](AS63949_Akamai-Technologies-Inc/) | Akamai Technologies, Inc. | 10 | Port scanning (652), Known botnet / C2 infrastructure (113) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 6 | Abusive HTTP requests (1293), Port scanning (108), Web injection payload blocked by WAF (85), Known botnet / C2 infrastructure (14), SSH brute force (2) |
 | [AS149440](AS149440_Evoxt-Sdn-Bhd/) | Evoxt Sdn. Bhd. | 2 | Abusive HTTP requests (20) |
 | [AS50219](AS50219_LNK-SYSTEMS-MUNTENIA-SRL/) | LNK SYSTEMS MUNTENIA SRL | 2 | Port scanning (250), Known botnet / C2 infrastructure (64) |

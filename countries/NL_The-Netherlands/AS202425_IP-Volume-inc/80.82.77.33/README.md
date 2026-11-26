@@ -7,10 +7,10 @@
 | IP | `80.82.77.33` |
 | Country | The Netherlands (NL) |
 | ASN | AS202425 · IP Volume inc |
-| Activity | Port scanning (401), Known botnet / C2 infrastructure (39), Exploitation attempt (CVE / RCE / injection) (2) |
-| Events | 458 |
+| Activity | Port scanning (403), Known botnet / C2 infrastructure (39), Exploitation attempt (CVE / RCE / injection) (2) |
+| Events | 460 |
 | First seen (UTC) | 2026-11-11T13:36:21Z |
-| Last seen (UTC) | 2026-11-26T09:45:50Z |
+| Last seen (UTC) | 2026-11-26T10:52:24Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

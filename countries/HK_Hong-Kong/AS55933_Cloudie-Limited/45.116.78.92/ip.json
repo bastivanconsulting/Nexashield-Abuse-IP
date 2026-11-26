@@ -5,12 +5,12 @@
   "asn": 55933,
   "asn_org": "Cloudie Limited",
   "categories": {
-    "scan": 3,
-    "c2": 2,
+    "scan": 4,
+    "c2": 3,
     "ssh": 9
   },
-  "events": 17,
+  "events": 20,
   "first_seen": "2026-11-11T22:51:58Z",
-  "last_seen": "2026-11-26T01:07:55Z",
+  "last_seen": "2026-11-26T10:30:05Z",
   "reported": "not reported (permanent ban)"
 }

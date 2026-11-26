@@ -7,10 +7,10 @@
 | IP | `45.116.78.92` |
 | Country | Hong Kong (HK) |
 | ASN | AS55933 · Cloudie Limited |
-| Activity | SSH brute force (9), Port scanning (3), Known botnet / C2 infrastructure (2) |
-| Events | 17 |
+| Activity | SSH brute force (9), Port scanning (4), Known botnet / C2 infrastructure (3) |
+| Events | 20 |
 | First seen (UTC) | 2026-11-11T22:51:58Z |
-| Last seen (UTC) | 2026-11-26T01:07:55Z |
+| Last seen (UTC) | 2026-11-26T10:30:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

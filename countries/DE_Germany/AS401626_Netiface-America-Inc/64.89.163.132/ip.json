@@ -1,0 +1,15 @@
+{
+  "ip": "64.89.163.132",
+  "country_code": "DE",
+  "country": "Germany",
+  "asn": 401626,
+  "asn_org": "Netiface America, Inc.",
+  "categories": {
+    "scan": 5,
+    "c2": 2
+  },
+  "events": 8,
+  "first_seen": "2026-11-19T07:45:45Z",
+  "last_seen": "2026-11-26T04:02:03Z",
+  "reported": "not reported (permanent ban)"
+}

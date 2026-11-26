@@ -1,10 +1,10 @@
 # 🇸🇬 Singapore
 
-**180** malicious IP(s) across **12** network(s).
+**182** malicious IP(s) across **12** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 128 | Port scanning (867), Known botnet / C2 infrastructure (612), Web injection payload blocked by WAF (24), Abusive HTTP requests (10), SSH brute force (7) |
+| [AS45102](AS45102_Alibaba-US-Technology-Co-Ltd/) | Alibaba (US) Technology Co., Ltd. | 130 | Port scanning (882), Known botnet / C2 infrastructure (621), Web injection payload blocked by WAF (24), Abusive HTTP requests (10), SSH brute force (7) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 25 | Abusive HTTP requests (410), Port scanning (405), Known botnet / C2 infrastructure (100), SSH brute force (42), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS9009](AS9009_M247-Europe-SRL/) | M247 Europe SRL | 7 | Port scanning (179) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (468), Known botnet / C2 infrastructure (54) |

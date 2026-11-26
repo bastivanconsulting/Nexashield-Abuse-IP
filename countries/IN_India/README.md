@@ -1,6 +1,6 @@
 # 🇮🇳 India
 
-**96** malicious IP(s) across **38** network(s).
+**97** malicious IP(s) across **38** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
@@ -8,10 +8,11 @@
 | [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 14 | SSH brute force (67), Known botnet / C2 infrastructure (66), Port scanning (50) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | SSH brute force (41), Port scanning (37), Known botnet / C2 infrastructure (31) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (118), Known botnet / C2 infrastructure (31) |
-| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (303), Known botnet / C2 infrastructure (102) |
-| [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | Known botnet / C2 infrastructure (20), SSH brute force (18), Port scanning (17) |
+| [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (305), Known botnet / C2 infrastructure (104) |
+| [AS45820](AS45820_TTSL-ISP-DIVISION/) | TTSL-ISP DIVISION | 4 | Known botnet / C2 infrastructure (21), SSH brute force (18), Port scanning (18) |
 | [AS8075](AS8075_Microsoft-Corporation/) | Microsoft Corporation | 3 | SSH brute force (21), Port scanning (6), Known botnet / C2 infrastructure (6), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS152523](AS152523_BLAZING-BULLET-PRIVATE-LIMITED/) | BLAZING BULLET PRIVATE LIMITED | 2 | SSH brute force (128) |
+| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 2 | Known botnet / C2 infrastructure (10), Port scanning (9), SSH brute force (7) |
 | [AS396982](AS396982_Google-LLC/) | Google LLC | 2 | Abusive HTTP requests (772), Web injection payload blocked by WAF (52) |
 | [AS4755](AS4755_Tata-Communications-Limited/) | Tata Communications Limited | 2 | Port scanning (14), Known botnet / C2 infrastructure (12), SSH brute force (2) |
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
@@ -32,7 +33,6 @@
 | [AS149553](AS149553_AXOM-INTERNET-SERVICES-PRIVATE-LIMITED/) | AXOM INTERNET SERVICES PRIVATE LIMITED | 1 | Known botnet / C2 infrastructure (4), Port scanning (3), SSH brute force (2) |
 | [AS150008](AS150008_Pioneer-Elabs-Ltd/) | Pioneer Elabs Ltd. | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (4) |
 | [AS153283](AS153283_Softcrop-It/) | Softcrop It | 1 | Port scanning (7), Known botnet / C2 infrastructure (6), SSH brute force (1) |
-| [AS17665](AS17665_ONEOTT-INTERTAINMENT-LIMITED/) | ONEOTT INTERTAINMENT LIMITED | 1 | Known botnet / C2 infrastructure (8), Port scanning (8), SSH brute force (6) |
 | [AS17813](AS17813_Mahanagar-Telephone-Nigam-Limited/) | Mahanagar Telephone Nigam Limited | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
 | [AS18002](AS18002_World-Phone-Internet-Services-Pvt-Ltd/) | World Phone Internet Services Pvt. Ltd. | 1 | SSH brute force (4), Known botnet / C2 infrastructure (2) |
 | [AS18209](AS18209_Atria-Convergence-Technologies-Pvt-Ltd/) | Atria Convergence Technologies Pvt. Ltd., | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |

@@ -7,10 +7,10 @@
 | IP | `45.156.129.91` |
 | Country | United States (US) |
 | ASN | AS211680 · NSEC - Sistemas Informaticos, S.A. |
-| Activity | Port scanning (28), Known botnet / C2 infrastructure (14) |
-| Events | 44 |
+| Activity | Port scanning (29), Known botnet / C2 infrastructure (15) |
+| Events | 46 |
 | First seen (UTC) | 2026-11-11T23:30:43Z |
-| Last seen (UTC) | 2026-11-26T03:55:38Z |
+| Last seen (UTC) | 2026-11-26T10:33:44Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

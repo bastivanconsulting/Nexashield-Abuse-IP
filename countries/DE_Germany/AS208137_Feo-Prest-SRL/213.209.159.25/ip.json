@@ -5,11 +5,11 @@
   "asn": 208137,
   "asn_org": "Feo Prest SRL",
   "categories": {
-    "scan": 471,
+    "scan": 472,
     "c2": 32
   },
-  "events": 530,
+  "events": 531,
   "first_seen": "2026-11-11T09:58:17Z",
-  "last_seen": "2026-11-26T10:06:07Z",
+  "last_seen": "2026-11-26T10:17:34Z",
   "reported": "not reported (permanent ban)"
 }
