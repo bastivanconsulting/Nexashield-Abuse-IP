@@ -5,11 +5,11 @@
   "asn": 137697,
   "asn_org": "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",
   "categories": {
-    "scan": 6,
+    "scan": 7,
     "c2": 6
   },
-  "events": 13,
+  "events": 14,
   "first_seen": "2026-11-18T23:06:23Z",
-  "last_seen": "2026-11-26T02:26:58Z",
+  "last_seen": "2026-11-26T06:50:51Z",
   "reported": "not reported (permanent ban)"
 }

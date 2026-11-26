@@ -59,11 +59,11 @@
 | [`146.190.48.172`](146.190.48.172/) | Port scanning (65), Known botnet / C2 infrastructure (22) | 90 | 2026-11-25T20:48:30Z |
 | [`146.190.63.48`](146.190.63.48/) | Abusive HTTP requests (12), Port scanning (1) | 13 | 2026-11-11T17:16:09Z |
 | [`146.190.63.248`](146.190.63.248/) | Abusive HTTP requests (18) | 18 | 2026-11-20T00:29:30Z |
-| [`146.190.66.18`](146.190.66.18/) | Port scanning (59) | 87 | 2026-11-26T04:01:14Z |
+| [`146.190.66.18`](146.190.66.18/) | Port scanning (60) | 88 | 2026-11-26T06:25:28Z |
 | [`146.190.119.114`](146.190.119.114/) | Port scanning (66), Known botnet / C2 infrastructure (27) | 94 | 2026-11-25T22:27:00Z |
 | [`146.190.119.189`](146.190.119.189/) | Port scanning (47), Known botnet / C2 infrastructure (23), Abusive HTTP requests (1) | 72 | 2026-11-25T19:51:02Z |
 | [`146.190.120.158`](146.190.120.158/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-12T05:38:09Z |
-| [`146.190.134.221`](146.190.134.221/) | Port scanning (114), Known botnet / C2 infrastructure (12) | 132 | 2026-11-26T06:08:40Z |
+| [`146.190.134.221`](146.190.134.221/) | Port scanning (121), Known botnet / C2 infrastructure (12) | 140 | 2026-11-26T07:10:17Z |
 | [`146.190.145.217`](146.190.145.217/) | Port scanning (39), Known botnet / C2 infrastructure (17) | 57 | 2026-11-23T10:07:21Z |
 | [`146.190.166.168`](146.190.166.168/) | Port scanning (49), Known botnet / C2 infrastructure (21) | 71 | 2026-11-25T20:24:28Z |
 | [`147.182.180.142`](147.182.180.142/) | Port scanning (48) | 61 | 2026-11-23T22:21:14Z |
@@ -115,7 +115,7 @@
 | [`178.128.66.109`](178.128.66.109/) | Port scanning (20), Web injection payload blocked by WAF (1), Known botnet / C2 infrastructure (1) | 24 | 2026-11-15T05:10:44Z |
 | [`178.128.70.123`](178.128.70.123/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-11T10:03:58Z |
 | [`178.128.186.180`](178.128.186.180/) | Exploitation attempt (CVE / RCE / injection) (3) | 3 | 2026-11-23T08:03:36Z |
-| [`192.241.131.164`](192.241.131.164/) | Port scanning (81) | 108 | 2026-11-26T04:17:15Z |
+| [`192.241.131.164`](192.241.131.164/) | Port scanning (85) | 113 | 2026-11-26T07:08:14Z |
 | [`192.241.146.41`](192.241.146.41/) | SSH brute force (35) | 35 | 2026-11-24T00:01:19Z |
 | [`198.211.100.99`](198.211.100.99/) | Port scanning (5), Known botnet / C2 infrastructure (3) | 9 | 2026-11-21T17:45:04Z |
 | [`198.211.109.100`](198.211.109.100/) | Port scanning (7), Web injection payload blocked by WAF (2), Known botnet / C2 infrastructure (2) | 16 | 2026-11-22T17:29:46Z |

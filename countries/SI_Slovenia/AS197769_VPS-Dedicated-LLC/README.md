@@ -1,6 +1,6 @@
 # AS197769 · VPS Dedicated LLC
 
-🇸🇮 Slovenia · **21** malicious IP(s)
+🇸🇮 Slovenia · **22** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -11,6 +11,7 @@
 | [`31.57.37.177`](31.57.37.177/) | Port scanning (75) | 80 | 2026-11-22T15:10:45Z |
 | [`31.57.37.178`](31.57.37.178/) | Port scanning (185) | 206 | 2026-11-22T14:48:16Z |
 | [`31.57.184.238`](31.57.184.238/) | Port scanning (3), Known botnet / C2 infrastructure (3) | 7 | 2026-11-21T22:34:05Z |
+| [`102.220.160.47`](102.220.160.47/) | Port scanning (6), Known botnet / C2 infrastructure (3) | 11 | 2026-11-26T07:17:05Z |
 | [`102.220.161.61`](102.220.161.61/) | Port scanning (45), Known botnet / C2 infrastructure (11) | 57 | 2026-11-14T05:37:42Z |
 | [`102.220.161.79`](102.220.161.79/) | Port scanning (28), Known botnet / C2 infrastructure (10) | 43 | 2026-11-25T15:22:13Z |
 | [`102.220.161.84`](102.220.161.84/) | Port scanning (16), Known botnet / C2 infrastructure (11), SSH brute force (10) | 38 | 2026-11-25T06:36:59Z |

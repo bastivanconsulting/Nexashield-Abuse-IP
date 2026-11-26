@@ -7,10 +7,10 @@
 | IP | `83.166.50.15` |
 | Country | Estonia (EE) |
 | ASN | AS3249 · Telia Eesti AS |
-| Activity | Port scanning (4), Known botnet / C2 infrastructure (4), SSH brute force (3) |
-| Events | 12 |
+| Activity | Port scanning (5), Known botnet / C2 infrastructure (5), SSH brute force (3) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-21T21:03:34Z |
-| Last seen (UTC) | 2026-11-25T05:43:37Z |
+| Last seen (UTC) | 2026-11-26T06:42:57Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

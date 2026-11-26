@@ -1,11 +1,11 @@
 # 🇮🇳 India
 
-**95** malicious IP(s) across **38** network(s).
+**96** malicious IP(s) across **38** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 17 | Port scanning (58), SSH brute force (36), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (28), Abusive HTTP requests (9) |
-| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 13 | Known botnet / C2 infrastructure (62), SSH brute force (61), Port scanning (49) |
+| [AS9829](AS9829_Bharat-Sanchar-Nigam-Ltd/) | Bharat Sanchar Nigam Ltd | 17 | Port scanning (59), SSH brute force (36), Known botnet / C2 infrastructure (30), Exploitation attempt (CVE / RCE / injection) (28), Abusive HTTP requests (9) |
+| [AS9498](AS9498_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 14 | SSH brute force (67), Known botnet / C2 infrastructure (66), Port scanning (50) |
 | [AS24560](AS24560_Bharti-Airtel-Limited/) | Bharti Airtel Limited | 10 | SSH brute force (41), Port scanning (37), Known botnet / C2 infrastructure (31) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 7 | Port scanning (113), Known botnet / C2 infrastructure (29) |
 | [AS14061](AS14061_DigitalOcean-LLC/) | DigitalOcean, LLC | 7 | Port scanning (302), Known botnet / C2 infrastructure (102) |
@@ -17,7 +17,7 @@
 | [AS132547](AS132547_Sajag-Prahari-Foundation/) | Sajag Prahari Foundation | 1 | SSH brute force (12) |
 | [AS133661](AS133661_Netplus-Broadband-Services-Private-Limited/) | Netplus Broadband Services Private Limited | 1 | Known botnet / C2 infrastructure (5), SSH brute force (4), Port scanning (3) |
 | [AS134026](AS134026_Ultranet-services-private-limited/) | Ultranet services private limited | 1 | SSH brute force (5), Known botnet / C2 infrastructure (4), Port scanning (1) |
-| [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Port scanning (5), Known botnet / C2 infrastructure (4), SSH brute force (1) |
+| [AS134375](AS134375_Fusionnet-Web-Services-Limited/) | Fusionnet Web Services Limited | 1 | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (1) |
 | [AS135744](AS135744_SHREE-BALAJI-INFOWAY-PRIVATE-LIMITED/) | SHREE BALAJI INFOWAY PRIVATE LIMITED | 1 | SSH brute force (6), Known botnet / C2 infrastructure (2), Port scanning (1) |
 | [AS135801](AS135801_C32-Broadband-Pvt-Ltd/) | C32 Broadband Pvt. Ltd. | 1 | Port scanning (10), Known botnet / C2 infrastructure (2) |
 | [AS135863](AS135863_Catla-IT-and-Engg-Co-Pvt-Ltd/) | Catla IT and Engg.Co.Pvt.Ltd. | 1 | Port scanning (8), Known botnet / C2 infrastructure (8), SSH brute force (4) |

@@ -7,10 +7,10 @@
 | IP | `45.120.101.70` |
 | Country | China (CN) |
 | ASN | AS137697 · CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P. |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (6) |
-| Events | 13 |
+| Activity | Port scanning (7), Known botnet / C2 infrastructure (6) |
+| Events | 14 |
 | First seen (UTC) | 2026-11-18T23:06:23Z |
-| Last seen (UTC) | 2026-11-26T02:26:58Z |
+| Last seen (UTC) | 2026-11-26T06:50:51Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

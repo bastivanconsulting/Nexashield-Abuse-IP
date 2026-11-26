@@ -5,11 +5,11 @@
   "asn": 215439,
   "asn_org": "PLAY2GO INTERNATIONAL LIMITED",
   "categories": {
-    "scan": 22,
-    "c2": 10
+    "scan": 24,
+    "c2": 11
   },
-  "events": 36,
+  "events": 39,
   "first_seen": "2026-11-13T15:27:17Z",
-  "last_seen": "2026-11-25T22:29:15Z",
+  "last_seen": "2026-11-26T06:49:59Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,15 @@
+{
+  "ip": "102.220.160.47",
+  "country_code": "SI",
+  "country": "Slovenia",
+  "asn": 197769,
+  "asn_org": "VPS Dedicated LLC",
+  "categories": {
+    "scan": 6,
+    "c2": 3
+  },
+  "events": 11,
+  "first_seen": "2026-11-11T18:37:48Z",
+  "last_seen": "2026-11-26T07:17:05Z",
+  "reported": "not reported (permanent ban)"
+}

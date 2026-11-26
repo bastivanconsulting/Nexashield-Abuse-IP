@@ -1,0 +1,15 @@
+{
+  "ip": "37.148.117.129",
+  "country_code": "IR",
+  "country": "Iran",
+  "asn": 34369,
+  "asn_org": "Aria Shatel PJSC",
+  "categories": {
+    "exploit": 2,
+    "scan": 1
+  },
+  "events": 6,
+  "first_seen": "2026-11-25T11:39:03Z",
+  "last_seen": "2026-11-26T06:47:06Z",
+  "reported": "not reported (permanent ban)"
+}

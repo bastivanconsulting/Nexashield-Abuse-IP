@@ -5,11 +5,11 @@
   "asn": 56046,
   "asn_org": "China Mobile Communications Corporation",
   "categories": {
-    "scan": 10,
-    "c2": 7
+    "scan": 11,
+    "c2": 8
   },
-  "events": 19,
+  "events": 21,
   "first_seen": "2026-11-12T09:03:45Z",
-  "last_seen": "2026-11-24T19:55:03Z",
+  "last_seen": "2026-11-26T06:59:46Z",
   "reported": "not reported (permanent ban)"
 }

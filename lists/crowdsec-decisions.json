@@ -3032,6 +3032,14 @@
   "origin": "lists"
  },
  {
+  "value": "8.133.240.34",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "8.137.55.67",
   "scope": "Ip",
   "type": "ban",
@@ -17560,6 +17568,14 @@
   "origin": "lists"
  },
  {
+  "value": "37.148.117.129",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "37.157.91.62",
   "scope": "Ip",
   "type": "ban",
@@ -22432,6 +22448,14 @@
   "origin": "lists"
  },
  {
+  "value": "45.156.87.34",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "45.156.87.44",
   "scope": "Ip",
   "type": "ban",
@@ -25512,6 +25536,14 @@
   "origin": "lists"
  },
  {
+  "value": "47.77.234.190",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "47.77.235.14",
   "scope": "Ip",
   "type": "ban",
@@ -25569,6 +25601,14 @@
  },
  {
   "value": "47.84.101.73",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "47.84.101.80",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -26752,6 +26792,14 @@
   "origin": "lists"
  },
  {
+  "value": "47.95.206.202",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "47.95.209.135",
   "scope": "Ip",
   "type": "ban",
@@ -26793,6 +26841,14 @@
  },
  {
   "value": "47.99.44.122",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "47.99.112.241",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -38168,6 +38224,14 @@
   "origin": "lists"
  },
  {
+  "value": "80.82.77.202",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "80.87.206.25",
   "scope": "Ip",
   "type": "ban",
@@ -46472,6 +46536,14 @@
   "origin": "lists"
  },
  {
+  "value": "102.220.160.47",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "102.220.161.61",
   "scope": "Ip",
   "type": "ban",
@@ -47321,6 +47393,14 @@
  },
  {
   "value": "106.75.132.16",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "106.75.136.15",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -50833,6 +50913,14 @@
  },
  {
   "value": "128.14.239.39",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "128.185.33.241",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -54417,6 +54505,14 @@
  },
  {
   "value": "152.32.235.160",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "152.32.235.206",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -59145,6 +59241,14 @@
  },
  {
   "value": "172.191.169.192",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "172.202.9.120",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",
@@ -65520,6 +65624,14 @@
   "origin": "lists"
  },
  {
+  "value": "193.176.31.250",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
   "value": "193.176.31.251",
   "scope": "Ip",
   "type": "ban",
@@ -67953,6 +68065,14 @@
  },
  {
   "value": "201.143.107.34",
+  "scope": "Ip",
+  "type": "ban",
+  "duration": "72h",
+  "reason": "nexashield-abuse-ip",
+  "origin": "lists"
+ },
+ {
+  "value": "201.249.89.102",
   "scope": "Ip",
   "type": "ban",
   "duration": "72h",

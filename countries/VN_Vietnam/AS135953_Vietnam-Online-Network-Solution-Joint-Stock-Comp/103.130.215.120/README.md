@@ -7,10 +7,10 @@
 | IP | `103.130.215.120` |
 | Country | Vietnam (VN) |
 | ASN | AS135953 · Vietnam Online Network Solution Joint Stock Compnay |
-| Activity | Port scanning (51), Known botnet / C2 infrastructure (8), Abusive HTTP requests (1) |
-| Events | 61 |
+| Activity | Port scanning (53), Known botnet / C2 infrastructure (8), Abusive HTTP requests (1) |
+| Events | 63 |
 | First seen (UTC) | 2026-11-21T17:46:50Z |
-| Last seen (UTC) | 2026-11-26T05:31:21Z |
+| Last seen (UTC) | 2026-11-26T06:39:28Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

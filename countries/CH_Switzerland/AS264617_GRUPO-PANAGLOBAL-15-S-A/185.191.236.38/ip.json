@@ -6,11 +6,11 @@
   "asn_org": "GRUPO PANAGLOBAL 15 S.A",
   "categories": {
     "web": 4,
-    "scan": 34,
+    "scan": 35,
     "c2": 9
   },
-  "events": 48,
+  "events": 49,
   "first_seen": "2026-11-11T00:07:04Z",
-  "last_seen": "2026-11-26T03:23:52Z",
+  "last_seen": "2026-11-26T07:11:59Z",
   "reported": "not reported (permanent ban)"
 }
