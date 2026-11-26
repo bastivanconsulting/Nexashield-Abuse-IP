@@ -4,11 +4,11 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 184 | Port scanning (10101), Known botnet / C2 infrastructure (2257), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
-| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 77 | Port scanning (5214), SSH brute force (506), Known botnet / C2 infrastructure (385), UDP exploit signature (5) |
-| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 49 | Port scanning (9339), Known botnet / C2 infrastructure (458), Exploitation attempt (CVE / RCE / injection) (38), Abusive HTTP requests (5), SSH brute force (2) |
-| [AS396982](AS396982_Google-LLC/) | Google LLC | 20 | Abusive HTTP requests (760), Port scanning (458), Known botnet / C2 infrastructure (54), Web injection payload blocked by WAF (40) |
-| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 18 | Port scanning (916), Known botnet / C2 infrastructure (110), Abusive HTTP requests (10), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
+| [AS213412](AS213412_ONYPHE-SAS/) | ONYPHE SAS | 184 | Port scanning (10113), Known botnet / C2 infrastructure (2259), Exploitation attempt (CVE / RCE / injection) (14), SSH brute force (1) |
+| [AS198364](AS198364_BANATSYNC-SRL/) | BANATSYNC SRL | 77 | Port scanning (5219), SSH brute force (506), Known botnet / C2 infrastructure (386), UDP exploit signature (5) |
+| [AS209334](AS209334_Modat-B-V/) | Modat B.V. | 49 | Port scanning (9393), Known botnet / C2 infrastructure (459), Exploitation attempt (CVE / RCE / injection) (38), Abusive HTTP requests (5), SSH brute force (2) |
+| [AS396982](AS396982_Google-LLC/) | Google LLC | 20 | Abusive HTTP requests (760), Port scanning (459), Known botnet / C2 infrastructure (54), Web injection payload blocked by WAF (40) |
+| [AS16276](AS16276_OVH-SAS/) | OVH SAS | 18 | Port scanning (919), Known botnet / C2 infrastructure (110), Abusive HTTP requests (10), Exploitation attempt (CVE / RCE / injection) (2), Web injection payload blocked by WAF (2) |
 | [AS12876](AS12876_Scaleway-SAS/) | Scaleway SAS | 10 | Port scanning (525), Known botnet / C2 infrastructure (32), Exploitation attempt (CVE / RCE / injection) (10), Web injection payload blocked by WAF (10), Abusive HTTP requests (4) |
 | [AS211590](AS211590_Bucklog-SARL/) | Bucklog SARL | 6 | Web injection payload blocked by WAF (1325), Port scanning (6), Known botnet / C2 infrastructure (6) |
 | [AS12322](AS12322_Free-SAS/) | Free SAS | 3 | SSH brute force (16), Known botnet / C2 infrastructure (11), Port scanning (6) |
@@ -24,7 +24,7 @@
 | [AS215381](AS215381_ROCKHOSTER-PRIVATE-LIMITED/) | ROCKHOSTER PRIVATE LIMITED | 1 | Port scanning (36), Known botnet / C2 infrastructure (3) |
 | [AS29066](AS29066_velia-net-Internetdienste-GmbH/) | velia.net Internetdienste GmbH | 1 | SSH brute force (87) |
 | [AS34534](AS34534_FBW-NETWORKS-SAS/) | FBW NETWORKS SAS | 1 | Port scanning (2), Exploitation attempt (CVE / RCE / injection) (1) |
-| [AS35077](AS35077_Netwo-SAS/) | Netwo SAS | 1 | Port scanning (3171), SSH brute force (8) |
+| [AS35077](AS35077_Netwo-SAS/) | Netwo SAS | 1 | Port scanning (3341), SSH brute force (8) |
 | [AS39421](AS39421_Sapinet-SAS/) | Sapinet SAS | 1 | Known botnet / C2 infrastructure (8) |
 | [AS40021](AS40021_Contabo-Inc/) | Contabo Inc. | 1 | Port scanning (50), Known botnet / C2 infrastructure (5) |
 | [AS50049](AS50049_RedSwitches-Pty-LTD/) | RedSwitches Pty LTD. | 1 | Abusive HTTP requests (13) |

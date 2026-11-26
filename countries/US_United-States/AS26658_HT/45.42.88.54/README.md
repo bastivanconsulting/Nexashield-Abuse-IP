@@ -7,10 +7,10 @@
 | IP | `45.42.88.54` |
 | Country | United States (US) |
 | ASN | AS26658 · HT |
-| Activity | Port scanning (106) |
-| Events | 112 |
+| Activity | Port scanning (107) |
+| Events | 113 |
 | First seen (UTC) | 2026-11-11T10:29:31Z |
-| Last seen (UTC) | 2026-11-17T20:28:41Z |
+| Last seen (UTC) | 2026-11-26T09:34:59Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

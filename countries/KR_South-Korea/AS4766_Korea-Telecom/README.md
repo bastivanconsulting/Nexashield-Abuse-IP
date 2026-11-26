@@ -6,7 +6,7 @@
 |---|---|---:|---|
 | [`14.33.48.192`](14.33.48.192/) | Exploitation attempt (CVE / RCE / injection) (1) | 1 | 2026-11-25T01:35:25Z |
 | [`14.33.96.3`](14.33.96.3/) | Known botnet / C2 infrastructure (3), Port scanning (2), SSH brute force (2) | 9 | 2026-11-25T16:42:05Z |
-| [`14.51.12.142`](14.51.12.142/) | Port scanning (6), Known botnet / C2 infrastructure (5), SSH brute force (2) | 14 | 2026-11-26T00:37:31Z |
+| [`14.51.12.142`](14.51.12.142/) | Port scanning (7), Known botnet / C2 infrastructure (6), SSH brute force (2) | 16 | 2026-11-26T09:56:33Z |
 | [`14.55.141.2`](14.55.141.2/) | SSH brute force (10), Port scanning (3) | 13 | 2026-11-20T14:37:08Z |
 | [`61.74.103.25`](61.74.103.25/) | Exploitation attempt (CVE / RCE / injection) (2), Port scanning (2) | 7 | 2026-11-12T04:41:01Z |
 | [`112.161.26.125`](112.161.26.125/) | Known botnet / C2 infrastructure (5), Port scanning (4), SSH brute force (2) | 12 | 2026-11-25T00:17:38Z |

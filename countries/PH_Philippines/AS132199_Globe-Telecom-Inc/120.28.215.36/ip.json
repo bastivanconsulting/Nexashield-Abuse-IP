@@ -1,0 +1,15 @@
+{
+  "ip": "120.28.215.36",
+  "country_code": "PH",
+  "country": "Philippines",
+  "asn": 132199,
+  "asn_org": "Globe Telecom Inc.",
+  "categories": {
+    "web": 2,
+    "exploit": 4
+  },
+  "events": 6,
+  "first_seen": "2026-11-26T09:48:33Z",
+  "last_seen": "2026-11-26T09:48:33Z",
+  "reported": "2026-11-26T10:27:52Z"
+}

@@ -7,10 +7,10 @@
 | IP | `196.251.121.142` |
 | Country | Ukraine (UA) |
 | ASN | AS403005 · Blatant Technologies, LLC |
-| Activity | Known botnet / C2 infrastructure (71) |
-| Events | 72 |
+| Activity | Known botnet / C2 infrastructure (72) |
+| Events | 73 |
 | First seen (UTC) | 2026-11-23T05:12:31Z |
-| Last seen (UTC) | 2026-11-26T09:15:17Z |
+| Last seen (UTC) | 2026-11-26T09:49:01Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

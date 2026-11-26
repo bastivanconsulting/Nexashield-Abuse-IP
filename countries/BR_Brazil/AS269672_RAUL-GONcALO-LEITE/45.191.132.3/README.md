@@ -7,10 +7,10 @@
 | IP | `45.191.132.3` |
 | Country | Brazil (BR) |
 | ASN | AS269672 · RAUL GONcALO LEITE |
-| Activity | SSH brute force (1), Known botnet / C2 infrastructure (1) |
-| Events | 1 |
-| First seen (UTC) | 2026-11-26T09:30:53Z |
-| Last seen (UTC) | 2026-11-26T09:30:53Z |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (1) |
+| Events | 8 |
+| First seen (UTC) | 2026-11-26T09:30:51Z |
+| Last seen (UTC) | 2026-11-26T09:32:06Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

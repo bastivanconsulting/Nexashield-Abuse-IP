@@ -1,9 +1,10 @@
 # AS132199 · Globe Telecom Inc.
 
-🇵🇭 Philippines · **1** malicious IP(s)
+🇵🇭 Philippines · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`120.28.215.36`](120.28.215.36/) | Exploitation attempt (CVE / RCE / injection) (4), Abusive HTTP requests (2) | 6 | 2026-11-26T09:48:33Z |
 | [`180.191.16.24`](180.191.16.24/) | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) | 3 | 2026-11-22T03:49:53Z |
 
 ---

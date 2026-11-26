@@ -7,10 +7,10 @@
 | IP | `1.189.41.213` |
 | Country | China (CN) |
 | ASN | AS4837 · CHINA UNICOM China169 Backbone |
-| Activity | Port scanning (20) |
-| Events | 32 |
+| Activity | Port scanning (21) |
+| Events | 34 |
 | First seen (UTC) | 2026-11-21T01:59:47Z |
-| Last seen (UTC) | 2026-11-26T01:22:35Z |
+| Last seen (UTC) | 2026-11-26T09:52:29Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

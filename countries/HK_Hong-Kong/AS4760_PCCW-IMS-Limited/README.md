@@ -1,6 +1,6 @@
 # AS4760 · PCCW IMS Limited
 
-🇭🇰 Hong Kong · **12** malicious IP(s)
+🇭🇰 Hong Kong · **13** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
@@ -14,6 +14,7 @@
 | [`119.237.102.129`](119.237.102.129/) | SSH brute force (152), Port scanning (7) | 159 | 2026-11-15T23:57:35Z |
 | [`119.237.243.163`](119.237.243.163/) | SSH brute force (6), Known botnet / C2 infrastructure (5), Port scanning (2) | 14 | 2026-11-25T08:45:33Z |
 | [`219.73.79.33`](219.73.79.33/) | Known botnet / C2 infrastructure (6), SSH brute force (5), Port scanning (3) | 15 | 2026-11-25T19:27:38Z |
+| [`219.77.169.219`](219.77.169.219/) | SSH brute force (34) | 34 | 2026-11-26T09:01:38Z |
 | [`220.246.40.63`](220.246.40.63/) | SSH brute force (6), Known botnet / C2 infrastructure (3) | 10 | 2026-11-22T15:57:05Z |
 | [`223.197.153.135`](223.197.153.135/) | Known botnet / C2 infrastructure (6), Port scanning (5), SSH brute force (2) | 14 | 2026-11-25T12:15:00Z |
 

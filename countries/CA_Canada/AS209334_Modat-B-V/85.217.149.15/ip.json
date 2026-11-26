@@ -1,0 +1,15 @@
+{
+  "ip": "85.217.149.15",
+  "country_code": "CA",
+  "country": "Canada",
+  "asn": 209334,
+  "asn_org": "Modat B.V.",
+  "categories": {
+    "scan": 9,
+    "c2": 2
+  },
+  "events": 11,
+  "first_seen": "2026-11-21T09:34:47Z",
+  "last_seen": "2026-11-26T08:00:32Z",
+  "reported": "not reported (permanent ban)"
+}

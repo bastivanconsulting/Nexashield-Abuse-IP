@@ -4,7 +4,7 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS11014](AS11014_CPS/) | CPS | 1 | Port scanning (21), Known botnet / C2 infrastructure (16) |
+| [AS11014](AS11014_CPS/) | CPS | 1 | Port scanning (22), Known botnet / C2 infrastructure (17) |
 | [AS11664](AS11664_Techtel-LMDS-Comunicaciones-Interactivas-S-A/) | Techtel LMDS Comunicaciones Interactivas S.A. | 1 | Port scanning (18) |
 | [AS20207](AS20207_Gigared-S-A/) | Gigared S.A. | 1 | Port scanning (11), Known botnet / C2 infrastructure (7), SSH brute force (2) |
 | [AS262192](AS262192_Skycorp-S-A/) | Skycorp S.A. | 1 | Exploitation attempt (CVE / RCE / injection) (2) |
