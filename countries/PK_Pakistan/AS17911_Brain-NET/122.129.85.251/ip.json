@@ -1,0 +1,14 @@
+{
+  "ip": "122.129.85.251",
+  "country_code": "PK",
+  "country": "Pakistan",
+  "asn": 17911,
+  "asn_org": "Brain NET",
+  "categories": {
+    "scan": 52
+  },
+  "events": 52,
+  "first_seen": "2026-11-24T21:53:43Z",
+  "last_seen": "2026-11-26T00:21:22Z",
+  "reported": "not reported (permanent ban)"
+}

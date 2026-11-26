@@ -7,10 +7,10 @@
 | IP | `24.43.144.225` |
 | Country | United States (US) |
 | ASN | AS20001 · Charter Communications Inc |
-| Activity | Known botnet / C2 infrastructure (7), Port scanning (6), SSH brute force (3) |
-| Events | 17 |
+| Activity | Known botnet / C2 infrastructure (8), Port scanning (7), SSH brute force (3) |
+| Events | 19 |
 | First seen (UTC) | 2026-11-11T12:38:50Z |
-| Last seen (UTC) | 2026-11-24T13:50:02Z |
+| Last seen (UTC) | 2026-11-26T00:37:31Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

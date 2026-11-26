@@ -4,10 +4,10 @@
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
-| [`95.214.53.157`](95.214.53.157/) | Port scanning (822) | 975 | 2026-11-26T00:01:01Z |
+| [`95.214.53.157`](95.214.53.157/) | Port scanning (825) | 979 | 2026-11-26T01:12:19Z |
 | [`185.16.39.223`](185.16.39.223/) | Abusive HTTP requests (15) | 15 | 2026-11-25T20:56:37Z |
 | [`195.3.220.7`](195.3.220.7/) | SSH brute force (27), Port scanning (3) | 30 | 2026-11-22T01:06:56Z |
-| [`195.3.223.177`](195.3.223.177/) | Port scanning (53) | 73 | 2026-11-25T17:36:41Z |
+| [`195.3.223.177`](195.3.223.177/) | Port scanning (54) | 75 | 2026-11-26T00:25:49Z |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

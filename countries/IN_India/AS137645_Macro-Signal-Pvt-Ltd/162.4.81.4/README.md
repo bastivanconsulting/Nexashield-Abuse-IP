@@ -7,10 +7,10 @@
 | IP | `162.4.81.4` |
 | Country | India (IN) |
 | ASN | AS137645 · Macro Signal Pvt Ltd |
-| Activity | SSH brute force (3), Known botnet / C2 infrastructure (2) |
-| Events | 5 |
+| Activity | SSH brute force (4), Known botnet / C2 infrastructure (3) |
+| Events | 8 |
 | First seen (UTC) | 2026-11-13T02:43:36Z |
-| Last seen (UTC) | 2026-11-21T02:29:01Z |
+| Last seen (UTC) | 2026-11-26T00:22:07Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

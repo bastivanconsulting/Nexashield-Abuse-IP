@@ -4,15 +4,15 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 11 | SSH brute force (63), Known botnet / C2 infrastructure (48), Port scanning (25) |
+| [AS25159](AS25159_PJSC-MegaFon/) | PJSC MegaFon | 11 | SSH brute force (63), Known botnet / C2 infrastructure (49), Port scanning (26) |
 | [AS211860](AS211860_Nerushenko-Vyacheslav-Nikolaevich/) | Nerushenko Vyacheslav Nikolaevich | 6 | Port scanning (190), Known botnet / C2 infrastructure (37) |
 | [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 4 | Port scanning (32), Known botnet / C2 infrastructure (24) |
-| [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 4 | SSH brute force (29), Known botnet / C2 infrastructure (12), Port scanning (10) |
+| [AS42610](AS42610_PJSC-Rostelecom/) | PJSC Rostelecom | 4 | SSH brute force (29), Known botnet / C2 infrastructure (13), Port scanning (11) |
 | [AS12389](AS12389_PJSC-Rostelecom/) | PJSC Rostelecom | 3 | Port scanning (69), Known botnet / C2 infrastructure (18), SSH brute force (6) |
 | [AS198953](AS198953_Proton66-OOO/) | Proton66 OOO | 3 | Port scanning (130), Abusive HTTP requests (4), Known botnet / C2 infrastructure (3) |
 | [AS25490](AS25490_PJSC-Rostelecom/) | PJSC Rostelecom | 2 | SSH brute force (8), Known botnet / C2 infrastructure (7), Port scanning (5) |
 | [AS3216](AS3216_PJSC-Vimpelcom/) | PJSC "Vimpelcom" | 2 | SSH brute force (9), Port scanning (6), Known botnet / C2 infrastructure (2) |
-| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (744), Known botnet / C2 infrastructure (56), Abusive HTTP requests (2) |
+| [AS34665](AS34665_Petersburg-Internet-Network-ltd/) | Petersburg Internet Network ltd. | 2 | Port scanning (746), Known botnet / C2 infrastructure (57), Abusive HTTP requests (2) |
 | [AS57044](AS57044_JSC-ER-Telecom-Holding/) | JSC "ER-Telecom Holding" | 2 | Port scanning (84), Known botnet / C2 infrastructure (47) |
 | [AS57128](AS57128_JSC-Ufanet/) | JSC "Ufanet" | 2 | Port scanning (19), Known botnet / C2 infrastructure (10) |
 | [AS12668](AS12668_LLC-KomTehCentr/) | LLC "KomTehCentr" | 1 | Exploitation attempt (CVE / RCE / injection) (2), Abusive HTTP requests (1) |

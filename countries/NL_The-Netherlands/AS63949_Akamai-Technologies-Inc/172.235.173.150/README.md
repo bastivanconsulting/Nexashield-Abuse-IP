@@ -7,10 +7,10 @@
 | IP | `172.235.173.150` |
 | Country | The Netherlands (NL) |
 | ASN | AS63949 · Akamai Technologies, Inc. |
-| Activity | Port scanning (6), Known botnet / C2 infrastructure (2) |
-| Events | 10 |
+| Activity | Port scanning (15), Known botnet / C2 infrastructure (3) |
+| Events | 21 |
 | First seen (UTC) | 2026-11-15T01:03:19Z |
-| Last seen (UTC) | 2026-11-21T19:15:42Z |
+| Last seen (UTC) | 2026-11-26T00:31:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

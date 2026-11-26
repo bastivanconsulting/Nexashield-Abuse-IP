@@ -7,10 +7,10 @@
 | IP | `103.255.109.151` |
 | Country | Indonesia (ID) |
 | ASN | AS150191 · PT Sarana Intimedia Telematika |
-| Activity | SSH brute force (54) |
-| Events | 54 |
+| Activity | SSH brute force (80) |
+| Events | 80 |
 | First seen (UTC) | 2026-11-26T00:08:36Z |
-| Last seen (UTC) | 2026-11-26T00:29:47Z |
+| Last seen (UTC) | 2026-11-26T00:47:11Z |
 | Reported to network owner (UTC) | 2026-11-26T00:27:41Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

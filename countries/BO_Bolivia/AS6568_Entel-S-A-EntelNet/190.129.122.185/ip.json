@@ -1,0 +1,16 @@
+{
+  "ip": "190.129.122.185",
+  "country_code": "BO",
+  "country": "Bolivia",
+  "asn": 6568,
+  "asn_org": "Entel S.A. - EntelNet",
+  "categories": {
+    "scan": 1,
+    "c2": 1,
+    "ssh": 1
+  },
+  "events": 2,
+  "first_seen": "2026-11-12T06:02:22Z",
+  "last_seen": "2026-11-12T06:02:32Z",
+  "reported": "not reported (permanent ban)"
+}
