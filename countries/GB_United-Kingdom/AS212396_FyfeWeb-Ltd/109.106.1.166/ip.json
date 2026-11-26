@@ -1,0 +1,14 @@
+{
+  "ip": "109.106.1.166",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "asn": 212396,
+  "asn_org": "FyfeWeb Ltd",
+  "categories": {
+    "scan": 18
+  },
+  "events": 21,
+  "first_seen": "2026-11-23T11:42:48Z",
+  "last_seen": "2026-11-25T09:42:30Z",
+  "reported": "not reported (permanent ban)"
+}

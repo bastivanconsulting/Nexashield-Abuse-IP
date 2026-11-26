@@ -7,10 +7,10 @@
 | IP | `167.94.146.40` |
 | Country | Germany (DE) |
 | ASN | AS398705 · Censys, Inc. |
-| Activity | Port scanning (295), Known botnet / C2 infrastructure (45) |
-| Events | 345 |
+| Activity | Port scanning (296), Known botnet / C2 infrastructure (46) |
+| Events | 347 |
 | First seen (UTC) | 2026-11-13T03:45:03Z |
-| Last seen (UTC) | 2026-11-26T14:20:48Z |
+| Last seen (UTC) | 2026-11-26T16:12:12Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

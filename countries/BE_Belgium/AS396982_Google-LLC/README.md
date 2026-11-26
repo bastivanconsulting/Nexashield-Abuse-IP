@@ -35,7 +35,7 @@
 | [`34.78.21.41`](34.78.21.41/) | Abusive HTTP requests (360) | 360 | 2026-11-26T12:06:37Z |
 | [`34.78.174.47`](34.78.174.47/) | Abusive HTTP requests (127) | 127 | 2026-11-17T17:14:47Z |
 | [`34.79.37.102`](34.79.37.102/) | Abusive HTTP requests (108) | 108 | 2026-11-14T13:34:13Z |
-| [`34.79.46.222`](34.79.46.222/) | Abusive HTTP requests (321) | 321 | 2026-11-24T07:06:36Z |
+| [`34.79.46.222`](34.79.46.222/) | Abusive HTTP requests (597) | 597 | 2026-11-26T16:01:40Z |
 | [`34.79.189.227`](34.79.189.227/) | Abusive HTTP requests (137) | 137 | 2026-11-18T23:56:43Z |
 | [`34.140.69.197`](34.140.69.197/) | Abusive HTTP requests (49) | 49 | 2026-11-11T09:47:12Z |
 | [`34.140.104.115`](34.140.104.115/) | Known botnet / C2 infrastructure (3), Port scanning (1), Abusive HTTP requests (1) | 12 | 2026-11-26T10:12:05Z |
@@ -56,9 +56,9 @@
 | [`35.195.245.38`](35.195.245.38/) | Abusive HTTP requests (79) | 79 | 2026-11-11T10:14:50Z |
 | [`35.205.11.131`](35.205.11.131/) | Abusive HTTP requests (143), Web injection payload blocked by WAF (22) | 165 | 2026-11-18T12:44:28Z |
 | [`35.205.160.102`](35.205.160.102/) | Abusive HTTP requests (185) | 185 | 2026-11-24T13:30:08Z |
-| [`35.233.37.230`](35.233.37.230/) | Abusive HTTP requests (134) | 134 | 2026-11-20T00:14:51Z |
+| [`35.233.37.230`](35.233.37.230/) | Abusive HTTP requests (364) | 364 | 2026-11-26T16:02:32Z |
 | [`35.233.44.84`](35.233.44.84/) | Abusive HTTP requests (162) | 162 | 2026-11-19T06:07:25Z |
-| [`104.155.66.115`](104.155.66.115/) | Port scanning (94), Known botnet / C2 infrastructure (21), Abusive HTTP requests (7) | 128 | 2026-11-26T11:50:35Z |
+| [`104.155.66.115`](104.155.66.115/) | Port scanning (95), Known botnet / C2 infrastructure (21), Abusive HTTP requests (7) | 129 | 2026-11-26T15:22:03Z |
 | [`104.199.26.126`](104.199.26.126/) | Port scanning (6), Known botnet / C2 infrastructure (3), Abusive HTTP requests (1) | 14 | 2026-11-22T04:46:08Z |
 | [`130.211.87.56`](130.211.87.56/) | Abusive HTTP requests (133) | 133 | 2026-11-18T01:38:52Z |
 | [`207.175.61.160`](207.175.61.160/) | Abusive HTTP requests (175) | 175 | 2026-11-20T07:02:22Z |

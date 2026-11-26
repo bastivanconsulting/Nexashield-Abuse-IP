@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (90), Known botnet / C2 infrastructure (34) |
-| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 3 | Port scanning (279), SSH brute force (9), Known botnet / C2 infrastructure (7) |
-| [AS135905](AS135905_VIETNAM-POSTS-AND-TELECOMMUNICATIONS-GROUP/) | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 2 | Port scanning (118), SSH brute force (6), Known botnet / C2 infrastructure (2) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 6 | Port scanning (91), Known botnet / C2 infrastructure (35) |
+| [AS38731](AS38731_Vietel-CHT-Compamy-Ltd/) | Vietel - CHT Compamy Ltd | 3 | Port scanning (281), SSH brute force (9), Known botnet / C2 infrastructure (7) |
+| [AS135905](AS135905_VIETNAM-POSTS-AND-TELECOMMUNICATIONS-GROUP/) | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 2 | Port scanning (121), SSH brute force (6), Known botnet / C2 infrastructure (3) |
 | [AS7552](AS7552_Viettel-Group/) | Viettel Group | 2 | Known botnet / C2 infrastructure (7), Port scanning (7), SSH brute force (4) |
 | [AS135918](AS135918_VIET-DIGITAL-TECHNOLOGY-LIABILITY-COMPANY/) | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 1 | Port scanning (192) |
 | [AS135953](AS135953_Vietnam-Online-Network-Solution-Joint-Stock-Comp/) | Vietnam Online Network Solution Joint Stock Compnay | 1 | Port scanning (60), Known botnet / C2 infrastructure (9), Abusive HTTP requests (1) |

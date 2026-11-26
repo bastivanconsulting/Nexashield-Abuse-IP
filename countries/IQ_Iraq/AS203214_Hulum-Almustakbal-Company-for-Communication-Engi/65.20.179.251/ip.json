@@ -1,0 +1,15 @@
+{
+  "ip": "65.20.179.251",
+  "country_code": "IQ",
+  "country": "Iraq",
+  "asn": 203214,
+  "asn_org": "Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+  "categories": {
+    "ssh": 6,
+    "c2": 3
+  },
+  "events": 10,
+  "first_seen": "2026-11-25T05:43:33Z",
+  "last_seen": "2026-11-26T15:57:05Z",
+  "reported": "not reported (permanent ban)"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "192.255.143.68",
+  "country_code": "US",
+  "country": "United States",
+  "asn": 36352,
+  "asn_org": "HostPapa",
+  "categories": {
+    "ssh": 10,
+    "scan": 4
+  },
+  "events": 14,
+  "first_seen": "2026-11-26T14:51:56Z",
+  "last_seen": "2026-11-26T14:52:08Z",
+  "reported": "2026-11-26T16:29:00Z"
+}

@@ -1,0 +1,15 @@
+{
+  "ip": "149.54.40.94",
+  "country_code": "AF",
+  "country": "Afghanistan",
+  "asn": 55330,
+  "asn_org": "Government Communications Network",
+  "categories": {
+    "ssh": 4,
+    "c2": 2
+  },
+  "events": 6,
+  "first_seen": "2026-11-21T20:29:51Z",
+  "last_seen": "2026-11-24T14:02:43Z",
+  "reported": "not reported (permanent ban)"
+}

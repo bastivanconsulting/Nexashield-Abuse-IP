@@ -1,10 +1,10 @@
 # 🇪🇹 Ethiopia
 
-**9** malicious IP(s) across **1** network(s).
+**10** malicious IP(s) across **1** network(s).
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS24757](AS24757_EthioNet/) | EthioNet | 9 | Port scanning (86), Known botnet / C2 infrastructure (61), SSH brute force (36), Web injection payload blocked by WAF (2) |
+| [AS24757](AS24757_EthioNet/) | EthioNet | 10 | Port scanning (86), Known botnet / C2 infrastructure (62), SSH brute force (44), Web injection payload blocked by WAF (2) |
 
 ---
 <sub>Detected by **NexaShield** EDR · XDR · NDR · MDR, operated by [Bastivan Consulting](https://bastivan.com). IP geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).</sub>

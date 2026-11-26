@@ -1,0 +1,15 @@
+{
+  "ip": "38.22.170.10",
+  "country_code": "MX",
+  "country": "Mexico",
+  "asn": 270133,
+  "asn_org": "Fiberwifi SA de CV",
+  "categories": {
+    "ssh": 14,
+    "scan": 1
+  },
+  "events": 15,
+  "first_seen": "2026-11-24T18:54:30Z",
+  "last_seen": "2026-11-26T15:39:10Z",
+  "reported": "2026-11-26T16:28:51Z"
+}

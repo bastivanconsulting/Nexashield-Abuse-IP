@@ -1,0 +1,14 @@
+{
+  "ip": "85.24.223.224",
+  "country_code": "SE",
+  "country": "Sweden",
+  "asn": 8473,
+  "asn_org": "Bahnhof AB",
+  "categories": {
+    "ssh": 10
+  },
+  "events": 10,
+  "first_seen": "2026-11-26T15:49:59Z",
+  "last_seen": "2026-11-26T15:50:05Z",
+  "reported": "2026-11-26T16:29:09Z"
+}

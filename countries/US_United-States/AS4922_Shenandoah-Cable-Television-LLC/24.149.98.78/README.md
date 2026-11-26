@@ -7,10 +7,10 @@
 | IP | `24.149.98.78` |
 | Country | United States (US) |
 | ASN | AS4922 · Shenandoah Cable Television LLC |
-| Activity | SSH brute force (4), Known botnet / C2 infrastructure (2) |
-| Events | 6 |
+| Activity | SSH brute force (6), Known botnet / C2 infrastructure (3) |
+| Events | 10 |
 | First seen (UTC) | 2026-11-20T08:18:21Z |
-| Last seen (UTC) | 2026-11-21T16:46:54Z |
+| Last seen (UTC) | 2026-11-26T15:22:05Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

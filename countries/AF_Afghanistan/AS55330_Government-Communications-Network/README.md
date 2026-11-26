@@ -1,9 +1,10 @@
 # AS55330 · Government Communications Network
 
-🇦🇫 Afghanistan · **1** malicious IP(s)
+🇦🇫 Afghanistan · **2** malicious IP(s)
 
 | IP | Activity | Events | Last seen (UTC) |
 |---|---|---:|---|
+| [`149.54.40.94`](149.54.40.94/) | SSH brute force (4), Known botnet / C2 infrastructure (2) | 6 | 2026-11-24T14:02:43Z |
 | [`149.54.40.182`](149.54.40.182/) | SSH brute force (7), Known botnet / C2 infrastructure (3) | 11 | 2026-11-26T08:37:05Z |
 
 ---

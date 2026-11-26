@@ -4,9 +4,9 @@
 
 | ASN | Owner | IPs | Activity |
 |---|---|---:|---|
-| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 85 | Port scanning (2670), Known botnet / C2 infrastructure (1068), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
+| [AS135377](AS135377_UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED/) | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 85 | Port scanning (2681), Known botnet / C2 infrastructure (1073), Exploitation attempt (CVE / RCE / injection) (1), Abusive HTTP requests (1) |
 | [AS215778](AS215778_Alpha-Strike-Labs-GmbH/) | Alpha Strike Labs GmbH | 79 | Port scanning (232) |
-| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 31 | Port scanning (5960), Abusive HTTP requests (2055), Spamhaus DROP-listed network (311), Known botnet / C2 infrastructure (70), Web injection payload blocked by WAF (5), Exploitation attempt (CVE / RCE / injection) (1) |
+| [AS218785](AS218785_TC-DATACENTER-LIMITED/) | TC DATACENTER LIMITED | 31 | Port scanning (5987), Abusive HTTP requests (2055), Spamhaus DROP-listed network (311), Known botnet / C2 infrastructure (70), Web injection payload blocked by WAF (5), Exploitation attempt (CVE / RCE / injection) (1) |
 | [AS4760](AS4760_PCCW-IMS-Limited/) | PCCW IMS Limited | 13 | SSH brute force (217), Known botnet / C2 infrastructure (37), Port scanning (30), Exploitation attempt (CVE / RCE / injection) (4) |
 | [AS9465](AS9465_AGOTOZ-PTE-LTD/) | AGOTOZ PTE. LTD. | 7 | Port scanning (1474), Known botnet / C2 infrastructure (108) |
 | [AS132203](AS132203_Shenzhen-Tencent-Computer-Systems-Company-Limite/) | Shenzhen Tencent Computer Systems Company Limited | 6 | Abusive HTTP requests (645), Web injection payload blocked by WAF (26), SSH brute force (16), Known botnet / C2 infrastructure (6) |
@@ -15,10 +15,10 @@
 | [AS35042](AS35042_Layer7-Networks-GmbH/) | Layer7 Networks GmbH | 2 | Port scanning (47), Known botnet / C2 infrastructure (5) |
 | [AS138995](AS138995_Antbox-Networks-Limited/) | Antbox Networks Limited | 1 | Port scanning (11), Known botnet / C2 infrastructure (3) |
 | [AS17924](AS17924_Smartone-Mobile-communications-Limited/) | Smartone Mobile communications Limited | 1 | SSH brute force (6), Known botnet / C2 infrastructure (3) |
-| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (1197), Abusive HTTP requests (50), Known botnet / C2 infrastructure (25) |
-| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (319), Known botnet / C2 infrastructure (19), Abusive HTTP requests (6) |
+| [AS206264](AS206264_Amarutu-Technology-Ltd/) | Amarutu Technology Ltd | 1 | Port scanning (1203), Abusive HTTP requests (50), Known botnet / C2 infrastructure (25) |
+| [AS211443](AS211443_SINO-WORLDWIDE-TRADING-LIMITED/) | SINO WORLDWIDE TRADING LIMITED | 1 | Port scanning (322), Known botnet / C2 infrastructure (19), Abusive HTTP requests (6) |
 | [AS21859](AS21859_Zenlayer-Inc/) | Zenlayer Inc | 1 | Port scanning (42) |
-| [AS400619](AS400619_AROSSCLOUD-INC/) | AROSSCLOUD INC. | 1 | Port scanning (14), Known botnet / C2 infrastructure (9) |
+| [AS400619](AS400619_AROSSCLOUD-INC/) | AROSSCLOUD INC. | 1 | Port scanning (15), Known botnet / C2 infrastructure (10) |
 | [AS401696](AS401696_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (17), Known botnet / C2 infrastructure (2) |
 | [AS401701](AS401701_cognetcloud-INC/) | cognetcloud INC | 1 | Port scanning (46), Known botnet / C2 infrastructure (6) |
 | [AS4515](AS4515_PCCW-IMS-Ltd-PCCW-Business-Internet-Access/) | PCCW IMS Ltd (PCCW Business Internet Access) | 1 | Known botnet / C2 infrastructure (7), SSH brute force (5), Port scanning (5) |

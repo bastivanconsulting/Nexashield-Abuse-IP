@@ -7,10 +7,10 @@
 | IP | `35.233.37.230` |
 | Country | Belgium (BE) |
 | ASN | AS396982 · Google LLC |
-| Activity | Abusive HTTP requests (134) |
-| Events | 134 |
+| Activity | Abusive HTTP requests (364) |
+| Events | 364 |
 | First seen (UTC) | 2026-11-20T00:14:46Z |
-| Last seen (UTC) | 2026-11-20T00:14:51Z |
+| Last seen (UTC) | 2026-11-26T16:02:32Z |
 | Reported to network owner (UTC) | 2026-11-20T00:26:16Z |
 
 The abuse contact of the network owner was notified with redacted evidence.

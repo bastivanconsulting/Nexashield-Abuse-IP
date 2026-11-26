@@ -7,10 +7,10 @@
 | IP | `103.153.183.245` |
 | Country | United States (US) |
 | ASN | AS140947 · SnTHostings |
-| Activity | Port scanning (52), Known botnet / C2 infrastructure (4) |
-| Events | 57 |
+| Activity | Port scanning (53), Known botnet / C2 infrastructure (4) |
+| Events | 58 |
 | First seen (UTC) | 2026-11-23T16:39:30Z |
-| Last seen (UTC) | 2026-11-26T14:31:57Z |
+| Last seen (UTC) | 2026-11-26T16:15:14Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.

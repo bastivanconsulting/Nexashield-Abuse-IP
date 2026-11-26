@@ -5,11 +5,11 @@
   "asn": 135905,
   "asn_org": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
   "categories": {
-    "scan": 118,
-    "c2": 1
+    "scan": 121,
+    "c2": 2
   },
-  "events": 139,
+  "events": 144,
   "first_seen": "2026-11-14T03:42:36Z",
-  "last_seen": "2026-11-26T14:43:56Z",
+  "last_seen": "2026-11-26T15:58:03Z",
   "reported": "not reported (permanent ban)"
 }

@@ -1,0 +1,14 @@
+{
+  "ip": "150.129.10.54",
+  "country_code": "NL",
+  "country": "The Netherlands",
+  "asn": 60404,
+  "asn_org": "The Infrastructure Group B.V.",
+  "categories": {
+    "scan": 40
+  },
+  "events": 43,
+  "first_seen": "2026-11-26T03:42:41Z",
+  "last_seen": "2026-11-26T15:22:42Z",
+  "reported": "not reported (permanent ban)"
+}

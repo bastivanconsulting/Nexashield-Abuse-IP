@@ -5,11 +5,11 @@
   "asn": 701,
   "asn_org": "Verizon Business",
   "categories": {
-    "ssh": 3,
-    "c2": 2
+    "ssh": 5,
+    "c2": 3
   },
-  "events": 5,
+  "events": 9,
   "first_seen": "2026-11-17T16:53:10Z",
-  "last_seen": "2026-11-18T20:56:35Z",
+  "last_seen": "2026-11-26T15:36:05Z",
   "reported": "not reported (permanent ban)"
 }

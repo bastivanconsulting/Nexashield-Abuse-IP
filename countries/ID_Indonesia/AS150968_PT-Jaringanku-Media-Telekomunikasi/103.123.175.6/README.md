@@ -7,10 +7,10 @@
 | IP | `103.123.175.6` |
 | Country | Indonesia (ID) |
 | ASN | AS150968 · PT Jaringanku Media Telekomunikasi |
-| Activity | Port scanning (41) |
-| Events | 65 |
+| Activity | Port scanning (42) |
+| Events | 66 |
 | First seen (UTC) | 2026-11-11T13:37:05Z |
-| Last seen (UTC) | 2026-11-26T12:29:19Z |
+| Last seen (UTC) | 2026-11-26T16:10:25Z |
 | Reported to network owner (UTC) | not reported (permanent ban) |
 
 The abuse contact of the network owner was notified with redacted evidence.
